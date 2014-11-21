@@ -14,8 +14,11 @@ msgid "Advanced colors"
 msgstr "Dathan adhartach"
 
 #: activities/advanced_colors/ActivityInfo.qml:10
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Click on the correct color"
 msgctxt "ActivityInfo|"
-msgid "Click on the correct color"
+msgid "Select the butterfly of the correct color"
 msgstr "Briog air an dath cheart"
 
 #: activities/advanced_colors/ActivityInfo.qml:12
@@ -30,113 +33,95 @@ msgstr "Tha leughadh agad"
 
 #: activities/advanced_colors/ActivityInfo.qml:14
 msgctxt "ActivityInfo|"
-msgid "Click on the correct colored butterfly."
-msgstr "Briog air an dealan-dè dathte cheart."
+msgid ""
+"You will see dancing butterflies of different colors and a question. You "
+"have to find the correct butterfly and touch it."
+msgstr ""
 
 #: activities/algebra_by/ActivityInfo.qml:9
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Multiplication table"
+msgctxt "ActivityInfo|"
+msgid "Multiplication of numbers"
+msgstr "Clàr iomadachaidh"
+
+#: activities/algebra_by/ActivityInfo.qml:10
 msgctxt "ActivityInfo|"
 msgid "Practice the multiplication operation"
 msgstr "Cleachd iomadachadh"
 
-#: activities/algebra_by/ActivityInfo.qml:10
-#: activities/algebra_minus/ActivityInfo.qml:10
-#: activities/algebra_plus/ActivityInfo.qml:10
-msgctxt "ActivityInfo|"
-msgid "Answer some algebra questions"
-msgstr "Freagair ceistean ailseabra"
-
 #: activities/algebra_by/ActivityInfo.qml:12
 msgctxt "ActivityInfo|"
-msgid "In a limited time, give the product of two numbers"
-msgstr "Iomadaich dà àireamh ann an ùine chuingealaichte"
+msgid "Learn to multiply numbers within a limited period of time"
+msgstr ""
 
 #: activities/algebra_by/ActivityInfo.qml:13
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Multiplication table"
 msgctxt "ActivityInfo|"
-msgid "Multiplication table"
+msgid "Multiplication tables from 1 to 10"
 msgstr "Clàr iomadachaidh"
 
 #: activities/algebra_by/ActivityInfo.qml:14
 msgctxt "ActivityInfo|"
 msgid ""
-"A multiplication of two numbers is displayed. At the right of the equals "
-"sign, give the answer, the product. Use the left and right arrows to modify "
-"your answer and press the Enter key to check if you've got it right. If not, "
-"just try again."
+"Two numbers are displayed on the screen. Quickly multiply them and use your "
+"computer's keyboard or the on-screen keypad to type the product of the "
+"numbers. You have to be fast and submit the answer before the penguins in "
+"their balloon land!"
 msgstr ""
-"Chì thu iomadachadh dà àireimh. Thoir seachad an fhreagairt (an toradh) deas "
-"air an t-samhla cho-ionnanachd. Cleachd na saighdean gus an fhreagairt agad "
-"atharrachadh is brùth air an iuchair Enter gus faighinn a-mach a bheil thu "
-"ceart. Mur eil, cha leig thu leas ach feuchainn a-rithist."
 
 #: activities/algebra_minus/ActivityInfo.qml:9
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Subtraction memory game"
+msgctxt "ActivityInfo|"
+msgid "Subtraction of numbers"
+msgstr "Geama cuimhne toirt air falbh"
+
+#: activities/algebra_minus/ActivityInfo.qml:10
 msgctxt "ActivityInfo|"
 msgid "Practice the subtraction operation"
 msgstr "Cleachd toirt air falbh"
 
 #: activities/algebra_minus/ActivityInfo.qml:12
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "In a limited time, find the difference between two numbers"
 msgctxt "ActivityInfo|"
-msgid "In a limited time, find the difference between two numbers"
+msgid ""
+"Learn to find the difference between two numbers within a limited period of "
+"time"
 msgstr "Lorg an diofar eadar dà àireamh ann an ùine chuingealaichte"
 
 #: activities/algebra_minus/ActivityInfo.qml:13
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Subtraction memory game"
 msgctxt "ActivityInfo|"
-msgid "Simple subtraction"
-msgstr "Toirt air falbh simplidh"
+msgid "Subtraction of small numbers"
+msgstr "Geama cuimhne toirt air falbh"
 
 #: activities/algebra_minus/ActivityInfo.qml:14
 msgctxt "ActivityInfo|"
 msgid ""
-"A subtraction problem with two numbers is displayed. At the right of the "
-"equals sign, give the answer, the difference. Use the left and right arrows "
-"to modify your answer and press the Enter key to check if you've got it "
-"right. If not, just try again."
+"Two numbers are displayed on the screen. Quickly find the difference between "
+"them and use your computer's keyboard or the on-screen keypad to type it. "
+"You have to be fast and submit the answer before the penguins in their "
+"balloon land!"
 msgstr ""
-"Chì thu ceist toirt air falbh le dà àireamh. Thoir seachad an fhreagairt (an "
-"diofar) taobh deas an t-samhla co-ionnanachd. Cleachd na saighdean gus an "
-"fhreagairt agad atharrachadh is brùth air an iuchair Enter gus faighinn a-"
-"mach a bheil thu ceart. Mur eil, cha leig thu leas ach feuchainn a-rithist."
-
-#: activities/algebra_plus/ActivityInfo.qml:9
-msgctxt "ActivityInfo|"
-msgid "Practice the addition operation"
-msgstr "Cleachd cur ri chèile"
-
-#: activities/algebra_plus/ActivityInfo.qml:12
-msgctxt "ActivityInfo|"
-msgid ""
-"In a limited time, find the sum of of two numbers. Introduction to simple in-"
-"line addition."
-msgstr ""
-"Lorg an t-iomlan aig da àireamh ann an ùine chuingealaichte. Toiseach "
-"tòiseachaidh air cur ri chèile simplidh."
-
-#: activities/algebra_plus/ActivityInfo.qml:13
-msgctxt "ActivityInfo|"
-msgid "Simple addition. Can recognize written numbers"
-msgstr "Tha cur ri chèile simplidh agad. Aithnichidh tu àireamhan sgrìobhte."
-
-#: activities/algebra_plus/ActivityInfo.qml:14
-msgctxt "ActivityInfo|"
-msgid ""
-"An addition problem with two numbers is displayed. At the right of the "
-"equals sign, give the answer, the sum. Use the left and right arrows to "
-"modify your answer and press the Enter key to check if you've got it right. "
-"If not, just try again."
-msgstr ""
-"Chì thu ceist cur ri chèile le dà àireamh. Thoir seachad an fhreagairt (an t-"
-"iomlan) taobh deas an t-samhla co-ionnanachd. Cleachd na saighdean gus an "
-"fhreagairt agad atharrachadh is brùth air an iuchair Enter gus faighinn a-"
-"mach a bheil thu ceart. Mur eil, cha leig thu leas ach feuchainn a-rithist."
 
 #: activities/algorithm/ActivityInfo.qml:9
 msgctxt "ActivityInfo|"
-msgid "algorithm"
-msgstr "Algairim"
+msgid "Logical associations"
+msgstr ""
 
 #: activities/algorithm/ActivityInfo.qml:10
 msgctxt "ActivityInfo|"
-msgid "Complete a list of symbols"
-msgstr "Coilean liosta de shamhlaidhean"
+msgid "Complete the arrangement of fruits"
+msgstr ""
 
 #: activities/algorithm/ActivityInfo.qml:12
 msgctxt "ActivityInfo|"
@@ -144,15 +129,12 @@ msgid "Logic training activity"
 msgstr "Cleas trèanadh loidig"
 
 #: activities/algorithm/ActivityInfo.qml:13
-#: activities/hexagon/ActivityInfo.qml:13
 msgctxt "ActivityInfo|"
-msgid "Move and click the mouse"
-msgstr "Gluais is briog leis an luchag"
-
-#: activities/algorithm/ActivityInfo.qml:14
-msgctxt "ActivityInfo|"
-msgid "Find the next symbol in a list."
-msgstr "Lorg an t-ath shamhla air liosta."
+msgid ""
+"Look at the two sequences. Each fruit in the first sequence has been "
+"replaced by another fruit in the second sequence. Complete the second "
+"sequence by using the correct fruits, after studying this pattern."
+msgstr ""
 
 #: activities/align4-2players/ActivityInfo.qml:9
 msgctxt "ActivityInfo|"
@@ -161,53 +143,85 @@ msgstr ""
 
 #: activities/align4-2players/ActivityInfo.qml:10
 #: activities/align4/ActivityInfo.qml:10
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Arrange four coins in a row"
 msgctxt "ActivityInfo|"
-msgid "Arrange four coins in a row"
+msgid "Arrange four tokens in a row"
 msgstr "Cuir ceithir buinn ann an sreath"
 
 #: activities/align4-2players/ActivityInfo.qml:12
 #: activities/align4/ActivityInfo.qml:12
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Create a line of 4 pieces either horizontally (lying down), vertically "
+#| "(standing up) or diagonally."
 msgctxt "ActivityInfo|"
 msgid ""
-"Create a line of 4 pieces either horizontally (lying down), vertically "
+"Create a line of 4 tokens either horizontally (lying down), vertically "
 "(standing up) or diagonally."
 msgstr ""
 "Cruthaich loidhne de 4 buinn air a’ chòmhnard (nan laighe) no gu h-"
 "inghearach (nan seasamh) no air an trastan."
 
 #: activities/align4-2players/ActivityInfo.qml:13
-#: activities/align4/ActivityInfo.qml:13
-#: activities/clickgame/ActivityInfo.qml:13
-#: activities/erase/ActivityInfo.qml:13
-#: activities/erase_2clic/ActivityInfo.qml:13
-#: activities/erase_clic/ActivityInfo.qml:13
-#: activities/fifteen/ActivityInfo.qml:13
-#: activities/football/ActivityInfo.qml:13
-#: activities/memory-enumerate/ActivityInfo.qml:13
-#: activities/memory-tux/ActivityInfo.qml:13
-#: activities/memory/ActivityInfo.qml:13
-msgctxt "ActivityInfo|"
-msgid "Mouse-manipulation"
-msgstr "Cleachdadh na luchaige"
-
-#: activities/align4-2players/ActivityInfo.qml:14
-#: activities/align4/ActivityInfo.qml:14
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Click the position in the line where you want to drop a piece. You can "
+#| "also use the arrow keys to move the piece left or right, and the down or "
+#| "space key to drop a piece."
 msgctxt "ActivityInfo|"
 msgid ""
-"Click the position in the line where you want to drop a piece. You can also "
-"use the arrow keys to move the piece left or right, and the down or space "
-"key to drop a piece."
+"Play with a friend. Take turns to click the line in which you want to drop a "
+"token. You can also use the arrow keys to move the token left or right, and "
+"the down or space key to drop a token. First player to create a line of 4 "
+"tokens wins"
 msgstr ""
 "Briog air an ionad air an loidhne far a bheil thu airson bonn a leigeil. ’S "
 "urrainn dhut na saighdean a chleachdadh cuideachd gus am bonn a ghluasad gu "
 "clì no deas is an iuchair sìos no an spacebar gus bonn a leagail."
+
+#: activities/align4-2players/ActivityInfo.qml:14
+#, fuzzy
+#| msgid ""
+msgctxt "ActivityInfo|"
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
+"(n > 2 && n < 20) ? 2 : 3;\n"
+"X-Language: gd\n"
+"X-Qt-Contexts: true\n"
 
 #: activities/align4/ActivityInfo.qml:9
 msgctxt "ActivityInfo|"
 msgid "align4 activity"
 msgstr ""
 
+#: activities/align4/ActivityInfo.qml:13
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Click the position in the line where you want to drop a piece. You can "
+#| "also use the arrow keys to move the piece left or right, and the down or "
+#| "space key to drop a piece."
+msgctxt "ActivityInfo|"
+msgid ""
+"Play with the computer. Take turns to click the line in which you want to "
+"drop a token. You can also use the arrow keys to move the token left or "
+"right, and the down or space key to drop a token. First player to create a "
+"line of 4 tokens wins"
+msgstr ""
+"Briog air an ionad air an loidhne far a bheil thu airson bonn a leigeil. ’S "
+"urrainn dhut na saighdean a chleachdadh cuideachd gus am bonn a ghluasad gu "
+"clì no deas is an iuchair sìos no an spacebar gus bonn a leagail."
+
 #: activities/alphabet-sequence/ActivityInfo.qml:28
+#: activities/alphabet-sequence/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid "Alphabet sequence"
 msgstr ""
@@ -218,11 +232,6 @@ msgid ""
 "Move the helicopter to catch the clouds following the order of the alphabet"
 msgstr ""
 
-#: activities/alphabet-sequence/ActivityInfo.qml:31
-msgctxt "ActivityInfo|"
-msgid "Alphabet training"
-msgstr ""
-
 #: activities/alphabet-sequence/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
 msgid "Can decode letters"
@@ -231,8 +240,10 @@ msgstr ""
 #: activities/alphabet-sequence/ActivityInfo.qml:33
 msgctxt "ActivityInfo|"
 msgid ""
-"Catch the alphabet letters, using the up, down, right and left arrows on the "
-"keyboard to move the helicopter."
+"Catch the alphabet letters. With a keyboard use the arrow keys to move the "
+"helicopter. On a touch screen place a finger on the screen and quickly swipe "
+"it in the desired direction. To know which letter you have to catch you can "
+"either remember it or check the bottom right corner."
 msgstr ""
 
 #: activities/alphabet-sequence/AlphabetSequence.qml:28
@@ -248,11 +259,30 @@ msgid "Make the ball go to Tux"
 msgstr "Thoir air a’ bhàla dol far a bheil Tux"
 
 #: activities/ballcatch/ActivityInfo.qml:29
-#: activities/ballcatch/ActivityInfo.qml:33
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Press the two shift keys at the same time, to make the ball go in a "
+#| "straight line."
 msgctxt "ActivityInfo|"
 msgid ""
-"Press the two shift keys at the same time, to make the ball go in a straight "
-"line."
+"Press the left and right arrow keys at the same time, to make the ball go in "
+"a straight line."
+msgstr ""
+"Brùth air an dà iuchair Shift aig an aon àm gus an tèid am bàla ann an "
+"loidhne dhìrich."
+
+#: activities/ballcatch/ActivityInfo.qml:33
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Press the two shift keys at the same time, to make the ball go in a "
+#| "straight line."
+msgctxt "ActivityInfo|"
+msgid ""
+"Press the left and right arrow at the same time, to make the ball go in a "
+"straight line. On a touch screen you have to hit the two hands at the same "
+"time."
 msgstr ""
 "Brùth air an dà iuchair Shift aig an aon àm gus an tèid am bàla ann an "
 "loidhne dhìrich."
@@ -281,8 +311,11 @@ msgid "Learn and memorize the Braille system"
 msgstr ""
 
 #: activities/braille_alphabets/ActivityInfo.qml:11
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Let kids discover the Braille system."
 msgctxt "ActivityInfo|"
-msgid "Let kids discover the Braille system."
+msgid "Let children discover the Braille system."
 msgstr "A’ sealladh an siostam Braille dhan chlann."
 
 #: activities/braille_alphabets/ActivityInfo.qml:13
@@ -378,8 +411,11 @@ msgstr "Aithneachadh ainmean nan litrichean"
 
 #: activities/click_on_letter/ActivityInfo.qml:13
 #: activities/click_on_letter_up/ActivityInfo.qml:13
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Visual letter-recognition. Can move the mouse."
 msgctxt "ActivityInfo|"
-msgid "Visual letter-recognition. Can move the mouse."
+msgid "Visual letter-recognition."
 msgstr ""
 "Aithnichidh tu na litrichean a chì thu. Tha thu comasach air an luchag a "
 "ghluasad.\n"
@@ -414,13 +450,26 @@ msgid "Click and draw"
 msgstr "Briog is tarraing"
 
 #: activities/clickanddraw/ActivityInfo.qml:10
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on the blue points."
 msgctxt "ActivityInfo|"
-msgid "Draw the picture by clicking on the blue points."
+msgid "Draw the picture by clicking on the green points."
 msgstr "Tarraing an dealbh ’s tu a’ briogadh air na dotagan gorma."
 
-#: activities/clickanddraw/ActivityInfo.qml:14
+#: activities/clickanddraw/ActivityInfo.qml:13
 msgctxt "ActivityInfo|"
-msgid "Draw the picture by clicking on each blue point in sequence."
+msgid "Can move the mouse and click accurately on points."
+msgstr ""
+
+#: activities/clickanddraw/ActivityInfo.qml:14
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each blue point in sequence."
+msgctxt "ActivityInfo|"
+msgid ""
+"Draw the picture by clicking on each green point in sequence. Each time a "
+"green point is selected the next green one appears."
 msgstr ""
 "Tarraing an dealbh ’s tu a’ briogadh air gach dotag gorm ann an òrdugh."
 
@@ -430,27 +479,31 @@ msgid "Click On Me"
 msgstr "Briog orm"
 
 #: activities/clickgame/ActivityInfo.qml:10
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Left-Click with the mouse on all the swimming fish before they leave the "
+#| "fishtank"
 msgctxt "ActivityInfo|"
-msgid ""
-"Left-Click with the mouse on all the swimming fish before they leave the "
-"fishtank"
+msgid "Catch all the swimming fish before they leave the fish tank"
 msgstr ""
 "Briog le putan deas na luchaige air gach iasg na snàmh mus fàg e an t-"
 "uisgeadan"
 
 #: activities/clickgame/ActivityInfo.qml:12
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Motor coordination: moving and clicking the mouse."
 msgctxt "ActivityInfo|"
-msgid "Motor coordination: moving and clicking the mouse."
+msgid "Motor coordination: moving the hand precisely."
 msgstr "Co-ghluasad: a’ gluasad is a’ briogadh na luchaige."
 
 #: activities/clickgame/ActivityInfo.qml:14
 msgctxt "ActivityInfo|"
 msgid ""
-"Use the left mouse button to click on the moving fish. A level 5 and after, "
-"a double click is mandatory."
+"Catch all the moving fish by simple clicking or touching them with your "
+"finger."
 msgstr ""
-"Briog le putan clì na luchaige air an iasg a tha a’ gluasad. On leibheil 5 a-"
-"mach, bidh feum air briogadh dùbailte."
 
 #: activities/clickgame/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
@@ -467,30 +520,47 @@ msgid "Learning Clock"
 msgstr "Ag ionnsachadh an uaireadair"
 
 #: activities/clockgame/ActivityInfo.qml:10
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn how to tell the time"
 msgctxt "ActivityInfo|"
-msgid "Learn how to tell the time"
+msgid "Learn how to tell the time on an analog clock"
 msgstr "Ionnsaich mar a dh’innseas tu an uair"
 
 #: activities/clockgame/ActivityInfo.qml:12
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Distinguish between time-units (hour, minute and second). Set and display "
+#| "time on a clock."
 msgctxt "ActivityInfo|"
 msgid ""
 "Distinguish between time-units (hour, minute and second). Set and display "
-"time on a clock."
+"time on an analog clock."
 msgstr ""
 "Aithnich ionadan ama (uair, mionaid is diog). Suidhich is seall an t-àm air "
 "uaireadair."
 
 #: activities/clockgame/ActivityInfo.qml:13
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "The concept of time. Reading the time."
 msgctxt "ActivityInfo|"
-msgid "The concept of time. Reading the time."
+msgid "The concept of time."
 msgstr "An t-àm. Ag innse na h-uarach."
 
 #: activities/clockgame/ActivityInfo.qml:14
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Set the clock to the time given, in the time-units shown (hours:minutes "
+#| "or hours:minutes:seconds). Click on the different arrows, and move the "
+#| "mouse, to make the numbers go up or down."
 msgctxt "ActivityInfo|"
 msgid ""
-"Set the clock to the time given, in the time-units shown (hours:minutes or "
-"hours:minutes:seconds). Click on the different arrows, and move the mouse, "
-"to make the numbers go up or down."
+"Set the clock to the given time, in the time-units shown (hours:minutes or "
+"hours:minutes:seconds). Drag the different arrows, to make the respective "
+"time unit go up or down."
 msgstr ""
 "Suidhich an uaireadair air an t-àm a chaidh iarraidh ort, leis na h-aonadan "
 "ama a tha gan sealltainn dhut (uairean:mionaidean no uairean:mionaidean:"
@@ -508,8 +578,11 @@ msgid "Mixing color of paint"
 msgstr "A' measgachadh dathan peant"
 
 #: activities/color_mix/ActivityInfo.qml:10
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "To understand color mixing."
 msgctxt "ActivityInfo|"
-msgid "To understand color mixing."
+msgid "Discover paint color mixing."
 msgstr "Gus measgachadh dhathan a thuigsinn."
 
 #: activities/color_mix/ActivityInfo.qml:12
@@ -521,14 +594,17 @@ msgstr ""
 #: activities/color_mix/ActivityInfo.qml:14
 msgctxt "ActivityInfo|"
 msgid ""
+"\n"
 "The activity deals with mixing primary colors of paint (subtractive "
 "mixing).\n"
+"\n"
 "In case of paints the inks absorb different colors of light falling on it, "
 "subtracting it from what you see. The more ink you add, the more light is "
 "absorbed, and the darker the combined color gets. We can mix just three "
 "primary colors to make many new colors. The primary colors for paint/ink are "
 "Cyan (a special shade of blue), Magenta (a special shade of pink), and "
-"Yellow."
+"Yellow.\n"
+"        "
 msgstr ""
 
 #: activities/color_mix/ColorMix.qml:96
@@ -604,9 +680,12 @@ msgid "Mixing colors of light"
 msgstr "A' measgachadh dathan solais"
 
 #: activities/color_mix_light/ActivityInfo.qml:10
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "To understand color mixing."
 msgctxt "ActivityInfo|"
-msgid "Understanding mixing of colors of light."
-msgstr "A' tuigsinn measgachadh dathan an t-solais."
+msgid "Discover light color mixing."
+msgstr "Gus measgachadh dhathan a thuigsinn."
 
 #: activities/color_mix_light/ActivityInfo.qml:12
 msgctxt "ActivityInfo|"
@@ -617,10 +696,13 @@ msgstr ""
 #: activities/color_mix_light/ActivityInfo.qml:14
 msgctxt "ActivityInfo|"
 msgid ""
+"\n"
 "The activity deals with mixing primary colors of light (additive mixing).\n"
+"\n"
 "In case of light it is just the opposite of mixing color with paints! The "
 "more light you add the lighter the resultant color will get. Primary colors "
-"of light are red, green and blue."
+"of light are red, green and blue.\n"
+"        "
 msgstr ""
 
 #: activities/colors/ActivityInfo.qml:9
@@ -634,28 +716,31 @@ msgid "Click on the right color"
 msgstr "Briog air an dath cheart"
 
 #: activities/colors/ActivityInfo.qml:12
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "This board teaches you to recognize different colors. When you hear the "
+#| "name of the color, click on the duck wearing it."
 msgctxt "ActivityInfo|"
 msgid ""
-"This board teaches you to recognize different colors. When you hear the name "
-"of the color, click on the duck wearing it."
+"This activity teaches you to recognize different colors. When you hear the "
+"name of the color, touch the duck wearing it."
 msgstr ""
 "Ionnsaichidh am bòrd seo dhut mar a dh’aithnicheas tu dathan eadar-"
 "dhealaichte. Nuair a chluinneas tu ainm datha, briog air an tunnag air a "
 "bheil e."
 
-#: activities/colors/ActivityInfo.qml:13
-msgctxt "ActivityInfo|"
-msgid "Can move the mouse."
-msgstr "Comasach air an luchag a ghluasad."
-
 #: activities/colors/ActivityInfo.qml:14
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Listen to the color and click on the matching duck."
 msgctxt "ActivityInfo|"
-msgid "Listen to the color and click on the matching duck."
+msgid "Listen to the color and touch the matching duck."
 msgstr "Èist ris an dath is briog air an tunnag fhreagarrach."
 
 #: activities/drawnumber/ActivityInfo.qml:9
 msgctxt "ActivityInfo|"
-msgid "drawnumber activity"
+msgid "Number sequence"
 msgstr ""
 
 #: activities/drawnumber/ActivityInfo.qml:10
@@ -663,7 +748,7 @@ msgstr ""
 #| msgctxt "ActivityInfo|"
 #| msgid "Draw the picture by clicking on each numbers in the right order."
 msgctxt "ActivityInfo|"
-msgid "Click on numbers in the right order."
+msgid "Touch the numbers in the right sequence."
 msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
 
 #: activities/drawnumber/ActivityInfo.qml:12
@@ -673,8 +758,11 @@ msgstr "Tha cunntadh o 1 gu 50 agad."
 
 #: activities/drawnumber/ActivityInfo.qml:14
 msgctxt "ActivityInfo|"
-msgid "Draw the picture by clicking on each numbers in the right order."
-msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+msgid ""
+"Draw the picture by touching each number in the right sequence, or sliding "
+"your finger or dragging the mouse through the numbers in the correct "
+"sequence."
+msgstr ""
 
 #: activities/enumerate/ActivityInfo.qml:9
 msgctxt "ActivityInfo|"
@@ -699,11 +787,17 @@ msgid "Basic enumeration"
 msgstr "Àireamhachd bhunasach"
 
 #: activities/enumerate/ActivityInfo.qml:14
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "First, properly organize the items so that you can count them. Then, "
+#| "select the item you want to answer in the bottom right area. Enter the "
+#| "answer with the keyboard and press the OK button or the 'Enter' key."
 msgctxt "ActivityInfo|"
 msgid ""
 "First, properly organize the items so that you can count them. Then, select "
 "the item you want to answer in the bottom right area. Enter the answer with "
-"the keyboard and press the OK button or the 'Enter' key."
+"the keyboard."
 msgstr ""
 "An toiseach, cuir na nithean an òrdugh ach an urrainn dhut an cunntadh. An "
 "uair sin, tagh an nì a tha thu airson freagairt san raon taobh deas air a’ "
@@ -727,59 +821,75 @@ msgctxt "ActivityInfo|"
 msgid "Motor-coordination"
 msgstr "Co-ghluasad"
 
-#: activities/erase/ActivityInfo.qml:14
+#: activities/erase/ActivityInfo.qml:13
+#: activities/erase_2clic/ActivityInfo.qml:13
+#: activities/erase_clic/ActivityInfo.qml:13
+#: activities/memory-tux/ActivityInfo.qml:13
 msgctxt "ActivityInfo|"
-msgid ""
-"Move the mouse until all the blocks disappear. You can add you own images "
-"under the directory '~/My GCompris/erase'."
+msgid "Mouse-manipulation"
+msgstr "Cleachdadh na luchaige"
+
+#: activities/erase/ActivityInfo.qml:14
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Click the mouse on rectangles until all the blocks disappear."
+msgctxt "ActivityInfo|"
+msgid "Move the mouse until all the blocks disappear."
 msgstr ""
-"Gluais an luchag gus an tèid na h-uile bloca à sealladh. ’S urrainn dhut na "
-"dealbhan agad fhèin a cur ris fon phasgan “~/My GCompris/erase”."
+"Briog leis an luchag air na ceart-cheàrnaich gus an tèid na h-uile bloca à "
+"sealladh."
 
 #: activities/erase_2clic/ActivityInfo.qml:9
 msgctxt "ActivityInfo|"
-msgid "Double click the mouse"
-msgstr "Dèan briogadh dùbailte leis an luchag"
+msgid "Double tap or double click"
+msgstr ""
 
 #: activities/erase_2clic/ActivityInfo.qml:10
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Double click the mouse to erase the area and discover the background"
 msgctxt "ActivityInfo|"
-msgid "Double click the mouse to erase the area and discover the background"
+msgid ""
+"Double tap or double click to erase the area and discover the background "
+"image"
 msgstr ""
 "Dèan briogadh dùbailte leis an luchag gus an raon a shuathadh is an cùlaibh "
 "a nochdadh"
 
 #: activities/erase_2clic/ActivityInfo.qml:14
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Double click the mouse on rectangles until all the blocks disappear."
 msgctxt "ActivityInfo|"
-msgid "Double click the mouse on rectangles until all the blocks disappear."
+msgid ""
+"Double tap or double click the mouse on rectangles until all the blocks "
+"disappear."
 msgstr ""
 "Dèan briogadh dùbailte leis an luchag air na ceart-cheàrnaich gus an tèid a "
 "h-uile bloca à sealladh."
 
-#: activities/erase_2clic/ActivityInfo.qml:15
-#: activities/erase_clic/ActivityInfo.qml:15
-msgctxt "ActivityInfo|"
-msgid ""
-"Animal pictures come from the Animal Photography Page of Ralf Schmode "
-"(http://schmode.net/). Ralf has kindly permitted GCompris to include his "
-"pictures. Thanks a lot, Ralf."
-msgstr ""
-"Thàinig dealbhan nam beathaichean o dhuilleag dealbhan bheathaichean aig "
-"Ralf Schmode (http://schmode.net/). Thug Ralf còir cead dha GCompris gus na "
-"dealbhan aige a chleachdadh. A Ralf, tha sinn fada nad chomain."
-
 #: activities/erase_clic/ActivityInfo.qml:9
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Click and draw"
 msgctxt "ActivityInfo|"
-msgid "Click the mouse"
-msgstr "Briog leis an luchag"
+msgid "Click or tap"
+msgstr "Briog is tarraing"
 
 #: activities/erase_clic/ActivityInfo.qml:10
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Click the mouse to erase the area and discover the background"
 msgctxt "ActivityInfo|"
-msgid "Click the mouse to erase the area and discover the background"
+msgid "Click or tap to erase the area and discover the background"
 msgstr "Briog leis an luchag gus an raon a shuathadh is an cùlaibh a nochdadh"
 
 #: activities/erase_clic/ActivityInfo.qml:14
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Click the mouse on rectangles until all the blocks disappear."
 msgctxt "ActivityInfo|"
-msgid "Click the mouse on rectangles until all the blocks disappear."
+msgid "Click or tap on the blocks all of them disappear."
 msgstr ""
 "Briog leis an luchag air na ceart-cheàrnaich gus an tèid na h-uile bloca à "
 "sealladh."
@@ -791,16 +901,19 @@ msgstr "Na còig deug"
 
 #: activities/fifteen/ActivityInfo.qml:10
 msgctxt "ActivityInfo|"
-msgid ""
-"Move each item to make an increasing series: from the smallest to the largest"
+msgid "Move each item to recreate the image."
 msgstr ""
-"Gluais gach leacag ach an tig gach àireamh mhòr an dèidh àireimh nas lugha"
 
 #: activities/fifteen/ActivityInfo.qml:14
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Click on any item that has a free block beside it, and it will be swapped "
+#| "with the empty block."
 msgctxt "ActivityInfo|"
 msgid ""
-"Click on any item that has a free block beside it, and it will be swapped "
-"with the empty block."
+"Click or drag on any pieces that has a free block beside it, and it will be "
+"swapped with the empty one."
 msgstr ""
 "Briog air leacag sam bith le àite falamh ri a taobh ach an imrich an t-àite "
 "falamh na àite."
@@ -811,8 +924,11 @@ msgid "Control the hose-pipe"
 msgstr "Stiùirich an stealladair"
 
 #: activities/followline/ActivityInfo.qml:10
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Tux needs to water the flowers, but the hose is blocked."
 msgctxt "ActivityInfo|"
-msgid "Tux needs to water the flowers, but the hose is blocked."
+msgid "The fireman needs to water the flowers, but the hose is blocked."
 msgstr ""
 "Tha uisge a dhìth air Tux gus a toirt dha na flùraichean ach tha an "
 "stealladair bacte."
@@ -823,11 +939,17 @@ msgid "Fine motor coordination"
 msgstr "Co-ghluasad mionaideach"
 
 #: activities/followline/ActivityInfo.qml:14
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Move the mouse over the red part of the hose-pipe. This will move it, "
+#| "bringing it, part by part, up to the flowers. Be careful, if you move off "
+#| "the hose, the red part will go back down."
 msgctxt "ActivityInfo|"
 msgid ""
-"Move the mouse over the red part of the hose-pipe. This will move it, "
-"bringing it, part by part, up to the flowers. Be careful, if you move off "
-"the hose, the red part will go back down."
+"Move the mouse or your finger over the lock which is represented as a red "
+"part in the hose-pipe. This will move it, bringing it, part by part, up to "
+"the flowers. Be careful, if you move off the hose, the lock will go backward."
 msgstr ""
 "Gluais an luchag air barr pàirt dhearg an stealladair. Bheir seo gluasad "
 "air, a’ dol suas beag air bheag. Thoir an aire gun tèid a’ phàirt dhearg "
@@ -844,15 +966,16 @@ msgid "Kick the ball into the goal"
 msgstr "Breab am bàla dhan tadhal"
 
 #: activities/football/ActivityInfo.qml:12
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Kick the ball into the black hole on the right"
 msgctxt "ActivityInfo|"
-msgid "Kick the ball into the black hole on the right"
+msgid "Kick the ball behind the goal keeper on the right"
 msgstr "Breab am bàla dhan toll dubh air an taobh deas"
 
 #: activities/football/ActivityInfo.qml:14
 msgctxt "ActivityInfo|"
-msgid ""
-"Point the mouse and click on the ball, to set the speed and direction of the "
-"ball."
+msgid "Drag a line from the ball, to set its speed and direction."
 msgstr ""
 
 #: activities/gletters/ActivityInfo.qml:9
@@ -868,25 +991,9 @@ msgstr "Sgrìobh na litrichean a thuiteas mus ruig iad an làr"
 
 #: activities/gletters/ActivityInfo.qml:12
 #: activities/imageid/ActivityInfo.qml:12
-#: activities/traffic/ActivityInfo.qml:12
 msgctxt "ActivityInfo|"
 msgid "Letter association between the screen and the keyboard"
 msgstr "Co-cheangladh nan litrichean eadar an sgrìn is am meur-chlàr"
-
-#: activities/gletters/ActivityInfo.qml:13
-#: activities/wordsgame/ActivityInfo.qml:13
-msgctxt "ActivityInfo|"
-msgid "Keyboard manipulation"
-msgstr ""
-"Cleachdadh a’ mheur-chlàir\n"
-"\n"
-"Mar a gheibh thu na stràcan:\n"
-"1) Air Windows, feumaidh tu an iuchair ` (ri taobh 1) a bhrùthadh agus an "
-"uair sin litir eile.\n"
-"2) Air Mac, feumaidh tu ALT agus ` is an uair sin litir eile a bhrùthadh.\n"
-"\n"
-"Mur obraich sin, tadhail air www.iGaidhlig.net airson barrachd fiosrachaidh "
-"’s taic."
 
 #: activities/gnumch-equality/ActivityInfo.qml:9
 msgctxt "ActivityInfo|"
@@ -894,10 +1001,15 @@ msgid "Gnumch Equality"
 msgstr ""
 
 #: activities/gnumch-equality/ActivityInfo.qml:10
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Guide the Number Muncher to the expressions that equal the number at the "
+#| "top of the screen."
 msgctxt "ActivityInfo|"
 msgid ""
-"Guide the Number Muncher to the expressions that equal the number at the top "
-"of the screen."
+"Guide the Number Muncher to the expressions that equal the number at the "
+"bottom of the screen."
 msgstr ""
 "Stiùirich itheadair nan àireamh dha na h-eas-preiseanan a bhios co-ionnan "
 "ris an àireamh air barr na sgrìn."
@@ -910,16 +1022,12 @@ msgstr "Cleachdaich cur ris, iomadachadh, roinneadh is toirt air falbh."
 #: activities/gnumch-equality/ActivityInfo.qml:14
 msgctxt "ActivityInfo|"
 msgid ""
-"Use the arrow keys to navigate around the board and to avoid the Troggles. "
-"Press the space bar to eat a number"
-msgstr ""
-
-#: activities/gnumch-equality/ActivityInfo.qml:14
-#: activities/gnumch-inequality/ActivityInfo.qml:14
-msgctxt "ActivityInfo|"
-msgid ""
-"Touch cells to move around the board and to avoid the Troggles. Press the "
-"muncher to eat the number"
+"Guide the Number Muncher to the expressions that equal the number at the "
+"bottom of the screen. If you have a keyboard you can use the arrow keys. "
+"With a mouse you can click on the block next to your position to move and "
+"click again to catch the number. With a touch screen you can do like with a "
+"mouse or swipe anywhere in the direction you want to move and tap to catch "
+"the number. Take care to avoid the Troggles."
 msgstr ""
 
 #: activities/gnumch-equality/TopPanel.qml:51
@@ -1006,134 +1114,6 @@ msgctxt "WarnMonster|"
 msgid "Be careful, a troggle !"
 msgstr ""
 
-#: activities/gnumch-factors/ActivityInfo.qml:5
-msgctxt "ActivityInfo|"
-msgid ""
-"The factors of a number are all the numbers that divide that number evenly. "
-"For example, the factors of 6 are 1, 2, 3 and 6. 4 is not a factor of 6 "
-"because 6 cannot be divided into 4 equal pieces. If one number is a multiple "
-"of a second number, then the second number is a factor of the first number. "
-"You can think of multiples as families, and factors are the people in those "
-"families. So 1, 2, 3 and 6 all fit into the 6 family, but 4 belongs to "
-"another family.<br>"
-msgstr ""
-
-#: activities/gnumch-factors/ActivityInfo.qml:6
-#: activities/gnumch-inequality/ActivityInfo.qml:14
-#: activities/gnumch-multiples/ActivityInfo.qml:6
-#: activities/gnumch-primes/ActivityInfo.qml:6
-msgctxt "ActivityInfo|"
-msgid ""
-"Use the arrow keys to navigate around the board and to avoid the Troggles. "
-"Press the space bar to eat the number"
-msgstr ""
-
-#: activities/gnumch-factors/ActivityInfo.qml:6
-#: activities/gnumch-multiples/ActivityInfo.qml:6
-#: activities/gnumch-primes/ActivityInfo.qml:6
-msgctxt "ActivityInfo|"
-msgid ""
-"Touch cells to move around the board and to avoid the Troggles. Press the "
-"Muncher to eat the number"
-msgstr ""
-
-#: activities/gnumch-factors/ActivityInfo.qml:15
-msgctxt "ActivityInfo|"
-msgid "Gnumch Factors"
-msgstr ""
-
-#: activities/gnumch-factors/ActivityInfo.qml:16
-msgctxt "ActivityInfo|"
-msgid ""
-"Guide the Number Muncher to all the factors of the number at the top of the "
-"screen."
-msgstr ""
-"Stiùirich itheadair nan àireamh dha na h-uile factar aig an àireamh air barr "
-"na sgrìn."
-
-#: activities/gnumch-factors/ActivityInfo.qml:18
-#: activities/gnumch-multiples/ActivityInfo.qml:18
-msgctxt "ActivityInfo|"
-msgid "Learn about multiples and factors."
-msgstr "Ionnsaich mu iomadan is factaran."
-
-#: activities/gnumch-inequality/ActivityInfo.qml:9
-msgctxt "ActivityInfo|"
-msgid "Gnumch Inequality"
-msgstr ""
-
-#: activities/gnumch-inequality/ActivityInfo.qml:10
-msgctxt "ActivityInfo|"
-msgid ""
-"Guide the Number Muncher to the all the expressions that do not equal the "
-"number at the top of the screen."
-msgstr ""
-"Stiùirich itheadair nan àireamh dha na h-uile eas-preisean nach ionnan ris "
-"an àireamh air barr na sgrìn."
-
-#: activities/gnumch-inequality/ActivityInfo.qml:12
-msgctxt "ActivityInfo|"
-msgid "Practice addition, subtraction, multiplication and division."
-msgstr "Cleachdaich cur ris, toirt air falbh, iomadachadh is roinneadh."
-
-#: activities/gnumch-multiples/ActivityInfo.qml:5
-msgctxt "ActivityInfo|"
-msgid ""
-"The multiples of a number are all the numbers that are equal to the original "
-"number times another number. For example, 24, 36, 48 and 60 are all "
-"multiples of 12. 25 is not a multiple of 12 because there isn't any number "
-"that can be multiplied by 12 to get 25. If one number is a factor of a "
-"second number, then the second number is a multiple of the first number. "
-"Again, you can think of multiples as families, and factors are the people "
-"who belong to those families. The factor 5, has parents 10, grandparents 15, "
-"great-grandparents 20, great-great-grandparents 25, and every extra step of "
-"5 is another great- in front! But the number 5 does not belong in the 8 or "
-"23 families. You can't fit any number of 5s into 8 or 23 with nothing left "
-"over. So 8 isn't a multiple of 5, nor is 23. Only 5, 10, 15, 20, 25 ... are "
-"multiples (or families or steps) of 5.<br>"
-msgstr ""
-
-#: activities/gnumch-multiples/ActivityInfo.qml:15
-msgctxt "ActivityInfo|"
-msgid "Gnumch Multiples"
-msgstr ""
-
-#: activities/gnumch-multiples/ActivityInfo.qml:16
-msgctxt "ActivityInfo|"
-msgid ""
-"Guide the Number Muncher to all the multiples of the number at the top of "
-"the screen."
-msgstr ""
-"Stiùirich itheadair nan àireamh dha na h-uile iomad aig an àireamh air barr "
-"na sgrìn."
-
-#: activities/gnumch-primes/ActivityInfo.qml:5
-msgctxt "ActivityInfo|"
-msgid ""
-"Prime numbers are numbers that are only divisible by themselves and 1. For "
-"example, 3 is a prime number, but 4 isn't (because 4 is divisible by 2). You "
-"can think of prime numbers as very small families: they only ever have two "
-"people in them! Only themselves and 1. You can't fit any other numbers into "
-"them with nothing left over. 5 is one of these lonely numbers (only 5 × 1 = "
-"5), but you can see that 6 has 2 and 3 in its family as well (6 × 1 = 6, 2 "
-"×3 = 6). So 6 is not a prime number. <br>"
-msgstr ""
-
-#: activities/gnumch-primes/ActivityInfo.qml:15
-msgctxt "ActivityInfo|"
-msgid "Gnumch Primes"
-msgstr ""
-
-#: activities/gnumch-primes/ActivityInfo.qml:16
-msgctxt "ActivityInfo|"
-msgid "Guide the Number Muncher to all the prime numbers."
-msgstr "Stiùirich itheadair nan àireamh dha na h-uile prìomh-àireamh."
-
-#: activities/gnumch-primes/ActivityInfo.qml:18
-msgctxt "ActivityInfo|"
-msgid "Learn about prime numbers."
-msgstr ""
-
 #: activities/guessnumber/ActivityInfo.qml:9
 msgctxt "ActivityInfo|"
 msgid "Guess a number"
@@ -1152,14 +1132,23 @@ msgid "Numbers from 1 to 1000 for the last level."
 msgstr "Àireamhan eadar 1 is 1000 airson an leibheil mu dheireadh."
 
 #: activities/guessnumber/ActivityInfo.qml:14
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Read the instructions that give you the range of the number to find. "
+#| "Enter a number in the top right blue entry box. Tux will tell you if your "
+#| "number is higher or lower. Then enter another number. The distance "
+#| "between Tux and the escape area on the right represents how far you are "
+#| "from the correct number. If Tux is over or under the escape area, it "
+#| "means your number is over or under the correct number."
 msgctxt "ActivityInfo|"
 msgid ""
 "Read the instructions that give you the range of the number to find. Enter a "
-"number in the top right blue entry box. Tux will tell you if your number is "
-"higher or lower. Then enter another number. The distance between Tux and the "
-"escape area on the right represents how far you are from the correct number. "
-"If Tux is over or under the escape area, it means your number is over or "
-"under the correct number."
+"number in the top right entry box. You will be told if your number is higher "
+"or lower. Then enter another number. The distance between Tux and the escape "
+"area on the right represents how far you are from the correct number. If Tux "
+"is over or under the escape area, it means your number is over or under the "
+"correct number."
 msgstr ""
 "Leugh an stiùireadh a dh’innseas dhut dè an rainse sa bheil an àireamh a "
 "dh’fheumas tu lorg. Cuir a-steach àireamh sa bhogsa ghorm taobh deas air a’ "
@@ -1325,12 +1314,19 @@ msgid "Subtraction"
 msgstr "Toirt air falbh"
 
 #: activities/magic-hat-minus/ActivityInfo.qml:14
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Look at the magician, he tells the number of stars that are under his "
+#| "magic hat. Then, click on the hat to open it. A few stars escape. Click "
+#| "again on the hat to close it. You have to count how many are still under "
+#| "the hat. Click on the bottom right area to answer."
 msgctxt "ActivityInfo|"
 msgid ""
 "Look at the magician, he tells the number of stars that are under his magic "
 "hat. Then, click on the hat to open it. A few stars escape. Click again on "
 "the hat to close it. You have to count how many are still under the hat. "
-"Click on the bottom right area to answer."
+"Click on the bottom area to answer."
 msgstr ""
 "Coimhead air an draoidh, innsidh e dhut co mheud rionnag a tha fon ad "
 "dhraoidheach aige. An uair sin, briog air an ad gus a thogail. Teichidh cuid "
@@ -1383,30 +1379,28 @@ msgctxt "ActivityInfo|"
 msgid "Help Tux get out of this maze."
 msgstr "Thoir cobhair dha Tux ach am faigh e a-mach às a' chuartan seo."
 
-#: activities/maze/ActivityInfo.qml:13
-#: activities/mazeinvisible/ActivityInfo.qml:13
-#: activities/mazerelative/ActivityInfo.qml:13
-msgctxt "ActivityInfo|"
-msgid "Can use the keyboard arrow to move an object."
-msgstr "Tha cleachdadh na h-iuchrach saighde agad gus nì a ghluasad."
-
 #: activities/maze/ActivityInfo.qml:14
 msgctxt "ActivityInfo|"
 msgid ""
-"Use the keyboard arrows to move Tux up to the door.\n"
-"At the first levels, Tux walks comfortably, one step on each keypress, "
+"Use the arrow keys to move Tux up to the door.\n"
+"\n"
+"At the first levels, Tux walks comfortably, one step on each move request, "
 "through the labyrinth.\n"
+"\n"
 "For larger labyrinths, there is a special walking mode, called \"run-fast-"
 "mode\". If this run-fast-mode is enabled, Tux will run all the way "
 "automatically until he reaches a fork and you have to decide which way to go "
 "further.\n"
+"\n"
 "You can see whether this mode is enabled or not, by looking at Tux's feet: "
 "If Tux is barefooted, \"run-fast-mode\" is disabled. And if he wears red "
 "sport shoes, \"run-fast-mode\" is enabled.\n"
+"\n"
 "From level 14 on, run-fast-mode will be enabled automatically. If you want "
 "to use this feature in earlier levels or want to disable it in advanced "
 "levels, click on Tux or the \"barefoot / sportshoe\"-icon in the upper left "
-"corner of the screen to toggle the run-fast-mode."
+"corner of the screen to toggle the run-fast-mode.\n"
+"\t"
 msgstr ""
 
 #: activities/maze/Maze.qml:349
@@ -1432,23 +1426,27 @@ msgstr "Faigh lorg air an t-slighe a-mach às a' chuartan do-fhaicsinneach"
 #: activities/mazeinvisible/ActivityInfo.qml:14
 msgctxt "ActivityInfo|"
 msgid ""
-"Use the keyboard arrows to move Tux up to the door. Use the spacebar to "
-"switch between invisible and visible modes. Visible mode just gives you an "
+"Use the arrow keys to move Tux up to the door. Use the spacebar ?? to switch "
+"between invisible and visible modes. Visible mode just gives you an "
 "indication of your position, like a map. You cannot move Tux in visible "
 "mode.\n"
+"\n"
 "At the first levels, Tux walks comfortably, one step on each keypress, "
 "through the labyrinth.\n"
+"\n"
 "For larger labyrinths, there is a special walking mode, called \"run-fast-"
 "mode\". If this run-fast-mode is enabled, Tux will run all the way "
 "automatically until he reaches a fork and you have to decide which way to go "
 "further.\n"
+"\n"
 "You can see whether this mode is enabled or not, by looking at Tux's feet: "
 "If Tux is barefooted, \"run-fast-mode\" is disabled. And if he wears red "
 "sport shoes, \"run-fast-mode\" is enabled.\n"
+"\n"
 "From level 14 on, run-fast-mode will be enabled automatically. If you want "
 "to use this feature in earlier levels or want to disable it in advanced "
 "levels, click on Tux or the \"barefoot / sportshoe\"-icon in the upper left "
-"corner of the screen to toggle the run-fast-mode."
+"corner of the screen to toggle the run-fast-mode.\n"
 msgstr ""
 
 #: activities/mazerelative/ActivityInfo.qml:9
@@ -1465,22 +1463,26 @@ msgstr ""
 #: activities/mazerelative/ActivityInfo.qml:14
 msgctxt "ActivityInfo|"
 msgid ""
-"Use the keyboard arrows to move Tux up to the door. In this maze, the move "
-"is relative (first person). Use the up arrow to go forward. The other arrows "
+"Use the arrows keys to move Tux up to the door. In this maze, the move is "
+"relative (first person). Use the up arrow to go forward. The other arrows "
 "let you turn Tux in another direction.\n"
+"\n"
 "At the first levels, Tux walks comfortably, one step on each keypress, "
 "through the labyrinth.\n"
+"\n"
 "For larger labyrinths, there is a special walking mode, called \"run-fast-"
 "mode\". If this run-fast-mode is enabled, Tux will run all the way "
 "automatically until he reaches a fork and you have to decide which way to go "
 "further.\n"
+"\n"
 "You can see whether this mode is enabled or not, by looking at Tux's feet: "
 "If Tux is barefooted, \"run-fast-mode\" is disabled. And if he wears red "
 "sport shoes, \"run-fast-mode\" is enabled.\n"
+"\n"
 "From level 14 on, run-fast-mode will be enabled automatically. If you want "
 "to use this feature in earlier levels or want to disable it in advanced "
 "levels, click on Tux or the \"barefoot / sportshoe\"-icon in the upper left "
-"corner of the screen to toggle the run-fast-mode."
+"corner of the screen to toggle the run-fast-mode.\n"
 msgstr ""
 
 #: activities/memory-enumerate/ActivityInfo.qml:9
@@ -1547,6 +1549,7 @@ msgctxt "ActivityInfo|"
 msgid ""
 "You can see some cards, but you can't see what's on the other side of them. "
 "Each card is hiding an operation, or the answer to it.\n"
+"\n"
 "In this game, these cards are hiding the two parts of an operation. You need "
 "to find the two parts of the operation, and bring them together again. Click "
 "on a card to see what number it's hiding, then try to find the other card "
@@ -1573,6 +1576,7 @@ msgctxt "ActivityInfo|"
 msgid ""
 "You can see some cards, but you can't see what's on the other side of them. "
 "Each card is hiding an operation, or the answer to it.\n"
+"\n"
 "In this game, these cards are hiding the two parts of an operation. You need "
 "to find the two parts of the operation, and bring them together again. Click "
 "on a card to see what number it's hiding, then try to find the other card "
@@ -1617,6 +1621,7 @@ msgctxt "ActivityInfo|"
 msgid ""
 "You can see some cards, but you can't see what's on the other side of them. "
 "Each card is hiding an operation, or the answer to it.\n"
+"\n"
 "In this game, these cards are hiding the two parts of an operation. You need "
 "to find the two parts of the operation, and bring them together again. Click "
 "on a card to see what number it's hiding, then try to find the other card "
@@ -1625,7 +1630,7 @@ msgid ""
 "you can match them when you find their other half. You're doing the job of "
 "the equals sign, and the numbers need you to put them together and make a "
 "proper equality. When you do that, both those cards disappear! When you've "
-"made them all disappear, found more than Tux,  and you've won the game! :)"
+"made them all disappear, found more than Tux, and you've won the game! :)"
 msgstr ""
 
 #: activities/memory-math-add-minus/ActivityInfo.qml:9
@@ -1665,6 +1670,7 @@ msgid ""
 "sisters, you can count them! Or the kids in your class at school. Sing "
 "counting songs. Count lots of things, for practice, and you'll be very good "
 "at adding-up!\n"
+"\n"
 "In this game, these cards are hiding the two parts of an adding-up sum (also "
 "called an addition sum). You need to find the two parts of the sum, and "
 "bring them together again. Click on a card to see what number it's hiding, "
@@ -1705,6 +1711,7 @@ msgid ""
 "sisters, you can count them! Or the kids in your class at school. Sing "
 "counting songs. Count lots of things, for practice, and you'll be very good "
 "at adding-up!\n"
+"\n"
 "In this game, these cards are hiding the two parts of an adding-up sum (also "
 "called an addition sum). You need to find the two parts of the sum, and "
 "bring them together again. Click on a card to see what number it's hiding, "
@@ -1735,10 +1742,13 @@ msgid "Division"
 msgstr "Roinneadh"
 
 #: activities/memory-math-div-tux/ActivityInfo.qml:14
+#: activities/memory-math-mult-div-tux/ActivityInfo.qml:14
+#: activities/memory-math-mult-tux/ActivityInfo.qml:14
 msgctxt "ActivityInfo|"
 msgid ""
 "You can see some cards, but you can't see what's on the other side of them. "
 "Each card is hiding an operation, or the answer to it.\n"
+"\n"
 "In this game, these cards are hiding the two parts of an operation. You need "
 "to find the two parts of the operation, and bring them together again. Click "
 "on a card to see what number it's hiding, then try to find the other card "
@@ -1747,7 +1757,7 @@ msgid ""
 "you can match them when you find their other half. You're doing the job of "
 "the equals sign, and the numbers need you to put them together and make a "
 "proper equality. When you do that, both those cards disappear! When you've "
-"made them all disappear, found more than TUX and you've won the game! :)"
+"made them all disappear, found more than Tux and you've won the game! :)"
 msgstr ""
 
 #: activities/memory-math-div/ActivityInfo.qml:9
@@ -1788,6 +1798,7 @@ msgctxt "ActivityInfo|"
 msgid ""
 "You can see some cards, but you can't see what's on the other side of them. "
 "Each card is hiding an operation, or the answer to it.\n"
+"\n"
 "In this game, these cards are hiding the two parts of an operation. You need "
 "to find the two parts of the operation, and bring them together again. Click "
 "on a card to see what number it's hiding, then try to find the other card "
@@ -1830,23 +1841,6 @@ msgstr "Cleachd iomadachadh is roinneadh gus am bi gach cairt air falbh."
 msgctxt "ActivityInfo|"
 msgid "Multiplication, division"
 msgstr "Iomadachadh, roinneadh"
-
-#: activities/memory-math-mult-div-tux/ActivityInfo.qml:14
-#: activities/memory-math-mult-tux/ActivityInfo.qml:14
-msgctxt "ActivityInfo|"
-msgid ""
-"You can see some cards, but you can't see what's on the other side of them. "
-"Each card is hiding an operation, or the answer to it.\n"
-"In this game, these cards are hiding the two parts of an operation. You need "
-"to find the two parts of the operation, and bring them together again. Click "
-"on a card to see what number it's hiding, then try to find the other card "
-"that goes with it, to make a whole operation. You can only turn over two "
-"cards in one go, so you need to remember where the numbers are hiding, then "
-"you can match them when you find their other half. You're doing the job of "
-"the equals sign, and the numbers need you to put them together and make a "
-"proper equality. When you do that, both those cards disappear! When you've "
-"made them all disappear, found more than Tux and you've won the game! :)"
-msgstr ""
 
 #: activities/memory-math-mult-div/ActivityInfo.qml:9
 msgctxt "ActivityInfo|"
@@ -1902,12 +1896,6 @@ msgid "Train your audio memory and remove all the violinists Tux."
 msgstr ""
 "Cleachd an cuimhne air fuaimean agad is thoir a h-uile Tux fìdhleir air "
 "falbh."
-
-#: activities/memory-sound-tux/ActivityInfo.qml:13
-#: activities/memory-sound/ActivityInfo.qml:13
-msgctxt "ActivityInfo|"
-msgid "Mouse manipulation, Brain."
-msgstr "Cleachdadh na luchaige, eanchainn."
 
 #: activities/memory-sound-tux/ActivityInfo.qml:14
 #: activities/memory-sound/ActivityInfo.qml:14
@@ -2026,39 +2014,69 @@ msgid "GCompris Main Menu"
 msgstr "Prìomh chlàr-taice GCompris"
 
 #: activities/menu/ActivityInfo.qml:6
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Left-click the mouse on an activity to select it."
 msgctxt "ActivityInfo|"
-msgid "Left-click the mouse on an activity to select it."
+msgid "Select an activity to run it."
 msgstr "Briog le putan clì na luchaige air cleas gus a thaghadh."
 
 #: activities/menu/ActivityInfo.qml:7
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "GCompris is a collection of educational games that provides different "
+#| "activities for children aged 2 and up."
 msgctxt "ActivityInfo|"
 msgid ""
-"The goal of GCompris is to provide a free alternative to popular proprietary "
-"edutainment software"
-msgstr ""
-"Isan t-amas aig GCompris gleus foghlaim saor a thoirt seachad seach bathar-"
-"bog ionnsachaidh coimeirsealta"
-
-#: activities/menu/ActivityInfo.qml:8
-msgctxt "ActivityInfo|"
-msgid ""
-"GCompris is a collection of educational games that provides different "
-"activities for children aged 2 and up."
+"GCompris is a high quality educational software suite comprising of numerous "
+"activities for children aged 2 to 10."
 msgstr ""
 "’S e cruinneachadh de gheamannan foghlaim a tha ann an GCompris a bheir "
 "iomadh cleas do chlann a tha 2 bhliadhna a dh’aois no nas sine."
 
-#: activities/menu/ActivityInfo.qml:9
+#: activities/menu/ActivityInfo.qml:8
 msgctxt "ActivityInfo|"
 msgid ""
-"A simple click on an icon brings you to an activity or a menu of "
-"activities.\n"
-"At the bottom of the screen is the GCompris control bar.\n"
+"Some of the activities are game orientated, but nonetheless still "
+"educational."
+msgstr ""
+
+#: activities/menu/ActivityInfo.qml:9
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "A simple click on an icon brings you to an activity or a menu of "
+#| "activities.\n"
+#| "At the bottom of the screen is the GCompris control bar.\n"
+#| "The following icons are displayed from right to left.\n"
+#| "(note that each icon is displayed only if available in the current "
+#| "activity)\n"
+#| "    Home - Exit an activity, go back to menu (ctrl-w and escape key)\n"
+#| "    Thumb - OK. Confirm your answer\n"
+#| "    Arrows - Display the current level. Click to select another level\n"
+#| "    Lips - Repeat the question\n"
+#| "    Question Mark - Help\n"
+#| "    Tool - The configuration menu\n"
+#| "    Tux Plane - About GCompris\n"
+#| "    Quit - Quit GCompris (ctrl-q)\n"
+#| "The stars show suitable age groups for each game:\n"
+#| "    1, 2 or 3 simple stars  - from 2 to 6 years old\n"
+#| "    1, 2 or 3 complex stars - 7 years and up\n"
+#| "Shortcuts:\n"
+#| "    ctrl-b Show or Hide the control bar\n"
+#| "    ctrl-f Toggle full screen\n"
+#| "    ctrl-m Toggle mute for the background music"
+msgctxt "ActivityInfo|"
+msgid ""
+"Select an icon to enter an activity or to display a list of activities in a "
+"category.\n"
+"At the bottom of the screen is the GCompris control bar. Notice that you can "
+"hide or show the bar by touching its anchor.\n"
 "The following icons are displayed from right to left.\n"
 "(note that each icon is displayed only if available in the current "
 "activity)\n"
 "    Home - Exit an activity, go back to menu (ctrl-w and escape key)\n"
-"    Thumb - OK. Confirm your answer\n"
 "    Arrows - Display the current level. Click to select another level\n"
 "    Lips - Repeat the question\n"
 "    Question Mark - Help\n"
@@ -2109,8 +2127,12 @@ msgstr ""
 "lorg."
 
 #: activities/mining/ActivityInfo.qml:12
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn to use the mousewheel to zoom in and out."
 msgctxt "ActivityInfo|"
-msgid "Learn to use the mousewheel to zoom in and out."
+msgid ""
+"Learn to use the mousewheel or the zoom / pinch gesture to zoom in and out."
 msgstr ""
 "Ionnsaich mar a chleachdas tu cuibhle na luchaige gus sùmadh a-steach is a-"
 "mach."
@@ -2123,19 +2145,19 @@ msgstr "Bu chòir do ghluasad na luchaige is briogadh a bhith agad."
 #: activities/mining/ActivityInfo.qml:14
 msgctxt "ActivityInfo|"
 msgid ""
-"Looking at the rockwall, you can see a sparkle somewhere. Move the mouse "
-"cursor next to this sparkle and use the mousewheel to zoom in. If you zoomed "
+"Looking at the rockwall, you can see a sparkle somewhere. Move next to this "
+"sparkle and use the mousewheel or the zoom gesture to zoom in. If you zoomed "
 "in at maximum, a gold nugget will appear at the position of the sparkle. "
 "Click on the gold nugget to collect it.\n"
-"Having collected the nugget, use the mousewheel to zoom out again. If you "
-"zoomed out at maximum, another sparkle will appear, showing the next gold "
-"nugget to collect. Collect enough nuggets to complete the level.\n"
+"\n"
+"Having collected the nugget, use the mousewheel or the pinch gesture to zoom "
+"out again. If you zoomed out at maximum, another sparkle will appear, "
+"showing the next gold nugget to collect. Collect enough nuggets to complete "
+"the level.\n"
+"\n"
 "The truck in the lower, right corner of the screen will tell you the number "
 "of already collected nuggets and the total number of nuggets to collect in "
-"this level.\n"
-"To start the tutorial, click on professor Tux (available at level 1) and let "
-"him show you, what to do next.\n"
-"Have fun! :)"
+"this level."
 msgstr ""
 
 #: activities/mining/ActivityInfo.qml:19
@@ -2305,8 +2327,9 @@ msgstr "Ath-thog a’ mhaois"
 
 #: activities/mosaic/ActivityInfo.qml:14
 msgctxt "ActivityInfo|"
-msgid "Rebuild the same mosaic on the right area"
-msgstr "Ath-thog a’ mhaois taobh deas"
+msgid ""
+"First select the item you want to put then click on a spot on the empty area"
+msgstr ""
 
 #: activities/numbers-odd-even/ActivityInfo.qml:28
 msgctxt "ActivityInfo|"
@@ -2318,17 +2341,13 @@ msgctxt "ActivityInfo|"
 msgid "Move the helicopter to catch the clouds having even or odd numbers"
 msgstr ""
 
-#: activities/numbers-odd-even/ActivityInfo.qml:32
-#: activities/planegame/ActivityInfo.qml:33
-msgctxt "ActivityInfo|"
-msgid "Number"
-msgstr "Àireamh"
-
 #: activities/numbers-odd-even/ActivityInfo.qml:33
 msgctxt "ActivityInfo|"
 msgid ""
-"Catch the odd or even numbers, using the up, down, right and left arrows on "
-"the keyboard to move the helicopter."
+"Catch the odd or even number clouds. With a keyboard use the arrow keys to "
+"move the helicopter. On a touch screen place a finger on the screen and "
+"quickly swipe it in the desired direction. To know which number you have to "
+"catch you can either remember it or check the bottom right corner."
 msgstr ""
 
 #: activities/penalty/ActivityInfo.qml:9
@@ -2337,8 +2356,11 @@ msgid "Penalty kick"
 msgstr "Breab-peanais"
 
 #: activities/penalty/ActivityInfo.qml:10
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Double click the mouse on the ball to score a goal."
 msgctxt "ActivityInfo|"
-msgid "Double click the mouse on the ball to score a goal."
+msgid "Double click or double tap the screen on the ball to score a goal."
 msgstr ""
 "Dèan briogadh dùbailte leis an luchag air a’ bhàla gus an tadhal a bhualadh."
 
@@ -2372,11 +2394,11 @@ msgstr "Gluais an heileacoptair ach an glac thu na neòil san òrdugh cheart"
 #: activities/planegame/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
 msgid ""
-"Catch the numbers in increasing order, using the up, down, right and left "
-"arrows on the keyboard to move the helicopter."
+"Catch the clouds in increasing order. With a keyboard use the arrow keys to "
+"move the helicopter. On a touch screen place a finger on the screen and "
+"quickly swipe it in the desired direction. To know which number you have to "
+"catch you can either remember it or check the bottom right corner."
 msgstr ""
-"Glac na h-àireamhan an òrdugh a’ dol suas, a’ cleachdadh na h-iuchraichean "
-"suas, sìos, deas is clì air a’ mheur-chlàr gus an heileacoptair a ghluasad."
 
 #: activities/reversecount/ActivityInfo.qml:9
 msgctxt "ActivityInfo|"
@@ -2392,10 +2414,13 @@ msgstr ""
 "an àite cheart a lorg air an deigh."
 
 #: activities/reversecount/ActivityInfo.qml:13
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Can move the mouse, can read numbers and subtract numbers up to 10 for "
+#| "the first level"
 msgctxt "ActivityInfo|"
-msgid ""
-"Can move the mouse, can read numbers and subtract numbers up to 10 for the "
-"first level"
+msgid "Can read numbers and subtract numbers up to 10 for the first level"
 msgstr ""
 "Comas an luchag a ghluasad, comas leughaidh àireamhan is comasach air thoirt "
 "air falbh a dhèanamh le àireamhan suas gu 10 airson a’ chiad leibheil"
@@ -2410,32 +2435,6 @@ msgstr ""
 "Briog air an dìsinn gus sealltainn co mheud clàr-deighe a tha eadar Tux is "
 "an iasg. Briog air an dìsinn leis a’ phutan deas gus cunntadh sìos. Nuair a "
 "bhios tu deiseil, briog air a’ phutan “OK” no brùth air an iuchair “Enter”."
-
-#: activities/scalesboard/ActivityInfo.qml:9
-#: activities/scalesboard_weight/ActivityInfo.qml:9
-#: activities/scalesboard_weight_avoirdupois/ActivityInfo.qml:9
-msgctxt "ActivityInfo|"
-msgid "Balance the scales properly"
-msgstr "Cuir cuideam co-ionnan air a’ mheidh"
-
-#: activities/scalesboard/ActivityInfo.qml:10
-msgctxt "ActivityInfo|"
-msgid "Drag and Drop weights to balance the scales"
-msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
-
-#: activities/scalesboard/ActivityInfo.qml:12
-msgctxt "ActivityInfo|"
-msgid "Mental calculation, arithmetic equality"
-msgstr "Àireamhachadh cinn, co-ionnanachd nan àireamhan"
-
-#: activities/scalesboard/ActivityInfo.qml:14
-msgctxt "ActivityInfo|"
-msgid ""
-"To balance the scales, move the weights on the left or the right side. The "
-"weights can be arranged in any order."
-msgstr ""
-"Gus am meidh a dhèanamh cothromaichte, gluais na clachan-tomhais dhan taobh "
-"chlì no deas. Faodaidh tu òrdugh sam bith a chur air na clachan-tomhais."
 
 #: activities/scalesboard/ScaleNumber.qml:44
 #: activities/scalesboard/ScaleNumber.qml:73
@@ -2459,6 +2458,12 @@ msgctxt "ScaleNumber|"
 msgid "Enter the weight of the gift: %1"
 msgstr ""
 
+#: activities/scalesboard_weight/ActivityInfo.qml:9
+#: activities/scalesboard_weight_avoirdupois/ActivityInfo.qml:9
+msgctxt "ActivityInfo|"
+msgid "Balance the scales properly"
+msgstr "Cuir cuideam co-ionnan air a’ mheidh"
+
 #: activities/scalesboard_weight/ActivityInfo.qml:10
 msgctxt "ActivityInfo|"
 msgid "Drag and Drop masses to balance the scales and calculate the weight"
@@ -2473,11 +2478,17 @@ msgid "Mental calculation, arithmetic equality, unit conversion"
 msgstr "Àireamhachadh cinn, co-ionnanachd nan àireamhan, iompachadh aonadan"
 
 #: activities/scalesboard_weight/ActivityInfo.qml:14
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "To balance the scales, move the masses on the left or the right side. "
+#| "Take care of the weight and the unit of the masses, remember that a "
+#| "kilogram (kg) is 1000 grams (g). They can be arranged in any order."
 msgctxt "ActivityInfo|"
 msgid ""
-"To balance the scales, move the masses on the left or the right side. Take "
-"care of the weight and the unit of the masses, remember that a kilogram (kg) "
-"is 1000 grams (g). They can be arranged in any order."
+"To balance the scales, move the masses on the left or the right side. They "
+"can be arranged in any order. Take care of the weight and the unit of the "
+"masses, remember that a kilogram (kg) is 1000 grams (g)."
 msgstr ""
 "Gus am meidh a dhèanamh cothromaichte, gluais na tomadan air an taobh clì no "
 "deas. Thoir an aire air cuideam is aonad nan tomadan is gur e 1000 "
@@ -2565,12 +2576,22 @@ msgid ""
 msgstr ""
 
 #: activities/scalesboard_weight_avoirdupois/ActivityInfo.qml:14
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "To balance the scales, move the masses on the left or the right side. "
+#| "Take care of the weight and the unit of the masses, remember that a "
+#| "kilogram (kg) is 1000 grams (g). They can be arranged in any order."
 msgctxt "ActivityInfo|"
 msgid ""
-"To balance the scales, move the masses on the left or the right side. Take "
-"care of the weight and the unit of the masses, remember that a pound (lb) is "
-"sixteen ounce (oz). They can be arranged in any order."
+"To balance the scales, move the masses on the left or the right side. They "
+"can be arranged in any order. Take care of the weight and the unit of the "
+"masses, remember that a pound (lb) is 16 ounce (oz)."
 msgstr ""
+"Gus am meidh a dhèanamh cothromaichte, gluais na tomadan air an taobh clì no "
+"deas. Thoir an aire air cuideam is aonad nan tomadan is gur e 1000 "
+"gramaichean (g) a th’ anns a’ chileagram (kg). Faodaidh tu òrdugh sam bith a "
+"chur orra."
 
 #: activities/scalesboard_weight_avoirdupois/ScalesboardWeight.qml:27
 #, qt-format
@@ -2651,58 +2672,6 @@ msgctxt "ActivityInfo|"
 msgid "Numbers with pairs of dice"
 msgstr "Àireamhan le càraidean dìsne"
 
-#: activities/sudoku/ActivityInfo.qml:28
-msgctxt "ActivityInfo|"
-msgid "Sudoku, place unique symbols in a square."
-msgstr "Sudoku, cuir samhlaidhean àraid ann an ceàrnag."
-
-#: activities/sudoku/ActivityInfo.qml:29
-msgctxt "ActivityInfo|"
-msgid ""
-"Symbols must be unique in a row, in a column, and (if defined) each region."
-msgstr ""
-"Feumaidh samhla a bhith na aonar am measg càch an dà chuid san ràgh is colbh "
-"is (ma chaidh seo mìneachadh) anns gach roinn."
-
-#: activities/sudoku/ActivityInfo.qml:31
-msgctxt "ActivityInfo|"
-msgid ""
-"The aim of the puzzle is to enter a symbol or numeral from 1 through 9 in "
-"each cell of a grid, most frequently a 9x9 grid made up of 3x3 subgrids "
-"(called 'regions'), starting with various symbols or numerals given in some "
-"cells (the 'givens'). Each row, column and region must contain only one "
-"instance of each symbol or numeral (Source &lt;http://en.wikipedia.org/wiki/"
-"Sudoku&gt;)."
-msgstr ""
-"Is an t-amas aig an tòimhseachan seo gun cuir thu samhla no àireamh eadar 1 "
-"is 9 a-steach anns gach cealla a’ ghrioda. Mar as trice, bidh griod 9x9 ann "
-"a tha dèanta de fo-ghriodan 3x3  (ris an canar “roinnean”) is tòisichidh tu "
-"le samhlaidhean no àireamhan a chaidh a thoirt dhut ann an cuid a cheallan "
-"(an “riatanas”). Chan fhaod ach aon lethbhreac aig gach samhla no àireamh a "
-"bhith anns gach ràgh, colbh no roinn (Tùs: &lt;http://en.wikipedia.org/wiki/"
-"Sudoku&gt;)."
-
-#: activities/sudoku/ActivityInfo.qml:32
-msgctxt "ActivityInfo|"
-msgid "Completing the puzzle requires patience and logical ability"
-msgstr ""
-"Tha feum air foighidinn is comas loidigeach gus a’ chùis a dhèanamh air an "
-"tòimhseachan"
-
-#: activities/sudoku/ActivityInfo.qml:33
-msgctxt "ActivityInfo|"
-msgid ""
-"For the first level with colored symbols, select a symbol on the left and "
-"click on its target position. For the higher levels, click on an empty "
-"square to give it the keyboard focus. Then enter a possible letter or "
-"number. GCompris will not let you enter invalid data."
-msgstr ""
-"Airson a’ chiad leibheil le samhlaidhean dathte, tagh samhla taobh clì is "
-"briog air a cheann-uidhe. Air na leibheilean nas àirde, briog air ceàrnag "
-"falamh gus fòcas a’ mheur-chlàir a thoirt air. An uair sin, cuir a-steach "
-"litir no àireamh iomchaidh. Cha leig GCompris leat dàta mì-dhligheach a chur "
-"a-steach."
-
 #: activities/target/ActivityInfo.qml:9
 msgctxt "ActivityInfo|"
 msgid "Practice addition with a target game"
@@ -2727,12 +2696,18 @@ msgstr ""
 "suas gu 15 airson a’ chiad leibheil"
 
 #: activities/target/ActivityInfo.qml:14
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Check the wind speed and direction, and then click on the target to "
+#| "launch a dart. When you all your darts are thrown, a window appears "
+#| "asking you to count your score. Enter the score with the keyboard then "
+#| "press the Enter key or the OK button."
 msgctxt "ActivityInfo|"
 msgid ""
-"Check the wind speed and direction, and then click on the target to launch a "
-"dart. When you all your darts are thrown, a window appears asking you to "
-"count your score. Enter the score with the keyboard then press the Enter key "
-"or the OK button."
+"Check the speed and direction of the target, and then click on it to launch "
+"a dart. When all your darts are thrown, you are asked to count your score. "
+"Enter the score with the keyboard."
 msgstr ""
 "Thoir sùil air luaths is comhair na gaoithe is an uair sin briog air an "
 "targaid gus gath a thilgeil. Ma tha a h-uile gath agad air a thilgeil, "
@@ -2774,6 +2749,20 @@ msgstr "Sgrìobh na faclan a thuiteas mus ruig iad an làr"
 msgctxt "ActivityInfo|"
 msgid "Keyboard training"
 msgstr "Cleachdadh a' mheur-chlàir"
+
+#: activities/wordsgame/ActivityInfo.qml:13
+msgctxt "ActivityInfo|"
+msgid "Keyboard manipulation"
+msgstr ""
+"Cleachdadh a’ mheur-chlàir\n"
+"\n"
+"Mar a gheibh thu na stràcan:\n"
+"1) Air Windows, feumaidh tu an iuchair ` (ri taobh 1) a bhrùthadh agus an "
+"uair sin litir eile.\n"
+"2) Air Mac, feumaidh tu ALT agus ` is an uair sin litir eile a bhrùthadh.\n"
+"\n"
+"Mur obraich sin, tadhail air www.iGaidhlig.net airson barrachd fiosrachaidh "
+"’s taic."
 
 #: activities/wordsgame/ActivityInfo.qml:14
 msgctxt "ActivityInfo|"
@@ -3101,6 +3090,281 @@ msgstr ""
 msgctxt "ReadyButton|"
 msgid "I am Ready"
 msgstr "Tha mi deiseil"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Click on the correct colored butterfly."
+#~ msgstr "Briog air an dealan-dè dathte cheart."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Answer some algebra questions"
+#~ msgstr "Freagair ceistean ailseabra"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "In a limited time, give the product of two numbers"
+#~ msgstr "Iomadaich dà àireamh ann an ùine chuingealaichte"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "A multiplication of two numbers is displayed. At the right of the equals "
+#~ "sign, give the answer, the product. Use the left and right arrows to "
+#~ "modify your answer and press the Enter key to check if you've got it "
+#~ "right. If not, just try again."
+#~ msgstr ""
+#~ "Chì thu iomadachadh dà àireimh. Thoir seachad an fhreagairt (an toradh) "
+#~ "deas air an t-samhla cho-ionnanachd. Cleachd na saighdean gus an "
+#~ "fhreagairt agad atharrachadh is brùth air an iuchair Enter gus faighinn a-"
+#~ "mach a bheil thu ceart. Mur eil, cha leig thu leas ach feuchainn a-"
+#~ "rithist."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Simple subtraction"
+#~ msgstr "Toirt air falbh simplidh"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "A subtraction problem with two numbers is displayed. At the right of the "
+#~ "equals sign, give the answer, the difference. Use the left and right "
+#~ "arrows to modify your answer and press the Enter key to check if you've "
+#~ "got it right. If not, just try again."
+#~ msgstr ""
+#~ "Chì thu ceist toirt air falbh le dà àireamh. Thoir seachad an fhreagairt "
+#~ "(an diofar) taobh deas an t-samhla co-ionnanachd. Cleachd na saighdean "
+#~ "gus an fhreagairt agad atharrachadh is brùth air an iuchair Enter gus "
+#~ "faighinn a-mach a bheil thu ceart. Mur eil, cha leig thu leas ach "
+#~ "feuchainn a-rithist."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Practice the addition operation"
+#~ msgstr "Cleachd cur ri chèile"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "In a limited time, find the sum of of two numbers. Introduction to simple "
+#~ "in-line addition."
+#~ msgstr ""
+#~ "Lorg an t-iomlan aig da àireamh ann an ùine chuingealaichte. Toiseach "
+#~ "tòiseachaidh air cur ri chèile simplidh."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Simple addition. Can recognize written numbers"
+#~ msgstr ""
+#~ "Tha cur ri chèile simplidh agad. Aithnichidh tu àireamhan sgrìobhte."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "An addition problem with two numbers is displayed. At the right of the "
+#~ "equals sign, give the answer, the sum. Use the left and right arrows to "
+#~ "modify your answer and press the Enter key to check if you've got it "
+#~ "right. If not, just try again."
+#~ msgstr ""
+#~ "Chì thu ceist cur ri chèile le dà àireamh. Thoir seachad an fhreagairt "
+#~ "(an t-iomlan) taobh deas an t-samhla co-ionnanachd. Cleachd na saighdean "
+#~ "gus an fhreagairt agad atharrachadh is brùth air an iuchair Enter gus "
+#~ "faighinn a-mach a bheil thu ceart. Mur eil, cha leig thu leas ach "
+#~ "feuchainn a-rithist."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "algorithm"
+#~ msgstr "Algairim"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Complete a list of symbols"
+#~ msgstr "Coilean liosta de shamhlaidhean"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Move and click the mouse"
+#~ msgstr "Gluais is briog leis an luchag"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Find the next symbol in a list."
+#~ msgstr "Lorg an t-ath shamhla air liosta."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "Use the left mouse button to click on the moving fish. A level 5 and "
+#~ "after, a double click is mandatory."
+#~ msgstr ""
+#~ "Briog le putan clì na luchaige air an iasg a tha a’ gluasad. On leibheil "
+#~ "5 a-mach, bidh feum air briogadh dùbailte."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Understanding mixing of colors of light."
+#~ msgstr "A' tuigsinn measgachadh dathan an t-solais."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Can move the mouse."
+#~ msgstr "Comasach air an luchag a ghluasad."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Draw the picture by clicking on each numbers in the right order."
+#~ msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "Move the mouse until all the blocks disappear. You can add you own images "
+#~ "under the directory '~/My GCompris/erase'."
+#~ msgstr ""
+#~ "Gluais an luchag gus an tèid na h-uile bloca à sealladh. ’S urrainn dhut "
+#~ "na dealbhan agad fhèin a cur ris fon phasgan “~/My GCompris/erase”."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Double click the mouse"
+#~ msgstr "Dèan briogadh dùbailte leis an luchag"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "Animal pictures come from the Animal Photography Page of Ralf Schmode "
+#~ "(http://schmode.net/). Ralf has kindly permitted GCompris to include his "
+#~ "pictures. Thanks a lot, Ralf."
+#~ msgstr ""
+#~ "Thàinig dealbhan nam beathaichean o dhuilleag dealbhan bheathaichean aig "
+#~ "Ralf Schmode (http://schmode.net/). Thug Ralf còir cead dha GCompris gus "
+#~ "na dealbhan aige a chleachdadh. A Ralf, tha sinn fada nad chomain."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Click the mouse"
+#~ msgstr "Briog leis an luchag"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "Move each item to make an increasing series: from the smallest to the "
+#~ "largest"
+#~ msgstr ""
+#~ "Gluais gach leacag ach an tig gach àireamh mhòr an dèidh àireimh nas lugha"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "Guide the Number Muncher to all the factors of the number at the top of "
+#~ "the screen."
+#~ msgstr ""
+#~ "Stiùirich itheadair nan àireamh dha na h-uile factar aig an àireamh air "
+#~ "barr na sgrìn."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Learn about multiples and factors."
+#~ msgstr "Ionnsaich mu iomadan is factaran."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "Guide the Number Muncher to the all the expressions that do not equal the "
+#~ "number at the top of the screen."
+#~ msgstr ""
+#~ "Stiùirich itheadair nan àireamh dha na h-uile eas-preisean nach ionnan "
+#~ "ris an àireamh air barr na sgrìn."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Practice addition, subtraction, multiplication and division."
+#~ msgstr "Cleachdaich cur ris, toirt air falbh, iomadachadh is roinneadh."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "Guide the Number Muncher to all the multiples of the number at the top of "
+#~ "the screen."
+#~ msgstr ""
+#~ "Stiùirich itheadair nan àireamh dha na h-uile iomad aig an àireamh air "
+#~ "barr na sgrìn."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Guide the Number Muncher to all the prime numbers."
+#~ msgstr "Stiùirich itheadair nan àireamh dha na h-uile prìomh-àireamh."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Can use the keyboard arrow to move an object."
+#~ msgstr "Tha cleachdadh na h-iuchrach saighde agad gus nì a ghluasad."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Mouse manipulation, Brain."
+#~ msgstr "Cleachdadh na luchaige, eanchainn."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "The goal of GCompris is to provide a free alternative to popular "
+#~ "proprietary edutainment software"
+#~ msgstr ""
+#~ "Isan t-amas aig GCompris gleus foghlaim saor a thoirt seachad seach "
+#~ "bathar-bog ionnsachaidh coimeirsealta"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Rebuild the same mosaic on the right area"
+#~ msgstr "Ath-thog a’ mhaois taobh deas"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Number"
+#~ msgstr "Àireamh"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "Catch the numbers in increasing order, using the up, down, right and left "
+#~ "arrows on the keyboard to move the helicopter."
+#~ msgstr ""
+#~ "Glac na h-àireamhan an òrdugh a’ dol suas, a’ cleachdadh na h-"
+#~ "iuchraichean suas, sìos, deas is clì air a’ mheur-chlàr gus an "
+#~ "heileacoptair a ghluasad."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Drag and Drop weights to balance the scales"
+#~ msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Mental calculation, arithmetic equality"
+#~ msgstr "Àireamhachadh cinn, co-ionnanachd nan àireamhan"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "To balance the scales, move the weights on the left or the right side. "
+#~ "The weights can be arranged in any order."
+#~ msgstr ""
+#~ "Gus am meidh a dhèanamh cothromaichte, gluais na clachan-tomhais dhan "
+#~ "taobh chlì no deas. Faodaidh tu òrdugh sam bith a chur air na clachan-"
+#~ "tomhais."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Sudoku, place unique symbols in a square."
+#~ msgstr "Sudoku, cuir samhlaidhean àraid ann an ceàrnag."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "Symbols must be unique in a row, in a column, and (if defined) each "
+#~ "region."
+#~ msgstr ""
+#~ "Feumaidh samhla a bhith na aonar am measg càch an dà chuid san ràgh is "
+#~ "colbh is (ma chaidh seo mìneachadh) anns gach roinn."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "The aim of the puzzle is to enter a symbol or numeral from 1 through 9 in "
+#~ "each cell of a grid, most frequently a 9x9 grid made up of 3x3 subgrids "
+#~ "(called 'regions'), starting with various symbols or numerals given in "
+#~ "some cells (the 'givens'). Each row, column and region must contain only "
+#~ "one instance of each symbol or numeral (Source &lt;http://en.wikipedia."
+#~ "org/wiki/Sudoku&gt;)."
+#~ msgstr ""
+#~ "Is an t-amas aig an tòimhseachan seo gun cuir thu samhla no àireamh eadar "
+#~ "1 is 9 a-steach anns gach cealla a’ ghrioda. Mar as trice, bidh griod 9x9 "
+#~ "ann a tha dèanta de fo-ghriodan 3x3  (ris an canar “roinnean”) is "
+#~ "tòisichidh tu le samhlaidhean no àireamhan a chaidh a thoirt dhut ann an "
+#~ "cuid a cheallan (an “riatanas”). Chan fhaod ach aon lethbhreac aig gach "
+#~ "samhla no àireamh a bhith anns gach ràgh, colbh no roinn (Tùs: &lt;http://"
+#~ "en.wikipedia.org/wiki/Sudoku&gt;)."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Completing the puzzle requires patience and logical ability"
+#~ msgstr ""
+#~ "Tha feum air foighidinn is comas loidigeach gus a’ chùis a dhèanamh air "
+#~ "an tòimhseachan"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "For the first level with colored symbols, select a symbol on the left and "
+#~ "click on its target position. For the higher levels, click on an empty "
+#~ "square to give it the keyboard focus. Then enter a possible letter or "
+#~ "number. GCompris will not let you enter invalid data."
+#~ msgstr ""
+#~ "Airson a’ chiad leibheil le samhlaidhean dathte, tagh samhla taobh clì is "
+#~ "briog air a cheann-uidhe. Air na leibheilean nas àirde, briog air ceàrnag "
+#~ "falamh gus fòcas a’ mheur-chlàir a thoirt air. An uair sin, cuir a-steach "
+#~ "litir no àireamh iomchaidh. Cha leig GCompris leat dàta mì-dhligheach a "
+#~ "chur a-steach."
 
 #~ msgctxt "advanced_colors|"
 #~ msgid "Find the coral butterfly"
