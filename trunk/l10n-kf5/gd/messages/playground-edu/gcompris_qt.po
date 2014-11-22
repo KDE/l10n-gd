@@ -113,6 +113,43 @@ msgid ""
 "balloon land!"
 msgstr ""
 
+#: activities/algebra_plus/ActivityInfo.qml:9
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Subtraction memory game"
+msgctxt "ActivityInfo|"
+msgid "Addition of numbers"
+msgstr "Geama cuimhne toirt air falbh"
+
+#: activities/algebra_plus/ActivityInfo.qml:10
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Practice the addition operation"
+msgctxt "ActivityInfo|"
+msgid "Practice the addition of numbers"
+msgstr "Cleachd cur ri chèile"
+
+#: activities/algebra_plus/ActivityInfo.qml:12
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "In a limited time, find the difference between two numbers"
+msgctxt "ActivityInfo|"
+msgid "Learn to find the sum of two numbers within a limited period of time"
+msgstr "Lorg an diofar eadar dà àireamh ann an ùine chuingealaichte"
+
+#: activities/algebra_plus/ActivityInfo.qml:13
+msgctxt "ActivityInfo|"
+msgid "Simple addition. Can recognize written numbers"
+msgstr "Tha cur ri chèile simplidh agad. Aithnichidh tu àireamhan sgrìobhte."
+
+#: activities/algebra_plus/ActivityInfo.qml:14
+msgctxt "ActivityInfo|"
+msgid ""
+"Two numbers are displayed on the screen. Quickly find the sum of them and "
+"use your computer's keyboard or the on-screen keypad to type it. You have to "
+"be fast and submit the answer before the penguins land in their balloon!"
+msgstr ""
+
 #: activities/algorithm/ActivityInfo.qml:9
 msgctxt "ActivityInfo|"
 msgid "Logical associations"
@@ -1114,6 +1151,144 @@ msgctxt "WarnMonster|"
 msgid "Be careful, a troggle !"
 msgstr ""
 
+#: activities/gnumch-factors/ActivityInfo.qml:6
+msgctxt "ActivityInfo|"
+msgid ""
+"The factors of a number are all the numbers that divide that number evenly. "
+"For example, the factors of 6 are 1, 2, 3 and 6. 4 is not a factor of 6 "
+"because 6 cannot be divided into 4 equal pieces. If one number is a multiple "
+"of a second number, then the second number is a factor of the first number. "
+"You can think of multiples as families, and factors are the people in those "
+"families. So 1, 2, 3 and 6 all fit into the 6 family, but 4 belongs to "
+"another family.<br>"
+msgstr ""
+
+#: activities/gnumch-factors/ActivityInfo.qml:7
+#: activities/gnumch-inequality/ActivityInfo.qml:15
+#: activities/gnumch-multiples/ActivityInfo.qml:7
+#: activities/gnumch-primes/ActivityInfo.qml:7
+msgctxt "ActivityInfo|"
+msgid ""
+"Use the arrow keys to navigate around the board and to avoid the Troggles. "
+"Press the space bar to eat the number"
+msgstr ""
+
+#: activities/gnumch-factors/ActivityInfo.qml:7
+#: activities/gnumch-multiples/ActivityInfo.qml:7
+#: activities/gnumch-primes/ActivityInfo.qml:7
+msgctxt "ActivityInfo|"
+msgid ""
+"Touch cells to move around the board and to avoid the Troggles. Press the "
+"Muncher to eat the number"
+msgstr ""
+
+#: activities/gnumch-factors/ActivityInfo.qml:16
+msgctxt "ActivityInfo|"
+msgid "Gnumch Factors"
+msgstr ""
+
+#: activities/gnumch-factors/ActivityInfo.qml:17
+msgctxt "ActivityInfo|"
+msgid ""
+"Guide the Number Muncher to all the factors of the number at the top of the "
+"screen."
+msgstr ""
+"Stiùirich itheadair nan àireamh dha na h-uile factar aig an àireamh air barr "
+"na sgrìn."
+
+#: activities/gnumch-factors/ActivityInfo.qml:19
+#: activities/gnumch-multiples/ActivityInfo.qml:19
+msgctxt "ActivityInfo|"
+msgid "Learn about multiples and factors."
+msgstr "Ionnsaich mu iomadan is factaran."
+
+#: activities/gnumch-inequality/ActivityInfo.qml:10
+msgctxt "ActivityInfo|"
+msgid "Gnumch Inequality"
+msgstr ""
+
+#: activities/gnumch-inequality/ActivityInfo.qml:11
+msgctxt "ActivityInfo|"
+msgid ""
+"Guide the Number Muncher to the all the expressions that do not equal the "
+"number at the top of the screen."
+msgstr ""
+"Stiùirich itheadair nan àireamh dha na h-uile eas-preisean nach ionnan ris "
+"an àireamh air barr na sgrìn."
+
+#: activities/gnumch-inequality/ActivityInfo.qml:13
+msgctxt "ActivityInfo|"
+msgid "Practice addition, subtraction, multiplication and division."
+msgstr "Cleachdaich cur ris, toirt air falbh, iomadachadh is roinneadh."
+
+#: activities/gnumch-inequality/ActivityInfo.qml:15
+msgctxt "ActivityInfo|"
+msgid ""
+"Touch cells to move around the board and to avoid the Troggles. Press the "
+"muncher to eat the number"
+msgstr ""
+
+#: activities/gnumch-multiples/ActivityInfo.qml:6
+msgctxt "ActivityInfo|"
+msgid ""
+"The multiples of a number are all the numbers that are equal to the original "
+"number times another number. For example, 24, 36, 48 and 60 are all "
+"multiples of 12. 25 is not a multiple of 12 because there isn't any number "
+"that can be multiplied by 12 to get 25. If one number is a factor of a "
+"second number, then the second number is a multiple of the first number. "
+"Again, you can think of multiples as families, and factors are the people "
+"who belong to those families. The factor 5, has parents 10, grandparents 15, "
+"great-grandparents 20, great-great-grandparents 25, and every extra step of "
+"5 is another great- in front! But the number 5 does not belong in the 8 or "
+"23 families. You can't fit any number of 5s into 8 or 23 with nothing left "
+"over. So 8 isn't a multiple of 5, nor is 23. Only 5, 10, 15, 20, 25 ... are "
+"multiples (or families or steps) of 5.<br>"
+msgstr ""
+
+#: activities/gnumch-multiples/ActivityInfo.qml:16
+msgctxt "ActivityInfo|"
+msgid "Gnumch Multiples"
+msgstr ""
+
+#: activities/gnumch-multiples/ActivityInfo.qml:17
+msgctxt "ActivityInfo|"
+msgid ""
+"Guide the Number Muncher to all the multiples of the number at the top of "
+"the screen."
+msgstr ""
+"Stiùirich itheadair nan àireamh dha na h-uile iomad aig an àireamh air barr "
+"na sgrìn."
+
+#: activities/gnumch-primes/ActivityInfo.qml:6
+msgctxt "ActivityInfo|"
+msgid ""
+"Prime numbers are numbers that are only divisible by themselves and 1. For "
+"example, 3 is a prime number, but 4 isn't (because 4 is divisible by 2). You "
+"can think of prime numbers as very small families: they only ever have two "
+"people in them! Only themselves and 1. You can't fit any other numbers into "
+"them with nothing left over. 5 is one of these lonely numbers (only 5 × 1 = "
+"5), but you can see that 6 has 2 and 3 in its family as well (6 × 1 = 6, 2 "
+"×3 = 6). So 6 is not a prime number. <br>"
+msgstr ""
+
+#: activities/gnumch-primes/ActivityInfo.qml:16
+msgctxt "ActivityInfo|"
+msgid "Gnumch Primes"
+msgstr ""
+
+#: activities/gnumch-primes/ActivityInfo.qml:17
+msgctxt "ActivityInfo|"
+msgid "Guide the Number Muncher to all the prime numbers."
+msgstr "Stiùirich itheadair nan àireamh dha na h-uile prìomh-àireamh."
+
+#: activities/gnumch-primes/ActivityInfo.qml:19
+#, fuzzy
+#| msgctxt "Warning|"
+#| msgid "1 is not a prime number."
+msgctxt "ActivityInfo|"
+msgid "Learn about prime numbers."
+msgstr "Chan eil 1 na prìomh-àireamh."
+
 #: activities/guessnumber/ActivityInfo.qml:9
 msgctxt "ActivityInfo|"
 msgid "Guess a number"
@@ -1217,17 +1392,17 @@ msgctxt "ActivityInfo|"
 msgid "Click on the correct instrument."
 msgstr "Briog air an inneal-ciùil cheart."
 
-#: activities/leftright/ActivityInfo.qml:10
+#: activities/leftright/ActivityInfo.qml:9
 msgctxt "ActivityInfo|"
 msgid "Find your left and right hands"
 msgstr "Lorg na làmhan clì is deas agad"
 
-#: activities/leftright/ActivityInfo.qml:11
+#: activities/leftright/ActivityInfo.qml:10
 msgctxt "ActivityInfo|"
 msgid "Determine if a hand is a right or a left hand"
 msgstr "Aithnich an e làmh chlì no dheas a th’ ann"
 
-#: activities/leftright/ActivityInfo.qml:13
+#: activities/leftright/ActivityInfo.qml:12
 msgctxt "ActivityInfo|"
 msgid ""
 "Distinguish right and left hands from different points of view. Spatial "
@@ -1236,7 +1411,7 @@ msgstr ""
 "Aithnich na làmhan clì is deas o chomhairean eadar-dhealaichte. Riochdachadh "
 "spàsail."
 
-#: activities/leftright/ActivityInfo.qml:15
+#: activities/leftright/ActivityInfo.qml:14
 msgctxt "ActivityInfo|"
 msgid ""
 "You can see a hand: is it a left hand or a right hand? Click on the left "
@@ -1426,7 +1601,7 @@ msgstr "Faigh lorg air an t-slighe a-mach às a' chuartan do-fhaicsinneach"
 #: activities/mazeinvisible/ActivityInfo.qml:14
 msgctxt "ActivityInfo|"
 msgid ""
-"Use the arrow keys to move Tux up to the door. Use the spacebar ?? to switch "
+"Use the arrow keys to move Tux up to the door. Use the spacebar to switch "
 "between invisible and visible modes. Visible mode just gives you an "
 "indication of your position, like a map. You cannot move Tux in visible "
 "mode.\n"
@@ -2436,6 +2611,32 @@ msgstr ""
 "an iasg. Briog air an dìsinn leis a’ phutan deas gus cunntadh sìos. Nuair a "
 "bhios tu deiseil, briog air a’ phutan “OK” no brùth air an iuchair “Enter”."
 
+#: activities/scalesboard/ActivityInfo.qml:9
+#: activities/scalesboard_weight/ActivityInfo.qml:9
+#: activities/scalesboard_weight_avoirdupois/ActivityInfo.qml:9
+msgctxt "ActivityInfo|"
+msgid "Balance the scales properly"
+msgstr "Cuir cuideam co-ionnan air a’ mheidh"
+
+#: activities/scalesboard/ActivityInfo.qml:10
+msgctxt "ActivityInfo|"
+msgid "Drag and Drop weights to balance the scales"
+msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
+
+#: activities/scalesboard/ActivityInfo.qml:12
+msgctxt "ActivityInfo|"
+msgid "Mental calculation, arithmetic equality"
+msgstr "Àireamhachadh cinn, co-ionnanachd nan àireamhan"
+
+#: activities/scalesboard/ActivityInfo.qml:14
+msgctxt "ActivityInfo|"
+msgid ""
+"To balance the scales, move the weights on the left or the right side. The "
+"weights can be arranged in any order."
+msgstr ""
+"Gus am meidh a dhèanamh cothromaichte, gluais na clachan-tomhais dhan taobh "
+"chlì no deas. Faodaidh tu òrdugh sam bith a chur air na clachan-tomhais."
+
 #: activities/scalesboard/ScaleNumber.qml:44
 #: activities/scalesboard/ScaleNumber.qml:73
 msgctxt "ScaleNumber|"
@@ -2457,12 +2658,6 @@ msgstr ""
 msgctxt "ScaleNumber|"
 msgid "Enter the weight of the gift: %1"
 msgstr ""
-
-#: activities/scalesboard_weight/ActivityInfo.qml:9
-#: activities/scalesboard_weight_avoirdupois/ActivityInfo.qml:9
-msgctxt "ActivityInfo|"
-msgid "Balance the scales properly"
-msgstr "Cuir cuideam co-ionnan air a’ mheidh"
 
 #: activities/scalesboard_weight/ActivityInfo.qml:10
 msgctxt "ActivityInfo|"
@@ -2671,6 +2866,64 @@ msgstr ""
 msgctxt "ActivityInfo|"
 msgid "Numbers with pairs of dice"
 msgstr "Àireamhan le càraidean dìsne"
+
+#: activities/sudoku/ActivityInfo.qml:28
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Sudoku, place unique symbols in a square."
+msgctxt "ActivityInfo|"
+msgid "Sudoku, place unique symbols in a grid."
+msgstr "Sudoku, cuir samhlaidhean àraid ann an ceàrnag."
+
+#: activities/sudoku/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid ""
+"Symbols must be unique in a row, in a column, and (if defined) each region."
+msgstr ""
+"Feumaidh samhla a bhith na aonar am measg càch an dà chuid san ràgh is colbh "
+"is (ma chaidh seo mìneachadh) anns gach roinn."
+
+#: activities/sudoku/ActivityInfo.qml:31
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "The aim of the puzzle is to enter a symbol or numeral from 1 through 9 in "
+#| "each cell of a grid, most frequently a 9x9 grid made up of 3x3 subgrids "
+#| "(called 'regions'), starting with various symbols or numerals given in "
+#| "some cells (the 'givens'). Each row, column and region must contain only "
+#| "one instance of each symbol or numeral (Source &lt;http://en.wikipedia."
+#| "org/wiki/Sudoku&gt;)."
+msgctxt "ActivityInfo|"
+msgid ""
+"The aim of the puzzle is to enter a symbol or numeral from 1 through 9 in "
+"each cell of a grid. In the official Sudoku the grid is 9x9 made up of 3x3 "
+"subgrids (called 'regions'). In GCompris we start at lower levels with a "
+"simpler version using symbols and with no regions. In all cases the grid is "
+"presented with various symbols or numerals given in some cells (the "
+"'givens'). Each row, column and region must contain only one instance of "
+"each symbol or numeral (Source &lt;http://en.wikipedia.org/wiki/Sudoku&gt;)."
+msgstr ""
+"Is an t-amas aig an tòimhseachan seo gun cuir thu samhla no àireamh eadar 1 "
+"is 9 a-steach anns gach cealla a’ ghrioda. Mar as trice, bidh griod 9x9 ann "
+"a tha dèanta de fo-ghriodan 3x3  (ris an canar “roinnean”) is tòisichidh tu "
+"le samhlaidhean no àireamhan a chaidh a thoirt dhut ann an cuid a cheallan "
+"(an “riatanas”). Chan fhaod ach aon lethbhreac aig gach samhla no àireamh a "
+"bhith anns gach ràgh, colbh no roinn (Tùs: &lt;http://en.wikipedia.org/wiki/"
+"Sudoku&gt;)."
+
+#: activities/sudoku/ActivityInfo.qml:32
+msgctxt "ActivityInfo|"
+msgid "Completing the puzzle requires patience and logical ability"
+msgstr ""
+"Tha feum air foighidinn is comas loidigeach gus a’ chùis a dhèanamh air an "
+"tòimhseachan"
+
+#: activities/sudoku/ActivityInfo.qml:33
+msgctxt "ActivityInfo|"
+msgid ""
+"Select a number of a symbol on the left and click on its target position. "
+"GCompris will not let you enter invalid data."
+msgstr ""
 
 #: activities/target/ActivityInfo.qml:9
 msgctxt "ActivityInfo|"
@@ -3134,21 +3387,12 @@ msgstr "Tha mi deiseil"
 #~ "feuchainn a-rithist."
 
 #~ msgctxt "ActivityInfo|"
-#~ msgid "Practice the addition operation"
-#~ msgstr "Cleachd cur ri chèile"
-
-#~ msgctxt "ActivityInfo|"
 #~ msgid ""
 #~ "In a limited time, find the sum of of two numbers. Introduction to simple "
 #~ "in-line addition."
 #~ msgstr ""
 #~ "Lorg an t-iomlan aig da àireamh ann an ùine chuingealaichte. Toiseach "
 #~ "tòiseachaidh air cur ri chèile simplidh."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Simple addition. Can recognize written numbers"
-#~ msgstr ""
-#~ "Tha cur ri chèile simplidh agad. Aithnichidh tu àireamhan sgrìobhte."
 
 #~ msgctxt "ActivityInfo|"
 #~ msgid ""
@@ -3233,42 +3477,6 @@ msgstr "Tha mi deiseil"
 #~ "Gluais gach leacag ach an tig gach àireamh mhòr an dèidh àireimh nas lugha"
 
 #~ msgctxt "ActivityInfo|"
-#~ msgid ""
-#~ "Guide the Number Muncher to all the factors of the number at the top of "
-#~ "the screen."
-#~ msgstr ""
-#~ "Stiùirich itheadair nan àireamh dha na h-uile factar aig an àireamh air "
-#~ "barr na sgrìn."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Learn about multiples and factors."
-#~ msgstr "Ionnsaich mu iomadan is factaran."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid ""
-#~ "Guide the Number Muncher to the all the expressions that do not equal the "
-#~ "number at the top of the screen."
-#~ msgstr ""
-#~ "Stiùirich itheadair nan àireamh dha na h-uile eas-preisean nach ionnan "
-#~ "ris an àireamh air barr na sgrìn."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Practice addition, subtraction, multiplication and division."
-#~ msgstr "Cleachdaich cur ris, toirt air falbh, iomadachadh is roinneadh."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid ""
-#~ "Guide the Number Muncher to all the multiples of the number at the top of "
-#~ "the screen."
-#~ msgstr ""
-#~ "Stiùirich itheadair nan àireamh dha na h-uile iomad aig an àireamh air "
-#~ "barr na sgrìn."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Guide the Number Muncher to all the prime numbers."
-#~ msgstr "Stiùirich itheadair nan àireamh dha na h-uile prìomh-àireamh."
-
-#~ msgctxt "ActivityInfo|"
 #~ msgid "Can use the keyboard arrow to move an object."
 #~ msgstr "Tha cleachdadh na h-iuchrach saighde agad gus nì a ghluasad."
 
@@ -3300,58 +3508,6 @@ msgstr "Tha mi deiseil"
 #~ "Glac na h-àireamhan an òrdugh a’ dol suas, a’ cleachdadh na h-"
 #~ "iuchraichean suas, sìos, deas is clì air a’ mheur-chlàr gus an "
 #~ "heileacoptair a ghluasad."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Drag and Drop weights to balance the scales"
-#~ msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Mental calculation, arithmetic equality"
-#~ msgstr "Àireamhachadh cinn, co-ionnanachd nan àireamhan"
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid ""
-#~ "To balance the scales, move the weights on the left or the right side. "
-#~ "The weights can be arranged in any order."
-#~ msgstr ""
-#~ "Gus am meidh a dhèanamh cothromaichte, gluais na clachan-tomhais dhan "
-#~ "taobh chlì no deas. Faodaidh tu òrdugh sam bith a chur air na clachan-"
-#~ "tomhais."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Sudoku, place unique symbols in a square."
-#~ msgstr "Sudoku, cuir samhlaidhean àraid ann an ceàrnag."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid ""
-#~ "Symbols must be unique in a row, in a column, and (if defined) each "
-#~ "region."
-#~ msgstr ""
-#~ "Feumaidh samhla a bhith na aonar am measg càch an dà chuid san ràgh is "
-#~ "colbh is (ma chaidh seo mìneachadh) anns gach roinn."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid ""
-#~ "The aim of the puzzle is to enter a symbol or numeral from 1 through 9 in "
-#~ "each cell of a grid, most frequently a 9x9 grid made up of 3x3 subgrids "
-#~ "(called 'regions'), starting with various symbols or numerals given in "
-#~ "some cells (the 'givens'). Each row, column and region must contain only "
-#~ "one instance of each symbol or numeral (Source &lt;http://en.wikipedia."
-#~ "org/wiki/Sudoku&gt;)."
-#~ msgstr ""
-#~ "Is an t-amas aig an tòimhseachan seo gun cuir thu samhla no àireamh eadar "
-#~ "1 is 9 a-steach anns gach cealla a’ ghrioda. Mar as trice, bidh griod 9x9 "
-#~ "ann a tha dèanta de fo-ghriodan 3x3  (ris an canar “roinnean”) is "
-#~ "tòisichidh tu le samhlaidhean no àireamhan a chaidh a thoirt dhut ann an "
-#~ "cuid a cheallan (an “riatanas”). Chan fhaod ach aon lethbhreac aig gach "
-#~ "samhla no àireamh a bhith anns gach ràgh, colbh no roinn (Tùs: &lt;http://"
-#~ "en.wikipedia.org/wiki/Sudoku&gt;)."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Completing the puzzle requires patience and logical ability"
-#~ msgstr ""
-#~ "Tha feum air foighidinn is comas loidigeach gus a’ chùis a dhèanamh air "
-#~ "an tòimhseachan"
 
 #~ msgctxt "ActivityInfo|"
 #~ msgid ""
