@@ -829,12 +829,17 @@ msgstr ""
 
 #: activities/erase/ActivityInfo.qml:9
 msgctxt "ActivityInfo|"
-msgid "Move the mouse"
-msgstr "Gluais an luchag"
+msgid "Move the mouse or touch the screen"
+msgstr ""
 
 #: activities/erase/ActivityInfo.qml:10
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Move the mouse to erase the area and discover the background"
 msgctxt "ActivityInfo|"
-msgid "Move the mouse to erase the area and discover the background"
+msgid ""
+"Move the mouse or touch the screen to erase the area and discover the "
+"background"
 msgstr "Gluais an luchag gus an raon a shuathadh is an cùlaibh a nochdadh"
 
 #: activities/erase/ActivityInfo.qml:12
@@ -857,7 +862,7 @@ msgstr "Cleachdadh na luchaige"
 #| msgctxt "ActivityInfo|"
 #| msgid "Click the mouse on rectangles until all the blocks disappear."
 msgctxt "ActivityInfo|"
-msgid "Move the mouse until all the blocks disappear."
+msgid "Move the mouse or touch the screen until all the blocks disappear."
 msgstr ""
 "Briog leis an luchag air na ceart-cheàrnaich gus an tèid na h-uile bloca à "
 "sealladh."
@@ -1482,6 +1487,17 @@ msgstr ""
 "dhe na rionnagan. Briog air an ad a-rithist gus a dùnadh. Feumaidh tu "
 "cunntadh co mheud rionnag a tha fon ad fhathast. Briog air an raon air a’ "
 "bhonn gu deas gus freagairt a thoirt."
+
+#. The math operation
+#: activities/magic-hat-minus/MagicHat.qml:81
+msgctxt "MagicHat|"
+msgid "-"
+msgstr ""
+
+#: activities/magic-hat-minus/MagicHat.qml:81
+msgctxt "MagicHat|"
+msgid "+"
+msgstr ""
 
 #: activities/magic-hat-plus/ActivityInfo.qml:10
 msgctxt "ActivityInfo|"
@@ -3350,6 +3366,10 @@ msgstr ""
 msgctxt "ReadyButton|"
 msgid "I am Ready"
 msgstr "Tha mi deiseil"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Move the mouse"
+#~ msgstr "Gluais an luchag"
 
 #, fuzzy
 #~| msgctxt "ActivityInfo|"
