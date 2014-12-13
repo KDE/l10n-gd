@@ -1,0 +1,118 @@
+# GunChleoc <fios@foramnagaidhlig.net>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2014-11-12 08:08+0000\n"
+"PO-Revision-Date: 2014-11-24 12:34+0100\n"
+"Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
+"Language-Team: Fòram na Gàidhlig\n"
+"Language: gd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
+"(n > 2 && n < 20) ? 2 : 3;\n"
+"X-Generator: Virtaal 0.7.1\n"
+"X-Project-Style: kde\n"
+
+#: src/service/files/kactivitymanagerd.desktop:9
+msgctxt "Name"
+msgid "Activity Manager"
+msgstr "Manaidsear nan gnìomhachdan"
+
+#: src/service/files/kactivitymanagerd.desktop:61
+msgctxt "Comment"
+msgid "The activity management backend"
+msgstr "Backend gus na gnìomhachdan a stiùireadh"
+
+#: src/service/files/kactivitymanagerd-plugin.desktop:5
+msgctxt "Comment"
+msgid "Activity manager plugin"
+msgstr "Plugan manaidsear nan gnìomhachdan"
+
+#: src/service/plugins/activitytemplates/kactivitymanagerd-plugin-activitytemplates.desktop:2
+msgctxt "Name"
+msgid "Activity Templates"
+msgstr "Teamplaidean nan gnìomhachdan"
+
+#: src/service/plugins/activitytemplates/kactivitymanagerd-plugin-activitytemplates.desktop:40
+msgctxt "Comment"
+msgid "Support for creating templated activities"
+msgstr "Taic gus gnìomhachdan a chruthachadh le teamplaidean"
+
+#: src/service/plugins/globalshortcuts/kactivitymanagerd-plugin-globalshortcuts.desktop:2
+msgctxt "Name"
+msgid "Global Shortcuts"
+msgstr "Ath-ghoiridean uile-choitcheann"
+
+#: src/service/plugins/globalshortcuts/kactivitymanagerd-plugin-globalshortcuts.desktop:51
+msgctxt "Comment"
+msgid "Adds global keyboard shortcuts for activity switching"
+msgstr ""
+"Cuiridh seo ath-ghoiridean meur-chlàir uile-choitcheann ris gus leam a "
+"ghearradh eadar gnìomhachdan"
+
+#: src/service/plugins/slc/kactivitymanagerd-plugin-slc.desktop:2
+msgctxt "Name"
+msgid "Share-Like-Connect"
+msgstr "Share-Like-Connect"
+
+#: src/service/plugins/slc/kactivitymanagerd-plugin-slc.desktop:47
+msgctxt "Comment"
+msgid "Provides data to Share-Like-Connect applet"
+msgstr "Bheir seo dàta dhan aplaid Share-Like-Connect"
+
+#: src/service/plugins/sqlite/kactivitymanagerd-plugin-sqlite.desktop:2
+msgctxt "Name"
+msgid "Sqlite Feeder"
+msgstr "Inbhir Sqlite"
+
+#: src/service/plugins/sqlite/kactivitymanagerd-plugin-sqlite.desktop:49
+msgctxt "Comment"
+msgid "Plugin to store and score events in Sqlite"
+msgstr "Plugan gus tachartasan a ghlèidheadh 's a rangachadh ann an Sqlite"
+
+#: src/service/plugins/virtualdesktopswitch/kactivitymanagerd-plugin-virtualdesktopswitch.desktop:2
+msgctxt "Name"
+msgid "Virtual desktop switcher"
+msgstr "Suidsear nan deasgan bhiortail"
+
+#: src/service/plugins/virtualdesktopswitch/kactivitymanagerd-plugin-virtualdesktopswitch.desktop:50
+msgctxt "Comment"
+msgid ""
+"When switching to an activity, opens the virtual desktop last used with that "
+"activity"
+msgstr ""
+"Nuair a ghearras tu leum gu gnìomhachd eile, thèid an deasg bhiortail "
+"fhosgladh a chleachd thu leis a' ghnìomhachd sin an turas mu dheireadh"
+
+#: src/workspace/fileitemplugin/kactivitymanagerd_fileitem_linking_plugin.desktop:4
+msgctxt "Name"
+msgid "File to activity linking plugin"
+msgstr "Plugan gus faidhlichean a co-cheangal ri gnìomhachdan"
+
+#: src/workspace/settings/kcm_activities.desktop:13
+msgctxt "Name"
+msgid "Activities"
+msgstr "Gnìomhachdan"
+
+#: src/workspace/settings/kcm_activities.desktop:62
+msgctxt "Comment"
+msgid "Configure the activities system"
+msgstr "Rèitich siostam nan gnìomhachdan"
+
+#: tests/imports/org.kde.listactivitiestest/metadata.desktop:3
+msgctxt "Name"
+msgid "Activities testing"
+msgstr "Deuchainn nan gnìomhachdan"
+
+#: tests/imports/plasma-applet-org.kde.listactivitiestest.desktop:2
+msgctxt "Name"
+msgid "List activities test"
+msgstr "Seall deuchainn air na gnìomhachdan"
+
+#: tests/imports/plasma-applet-org.kde.listactivitiestest.desktop:36
+msgctxt "Comment"
+msgid "Strange, but not a Clock"
+msgstr "Neònach ach chan e uaireadair a th' ann"

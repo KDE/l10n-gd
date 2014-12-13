@@ -1,0 +1,32 @@
+# GunChleoc <fios@foramnagaidhlig.net>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2014-04-27 21:00+0000\n"
+"PO-Revision-Date: 2014-11-24 18:06+0100\n"
+"Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
+"Language-Team: Fòram na Gàidhlig\n"
+"Language: gd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
+"(n > 2 && n < 20) ? 2 : 3;\n"
+"X-Generator: Virtaal 0.7.1\n"
+"X-Project-Style: kde\n"
+
+#: autotests/notepad.desktop:2
+msgctxt "Name"
+msgid "Notepad (example)"
+msgstr "Pada-nòtaichean (ball-eisimpleir)"
+
+#: src/browserview.desktop:5
+msgctxt "Name"
+msgid "Browser View"
+msgstr "Sealladh a' bhrabhsair"
+
+#: src/kpart.desktop:4 src/krop.desktop:5 src/krwp.desktop:5
+msgctxt "Comment"
+msgid "KDE Component"
+msgstr "Co-phàirt KDE"

@@ -1,0 +1,57 @@
+# GunChleoc <fios@foramnagaidhlig.net>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2014-05-04 08:22+0000\n"
+"PO-Revision-Date: 2014-11-24 17:56+0100\n"
+"Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
+"Language-Team: Fòram na Gàidhlig\n"
+"Language: gd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
+"(n > 2 && n < 20) ? 2 : 3;\n"
+"X-Generator: Virtaal 0.7.1\n"
+"X-Project-Style: kde\n"
+
+#: src/providers/adium/emoticonstheme_adium.desktop:3
+msgctxt "Name"
+msgid "Adium Emoticons Theme"
+msgstr "Ùrlar shamhlaidhean-gnùis Adium"
+
+#: src/providers/adium/emoticonstheme_adium.desktop:82
+msgctxt "Comment"
+msgid "Library to use Adium emoticons theme"
+msgstr "Leabharlann gus ùrlar nan samhlaidhean-gnùis Adium a chleachdadh"
+
+#: src/providers/kde/emoticonstheme_kde.desktop:3
+msgctxt "Name"
+msgid "KDE Emoticons Theme"
+msgstr "Ùrlar shamhlaidhean-gnùis KDE"
+
+#: src/providers/kde/emoticonstheme_kde.desktop:69
+msgctxt "Comment"
+msgid "Library to use KDE emoticons theme"
+msgstr "Leabharlann gus ùrlar nan samhlaidhean-gnùis KDE a chleachdadh"
+
+#: src/providers/pidgin/emoticonstheme_pidgin.desktop:3
+msgctxt "Name"
+msgid "Pidgin Emoticons Theme"
+msgstr "Ùrlar shamhlaidhean-gnùis Pidgin"
+
+#: src/providers/pidgin/emoticonstheme_pidgin.desktop:84
+msgctxt "Comment"
+msgid "Library to use Pidgin emoticons theme"
+msgstr "Leabharlann gus ùrlar nan samhlaidhean-gnùis Pidgin a chleachdadh"
+
+#: src/providers/xmpp/emoticonstheme_xmpp.desktop:3
+msgctxt "Name"
+msgid "XMPP Emoticons Theme"
+msgstr "Ùrlar shamhlaidhean-gnùis XMPP"
+
+#: src/providers/xmpp/emoticonstheme_xmpp.desktop:83
+msgctxt "Comment"
+msgid "Library to use XMPP emoticons theme"
+msgstr "Leabharlann gus ùrlar nan samhlaidhean-gnùis XMPP a chleachdadh"

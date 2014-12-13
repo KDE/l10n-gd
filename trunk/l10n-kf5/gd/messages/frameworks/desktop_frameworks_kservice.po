@@ -1,0 +1,52 @@
+# GunChleoc <fios@foramnagaidhlig.net>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2014-11-24 08:02+0000\n"
+"PO-Revision-Date: 2014-11-24 18:08+0100\n"
+"Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
+"Language-Team: Fòram na Gàidhlig\n"
+"Language: gd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
+"(n > 2 && n < 20) ? 2 : 3;\n"
+"X-Generator: Virtaal 0.7.1\n"
+"X-Project-Style: kde\n"
+
+#: autotests/fakekdedmodule.desktop:5
+msgctxt "Comment"
+msgid "KDED Module"
+msgstr "Mòideal KDED"
+
+#: autotests/fakeplugin.desktop:2
+msgctxt "Name"
+msgid "NSA Plugin"
+msgstr "Plugan NSA"
+
+#: autotests/fakeplugin.desktop:42
+msgctxt "Comment"
+msgid "Test Plugin Spy"
+msgstr "Plugan deuchainneach brathadair"
+
+#: autotests/noplugin.desktop:2
+msgctxt "Name"
+msgid "No Plugin"
+msgstr "Gun phlugan"
+
+#: autotests/noplugin.desktop:39
+msgctxt "Comment"
+msgid "This does not have a library"
+msgstr "Chan eil leabharlann aige"
+
+#: src/services/application.desktop:4
+msgctxt "Name"
+msgid "Application"
+msgstr "Aplacaid"
+
+#: src/services/kplugininfo.desktop:4
+msgctxt "Name"
+msgid "KDE Plugin Information"
+msgstr "Fiosrachadh a' phlugain KDE"

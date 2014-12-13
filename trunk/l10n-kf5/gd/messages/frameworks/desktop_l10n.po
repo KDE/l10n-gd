@@ -1,0 +1,512 @@
+# GunChleoc <fios@foramnagaidhlig.net>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2014-10-24 08:19+0000\n"
+"PO-Revision-Date: 2014-11-24 18:31+0100\n"
+"Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
+"Language-Team: Fòram na Gàidhlig\n"
+"Language: gd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
+"(n > 2 && n < 20) ? 2 : 3;\n"
+"X-Generator: Virtaal 0.7.1\n"
+"X-Project-Style: kde\n"
+
+#: af/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Afrikaans"
+msgstr "Afraganais"
+
+#: ar/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Arabic"
+msgstr "Arabais"
+
+#: as/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Assamese"
+msgstr "Asamais"
+
+#: ast/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Asturian"
+msgstr "Astùrais"
+
+#: be@latin/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Belarusian Latin"
+msgstr "Bealaruisis (Laideann)"
+
+#: be/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Belarusian"
+msgstr "Bealaruisis"
+
+#: bg/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Bulgarian"
+msgstr "Bulgairis"
+
+#: bn_IN/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Bengali (India)"
+msgstr "Beangailis nan Innseachan"
+
+#: bn/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Bengali"
+msgstr "Beangailis"
+
+#: br/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Breton"
+msgstr "Breatnais"
+
+#: bs/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Bosnian"
+msgstr "Bosnais"
+
+#: ca/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Catalan"
+msgstr "Catalanais"
+
+#: ca@valencia/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Catalan (Valencian)"
+msgstr "Catalanais (Valencianais)"
+
+#: crh/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Crimean Tatar"
+msgstr "Tatarais A' Chriom"
+
+#: csb/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Kashubian"
+msgstr "Caisiubais"
+
+#: cs/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Czech"
+msgstr "Seacais"
+
+#: cy/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Welsh"
+msgstr "Cuimris"
+
+#: da/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Danish"
+msgstr "Danmhairgis"
+
+#: de/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "German"
+msgstr "Gearmailtis"
+
+#: el/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Greek"
+msgstr "Greugais"
+
+#: en_GB/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "British English"
+msgstr "Beurla Bhreatainn"
+
+#: eo/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Esperanto"
+msgstr "Esperanto"
+
+#: es/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Spanish"
+msgstr "Spàinntis"
+
+#: et/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Estonian"
+msgstr "Eastoinis"
+
+#: eu/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Basque"
+msgstr "Basgais"
+
+#: fa/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Farsi"
+msgstr "Farsaidh"
+
+#: fi/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Finnish"
+msgstr "Fionnlannais"
+
+#: fr/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "French"
+msgstr "Fraingis"
+
+#: fy/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Frisian"
+msgstr "Frìsis"
+
+#: ga/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Irish"
+msgstr "Gaeilge"
+
+#: gl/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Galician"
+msgstr "Gailìsis"
+
+#: gu/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: ha/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Hausa"
+msgstr "Hausa"
+
+#: he/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Hebrew"
+msgstr "Eabhra"
+
+#: hi/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Hindi"
+msgstr "Hindis"
+
+#: hne/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Chhattisgarhi"
+msgstr "Chhattisgarhi"
+
+#: hr/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Croatian"
+msgstr "Cròthaisis"
+
+#: hsb/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Upper Sorbian"
+msgstr "Sòrbais Uachdarach"
+
+#: hu/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Hungarian"
+msgstr "Ungairis"
+
+#: hy/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Armenian"
+msgstr "Airmeinis"
+
+#: ia/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Interlingua"
+msgstr "Interlingua"
+
+#: id/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Indonesian"
+msgstr "Innd-Innsis"
+
+#: is/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Icelandic"
+msgstr "Innis Tìlis"
+
+#: it/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Italian"
+msgstr "Eadailtis"
+
+#: ja/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Japanese"
+msgstr "Seapanais"
+
+#: ka/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Georgian"
+msgstr "Cairtbheilis"
+
+#: kk/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Kazakh"
+msgstr "Casachais"
+
+#: km/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Khmer"
+msgstr "Cmèar"
+
+#: kn/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Kannada"
+msgstr "Kannada"
+
+#: ko/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Korean"
+msgstr "Coireanais"
+
+#: ku/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Kurdish"
+msgstr "Cùrdais"
+
+#: lb/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Luxembourgish"
+msgstr "Lugsamburgais"
+
+#: lt/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Lithuanian"
+msgstr "Liotuainis"
+
+#: lv/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Latvian"
+msgstr "Laitbheis"
+
+#: mai/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Maithili"
+msgstr "Maithili"
+
+#: mk/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Macedonian"
+msgstr "Masadonais"
+
+#: ml/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Malayalam"
+msgstr "Malayalam"
+
+#: mr/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Marathi"
+msgstr "Marathi"
+
+#: ms/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Malay"
+msgstr "Malaidhis"
+
+#: nb/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Norwegian Bokmål"
+msgstr "Bokmål na Nirribhidh"
+
+#: nds/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Low Saxon"
+msgstr "Sagsannais Ìochdarach"
+
+#: ne/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Nepali"
+msgstr "Neapàilis"
+
+#: nl/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Dutch"
+msgstr "Duitsis"
+
+#: nn/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Norwegian Nynorsk"
+msgstr "Nynorsk na Nirribhidh"
+
+#: or/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Oriya"
+msgstr "Oriya"
+
+#: pa/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Punjabi"
+msgstr "Panjabi"
+
+#: pl/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Polish"
+msgstr "Pòlainnis"
+
+#: ps/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Pashto"
+msgstr "Pachtu"
+
+#: pt_BR/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Brazil portuguese"
+msgstr "Portagailis Bhraisileach"
+
+#: pt/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Portuguese"
+msgstr "Portagailis"
+
+#: ro/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Romanian"
+msgstr "Romàinis"
+
+#: ru/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Russian"
+msgstr "Ruisis"
+
+#: se/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Northern Sami"
+msgstr "Sàmais Thuathach"
+
+#: si/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Sinhala"
+msgstr "Sinhala"
+
+#: sk/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Slovak"
+msgstr "Slòbhacais"
+
+#: sl/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Slovenian"
+msgstr "Slòbhainis"
+
+#: sq/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Albanian"
+msgstr "Albàinis"
+
+#: sr@ijekavianlatin/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Serbian Ijekavian Latin"
+msgstr "Sèirbis Ijekavianach (Laideann)"
+
+#: sr@ijekavian/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Serbian Ijekavian"
+msgstr "Sèirbis Ijekavianach"
+
+#: sr@latin/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Serbian Latin"
+msgstr "Sèirbis (Laideann)"
+
+#: sr/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Serbian"
+msgstr "Sèirbis"
+
+#: sv/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Swedish"
+msgstr "Suainis"
+
+#: ta/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Tamil"
+msgstr "Taimilis"
+
+#: te/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Telugu"
+msgstr "Telugu"
+
+#: tg/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Tajik"
+msgstr "Taidigis"
+
+#: th/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Thai"
+msgstr "Tàidh"
+
+#: tr/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Turkish"
+msgstr "Turcais"
+
+#: tt/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Tatar"
+msgstr "Tatarais"
+
+#: ug/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Uyghur"
+msgstr "Ùigiurais"
+
+#: uk/messages/frameworks/kf5_entry.desktop:52
+msgctxt "Name"
+msgid "Ukrainian"
+msgstr "Ucràinis"
+
+#: uz@cyrillic/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Uzbek (Cyrillic)"
+msgstr "Usbagais (Cirilis)"
+
+#: uz/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Uzbek"
+msgstr "Usbagais"
+
+#: vi/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Vietnamese"
+msgstr "Bhiet-Namais"
+
+#: wa/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Walloon"
+msgstr "Bhallonais"
+
+#: xh/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Xhosa"
+msgstr "Xhosa"
+
+#: x-test/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "KDE Test Language"
+msgstr "Cànan deuchainneach KDE"
+
+#: zh_CN/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Simplified Chinese"
+msgstr "Sìnis Shimplichte"
+
+#: zh_HK/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Chinese (Hong Kong)"
+msgstr "Sìnis (Hong Kong)"
+
+#: zh_TW/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Traditional Chinese"
+msgstr "Sìnis Thradaiseanta"
