@@ -45,7 +45,8 @@ msgstr "&Lorg:"
 
 #: kicondialog.cpp:302
 msgid "Search interactively for icon names (e.g. folder)."
-msgstr "Lorg gu h-eadar-ghnìomhach airson ainmean ìomhaigheagan (pasgan, m.e.)."
+msgstr ""
+"Lorg gu h-eadar-ghnìomhach airson ainmean ìomhaigheagan (pasgan, m.e.)."
 
 #: kicondialog.cpp:332
 msgid "Actions"
@@ -98,5 +99,4 @@ msgstr "Staid"
 #: kicondialog.cpp:589
 msgid "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 msgstr ""
-"*.png *.xpm *.svg *.svgz|Faidhlichean ìomhaigheige (*.png *.xpm *.svg "
-"*.svgz)"
+"*.png *.xpm *.svg *.svgz|Faidhlichean ìomhaigheige (*.png *.xpm *.svg *.svgz)"

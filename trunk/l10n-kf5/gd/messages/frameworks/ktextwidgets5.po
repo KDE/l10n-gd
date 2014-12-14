@@ -38,7 +38,8 @@ msgstr "Lorg an ath fhear"
 #: findreplace/kfind.cpp:65
 #, kde-format
 msgid "<qt>Find next occurrence of '<b>%1</b>'?</qt>"
-msgstr "<qt>A bheil thu airson ath sheise na h-abairt \"<b>%1</b>\" a lorg?</qt>"
+msgstr ""
+"<qt>A bheil thu airson ath sheise na h-abairt \"<b>%1</b>\" a lorg?</qt>"
 
 #: findreplace/kfind.cpp:624 findreplace/kfind.cpp:643
 #, kde-format
@@ -204,11 +205,11 @@ msgid ""
 "in front of it, like <code><b>\\\\N</b></code>.</p></qt>"
 msgstr ""
 "<qt>Ma tha seo an comas, thèid an glacadh a fhreagras (\"fo-shreang eadar "
-"camagan\") sa phàtran a chur an àite gach seise airson "
-"<code><b>\\N</b></code>, le <code><b>N</b></code> 'na h-àireamh shlàn.<p>Ma "
-"tha thu airson litearail <code><b>\\N</b></code> a chur san rud a thèid a "
-"chur 'na àite, feumaidh tu slais air ais a bharrachd a chur air a bheulaibh, "
-"can <code><b>\\\\N</b></code>.</p></qt>"
+"camagan\") sa phàtran a chur an àite gach seise airson <code><b>\\N</b></"
+"code>, le <code><b>N</b></code> 'na h-àireamh shlàn.<p>Ma tha thu airson "
+"litearail <code><b>\\N</b></code> a chur san rud a thèid a chur 'na àite, "
+"feumaidh tu slais air ais a bharrachd a chur air a bheulaibh, can <code><b>\\"
+"\\N</b></code>.</p></qt>"
 
 #: findreplace/kfinddialog.cpp:229
 msgid "Click for a menu of available captures."
@@ -231,8 +232,8 @@ msgid ""
 "Perform a case sensitive search: entering the pattern 'Joe' will not match "
 "'joe' or 'JOE', only 'Joe'."
 msgstr ""
-"Lorg le aire air litrichean mòra 's beaga: freagraidh \"Seòras\" ri \"Seòras\" "
-"ach cha fhreagair seo ri \"seòras\" no \"SEÒRAS\"."
+"Lorg le aire air litrichean mòra 's beaga: freagraidh \"Seòras\" ri \"Seòras"
+"\" ach cha fhreagair seo ri \"seòras\" no \"SEÒRAS\"."
 
 #: findreplace/kfinddialog.cpp:240
 msgid "Search backwards."
@@ -364,8 +365,8 @@ msgstr "Cuir stad air"
 #, kde-format
 msgid "Your replacement string is referencing a capture greater than '\\%1', "
 msgstr ""
-"Tha an sreang ri chur an àite a' toirt iomradh air glacadh a tha nas motha "
-"na\"\\%1\", "
+"Tha an sreang ri chur an àite a' toirt iomradh air glacadh a tha nas motha na"
+"\"\\%1\", "
 
 #: findreplace/kreplacedialog.cpp:153
 #, kde-format

@@ -37,7 +37,8 @@ msgstr "Ainm na h-aplacaid a thèid fhàgail"
 #, qt-format
 msgctxt "main|"
 msgid "Application %1 could not be found using service %2 and path %3."
-msgstr "Cha deach an aplacaid %1 a lorg leis an t-seirbheis %2 san t-slighe %3."
+msgstr ""
+"Cha deach an aplacaid %1 a lorg leis an t-seirbheis %2 san t-slighe %3."
 
 #: tools/kquitapp/kquitapp.cpp:63
 #, qt-format

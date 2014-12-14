@@ -1931,8 +1931,7 @@ msgstr "Còmhradh di-bhugachaidh"
 #: kdebugdialog/main.cpp:100
 msgid "A dialog box for setting preferences for debug output"
 msgstr ""
-"Bogsa-còmhraidh gus roghainnean a shuidheachadh airson às-chur "
-"dì-bhugachaidh"
+"Bogsa-còmhraidh gus roghainnean a shuidheachadh airson às-chur dì-bhugachaidh"
 
 #: kdebugdialog/main.cpp:101
 msgid "Copyright 1999-2009, David Faure <faure@kde.org>"
@@ -1995,8 +1994,7 @@ msgstr "cha chuirear taic ris an teaghlach a chaidh iarraidh"
 #: kdecore/k3resolver.cpp:543
 msgid "requested service not supported for this socket type"
 msgstr ""
-"cha chuirear taic ris an teaghlach a chaidh iarraidh le seòrsa na socaide "
-"seo"
+"cha chuirear taic ris an teaghlach a chaidh iarraidh le seòrsa na socaide seo"
 
 #: kdecore/k3resolver.cpp:544
 msgid "requested socket type not supported"
@@ -2192,8 +2190,8 @@ msgid ""
 msgstr ""
 "<p>Tha KDE 'ga eadar-theangachadh gu iomadh cànan taing dhan obair a nì "
 "sgiobaidhean eadar-theangachaidh air feadh an t-saoghail.</p><p>Airson "
-"barrachd fiosrachaidh mu eadar-theangachadh aig KDE, tadhail air <a "
-"href=\"http://l10n.kde.org\">http://l10n.kde.org</a></p>"
+"barrachd fiosrachaidh mu eadar-theangachadh aig KDE, tadhail air <a href="
+"\"http://l10n.kde.org\">http://l10n.kde.org</a></p>"
 
 #: kdecore/kcalendarsystem.cpp:108
 msgctxt "@item Calendar system"
@@ -7928,7 +7926,8 @@ msgstr "Aimeireaga/Swift Current"
 #. i18n: comment to the previous timezone
 #: kdecore/TIMEZONES:455
 msgid "Central Standard Time - Saskatchewan - midwest"
-msgstr "Bun-àm Meadhan Aimeireaga a Tuath - Saskatchewan - Meadhan an taobh Iar"
+msgstr ""
+"Bun-àm Meadhan Aimeireaga a Tuath - Saskatchewan - Meadhan an taobh Iar"
 
 #: kdecore/TIMEZONES:456
 msgid "America/Tegucigalpa"
@@ -8473,8 +8472,7 @@ msgstr "Àisia/Makassar"
 #: kdecore/TIMEZONES:633 kdecore/TIMEZONES:688
 msgid "east & south Borneo, Celebes, Bali, Nusa Tenggara, west Timor"
 msgstr ""
-"Eilean Bhoirneo an Ear 's a Deas, Celebes, Bali, Nusa Tenggara, Tìomor an "
-"Iar"
+"Eilean Bhoirneo an Ear 's a Deas, Celebes, Bali, Nusa Tenggara, Tìomor an Iar"
 
 #. i18n: comment to the previous timezone
 #: kdecore/TIMEZONES:635
@@ -10787,10 +10785,9 @@ msgid ""
 "This means it could not even be calculated as opposed to just not matching "
 "the expected result."
 msgstr ""
-"Cha deach leinn soidhneadh liosta nan teisteanas air an cùl-ghairm a "
-"dhì-chrioptachadh. Is ciall dha seo nach b' urrainn dhuinn àireamhachadh "
-"idir seach gun do dh'fhàillig coimeas an toraidh air an robhar an dùil "
-"a-mhàin."
+"Cha deach leinn soidhneadh liosta nan teisteanas air an cùl-ghairm a dhì-"
+"chrioptachadh. Is ciall dha seo nach b' urrainn dhuinn àireamhachadh idir "
+"seach gun do dh'fhàillig coimeas an toraidh air an robhar an dùil a-mhàin."
 
 #: kssl/ksslcertificate.cpp:1063
 msgid ""
@@ -10816,8 +10813,7 @@ msgid ""
 "that the CRL can not be verified."
 msgstr ""
 "Tha soidhneadh liosta nan teisteanas air an cùl-ghairm mì-dhligheach. Is "
-"ciall dha seo nach gabh liosta nan teisteanas air an cùl-ghairm a "
-"dhearbhadh."
+"ciall dha seo nach gabh liosta nan teisteanas air an cùl-ghairm a dhearbhadh."
 
 #: kssl/ksslcertificate.cpp:1069
 msgid "The certificate is not valid, yet."
@@ -10833,11 +10829,13 @@ msgstr "Chan eil liosta nan teisteanas air an cùl-ghairm dligheach fhathast."
 
 #: kssl/ksslcertificate.cpp:1077
 msgid "The time format of the certificate's 'notBefore' field is invalid."
-msgstr "Tha fòrmat na h-ama air raon \"notBefore\" an teisteanais mì-dhligheach."
+msgstr ""
+"Tha fòrmat na h-ama air raon \"notBefore\" an teisteanais mì-dhligheach."
 
 #: kssl/ksslcertificate.cpp:1079
 msgid "The time format of the certificate's 'notAfter' field is invalid."
-msgstr "Tha fòrmat na h-ama air raon \"notAfter\" an teisteanais mì-dhligheach."
+msgstr ""
+"Tha fòrmat na h-ama air raon \"notAfter\" an teisteanais mì-dhligheach."
 
 #: kssl/ksslcertificate.cpp:1081
 msgid ""
@@ -10917,8 +10915,8 @@ msgid ""
 "Authority) 'pathlength' parameters, making all subsequent signatures invalid."
 msgstr ""
 "Bha sreath na h-earbsa nas fhaide na aon dhe na paramadairean \"pathlength\" "
-"aig Ùghdarras an Teisteanais agus bidh gach soidhneadh a leanas air "
-"mì-dhligheach."
+"aig Ùghdarras an Teisteanais agus bidh gach soidhneadh a leanas air mì-"
+"dhligheach."
 
 #: kssl/ksslcertificate.cpp:1105
 msgid ""
@@ -10959,8 +10957,8 @@ msgid ""
 "ID in the 'Issuer' section of the certificate you are trying to use."
 msgstr ""
 "Cha fhreagair ID iuchair Ùghdarras an Teisteanais air an teisteanas ri ID na "
-"h-iuchrach ann an earrann \"Issuer\" an teisteanais a tha thu a' feuchainn ri "
-"chleachdadh."
+"h-iuchrach ann an earrann \"Issuer\" an teisteanais a tha thu a' feuchainn "
+"ri chleachdadh."
 
 #: kssl/ksslcertificate.cpp:1117
 msgid ""
@@ -10969,8 +10967,8 @@ msgid ""
 "trying to use."
 msgstr ""
 "Cha fhreagair ID 's ainm iuchair Ùghdarras an Teisteanais air an teisteanas "
-"ri ID 's ainm na h-iuchrach ann an earrann \"Issuer\" an teisteanais a tha thu "
-"a' feuchainn ri chleachdadh."
+"ri ID 's ainm na h-iuchrach ann an earrann \"Issuer\" an teisteanais a tha "
+"thu a' feuchainn ri chleachdadh."
 
 #: kssl/ksslcertificate.cpp:1119
 msgid ""
@@ -11010,9 +11008,9 @@ msgid ""
 "more specific error messages."
 msgstr ""
 "Chan eil an teisteanas seo, gin sam bith eile ann an sreath na h-earbsa aige "
-"no liosta nan teisteanas air an cùl-ghairm aig Ùghdarras an Teisteanais "
-"aige dligheach. Ma chì thu an teachdaireachd seo, innis gu ùghdar a' "
-"bhathair-bhog gum bu chòir dha no dhi teachdaireachdan nam mearachdan ùra a "
+"no liosta nan teisteanas air an cùl-ghairm aig Ùghdarras an Teisteanais aige "
+"dligheach. Ma chì thu an teachdaireachd seo, innis gu ùghdar a' bhathair-"
+"bhog gum bu chòir dha no dhi teachdaireachdan nam mearachdan ùra a "
 "shealltainn a bhios nas pongaile."
 
 #: kssl/ksslcertificate.cpp:1133

@@ -2012,8 +2012,8 @@ msgstr "Tionndaidhean agus teisteanasan SSL"
 msgctxt "X-KDE-Keywords"
 msgid "SSL,Security,Network,Protocol,Certificates,Encryption,HTTPS"
 msgstr ""
-"SSL,Security,Network,Protocol,Certificates,Encryption,HTTPS,tèarainteachd,lì"
-"onra,pròtacal,teisteanasan,crioptachadh"
+"SSL,Security,Network,Protocol,Certificates,Encryption,HTTPS,tèarainteachd,"
+"lìonra,pròtacal,teisteanasan,crioptachadh"
 
 #: src/l10n/ad/country.desktop:2
 msgctxt "Name"

@@ -146,8 +146,7 @@ msgid ""
 "Do you want to save your changes or discard them?"
 msgstr ""
 "Chaidh an sgrìobhainn \"%1\" atharrachadh.\n"
-"A bheil thu airson na h-atharraichean agad a shàbhaladh no a leigeil "
-"seachad?"
+"A bheil thu airson na h-atharraichean agad a shàbhaladh no a leigeil seachad?"
 
 #: readwritepart.cpp:104
 msgid "Close Document"

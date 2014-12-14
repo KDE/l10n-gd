@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-11-24 08:02+0000\n"
+"POT-Creation-Date: 2014-12-08 07:52+0000\n"
 "PO-Revision-Date: 2014-11-24 18:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -36,7 +36,7 @@ msgctxt "Name"
 msgid "No Plugin"
 msgstr "Gun phlugan"
 
-#: autotests/noplugin.desktop:39
+#: autotests/noplugin.desktop:40
 msgctxt "Comment"
 msgid "This does not have a library"
 msgstr "Chan eil leabharlann aige"

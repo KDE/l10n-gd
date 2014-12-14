@@ -26,8 +26,8 @@ msgid ""
 "\"%2\" in %3.\n"
 "Do you want to reassign it from that action to the current one?"
 msgstr ""
-"Chaidh am brùthadh iuchrach \"%1\" a shònrachadh dhan gnìomh uile-choitcheann "
-"\"%2\" ann an \"%3\" mar-thà.\n"
+"Chaidh am brùthadh iuchrach \"%1\" a shònrachadh dhan gnìomh uile-"
+"choitcheann \"%2\" ann an \"%3\" mar-thà.\n"
 "A bheil thu airson a ghluasad on ghnìomh ud dhan ghnìomh seo?"
 
 #: kglobalaccel.cpp:521 kglobalaccel.cpp:565

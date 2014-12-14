@@ -99,8 +99,7 @@ msgid ""
 "window used for status information.</p>"
 msgstr ""
 "Seall am bàr-staid<p>Seallaidh seo am bàr-staid, 's e seo am bàr aig bonn na "
-"h-uinneige a thèid a chleachdadh gus fiosrachadh mun staid a "
-"shealltainn.</p>"
+"h-uinneige a thèid a chleachdadh gus fiosrachadh mun staid a shealltainn.</p>"
 
 #: kstandardaction_p.h:41
 msgid "&New"
@@ -148,7 +147,8 @@ msgstr "Ti&ll"
 
 #: kstandardaction_p.h:46
 msgid "Revert unsaved changes made to document"
-msgstr "Till atharraichean gun sàbhaladh a chaidh a dhèanamh air an sgrìobhainn"
+msgstr ""
+"Till atharraichean gun sàbhaladh a chaidh a dhèanamh air an sgrìobhainn"
 
 #: kstandardaction_p.h:47
 msgid "&Close"

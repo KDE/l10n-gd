@@ -26,8 +26,8 @@ msgid ""
 msgstr ""
 "Briog air a' phutan agus cuir a-steach an ath-ghoirid an uairsin mar a "
 "dhèanadh tu sa phrògram.\n"
-"Ball-eisimpleir airson \"Ctrl+A\": cum an iuchair \"Ctrl\" sìos agus brùth air "
-"\"A\"."
+"Ball-eisimpleir airson \"Ctrl+A\": cum an iuchair \"Ctrl\" sìos agus brùth "
+"air \"A\"."
 
 #: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:275
 msgid "Reserved Shortcut"
@@ -39,8 +39,8 @@ msgid ""
 "shortcut.\n"
 "Please choose another one."
 msgstr ""
-"Tha an iuchair F12 glèidhte air Windows agus cha ghabh a cleachdadh 'na h"
-"-ath-ghoirid uile-choitcheann ri linn seo.\n"
+"Tha an iuchair F12 glèidhte air Windows agus cha ghabh a cleachdadh 'na h-"
+"ath-ghoirid uile-choitcheann ri linn seo.\n"
 "Feuch an tagh thu tè eile."
 
 #: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:332
