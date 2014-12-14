@@ -4,7 +4,7 @@
 # GunChleoc <fios@foramnagaidhlig.net>, 2014.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: frameworkintegration5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2014-12-02 09:50+0000\n"
 "PO-Revision-Date: 2014-12-07 14:59+0100\n"
