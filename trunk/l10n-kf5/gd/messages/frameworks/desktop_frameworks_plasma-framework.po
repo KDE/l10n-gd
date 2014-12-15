@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-12-08 07:52+0000\n"
+"POT-Creation-Date: 2014-12-15 07:57+0000\n"
 "PO-Revision-Date: 2014-12-09 15:23+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,7 +21,7 @@ msgctxt "Name"
 msgid "JavaScript File Operations"
 msgstr "Obrachaidhean faidhle JavaScript"
 
-#: autotests/data/signedPackage/metadata.desktop:35
+#: autotests/data/signedPackage/metadata.desktop:36
 msgctxt "Comment"
 msgid "Demonstrates accessing data via HTTP in JavaScript"
 msgstr ""
@@ -42,7 +42,7 @@ msgctxt "Name"
 msgid "Package metadata test file"
 msgstr "Faidhle deuchainneach e pacaid mheata-dàta"
 
-#: autotests/packagemetadatatest.desktop:39
+#: autotests/packagemetadatatest.desktop:40
 msgctxt "Comment"
 msgid "A test desktop file to test the PackageMetaData class."
 msgstr ""
@@ -54,12 +54,12 @@ msgctxt "Comment"
 msgid "Report a bug in Plasma"
 msgstr "Innis dhuinn mu bhuga ann am Plasma"
 
-#: examples/applets/bugreport/metadata.desktop:35
+#: examples/applets/bugreport/metadata.desktop:36
 msgctxt "Keywords"
 msgid "plasma;bugzilla;bug;development;support;"
 msgstr "plasma;bugzilla;bug;development;support;buga;leasachadh;taic;cobhair;"
 
-#: examples/applets/bugreport/metadata.desktop:55
+#: examples/applets/bugreport/metadata.desktop:57
 msgctxt "Name"
 msgid "Bug"
 msgstr "Buga"
@@ -87,7 +87,7 @@ msgstr ""
 "Aplaid-eisimpleir a sheallas mar a chleachdas tu modailean leabaichte ann an "
 "DataEngines"
 
-#: examples/applets/dataenginemodel/metadata.desktop:33
+#: examples/applets/dataenginemodel/metadata.desktop:34
 msgctxt "Name"
 msgid "Dataengine model"
 msgstr "Modail inneil-dàta"
@@ -97,7 +97,7 @@ msgctxt "Comment"
 msgid "Example on how to manage Drop data"
 msgstr "Ball-eisimpleir air mar a stiùiricheas tu dàta Drop"
 
-#: examples/applets/notes/metadata.desktop:34
+#: examples/applets/notes/metadata.desktop:35
 msgctxt "Name"
 msgid "Example notes"
 msgstr "Nòtaichean-eisimpleir"
@@ -107,7 +107,7 @@ msgctxt "Name"
 msgid "Now playing (QML)"
 msgstr "'Ga chluich an-dràsta (QML)"
 
-#: examples/applets/nowplaying/metadata.desktop:34
+#: examples/applets/nowplaying/metadata.desktop:35
 msgctxt "Comment"
 msgid "A proof of concept media player controller qml"
 msgstr ""
@@ -119,7 +119,7 @@ msgctxt "Name"
 msgid "Poor Man's Tasks"
 msgstr "Saothraichean an daoine bhochd"
 
-#: examples/applets/qmltasks/metadata.desktop:33
+#: examples/applets/qmltasks/metadata.desktop:34
 msgctxt "Comment"
 msgid "Example showing how to write your own tasks Widget"
 msgstr ""
@@ -131,7 +131,7 @@ msgctxt "Name"
 msgid "Same game (QML)"
 msgstr "An aon gheama (QML)"
 
-#: examples/applets/samegame/metadata.desktop:33
+#: examples/applets/samegame/metadata.desktop:34
 msgctxt "Comment"
 msgid "The Same game QML Qt demo converted as plasmoid"
 msgstr "Taisbeanadh air QML Qt an aon gheama mar phlasmoid"
@@ -146,7 +146,7 @@ msgctxt "Name"
 msgid "Shader Test"
 msgstr "Deuchainn air sgàileadairean"
 
-#: examples/applets/testshaders/metadata.desktop:35
+#: examples/applets/testshaders/metadata.desktop:36
 msgctxt "Comment"
 msgid "Futzing with Visual Effects"
 msgstr "A' cluich le èifeachdan lèirsinne"
@@ -161,7 +161,7 @@ msgctxt "Name"
 msgid "Widgets gallery"
 msgstr "Gailearaidh nan widgets"
 
-#: examples/applets/widgetgallery/metadata.desktop:34
+#: examples/applets/widgetgallery/metadata.desktop:35
 msgctxt "Comment"
 msgid "gallery of widgets done with Plasma QtComponents"
 msgstr "Gailearaidh de widgets a chaidh a dhèanamh le QtComponents Plasma"
@@ -171,7 +171,7 @@ msgctxt "Name"
 msgid "Example window thumbnails list"
 msgstr "Ball-eisimpleir le liosta de dhealbhagan uinneige"
 
-#: examples/applets/windowthumbnails/metadata.desktop:32
+#: examples/applets/windowthumbnails/metadata.desktop:33
 msgctxt "Comment"
 msgid "Example showing how to display window thumbnails"
 msgstr "Eisimpleir a sheallas dhut mar a nochdas tu dealbhagan uinneagan"
@@ -186,7 +186,7 @@ msgctxt "Name"
 msgid "Custom DataContainers"
 msgstr "DataContainers gnàthaichte"
 
-#: examples/dataengines/customDataContainers/plasma-dataengine-example-customDataContainers.desktop:32
+#: examples/dataengines/customDataContainers/plasma-dataengine-example-customDataContainers.desktop:33
 msgctxt "Comment"
 msgid "A demonstration of how to subclass DataContainer"
 msgstr ""
@@ -197,7 +197,7 @@ msgctxt "Name"
 msgid "Simple DataEngine Example"
 msgstr "Eisimpleir simplidh air DataEngine"
 
-#: examples/dataengines/simpleEngine/plasma-dataengine-example-simpleEngine.desktop:33
+#: examples/dataengines/simpleEngine/plasma-dataengine-example-simpleEngine.desktop:34
 msgctxt "Comment"
 msgid "A very basic DataEngine implementation"
 msgstr "Ball-eisimpleir glè bhunasach de DataEngine"
@@ -207,7 +207,7 @@ msgctxt "Name"
 msgid "Sources On Request"
 msgstr "Tùsan le iarrtas"
 
-#: examples/dataengines/sourcesOnRequest/plasma-dataengine-example-sourcesOnRequest.desktop:32
+#: examples/dataengines/sourcesOnRequest/plasma-dataengine-example-sourcesOnRequest.desktop:33
 msgctxt "Comment"
 msgid ""
 "A DataEngine example showing how to respond to requests for source creation "
@@ -221,7 +221,7 @@ msgctxt "Name"
 msgid "plasma-kpart-shell"
 msgstr "plasma-kpart-shell"
 
-#: examples/kpart/plasma-example-kpart-shell.desktop:37
+#: examples/kpart/plasma-example-kpart-shell.desktop:38
 msgctxt "GenericName"
 msgid "A KPart shell for Plasma"
 msgstr "Shell KPart airson Plasma"
@@ -231,7 +231,7 @@ msgctxt "Name"
 msgid "Test"
 msgstr "Deuchainn"
 
-#: examples/testcontainmentactionsplugin/plasma-containmentactions-test.desktop:38
+#: examples/testcontainmentactionsplugin/plasma-containmentactions-test.desktop:39
 msgctxt "Comment"
 msgid "A dummy plugin for testing"
 msgstr "Plugan dumaidh a chum deuchainn"
@@ -246,7 +246,7 @@ msgctxt "Name"
 msgid "Air"
 msgstr "Adhair"
 
-#: src/desktoptheme/air/metadata.desktop:40
+#: src/desktoptheme/air/metadata.desktop:41
 msgctxt "Comment"
 msgid "A breath of fresh air"
 msgstr "Anail"
@@ -266,7 +266,7 @@ msgctxt "Name"
 msgid "Oxygen"
 msgstr "Ogsaidean"
 
-#: src/desktoptheme/oxygen/metadata.desktop:39
+#: src/desktoptheme/oxygen/metadata.desktop:40
 msgctxt "Comment"
 msgid "Theme done in the Oxygen style"
 msgstr "Ùrlar san stoidhle ogsaidean"
@@ -281,17 +281,17 @@ msgctxt "Comment"
 msgid "Plasma Workspace"
 msgstr "Rum-obrach Plasma"
 
-#: src/plasma/data/notifications/plasmashell.notifyrc:26
+#: src/plasma/data/notifications/plasmashell.notifyrc:27
 msgctxt "Name"
 msgid "Plasma"
 msgstr "Plasma"
 
-#: src/plasma/data/notifications/plasmashell.notifyrc:51
+#: src/plasma/data/notifications/plasmashell.notifyrc:53
 msgctxt "Name"
 msgid "Widget deleted"
 msgstr "Widget air a sguabadh às"
 
-#: src/plasma/data/notifications/plasmashell.notifyrc:73
+#: src/plasma/data/notifications/plasmashell.notifyrc:76
 msgctxt "Comment"
 msgid "A widget has been deleted"
 msgstr "Chaidh widget a sguabadh às"
@@ -321,7 +321,7 @@ msgctxt "Name"
 msgid "Plasma Package"
 msgstr "Pacaid Plasma"
 
-#: src/plasma/data/servicetypes/plasma-generic.desktop:37
+#: src/plasma/data/servicetypes/plasma-generic.desktop:38
 msgctxt "Comment"
 msgid "Generic Plasma Package"
 msgstr "Pacaid choitcheann Plasma"
@@ -331,7 +331,7 @@ msgctxt "Name"
 msgid "Plasma Look and Feel"
 msgstr "Coltas Plasma"
 
-#: src/plasma/data/servicetypes/plasma-lookandfeel.desktop:38
+#: src/plasma/data/servicetypes/plasma-lookandfeel.desktop:39
 msgctxt "Comment"
 msgid "Defines the Visual Language for Plasma Shells"
 msgstr "Mìnichidh seo cànan lèirsinneach nam Plasma shells"
@@ -356,7 +356,7 @@ msgctxt "Name"
 msgid "Plasma Shell"
 msgstr "Plasma Shell"
 
-#: src/plasma/data/servicetypes/plasma-shell.desktop:39
+#: src/plasma/data/servicetypes/plasma-shell.desktop:40
 msgctxt "Comment"
 msgid "Plasma Shell Components"
 msgstr "Cò-phàirtean Plasma Shell"
@@ -366,7 +366,7 @@ msgctxt "Name"
 msgid "Platform Status"
 msgstr "Staid an ùrlair"
 
-#: src/platformstatus/platformstatus.desktop:42
+#: src/platformstatus/platformstatus.desktop:43
 msgctxt "Comment"
 msgid "Tracks the current shell package and the platform definition strings."
 msgstr ""
@@ -378,7 +378,7 @@ msgctxt "Name"
 msgid "Python data engine"
 msgstr "Inneal-dàta Python"
 
-#: src/scriptengines/python/plasma-scriptengine-dataengine-python.desktop:37
+#: src/scriptengines/python/plasma-scriptengine-dataengine-python.desktop:38
 msgctxt "Comment"
 msgid "Plasma data engine support for Python"
 msgstr "Taic ri inneal-dàta aig Plasma airson Python"
@@ -388,7 +388,7 @@ msgctxt "Name"
 msgid "Python Runner"
 msgstr "Ruitheadair Plasma"
 
-#: src/scriptengines/python/plasma-scriptengine-runner-python.desktop:36
+#: src/scriptengines/python/plasma-scriptengine-runner-python.desktop:37
 msgctxt "Comment"
 msgid "Plasma Runner support for Python"
 msgstr "Inneal-taic ruithidh aig Plasma airson Python"
@@ -398,7 +398,7 @@ msgctxt "Name"
 msgid "Declarative widget"
 msgstr "Declarative widget"
 
-#: src/scriptengines/qml/data/plasma-scriptengine-applet-declarative.desktop:38
+#: src/scriptengines/qml/data/plasma-scriptengine-applet-declarative.desktop:39
 msgctxt "Comment"
 msgid "Native Plasma widget written in QML and JavaScript"
 msgstr "Plasma widget tùsail a chaidh a sgrìobhadh le QML agus JavaScript"
@@ -413,7 +413,7 @@ msgctxt "Name"
 msgid "Ruby Widget"
 msgstr "Ruby Widget"
 
-#: src/scriptengines/ruby/plasma-scriptengine-ruby-dataengine.desktop:37
+#: src/scriptengines/ruby/plasma-scriptengine-ruby-dataengine.desktop:38
 msgctxt "Comment"
 msgid "Native Plasma widget written in Ruby"
 msgstr "Plasma widget tùsail a chaidh a sgrìobhadh le Ruby"
