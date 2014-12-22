@@ -4326,7 +4326,7 @@ msgctxt "DownloadDialog|"
 msgid "Background"
 msgstr ""
 
-#: core/DownloadDialog.qml:155
+#: core/DownloadDialog.qml:157
 msgctxt "DownloadDialog|"
 msgid "Abort"
 msgstr ""
