@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-12-15 07:57+0000\n"
+"POT-Creation-Date: 2014-12-25 08:05+0000\n"
 "PO-Revision-Date: 2014-11-24 20:18-0000\n"
 "Last-Translator: GunChleoc <fiosAIGforamnagaidhligDOTnet>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -76,119 +76,119 @@ msgctxt "Name"
 msgid "Notification"
 msgstr "Brath"
 
-#: plasma_workspace.notifyrc:389
+#: plasma_workspace.notifyrc:390
 msgctxt "Comment"
 msgid "Something special happened in the program"
 msgstr "Thachair rudeigin sònraichte sa phrògram"
 
-#: plasma_workspace.notifyrc:423
+#: plasma_workspace.notifyrc:424
 msgctxt "Name"
 msgid "Warning"
 msgstr "Rabhadh"
 
-#: plasma_workspace.notifyrc:453
+#: plasma_workspace.notifyrc:455
 msgctxt "Comment"
 msgid "There was an error in the program which may cause problems"
 msgstr "Bha mearachd sa phrògram a dh'adhbharaicheas trioblaid ma dh'fhaoidte"
 
-#: plasma_workspace.notifyrc:487
+#: plasma_workspace.notifyrc:489
 msgctxt "Name"
 msgid "Catastrophe"
 msgstr "Tubaist"
 
-#: plasma_workspace.notifyrc:517
+#: plasma_workspace.notifyrc:519
 msgctxt "Comment"
 msgid "A very serious error occurred, at least causing the program to exit"
 msgstr ""
 "Thachair mearachd glè dhona agus chaidh am prògram fhàgail air a char as "
 "lugha"
 
-#: plasma_workspace.notifyrc:552
+#: plasma_workspace.notifyrc:554
 msgctxt "Name"
 msgid "Login"
 msgstr "Logadh a-steach"
 
-#: plasma_workspace.notifyrc:582
+#: plasma_workspace.notifyrc:585
 msgctxt "Comment"
 msgid "A new session is starting"
 msgstr "Tha seisean ùr a' tòiseachadh"
 
-#: plasma_workspace.notifyrc:616
+#: plasma_workspace.notifyrc:619
 msgctxt "Name"
 msgid "Logout"
 msgstr "Logadh a-mach"
 
-#: plasma_workspace.notifyrc:646
+#: plasma_workspace.notifyrc:650
 msgctxt "Comment"
 msgid "Session is exiting"
 msgstr "Tha an seisean 'ga fhàgail"
 
-#: plasma_workspace.notifyrc:680
+#: plasma_workspace.notifyrc:685
 msgctxt "Name"
 msgid "Logout Canceled"
 msgstr "Chaidh sgur dhen logadh a-mach"
 
-#: plasma_workspace.notifyrc:710
+#: plasma_workspace.notifyrc:716
 msgctxt "Comment"
 msgid "Plasma logout was canceled"
 msgstr "Chaidh sgur dhen logadh a-mach à Plasma"
 
-#: plasma_workspace.notifyrc:743
+#: plasma_workspace.notifyrc:750
 msgctxt "Name"
 msgid "Print Error"
 msgstr "Mearachd clò-bhualaidh"
 
-#: plasma_workspace.notifyrc:773
+#: plasma_workspace.notifyrc:781
 msgctxt "Comment"
 msgid "A print error has occurred"
 msgstr "Thachair mearachd leis a' chlò-bhualadh"
 
-#: plasma_workspace.notifyrc:807
+#: plasma_workspace.notifyrc:815
 msgctxt "Name"
 msgid "Information Message"
 msgstr "Teachdaireachd fiosrachaidh"
 
-#: plasma_workspace.notifyrc:837
+#: plasma_workspace.notifyrc:846
 msgctxt "Comment"
 msgid "An information message is being shown"
 msgstr "Tha teachdaireachd fiosrachaidh 'ga sealltainn"
 
-#: plasma_workspace.notifyrc:871
+#: plasma_workspace.notifyrc:880
 msgctxt "Name"
 msgid "Warning Message"
 msgstr "Teachdaireachd rabhaidh"
 
-#: plasma_workspace.notifyrc:901
+#: plasma_workspace.notifyrc:911
 msgctxt "Comment"
 msgid "A warning message is being shown"
 msgstr "Tha teachdaireachd rabhaidh 'ga sealltainn"
 
-#: plasma_workspace.notifyrc:935
+#: plasma_workspace.notifyrc:945
 msgctxt "Name"
 msgid "Critical Message"
 msgstr "Teachdaireachd èiginneach"
 
-#: plasma_workspace.notifyrc:965
+#: plasma_workspace.notifyrc:976
 msgctxt "Comment"
 msgid "A critical message is being shown"
 msgstr "Tha teachdaireachd èiginneach 'ga sealltainn"
 
-#: plasma_workspace.notifyrc:999
+#: plasma_workspace.notifyrc:1010
 msgctxt "Name"
 msgid "Question"
 msgstr "Ceist"
 
-#: plasma_workspace.notifyrc:1029
+#: plasma_workspace.notifyrc:1041
 msgctxt "Comment"
 msgid "A question is being asked"
 msgstr "Tha ceist 'ga fhaighneachd"
 
-#: plasma_workspace.notifyrc:1064
+#: plasma_workspace.notifyrc:1076
 msgctxt "Name"
 msgid "Beep"
 msgstr "Bìd"
 
-#: plasma_workspace.notifyrc:1094
+#: plasma_workspace.notifyrc:1107
 msgctxt "Comment"
 msgid "Sound bell"
 msgstr "Fuaim cluig"
