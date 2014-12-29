@@ -3096,12 +3096,12 @@ msgctxt "math_util|"
 msgid "÷"
 msgstr ""
 
-#: activities/menu/ActivityInfo.qml:5
+#: activities/menu/ActivityInfo.qml:6
 msgctxt "ActivityInfo|"
 msgid "GCompris Main Menu"
 msgstr "Prìomh chlàr-taice GCompris"
 
-#: activities/menu/ActivityInfo.qml:6
+#: activities/menu/ActivityInfo.qml:7
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Left-click the mouse on an activity to select it."
@@ -3109,7 +3109,7 @@ msgctxt "ActivityInfo|"
 msgid "Select an activity to run it."
 msgstr "Briog le putan clì na luchaige air cleas gus a thaghadh."
 
-#: activities/menu/ActivityInfo.qml:7
+#: activities/menu/ActivityInfo.qml:8
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
@@ -3123,14 +3123,14 @@ msgstr ""
 "’S e cruinneachadh de gheamannan foghlaim a tha ann an GCompris a bheir "
 "iomadh cleas do chlann a tha 2 bhliadhna a dh’aois no nas sine."
 
-#: activities/menu/ActivityInfo.qml:8
+#: activities/menu/ActivityInfo.qml:9
 msgctxt "ActivityInfo|"
 msgid ""
 "Some of the activities are game orientated, but nonetheless still "
 "educational."
 msgstr ""
 
-#: activities/menu/ActivityInfo.qml:9
+#: activities/menu/ActivityInfo.qml:10
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
