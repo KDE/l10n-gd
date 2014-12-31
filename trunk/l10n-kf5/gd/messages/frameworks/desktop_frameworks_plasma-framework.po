@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-12-25 08:05+0000\n"
+"POT-Creation-Date: 2014-12-31 08:02+0000\n"
 "PO-Revision-Date: 2014-12-09 15:23+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,7 +21,7 @@ msgctxt "Name"
 msgid "JavaScript File Operations"
 msgstr "Obrachaidhean faidhle JavaScript"
 
-#: autotests/data/signedPackage/metadata.desktop:36
+#: autotests/data/signedPackage/metadata.desktop:37
 msgctxt "Comment"
 msgid "Demonstrates accessing data via HTTP in JavaScript"
 msgstr ""
@@ -42,7 +42,7 @@ msgctxt "Name"
 msgid "Package metadata test file"
 msgstr "Faidhle deuchainneach e pacaid mheata-dàta"
 
-#: autotests/packagemetadatatest.desktop:40
+#: autotests/packagemetadatatest.desktop:41
 msgctxt "Comment"
 msgid "A test desktop file to test the PackageMetaData class."
 msgstr ""
@@ -54,12 +54,12 @@ msgctxt "Comment"
 msgid "Report a bug in Plasma"
 msgstr "Innis dhuinn mu bhuga ann am Plasma"
 
-#: examples/applets/bugreport/metadata.desktop:36
+#: examples/applets/bugreport/metadata.desktop:37
 msgctxt "Keywords"
 msgid "plasma;bugzilla;bug;development;support;"
 msgstr "plasma;bugzilla;bug;development;support;buga;leasachadh;taic;cobhair;"
 
-#: examples/applets/bugreport/metadata.desktop:57
+#: examples/applets/bugreport/metadata.desktop:60
 msgctxt "Name"
 msgid "Bug"
 msgstr "Buga"
@@ -281,17 +281,17 @@ msgctxt "Comment"
 msgid "Plasma Workspace"
 msgstr "Rum-obrach Plasma"
 
-#: src/plasma/data/notifications/plasmashell.notifyrc:29
+#: src/plasma/data/notifications/plasmashell.notifyrc:30
 msgctxt "Name"
 msgid "Plasma"
 msgstr "Plasma"
 
-#: src/plasma/data/notifications/plasmashell.notifyrc:57
+#: src/plasma/data/notifications/plasmashell.notifyrc:59
 msgctxt "Name"
 msgid "Widget deleted"
 msgstr "Widget air a sguabadh às"
 
-#: src/plasma/data/notifications/plasmashell.notifyrc:82
+#: src/plasma/data/notifications/plasmashell.notifyrc:85
 msgctxt "Comment"
 msgid "A widget has been deleted"
 msgstr "Chaidh widget a sguabadh às"

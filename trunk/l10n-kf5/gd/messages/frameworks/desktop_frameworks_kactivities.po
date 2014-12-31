@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-12-15 07:57+0000\n"
+"POT-Creation-Date: 2014-12-31 08:02+0000\n"
 "PO-Revision-Date: 2014-11-24 12:34+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -36,7 +36,7 @@ msgctxt "Name"
 msgid "Activity Templates"
 msgstr "Teamplaidean nan gnìomhachdan"
 
-#: src/service/plugins/activitytemplates/kactivitymanagerd-plugin-activitytemplates.desktop:42
+#: src/service/plugins/activitytemplates/kactivitymanagerd-plugin-activitytemplates.desktop:43
 msgctxt "Comment"
 msgid "Support for creating templated activities"
 msgstr "Taic gus gnìomhachdan a chruthachadh le teamplaidean"
@@ -112,7 +112,7 @@ msgctxt "Name"
 msgid "List activities test"
 msgstr "Seall deuchainn air na gnìomhachdan"
 
-#: tests/imports/plasma-applet-org.kde.listactivitiestest.desktop:39
+#: tests/imports/plasma-applet-org.kde.listactivitiestest.desktop:40
 msgctxt "Comment"
 msgid "Strange, but not a Clock"
 msgstr "Neònach ach chan e uaireadair a th' ann"

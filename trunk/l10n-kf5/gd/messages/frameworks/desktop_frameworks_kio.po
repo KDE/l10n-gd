@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-12-30 09:58+0000\n"
+"POT-Creation-Date: 2014-12-31 08:02+0000\n"
 "PO-Revision-Date: 2014-11-24 20:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,7 +21,7 @@ msgctxt "Name"
 msgid "HTTP Cache Cleaner"
 msgstr "Glanadair tasgadain HTTP"
 
-#: src/ioslaves/http/http_cache_cleaner.desktop:48
+#: src/ioslaves/http/http_cache_cleaner.desktop:49
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr "Glanaidh seo seann innteartan air falbh on tasgadan HTTP"
@@ -31,7 +31,7 @@ msgctxt "Name"
 msgid "Cookie Jar"
 msgstr "Crogan bhriosgaidean"
 
-#: src/ioslaves/http/kcookiejar/kcookiejar.desktop:44
+#: src/ioslaves/http/kcookiejar/kcookiejar.desktop:45
 msgctxt "Comment"
 msgid "Stores network cookies"
 msgstr "Glèidhidh seo briosgaidean lìonraidh"
@@ -97,7 +97,7 @@ msgctxt "Comment"
 msgid "Configure web cache settings"
 msgstr "Rèitich roghainnean an sgudail"
 
-#: src/kcms/kio/cache.desktop:112
+#: src/kcms/kio/cache.desktop:114
 msgctxt "X-KDE-Keywords"
 msgid "Cache,History,Browsing History,Ports,Size"
 msgstr ""
@@ -110,12 +110,12 @@ msgctxt "Name"
 msgid "Cookies"
 msgstr "Crogan bhriosgaidean"
 
-#: src/kcms/kio/cookies.desktop:37
+#: src/kcms/kio/cookies.desktop:39
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr ""
 
-#: src/kcms/kio/cookies.desktop:110
+#: src/kcms/kio/cookies.desktop:112
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr ""
@@ -397,7 +397,7 @@ msgctxt "Comment"
 msgid "Configure web shortcuts"
 msgstr "Rèitich na h-ath-ghoiridean lìn"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:129
+#: src/kcms/webshortcuts/webshortcuts.desktop:130
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Shortcuts,Browsing,WWW,Internet,Internet Filters,Network,Search Engines,"
@@ -412,7 +412,7 @@ msgctxt "Name"
 msgid "Network Proxy Configuration"
 msgstr "Rèiteachadh progsaidh an lìonraidh"
 
-#: src/kpac/proxyscout.desktop:44
+#: src/kpac/proxyscout.desktop:45
 msgctxt "Comment"
 msgid "Automatic proxy configuration"
 msgstr "Rèiteachadh fèin-obrachail a' phrogsaidh"
@@ -422,35 +422,35 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "Rèiteachadh progsaidh an lìonraidh"
 
-#: src/kpac/proxyscout.notifyrc:46
+#: src/kpac/proxyscout.notifyrc:47
 msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "Sgriobt progsaidh mì-dhligheach"
 
-#: src/kpac/proxyscout.notifyrc:88
+#: src/kpac/proxyscout.notifyrc:90
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr ""
 "Chan eil sgriobt rèiteachaidh a' phrogsaidh a chaidh a luchdadh a-nuas "
 "dligheach"
 
-#: src/kpac/proxyscout.notifyrc:134
+#: src/kpac/proxyscout.notifyrc:137
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr "Mearachd le luchdadh a-nuas an sgriobt"
 
-#: src/kpac/proxyscout.notifyrc:176
+#: src/kpac/proxyscout.notifyrc:180
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr ""
 "Cha b' urrainn dhuinn sgriobt rèiteachadh a' phrogsaidh a luchdadh a-naus"
 
-#: src/kpac/proxyscout.notifyrc:223
+#: src/kpac/proxyscout.notifyrc:228
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "Mearachd le measadh an sgriobt"
 
-#: src/kpac/proxyscout.notifyrc:263
+#: src/kpac/proxyscout.notifyrc:269
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "Thachair mearachd le gnìomhachadh sgriobt rèiteachadh a' phrogsaidh"
@@ -470,7 +470,7 @@ msgctxt "Name"
 msgid "SSL Certificate Policy"
 msgstr "Poileasaidh teisteanasan SSL"
 
-#: src/kssld/kssld.desktop:48
+#: src/kssld/kssld.desktop:49
 msgctxt "Comment"
 msgid "Provides SSL certificate policy to applications"
 msgstr "Bheir seo poileasaidh airson teisteanasan SSL dha na h-aplacaidean"
@@ -1128,7 +1128,7 @@ msgctxt "Name"
 msgid "Great Dictionary of the Catalan Language (GRan Enciclopèdia Catalana)"
 msgstr "Mòr-fhaclair a' Chatalanais (Gran Enciclopèdia Catalana)"
 
-#: src/urifilters/ikws/searchproviders/grec.desktop:25
+#: src/urifilters/ikws/searchproviders/grec.desktop:27
 msgctxt "Query"
 msgid "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
 msgstr "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
@@ -1516,7 +1516,7 @@ msgctxt "Name"
 msgid "Qwant"
 msgstr "Qwant"
 
-#: src/urifilters/ikws/searchproviders/qwant.desktop:35
+#: src/urifilters/ikws/searchproviders/qwant.desktop:36
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&source=web"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&source=web"
@@ -1526,7 +1526,7 @@ msgctxt "Name"
 msgid "Qwant Images"
 msgstr "Qwant Images"
 
-#: src/urifilters/ikws/searchproviders/qwant_images.desktop:35
+#: src/urifilters/ikws/searchproviders/qwant_images.desktop:36
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=images"
 msgstr "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=images"
@@ -1536,7 +1536,7 @@ msgctxt "Name"
 msgid "Qwant News"
 msgstr "Qwant News"
 
-#: src/urifilters/ikws/searchproviders/qwant_news.desktop:35
+#: src/urifilters/ikws/searchproviders/qwant_news.desktop:36
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=news"
 msgstr "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=news"
@@ -1546,7 +1546,7 @@ msgctxt "Name"
 msgid "Qwant Shopping"
 msgstr "Qwant Shopping"
 
-#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:35
+#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:36
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=shopping"
 msgstr "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=shopping"
@@ -1556,7 +1556,7 @@ msgctxt "Name"
 msgid "Qwant Social"
 msgstr "Qwant Social"
 
-#: src/urifilters/ikws/searchproviders/qwant_social.desktop:35
+#: src/urifilters/ikws/searchproviders/qwant_social.desktop:36
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=social"
 msgstr "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=social"
@@ -1566,7 +1566,7 @@ msgctxt "Name"
 msgid "Qwant Videos"
 msgstr "Qwant Videos"
 
-#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:35
+#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:36
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=videos"
 msgstr "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=videos"
