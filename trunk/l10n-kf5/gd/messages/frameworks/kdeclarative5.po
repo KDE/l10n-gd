@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeclarative5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-27 20:57+0000\n"
+"POT-Creation-Date: 2015-01-15 07:48+0000\n"
 "PO-Revision-Date: 2014-11-26 09:29+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -80,3 +80,35 @@ msgstr "Cha chuir Qt taic ris an iuchair a tha thu air a bhrùthadh."
 #: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:407
 msgid "Unsupported Key"
 msgstr "Iuchair ris nach eil taic"
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:37
+msgid "Undo"
+msgstr ""
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:45
+msgid "Redo"
+msgstr ""
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:54
+msgid "Cut"
+msgstr ""
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:62
+msgid "Copy"
+msgstr ""
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:70
+msgid "Paste"
+msgstr ""
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:78
+msgid "Delete"
+msgstr ""
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:91
+msgid "Clear"
+msgstr ""
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:100
+msgid "Select All"
+msgstr ""
