@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmutils5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-11-28 08:10+0000\n"
+"POT-Creation-Date: 2015-01-22 07:57+0000\n"
 "PO-Revision-Date: 2014-11-24 19:40+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -83,7 +83,7 @@ msgstr ""
 "a chaidh iomradh ann an teachdaireachd na mearachd. Mura tèid leat, "
 "beachdaich air fios a chur gun sgaoileadair no pacaidiche agad.</p></qt>"
 
-#: kcmoduleproxy.cpp:162
+#: kcmoduleproxy.cpp:165
 #, kde-format
 msgctxt "Argument is application name"
 msgid "This configuration section is already opened in %1"
