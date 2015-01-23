@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4support\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-18 08:05+0000\n"
+"POT-Creation-Date: 2015-01-23 08:22+0000\n"
 "PO-Revision-Date: 2014-12-09 10:35+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -5861,16 +5861,16 @@ msgctxt ""
 msgid "%Ey %EC"
 msgstr "%Ey %EC"
 
-#: kdecore/kcmdlineargs.cpp:277
+#: kdecore/kcmdlineargs.cpp:278
 msgid "Use the X-server display 'displayname'"
 msgstr ""
 "Cleachd uidheam-taisbeanaidh an fhrithealaiche-X air a bheil \"displayname\""
 
-#: kdecore/kcmdlineargs.cpp:280
+#: kdecore/kcmdlineargs.cpp:281
 msgid "Restore the application for the given 'sessionId'"
 msgstr "Aisig an aplacaid airson an \"sessionId\" sònraichte"
 
-#: kdecore/kcmdlineargs.cpp:281
+#: kdecore/kcmdlineargs.cpp:282
 msgid ""
 "Causes the application to install a private color\n"
 "map on an 8-bit display"
@@ -5878,7 +5878,7 @@ msgstr ""
 "Bheir seo air an aplacaid mapa dhathan piobhaideach\n"
 "a stàladh air uidheam-taisbeanaidh 8-biod"
 
-#: kdecore/kcmdlineargs.cpp:282
+#: kdecore/kcmdlineargs.cpp:283
 msgid ""
 "Limits the number of colors allocated in the color\n"
 "cube on an 8-bit display, if the application is\n"
@@ -5891,13 +5891,13 @@ msgstr ""
 "dath QApplication::ManyColor\n"
 "specification"
 
-#: kdecore/kcmdlineargs.cpp:283
+#: kdecore/kcmdlineargs.cpp:284
 msgid "tells Qt to never grab the mouse or the keyboard"
 msgstr ""
 "bheir seo air QT nach gabh e greim air an luchag\n"
 "no a' mheur-chlàr idir"
 
-#: kdecore/kcmdlineargs.cpp:284
+#: kdecore/kcmdlineargs.cpp:285
 msgid ""
 "running under a debugger can cause an implicit\n"
 "-nograb, use -dograb to override"
@@ -5905,17 +5905,17 @@ msgstr ""
 "faodaidh gun adhbharaich ruith fo dhì-bhugadair\n"
 "-nograb, cleachd -dograb gus seo a thar-àithneadh"
 
-#: kdecore/kcmdlineargs.cpp:285
+#: kdecore/kcmdlineargs.cpp:286
 msgid "switches to synchronous mode for debugging"
 msgstr ""
 "nì seo suids gun mhodh shioncronach airson\n"
 "dì-bhugachadh"
 
-#: kdecore/kcmdlineargs.cpp:287
+#: kdecore/kcmdlineargs.cpp:288
 msgid "defines the application font"
 msgstr "suidhichidh seo cruth-clò na h-aplacaid"
 
-#: kdecore/kcmdlineargs.cpp:289
+#: kdecore/kcmdlineargs.cpp:290
 msgid ""
 "sets the default background color and an\n"
 "application palette (light and dark shades are\n"
@@ -5925,27 +5925,27 @@ msgstr ""
 "pailead na h-aplacaid (thèid sgàilean soilleir\n"
 "'s dorcha àireamhachadh)"
 
-#: kdecore/kcmdlineargs.cpp:291
+#: kdecore/kcmdlineargs.cpp:292
 msgid "sets the default foreground color"
 msgstr "suidhichidh seo dath tùsail a' bheulaibh"
 
-#: kdecore/kcmdlineargs.cpp:293
+#: kdecore/kcmdlineargs.cpp:294
 msgid "sets the default button color"
 msgstr "suidhichidh seo dath tùsail nam putanan"
 
-#: kdecore/kcmdlineargs.cpp:294
+#: kdecore/kcmdlineargs.cpp:295
 msgid "sets the application name"
 msgstr "suidhichidh seo ainm na h-aplacaid"
 
-#: kdecore/kcmdlineargs.cpp:295
+#: kdecore/kcmdlineargs.cpp:296
 msgid "sets the application title (caption)"
 msgstr "suidhichidh seo tiotal na h-aplacaid (caipsean)"
 
-#: kdecore/kcmdlineargs.cpp:296
+#: kdecore/kcmdlineargs.cpp:297
 msgid "load the testability framework"
 msgstr "luchdaichidh seo a' testability framework"
 
-#: kdecore/kcmdlineargs.cpp:298
+#: kdecore/kcmdlineargs.cpp:299
 msgid ""
 "forces the application to use a TrueColor visual on\n"
 "an 8-bit display"
@@ -5953,7 +5953,7 @@ msgstr ""
 "bheir seo air an aplacaid gun chleachd i lèirsinn\n"
 "TrueColor air uidheam-taisbeanaidh 8-biod"
 
-#: kdecore/kcmdlineargs.cpp:299
+#: kdecore/kcmdlineargs.cpp:300
 msgid ""
 "sets XIM (X Input Method) input style. Possible\n"
 "values are onthespot, overthespot, offthespot and\n"
@@ -5963,25 +5963,25 @@ msgstr ""
 "XIM (X Input Method). Seo na luachan dligheach:\n"
 "onthespot, overthespot, offthespot agus root"
 
-#: kdecore/kcmdlineargs.cpp:300
+#: kdecore/kcmdlineargs.cpp:301
 msgid "set XIM server"
 msgstr "suidhich am frithealaiche XIM"
 
-#: kdecore/kcmdlineargs.cpp:301
+#: kdecore/kcmdlineargs.cpp:302
 msgid "disable XIM"
 msgstr "cuir XIM à comas"
 
-#: kdecore/kcmdlineargs.cpp:303
+#: kdecore/kcmdlineargs.cpp:304
 msgid "mirrors the whole layout of widgets"
 msgstr "nì seo sgàthanachadh air a' cho-dhealbhachd shlàn"
 
-#: kdecore/kcmdlineargs.cpp:304
+#: kdecore/kcmdlineargs.cpp:305
 msgid "applies the Qt stylesheet to the application widgets"
 msgstr ""
 "cuiridh seo an t-siosta-stoidhlichean Qt an sàs air\n"
 "widgets na h-aplacaid"
 
-#: kdecore/kcmdlineargs.cpp:305
+#: kdecore/kcmdlineargs.cpp:306
 msgid ""
 "use a different graphics system instead of the default one, options are "
 "raster and opengl (experimental)"
@@ -5989,7 +5989,7 @@ msgstr ""
 "cleachd siostam grafaigeachd eile an àite an fhir thùsail,\n"
 "is raster agus opengl na roghainnean (deuchainneach)"
 
-#: kdecore/kcmdlineargs.cpp:306
+#: kdecore/kcmdlineargs.cpp:307
 msgid ""
 "QML JS debugger information. Application must be\n"
 "built with -DQT_DECLARATIVE_DEBUG for the debugger to be\n"
@@ -5999,39 +5999,39 @@ msgstr ""
 "a thogail le -DQT_DECLARATIVE_DEBUG gus an di-bhugadair\n"
 "a chur an comas"
 
-#: kdecore/kcmdlineargs.cpp:307
+#: kdecore/kcmdlineargs.cpp:308
 msgid "The windowing system platform (e.g. xcb or wayland)"
 msgstr "Ùrlar siostam nan uinneagan (m.e. xcb no wayland)"
 
-#: kdecore/kcmdlineargs.cpp:309
+#: kdecore/kcmdlineargs.cpp:310
 msgid "Use 'caption' as name in the titlebar"
 msgstr "Cleachd \"caption\" 'na ainm sa bhàr-tiotal"
 
-#: kdecore/kcmdlineargs.cpp:310
+#: kdecore/kcmdlineargs.cpp:311
 msgid "Use 'icon' as the application icon"
 msgstr "Cleachd \"icon\" 'na h-ìomhaigheag aplacaid"
 
-#: kdecore/kcmdlineargs.cpp:311
+#: kdecore/kcmdlineargs.cpp:312
 msgid "Use alternative configuration file"
 msgstr "Cleachd faidhle rèiteachaidh eile"
 
-#: kdecore/kcmdlineargs.cpp:312
+#: kdecore/kcmdlineargs.cpp:313
 msgid "Disable crash handler, to get core dumps"
 msgstr ""
 "Cuid làimhsichear nan tuisleachaidhean à comas gus\n"
 "core dumps fhaighinn"
 
-#: kdecore/kcmdlineargs.cpp:314
+#: kdecore/kcmdlineargs.cpp:315
 msgid "Waits for a WM_NET compatible windowmanager"
 msgstr ""
 "Fuirichidh seo airson manaidsear uinneagan a bhios co-chòrdail\n"
 "ri WM_NET"
 
-#: kdecore/kcmdlineargs.cpp:316
+#: kdecore/kcmdlineargs.cpp:317
 msgid "sets the application GUI style"
 msgstr "suidhichidh seo an stoidhle aig eadar-aghaidh na h-aplacaid"
 
-#: kdecore/kcmdlineargs.cpp:317
+#: kdecore/kcmdlineargs.cpp:318
 msgid ""
 "sets the client geometry of the main widget - see man X for the argument "
 "format (usually WidthxHeight+XPos+YPos)"
@@ -6039,19 +6039,19 @@ msgstr ""
 "suidhichidh seo geomatras cliant a' phrìomh widget - faic \"man X\" airson "
 "fòrmat nan argamaidean (LeudxÀirde+IonadX+IonadY mar as trice)"
 
-#: kdecore/kcmdlineargs.cpp:435
+#: kdecore/kcmdlineargs.cpp:436
 msgid "KDE Application"
 msgstr "Aplacaid KDE"
 
-#: kdecore/kcmdlineargs.cpp:496
+#: kdecore/kcmdlineargs.cpp:497
 msgid "Qt"
 msgstr "Qt"
 
-#: kdecore/kcmdlineargs.cpp:499
+#: kdecore/kcmdlineargs.cpp:500
 msgid "KDE"
 msgstr "KDE"
 
-#: kdecore/kcmdlineargs.cpp:840
+#: kdecore/kcmdlineargs.cpp:841
 #, kde-format
 msgctxt "@info:shell %1 is cmdoption name"
 msgid "'%1' missing."
@@ -6071,7 +6071,7 @@ msgstr ""
 "Ùrlar leasachadh KDE: %2\n"
 "%3: %4\n"
 
-#: kdecore/kcmdlineargs.cpp:919
+#: kdecore/kcmdlineargs.cpp:921
 #, kde-format
 msgctxt "the 2nd argument is a list of name+address, one on each line"
 msgid ""
@@ -6081,13 +6081,13 @@ msgstr ""
 "Chaidh %1 a sgrìobhadh le\n"
 "%2"
 
-#: kdecore/kcmdlineargs.cpp:1578
+#: kdecore/kcmdlineargs.cpp:1580
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr ""
 "Thèid na faidhlichean/URLaichean a dh'fhosglas an aplacaid a sguabadh às "
 "nuair nach cleachd i iad tuilleadh"
 
-#: kdecore/kcmdlineargs.cpp:1579
+#: kdecore/kcmdlineargs.cpp:1581
 msgid "KDE-tempfile"
 msgstr "faidhle sealach KDE"
 
