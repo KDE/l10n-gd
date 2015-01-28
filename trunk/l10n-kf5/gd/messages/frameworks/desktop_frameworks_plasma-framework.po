@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-27 10:21+0000\n"
+"POT-Creation-Date: 2015-01-28 07:55+0000\n"
 "PO-Revision-Date: 2014-12-09 15:23+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,7 +21,7 @@ msgctxt "Name"
 msgid "JavaScript File Operations"
 msgstr "Obrachaidhean faidhle JavaScript"
 
-#: autotests/data/signedPackage/metadata.desktop:38
+#: autotests/data/signedPackage/metadata.desktop:39
 msgctxt "Comment"
 msgid "Demonstrates accessing data via HTTP in JavaScript"
 msgstr ""
@@ -54,12 +54,12 @@ msgctxt "Comment"
 msgid "Report a bug in Plasma"
 msgstr "Innis dhuinn mu bhuga ann am Plasma"
 
-#: examples/applets/bugreport/metadata.desktop:38
+#: examples/applets/bugreport/metadata.desktop:39
 msgctxt "Keywords"
 msgid "plasma;bugzilla;bug;development;support;"
 msgstr "plasma;bugzilla;bug;development;support;buga;leasachadh;taic;cobhair;"
 
-#: examples/applets/bugreport/metadata.desktop:62
+#: examples/applets/bugreport/metadata.desktop:63
 msgctxt "Name"
 msgid "Bug"
 msgstr "Buga"
@@ -107,7 +107,7 @@ msgctxt "Name"
 msgid "Now playing (QML)"
 msgstr "'Ga chluich an-dràsta (QML)"
 
-#: examples/applets/nowplaying/metadata.desktop:36
+#: examples/applets/nowplaying/metadata.desktop:37
 msgctxt "Comment"
 msgid "A proof of concept media player controller qml"
 msgstr ""
@@ -356,7 +356,7 @@ msgctxt "Name"
 msgid "Plasma Shell"
 msgstr "Plasma Shell"
 
-#: src/plasma/data/servicetypes/plasma-shell.desktop:41
+#: src/plasma/data/servicetypes/plasma-shell.desktop:42
 msgctxt "Comment"
 msgid "Plasma Shell Components"
 msgstr "Cò-phàirtean Plasma Shell"
