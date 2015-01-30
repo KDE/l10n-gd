@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4support\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-25 08:06+0000\n"
+"POT-Creation-Date: 2015-01-30 08:12+0000\n"
 "PO-Revision-Date: 2014-12-09 10:35+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -1924,36 +1924,36 @@ msgstr "Tagh na &h-uile"
 msgid "&Deselect All"
 msgstr "&Dì-thagh na h-uile"
 
-#: kdebugdialog/main.cpp:99
+#: kdebugdialog/main.cpp:104
 msgid "KDebugDialog"
 msgstr "Còmhradh di-bhugachaidh"
 
-#: kdebugdialog/main.cpp:100
+#: kdebugdialog/main.cpp:105
 msgid "A dialog box for setting preferences for debug output"
 msgstr ""
 "Bogsa-còmhraidh gus roghainnean a shuidheachadh airson às-chur dì-bhugachaidh"
 
-#: kdebugdialog/main.cpp:101
+#: kdebugdialog/main.cpp:106
 msgid "Copyright 1999-2009, David Faure <faure@kde.org>"
 msgstr "Coir-lethbhreac 1999-2009, David Faure <faure@kde.org>"
 
-#: kdebugdialog/main.cpp:102
+#: kdebugdialog/main.cpp:107
 msgid "David Faure"
 msgstr "David Faure"
 
-#: kdebugdialog/main.cpp:102
+#: kdebugdialog/main.cpp:107
 msgid "Maintainer"
 msgstr "Neach-glèidhidh"
 
-#: kdebugdialog/main.cpp:107
+#: kdebugdialog/main.cpp:112
 msgid "Show the fully-fledged dialog instead of the default list dialog"
 msgstr "Seall an còmhradh slàn seach an còmhradh liosta tùsail"
 
-#: kdebugdialog/main.cpp:108
+#: kdebugdialog/main.cpp:113
 msgid "Turn area on"
 msgstr "Cuir an raon air"
 
-#: kdebugdialog/main.cpp:109
+#: kdebugdialog/main.cpp:114
 msgid "Turn area off"
 msgstr "Cuir an raon dheth"
 
