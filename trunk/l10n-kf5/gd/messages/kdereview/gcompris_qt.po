@@ -4273,7 +4273,7 @@ msgstr ""
 
 #: core/DialogConfig.qml:191
 msgctxt "DialogConfig|"
-msgid "Show non-free activities"
+msgid "Show locked activities"
 msgstr ""
 
 #: core/DialogConfig.qml:201
