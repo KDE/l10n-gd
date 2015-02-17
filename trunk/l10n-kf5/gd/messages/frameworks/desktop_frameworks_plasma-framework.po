@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-02-05 08:03+0000\n"
+"POT-Creation-Date: 2015-02-17 12:56+0000\n"
 "PO-Revision-Date: 2014-12-09 15:23+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -59,7 +59,7 @@ msgctxt "Keywords"
 msgid "plasma;bugzilla;bug;development;support;"
 msgstr "plasma;bugzilla;bug;development;support;buga;leasachadh;taic;cobhair;"
 
-#: examples/applets/bugreport/metadata.desktop:64
+#: examples/applets/bugreport/metadata.desktop:65
 msgctxt "Name"
 msgid "Bug"
 msgstr "Buga"
@@ -281,17 +281,17 @@ msgctxt "Comment"
 msgid "Plasma Workspace"
 msgstr "Rum-obrach Plasma"
 
-#: src/plasma/data/notifications/plasmashell.notifyrc:31
+#: src/plasma/data/notifications/plasmashell.notifyrc:32
 msgctxt "Name"
 msgid "Plasma"
 msgstr "Plasma"
 
-#: src/plasma/data/notifications/plasmashell.notifyrc:61
+#: src/plasma/data/notifications/plasmashell.notifyrc:63
 msgctxt "Name"
 msgid "Widget deleted"
 msgstr "Widget air a sguabadh às"
 
-#: src/plasma/data/notifications/plasmashell.notifyrc:88
+#: src/plasma/data/notifications/plasmashell.notifyrc:91
 msgctxt "Comment"
 msgid "A widget has been deleted"
 msgstr "Chaidh widget a sguabadh às"
