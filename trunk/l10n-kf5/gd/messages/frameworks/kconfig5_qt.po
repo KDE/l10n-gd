@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Virtaal 0.7.1\n"
 "X-Qt-Contexts: true\n"
 
-#: core/kconfig.cpp:865
+#: core/kconfig.cpp:871
 msgctxt "KConfig|"
 msgid "Please contact your system administrator."
 msgstr "Cuir fios gu rianaire an t-siostaim agad."
