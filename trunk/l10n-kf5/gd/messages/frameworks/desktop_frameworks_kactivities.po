@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-02-28 09:55+0000\n"
+"POT-Creation-Date: 2015-03-01 09:04+0000\n"
 "PO-Revision-Date: 2014-11-24 12:34+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,7 +21,7 @@ msgctxt "Name"
 msgid "Activity Manager"
 msgstr "Manaidsear nan gnìomhachdan"
 
-#: src/service/files/kactivitymanagerd.desktop:62
+#: src/service/files/kactivitymanagerd.desktop:63
 msgctxt "Comment"
 msgid "The activity management backend"
 msgstr "Backend gus na gnìomhachdan a stiùireadh"
@@ -36,7 +36,7 @@ msgctxt "Name"
 msgid "Activity Templates"
 msgstr "Teamplaidean nan gnìomhachdan"
 
-#: src/service/plugins/activitytemplates/kactivitymanagerd-plugin-activitytemplates.desktop:43
+#: src/service/plugins/activitytemplates/kactivitymanagerd-plugin-activitytemplates.desktop:44
 msgctxt "Comment"
 msgid "Support for creating templated activities"
 msgstr "Taic gus gnìomhachdan a chruthachadh le teamplaidean"
@@ -46,7 +46,7 @@ msgctxt "Name"
 msgid "Global Shortcuts"
 msgstr "Ath-ghoiridean uile-choitcheann"
 
-#: src/service/plugins/globalshortcuts/kactivitymanagerd-plugin-globalshortcuts.desktop:52
+#: src/service/plugins/globalshortcuts/kactivitymanagerd-plugin-globalshortcuts.desktop:53
 msgctxt "Comment"
 msgid "Adds global keyboard shortcuts for activity switching"
 msgstr ""
@@ -112,7 +112,7 @@ msgctxt "Name"
 msgid "List activities test"
 msgstr "Seall deuchainn air na gnìomhachdan"
 
-#: tests/imports/plasma-applet-org.kde.listactivitiestest.desktop:42
+#: tests/imports/plasma-applet-org.kde.listactivitiestest.desktop:43
 msgctxt "Comment"
 msgid "Strange, but not a Clock"
 msgstr "Neònach ach chan e uaireadair a th' ann"
