@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmutils5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-22 07:57+0000\n"
+"POT-Creation-Date: 2015-03-14 08:50+0000\n"
 "PO-Revision-Date: 2014-11-24 19:40+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -462,7 +462,7 @@ msgstr[3] ""
 msgid "Search Plugins"
 msgstr "Lorg plugain"
 
-#: kpluginselector.cpp:785
+#: kpluginselector.cpp:795
 #, kde-format
 msgctxt "Used only for plugins"
 msgid "About %1"
