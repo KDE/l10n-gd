@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-03-02 09:12+0000\n"
+"POT-Creation-Date: 2015-03-15 08:50+0000\n"
 "PO-Revision-Date: 2014-11-24 20:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -89,7 +89,7 @@ msgctxt "Name"
 msgid "Cache"
 msgstr ""
 
-#: src/kcms/kio/cache.desktop:98
+#: src/kcms/kio/cache.desktop:99
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure trash settings"
@@ -97,7 +97,7 @@ msgctxt "Comment"
 msgid "Configure web cache settings"
 msgstr "Rèitich roghainnean an sgudail"
 
-#: src/kcms/kio/cache.desktop:129
+#: src/kcms/kio/cache.desktop:131
 msgctxt "X-KDE-Keywords"
 msgid "Cache,History,Browsing History,Ports,Size"
 msgstr ""
@@ -110,12 +110,12 @@ msgctxt "Name"
 msgid "Cookies"
 msgstr "Crogan bhriosgaidean"
 
-#: src/kcms/kio/cookies.desktop:46
+#: src/kcms/kio/cookies.desktop:47
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr ""
 
-#: src/kcms/kio/cookies.desktop:127
+#: src/kcms/kio/cookies.desktop:129
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr ""
@@ -125,12 +125,12 @@ msgctxt "Name"
 msgid "Connection Preferences"
 msgstr ""
 
-#: src/kcms/kio/netpref.desktop:92
+#: src/kcms/kio/netpref.desktop:93
 msgctxt "Comment"
 msgid "Configure generic network preferences, like timeout values"
 msgstr ""
 
-#: src/kcms/kio/netpref.desktop:172
+#: src/kcms/kio/netpref.desktop:174
 msgctxt "X-KDE-Keywords"
 msgid "timeout,iopref,netpref,network preferences,ftp"
 msgstr ""
@@ -140,12 +140,12 @@ msgctxt "Name"
 msgid "Proxy"
 msgstr ""
 
-#: src/kcms/kio/proxy.desktop:96
+#: src/kcms/kio/proxy.desktop:97
 msgctxt "Comment"
 msgid "Configure the proxy servers used"
 msgstr ""
 
-#: src/kcms/kio/proxy.desktop:178
+#: src/kcms/kio/proxy.desktop:180
 msgctxt "X-KDE-Keywords"
 msgid "Proxy,Proxy server,Firewall,Squid"
 msgstr ""
@@ -155,12 +155,12 @@ msgctxt "Name"
 msgid "Windows Shares"
 msgstr ""
 
-#: src/kcms/kio/smb.desktop:93
+#: src/kcms/kio/smb.desktop:94
 msgctxt "Comment"
 msgid "Use to configure which windows (SMB) filesystems you can browse"
 msgstr ""
 
-#: src/kcms/kio/smb.desktop:172
+#: src/kcms/kio/smb.desktop:174
 msgctxt "X-KDE-Keywords"
 msgid ""
 "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
@@ -377,12 +377,12 @@ msgctxt "Name"
 msgid "Browser Identification"
 msgstr ""
 
-#: src/kcms/kio/useragent.desktop:94
+#: src/kcms/kio/useragent.desktop:95
 msgctxt "Comment"
 msgid "Configure the way Konqueror reports itself"
 msgstr ""
 
-#: src/kcms/kio/useragent.desktop:173
+#: src/kcms/kio/useragent.desktop:175
 msgctxt "X-KDE-Keywords"
 msgid "User Agent,Browser,Internet,WWW,Network,agent,bindings,server,login"
 msgstr ""
@@ -392,12 +392,12 @@ msgctxt "Name"
 msgid "Web Shortcuts"
 msgstr "Ath-ghoiridean lìn"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:97
+#: src/kcms/webshortcuts/webshortcuts.desktop:98
 msgctxt "Comment"
 msgid "Configure web shortcuts"
 msgstr "Rèitich na h-ath-ghoiridean lìn"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:133
+#: src/kcms/webshortcuts/webshortcuts.desktop:135
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Shortcuts,Browsing,WWW,Internet,Internet Filters,Network,Search Engines,"
@@ -1128,7 +1128,7 @@ msgctxt "Name"
 msgid "Great Dictionary of the Catalan Language (GRan Enciclopèdia Catalana)"
 msgstr "Mòr-fhaclair a' Chatalanais (Gran Enciclopèdia Catalana)"
 
-#: src/urifilters/ikws/searchproviders/grec.desktop:33
+#: src/urifilters/ikws/searchproviders/grec.desktop:34
 msgctxt "Query"
 msgid "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
 msgstr "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
@@ -1516,7 +1516,7 @@ msgctxt "Name"
 msgid "Qwant"
 msgstr "Qwant"
 
-#: src/urifilters/ikws/searchproviders/qwant.desktop:38
+#: src/urifilters/ikws/searchproviders/qwant.desktop:39
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&source=web"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&source=web"
@@ -1526,7 +1526,7 @@ msgctxt "Name"
 msgid "Qwant Images"
 msgstr "Qwant Images"
 
-#: src/urifilters/ikws/searchproviders/qwant_images.desktop:38
+#: src/urifilters/ikws/searchproviders/qwant_images.desktop:39
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=images"
 msgstr "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=images"
@@ -1536,7 +1536,7 @@ msgctxt "Name"
 msgid "Qwant News"
 msgstr "Qwant News"
 
-#: src/urifilters/ikws/searchproviders/qwant_news.desktop:38
+#: src/urifilters/ikws/searchproviders/qwant_news.desktop:39
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=news"
 msgstr "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=news"
@@ -1546,7 +1546,7 @@ msgctxt "Name"
 msgid "Qwant Shopping"
 msgstr "Qwant Shopping"
 
-#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:38
+#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:39
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=shopping"
 msgstr "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=shopping"
@@ -1556,7 +1556,7 @@ msgctxt "Name"
 msgid "Qwant Social"
 msgstr "Qwant Social"
 
-#: src/urifilters/ikws/searchproviders/qwant_social.desktop:38
+#: src/urifilters/ikws/searchproviders/qwant_social.desktop:39
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=social"
 msgstr "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=social"
@@ -1566,7 +1566,7 @@ msgctxt "Name"
 msgid "Qwant Videos"
 msgstr "Qwant Videos"
 
-#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:38
+#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:39
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=videos"
 msgstr "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=videos"
