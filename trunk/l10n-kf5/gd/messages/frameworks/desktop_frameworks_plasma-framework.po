@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-03-18 08:21+0000\n"
+"POT-Creation-Date: 2015-03-20 08:44+0000\n"
 "PO-Revision-Date: 2014-12-09 15:23+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -59,7 +59,7 @@ msgctxt "Keywords"
 msgid "plasma;bugzilla;bug;development;support;"
 msgstr "plasma;bugzilla;bug;development;support;buga;leasachadh;taic;cobhair;"
 
-#: examples/applets/bugreport/metadata.desktop:66
+#: examples/applets/bugreport/metadata.desktop:67
 msgctxt "Name"
 msgid "Bug"
 msgstr "Buga"
@@ -87,7 +87,7 @@ msgstr ""
 "Aplaid-eisimpleir a sheallas mar a chleachdas tu modailean leabaichte ann an "
 "DataEngines"
 
-#: examples/applets/dataenginemodel/metadata.desktop:36
+#: examples/applets/dataenginemodel/metadata.desktop:37
 msgctxt "Name"
 msgid "Dataengine model"
 msgstr "Modail inneil-dàta"
@@ -186,7 +186,7 @@ msgctxt "Name"
 msgid "Custom DataContainers"
 msgstr "DataContainers gnàthaichte"
 
-#: examples/dataengines/customDataContainers/plasma-dataengine-example-customDataContainers.desktop:35
+#: examples/dataengines/customDataContainers/plasma-dataengine-example-customDataContainers.desktop:36
 msgctxt "Comment"
 msgid "A demonstration of how to subclass DataContainer"
 msgstr ""
