@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kactivities5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-02-13 07:59+0000\n"
+"POT-Creation-Date: 2015-04-03 09:04+0000\n"
 "PO-Revision-Date: 2014-11-24 18:43+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -36,8 +36,8 @@ msgstr "Gnìomhachd"
 msgid "Default"
 msgstr "Thùsail"
 
-#: service/plugins/globalshortcuts/GlobalShortcutsPlugin.cpp:84
-#: service/plugins/globalshortcuts/GlobalShortcutsPlugin.cpp:119
+#: service/plugins/globalshortcuts/GlobalShortcutsPlugin.cpp:86
+#: service/plugins/globalshortcuts/GlobalShortcutsPlugin.cpp:121
 #, kde-format
 msgctxt "@action"
 msgid "Switch to activity \"%1\""
