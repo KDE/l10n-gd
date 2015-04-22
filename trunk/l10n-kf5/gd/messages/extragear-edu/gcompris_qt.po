@@ -973,20 +973,6 @@ msgctxt "ActivityInfo|"
 msgid "Braille the falling letters"
 msgstr ""
 
-#: activities/braille_fun/ActivityInfo.qml:28
-#, fuzzy
-#| msgid ""
-msgctxt "ActivityInfo|"
-msgid ""
-msgstr ""
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
-"(n > 2 && n < 20) ? 2 : 3;\n"
-"X-Language: gd\n"
-"X-Qt-Contexts: true\n"
-
 #: activities/braille_fun/ActivityInfo.qml:29
 #, fuzzy
 #| msgctxt "FirstScreen|"
@@ -4895,6 +4881,19 @@ msgstr ""
 msgctxt "ReadyButton|"
 msgid "I am Ready"
 msgstr "Tha mi deiseil"
+
+#, fuzzy
+#~| msgid ""
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ msgstr ""
+#~ "MIME-Version: 1.0\n"
+#~ "Content-Type: text/plain; charset=UTF-8\n"
+#~ "Content-Transfer-Encoding: 8bit\n"
+#~ "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? "
+#~ "1 : (n > 2 && n < 20) ? 2 : 3;\n"
+#~ "X-Language: gd\n"
+#~ "X-Qt-Contexts: true\n"
 
 #~ msgctxt "ActivityInfo|"
 #~ msgid "Train your audio memory and remove all the violinists Tux."
