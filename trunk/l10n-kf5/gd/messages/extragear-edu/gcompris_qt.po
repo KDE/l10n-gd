@@ -1200,7 +1200,7 @@ msgstr ""
 "diogan). Briog air na saighdean is gluais an luchag gus na h-àireamhan a "
 "dhèanamh nas motha no nas lugha."
 
-#: activities/clockgame/Clockgame.qml:103
+#: activities/clockgame/Clockgame.qml:105
 msgctxt "Clockgame|"
 msgid "Set the watch to:"
 msgstr "Suidhich an t-uaireadair aig:"
