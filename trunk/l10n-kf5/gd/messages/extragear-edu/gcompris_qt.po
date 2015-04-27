@@ -1524,6 +1524,7 @@ msgstr "Co-ghluasad"
 #: activities/erase/ActivityInfo.qml:30
 #: activities/erase_2clic/ActivityInfo.qml:30
 #: activities/erase_clic/ActivityInfo.qml:30
+#: activities/hanoi/ActivityInfo.qml:29
 #: activities/memory-tux/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Mouse-manipulation"
@@ -2019,6 +2020,39 @@ msgctxt "guessnumber|"
 msgid "Number found!"
 msgstr "Àireamh"
 
+#: activities/hanoi/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "Simplified Tower of Hanoi"
+msgstr ""
+
+#: activities/hanoi/ActivityInfo.qml:27
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "ActivityInfo|"
+msgid "Reproduce the given tower"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/hanoi/ActivityInfo.qml:28
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "ActivityInfo|"
+msgid "Reproduce the tower on the right in the empty space on the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/hanoi/ActivityInfo.qml:30
+msgctxt "ActivityInfo|"
+msgid ""
+"Drag and Drop one top piece at a time, from one peg to another, to reproduce "
+"the tower on the right in the empty space on the left."
+msgstr ""
+
+#: activities/hanoi/ActivityInfo.qml:31
+msgctxt "ActivityInfo|"
+msgid "Concept taken from EPI games."
+msgstr ""
+
 #: activities/hanoi_real/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "The Tower of Hanoi"
@@ -2061,9 +2095,16 @@ msgid ""
 "Tower_of_hanoi>)"
 msgstr ""
 
-#: activities/hanoi_real/HanoiReal.qml:91
+#: activities/hanoi_real/HanoiReal.qml:84
 msgctxt "HanoiReal|"
 msgid "Move the entire stack to the right peg, one disc at a time."
+msgstr ""
+
+#: activities/hanoi_real/HanoiReal.qml:85
+msgctxt "HanoiReal|"
+msgid ""
+"Build the same tower in the empty area as the one you see on the right-hand "
+"side"
 msgstr ""
 
 #: activities/hexagon/ActivityInfo.qml:26
