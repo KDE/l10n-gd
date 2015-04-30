@@ -1252,62 +1252,62 @@ msgstr ""
 "Dèan an\n"
 "aon dath"
 
-#: activities/color_mix/ColorMix.qml:194
+#: activities/color_mix/ColorMix.qml:195
 msgctxt "ColorMix|"
 msgid "Not enough red"
 msgstr "Chan eil dearg gu leòr ann"
 
-#: activities/color_mix/ColorMix.qml:196
+#: activities/color_mix/ColorMix.qml:197
 msgctxt "ColorMix|"
 msgid "Too much red"
 msgstr "Tha cus deirg ann"
 
-#: activities/color_mix/ColorMix.qml:199
+#: activities/color_mix/ColorMix.qml:200
 msgctxt "ColorMix|"
 msgid "Not enough green"
 msgstr "Chan eil uaine gu leòr ann"
 
-#: activities/color_mix/ColorMix.qml:201
+#: activities/color_mix/ColorMix.qml:202
 msgctxt "ColorMix|"
 msgid "Too much green"
 msgstr "Tha cus uaine ann"
 
-#: activities/color_mix/ColorMix.qml:204
+#: activities/color_mix/ColorMix.qml:205
 msgctxt "ColorMix|"
 msgid "Not enough blue"
 msgstr "Chan eil gorm gu leòr ann"
 
-#: activities/color_mix/ColorMix.qml:206
+#: activities/color_mix/ColorMix.qml:207
 msgctxt "ColorMix|"
 msgid "Too much blue"
 msgstr "Tha cus gorm ann"
 
-#: activities/color_mix/ColorMix.qml:210
+#: activities/color_mix/ColorMix.qml:211
 msgctxt "ColorMix|"
 msgid "Not enough magenta"
 msgstr "Chan eil maidèanta gu leòr ann"
 
-#: activities/color_mix/ColorMix.qml:212
+#: activities/color_mix/ColorMix.qml:213
 msgctxt "ColorMix|"
 msgid "Too much magenta"
 msgstr "Tha cus maidèanta ann"
 
-#: activities/color_mix/ColorMix.qml:215
+#: activities/color_mix/ColorMix.qml:216
 msgctxt "ColorMix|"
 msgid "Not enough yellow"
 msgstr "Chan eil buidhe gu leòr ann"
 
-#: activities/color_mix/ColorMix.qml:217
+#: activities/color_mix/ColorMix.qml:218
 msgctxt "ColorMix|"
 msgid "Too much yellow"
 msgstr "Tha cus buidhe ann"
 
-#: activities/color_mix/ColorMix.qml:220
+#: activities/color_mix/ColorMix.qml:221
 msgctxt "ColorMix|"
 msgid "Not enough cyan"
 msgstr "Chan eil saidhean gu leòr ann"
 
-#: activities/color_mix/ColorMix.qml:222
+#: activities/color_mix/ColorMix.qml:223
 msgctxt "ColorMix|"
 msgid "Too much cyan"
 msgstr "Tha cus saidhein ann"
