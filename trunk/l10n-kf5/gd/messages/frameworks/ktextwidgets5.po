@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ktextwidgets5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-10-08 07:50+0000\n"
+"POT-Creation-Date: 2015-05-05 12:19+0000\n"
 "PO-Revision-Date: 2014-12-09 16:30+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -584,27 +584,26 @@ msgctxt "@action"
 msgid "Superscript"
 msgstr "Os-sgrìobhte"
 
-#: widgets/ktextedit.cpp:150
+#: widgets/ktextedit.cpp:167
 msgid "Nothing to spell check."
 msgstr "Chan eil dad ri dhearbhadh ann."
 
-#: widgets/ktextedit.cpp:542
+#: widgets/ktextedit.cpp:559
 msgid "Check Spelling..."
 msgstr "Dearbhaich an litreachadh..."
 
-#: widgets/ktextedit.cpp:546
+#: widgets/ktextedit.cpp:563
 msgid "Auto Spell Check"
 msgstr "Dearbhaich an litreachadh gu fèin-obrachail"
 
-#: widgets/ktextedit.cpp:551
+#: widgets/ktextedit.cpp:568
 msgid "Allow Tabulations"
 msgstr "Ceadaich cur an clàr"
 
-#: widgets/ktextedit.cpp:581
+#: widgets/ktextedit.cpp:597
 msgid "Speak Text"
 msgstr "Can teacsa"
 
-#: widgets/ktextedit.cpp:597
-msgid "Starting Jovie Text-to-Speech Service Failed"
-msgstr ""
-"Cha deach leinn Jovie a thòiseachadh, seo an t-seirbheis teacsa-gu-cainnt"
+#~ msgid "Starting Jovie Text-to-Speech Service Failed"
+#~ msgstr ""
+#~ "Cha deach leinn Jovie a thòiseachadh, seo an t-seirbheis teacsa-gu-cainnt"
