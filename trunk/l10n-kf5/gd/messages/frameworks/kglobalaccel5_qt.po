@@ -63,3 +63,13 @@ msgstr ""
 msgctxt "KGlobalAccel|"
 msgid "Conflict With Registered Global Shortcut"
 msgstr "Còmhstri le ath-ghoirid chlàraichte"
+
+#: runtime/main.cpp:61 runtime/main.cpp:63
+msgctxt "QObject|"
+msgid "KDE Global Shortcuts Service"
+msgstr ""
+
+#: runtime/main.cpp:66 runtime/main.cpp:67
+msgctxt "QObject|"
+msgid "Maintainer"
+msgstr ""
