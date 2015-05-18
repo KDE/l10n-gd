@@ -1079,7 +1079,7 @@ msgstr "Briog is tarraing"
 #| msgctxt "ActivityInfo|"
 #| msgid "Draw the picture by clicking on the blue points."
 msgctxt "ActivityInfo|"
-msgid "Draw the picture by clicking on the green points."
+msgid "Draw the picture by clicking on the selected points."
 msgstr "Tarraing an dealbh ’s tu a’ briogadh air na dotagan gorma."
 
 #: activities/clickanddraw/ActivityInfo.qml:30
@@ -1093,8 +1093,8 @@ msgstr ""
 #| msgid "Draw the picture by clicking on each blue point in sequence."
 msgctxt "ActivityInfo|"
 msgid ""
-"Draw the picture by clicking on each green point in sequence. Each time a "
-"green point is selected the next green one appears."
+"Draw the picture by clicking on each point in sequence. Each time a point is "
+"selected the next green one appears."
 msgstr ""
 "Tarraing an dealbh ’s tu a’ briogadh air gach dotag gorm ann an òrdugh."
 
@@ -3739,7 +3739,7 @@ msgctxt "ConfigurationItem|"
 msgid "All lowercase"
 msgstr ""
 
-#: activities/menu/Menu.qml:258
+#: activities/menu/Menu.qml:256
 msgctxt "Menu|"
 msgid ""
 "Put your favorite activities here by selecting the sun on each activity top "
