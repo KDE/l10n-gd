@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-05-14 09:10+0000\n"
+"POT-Creation-Date: 2015-05-27 09:03+0000\n"
 "PO-Revision-Date: 2014-11-24 20:18-0000\n"
 "Last-Translator: GunChleoc <fiosAIGforamnagaidhligDOTnet>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -198,7 +198,7 @@ msgctxt "Name"
 msgid "Widget deleted"
 msgstr ""
 
-#: plasma_workspace.notifyrc:1381
+#: plasma_workspace.notifyrc:1382
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "The trash has been emptied"
