@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-05-17 09:14+0000\n"
+"POT-Creation-Date: 2015-05-28 09:31+0000\n"
 "PO-Revision-Date: 2014-12-09 15:23+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -59,7 +59,7 @@ msgctxt "Keywords"
 msgid "plasma;bugzilla;bug;development;support;"
 msgstr "plasma;bugzilla;bug;development;support;buga;leasachadh;taic;cobhair;"
 
-#: examples/applets/bugreport/metadata.desktop:70
+#: examples/applets/bugreport/metadata.desktop:71
 msgctxt "Name"
 msgid "Bug"
 msgstr "Buga"
