@@ -757,6 +757,70 @@ msgstr ""
 "a/à/b/bh/c/ch/d/dh/e/è/f/fh/g/gh/i/ì/l/ll/m/mh/n/nn/o/ò/p/ph/r/rr/s/sh/t/th/"
 "u/ù"
 
+#: activities/babymatch/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid "Matching Items"
+msgstr ""
+
+#: activities/babymatch/ActivityInfo.qml:30
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Drag and Drop weights to balance the scales"
+msgctxt "ActivityInfo|"
+msgid "Drag and Drop the items to make them match"
+msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
+
+#: activities/babymatch/ActivityInfo.qml:31
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Motor coordination: moving and clicking the mouse."
+msgctxt "ActivityInfo|"
+msgid "Motor coordination. Conceptual matching."
+msgstr "Co-ghluasad: a’ gluasad is a’ briogadh na luchaige."
+
+#: activities/babymatch/ActivityInfo.qml:32
+msgctxt "ActivityInfo|"
+msgid "Cultural references."
+msgstr ""
+
+#: activities/babymatch/ActivityInfo.qml:33
+msgctxt "ActivityInfo|"
+msgid ""
+"In the main board area, a set of objects is displayed. In the vertical box "
+"(at the left of the main board) another set of objects is shown, each object "
+"in the group on the left matching exactly one object in the main board area. "
+"This game challenges you to find the logical link between these objects. How "
+"do they fit together? Drag each object to the correct red space in the main "
+"area."
+msgstr ""
+
+#: activities/babyshapes/ActivityInfo.qml:30
+msgctxt "ActivityInfo|"
+msgid "Complete the puzzle"
+msgstr ""
+
+#: activities/babyshapes/ActivityInfo.qml:31
+#: activities/details/ActivityInfo.qml:30
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Drag and Drop weights to balance the scales"
+msgctxt "ActivityInfo|"
+msgid "Drag and Drop the shapes on their respective targets"
+msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
+
+#: activities/babyshapes/ActivityInfo.qml:34
+#: activities/details/ActivityInfo.qml:33
+msgctxt "ActivityInfo|"
+msgid ""
+"Complete the puzzle by dragging each piece from the set of pieces on the "
+"left, to the matching space in the puzzle."
+msgstr ""
+
+#: activities/babyshapes/ActivityInfo.qml:35
+msgctxt "ActivityInfo|"
+msgid "The dog is provided by Andre Connes and released under the GPL"
+msgstr ""
+
 #: activities/ballcatch/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Make the ball go to Tux"
@@ -1016,6 +1080,43 @@ msgstr ""
 msgctxt "ActivityInfo|"
 msgid "Drawing by Stephane Cabaraux."
 msgstr "Tarraing le Stephane Cabaraux."
+
+#: activities/chronos/ActivityInfo.qml:30
+msgctxt "ActivityInfo|"
+msgid "Chronos"
+msgstr ""
+
+#: activities/chronos/ActivityInfo.qml:31
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Drag and Drop weights to balance the scales"
+msgctxt "ActivityInfo|"
+msgid "Drag and Drop the items to organize the story"
+msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
+
+#: activities/chronos/ActivityInfo.qml:32
+msgctxt "ActivityInfo|"
+msgid "Sort the pictures into the order that tells the story"
+msgstr ""
+
+#: activities/chronos/ActivityInfo.qml:33
+msgctxt "ActivityInfo|"
+msgid "Tell a short story"
+msgstr ""
+
+#: activities/chronos/ActivityInfo.qml:34
+msgctxt "ActivityInfo|"
+msgid "Pick from the pictures on the left and put them on the red dots"
+msgstr ""
+
+#: activities/chronos/ActivityInfo.qml:35
+msgctxt "ActivityInfo|"
+msgid ""
+"Moon photo is copyright NASA. The space sounds come from Tuxpaint and "
+"Vegastrike which are released under the GPL license. The transportation "
+"images are copyright Franck Doucet. Dates of Transportation are based on "
+"those found in &lt;http://www.wikipedia.org&gt;."
+msgstr ""
 
 #: activities/click_on_letter/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -1448,6 +1549,19 @@ msgctxt "colors|"
 msgid "Find the purple duck"
 msgstr "Lorg an tunnag phurpaidh"
 
+#: activities/details/ActivityInfo.qml:29
+#, fuzzy
+#| msgctxt "instruments|"
+#| msgid "Find the tuba"
+msgctxt "ActivityInfo|"
+msgid "Find the details"
+msgstr "Lorg an tiùba"
+
+#: activities/details/ActivityInfo.qml:34
+msgctxt "ActivityInfo|"
+msgid "The images are from Wikimedia Commons."
+msgstr ""
+
 #: activities/drawnumber/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Number sequence"
@@ -1693,6 +1807,32 @@ msgstr "Breab am bàla dhan toll dubh air an taobh deas"
 msgctxt "ActivityInfo|"
 msgid "Drag a line from the ball, to set its speed and direction."
 msgstr ""
+
+#: activities/geo-country/ActivityInfo.qml:30
+msgctxt "ActivityInfo|"
+msgid "Locate the region"
+msgstr ""
+
+#: activities/geo-country/ActivityInfo.qml:31
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Drag and Drop weights to balance the scales"
+msgctxt "ActivityInfo|"
+msgid "Drag and Drop the regions to redraw the whole country"
+msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
+
+#: activities/geography/ActivityInfo.qml:30
+msgctxt "ActivityInfo|"
+msgid "Locate the countries"
+msgstr ""
+
+#: activities/geography/ActivityInfo.qml:31
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Drag and Drop weights to balance the scales"
+msgctxt "ActivityInfo|"
+msgid "Drag and Drop the items to redraw the whole map"
+msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
 
 #: activities/gletters/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -2160,6 +2300,7 @@ msgid "Practice reading by finding the word matching an image"
 msgstr "Cleachdaich leughadh, a’ lorg an fhacail a fhreagras ri dealbh"
 
 #: activities/imageid/ActivityInfo.qml:30
+#: activities/imagename/ActivityInfo.qml:32
 #: activities/memory-wordnumber/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Reading"
@@ -2206,6 +2347,34 @@ msgstr "Lorg an triantan"
 #: activities/imageid/Imageid.qml:323
 msgctxt "Imageid|"
 msgid "OK"
+msgstr ""
+
+#: activities/imagename/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid "Image Name"
+msgstr ""
+
+#: activities/imagename/ActivityInfo.qml:30
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Drag and Drop weights to balance the scales"
+msgctxt "ActivityInfo|"
+msgid "Drag and Drop each item above its name"
+msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
+
+#: activities/imagename/ActivityInfo.qml:31
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Word reading"
+msgctxt "ActivityInfo|"
+msgid "Vocabulary and reading"
+msgstr "Leughadh nam faclan"
+
+#: activities/imagename/ActivityInfo.qml:33
+msgctxt "ActivityInfo|"
+msgid ""
+"Drag each image from the (vertical) box on the left to its (corresponding) "
+"name on the right. Click the OK button to check your answer."
 msgstr ""
 
 #: activities/instruments/ActivityInfo.qml:26
