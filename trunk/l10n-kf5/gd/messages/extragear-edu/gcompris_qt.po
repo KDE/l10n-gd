@@ -975,12 +975,12 @@ msgid "This is easy, numbers are the same as letters from A to J."
 msgstr ""
 "Tha seo furasta, tha na h-àireamhan co-ionnan ris na litrichean o “A” gu “J”."
 
-#: activities/braille_alphabets/FirstScreen.qml:37
+#: activities/braille_alphabets/FirstScreen.qml:36
 msgctxt "FirstScreen|"
 msgid "Braille : Unlocking the Code"
 msgstr "Braille : A’ neo-ghlasadh a’ còd"
 
-#: activities/braille_alphabets/FirstScreen.qml:65
+#: activities/braille_alphabets/FirstScreen.qml:64
 msgctxt "FirstScreen|"
 msgid ""
 "The Braille system is a method that is used by blind people to read and "
@@ -989,7 +989,7 @@ msgstr ""
 "’S e dòigh leughaidh is sgrìobhaidh a chleachdas daoine dalla a tha san t-"
 "siostam Braille."
 
-#: activities/braille_alphabets/FirstScreen.qml:66
+#: activities/braille_alphabets/FirstScreen.qml:65
 msgctxt "FirstScreen|"
 msgid ""
 "Each Braille character, or cell, is made up of six dot positions, arranged "
@@ -1001,7 +1001,7 @@ msgstr ""
 "gach fear. Mar a chì thu taobh clì, bheir sinn iomradh air gach dotag leis "
 "na h-àireamhan 1 gu 6."
 
-#: activities/braille_alphabets/FirstScreen.qml:87
+#: activities/braille_alphabets/FirstScreen.qml:86
 msgctxt "FirstScreen|"
 msgid "When you are ready, click on me and try reproducing Braille characters."
 msgstr ""
@@ -4891,7 +4891,7 @@ msgid ""
 "you have motivation you can do incredible things."
 msgstr ""
 
-#: activities/louis-braille/ReorderList.qml:169
+#: activities/louis-braille/ReorderList.qml:167
 msgctxt "ReorderList|"
 msgid ""
 "Arrange the events in the order in which they happened. Select the line to "
