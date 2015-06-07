@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-06-06 09:48+0000\n"
+"POT-Creation-Date: 2015-06-07 09:09+0000\n"
 "PO-Revision-Date: 2014-11-24 20:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -563,7 +563,7 @@ msgctxt "Name"
 msgid "Arch Linux Package Search"
 msgstr "Lorg pacaidean Debian"
 
-#: src/urifilters/ikws/searchproviders/archpkg.desktop:27
+#: src/urifilters/ikws/searchproviders/archpkg.desktop:28
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.baidu.com/s?wd=\\\\{@}"
