@@ -2384,6 +2384,16 @@ msgctxt "board7_0|"
 msgid "Counties of Brazil"
 msgstr ""
 
+#: activities/geo-country/resource/board/board8_0.qml:25
+msgctxt "board8_0|"
+msgid "Districts of Canada"
+msgstr ""
+
+#: activities/geo-country/resource/board/board9_0.qml:25
+msgctxt "board9_0|"
+msgid "Districts of Mexico"
+msgstr ""
+
 #: activities/geography/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Locate the countries"
@@ -4701,8 +4711,8 @@ msgctxt "ActivityInfo|"
 msgid "Follow the instructions when you run the activity."
 msgstr ""
 
-#: activities/intro_gravity/Message.qml:39
-msgctxt "Message|"
+#: activities/intro_gravity/IntroGravity.qml:124
+msgctxt "IntroGravity|"
 msgid ""
 "Gravity is universal and Newton's law of universal gravitation extends "
 "gravity beyond earth. This force of gravitational attraction is directly "
@@ -4710,8 +4720,8 @@ msgid ""
 "square of the distance that separates their centers."
 msgstr ""
 
-#: activities/intro_gravity/Message.qml:43
-msgctxt "Message|"
+#: activities/intro_gravity/IntroGravity.qml:128
+msgctxt "IntroGravity|"
 msgid ""
 "Since the gravitational force is directly proportional to the mass of both "
 "interacting objects, more massive objects will attract each other with a "
@@ -4719,44 +4729,26 @@ msgid ""
 "force of gravitational attraction between them also increases"
 msgstr ""
 
-#: activities/intro_gravity/Message.qml:47
-msgctxt "Message|"
+#: activities/intro_gravity/IntroGravity.qml:132
+msgctxt "IntroGravity|"
 msgid ""
 "But this force is inversely proportional to the square of the separation "
 "distance between the two interacting objects, more separation distance will "
 "result in weaker gravitational forces."
 msgstr ""
 
-#: activities/intro_gravity/Message.qml:50
-msgctxt "Message|"
+#: activities/intro_gravity/IntroGravity.qml:135
+msgctxt "IntroGravity|"
 msgid ""
 "Your goal is to let Tux's spaceship move by changing the mass of its "
 "surrounding planets. Don't get too close to the planets or you will crash on "
 "them. The arrow indicates the direction of the force on your ship."
 msgstr ""
 
-#: activities/intro_gravity/Message.qml:54
-msgctxt "Message|"
+#: activities/intro_gravity/IntroGravity.qml:139
+msgctxt "IntroGravity|"
 msgid "Avoid the asteroid and join the space shuttle to win."
 msgstr ""
-
-#: activities/intro_gravity/Message.qml:108
-msgctxt "Message|"
-msgid "Next"
-msgstr ""
-
-#: activities/intro_gravity/Message.qml:108
-msgctxt "Message|"
-msgid "Let's Go"
-msgstr ""
-
-#: activities/intro_gravity/Message.qml:141
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Simple subtraction"
-msgctxt "Message|"
-msgid "Skip Instruction"
-msgstr "Toirt air falbh simplidh"
 
 #: activities/leftright/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -7290,6 +7282,24 @@ msgstr ""
 msgctxt "DownloadDialog|"
 msgid "Your local data files are up-to-date."
 msgstr ""
+
+#: core/IntroMessage.qml:109
+msgctxt "IntroMessage|"
+msgid "Next"
+msgstr ""
+
+#: core/IntroMessage.qml:109
+msgctxt "IntroMessage|"
+msgid "Let's Go"
+msgstr ""
+
+#: core/IntroMessage.qml:147
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Simple subtraction"
+msgctxt "IntroMessage|"
+msgid "Skip Instruction"
+msgstr "Toirt air falbh simplidh"
 
 #: core/LanguageList.qml:43
 msgctxt "LanguageList|"
