@@ -860,7 +860,7 @@ msgstr ""
 
 #: activities/babyshapes/resource/board/board7_3.qml:25
 msgctxt "board7_3|"
-msgid "Paul Gauguin, Bedroom in Arles - 1888"
+msgid "Vincent van Gogh, Bedroom in Arles - 1888"
 msgstr ""
 
 #: activities/babyshapes/resource/board/board7_4.qml:25
