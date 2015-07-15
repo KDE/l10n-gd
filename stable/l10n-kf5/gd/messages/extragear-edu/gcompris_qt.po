@@ -7284,42 +7284,42 @@ msgctxt "LanguageList|"
 msgid "Your system default"
 msgstr ""
 
-#: core/main.cpp:120
+#: core/main.cpp:129
 msgctxt "QObject|"
 msgid "Run GCompris with the default system cursor."
 msgstr ""
 
-#: core/main.cpp:123
+#: core/main.cpp:132
 msgctxt "QObject|"
 msgid "Run GCompris without cursor (touch screen mode)."
 msgstr ""
 
-#: core/main.cpp:126
+#: core/main.cpp:135
 msgctxt "QObject|"
 msgid "Run GCompris in fullscreen mode."
 msgstr ""
 
-#: core/main.cpp:129
+#: core/main.cpp:138
 msgctxt "QObject|"
 msgid "Run GCompris in window mode."
 msgstr ""
 
-#: core/main.cpp:132
+#: core/main.cpp:141
 msgctxt "QObject|"
 msgid "Run GCompris with sound enabled."
 msgstr ""
 
-#: core/main.cpp:135
+#: core/main.cpp:144
 msgctxt "QObject|"
 msgid "Run GCompris without sound."
 msgstr ""
 
-#: core/main.cpp:138
+#: core/main.cpp:147
 msgctxt "QObject|"
 msgid "Disable the configuration button."
 msgstr ""
 
-#: core/main.cpp:141
+#: core/main.cpp:150
 msgctxt "QObject|"
 msgid "Enable the configuration button (default)."
 msgstr ""
