@@ -6458,29 +6458,29 @@ msgid ""
 "and disappear on the left. Does the given word belong to the list?"
 msgstr ""
 
-#: activities/readingh/Readingh.qml:105
+#: activities/readingh/Readingh.qml:104
 msgctxt "Readingh|"
 msgid "Select your locale"
 msgstr ""
 
-#: activities/readingh/Readingh.qml:111
+#: activities/readingh/Readingh.qml:110
 msgctxt "Readingh|"
 msgid "Left to right mode"
 msgstr ""
 
-#: activities/readingh/Readingh.qml:249
+#: activities/readingh/Readingh.qml:248
 #, qt-format
 msgctxt "Readingh|"
 msgid ""
 "Check if the word<br/><b><font color=\"blue\">%1</font></b><br/>is displayed"
 msgstr ""
 
-#: activities/readingh/Readingh.qml:274
+#: activities/readingh/Readingh.qml:273
 msgctxt "Readingh|"
 msgid "Yes, I saw it!"
 msgstr ""
 
-#: activities/readingh/Readingh.qml:289
+#: activities/readingh/Readingh.qml:288
 msgctxt "Readingh|"
 msgid "No, it was not there!"
 msgstr ""
@@ -6936,13 +6936,14 @@ msgid ""
 "Click on the items until you find what you think is the correct answer. "
 "Then, click on the OK button. In the lower levels, Tux gives you an "
 "indication if you found a hiding place by marking the item with a black box. "
-"You can use the right mouse button to flip the colors in the opposite order "
-"or the color chooser to directly pick a color. Press and hold a mouse button "
-"or on the touch screen to automatically choose the last color selected on a "
-"column. Double click or tap on a previously selected color in your guess "
-"history to mark it as 'correct'. Such marked colors are automatically "
-"selected in your current and future guesses until you un-mark them, again by "
-"double clicking or tapping."
+"In the levels 4 and 8 an item may be hidden several times.<br/>You can use "
+"the right mouse button to flip the items in the opposite order or the item "
+"chooser to directly pick an item. Press and hold a mouse button or on the "
+"touch screen to automatically choose the last item selected on a column. "
+"Double click or tap on a previously selected item in your guess history to "
+"mark it as 'correct'. Such marked items are automatically selected in your "
+"current and future guesses until you un-mark them, again by double clicking "
+"or tapping."
 msgstr ""
 
 #: activities/superbrain/Superbrain.qml:145
