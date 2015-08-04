@@ -6956,6 +6956,24 @@ msgctxt "Superbrain|"
 msgid "This item is misplaced"
 msgstr ""
 
+#: activities/superbrain/Superbrain.qml:631
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Colors"
+msgctxt "Superbrain|"
+msgid "Colors"
+msgstr "Dathan"
+
+#: activities/superbrain/Superbrain.qml:632
+msgctxt "Superbrain|"
+msgid "Shapes"
+msgstr ""
+
+#: activities/superbrain/Superbrain.qml:643
+msgctxt "Superbrain|"
+msgid "Select your mode"
+msgstr ""
+
 #: activities/target/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Practice addition with a target game"
