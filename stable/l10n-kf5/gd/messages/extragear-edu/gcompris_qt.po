@@ -1851,7 +1851,7 @@ msgctxt "colors|"
 msgid "Find the green duck"
 msgstr "Lorg an tunnag uaine"
 
-#: activities/colors/colors.js:39 activities/colors/colors.js:128
+#: activities/colors/colors.js:39
 msgctxt "colors|"
 msgid "Find the red duck"
 msgstr "Lorg an tunnag dhearg"
@@ -1885,6 +1885,14 @@ msgstr "Lorg an tunnag orains"
 msgctxt "colors|"
 msgid "Find the purple duck"
 msgstr "Lorg an tunnag phurpaidh"
+
+#: activities/colors/colors.js:128
+#, fuzzy
+#| msgctxt "colors|"
+#| msgid "Find the black duck"
+msgctxt "colors|"
+msgid "Find the pink duck"
+msgstr "Lorg an tunnag dhubh"
 
 #: activities/details/ActivityInfo.qml:29
 #, fuzzy
@@ -6855,12 +6863,12 @@ msgid ""
 "column."
 msgstr ""
 
-#: activities/superbrain/Superbrain.qml:147
+#: activities/superbrain/Superbrain.qml:145
 msgctxt "Superbrain|"
 msgid "This item is well placed"
 msgstr ""
 
-#: activities/superbrain/Superbrain.qml:149
+#: activities/superbrain/Superbrain.qml:147
 msgctxt "Superbrain|"
 msgid "This item is misplaced"
 msgstr ""
@@ -6984,7 +6992,7 @@ msgstr ""
 "Feumaidh tu rum a chruthachadh ach an urrainn dhan chàr dhearg a ghluasad "
 "tron gheata taobh deas."
 
-#: activities/traffic/Traffic.qml:118
+#: activities/traffic/Traffic.qml:117
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Colors"
@@ -6992,12 +7000,12 @@ msgctxt "Traffic|"
 msgid "Colors"
 msgstr "Dathan"
 
-#: activities/traffic/Traffic.qml:119
+#: activities/traffic/Traffic.qml:118
 msgctxt "Traffic|"
 msgid "Images"
 msgstr ""
 
-#: activities/traffic/Traffic.qml:130
+#: activities/traffic/Traffic.qml:129
 msgctxt "Traffic|"
 msgid "Select your mode"
 msgstr ""
@@ -7047,24 +7055,24 @@ msgctxt "BuyMeOverlay|"
 msgid "Buy the full version"
 msgstr ""
 
-#: core/core.js:182
+#: core/core.js:189
 msgctxt "core|"
 msgid "Missing sound files!"
 msgstr ""
 
-#: core/core.js:183
+#: core/core.js:190
 msgctxt "core|"
 msgid ""
 "This activity uses language sound files, that are not yet installed on your "
 "system."
 msgstr ""
 
-#: core/core.js:185
+#: core/core.js:192
 msgctxt "core|"
 msgid "For downloading the needed sound files go to the preferences dialog."
 msgstr ""
 
-#: core/core.js:212
+#: core/core.js:219
 #, fuzzy
 #| msgctxt "instruments|"
 #| msgid "Find the triangle"
@@ -7072,27 +7080,27 @@ msgctxt "core|"
 msgid "Download in progress"
 msgstr "Lorg an triantan"
 
-#: core/core.js:214
+#: core/core.js:221
 msgctxt "core|"
 msgid "Download in progress.<br/>'Abort' it to quit immediately."
 msgstr ""
 
-#: core/core.js:224
+#: core/core.js:231
 msgctxt "core|"
 msgid "Quit?"
 msgstr ""
 
-#: core/core.js:226
+#: core/core.js:233
 msgctxt "core|"
 msgid "Do you really want to quit GCompris?"
 msgstr ""
 
-#: core/core.js:227
+#: core/core.js:234
 msgctxt "core|"
 msgid "Yes"
 msgstr ""
 
-#: core/core.js:228
+#: core/core.js:235
 msgctxt "core|"
 msgid "No"
 msgstr ""
@@ -7324,17 +7332,17 @@ msgctxt "QObject|"
 msgid "Enable the configuration button (default)."
 msgstr ""
 
-#: core/main.qml:119
+#: core/main.qml:120
 msgctxt "main|"
 msgid "Welcome to GCompris!"
 msgstr ""
 
-#: core/main.qml:120
+#: core/main.qml:121
 msgctxt "main|"
 msgid "You are running GCompris for the first time."
 msgstr ""
 
-#: core/main.qml:121
+#: core/main.qml:122
 msgctxt "main|"
 msgid ""
 "You should verify that your application settings especially your language is "
@@ -7342,28 +7350,28 @@ msgid ""
 "can do this in the Preferences Dialog."
 msgstr ""
 
-#: core/main.qml:123
+#: core/main.qml:124
 msgctxt "main|"
 msgid "Have Fun!"
 msgstr ""
 
-#: core/main.qml:125
+#: core/main.qml:126
 #, qt-format
 msgctxt "main|"
 msgid "Your current language is %1 (%2)."
 msgstr ""
 
-#: core/main.qml:129
+#: core/main.qml:130
 msgctxt "main|"
 msgid "Do you want to download the corresponding sound files now?"
 msgstr ""
 
-#: core/main.qml:130
+#: core/main.qml:131
 msgctxt "main|"
 msgid "Yes"
 msgstr ""
 
-#: core/main.qml:136
+#: core/main.qml:137
 msgctxt "main|"
 msgid "No"
 msgstr ""
