@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-10 08:57+0000\n"
+"POT-Creation-Date: 2015-09-09 08:45+0000\n"
 "PO-Revision-Date: 2014-11-24 20:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -25,16 +25,6 @@ msgstr "Glanadair tasgadain HTTP"
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr "Glanaidh seo seann innteartan air falbh on tasgadan HTTP"
-
-#: src/ioslaves/http/kcookiejar/kcookiejar.desktop:3
-msgctxt "Name"
-msgid "Cookie Jar"
-msgstr "Crogan bhriosgaidean"
-
-#: src/ioslaves/http/kcookiejar/kcookiejar.desktop:47
-msgctxt "Comment"
-msgid "Stores network cookies"
-msgstr "Glèidhidh seo briosgaidean lìonraidh"
 
 #: src/ioslaves/mailto/kmailservice5.desktop:11
 msgctxt "Name"
@@ -407,16 +397,6 @@ msgstr ""
 "Shortcuts;ath-ghoiridean lìn,Brabhsadh,Eadar-lìn,Criathragan-lìn,Criathragan "
 "eadar-lìn,Lìonra;Lorg;Inneal-luirg;innealan-luirg"
 
-#: src/kpac/proxyscout.desktop:3
-msgctxt "Name"
-msgid "Network Proxy Configuration"
-msgstr "Rèiteachadh progsaidh an lìonraidh"
-
-#: src/kpac/proxyscout.desktop:46
-msgctxt "Comment"
-msgid "Automatic proxy configuration"
-msgstr "Rèiteachadh fèin-obrachail a' phrogsaidh"
-
 #: src/kpac/proxyscout.notifyrc:3
 msgctxt "Comment"
 msgid "Network Proxy Configuration"
@@ -454,26 +434,6 @@ msgstr "Mearachd le measadh an sgriobt"
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "Thachair mearachd le gnìomhachadh sgriobt rèiteachadh a' phrogsaidh"
-
-#: src/kpasswdserver/kpasswdserver.desktop:3
-msgctxt "Name"
-msgid "Password Caching"
-msgstr "Tasgadan nam faclan-faire"
-
-#: src/kpasswdserver/kpasswdserver.desktop:69
-msgctxt "Comment"
-msgid "Temporary password caching"
-msgstr "Tasgadh sealach nam faclan-faire"
-
-#: src/kssld/kssld.desktop:6
-msgctxt "Name"
-msgid "SSL Certificate Policy"
-msgstr "Poileasaidh teisteanasan SSL"
-
-#: src/kssld/kssld.desktop:48
-msgctxt "Comment"
-msgid "Provides SSL certificate policy to applications"
-msgstr "Bheir seo poileasaidh airson teisteanasan SSL dha na h-aplacaidean"
 
 #: src/urifilters/fixhost/fixhosturifilter.desktop:3
 msgctxt "Name"
@@ -1908,3 +1868,35 @@ msgstr "Plugan airson còmhradh nan roghainnean"
 msgctxt "Name"
 msgid "Enhanced Browsing Plugin"
 msgstr "Plugan airson brabhsadh leasaichte"
+
+#~ msgctxt "Name"
+#~ msgid "Cookie Jar"
+#~ msgstr "Crogan bhriosgaidean"
+
+#~ msgctxt "Comment"
+#~ msgid "Stores network cookies"
+#~ msgstr "Glèidhidh seo briosgaidean lìonraidh"
+
+#~ msgctxt "Name"
+#~ msgid "Network Proxy Configuration"
+#~ msgstr "Rèiteachadh progsaidh an lìonraidh"
+
+#~ msgctxt "Comment"
+#~ msgid "Automatic proxy configuration"
+#~ msgstr "Rèiteachadh fèin-obrachail a' phrogsaidh"
+
+#~ msgctxt "Name"
+#~ msgid "Password Caching"
+#~ msgstr "Tasgadan nam faclan-faire"
+
+#~ msgctxt "Comment"
+#~ msgid "Temporary password caching"
+#~ msgstr "Tasgadh sealach nam faclan-faire"
+
+#~ msgctxt "Name"
+#~ msgid "SSL Certificate Policy"
+#~ msgstr "Poileasaidh teisteanasan SSL"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides SSL certificate policy to applications"
+#~ msgstr "Bheir seo poileasaidh airson teisteanasan SSL dha na h-aplacaidean"
