@@ -5357,6 +5357,36 @@ msgid ""
 "to turn and up to go forward."
 msgstr ""
 
+#: activities/melody/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "Melody"
+msgstr ""
+
+#: activities/melody/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid "Reproduce a sound sequence"
+msgstr ""
+
+#: activities/melody/ActivityInfo.qml:29
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Logic-training activity"
+msgctxt "ActivityInfo|"
+msgid "Ear-training activity"
+msgstr "Cleas trèanadh loidig"
+
+#: activities/melody/ActivityInfo.qml:30
+msgctxt "ActivityInfo|"
+msgid "Move and click the mouse"
+msgstr "Gluais is briog leis an luchag"
+
+#: activities/melody/ActivityInfo.qml:31
+msgctxt "ActivityInfo|"
+msgid ""
+"Listen to the sound sequence played, and repeat it by clicking on the "
+"xylophone's bars. You can listen again by clicking on the repeat button."
+msgstr ""
+
 #: activities/memory-enumerate/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Enumeration memory game"
@@ -8000,10 +8030,6 @@ msgstr "Tha mi deiseil"
 #~ msgctxt "ActivityInfo|"
 #~ msgid "Complete a list of symbols"
 #~ msgstr "Coilean liosta de shamhlaidhean"
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Move and click the mouse"
-#~ msgstr "Gluais is briog leis an luchag"
 
 #~ msgctxt "ActivityInfo|"
 #~ msgid "Find the next symbol in a list."
