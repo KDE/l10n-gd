@@ -4354,8 +4354,8 @@ msgid ""
 "puzzle. According to the legend, the world would end when the priests "
 "finished their work. The puzzle is therefore also known as the Tower of "
 "Brahma puzzle. It is not clear whether Lucas invented this legend or was "
-"inspired by it. (source Wikipedia <http://en.wikipedia.org/wiki/"
-"Tower_of_hanoi>)"
+"inspired by it. (source Wikipedia: http://en.wikipedia.org/wiki/"
+"Tower_of_hanoi)"
 msgstr ""
 
 #: activities/hanoi_real/HanoiReal.qml:83
@@ -4911,41 +4911,26 @@ msgstr ""
 #: activities/lang/ActivityInfo.qml:36
 msgctxt "ActivityInfo|"
 msgid ""
-"Review a set of words. Each word is shown with a voice a text and an image."
-msgstr ""
-
-#: activities/lang/ActivityInfo.qml:37
-msgctxt "ActivityInfo|"
-msgid "When done you are suggested an exercise in which, given the voice,"
-msgstr ""
-
-#: activities/lang/ActivityInfo.qml:38
-msgctxt "ActivityInfo|"
-msgid ""
-"you must find the right word. In the configuration you can select the "
-"language you want to learn."
+"Review a set of words. Each word is shown with a voice, a text and an image."
+"<br/>When done, you are suggested an exercise in which, given the voice, you "
+"must find the right word. In the configuration, you can select the language "
+"you want to learn."
 msgstr ""
 
 #: activities/lang/ActivityInfo.qml:39
 msgctxt "ActivityInfo|"
 msgid ""
 "The images and voices come from the Art4Apps project: http://www.art4apps."
-"org/."
+"org/.<br>You can also access this activity online on http://gcompris.net/"
+"activity/lang."
 msgstr ""
 
-#: activities/lang/ActivityInfo.qml:40
-msgctxt "ActivityInfo|"
-msgid ""
-" You can also access this activity online on http://gcompris.net/activity/"
-"lang."
-msgstr ""
-
-#: activities/lang/Lang.qml:168
+#: activities/lang/Lang.qml:169
 msgctxt "Lang|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 
-#: activities/lang/Lang.qml:169
+#: activities/lang/Lang.qml:170
 #, qt-format
 msgctxt "Lang|"
 msgid ""
@@ -4953,19 +4938,19 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 
-#: activities/lang/Lang.qml:171
+#: activities/lang/Lang.qml:172
 msgctxt "Lang|"
 msgid ""
 "We switched to English for this activity but you can select another language "
 "in the configuration dialog."
 msgstr ""
 
-#: activities/lang/Lang.qml:184
+#: activities/lang/Lang.qml:185
 msgctxt "Lang|"
 msgid "The images for this activity are not yet installed."
 msgstr ""
 
-#: activities/lang/Lang.qml:185
+#: activities/lang/Lang.qml:186
 #, fuzzy
 #| msgctxt "instruments|"
 #| msgid "Find the triangle"
@@ -4973,7 +4958,7 @@ msgctxt "Lang|"
 msgid "Download the images"
 msgstr "Lorg an triantan"
 
-#: activities/lang/Lang.qml:225
+#: activities/lang/Lang.qml:226
 msgctxt "Lang|"
 msgid "Select your locale"
 msgstr ""
