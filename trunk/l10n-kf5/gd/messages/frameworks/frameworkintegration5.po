@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: frameworkintegration5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-25 10:43+0000\n"
+"POT-Creation-Date: 2015-10-01 08:25+0000\n"
 "PO-Revision-Date: 2014-12-07 14:59+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -19,11 +19,11 @@ msgstr ""
 "X-Generator: Virtaal 0.7.1\n"
 "X-Project-Style: kde\n"
 
-#: platformtheme/kdeplatformfiledialoghelper.cpp:241
+#: platformtheme/kdeplatformfiledialoghelper.cpp:240
 msgid "Opening..."
 msgstr "'Ga fhosgladh..."
 
-#: platformtheme/kdeplatformfiledialoghelper.cpp:241
+#: platformtheme/kdeplatformfiledialoghelper.cpp:240
 msgid "Saving..."
 msgstr "'Ga shàbhaladh..."
 
