@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ktextwidgets5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-06-10 09:04+0000\n"
+"POT-Creation-Date: 2015-10-13 10:10+0000\n"
 "PO-Revision-Date: 2014-12-09 16:30+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -584,23 +584,27 @@ msgctxt "@action"
 msgid "Superscript"
 msgstr "Os-sgrìobhte"
 
-#: widgets/ktextedit.cpp:164
+#: widgets/ktextedit.cpp:166
 msgid "Nothing to spell check."
 msgstr "Chan eil dad ri dhearbhadh ann."
 
-#: widgets/ktextedit.cpp:559
+#: widgets/ktextedit.cpp:561
 msgid "Check Spelling..."
 msgstr "Dearbhaich an litreachadh..."
 
-#: widgets/ktextedit.cpp:563
+#: widgets/ktextedit.cpp:567
+msgid "Spell Checking Language"
+msgstr ""
+
+#: widgets/ktextedit.cpp:593
 msgid "Auto Spell Check"
 msgstr "Dearbhaich an litreachadh gu fèin-obrachail"
 
-#: widgets/ktextedit.cpp:568
+#: widgets/ktextedit.cpp:598
 msgid "Allow Tabulations"
 msgstr "Ceadaich cur an clàr"
 
-#: widgets/ktextedit.cpp:601
+#: widgets/ktextedit.cpp:631
 msgid "Speak Text"
 msgstr "Can teacsa"
 
