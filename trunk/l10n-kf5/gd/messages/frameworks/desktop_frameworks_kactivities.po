@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-26 09:24+0000\n"
+"POT-Creation-Date: 2015-10-14 08:21+0000\n"
 "PO-Revision-Date: 2014-11-24 12:34+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -110,8 +110,8 @@ msgstr "Gnìomhachdan"
 
 #: src/workspace/settings/kcm_activities.desktop:64
 msgctxt "Comment"
-msgid "Configure the activities system"
-msgstr "Rèitich siostam nan gnìomhachdan"
+msgid "Activities help you to focus on a specific task"
+msgstr ""
 
 #: tests/imports/org.kde.listactivitiestest/metadata.desktop:3
 msgctxt "Name"
@@ -127,3 +127,7 @@ msgstr "Seall deuchainn air na gnìomhachdan"
 msgctxt "Comment"
 msgid "Strange, but not a Clock"
 msgstr "Neònach ach chan e uaireadair a th' ann"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure the activities system"
+#~ msgstr "Rèitich siostam nan gnìomhachdan"
