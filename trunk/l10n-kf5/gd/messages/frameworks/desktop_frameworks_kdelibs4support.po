@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ICU\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-06-05 09:03+0000\n"
+"POT-Creation-Date: 2015-10-22 09:10+0000\n"
 "PO-Revision-Date: 2014-11-24 18:31+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -3315,7 +3315,7 @@ msgctxt "Name"
 msgid "Network Status"
 msgstr "Staid an lìonraidh"
 
-#: src/solid-networkstatus/kded/networkstatus.desktop:65
+#: src/solid-networkstatus/kded/networkstatus.desktop:66
 msgctxt "Comment"
 msgid ""
 "Tracks status of network interfaces and provides notification to "
