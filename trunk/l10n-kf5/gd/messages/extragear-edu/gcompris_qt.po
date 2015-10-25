@@ -4397,6 +4397,73 @@ msgctxt "guessnumber|"
 msgid "Number found!"
 msgstr "Àireamh"
 
+#: activities/hangman/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "The classic hangman game"
+msgstr ""
+
+#: activities/hangman/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid ""
+"Guess the letters of the given word. To help you, on every wrong try, a part "
+"of the image representing the word will be revealed."
+msgstr ""
+
+#: activities/hangman/ActivityInfo.qml:28
+msgctxt "ActivityInfo|"
+msgid "This is a good exercise to improve reading and spelling skills."
+msgstr ""
+
+#: activities/hangman/ActivityInfo.qml:30
+msgctxt "ActivityInfo|"
+msgid ""
+"You can enter the letters using the virtual keyboard on the screen or with "
+"the real keyboard."
+msgstr ""
+
+#: activities/hangman/Hangman.qml:257
+msgctxt "Hangman|"
+msgid "Select your locale"
+msgstr ""
+
+#: activities/hangman/Hangman.qml:388
+msgctxt "Hangman|"
+msgid "We are sorry, we don't have yet a translation for your language."
+msgstr ""
+
+#: activities/hangman/Hangman.qml:389
+#, qt-format
+msgctxt "Hangman|"
+msgid ""
+"GCompris is developed by the KDE community, you can translate GCompris by "
+"joining a translation team on <a href=\"%2\">%2</a>"
+msgstr ""
+
+#: activities/hangman/Hangman.qml:391
+msgctxt "Hangman|"
+msgid ""
+"We switched to English for this activity but you can select another language "
+"in the configuration dialog."
+msgstr ""
+
+#: activities/hangman/Hangman.qml:404
+msgctxt "Hangman|"
+msgid "The images for this activity are not yet installed."
+msgstr ""
+
+#: activities/hangman/Hangman.qml:405
+#, fuzzy
+#| msgctxt "instruments|"
+#| msgid "Find the triangle"
+msgctxt "Hangman|"
+msgid "Download the images"
+msgstr "Lorg an triantan"
+
+#: activities/hangman/Hangman.qml:405
+msgctxt "Hangman|"
+msgid "OK"
+msgstr ""
+
 #: activities/hanoi/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Simplified Tower of Hanoi"
