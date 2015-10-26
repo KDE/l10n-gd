@@ -1013,6 +1013,11 @@ msgctxt "Balancebox|"
 msgid "Select your level set"
 msgstr ""
 
+#: activities/balancebox/Balancebox.qml:518
+msgctxt "Balancebox|"
+msgid "Start Editor"
+msgstr ""
+
 #: activities/balancebox/Balancebox.qml:550
 msgctxt "Balancebox|"
 msgid ""
@@ -4421,17 +4426,17 @@ msgid ""
 "the real keyboard."
 msgstr ""
 
-#: activities/hangman/Hangman.qml:257
+#: activities/hangman/Hangman.qml:256
 msgctxt "Hangman|"
 msgid "Select your locale"
 msgstr ""
 
-#: activities/hangman/Hangman.qml:388
+#: activities/hangman/Hangman.qml:387
 msgctxt "Hangman|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 
-#: activities/hangman/Hangman.qml:389
+#: activities/hangman/Hangman.qml:388
 #, qt-format
 msgctxt "Hangman|"
 msgid ""
@@ -4439,19 +4444,19 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 
-#: activities/hangman/Hangman.qml:391
+#: activities/hangman/Hangman.qml:390
 msgctxt "Hangman|"
 msgid ""
 "We switched to English for this activity but you can select another language "
 "in the configuration dialog."
 msgstr ""
 
-#: activities/hangman/Hangman.qml:404
+#: activities/hangman/Hangman.qml:403
 msgctxt "Hangman|"
 msgid "The images for this activity are not yet installed."
 msgstr ""
 
-#: activities/hangman/Hangman.qml:405
+#: activities/hangman/Hangman.qml:404
 #, fuzzy
 #| msgctxt "instruments|"
 #| msgid "Find the triangle"
@@ -4459,7 +4464,7 @@ msgctxt "Hangman|"
 msgid "Download the images"
 msgstr "Lorg an triantan"
 
-#: activities/hangman/Hangman.qml:405
+#: activities/hangman/Hangman.qml:404
 msgctxt "Hangman|"
 msgid "OK"
 msgstr ""
@@ -6825,6 +6830,19 @@ msgctxt "ActivityInfo|"
 msgid "Drag and Drop the items to rebuild the original paintings"
 msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
 
+#: activities/paintings/ActivityInfo.qml:33
+msgctxt "ActivityInfo|"
+msgid "Spatial representation"
+msgstr ""
+
+#: activities/paintings/ActivityInfo.qml:34
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Mouse manipulation, Brain."
+msgctxt "ActivityInfo|"
+msgid "Mouse-manipulation: movement, drag and drop"
+msgstr "Cleachdadh na luchaige, eanchainn."
+
 #: activities/paintings/ActivityInfo.qml:35
 msgctxt "ActivityInfo|"
 msgid ""
@@ -8517,10 +8535,6 @@ msgstr "Tha mi deiseil"
 #~ msgctxt "ActivityInfo|"
 #~ msgid "Can use the keyboard arrow to move an object."
 #~ msgstr "Tha cleachdadh na h-iuchrach saighde agad gus nì a ghluasad."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Mouse manipulation, Brain."
-#~ msgstr "Cleachdadh na luchaige, eanchainn."
 
 #~ msgctxt "ActivityInfo|"
 #~ msgid ""
