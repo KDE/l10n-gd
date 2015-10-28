@@ -4431,12 +4431,12 @@ msgctxt "Hangman|"
 msgid "Select your locale"
 msgstr ""
 
-#: activities/hangman/Hangman.qml:387
+#: activities/hangman/Hangman.qml:417
 msgctxt "Hangman|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 
-#: activities/hangman/Hangman.qml:388
+#: activities/hangman/Hangman.qml:418
 #, qt-format
 msgctxt "Hangman|"
 msgid ""
@@ -4444,19 +4444,19 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 
-#: activities/hangman/Hangman.qml:390
+#: activities/hangman/Hangman.qml:420
 msgctxt "Hangman|"
 msgid ""
 "We switched to English for this activity but you can select another language "
 "in the configuration dialog."
 msgstr ""
 
-#: activities/hangman/Hangman.qml:403
+#: activities/hangman/Hangman.qml:433
 msgctxt "Hangman|"
 msgid "The images for this activity are not yet installed."
 msgstr ""
 
-#: activities/hangman/Hangman.qml:404
+#: activities/hangman/Hangman.qml:434
 #, fuzzy
 #| msgctxt "instruments|"
 #| msgid "Find the triangle"
@@ -4464,7 +4464,7 @@ msgctxt "Hangman|"
 msgid "Download the images"
 msgstr "Lorg an triantan"
 
-#: activities/hangman/Hangman.qml:404
+#: activities/hangman/Hangman.qml:434
 msgctxt "Hangman|"
 msgid "OK"
 msgstr ""
