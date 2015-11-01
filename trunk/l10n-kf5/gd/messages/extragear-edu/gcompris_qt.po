@@ -1059,6 +1059,16 @@ msgctxt "balanceboxeditor|"
 msgid "No"
 msgstr ""
 
+#: activities/balancebox/editor/BalanceboxEditor.qml:151
+msgctxt "BalanceboxEditor|"
+msgid "Save"
+msgstr ""
+
+#: activities/balancebox/editor/BalanceboxEditor.qml:159
+msgctxt "BalanceboxEditor|"
+msgid "Test"
+msgstr ""
+
 #: activities/ballcatch/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Make the ball go to Tux"
@@ -4078,7 +4088,7 @@ msgctxt "ActivityInfo|"
 msgid "Letter association between the screen and the keyboard"
 msgstr "Co-cheangladh nan litrichean eadar an sgrìn is am meur-chlàr"
 
-#: activities/gletters/Gletters.qml:145
+#: activities/gletters/Gletters.qml:147
 msgctxt "Gletters|"
 msgid "Select your locale"
 msgstr ""
@@ -6629,12 +6639,12 @@ msgstr ""
 "Chì thu nì air a’ phrìomh raon is facal neo-choileanta fon dealbh. Tagh an "
 "litir a tha a dhìth gus am facal a dhèanamh coileanta."
 
-#: activities/missing-letter/MissingLetter.qml:303
+#: activities/missing-letter/MissingLetter.qml:290
 msgctxt "MissingLetter|"
 msgid "The images for this activity are not yet installed."
 msgstr ""
 
-#: activities/missing-letter/MissingLetter.qml:304
+#: activities/missing-letter/MissingLetter.qml:291
 #, fuzzy
 #| msgctxt "instruments|"
 #| msgid "Find the triangle"
@@ -6642,12 +6652,12 @@ msgctxt "MissingLetter|"
 msgid "Download the images"
 msgstr "Lorg an triantan"
 
-#: activities/missing-letter/MissingLetter.qml:322
+#: activities/missing-letter/MissingLetter.qml:309
 msgctxt "MissingLetter|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 
-#: activities/missing-letter/MissingLetter.qml:323
+#: activities/missing-letter/MissingLetter.qml:310
 #, qt-format
 msgctxt "MissingLetter|"
 msgid ""
@@ -6655,7 +6665,7 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 
-#: activities/missing-letter/MissingLetter.qml:325
+#: activities/missing-letter/MissingLetter.qml:312
 msgctxt "MissingLetter|"
 msgid ""
 "We switched to English for this activity but you can select another language "
