@@ -1,10 +1,10 @@
-# GunChleoc <fios@foramnagaidhlig.net>, 2014.
+# GunChleoc <fios@foramnagaidhlig.net>, 2014, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-10-28 08:33+0000\n"
-"PO-Revision-Date: 2014-11-24 18:08+0100\n"
+"POT-Creation-Date: 2015-09-20 09:13+0000\n"
+"PO-Revision-Date: 2015-10-06 11:14+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
 "Language: gd\n"
@@ -26,27 +26,27 @@ msgctxt "Name"
 msgid "NSA Plugin"
 msgstr "Plugan NSA"
 
-#: autotests/fakeplugin.desktop:47
+#: autotests/fakeplugin.desktop:46
 msgctxt "Comment"
 msgid "Test Plugin Spy"
 msgstr "Plugan deuchainneach brathadair"
 
-#: autotests/fakeplugin.desktop:109
+#: autotests/fakeplugin.desktop:107
 msgctxt "Keywords"
 msgid "word1;word2"
-msgstr ""
+msgstr "facal1;facal2"
 
-#: autotests/fakeplugin.desktop:142
+#: autotests/fakeplugin.desktop:138
 msgctxt "X-KDE-Keywords"
 msgid "word3,word4"
-msgstr ""
+msgstr "facal3,facal4"
 
 #: autotests/noplugin.desktop:2
 msgctxt "Name"
 msgid "No Plugin"
 msgstr "Gun phlugan"
 
-#: autotests/noplugin.desktop:46
+#: autotests/noplugin.desktop:44
 msgctxt "Comment"
 msgid "This does not have a library"
 msgstr "Chan eil leabharlann aige"

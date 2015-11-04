@@ -1,13 +1,13 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR This_file_is_part_of_KDE
 # This file is distributed under the same license as the PACKAGE package.
-# GunChleoc <fios@foramnagaidhlig.net>, 2014.
+# GunChleoc <fios@foramnagaidhlig.net>, 2014, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: kross5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2014-05-14 08:06+0000\n"
-"PO-Revision-Date: 2014-12-09 13:00+0100\n"
+"PO-Revision-Date: 2015-10-06 11:42+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
 "Language: gd\n"
@@ -58,9 +58,9 @@ msgid "The script to run."
 msgstr "An sgriobt ri ruith."
 
 #: core/action.cpp:474
-#, fuzzy, kde-format
+#, kde-format
 msgid "Scriptfile \"%1\" does not exist."
-msgstr "Chan eil am faidhle sgriobt \"$1\" ann."
+msgstr "Chan eil am faidhle sgriobt \"%1\" ann."
 
 #: core/action.cpp:478
 #, kde-format

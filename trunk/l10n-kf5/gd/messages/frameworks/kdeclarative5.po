@@ -1,13 +1,13 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR This_file_is_part_of_KDE
 # This file is distributed under the same license as the PACKAGE package.
-# GunChleoc <fios@foramnagaidhlig.net>, 2014.
+# GunChleoc <fios@foramnagaidhlig.net>, 2014, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: kdeclarative5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2015-07-22 08:34+0000\n"
-"PO-Revision-Date: 2014-11-26 09:29+0100\n"
+"PO-Revision-Date: 2015-10-06 11:37+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
 "Language: gd\n"
@@ -21,19 +21,19 @@ msgstr ""
 
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "GunChleoc"
 
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "fios@foramnagaidhlig.net"
 
 #: kpackagelauncherqml/main.cpp:43
 msgid "KPackage QML application shell"
-msgstr ""
+msgstr "Shell aplacaid KPackage QML"
 
 #: kpackagelauncherqml/main.cpp:51
 msgid "The unique name of the application (mandatory)"
-msgstr ""
+msgstr "Ainm sònraichte na h-aplacaid (riatanach)"
 
 #: qmlcontrols/kquickcontrols/KeySequenceItem.qml:38
 msgid ""
@@ -42,8 +42,8 @@ msgid ""
 msgstr ""
 "Briog air a' phutan agus cuir a-steach an ath-ghoirid an uairsin mar a "
 "dhèanadh tu sa phrògram.\n"
-"Ball-eisimpleir airson \"Ctrl+A\": cum an iuchair \"Ctrl\" sìos agus brùth "
-"air \"A\"."
+"Ball-eisimpleir airson \"Ctrl+A\": cum an iuchair \"Ctrl\" sìos agus brùth air "
+"\"A\"."
 
 #: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:275
 msgid "Reserved Shortcut"

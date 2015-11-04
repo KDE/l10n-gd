@@ -1,7 +1,7 @@
-# GunChleoc <fios@foramnagaidhlig.net>, 2014.
+# GunChleoc <fios@foramnagaidhlig.net>, 2014, 2015.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2014-12-09 10:35+0100\n"
+"PO-Revision-Date: 2015-10-06 11:36+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
 "Language: gd\n"
@@ -110,7 +110,7 @@ msgctxt "KAboutLicense|@item license"
 msgid "Not specified"
 msgstr "Gun sònrachadh"
 
-#: lib/kaboutdata.cpp:788
+#: lib/kaboutdata.cpp:809
 msgctxt "KAboutData|replace this with information about your translation team"
 msgid ""
 "<p>KDE is translated into many languages thanks to the work of the "
@@ -123,47 +123,37 @@ msgstr ""
 "barrachd fiosrachaidh mu eadar-theangachadh aig KDE, tadhail air <a href="
 "\"http://l10n.kde.org\">http://l10n.kde.org</a></p>"
 
-#: lib/kaboutdata.cpp:941
+#: lib/kaboutdata.cpp:949
 msgctxt "KAboutData CLI|"
 msgid "Show author information."
 msgstr "Seall fiosrachadh ùghdair."
 
-#: lib/kaboutdata.cpp:942
+#: lib/kaboutdata.cpp:950
 msgctxt "KAboutData CLI|"
 msgid "Show license information."
 msgstr "Seall fiosrachadh a' cheadachais."
 
-#: lib/kaboutdata.cpp:944
-msgctxt "KAboutData CLI|"
-msgid "The base file name of the desktop entry for this application."
-msgstr ""
-
-#: lib/kaboutdata.cpp:945
-msgctxt "KAboutData CLI|"
-msgid "file name"
-msgstr ""
-
-#: lib/kaboutdata.cpp:954
+#: lib/kaboutdata.cpp:959
 msgctxt "KAboutData CLI|"
 msgid "This application was written by somebody who wants to remain anonymous."
 msgstr ""
 "Chaidh an aplacaid seo a sgrìobhadh le cuideigin nach eil airson ainm "
 "foillseachadh."
 
-#: lib/kaboutdata.cpp:956
+#: lib/kaboutdata.cpp:961
 msgctxt "KAboutData CLI|"
 msgid "%s was written by:\n"
 msgstr "Chaidh %s a sgrìobhadh le:\n"
 
-#: lib/kaboutdata.cpp:967
+#: lib/kaboutdata.cpp:972
 msgctxt "KAboutData CLI|"
 msgid "Please use http://bugs.kde.org to report bugs."
-msgstr ""
+msgstr "Cleachd http://bugs.kde.org gus aithris a dhèanamh air bugaichean."
 
-#: lib/kaboutdata.cpp:969
+#: lib/kaboutdata.cpp:974
 msgctxt "KAboutData CLI|"
 msgid "Please report bugs to %s.\n"
-msgstr ""
+msgstr "Cuir aithrisean air bugaichean gu %s.\n"
 
 #: lib/plugin/kpluginloader.cpp:122
 #, qt-format

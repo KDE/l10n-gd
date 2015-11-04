@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-06-26 09:10+0000\n"
+"POT-Creation-Date: 2014-09-29 07:55+0000\n"
 "PO-Revision-Date: 2014-11-24 18:05+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,32 +21,32 @@ msgctxt "Comment"
 msgid "Test for Knotify"
 msgstr "Deuchainn airson Knotify"
 
-#: tests/knotifytest.notifyrc:92
+#: tests/knotifytest.notifyrc:91
 msgctxt "Name"
 msgid "Group"
 msgstr "Buidheann"
 
-#: tests/knotifytest.notifyrc:183
+#: tests/knotifytest.notifyrc:181
 msgctxt "Comment"
 msgid "The group"
 msgstr "Am buidheann"
 
-#: tests/knotifytest.notifyrc:273
+#: tests/knotifytest.notifyrc:270
 msgctxt "Name"
 msgid "Online"
 msgstr "Air loidhne"
 
-#: tests/knotifytest.notifyrc:363
+#: tests/knotifytest.notifyrc:359
 msgctxt "Comment"
 msgid "The contact is now connected"
 msgstr "Tha an neach-aithne ceangailte a-nis"
 
-#: tests/knotifytest.notifyrc:455
+#: tests/knotifytest.notifyrc:450
 msgctxt "Name"
 msgid "Message Received"
 msgstr "Teachdaireachd air fhaighinn"
 
-#: tests/knotifytest.notifyrc:543
+#: tests/knotifytest.notifyrc:537
 msgctxt "Comment"
 msgid "A Message has been received"
 msgstr "Fhuaradh teachdaireachd"

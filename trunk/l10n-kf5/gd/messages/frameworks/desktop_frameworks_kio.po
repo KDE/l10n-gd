@@ -1,10 +1,10 @@
-# GunChleoc <fios@foramnagaidhlig.net>, 2014.
+# GunChleoc <fios@foramnagaidhlig.net>, 2014, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-10-27 10:31+0000\n"
-"PO-Revision-Date: 2014-11-24 20:17+0100\n"
+"POT-Creation-Date: 2015-09-26 09:24+0000\n"
+"PO-Revision-Date: 2015-10-06 11:00+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
 "Language: gd\n"
@@ -77,78 +77,88 @@ msgstr ""
 #: src/kcms/kio/cache.desktop:15
 msgctxt "Name"
 msgid "Cache"
-msgstr ""
+msgstr "Tasgadan"
 
 #: src/kcms/kio/cache.desktop:99
-#, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure trash settings"
 msgctxt "Comment"
 msgid "Configure web cache settings"
-msgstr "Rèitich roghainnean an sgudail"
+msgstr "Rèitich roghainnean an tasgadain-lìn"
 
 #: src/kcms/kio/cache.desktop:134
 msgctxt "X-KDE-Keywords"
 msgid "Cache,History,Browsing History,Ports,Size"
 msgstr ""
+"Cache,History,Browsing History,Ports,Size,tasgadan,eachdraidh,eachdraidh "
+"brabhsaidh,port,puirt,meud"
 
 #: src/kcms/kio/cookies.desktop:15
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Cookie Jar"
 msgctxt "Name"
 msgid "Cookies"
-msgstr "Crogan bhriosgaidean"
+msgstr "Briosgaidean"
 
 #: src/kcms/kio/cookies.desktop:51
 msgctxt "Comment"
 msgid "Configure the way cookies work"
-msgstr ""
+msgstr "Rèitich an dòigh a dh'obraicheas briosgaidean"
 
 #: src/kcms/kio/cookies.desktop:133
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr ""
+"Cookies,Browsing,Internet,WWW,Network,Policy,Domains,briosgaidean,criomagan,"
+"brabhsadh,eadar-lìon,lìonra,poileasaidh,àrainnean"
 
 #: src/kcms/kio/netpref.desktop:15
 msgctxt "Name"
 msgid "Connection Preferences"
-msgstr ""
+msgstr "Roghainnean ceangail"
 
 #: src/kcms/kio/netpref.desktop:95
 msgctxt "Comment"
 msgid "Configure generic network preferences, like timeout values"
 msgstr ""
+"Rèitich roghainnean coitcheann an lìonraidh, can cuin a dh'fhalbhas an ùine "
+"air nithean"
 
 #: src/kcms/kio/netpref.desktop:176
 msgctxt "X-KDE-Keywords"
 msgid "timeout,iopref,netpref,network preferences,ftp"
 msgstr ""
+"timeout,iopref,netpref,network preferences,ftp,ùine,falbh,falbhaidh an "
+"ùine,roghainnean an lìonraidh,lìonra"
 
 #: src/kcms/kio/proxy.desktop:15
 msgctxt "Name"
 msgid "Proxy"
-msgstr ""
+msgstr "Progsaidh"
 
 #: src/kcms/kio/proxy.desktop:98
 msgctxt "Comment"
 msgid "Configure the proxy servers used"
-msgstr ""
+msgstr "Rèitich na frithealaichean progsaidh a thèid a chleachdadh"
 
 #: src/kcms/kio/proxy.desktop:181
 msgctxt "X-KDE-Keywords"
 msgid "Proxy,Proxy server,Firewall,Squid"
 msgstr ""
+"Proxy,Proxy server,Firewall,Squid,progsaidh,frithealaiche progsaidh"
+",cachaileith-theine"
 
 #: src/kcms/kio/smb.desktop:13
 msgctxt "Name"
 msgid "Windows Shares"
-msgstr ""
+msgstr "Co-roinneadh Windows"
 
 #: src/kcms/kio/smb.desktop:94
 msgctxt "Comment"
 msgid "Use to configure which windows (SMB) filesystems you can browse"
 msgstr ""
+"Cleachd e gus rèiteachadh dè na siostaman fhaidhlichean Windows (SMB) as "
+"urrainn dhut brabhsadh"
 
 #: src/kcms/kio/smb.desktop:174
 msgctxt "X-KDE-Keywords"
@@ -156,226 +166,233 @@ msgid ""
 "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
 "Broadcast,WINS,Share,Login,Passwords"
 msgstr ""
+"SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,Broadca"
+"st,WINS,Share,Login,Passwords,cliant SMB,lìonra "
+"Windows,lìonra,nàbaidheachd,nàbaidhean,frithealaiche,craoladh,co-"
+"roinneadh,clàradh a-steach,clàraich a-steach,facal-faire,faclan-faire"
 
 #: src/kcms/kio/uasprovider.desktop:4
 msgctxt "Comment"
 msgid "UserAgent Strings"
-msgstr ""
+msgstr "Sreangan UserAgent"
 
 #: src/kcms/kio/uasproviders/android10.desktop:2
 msgctxt "Name"
 msgid "UADescription (Android Phone 1.0)"
-msgstr ""
+msgstr "UADescription (Fòn Android 1.0)"
 
 #: src/kcms/kio/uasproviders/chrome10onwinnt51.desktop:2
 msgctxt "Name"
 msgid "UADescription (Google Chrome 1.0 on Windows XP)"
-msgstr ""
+msgstr "UADescription (Google Chrome 1.0 air Windows XP)"
 
 #: src/kcms/kio/uasproviders/chrome22oncurrent.desktop:2
 msgctxt "Name"
 msgid "UADescription (Google Chrome 22.0)"
-msgstr ""
+msgstr "UADescription (Google Chrome 22.0)"
 
 #: src/kcms/kio/uasproviders/chrome23oncurrent.desktop:2
 msgctxt "Name"
 msgid "UADescription (Google Chrome 23.0)"
-msgstr ""
+msgstr "UADescription (Google Chrome 23.0)"
 
 #: src/kcms/kio/uasproviders/chrome24oncurrent.desktop:2
 msgctxt "Name"
 msgid "UADescription (Google Chrome 24.0)"
-msgstr ""
+msgstr "UADescription (Google Chrome 24.0)"
 
 #: src/kcms/kio/uasproviders/chrome50oncurrent.desktop:2
 msgctxt "Name"
 msgid "UADescription (Google Chrome 5.0)"
-msgstr ""
+msgstr "UADescription (Google Chrome 5.0)"
 
 #: src/kcms/kio/uasproviders/firefox15oncurrent.desktop:2
 msgctxt "Name"
 msgid "UADescription (Firefox 15 on current)"
-msgstr ""
+msgstr "UADescription (Firefox 15 air an fhear làithreach)"
 
 #: src/kcms/kio/uasproviders/firefox16oncurrent.desktop:2
 msgctxt "Name"
 msgid "UADescription (Firefox 16 on current)"
-msgstr ""
+msgstr "UADescription (Firefox 16 air an fhear làithreach)"
 
 #: src/kcms/kio/uasproviders/firefox20oncurrent.desktop:2
 msgctxt "Name"
 msgid "UADescription (Firefox 2.0 on current)"
-msgstr ""
+msgstr "UADescription (Firefox 2.0 air an fhear làithreach)"
 
 #: src/kcms/kio/uasproviders/firefox30oncurrent.desktop:2
 msgctxt "Name"
 msgid "UADescription (Firefox 3.0 on current)"
-msgstr ""
+msgstr "UADescription (Firefox 3.0 air an fhear làithreach)"
 
 #: src/kcms/kio/uasproviders/firefox36oncurrent.desktop:2
 msgctxt "Name"
 msgid "UADescription (Firefox 3.6 on current)"
-msgstr ""
+msgstr "UADescription (Firefox 3.6 air an fhear làithreach)"
 
 #: src/kcms/kio/uasproviders/googlebot.desktop:2
 msgctxt "Name"
 msgid "UADescription (Googlebot/2.1)"
-msgstr ""
+msgstr "UADescription (Googlebot/2.1)"
 
 #: src/kcms/kio/uasproviders/ie401onwinnt4.desktop:2
 msgctxt "Name"
 msgid "UADescription (IE 4.01 on Win 2000)"
-msgstr ""
+msgstr "UADescription (IE 4.01 air Win 2000)"
 
 #: src/kcms/kio/uasproviders/ie50onppc.desktop:2
 msgctxt "Name"
 msgid "UADescription (IE 5.0 on Mac PPC)"
-msgstr ""
+msgstr "UADescription (IE 5.0 air Mac PPC)"
 
 #: src/kcms/kio/uasproviders/ie55onwinnt5.desktop:2
 msgctxt "Name"
 msgid "UADescription (IE 5.5 on Win 2000)"
-msgstr ""
+msgstr "UADescription (IE 5.5 air Win 2000)"
 
 #: src/kcms/kio/uasproviders/ie60oncurrent.desktop:2
 msgctxt "Name"
 msgid "UADescription (IE 6.0 on current)"
-msgstr ""
+msgstr "UADescription (IE 6.0 air an fhear làithreach)"
 
 #: src/kcms/kio/uasproviders/ie60onwinnt51.desktop:2
 msgctxt "Name"
 msgid "UADescription (IE 6.0 on Win XP)"
-msgstr ""
+msgstr "UADescription (IE 6.0 air Win XP)"
 
 #: src/kcms/kio/uasproviders/ie70onwinnt51.desktop:2
 msgctxt "Name"
 msgid "UADescription (IE 7.0 on Win XP)"
-msgstr ""
+msgstr "UADescription (IE 7.0 air Win XP)"
 
 #: src/kcms/kio/uasproviders/ie80onwinnt60.desktop:2
 msgctxt "Name"
 msgid "UADescription (IE 8.0 on Windows Vista)"
-msgstr ""
+msgstr "UADescription (IE 8.0 air Windows Vista)"
 
 #: src/kcms/kio/uasproviders/ie90onwinnt71.desktop:2
 msgctxt "Name"
 msgid "UADescription (IE 9.0 on Windows Seven)"
-msgstr ""
+msgstr "UADescription (IE 9.0 air Windows 7)"
 
 #: src/kcms/kio/uasproviders/lynxoncurrent.desktop:2
 msgctxt "Name"
 msgid "UADescription (Lynx 2.8.3)"
-msgstr ""
+msgstr "UADescription (Lynx 2.8.3)"
 
 #: src/kcms/kio/uasproviders/nn301oncurrent.desktop:2
 msgctxt "Name"
 msgid "UADescription (NN 3.01 on current)"
-msgstr ""
+msgstr "UADescription (NN 3.01 air an fhear làithreach)"
 
 #: src/kcms/kio/uasproviders/nn475oncurrent.desktop:2
 msgctxt "Name"
 msgid "UADescription (NN 4.76 on current)"
-msgstr ""
+msgstr "UADescription (NN 4.76 air an fhear làithreach)"
 
 #: src/kcms/kio/uasproviders/nn475onwin95.desktop:2
 msgctxt "Name"
 msgid "UADescription (NN 4.7 on Windows 95)"
-msgstr ""
+msgstr "UADescription (NN 4.7 air Windows 95)"
 
 #: src/kcms/kio/uasproviders/ns71oncurrent.desktop:2
 msgctxt "Name"
 msgid "UADescription (Netscape 7.1 on current)"
-msgstr ""
+msgstr "UADescription (Netscape 7.1 air an fhear làithreach)"
 
 #: src/kcms/kio/uasproviders/ns71onwinnt51.desktop:2
 msgctxt "Name"
 msgid "UADescription (Netscape 7.1 on XP)"
-msgstr ""
+msgstr "UADescription (Netscape 7.1 air XP)"
 
 #: src/kcms/kio/uasproviders/op1162oncurrent.desktop:2
 msgctxt "Name"
 msgid "UADescription (Opera 11.62 on current)"
-msgstr ""
+msgstr "UADescription (Opera 11.62 air an fhear làithreach)"
 
 #: src/kcms/kio/uasproviders/op1202oncurrent.desktop:2
 msgctxt "Name"
 msgid "UADescription (Opera 12.02 on current)"
-msgstr ""
+msgstr "UADescription (Opera 12.02 air an fhear làithreach)"
 
 #: src/kcms/kio/uasproviders/op403onwinnt4.desktop:2
 msgctxt "Name"
 msgid "UADescription (Opera 4.03 on NT)"
-msgstr ""
+msgstr "UADescription (Opera 4.03 air NT)"
 
 #: src/kcms/kio/uasproviders/op85oncurrent.desktop:2
 msgctxt "Name"
 msgid "UADescription (Opera 8.5 on current)"
-msgstr ""
+msgstr "UADescription (Opera 8.5 air an fhear làithreach)"
 
 #: src/kcms/kio/uasproviders/op90oncurrent.desktop:2
 msgctxt "Name"
 msgid "UADescription (Opera 9.00 on current)"
-msgstr ""
+msgstr "UADescription (Opera 9.00 air an fhear làithreach)"
 
 #: src/kcms/kio/uasproviders/op962oncurrent.desktop:2
 msgctxt "Name"
 msgid "UADescription (Opera 9.62 on current)"
-msgstr ""
+msgstr "UADescription (Opera 9.62 air an fhear làithreach)"
 
 #: src/kcms/kio/uasproviders/safari20.desktop:2
 msgctxt "Name"
 msgid "UADescription (Safari 2.0 on MacOS X)"
-msgstr ""
+msgstr "UADescription (Safari 2.0 air MacOS X)"
 
 #: src/kcms/kio/uasproviders/safari30oniphone.desktop:2
 msgctxt "Name"
 msgid "UADescription (Safari 3.0 on iPhone)"
-msgstr ""
+msgstr "UADescription (Safari 3.0 air iPhone)"
 
 #: src/kcms/kio/uasproviders/safari32.desktop:2
 msgctxt "Name"
 msgid "UADescription (Safari 3.2 on MacOS X)"
-msgstr ""
+msgstr "UADescription (Safari 3.2 air MacOS X)"
 
 #: src/kcms/kio/uasproviders/safari40.desktop:2
 msgctxt "Name"
 msgid "UADescription (Safari 4.0 on MacOS X)"
-msgstr ""
+msgstr "UADescription (Safari 4.0 air MacOS X)"
 
 #: src/kcms/kio/uasproviders/safari517.desktop:2
 msgctxt "Name"
 msgid "UADescription (Safari 5.1.7 on MacOS X)"
-msgstr ""
+msgstr "UADescription (Safari 5.1.7 air MacOS X)"
 
 #: src/kcms/kio/uasproviders/safari60.desktop:2
 msgctxt "Name"
 msgid "UADescription (Safari 6.0 on MacOS X)"
-msgstr ""
+msgstr "UADescription (Safari 6.0 air MacOS X)"
 
 #: src/kcms/kio/uasproviders/w3moncurrent.desktop:2
 msgctxt "Name"
 msgid "UADescription (w3m 0.1.9)"
-msgstr ""
+msgstr "UADescription (w3m 0.1.9)"
 
 #: src/kcms/kio/uasproviders/wgetoncurrent.desktop:2
 msgctxt "Name"
 msgid "UADescription (Wget 1.11.4)"
-msgstr ""
+msgstr "UADescription (Wget 1.11.4)"
 
 #: src/kcms/kio/useragent.desktop:14
 msgctxt "Name"
 msgid "Browser Identification"
-msgstr ""
+msgstr "Aithneachadh a' bhrabhsair"
 
 #: src/kcms/kio/useragent.desktop:95
 msgctxt "Comment"
 msgid "Configure the way Konqueror reports itself"
-msgstr ""
+msgstr "Rèitich an t-ainm a dh'aithriseas Konqueror air fhèin"
 
 #: src/kcms/kio/useragent.desktop:175
 msgctxt "X-KDE-Keywords"
 msgid "User Agent,Browser,Internet,WWW,Network,agent,bindings,server,login"
 msgstr ""
+"User Agent,Browser,Internet,WWW,Network,agent,bindings,server,login,àidseant "
+"cleachdaiche,brabhsair,eadar-lìon,lìonra,àidseant,nasgadh,frithealaiche,clà"
+"radh a-steach,clàraich a-steach"
 
 #: src/kcms/webshortcuts/webshortcuts.desktop:14
 msgctxt "Name"
@@ -434,66 +451,6 @@ msgstr "Mearachd le measadh an sgriobt"
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "Thachair mearachd le gnìomhachadh sgriobt rèiteachadh a' phrogsaidh"
-
-#: src/new_file_templates/Directory.desktop:2
-msgctxt "Name"
-msgid "Folder..."
-msgstr ""
-
-#: src/new_file_templates/Directory.desktop:75
-msgctxt "Comment"
-msgid "Enter folder name:"
-msgstr ""
-
-#: src/new_file_templates/HTMLFile.desktop:2
-msgctxt "Name"
-msgid "HTML File..."
-msgstr ""
-
-#: src/new_file_templates/HTMLFile.desktop:75
-msgctxt "Comment"
-msgid "Enter HTML filename:"
-msgstr ""
-
-#: src/new_file_templates/linkPath.desktop:2
-msgctxt "Name"
-msgid "Basic link to file or directory..."
-msgstr ""
-
-#: src/new_file_templates/linkPath.desktop:54
-msgctxt "Comment"
-msgid "Enter path of file or directory:"
-msgstr ""
-
-#: src/new_file_templates/linkProgram.desktop:2
-msgctxt "Name"
-msgid "Link to Application..."
-msgstr ""
-
-#: src/new_file_templates/linkProgram.desktop:71
-msgctxt "Comment"
-msgid "New Link to Application"
-msgstr ""
-
-#: src/new_file_templates/linkURL.desktop:2
-msgctxt "Name"
-msgid "Link to Location (URL)..."
-msgstr ""
-
-#: src/new_file_templates/linkURL.desktop:74
-msgctxt "Comment"
-msgid "Enter link to location (URL):"
-msgstr ""
-
-#: src/new_file_templates/TextFile.desktop:2
-msgctxt "Name"
-msgid "Text File..."
-msgstr ""
-
-#: src/new_file_templates/TextFile.desktop:75
-msgctxt "Comment"
-msgid "Enter text filename:"
-msgstr ""
 
 #: src/urifilters/fixhost/fixhosturifilter.desktop:3
 msgctxt "Name"
@@ -576,20 +533,18 @@ msgid "http://www.allmusic.com/search/all/\\\\{@}"
 msgstr "http://www.allmusic.com/search/all/\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/archpkg.desktop:3
-#, fuzzy
 #| msgctxt "Name"
 #| msgid "Debian Package Search"
 msgctxt "Name"
 msgid "Arch Linux Package Search"
-msgstr "Lorg pacaidean Debian"
+msgstr "Lorg pacaidean Arch Linux"
 
 #: src/urifilters/ikws/searchproviders/archpkg.desktop:34
-#, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.baidu.com/s?wd=\\\\{@}"
 msgctxt "Query"
 msgid "http://www.archlinux.org/packages/?q=\\\\{@}"
-msgstr "http://www.baidu.com/s?wd=\\\\{@}"
+msgstr "http://www.archlinux.org/packages/?q=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/backports.desktop:3
 msgctxt "Name"
@@ -1156,7 +1111,6 @@ msgid "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
 msgstr "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/grec.desktop:5
-#, fuzzy
 #| msgctxt "Name"
 #| msgid ""
 #| "Great Dictionary of the Catalan Language (GRan Enciclopèdia  Catalana)"
@@ -1917,15 +1871,7 @@ msgstr "Plugan airson a' chlàir-thaice co-theacsa aig an nì faidhle KIO"
 #: src/widgets/kiodndpopupmenuplugin.desktop:4
 msgctxt "Comment"
 msgid "Plugin for the KIO Drag-and-drop Popup Menu"
-msgstr ""
-
-#: src/widgets/konqpopupmenuplugin.desktop:4
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Plugin for the KIO file item context menu"
-msgctxt "Comment"
-msgid "Plugin for the Konqueror Popup Menu"
-msgstr "Plugan airson a' chlàir-thaice co-theacsa aig an nì faidhle KIO"
+msgstr "Plugan airson priob-chlàir-taice slaodaidh is leigeil às KIO"
 
 #: src/widgets/kpropertiesdialogplugin.desktop:4
 msgctxt "Comment"

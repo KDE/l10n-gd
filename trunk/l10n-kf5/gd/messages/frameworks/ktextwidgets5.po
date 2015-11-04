@@ -1,13 +1,13 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR This_file_is_part_of_KDE
 # This file is distributed under the same license as the PACKAGE package.
-# GunChleoc <fios@foramnagaidhlig.net>, 2014.
+# GunChleoc <fios@foramnagaidhlig.net>, 2014, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: ktextwidgets5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-10-13 10:10+0000\n"
-"PO-Revision-Date: 2014-12-09 16:30+0100\n"
+"POT-Creation-Date: 2015-06-10 09:04+0000\n"
+"PO-Revision-Date: 2015-10-06 11:42+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
 "Language: gd\n"
@@ -195,6 +195,7 @@ msgstr ""
 #: findreplace/kfinddialog.cpp:220
 msgid "Enter a replacement string, or select a previous one from the list."
 msgstr ""
+"Cuir a-steach sreang a thèid a chur 'na àite no tagh fear roimhe on liosta."
 
 #: findreplace/kfinddialog.cpp:222
 msgid ""
@@ -584,27 +585,23 @@ msgctxt "@action"
 msgid "Superscript"
 msgstr "Os-sgrìobhte"
 
-#: widgets/ktextedit.cpp:166
+#: widgets/ktextedit.cpp:164
 msgid "Nothing to spell check."
 msgstr "Chan eil dad ri dhearbhadh ann."
 
-#: widgets/ktextedit.cpp:561
+#: widgets/ktextedit.cpp:559
 msgid "Check Spelling..."
 msgstr "Dearbhaich an litreachadh..."
 
-#: widgets/ktextedit.cpp:567
-msgid "Spell Checking Language"
-msgstr ""
-
-#: widgets/ktextedit.cpp:593
+#: widgets/ktextedit.cpp:563
 msgid "Auto Spell Check"
 msgstr "Dearbhaich an litreachadh gu fèin-obrachail"
 
-#: widgets/ktextedit.cpp:598
+#: widgets/ktextedit.cpp:568
 msgid "Allow Tabulations"
 msgstr "Ceadaich cur an clàr"
 
-#: widgets/ktextedit.cpp:631
+#: widgets/ktextedit.cpp:601
 msgid "Speak Text"
 msgstr "Can teacsa"
 

@@ -4,9 +4,9 @@
 # GunChleoc <fios@foramnagaidhlig.net>, 2014.
 msgid ""
 msgstr ""
-"Project-Id-Version: kcmutils5\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-03-25 07:50+0000\n"
+"POT-Creation-Date: 2014-11-13 07:46+0000\n"
 "PO-Revision-Date: 2014-11-24 19:40+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -27,26 +27,26 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "fios@foramnagaidhlig.net"
 
-#: kcmoduleloader.cpp:79
+#: kcmoduleloader.cpp:76
 #, kde-format
 msgid "The module %1 could not be found."
 msgstr "Cha deach am mòideal %1 a lorg."
 
-#: kcmoduleloader.cpp:80
+#: kcmoduleloader.cpp:77
 #, kde-format
 msgid ""
 "<qt><p>The diagnosis is:<br />The desktop file %1 could not be found.</p></"
 "qt>"
 msgstr ""
-"<qt><p>Seo toradh an sgrùdaidh:<br />Cha deach am faidhle desktop %1 a lorg."
-"</p></qt>"
+"<qt><p>Seo toradh an sgrùdaidh:<br />Cha deach am faidhle desktop %1 a "
+"lorg.</p></qt>"
 
-#: kcmoduleloader.cpp:82
+#: kcmoduleloader.cpp:79
 #, kde-format
 msgid "The module %1 is disabled."
 msgstr "Tha am mòideal %1 à comas."
 
-#: kcmoduleloader.cpp:83
+#: kcmoduleloader.cpp:80
 msgid ""
 "<qt><p>Either the hardware/software the module configures is not available "
 "or the module has been disabled by the administrator.</p></qt>"
@@ -54,12 +54,12 @@ msgstr ""
 "<qt><p>Chan eil am bathar-cruaidh no -bog a nì am mòideal rèiteachadh air ri "
 "làimh no chaidh am mòideal a chur à comas leis an rianaire.</p></qt>"
 
-#: kcmoduleloader.cpp:140
+#: kcmoduleloader.cpp:124
 #, kde-format
 msgid "The module %1 is not a valid configuration module."
 msgstr "Chan eil am mòideal %1 'na mhòideal rèiteachaidh dligheach."
 
-#: kcmoduleloader.cpp:141
+#: kcmoduleloader.cpp:125
 #, kde-format
 msgid ""
 "<qt>The diagnosis is:<br />The desktop file %1 does not specify a library.</"
@@ -68,7 +68,7 @@ msgstr ""
 "<qt><p>Seo toradh an sgrùdaidh:<br />Cha shònraich am faidhle desktop %1 "
 "leabharlann.</p></qt>"
 
-#: kcmoduleloader.cpp:156
+#: kcmoduleloader.cpp:140
 msgid ""
 "<qt><p>Possible reasons:<ul><li>An error occurred during your last KDE "
 "upgrade leaving an orphaned control module</li><li>You have old third party "
@@ -77,13 +77,13 @@ msgid ""
 "contacting your distributor or packager.</p></qt>"
 msgstr ""
 "<qt><p>Adhbharan buailteach:<ul><li>Thachair mearachd rè an àrdachaidh KDE "
-"mu dheireadh agad agus dh'fhàg seo mòideal-smachd 'na dhìlleachdan ann</"
-"li><li>Tha seann mhòidealan treas pàrtaidh agad.</li></ul></p><p>Thoir sùil "
-"air na puingean seo gu cùramach agus feuch an toir thu air falbh am mòideal "
-"a chaidh iomradh ann an teachdaireachd na mearachd. Mura tèid leat, "
+"mu dheireadh agad agus dh'fhàg seo mòideal-smachd 'na dhìlleachdan "
+"ann</li><li>Tha seann mhòidealan treas pàrtaidh agad.</li></ul></p><p>Thoir "
+"sùil air na puingean seo gu cùramach agus feuch an toir thu air falbh am "
+"mòideal a chaidh iomradh ann an teachdaireachd na mearachd. Mura tèid leat, "
 "beachdaich air fios a chur gun sgaoileadair no pacaidiche agad.</p></qt>"
 
-#: kcmoduleproxy.cpp:165
+#: kcmoduleproxy.cpp:162
 #, kde-format
 msgctxt "Argument is application name"
 msgid "This configuration section is already opened in %1"
@@ -113,8 +113,7 @@ msgstr "An t-astar eadar ìomhaigheagan an deasg"
 #. i18n: ectx: whatsthis, entry, group (DesktopIcons)
 #: kdeglobals.kcfg:10
 msgid "The distance between icons specified in pixels."
-msgstr ""
-"An t-astar eadar na h-ìomhaigheagan 'ga shònrachadh ann am piogsailean."
+msgstr "An t-astar eadar na h-ìomhaigheagan 'ga shònrachadh ann am piogsailean."
 
 #. i18n: ectx: label, entry, group (General)
 #: kdeglobals.kcfg:23
@@ -127,8 +126,7 @@ msgid ""
 "The name of the widget style, for example \"keramik\" or \"plastik\". "
 "Without quotes."
 msgstr ""
-"Ainm stoidhle widget, \"keramik\" no \"plastik\" mar eisimpleir. Gun "
-"asgairean."
+"Ainm stoidhle widget, \"keramik\" no \"plastik\" mar eisimpleir. Gun asgairean."
 
 #. i18n: ectx: label, entry, group (General)
 #: kdeglobals.kcfg:30
@@ -154,8 +152,7 @@ msgstr "Aplacaid an tèirmineil ri cleachdadh"
 msgid ""
 "Whenever a terminal application is launched this terminal emulator program "
 "will be used.\n"
-msgstr ""
-"Seo am prògram aithrisiche tèirmineil a thèid a chleachdadh gach turas a "
+msgstr "Seo am prògram aithrisiche tèirmineil a thèid a chleachdadh gach turas a "
 "thòisichear aplacaid tèirmineil.\n"
 
 #. i18n: ectx: label, entry, group (General)
@@ -168,8 +165,7 @@ msgstr "Cruth-clò leud suidhichte"
 msgid ""
 "This font is used when a fixed font is needed. A fixed font has a constant "
 "width.\n"
-msgstr ""
-"Seo an cruth-clò a thèid a chleachdadh gach turas a bhios feum air cruth-clò "
+msgstr "Seo an cruth-clò a thèid a chleachdadh gach turas a bhios feum air cruth-clò "
 "le leud suidhichte.\n"
 
 #. i18n: ectx: label, entry, group (General)
@@ -315,8 +311,7 @@ msgstr "Dè an cànan sa thèid teacsa a shealltainn"
 #. i18n: ectx: label, entry, group (Locale)
 #: kdeglobals.kcfg:433
 msgid "Character used for indicating positive numbers"
-msgstr ""
-"Na caractaran a thèid a chleachdadh gus àireamhan dearbha a shealltainn"
+msgstr "Na caractaran a thèid a chleachdadh gus àireamhan dearbha a shealltainn"
 
 #. i18n: ectx: whatsthis, entry, group (Locale)
 #: kdeglobals.kcfg:434
@@ -366,8 +361,8 @@ msgstr "Seall teacsa air ìomhaigheagan bàir-inneal"
 #: kdeglobals.kcfg:503
 msgid "Whether text should be shown in addition to icons on toolbar icons"
 msgstr ""
-"Co-dhiù an nochd teacsa a bharrachd air ìomhaigheagan air ìomhaigheagan bàir-"
-"inneal gus nach nochd"
+"Co-dhiù an nochd teacsa a bharrachd air ìomhaigheagan air ìomhaigheagan b"
+"àir-inneal gus nach nochd"
 
 #. i18n: ectx: label, entry (EchoMode), group (Passwords)
 #: kdeglobals.kcfg:524
@@ -391,8 +386,7 @@ msgstr ""
 msgid ""
 "Automatic changes have been performed in order to satisfy plugin "
 "dependencies:\n"
-msgstr ""
-"Chaidh atharraichean a dhèanamh gu fèin-obrachail gus eisimeileachdan "
+msgstr "Chaidh atharraichean a dhèanamh gu fèin-obrachail gus eisimeileachdan "
 "plugain a choileanadh:\n"
 
 #: kpluginselector.cpp:212
@@ -435,7 +429,8 @@ msgstr[2] ""
 "Chaidh %1 plugain a chur ris gu fèin-obrachail ri linn eisimeileachdan "
 "plugain"
 msgstr[3] ""
-"Chaidh %1 plugan a chur ris gu fèin-obrachail ri linn eisimeileachdan plugain"
+"Chaidh %1 plugan a chur ris gu fèin-obrachail ri linn eisimeileachdan "
+"plugain"
 
 #: kpluginselector.cpp:238
 msgid ", "
@@ -462,7 +457,7 @@ msgstr[3] ""
 msgid "Search Plugins"
 msgstr "Lorg plugain"
 
-#: kpluginselector.cpp:795
+#: kpluginselector.cpp:786
 #, kde-format
 msgctxt "Used only for plugins"
 msgid "About %1"

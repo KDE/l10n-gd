@@ -1,7 +1,7 @@
-# GunChleoc <fios@foramnagaidhlig.net>, 2014.
+# GunChleoc <fios@foramnagaidhlig.net>, 2014, 2015.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2014-12-09 10:26+0100\n"
+"PO-Revision-Date: 2015-10-06 11:33+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
 "Language: gd\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Virtaal 0.7.1\n"
 "X-Qt-Contexts: true\n"
 
-#: core/kconfig.cpp:909
+#: core/kconfig.cpp:903
 msgctxt "KConfig|"
 msgid "Please contact your system administrator."
 msgstr "Cuir fios gu rianaire an t-siostaim agad."
@@ -436,6 +436,8 @@ msgid ""
 "For unit tests only: use test directories to stay away from the user's real "
 "files"
 msgstr ""
+"Airson unit tests a-mhàin: cleachd pasganan deuchainne gus cumail air falbh "
+"o dhearbh-fhaidhlichean a' chleachdaiche"
 
 #: kconf_update/kconf_update.cpp:956
 msgctxt "main|"
@@ -445,7 +447,7 @@ msgstr "Thoir sùil a bheil am faidhle rèiteachaidh fhèin feumach air ùrachad
 #: kconf_update/kconf_update.cpp:957
 msgctxt "main|"
 msgid "File(s) to read update instructions from"
-msgstr ""
+msgstr "Faidhle/Faidhlichean gus stiùireadh an ùrachaidh a leughadh uapa"
 
 #: kconfig_compiler/kconfig_compiler.cpp:1577
 msgctxt "main|"

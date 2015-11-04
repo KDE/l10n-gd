@@ -1,7 +1,7 @@
-# GunChleoc <fios@foramnagaidhlig.net>, 2014.
+# GunChleoc <fios@foramnagaidhlig.net>, 2014, 2015.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2014-12-09 12:40+0100\n"
+"PO-Revision-Date: 2015-10-06 11:39+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
 "Language: gd\n"
@@ -67,9 +67,9 @@ msgstr "Còmhstri le ath-ghoirid chlàraichte"
 #: runtime/main.cpp:61 runtime/main.cpp:63
 msgctxt "QObject|"
 msgid "KDE Global Shortcuts Service"
-msgstr ""
+msgstr "Seirbheis nan ath-ghoiridean uile-choitcheann KDE"
 
 #: runtime/main.cpp:66 runtime/main.cpp:67
 msgctxt "QObject|"
 msgid "Maintainer"
-msgstr ""
+msgstr "Neach-glèidhidh"

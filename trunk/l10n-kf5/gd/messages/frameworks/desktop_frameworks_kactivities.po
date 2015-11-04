@@ -1,10 +1,10 @@
-# GunChleoc <fios@foramnagaidhlig.net>, 2014.
+# GunChleoc <fios@foramnagaidhlig.net>, 2014, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-11-02 09:05+0000\n"
-"PO-Revision-Date: 2014-11-24 12:34+0100\n"
+"POT-Creation-Date: 2015-09-26 09:24+0000\n"
+"PO-Revision-Date: 2015-10-06 10:43+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
 "Language: gd\n"
@@ -44,13 +44,15 @@ msgstr "Taic gus gnìomhachdan a chruthachadh le teamplaidean"
 #: src/service/plugins/eventspy/kactivitymanagerd-plugin-eventspy.desktop:2
 msgctxt "Name"
 msgid "Event Spy"
-msgstr ""
+msgstr "Brathadair nan tachartasan"
 
-#: src/service/plugins/eventspy/kactivitymanagerd-plugin-eventspy.desktop:35
+#: src/service/plugins/eventspy/kactivitymanagerd-plugin-eventspy.desktop:34
 msgctxt "Comment"
 msgid ""
 "Collects events from applications that support recent documents specification"
 msgstr ""
+"Cruinnichidh e tachartasan o aplacaidean a chuireas taic ri sònrachadh nan "
+"sgrìobhainnean o chionn goirid"
 
 #: src/service/plugins/globalshortcuts/kactivitymanagerd-plugin-globalshortcuts.desktop:2
 msgctxt "Name"
@@ -110,8 +112,8 @@ msgstr "Gnìomhachdan"
 
 #: src/workspace/settings/kcm_activities.desktop:64
 msgctxt "Comment"
-msgid "Activities help you to focus on a specific task"
-msgstr ""
+msgid "Configure the activities system"
+msgstr "Rèitich siostam nan gnìomhachdan"
 
 #: tests/imports/org.kde.listactivitiestest/metadata.desktop:3
 msgctxt "Name"
@@ -127,7 +129,3 @@ msgstr "Seall deuchainn air na gnìomhachdan"
 msgctxt "Comment"
 msgid "Strange, but not a Clock"
 msgstr "Neònach ach chan e uaireadair a th' ann"
-
-#~ msgctxt "Comment"
-#~ msgid "Configure the activities system"
-#~ msgstr "Rèitich siostam nan gnìomhachdan"

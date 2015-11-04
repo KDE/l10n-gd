@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR This_file_is_part_of_KDE
 # This file is distributed under the same license as the PACKAGE package.
-# GunChleoc <fios@foramnagaidhlig.net>, 2014.
+# GunChleoc <fios@foramnagaidhlig.net>, 2014, 2015.
 # Home <fios@akerbeltz.org>, 2014.
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4support\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2015-05-03 08:52+0000\n"
-"PO-Revision-Date: 2014-12-09 10:35+0100\n"
+"PO-Revision-Date: 2015-10-06 11:38+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
 "Language: gd\n"
@@ -6058,7 +6058,7 @@ msgid "'%1' missing."
 msgstr "Tha \"%1\" a dhìth."
 
 #: kdecore/kcmdlineargs.cpp:895
-#, fuzzy, kde-format
+#, kde-format
 #| msgctxt ""
 #| "@info:shell message on appcmd --version; do not translate 'Development "
 #| "Platform'%3 application name, other %n version strings"
@@ -6075,7 +6075,7 @@ msgid ""
 "%3: %4\n"
 msgstr ""
 "Qt: %1\n"
-"Ùrlar leasachadh KDE: %2\n"
+"KDE Frameworks: %2\n"
 "%3: %4\n"
 
 #: kdecore/kcmdlineargs.cpp:921

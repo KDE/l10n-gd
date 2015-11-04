@@ -1,13 +1,13 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR This_file_is_part_of_KDE
 # This file is distributed under the same license as the PACKAGE package.
-# GunChleoc <fios@foramnagaidhlig.net>, 2014.
+# GunChleoc <fios@foramnagaidhlig.net>, 2014, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: knotifyconfig5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2015-09-29 09:36+0000\n"
-"PO-Revision-Date: 2014-12-09 12:53+0100\n"
+"PO-Revision-Date: 2015-10-06 11:41+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
 "Language: gd\n"
@@ -61,7 +61,7 @@ msgstr "Cai&nnt"
 
 #. i18n: ectx: property (whatsThis), widget (KComboBox, TTS_combo)
 #: knotifyconfigactionswidgetbase.ui:119
-#, fuzzy, no-c-format
+#, no-c-format
 #| msgid ""
 #| "<qt>Specifies how Jovie should speak the event when received.  If you "
 #| "select \"Speak custom text\", enter the text in the box.  You may use the "
@@ -75,7 +75,7 @@ msgid ""
 "event</dd><dt>%a</dt><dd>Application that sent the event</dd><dt>%m</"
 "dt><dd>The message sent by the application</dd></dl></qt>"
 msgstr ""
-"<qt>Sònraichidh seo an dòigh a chanas Jovie am fiosrachadh mun tachartas "
+"<qt>Sònraichidh seo an dòigh a chanas knotify am fiosrachadh mun tachartas "
 "nuair a thèid fhaighinn.  Ma thaghas tu \"Can teacsa gnàthaichte\", cuir an "
 "teacsa a-steach sa bhogsa.  Faodaidh tu na sreangan ionaid seo a chleachdadh "
 "san teacsa:<dl><dt>%e</dt><dd>Ainm an tachartais</dd><dt>%a</dt><dd>An "

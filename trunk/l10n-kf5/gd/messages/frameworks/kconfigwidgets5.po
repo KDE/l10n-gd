@@ -1,13 +1,13 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR This_file_is_part_of_KDE
 # This file is distributed under the same license as the PACKAGE package.
-# GunChleoc <fios@foramnagaidhlig.net>, 2014.
+# GunChleoc <fios@foramnagaidhlig.net>, 2014, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: kconfigwidgets5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-10-26 07:54+0000\n"
-"PO-Revision-Date: 2014-12-09 10:27+0100\n"
+"POT-Creation-Date: 2015-02-28 09:34+0000\n"
+"PO-Revision-Date: 2015-10-06 11:35+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
 "Language: gd\n"
@@ -48,11 +48,10 @@ msgid "Autodetect"
 msgstr "Mothaich gu fèin-obrachail"
 
 #: kconfigdialog.cpp:45
-#, fuzzy
 #| msgid "&Configure %1..."
 msgctxt "@title:window"
 msgid "Configure"
-msgstr "Rèiti&ch %1..."
+msgstr "Rèitich"
 
 #: klanguagebutton.cpp:194
 msgid "without name"
@@ -476,33 +475,30 @@ msgstr "&Mu %1"
 msgid "About &KDE"
 msgstr "Mu &KDE"
 
-#: ktipdialog.cpp:238
-#, fuzzy
+#: ktipdialog.cpp:239
 #| msgid "Tip of the &Day"
 msgctxt "@title:window"
 msgid "Tip of the Day"
-msgstr "&Gliocas an latha"
+msgstr "Gliocas an latha"
 
-#: ktipdialog.cpp:254
+#: ktipdialog.cpp:255
 msgctxt "@title"
 msgid "Did you know...?\n"
-msgstr ""
+msgstr "An robh fios agad...?\n"
 
-#: ktipdialog.cpp:306
+#: ktipdialog.cpp:307
 msgctxt "@option:check"
 msgid "&Show tips on startup"
-msgstr ""
+msgstr "&Seall na gliocasan aig an toiseach"
 
-#: ktipdialog.cpp:311
-#, fuzzy
+#: ktipdialog.cpp:312
 #| msgid "&Previous Page"
 msgctxt "@action:button Goes to previous tip"
 msgid "&Previous"
-msgstr "An duilleag &roimhpe"
+msgstr "Ai&r ais"
 
-#: ktipdialog.cpp:316
-#, fuzzy
+#: ktipdialog.cpp:317
 #| msgid "Find &Next"
 msgctxt "@action:button Goes to next tip, opposite to previous"
 msgid "&Next"
-msgstr "Lorg a&n ath fhear"
+msgstr "Air &adhart"

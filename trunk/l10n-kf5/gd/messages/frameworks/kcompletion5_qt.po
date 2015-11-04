@@ -28,47 +28,47 @@ msgctxt "KLineEdit|@action:button Clear current text in the line edit"
 msgid "Clear text"
 msgstr "Falamhaich an teacsa"
 
-#: klineedit.cpp:1103
+#: klineedit.cpp:1111
 msgctxt "KLineEdit|"
 msgid "C&lear"
 msgstr "Fa&lamhaich"
 
-#: klineedit.cpp:1117
+#: klineedit.cpp:1125
 msgctxt "KLineEdit|@title:menu"
 msgid "Text Completion"
 msgstr "Coileanadh teacsa"
 
-#: klineedit.cpp:1124
+#: klineedit.cpp:1132
 msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "None"
 msgstr "Gun choileanadh"
 
-#: klineedit.cpp:1125
+#: klineedit.cpp:1133
 msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "Manual"
 msgstr "A làimh"
 
-#: klineedit.cpp:1126
+#: klineedit.cpp:1134
 msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "Automatic"
 msgstr "Fèin-obrachail"
 
-#: klineedit.cpp:1127
+#: klineedit.cpp:1135
 msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "Dropdown List"
 msgstr "Liosta teàrnaidh"
 
-#: klineedit.cpp:1128
+#: klineedit.cpp:1136
 msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "Short Automatic"
 msgstr "Goirid 's gu fèin-obrachail"
 
-#: klineedit.cpp:1129
+#: klineedit.cpp:1137
 msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "Dropdown List && Automatic"
 msgstr "Liosta teàrnaidh ⁊ fèin-obrachail"
 
-#: klineedit.cpp:1159
+#: klineedit.cpp:1167
 msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "Default"
 msgstr "Tùsail"
