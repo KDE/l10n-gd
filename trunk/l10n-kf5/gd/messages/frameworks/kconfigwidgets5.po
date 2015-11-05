@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kconfigwidgets5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-02-28 09:34+0000\n"
+"POT-Creation-Date: 2015-10-26 07:54+0000\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -48,7 +48,6 @@ msgid "Autodetect"
 msgstr "Mothaich gu fèin-obrachail"
 
 #: kconfigdialog.cpp:45
-#| msgid "&Configure %1..."
 msgctxt "@title:window"
 msgid "Configure"
 msgstr "Rèitich"
@@ -475,30 +474,27 @@ msgstr "&Mu %1"
 msgid "About &KDE"
 msgstr "Mu &KDE"
 
-#: ktipdialog.cpp:239
-#| msgid "Tip of the &Day"
+#: ktipdialog.cpp:238
 msgctxt "@title:window"
 msgid "Tip of the Day"
 msgstr "Gliocas an latha"
 
-#: ktipdialog.cpp:255
+#: ktipdialog.cpp:254
 msgctxt "@title"
 msgid "Did you know...?\n"
 msgstr "An robh fios agad...?\n"
 
-#: ktipdialog.cpp:307
+#: ktipdialog.cpp:306
 msgctxt "@option:check"
 msgid "&Show tips on startup"
 msgstr "&Seall na gliocasan aig an toiseach"
 
-#: ktipdialog.cpp:312
-#| msgid "&Previous Page"
+#: ktipdialog.cpp:311
 msgctxt "@action:button Goes to previous tip"
 msgid "&Previous"
 msgstr "Ai&r ais"
 
-#: ktipdialog.cpp:317
-#| msgid "Find &Next"
+#: ktipdialog.cpp:316
 msgctxt "@action:button Goes to next tip, opposite to previous"
 msgid "&Next"
 msgstr "Air &adhart"

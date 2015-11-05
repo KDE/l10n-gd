@@ -92,7 +92,8 @@ msgstr "A' luchdadh fiosrachadh an t-solaraiche"
 #, kde-format
 msgid "Could not load get hot new stuff providers from file: %1"
 msgstr ""
-"Cha b' urrainn dhuinn solaraichean deagh-stuith ùir a luchdadh on fhaidhle: %1"
+"Cha b' urrainn dhuinn solaraichean deagh-stuith ùir a luchdadh on fhaidhle: "
+"%1"
 
 #: core/engine.cpp:208
 msgid "Error initializing provider."
@@ -138,8 +139,8 @@ msgstr "Nì mì-dhligheach."
 #, kde-format
 msgid "Download of item failed: no download URL for \"%1\"."
 msgstr ""
-"Cha deach leinn an nì a luchdadh: chan eil URL luchdaidh a-nuas airson \"%1\" "
-"ann."
+"Cha deach leinn an nì a luchdadh: chan eil URL luchdaidh a-nuas airson "
+"\"%1\" ann."
 
 #: core/installation.cpp:221
 #, kde-format
@@ -163,8 +164,8 @@ msgstr "Droch-cheangal luchdaidh a-nuas ma dh'fhaoidte"
 #: core/installation.cpp:233
 msgid "Downloaded file was a HTML file. Opened in browser."
 msgstr ""
-"Tha am faidhle a chaidh a luchdadh a-nuas 'na fhaidhle HTML. Dh'fhosgail sinn "
-"sa bhrabhsair e."
+"Tha am faidhle a chaidh a luchdadh a-nuas 'na fhaidhle HTML. Dh'fhosgail "
+"sinn sa bhrabhsair e."
 
 #: core/installation.cpp:296
 #, kde-format
@@ -631,8 +632,8 @@ msgid_plural ""
 "The server does not recognize any of the categories to which you are trying "
 "to upload: %2"
 msgstr[0] ""
-"Chan aithnich am frithealaiche an roinn-seòrsa %2 dhan a tha thu a' feuchainn "
-"ri rud a luchdadh suas."
+"Chan aithnich am frithealaiche an roinn-seòrsa %2 dhan a tha thu a' "
+"feuchainn ri rud a luchdadh suas."
 msgstr[1] ""
 "Chan aithnich am frithealaiche gin dhe na roinnean-seòrsa dhan a tha thu a' "
 "feuchainn ri rud a luchdadh suas: %2"
@@ -741,8 +742,8 @@ msgstr "Ainm an fhaidhle mar a nochdas e air an làrach-lìn"
 #. i18n: ectx: property (whatsThis), widget (QLineEdit, mNameEdit)
 #: uploaddialog.ui:320
 msgid ""
-"This should clearly describe the file content. It can be the same text as the "
-"title of the kvtml file."
+"This should clearly describe the file content. It can be the same text as "
+"the title of the kvtml file."
 msgstr ""
 "Bu chòir dha seo susbaint an fhaidhle a mhìneachadh gu soilleir. Faodaidh e "
 "bhith co-ionnann ris an tiotal air an fhaidhle kvtml."

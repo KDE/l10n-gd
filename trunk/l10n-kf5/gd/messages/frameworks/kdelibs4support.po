@@ -6059,13 +6059,6 @@ msgstr "Tha \"%1\" a dhìth."
 
 #: kdecore/kcmdlineargs.cpp:895
 #, kde-format
-#| msgctxt ""
-#| "@info:shell message on appcmd --version; do not translate 'Development "
-#| "Platform'%3 application name, other %n version strings"
-#| msgid ""
-#| "Qt: %1\n"
-#| "KDE Development Platform: %2\n"
-#| "%3: %4\n"
 msgctxt ""
 "@info:shell message on appcmd --version; do not translate 'Development "
 "Platform'%3 application name, other %n version strings"

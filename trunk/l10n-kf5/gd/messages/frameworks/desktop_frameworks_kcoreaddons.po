@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-26 09:24+0000\n"
+"POT-Creation-Date: 2015-11-05 10:00+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,7 +21,17 @@ msgctxt "Name"
 msgid "NSA Plugin"
 msgstr "Plugan NSA"
 
-#: autotests/data/fakeplugin.desktop:36 autotests/data/hiddenplugin.desktop:36
+#: autotests/data/fakeplugin.desktop:37 autotests/data/hiddenplugin.desktop:37
 msgctxt "Comment"
 msgid "Test Plugin Spy"
 msgstr "Plugan deuchainneach brathadair"
+
+#: autotests/data/servicetypes/bad-groups-input.desktop:2
+msgctxt "Name"
+msgid "Bad Groups"
+msgstr ""
+
+#: autotests/data/servicetypes/example-input.desktop:2
+msgctxt "Name"
+msgid "Example"
+msgstr ""

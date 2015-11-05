@@ -1,6 +1,8 @@
 # GunChleoc <fios@foramnagaidhlig.net>, 2014, 2015.
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -12,10 +14,8 @@ msgstr ""
 "(n > 2 && n < 20) ? 2 : 3;\n"
 "X-Generator: Poedit 1.8.4\n"
 "X-Qt-Contexts: true\n"
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
 
-#: core/kconfig.cpp:903
+#: core/kconfig.cpp:909
 msgctxt "KConfig|"
 msgid "Please contact your system administrator."
 msgstr "Cuir fios gu rianaire an t-siostaim agad."

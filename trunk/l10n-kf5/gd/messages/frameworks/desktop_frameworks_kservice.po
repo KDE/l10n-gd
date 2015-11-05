@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-20 09:13+0000\n"
+"POT-Creation-Date: 2015-11-05 10:00+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -26,17 +26,17 @@ msgctxt "Name"
 msgid "NSA Plugin"
 msgstr "Plugan NSA"
 
-#: autotests/fakeplugin.desktop:46
+#: autotests/fakeplugin.desktop:47
 msgctxt "Comment"
 msgid "Test Plugin Spy"
 msgstr "Plugan deuchainneach brathadair"
 
-#: autotests/fakeplugin.desktop:107
+#: autotests/fakeplugin.desktop:109
 msgctxt "Keywords"
 msgid "word1;word2"
 msgstr "facal1;facal2"
 
-#: autotests/fakeplugin.desktop:138
+#: autotests/fakeplugin.desktop:144
 msgctxt "X-KDE-Keywords"
 msgid "word3,word4"
 msgstr "facal3,facal4"
@@ -46,7 +46,7 @@ msgctxt "Name"
 msgid "No Plugin"
 msgstr "Gun phlugan"
 
-#: autotests/noplugin.desktop:44
+#: autotests/noplugin.desktop:46
 msgctxt "Comment"
 msgid "This does not have a library"
 msgstr "Chan eil leabharlann aige"

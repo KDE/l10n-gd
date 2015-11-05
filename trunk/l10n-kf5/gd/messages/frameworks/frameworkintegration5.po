@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-11-13 07:46+0000\n"
+"POT-Creation-Date: 2015-10-01 08:25+0000\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -19,40 +19,40 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 "X-Project-Style: kde\n"
 
-#: platformtheme/kdeplatformfiledialoghelper.cpp:234
+#: platformtheme/kdeplatformfiledialoghelper.cpp:240
 msgid "Opening..."
 msgstr "'Ga fhosgladh..."
 
-#: platformtheme/kdeplatformfiledialoghelper.cpp:234
+#: platformtheme/kdeplatformfiledialoghelper.cpp:240
 msgid "Saving..."
 msgstr "'Ga shàbhaladh..."
 
-#: platformtheme/kdeplatformtheme.cpp:226
+#: platformtheme/kdeplatformtheme.cpp:227
 msgctxt "@action:button"
 msgid "Save All"
 msgstr "Sàbhail na h-uile"
 
-#: platformtheme/kdeplatformtheme.cpp:232
+#: platformtheme/kdeplatformtheme.cpp:233
 msgctxt "@action:button"
 msgid "Yes to All"
 msgstr "Dèan seo leis na h-uile"
 
-#: platformtheme/kdeplatformtheme.cpp:236
+#: platformtheme/kdeplatformtheme.cpp:237
 msgctxt "@action:button"
 msgid "No to All"
 msgstr "Na dèan seo le gin dhiubh"
 
-#: platformtheme/kdeplatformtheme.cpp:239
+#: platformtheme/kdeplatformtheme.cpp:240
 msgctxt "@action:button"
 msgid "Abort"
 msgstr "Sguir dheth"
 
-#: platformtheme/kdeplatformtheme.cpp:241
+#: platformtheme/kdeplatformtheme.cpp:242
 msgctxt "@action:button"
 msgid "Retry"
 msgstr "Feuch ris a-rithist"
 
-#: platformtheme/kdeplatformtheme.cpp:243
+#: platformtheme/kdeplatformtheme.cpp:244
 msgctxt "@action:button"
 msgid "Ignore"
 msgstr "Leig seachad"

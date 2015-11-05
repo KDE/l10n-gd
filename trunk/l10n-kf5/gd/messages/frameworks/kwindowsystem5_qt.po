@@ -1,6 +1,8 @@
 # GunChleoc <fios@foramnagaidhlig.net>, 2014.
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
 "PO-Revision-Date: 2015-11-04 15:14+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -12,11 +14,9 @@ msgstr ""
 "(n > 2 && n < 20) ? 2 : 3;\n"
 "X-Generator: Poedit 1.8.4\n"
 "X-Qt-Contexts: true\n"
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
 
-#: kwindowsystem_mac.cpp:580 kwindowsystem_win.cpp:632
-#: kwindowsystem_x11.cpp:959
+#: platforms/osx/kwindowsystem.cpp:580 platforms/windows/kwindowsystem.cpp:632
+#: platforms/xcb/kwindowsystem.cpp:939
 #, qt-format
 msgctxt "KWindowSystem|"
 msgid "Desktop %1"

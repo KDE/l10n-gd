@@ -5379,13 +5379,21 @@ msgstr ""
 "cunntadh co mheud rionnag a tha fon ad fhathast. Briog air an raon air a’ "
 "bhonn gu deas gus freagairt a thoirt."
 
+#: activities/magic-hat-minus/MagicHat.qml:99
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Kick the ball into the goal"
+msgctxt "MagicHat|"
+msgid "Click on the hat to begin the game"
+msgstr "Breab am bàla dhan tadhal"
+
 #. The math operation
-#: activities/magic-hat-minus/MagicHat.qml:84
+#: activities/magic-hat-minus/MagicHat.qml:104
 msgctxt "MagicHat|"
 msgid "-"
 msgstr ""
 
-#: activities/magic-hat-minus/MagicHat.qml:84
+#: activities/magic-hat-minus/MagicHat.qml:104
 msgctxt "MagicHat|"
 msgid "+"
 msgstr ""

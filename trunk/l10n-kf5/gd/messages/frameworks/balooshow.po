@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-24 08:35+0000\n"
+"POT-Creation-Date: 2015-10-11 08:16+0000\n"
 "PO-Revision-Date: 2015-11-04 15:09+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -47,7 +47,7 @@ msgstr "Vishesh Handa"
 msgid "Maintainer"
 msgstr "Neach-glèidhidh"
 
-#: main.cpp:97
+#: main.cpp:105
 msgid ""
 "The Baloo index could not be opened. Please run \"balooctl status\" to see "
 "if Baloo is enabled and working."
@@ -55,16 +55,16 @@ msgstr ""
 "Cha b' urrainn dhuinn inneacs Baloo fhosgladh. Ruith \"balooctl status\" "
 "airson sealltainn a bheil Baloo an comas is ag obair."
 
-#: main.cpp:113
+#: main.cpp:121
 msgid "The fileID is not equal to the actual Baloo fileID"
 msgstr ""
 "Cha eil aithnichear an fhaidhle co-ionnan ris an dearbh-aithnichear faidhle "
 "Baloo"
 
-#: main.cpp:114
+#: main.cpp:122
 msgid "This is a bug"
 msgstr "'S e buga a th' ann"
 
-#: main.cpp:136
+#: main.cpp:150
 msgid "No index information found"
 msgstr "Cha deach fiosrachadh an inneics a lorg"

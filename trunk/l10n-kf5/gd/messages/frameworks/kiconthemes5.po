@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-27 20:57+0000\n"
+"POT-Creation-Date: 2015-03-15 08:31+0000\n"
 "PO-Revision-Date: 2015-11-04 15:14+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -19,83 +19,84 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 "X-Project-Style: kde\n"
 
-#: kicondialog.cpp:240 kicondialog.cpp:250 kicondialog.cpp:589
+#: kicondialog.cpp:260 kicondialog.cpp:272 kicondialog.cpp:608
 msgid "Select Icon"
 msgstr "Tagh ìomhaigheag"
 
-#: kicondialog.cpp:265
+#: kicondialog.cpp:289
 msgid "Icon Source"
 msgstr "Tùs na h-ìomhaigheige"
 
-#: kicondialog.cpp:274
+#: kicondialog.cpp:298
 msgid "S&ystem icons:"
 msgstr "Ìomhaigheagan an t-&siostaim:"
 
-#: kicondialog.cpp:281
+#: kicondialog.cpp:305
 msgid "O&ther icons:"
 msgstr "Ìomhaigheagan &eile:"
 
-#: kicondialog.cpp:284
+#: kicondialog.cpp:308
 msgid "&Browse..."
 msgstr "&Rùraich..."
 
-#: kicondialog.cpp:295
+#: kicondialog.cpp:319
 msgid "&Search:"
 msgstr "&Lorg:"
 
-#: kicondialog.cpp:302
+#: kicondialog.cpp:326
 msgid "Search interactively for icon names (e.g. folder)."
-msgstr "Lorg gu h-eadar-ghnìomhach airson ainmean ìomhaigheagan (pasgan, m.e.)."
+msgstr ""
+"Lorg gu h-eadar-ghnìomhach airson ainmean ìomhaigheagan (pasgan, m.e.)."
 
-#: kicondialog.cpp:332
+#: kicondialog.cpp:356
 msgid "Actions"
 msgstr "Gnìomhan"
 
-#: kicondialog.cpp:333
+#: kicondialog.cpp:357
 msgid "Animations"
 msgstr "Beòthachaidhean"
 
-#: kicondialog.cpp:334
+#: kicondialog.cpp:358
 msgid "Applications"
 msgstr "Aplacaidean"
 
-#: kicondialog.cpp:335
+#: kicondialog.cpp:359
 msgid "Categories"
 msgstr "Roinnean-seòrsa"
 
-#: kicondialog.cpp:336
+#: kicondialog.cpp:360
 msgid "Devices"
 msgstr "Uidheaman"
 
-#: kicondialog.cpp:337
+#: kicondialog.cpp:361
 msgid "Emblems"
 msgstr "Suaicheantasan"
 
-#: kicondialog.cpp:338
+#: kicondialog.cpp:362
 msgid "Emotes"
 msgstr "Samhlaidhean-gnùis"
 
-#: kicondialog.cpp:339
+#: kicondialog.cpp:363
 msgid "Filesystems"
 msgstr "Siostaman fhaidhlichean"
 
-#: kicondialog.cpp:340
+#: kicondialog.cpp:364
 msgid "International"
 msgstr "Eadar-nàiseanta"
 
-#: kicondialog.cpp:341
+#: kicondialog.cpp:365
 msgid "Mimetypes"
 msgstr "Seòrsaichean MIME"
 
-#: kicondialog.cpp:342
+#: kicondialog.cpp:366
 msgid "Places"
 msgstr "Àiteachan"
 
-#: kicondialog.cpp:343
+#: kicondialog.cpp:367
 msgid "Status"
 msgstr "Staid"
 
-#: kicondialog.cpp:589
+#: kicondialog.cpp:608
 msgid "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 msgstr ""
 "*.png *.xpm *.svg *.svgz|Faidhlichean ìomhaigheige (*.png *.xpm *.svg *.svgz)"

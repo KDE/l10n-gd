@@ -1,6 +1,8 @@
 # GunChleoc <fios@foramnagaidhlig.net>, 2014, 2015.
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -12,124 +14,88 @@ msgstr ""
 "(n > 2 && n < 20) ? 2 : 3;\n"
 "X-Generator: Poedit 1.8.4\n"
 "X-Qt-Contexts: true\n"
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
 
 #: kcharsets.cpp:168
-#| msgctxt "@item Text character set"
-#| msgid "Western European"
 msgctxt "KCharsets|@item Text character set"
 msgid "Western European"
 msgstr "Siarach"
 
 #: kcharsets.cpp:174
-#| msgctxt "@item Text character set"
-#| msgid "Central European"
 msgctxt "KCharsets|@item Text character set"
 msgid "Central European"
 msgstr "Meadhan-Eòrpach"
 
 #: kcharsets.cpp:177
-#| msgctxt "@item Text character set"
-#| msgid "Baltic"
 msgctxt "KCharsets|@item Text character set"
 msgid "Baltic"
 msgstr "Baltach"
 
 #: kcharsets.cpp:180
-#| msgctxt "@item Text character set"
-#| msgid "South-Eastern Europe"
 msgctxt "KCharsets|@item Text character set"
 msgid "South-Eastern Europe"
 msgstr "Eòrpach Ear-dheasach"
 
 #: kcharsets.cpp:183
-#| msgctxt "@item Text character set"
-#| msgid "Turkish"
 msgctxt "KCharsets|@item Text character set"
 msgid "Turkish"
 msgstr "Turcais"
 
 #: kcharsets.cpp:186
-#| msgctxt "@item Text character set"
-#| msgid "Cyrillic"
 msgctxt "KCharsets|@item Text character set"
 msgid "Cyrillic"
 msgstr "Cirilis"
 
 #: kcharsets.cpp:192
-#| msgctxt "@item Text character set"
-#| msgid "Chinese Traditional"
 msgctxt "KCharsets|@item Text character set"
 msgid "Chinese Traditional"
 msgstr "Sìnis thradaiseanta"
 
 #: kcharsets.cpp:195
-#| msgctxt "@item Text character set"
-#| msgid "Chinese Simplified"
 msgctxt "KCharsets|@item Text character set"
 msgid "Chinese Simplified"
 msgstr "Sìnis shimplichte"
 
 #: kcharsets.cpp:199
-#| msgctxt "@item Text character set"
-#| msgid "Korean"
 msgctxt "KCharsets|@item Text character set"
 msgid "Korean"
 msgstr "Coirèanais"
 
 #: kcharsets.cpp:202
-#| msgctxt "@item Text character set"
-#| msgid "Japanese"
 msgctxt "KCharsets|@item Text character set"
 msgid "Japanese"
 msgstr "Seapanais"
 
 #: kcharsets.cpp:206
-#| msgctxt "@item Text character set"
-#| msgid "Greek"
 msgctxt "KCharsets|@item Text character set"
 msgid "Greek"
 msgstr "Greugais"
 
 #: kcharsets.cpp:209
-#| msgctxt "@item Text character set"
-#| msgid "Arabic"
 msgctxt "KCharsets|@item Text character set"
 msgid "Arabic"
 msgstr "Arabais"
 
 #: kcharsets.cpp:212
-#| msgctxt "@item Text character set"
-#| msgid "Hebrew"
 msgctxt "KCharsets|@item Text character set"
 msgid "Hebrew"
 msgstr "Eabhra"
 
 #: kcharsets.cpp:217
-#| msgctxt "@item Text character set"
-#| msgid "Thai"
 msgctxt "KCharsets|@item Text character set"
 msgid "Thai"
 msgstr "Tàidh"
 
 #: kcharsets.cpp:220
-#| msgctxt "@item Text character set"
-#| msgid "Unicode"
 msgctxt "KCharsets|@item Text character set"
 msgid "Unicode"
 msgstr "Unicode"
 
 #: kcharsets.cpp:226
-#| msgctxt "@item Text character set"
-#| msgid "Northern Saami"
 msgctxt "KCharsets|@item Text character set"
 msgid "Northern Saami"
 msgstr "Sàmais Thuathach"
 
 #: kcharsets.cpp:228
-#| msgctxt "@item Text character set"
-#| msgid "Other"
 msgctxt "KCharsets|@item Text character set"
 msgid "Other"
 msgstr "Eile"
@@ -159,8 +125,8 @@ msgid ""
 "@. You will not create valid messages if you do not change your address."
 msgstr ""
 "Chan eil an seòladh puist-d a chuir thu a-steach dligheach on a tha iomadh @ "
-"'na bhroinn. Cha chruthaich thu teachdaireachdan dligheach mur atharraich thu "
-"an seòladh agad."
+"'na bhroinn. Cha chruthaich thu teachdaireachdan dligheach mur atharraich "
+"thu an seòladh agad."
 
 #: kemailaddress.cpp:535
 msgctxt "QObject|"
@@ -175,7 +141,8 @@ msgstr ""
 #: kemailaddress.cpp:540
 msgctxt "QObject|"
 msgid "You have to enter something in the email address field."
-msgstr "Feumaidh tu rudeigin a chur a-steach ann an raon an t-seòlaidh puist-d."
+msgstr ""
+"Feumaidh tu rudeigin a chur a-steach ann an raon an t-seòlaidh puist-d."
 
 #: kemailaddress.cpp:542
 msgctxt "QObject|"
@@ -245,8 +212,8 @@ msgid ""
 msgstr ""
 "Chan eil an seòladh puist-d a chuir thu a-steach dligheach air sgàth 's gun "
 "crìochnaich e gun dùil. Faodaidh gur ciall dha seo gun do chleachd thu "
-"caractar teichidh mar \"\\\" 'na charactar mu dheireadh san t-seòladh puist-d "
-"agad."
+"caractar teichidh mar \"\\\" 'na charactar mu dheireadh san t-seòladh puist-"
+"d agad."
 
 #: kemailaddress.cpp:567
 msgctxt "QObject|"
@@ -288,8 +255,8 @@ msgstr ""
 #: kemailaddress.cpp:580
 msgctxt "QObject|"
 msgid ""
-"The email address you entered is not valid because it does not contain a '.'. "
-"You will not create valid messages if you do not change your address."
+"The email address you entered is not valid because it does not contain a "
+"'.'. You will not create valid messages if you do not change your address."
 msgstr ""
 "Chan eil an seòladh puist-d a chuir thu a-steach dligheach air sgàth 's nach "
 "eil \".\" 'na bhroinn. Cha chruthaich thu teachdaireachdan dligheach mur "

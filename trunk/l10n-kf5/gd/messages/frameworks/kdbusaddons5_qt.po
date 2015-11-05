@@ -1,6 +1,8 @@
 # GunChleoc <fios@foramnagaidhlig.net>, 2014.
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
 "PO-Revision-Date: 2015-11-04 15:12+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -12,8 +14,6 @@ msgstr ""
 "(n > 2 && n < 20) ? 2 : 3;\n"
 "X-Generator: Poedit 1.8.4\n"
 "X-Qt-Contexts: true\n"
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
 
 #: tools/kquitapp/kquitapp.cpp:31
 msgctxt "main|"
@@ -39,7 +39,8 @@ msgstr "Ainm na h-aplacaid a thèid fhàgail"
 #, qt-format
 msgctxt "main|"
 msgid "Application %1 could not be found using service %2 and path %3."
-msgstr "Cha deach an aplacaid %1 a lorg leis an t-seirbheis %2 san t-slighe %3."
+msgstr ""
+"Cha deach an aplacaid %1 a lorg leis an t-seirbheis %2 san t-slighe %3."
 
 #: tools/kquitapp/kquitapp.cpp:63
 #, qt-format

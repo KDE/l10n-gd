@@ -14,8 +14,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : (n > "
-"2 && n < 20) ? 2 : 3;\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
+"(n > 2 && n < 20) ? 2 : 3;\n"
 "X-Generator: Poedit 1.8.4\n"
 "X-Project-Style: kde\n"
 
@@ -64,20 +64,20 @@ msgstr "Thoir a' ghlas far Widgets"
 #: plasma/data/kconfigxt/libplasma-theme-global.kcfg:9
 msgid "Whether or not to create an on-disk cache for the theme."
 msgstr ""
-"Co-dhiù an dèid tasgadan a chruthachadh air an diosg airson an ùrlair seo gus nach "
-"dèid."
+"Co-dhiù an dèid tasgadan a chruthachadh air an diosg airson an ùrlair seo "
+"gus nach dèid."
 
 #. i18n: ectx: label, entry, group (CachePolicies)
 #: plasma/data/kconfigxt/libplasma-theme-global.kcfg:14
 msgid ""
-"The maximum size of the on-disk Theme cache in kilobytes. Note that these files "
-"are sparse files, so the maximum size may not be used. Setting a larger size is "
-"therefore often quite safe."
+"The maximum size of the on-disk Theme cache in kilobytes. Note that these "
+"files are sparse files, so the maximum size may not be used. Setting a "
+"larger size is therefore often quite safe."
 msgstr ""
-"Am meud as motha ann an cileabaidht aig an tasgadan air an diosg airson an ùrlair. "
-"Thoir an aire gu bheil na faidhlichean seo gann, mar sin dh'fhaoidte nach dèid am "
-"meud as motha a chleachdadh. Bidh e gu math sàbhailte mar a trice ma shònraicheas "
-"tu meud nas motha."
+"Am meud as motha ann an cileabaidht aig an tasgadan air an diosg airson an "
+"ùrlair. Thoir an aire gu bheil na faidhlichean seo gann, mar sin dh'fhaoidte "
+"nach dèid am meud as motha a chleachdadh. Bidh e gu math sàbhailte mar a "
+"trice ma shònraicheas tu meud nas motha."
 
 #: plasma/pluginloader.cpp:96
 msgid "Accessibility"
@@ -173,20 +173,24 @@ msgstr "Roghainnean %1..."
 #: plasma/private/applet_p.cpp:140
 #, kde-format
 msgid "The %1 widget did not define which ScriptEngine to use."
-msgstr "Cha do shònraich an widget %1 dè an ScriptEngine a thèid a chleachdadh."
+msgstr ""
+"Cha do shònraich an widget %1 dè an ScriptEngine a thèid a chleachdadh."
 
 #: plasma/private/applet_p.cpp:157
 #, kde-format
 msgctxt "Package file, name of the widget"
 msgid "Could not open the %1 package required for the %2 widget."
 msgstr ""
-"Cha b' urrainn dhuinn pacaid %1 fhosgladh a tha riatanach airson an widget %2."
+"Cha b' urrainn dhuinn pacaid %1 fhosgladh a tha riatanach airson an widget "
+"%2."
 
 #: plasma/private/applet_p.cpp:179
 #, kde-format
-msgctxt "API or programming language the widget was written in, name of the widget"
+msgctxt ""
+"API or programming language the widget was written in, name of the widget"
 msgid "Could not create a %1 ScriptEngine for the %2 widget."
-msgstr "Cha b' urrainn dhuinn ScriptEngine %1 a chruthachadh airson an widget %2."
+msgstr ""
+"Cha b' urrainn dhuinn ScriptEngine %1 a chruthachadh airson an widget %2."
 
 #: plasma/private/applet_p.cpp:199
 msgid "Alternatives..."
@@ -418,11 +422,11 @@ msgstr "Faidhle rèiteachadh KColorScheme"
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: plasma/private/publish.ui:17
 msgid ""
-"Sharing a widget on the network allows you to access this widget from another "
-"computer as a remote control."
+"Sharing a widget on the network allows you to access this widget from "
+"another computer as a remote control."
 msgstr ""
-"Ma cho-roinneas tu widget air an lìonra, 's urrainn dhut an widget inntrigeadh o "
-"choimpiutair eile mar inneal-smachd cèin."
+"Ma cho-roinneas tu widget air an lìonra, 's urrainn dhut an widget "
+"inntrigeadh o choimpiutair eile mar inneal-smachd cèin."
 
 #. i18n: ectx: property (text), widget (QCheckBox, publishCheckbox)
 #: plasma/private/publish.ui:27
@@ -438,7 +442,8 @@ msgstr "Leig leis a h-uile duine an widget seo inntrigeadh gu saor"
 msgctxt "Error message, tried to start an invalid service"
 msgid "Invalid (null) service, can not perform any operations."
 msgstr ""
-"Seirbheis mhì-dhligheach (null), chan urrainn dhuinn obrachadh sam bith a dhèanamh."
+"Seirbheis mhì-dhligheach (null), chan urrainn dhuinn obrachadh sam bith a "
+"dhèanamh."
 
 #: plasmapkg/main.cpp:49
 msgid "Plasma Package Manager"
@@ -452,20 +457,20 @@ msgstr "Gin hais SHA1airson na pacaid air <path>"
 #: plasmapkg/main.cpp:57
 msgid "For install or remove, operates on packages installed for all users."
 msgstr ""
-"Airson stàladh no toirt air falbh, obraichidh e air pacaidean a chaidh a stàladh "
-"airson a h-uile cleachdaiche."
+"Airson stàladh no toirt air falbh, obraichidh e air pacaidean a chaidh a "
+"stàladh airson a h-uile cleachdaiche."
 
 #: plasmapkg/main.cpp:62
 msgctxt ""
-"theme, wallpaper, etc. are keywords, but they may be translated, as both versions "
-"are recognized by the application (if translated, should be same as messages with "
-"'package type' context below)"
+"theme, wallpaper, etc. are keywords, but they may be translated, as both "
+"versions are recognized by the application (if translated, should be same as "
+"messages with 'package type' context below)"
 msgid ""
-"The type of package, e.g. theme, wallpaper, plasmoid, dataengine, runner, layout-"
-"template, etc."
+"The type of package, e.g. theme, wallpaper, plasmoid, dataengine, runner, "
+"layout-template, etc."
 msgstr ""
-"An seòrsa de phacaid, can ùrlar, pàipear-balla, plasmoid, dataengine, runner, "
-"teamplaid co-dhealbhachd, is msaa."
+"An seòrsa de phacaid, can ùrlar, pàipear-balla, plasmoid, dataengine, "
+"runner, teamplaid co-dhealbhachd, is msaa."
 
 #: plasmapkg/main.cpp:64
 msgctxt "Do not translate <path>"
@@ -583,7 +588,8 @@ msgstr "kwinscript"
 #, kde-format
 msgid "Could not find a suitable installer for package of type %1"
 msgstr ""
-"Cha deach leinn inneal-stàlaidh iomchaidh a lorg airson pacaid dhen t-seòrsa %1"
+"Cha deach leinn inneal-stàlaidh iomchaidh a lorg airson pacaid dhen t-seòrsa "
+"%1"
 
 #: plasmapkg/plasmapkg.cpp:282
 #, kde-format
@@ -597,8 +603,8 @@ msgstr "Mearachd: Cha deach am plugan %1 a stàladh."
 
 #: plasmapkg/plasmapkg.cpp:365
 msgctxt ""
-"No option was given, this is the error message telling the user he needs at least "
-"one, do not translate install, remove, upgrade nor list"
+"No option was given, this is the error message telling the user he needs at "
+"least one, do not translate install, remove, upgrade nor list"
 msgid "One of install, remove, upgrade or list is required."
 msgstr "Tha feum air stàladh, toirt air falbh, àrdachadh no sealladh."
 
@@ -639,13 +645,14 @@ msgstr "    Slighe : %1"
 
 #: plasmapkg/plasmapkg.cpp:490
 msgctxt ""
-"The user entered conflicting options packageroot and global, this is the error "
-"message telling the user he can use only one"
+"The user entered conflicting options packageroot and global, this is the "
+"error message telling the user he can use only one"
 msgid ""
-"The packageroot and global options conflict each other, please select only one."
+"The packageroot and global options conflict each other, please select only "
+"one."
 msgstr ""
-"Tha freumh na pacaid is na roghainnean coitcheann an còmhstri a chèile, feuch nach "
-"tagh thu ach aonan."
+"Tha freumh na pacaid is na roghainnean coitcheann an còmhstri a chèile, "
+"feuch nach tagh thu ach aonan."
 
 #: plasmapkg/plasmapkg.cpp:515
 msgid "Addon Name"

@@ -42,8 +42,8 @@ msgid ""
 msgstr ""
 "Briog air a' phutan agus cuir a-steach an ath-ghoirid an uairsin mar a "
 "dhèanadh tu sa phrògram.\n"
-"Ball-eisimpleir airson \"Ctrl+A\": cum an iuchair \"Ctrl\" sìos agus brùth air "
-"\"A\"."
+"Ball-eisimpleir airson \"Ctrl+A\": cum an iuchair \"Ctrl\" sìos agus brùth "
+"air \"A\"."
 
 #: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:275
 msgid "Reserved Shortcut"
@@ -51,11 +51,12 @@ msgstr "Ath-ghoirid ghlèidhte"
 
 #: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:276
 msgid ""
-"The F12 key is reserved on Windows, so cannot be used for a global shortcut.\n"
+"The F12 key is reserved on Windows, so cannot be used for a global "
+"shortcut.\n"
 "Please choose another one."
 msgstr ""
-"Tha an iuchair F12 glèidhte air Windows agus cha ghabh a cleachdadh 'na h-ath-"
-"ghoirid uile-choitcheann ri linn seo.\n"
+"Tha an iuchair F12 glèidhte air Windows agus cha ghabh a cleachdadh 'na h-"
+"ath-ghoirid uile-choitcheann ri linn seo.\n"
 "Feuch an tagh thu tè eile."
 
 #: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:332
@@ -65,8 +66,8 @@ msgstr "Còmhstri le ath-ghoirid thùsail na h-aplacaid"
 #: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:333
 #, kde-format
 msgid ""
-"The '%1' key combination is also used for the standard action \"%2\" that some "
-"applications use.\n"
+"The '%1' key combination is also used for the standard action \"%2\" that "
+"some applications use.\n"
 "Do you really want to use it as a global shortcut as well?"
 msgstr ""
 "Thèid am brùthadh iuchrach \"%1\" a chleachdadh cuideachd airson a' ghnìomha "
