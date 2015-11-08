@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kactivities5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-10-14 07:50+0000\n"
+"POT-Creation-Date: 2015-11-08 08:26+0000\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -99,29 +99,29 @@ msgid "Are you sure you want to delete '%1'?"
 msgstr ""
 "A bheil thu cinnteach gu bheil thu airson a' ghnìomhachd seo a sguabadh às?"
 
-#: workspace/settings/imports/dialog.cpp:118
+#: workspace/settings/imports/dialog.cpp:124
 #, fuzzy
 #| msgid "Create activity..."
 msgid "Create a new activity"
 msgstr "Cruthaich gnìomhachd..."
 
-#: workspace/settings/imports/dialog.cpp:126
+#: workspace/settings/imports/dialog.cpp:132
 #, fuzzy
 #| msgid "Activity switching"
 msgid "Activity settings"
 msgstr "Gearradh leum eadar gnìomhachdan"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
-#: workspace/settings/imports/dialog.cpp:166
+#: workspace/settings/imports/dialog.cpp:172
 #: workspace/settings/ui/SwitchingTabBase.ui:20
 msgid "General"
 msgstr "Coitcheann"
 
-#: workspace/settings/imports/dialog.cpp:167
+#: workspace/settings/imports/dialog.cpp:173
 msgid "Other"
 msgstr ""
 
-#: workspace/settings/imports/dialog.cpp:175
+#: workspace/settings/imports/dialog.cpp:181
 msgid "Create"
 msgstr "Cruthaich"
 
