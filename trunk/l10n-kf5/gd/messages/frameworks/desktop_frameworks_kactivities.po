@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-11-05 10:00+0000\n"
+"POT-Creation-Date: 2015-11-10 10:40+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,7 +21,7 @@ msgctxt "Name"
 msgid "Activity Manager"
 msgstr "Manaidsear nan gnìomhachdan"
 
-#: src/service/files/kactivitymanagerd.desktop:63
+#: src/service/files/kactivitymanagerd.desktop:64
 msgctxt "Comment"
 msgid "The activity management backend"
 msgstr "Backend gus na gnìomhachdan a stiùireadh"
@@ -36,7 +36,7 @@ msgctxt "Name"
 msgid "Activity Templates"
 msgstr "Teamplaidean nan gnìomhachdan"
 
-#: src/service/plugins/activitytemplates/kactivitymanagerd-plugin-activitytemplates.desktop:46
+#: src/service/plugins/activitytemplates/kactivitymanagerd-plugin-activitytemplates.desktop:47
 msgctxt "Comment"
 msgid "Support for creating templated activities"
 msgstr "Taic gus gnìomhachdan a chruthachadh le teamplaidean"
@@ -46,7 +46,7 @@ msgctxt "Name"
 msgid "Event Spy"
 msgstr "Brathadair nan tachartasan"
 
-#: src/service/plugins/eventspy/kactivitymanagerd-plugin-eventspy.desktop:37
+#: src/service/plugins/eventspy/kactivitymanagerd-plugin-eventspy.desktop:38
 msgctxt "Comment"
 msgid ""
 "Collects events from applications that support recent documents specification"
@@ -59,7 +59,7 @@ msgctxt "Name"
 msgid "Global Shortcuts"
 msgstr "Ath-ghoiridean uile-choitcheann"
 
-#: src/service/plugins/globalshortcuts/kactivitymanagerd-plugin-globalshortcuts.desktop:53
+#: src/service/plugins/globalshortcuts/kactivitymanagerd-plugin-globalshortcuts.desktop:54
 msgctxt "Comment"
 msgid "Adds global keyboard shortcuts for activity switching"
 msgstr ""
@@ -71,7 +71,7 @@ msgctxt "Name"
 msgid "Share-Like-Connect"
 msgstr "Share-Like-Connect"
 
-#: src/service/plugins/slc/kactivitymanagerd-plugin-slc.desktop:51
+#: src/service/plugins/slc/kactivitymanagerd-plugin-slc.desktop:52
 msgctxt "Comment"
 msgid "Provides data to Share-Like-Connect applet"
 msgstr "Bheir seo dàta dhan aplaid Share-Like-Connect"
@@ -110,7 +110,7 @@ msgctxt "Name"
 msgid "Activities"
 msgstr "Gnìomhachdan"
 
-#: src/workspace/settings/kcm_activities.desktop:64
+#: src/workspace/settings/kcm_activities.desktop:65
 msgctxt "Comment"
 msgid "Activities help you to focus on a specific task"
 msgstr ""
