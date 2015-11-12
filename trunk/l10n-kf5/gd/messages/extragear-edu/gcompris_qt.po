@@ -1823,6 +1823,11 @@ msgstr ""
 "tu èisteachd ris an litir a-rithist ’s tu a’ briogadh air ìomhaigheag beòil "
 "sa bhogsa aig a’ bharr."
 
+#: activities/click_on_letter/ClickOnLetter.qml:112
+msgctxt "ClickOnLetter|"
+msgid "Select your locale"
+msgstr ""
+
 #: activities/click_on_letter_up/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Click on an uppercase letter"
