@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ICU\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-10-22 09:10+0000\n"
+"POT-Creation-Date: 2015-11-17 10:54+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -2008,7 +2008,7 @@ msgctxt "Comment"
 msgid "SSL Versions and Certificates"
 msgstr "Tionndaidhean agus teisteanasan SSL"
 
-#: src/kssl/kcm/kcm_ssl.desktop:145
+#: src/kssl/kcm/kcm_ssl.desktop:146
 msgctxt "X-KDE-Keywords"
 msgid "SSL,Security,Network,Protocol,Certificates,Encryption,HTTPS"
 msgstr ""
