@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-11-17 10:54+0000\n"
+"POT-Creation-Date: 2015-11-18 08:14+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -79,12 +79,12 @@ msgctxt "Name"
 msgid "Cache"
 msgstr "Tasgadan"
 
-#: src/kcms/kio/cache.desktop:101
+#: src/kcms/kio/cache.desktop:102
 msgctxt "Comment"
 msgid "Configure web cache settings"
 msgstr "Rèitich roghainnean an tasgadain-lìn"
 
-#: src/kcms/kio/cache.desktop:139
+#: src/kcms/kio/cache.desktop:140
 msgctxt "X-KDE-Keywords"
 msgid "Cache,History,Browsing History,Ports,Size"
 msgstr ""
@@ -113,14 +113,14 @@ msgctxt "Name"
 msgid "Connection Preferences"
 msgstr "Roghainnean ceangail"
 
-#: src/kcms/kio/netpref.desktop:97
+#: src/kcms/kio/netpref.desktop:98
 msgctxt "Comment"
 msgid "Configure generic network preferences, like timeout values"
 msgstr ""
 "Rèitich roghainnean coitcheann an lìonraidh, can cuin a dh'fhalbhas an ùine "
 "air nithean"
 
-#: src/kcms/kio/netpref.desktop:181
+#: src/kcms/kio/netpref.desktop:182
 msgctxt "X-KDE-Keywords"
 msgid "timeout,iopref,netpref,network preferences,ftp"
 msgstr ""
@@ -132,12 +132,12 @@ msgctxt "Name"
 msgid "Proxy"
 msgstr "Progsaidh"
 
-#: src/kcms/kio/proxy.desktop:100
+#: src/kcms/kio/proxy.desktop:101
 msgctxt "Comment"
 msgid "Configure the proxy servers used"
 msgstr "Rèitich na frithealaichean progsaidh a thèid a chleachdadh"
 
-#: src/kcms/kio/proxy.desktop:186
+#: src/kcms/kio/proxy.desktop:187
 msgctxt "X-KDE-Keywords"
 msgid "Proxy,Proxy server,Firewall,Squid"
 msgstr ""
