@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kactivities5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-11-08 08:26+0000\n"
+"POT-Creation-Date: 2015-11-19 09:05+0000\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -32,7 +32,7 @@ msgctxt "Header title for activity data model"
 msgid "Activity"
 msgstr "Gnìomhachd"
 
-#: service/Activities.cpp:139
+#: service/Activities.cpp:102
 msgid "Default"
 msgstr "Thùsail"
 

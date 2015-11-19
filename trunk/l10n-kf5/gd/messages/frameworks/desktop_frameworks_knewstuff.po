@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-11-18 08:14+0000\n"
+"POT-Creation-Date: 2015-11-19 09:45+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -38,6 +38,25 @@ msgstr ""
 "Pàirtich clàran-cruaidh (a' gabhail a-steach RAID, LVM is siostaman "
 "fhaidhlichean crioptaichte)"
 
+#: data/kmoretools-desktopfiles/giggle.desktop:3
+#: data/kmoretools-desktopfiles/gitg.desktop:3
+msgctxt "GenericName"
+msgid "Git repository viewer"
+msgstr "Sealladair ionadan-tasgaidh Git"
+
+#: data/kmoretools-desktopfiles/giggle.desktop:6
+msgctxt "Name"
+msgid "Giggle"
+msgstr ""
+
+#: data/kmoretools-desktopfiles/giggle.desktop:7
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Git repository viewer"
+msgctxt "Comment"
+msgid "Git repository viewer"
+msgstr "Sealladair ionadan-tasgaidh Git"
+
 #: data/kmoretools-desktopfiles/git-cola.desktop:2
 #: data/kmoretools-desktopfiles/git-cola-folder-handler.desktop:2
 msgctxt "Name"
@@ -53,11 +72,6 @@ msgstr "Eadar-aghaidh airson Git"
 msgctxt "Name"
 msgid "Git Cola (View History)"
 msgstr "Git Cola (Seall an eachdraidh)"
-
-#: data/kmoretools-desktopfiles/gitg.desktop:3
-msgctxt "GenericName"
-msgid "Git repository viewer"
-msgstr "Sealladair ionadan-tasgaidh Git"
 
 #: data/kmoretools-desktopfiles/gitg.desktop:34
 msgctxt "Name"
@@ -78,6 +92,16 @@ msgstr "gitk"
 msgctxt "GenericName"
 msgid "gitk"
 msgstr "gitk"
+
+#: data/kmoretools-desktopfiles/gnome-search-tool.desktop:3
+msgctxt "Name"
+msgid "Search for Files..."
+msgstr ""
+
+#: data/kmoretools-desktopfiles/gnome-search-tool.desktop:4
+msgctxt "Comment"
+msgid "Locate documents and folders on this computer by name or content"
+msgstr ""
 
 #: data/kmoretools-desktopfiles/gparted.desktop:4
 msgctxt "Name"
