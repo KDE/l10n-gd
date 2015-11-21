@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-11-05 10:00+0000\n"
+"POT-Creation-Date: 2015-11-21 12:52+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -341,18 +341,6 @@ msgctxt "Comment"
 msgid "Plasma Shell Components"
 msgstr "Cò-phàirtean Plasma Shell"
 
-#: src/platformstatus/platformstatus.desktop:8
-msgctxt "Name"
-msgid "Platform Status"
-msgstr "Staid an ùrlair"
-
-#: src/platformstatus/platformstatus.desktop:47
-msgctxt "Comment"
-msgid "Tracks the current shell package and the platform definition strings."
-msgstr ""
-"Nì seo tracadh air pacaid a' shell làithreach 's air na sreangan a "
-"mhìnicheas an t-ùrlar."
-
 #: src/scriptengines/python/plasma-scriptengine-dataengine-python.desktop:2
 msgctxt "Name"
 msgid "Python data engine"
@@ -402,6 +390,17 @@ msgstr "Plasma widget tùsail a chaidh a sgrìobhadh le Ruby"
 msgctxt "Name"
 msgid "Test Data Engine"
 msgstr "Inneal-dàta a chum deuchainn"
+
+#~ msgctxt "Name"
+#~ msgid "Platform Status"
+#~ msgstr "Staid an ùrlair"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Tracks the current shell package and the platform definition strings."
+#~ msgstr ""
+#~ "Nì seo tracadh air pacaid a' shell làithreach 's air na sreangan a "
+#~ "mhìnicheas an t-ùrlar."
 
 #~ msgctxt "Comment"
 #~ msgid "Plasma Workspace"
