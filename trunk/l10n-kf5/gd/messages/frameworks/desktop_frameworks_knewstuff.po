@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-11-24 08:53+0000\n"
+"POT-Creation-Date: 2015-11-26 14:22+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,7 +21,7 @@ msgctxt "Name"
 msgid "Catfish"
 msgstr "Catfish"
 
-#: data/kmoretools-desktopfiles/catfish.desktop:37
+#: data/kmoretools-desktopfiles/catfish.desktop:38
 msgctxt "Comment"
 msgid "File search"
 msgstr "Lorg fhaidhlichean"
@@ -31,7 +31,7 @@ msgctxt "Name"
 msgid "Partitioner"
 msgstr "Inneal-pàirteachaidh"
 
-#: data/kmoretools-desktopfiles/disk.desktop:51
+#: data/kmoretools-desktopfiles/disk.desktop:52
 msgctxt "GenericName"
 msgid "Partition hard disks (including RAID, LVM, and encrypted file systems)"
 msgstr ""
@@ -44,12 +44,12 @@ msgctxt "GenericName"
 msgid "Git repository viewer"
 msgstr "Sealladair ionadan-tasgaidh Git"
 
-#: data/kmoretools-desktopfiles/giggle.desktop:36
+#: data/kmoretools-desktopfiles/giggle.desktop:37
 msgctxt "Name"
 msgid "Giggle"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/giggle.desktop:48
+#: data/kmoretools-desktopfiles/giggle.desktop:53
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Git repository viewer"
@@ -63,7 +63,7 @@ msgctxt "Name"
 msgid "Git Cola"
 msgstr "Git Cola"
 
-#: data/kmoretools-desktopfiles/git-cola.desktop:33
+#: data/kmoretools-desktopfiles/git-cola.desktop:34
 msgctxt "Comment"
 msgid "The highly caffeinated Git GUI"
 msgstr "Eadar-aghaidh airson Git"
@@ -73,12 +73,12 @@ msgctxt "Name"
 msgid "Git Cola (View History)"
 msgstr "Git Cola (Seall an eachdraidh)"
 
-#: data/kmoretools-desktopfiles/gitg.desktop:34
+#: data/kmoretools-desktopfiles/gitg.desktop:35
 msgctxt "Name"
 msgid "gitg"
 msgstr "gitg"
 
-#: data/kmoretools-desktopfiles/gitg.desktop:65
+#: data/kmoretools-desktopfiles/gitg.desktop:67
 msgctxt "Comment"
 msgid "Git repository browser"
 msgstr "Brabhsair ionadan-tasgaidh Git"
@@ -88,7 +88,7 @@ msgctxt "Name"
 msgid "gitk"
 msgstr "gitk"
 
-#: data/kmoretools-desktopfiles/gitk.kmt-edition.desktop:36
+#: data/kmoretools-desktopfiles/gitk.kmt-edition.desktop:37
 msgctxt "GenericName"
 msgid "gitk"
 msgstr "gitk"
@@ -98,7 +98,7 @@ msgctxt "Name"
 msgid "Search for Files..."
 msgstr ""
 
-#: data/kmoretools-desktopfiles/gnome-search-tool.desktop:15
+#: data/kmoretools-desktopfiles/gnome-search-tool.desktop:19
 msgctxt "Comment"
 msgid "Locate documents and folders on this computer by name or content"
 msgstr ""
@@ -108,13 +108,13 @@ msgctxt "Name"
 msgid "GParted"
 msgstr "GParted"
 
-#: data/kmoretools-desktopfiles/gparted.desktop:35
-#: data/kmoretools-desktopfiles/org.kde.PartitionManager.desktop:34
+#: data/kmoretools-desktopfiles/gparted.desktop:36
+#: data/kmoretools-desktopfiles/org.kde.PartitionManager.desktop:35
 msgctxt "GenericName"
 msgid "Partition Editor"
 msgstr "Deasaiche pàirteachaidh"
 
-#: data/kmoretools-desktopfiles/gparted.desktop:118
+#: data/kmoretools-desktopfiles/gparted.desktop:120
 msgctxt "Comment"
 msgid "Create, reorganize, and delete partitions"
 msgstr "Cruthaich no sguab pàirteachaidhean às no cuir rian ùr orra"
@@ -124,12 +124,12 @@ msgctxt "Name"
 msgid "HotShots"
 msgstr "HotShots"
 
-#: data/kmoretools-desktopfiles/hotshots.desktop:32
+#: data/kmoretools-desktopfiles/hotshots.desktop:33
 msgctxt "Comment"
 msgid "Screenshot manager"
 msgstr "Stiùiriche ghlacaidhean-sgrìn"
 
-#: data/kmoretools-desktopfiles/hotshots.desktop:64
+#: data/kmoretools-desktopfiles/hotshots.desktop:66
 msgctxt "GenericName"
 msgid "Screenshot manager"
 msgstr "Stiùiriche ghlacaidhean-sgrìn"
@@ -139,12 +139,12 @@ msgctxt "Name"
 msgid "Htop"
 msgstr "Htop"
 
-#: data/kmoretools-desktopfiles/htop.desktop:35
+#: data/kmoretools-desktopfiles/htop.desktop:36
 msgctxt "Comment"
 msgid "Show System Processes"
 msgstr "Seall pròiseasan an t-siostaim"
 
-#: data/kmoretools-desktopfiles/htop.desktop:69
+#: data/kmoretools-desktopfiles/htop.desktop:71
 msgctxt "GenericName"
 msgid "Process Viewer"
 msgstr "Sealladair phròiseasan"
@@ -154,7 +154,7 @@ msgctxt "Name"
 msgid "Kaption"
 msgstr "Kaption"
 
-#: data/kmoretools-desktopfiles/kaption.desktop:33
+#: data/kmoretools-desktopfiles/kaption.desktop:34
 msgctxt "Comment"
 msgid "Screen capture and editor"
 msgstr "Tog is deasaich glacaidhean-sgrìn"
@@ -164,7 +164,7 @@ msgctxt "Name"
 msgid "KDiskFree"
 msgstr "KDiskFree"
 
-#: data/kmoretools-desktopfiles/kdf.desktop:36
+#: data/kmoretools-desktopfiles/kdf.desktop:37
 msgctxt "GenericName"
 msgid "View Disk Usage"
 msgstr "Seall cleachdadh nan diosgan"
@@ -174,12 +174,12 @@ msgctxt "Name"
 msgid "KSystemLog"
 msgstr "KSystemLog"
 
-#: data/kmoretools-desktopfiles/ksystemlog.desktop:39
+#: data/kmoretools-desktopfiles/ksystemlog.desktop:40
 msgctxt "Comment"
 msgid "System log viewer tool"
 msgstr "Sealladair airson logaichean an t-siostaim"
 
-#: data/kmoretools-desktopfiles/ksystemlog.desktop:71
+#: data/kmoretools-desktopfiles/ksystemlog.desktop:73
 msgctxt "GenericName"
 msgid "System Log Viewer"
 msgstr "Sealladair logaichean an t-siostaim"
@@ -189,19 +189,19 @@ msgctxt "Name"
 msgid "Clocks"
 msgstr "Uaireadairean"
 
-#: data/kmoretools-desktopfiles/org.gnome.clocks.desktop:34
+#: data/kmoretools-desktopfiles/org.gnome.clocks.desktop:35
 msgctxt "GenericName"
 msgid "Clocks"
 msgstr "Uaireadairean"
 
-#: data/kmoretools-desktopfiles/org.gnome.clocks.desktop:131
+#: data/kmoretools-desktopfiles/org.gnome.clocks.desktop:133
 msgctxt "Comment"
 msgid "Clocks for world times, plus alarms, stopwatch and a timer"
 msgstr ""
 "Uaireadairean airson àm an t-saoghail le caismeachdan, stad-uaireadair 's "
 "tìmear"
 
-#: data/kmoretools-desktopfiles/org.gnome.clocks.desktop:161
+#: data/kmoretools-desktopfiles/org.gnome.clocks.desktop:164
 msgctxt "Keywords"
 msgid "time;timer;alarm;world clock;stopwatch;time zone;"
 msgstr ""
@@ -213,12 +213,12 @@ msgctxt "Name"
 msgid "Filelight"
 msgstr "Filelight"
 
-#: data/kmoretools-desktopfiles/org.kde.filelight.desktop:34
+#: data/kmoretools-desktopfiles/org.kde.filelight.desktop:35
 msgctxt "GenericName"
 msgid "Disk Usage Statistics"
 msgstr "Stadastaireachd air cleachdadh nan diosgan"
 
-#: data/kmoretools-desktopfiles/org.kde.filelight.desktop:68
+#: data/kmoretools-desktopfiles/org.kde.filelight.desktop:70
 msgctxt "Comment"
 msgid "View disk usage information"
 msgstr "Seall fiosrachadh air cleachdadh nan diosgan"
@@ -233,7 +233,7 @@ msgctxt "GenericName"
 msgid "Screenshot Capture Utility"
 msgstr "Goireas gus glacaidhean-sgrìn a thogail"
 
-#: data/kmoretools-desktopfiles/org.kde.kscreengenie.desktop:32
+#: data/kmoretools-desktopfiles/org.kde.kscreengenie.desktop:33
 msgctxt "Name"
 msgid "KScreenGenie"
 msgstr "KScreenGenie"
@@ -243,7 +243,7 @@ msgctxt "GenericName"
 msgid "Screen Capture Program"
 msgstr "Prògram ghlacaidhean-sgrìn"
 
-#: data/kmoretools-desktopfiles/org.kde.ksnapshot.desktop:32
+#: data/kmoretools-desktopfiles/org.kde.ksnapshot.desktop:33
 msgctxt "Name"
 msgid "KSnapshot"
 msgstr "KSnapshot"
@@ -253,7 +253,7 @@ msgctxt "Name"
 msgid "KSysGuard"
 msgstr "KSysGuard"
 
-#: data/kmoretools-desktopfiles/org.kde.ksysguard.desktop:33
+#: data/kmoretools-desktopfiles/org.kde.ksysguard.desktop:34
 msgctxt "GenericName"
 msgid "System Monitor"
 msgstr "Monatair an t-siostaim"
@@ -263,7 +263,7 @@ msgctxt "GenericName"
 msgid "Countdown Launcher"
 msgstr "Lòinsear cunntaidh sìos"
 
-#: data/kmoretools-desktopfiles/org.kde.ktimer.desktop:36
+#: data/kmoretools-desktopfiles/org.kde.ktimer.desktop:37
 msgctxt "Name"
 msgid "KTimer"
 msgstr "KTimer"
@@ -273,7 +273,7 @@ msgctxt "Name"
 msgid "KDE Partition Manager"
 msgstr "Manaidsear phàirteachaidhean KDE"
 
-#: data/kmoretools-desktopfiles/org.kde.PartitionManager.desktop:65
+#: data/kmoretools-desktopfiles/org.kde.PartitionManager.desktop:67
 msgctxt "Comment"
 msgid "Manage disks, partitions and file systems"
 msgstr "Stiùirich diosgan, pàirteachaidhean is siostaman fhaidhlichean"
@@ -283,12 +283,12 @@ msgctxt "Comment"
 msgid "List and preview available icons"
 msgstr "Seall liosta dhe na h-ìomhaighean ri am faighinn le ro-shealladh"
 
-#: data/kmoretools-desktopfiles/org.kde.plasma.cuttlefish.kmt-edition.desktop:34
+#: data/kmoretools-desktopfiles/org.kde.plasma.cuttlefish.kmt-edition.desktop:35
 msgctxt "GenericName"
 msgid "Icon Browser"
 msgstr "Brabhsair nan ìomhaigheagan"
 
-#: data/kmoretools-desktopfiles/org.kde.plasma.cuttlefish.kmt-edition.desktop:67
+#: data/kmoretools-desktopfiles/org.kde.plasma.cuttlefish.kmt-edition.desktop:69
 msgctxt "Name"
 msgid "Cuttlefish"
 msgstr "Cuttlefish"
@@ -298,12 +298,12 @@ msgctxt "Name"
 msgid "QGit"
 msgstr "QGit"
 
-#: data/kmoretools-desktopfiles/qgit.kmt-edition.desktop:41
+#: data/kmoretools-desktopfiles/qgit.kmt-edition.desktop:42
 msgctxt "GenericName"
 msgid "QGit"
 msgstr "QGit"
 
-#: data/kmoretools-desktopfiles/qgit.kmt-edition.desktop:72
+#: data/kmoretools-desktopfiles/qgit.kmt-edition.desktop:74
 msgctxt "Comment"
 msgid "git repository browser"
 msgstr "brabhsair ionadan-tasgaidh Git"
@@ -313,12 +313,12 @@ msgctxt "Name"
 msgid "Shutter"
 msgstr "Shutter"
 
-#: data/kmoretools-desktopfiles/shutter.desktop:37
+#: data/kmoretools-desktopfiles/shutter.desktop:38
 msgctxt "GenericName"
 msgid "Screenshot Tool"
 msgstr "Inneal ghlacaidhean-sgrìn"
 
-#: data/kmoretools-desktopfiles/shutter.desktop:68
+#: data/kmoretools-desktopfiles/shutter.desktop:70
 msgctxt "Comment"
 msgid "Capture, edit and share screenshots"
 msgstr "Tog, deasaich is co-roinn glacaidhean-sgrìn"
@@ -328,12 +328,12 @@ msgctxt "Name"
 msgid "Task Manager"
 msgstr "Manaidsear nan saothair"
 
-#: data/kmoretools-desktopfiles/xfce4-taskmanager.desktop:33
+#: data/kmoretools-desktopfiles/xfce4-taskmanager.desktop:34
 msgctxt "Comment"
 msgid "Easy to use task manager"
 msgstr "Manaidsear nan saothair a tha furasta cleachdadh"
 
-#: data/kmoretools-desktopfiles/xfce4-taskmanager.desktop:63
+#: data/kmoretools-desktopfiles/xfce4-taskmanager.desktop:65
 msgctxt "GenericName"
 msgid "Task Manager"
 msgstr "Manaidsear nan saothair"
