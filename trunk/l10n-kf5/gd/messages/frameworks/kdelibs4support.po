@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4support\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-05-03 08:52+0000\n"
+"POT-Creation-Date: 2015-11-28 07:24+0000\n"
 "PO-Revision-Date: 2015-11-04 15:12+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -6050,6 +6050,12 @@ msgstr "Qt"
 #: kdecore/kcmdlineargs.cpp:500
 msgid "KDE"
 msgstr "KDE"
+
+#: kdecore/kcmdlineargs.cpp:821 kdecore/kcmdlineargs.cpp:835
+#, fuzzy, kde-format
+#| msgid "ERROR: Unknown protocol '%1'"
+msgid "Unknown option '%1'."
+msgstr "MEARACHD: Pròtacal \"%1\" nach aithne dhuinn"
 
 #: kdecore/kcmdlineargs.cpp:841
 #, kde-format
