@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-11-21 12:52+0000\n"
+"POT-Creation-Date: 2015-12-01 08:57+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -385,6 +385,18 @@ msgstr "Ruby Widget"
 msgctxt "Comment"
 msgid "Native Plasma widget written in Ruby"
 msgstr "Plasma widget tùsail a chaidh a sgrìobhadh le Ruby"
+
+#: templates/cpp-plasmoid/src/package/metadata.desktop:2
+#: templates/qml-plasmoid/package/metadata.desktop:2
+msgctxt "Name"
+msgid "%{APPNAME}"
+msgstr ""
+
+#: templates/cpp-plasmoid/src/package/metadata.desktop:3
+#: templates/qml-plasmoid/package/metadata.desktop:51
+msgctxt "Comment"
+msgid "what your app does in a few words"
+msgstr ""
 
 #: tests/testengine/plasma-dataengine-testengine.desktop:2
 msgctxt "Name"

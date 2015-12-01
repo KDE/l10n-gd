@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-11-30 08:34+0000\n"
+"POT-Creation-Date: 2015-12-01 08:57+0000\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -198,17 +198,17 @@ msgctxt "Name"
 msgid "Widget failed to install"
 msgstr ""
 
-#: plasma_workspace.notifyrc:1474
+#: plasma_workspace.notifyrc:1479
 msgctxt "Comment"
 msgid "A widget could not be installed"
 msgstr ""
 
-#: plasma_workspace.notifyrc:1494
+#: plasma_workspace.notifyrc:1504
 msgctxt "Name"
 msgid "Widget deleted"
 msgstr "Chaidh widget a sguabadh às"
 
-#: plasma_workspace.notifyrc:1530
+#: plasma_workspace.notifyrc:1540
 msgctxt "Comment"
 msgid "A widget has been deleted"
 msgstr "Chaidh widget a sguabadh às"
