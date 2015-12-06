@@ -1034,14 +1034,22 @@ msgstr ""
 #: activities/balancebox/editor/balanceboxeditor.js:158
 #, qt-format
 msgctxt "balanceboxeditor|"
-msgid "Error saving %1 levels to your levels file (%2)"
-msgstr ""
+msgid "Error saving %n level(s) to your levels file (%1)"
+msgid_plural "Error saving %n level(s) to your levels file (%1)"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: activities/balancebox/editor/balanceboxeditor.js:163
 #, qt-format
 msgctxt "balanceboxeditor|"
-msgid "Saved %1 levels to your levels file (%2)"
-msgstr ""
+msgid "Saved %n level(s) to your levels file (%1)"
+msgid_plural "Saved %n level(s) to your levels file (%1)"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: activities/balancebox/editor/balanceboxeditor.js:277
 msgctxt "balanceboxeditor|"
