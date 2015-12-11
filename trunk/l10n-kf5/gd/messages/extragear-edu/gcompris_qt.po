@@ -958,8 +958,8 @@ msgstr ""
 #: activities/balancebox/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
 msgid ""
-"Navigate the ball to the door. Be careful to not make it fall into the "
-"holes. Numbered contact buttons in the box need to be touched in the correct "
+"Navigate the ball to the door. Be careful not to make it fall into the "
+"holes. Numbered-contact buttons in the box need to be touched in the correct "
 "order to unlock the door. You can move the ball by tilting your mobile "
 "device. On desktop platforms use the arrow keys to simulate tilting.\n"
 "\n"
@@ -980,7 +980,7 @@ msgid ""
 "    Door: Set the door position\n"
 "    Contact: Set/remove a contact button. With the spin-box you can adjust "
 "the value of the contact button. It is not possible to set a value more than "
-"one time on a map.\n"
+"once on a map.\n"
 "All tools (except the clear-tool) toggle their respective target on the "
 "clicked cell: An item can be placed by clicking on an empty cell, and by "
 "clicking again on the same cell with the same tool, you can remove it "
@@ -7704,6 +7704,7 @@ msgid "Read a list of words and work out if a given word is in it."
 msgstr ""
 
 #: activities/readingh/ActivityInfo.qml:29
+#: activities/readingv/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Reading training in a limited time"
 msgstr ""
@@ -7749,11 +7750,6 @@ msgstr "Cleachdaich leughadh"
 #: activities/readingv/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Read a vertical list of words and work out if a given word is in it."
-msgstr ""
-
-#: activities/readingv/ActivityInfo.qml:29
-msgctxt "ActivityInfo|"
-msgid "Read training in a limited time"
 msgstr ""
 
 #: activities/redraw/ActivityInfo.qml:26
@@ -7802,8 +7798,8 @@ msgstr ""
 #: activities/renewable_energy/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid ""
-"Tux has come back from a long fishing party on his boat. Bring the "
-"electrical system back up so he can have light in his home. "
+"Tux has come back from fishing on his boat. Bring the electrical system back "
+"up so he can have light in his home. "
 msgstr ""
 
 #: activities/renewable_energy/ActivityInfo.qml:29
@@ -7831,8 +7827,8 @@ msgstr "Tarraing le Stephane Cabaraux."
 #: activities/renewable_energy/RenewableEnergy.qml:157
 msgctxt "RenewableEnergy|"
 msgid ""
-"Tux has come back from a long fishing party on his boat. Bring the "
-"electrical system back up so he can have light in his home."
+"Tux has come back from fishing on his boat. Bring the electrical system back "
+"up so he can have light in his home."
 msgstr ""
 
 #: activities/renewable_energy/RenewableEnergy.qml:159
@@ -8467,8 +8463,8 @@ msgstr ""
 #: activities/watercycle/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid ""
-"Tux has come back from a long fishing party on his boat. Bring the water "
-"system back up so he can take a shower."
+"Tux has come back from fishing on his boat. Bring the water system back up "
+"so he can take a shower."
 msgstr ""
 
 #: activities/watercycle/ActivityInfo.qml:29
@@ -8500,8 +8496,8 @@ msgstr ""
 #: activities/watercycle/Watercycle.qml:60
 msgctxt "Watercycle|"
 msgid ""
-" Water vapor condenses to form cloud and when clouds become heavy, they "
-"rain. Click on the cloud."
+" Water vapor condenses to form cloud and when clouds become heavy, it rains. "
+"Click on the cloud."
 msgstr ""
 
 #: activities/watercycle/Watercycle.qml:61
