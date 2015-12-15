@@ -1031,7 +1031,7 @@ msgctxt "Balancebox|"
 msgid "Ok"
 msgstr ""
 
-#: activities/balancebox/editor/balanceboxeditor.js:158
+#: activities/balancebox/editor/balanceboxeditor.js:160
 #, qt-format
 msgctxt "balanceboxeditor|"
 msgid "Error saving %n level(s) to your levels file (%1)"
@@ -1041,7 +1041,7 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-#: activities/balancebox/editor/balanceboxeditor.js:163
+#: activities/balancebox/editor/balanceboxeditor.js:167
 #, qt-format
 msgctxt "balanceboxeditor|"
 msgid "Saved %n level(s) to your levels file (%1)"
@@ -1051,18 +1051,18 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-#: activities/balancebox/editor/balanceboxeditor.js:277
+#: activities/balancebox/editor/balanceboxeditor.js:281
 msgctxt "balanceboxeditor|"
 msgid ""
 "You have unsaved changes!<br/> Really leave this level and lose changes?"
 msgstr ""
 
-#: activities/balancebox/editor/balanceboxeditor.js:279
+#: activities/balancebox/editor/balanceboxeditor.js:283
 msgctxt "balanceboxeditor|"
 msgid "Yes"
 msgstr ""
 
-#: activities/balancebox/editor/balanceboxeditor.js:284
+#: activities/balancebox/editor/balanceboxeditor.js:288
 msgctxt "balanceboxeditor|"
 msgid "No"
 msgstr ""

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-11-10 10:40+0000\n"
+"POT-Creation-Date: 2015-12-15 08:49+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -30,75 +30,6 @@ msgstr "Backend gus na gnìomhachdan a stiùireadh"
 msgctxt "Comment"
 msgid "Activity manager plugin"
 msgstr "Plugan manaidsear nan gnìomhachdan"
-
-#: src/service/plugins/activitytemplates/kactivitymanagerd-plugin-activitytemplates.desktop:2
-msgctxt "Name"
-msgid "Activity Templates"
-msgstr "Teamplaidean nan gnìomhachdan"
-
-#: src/service/plugins/activitytemplates/kactivitymanagerd-plugin-activitytemplates.desktop:47
-msgctxt "Comment"
-msgid "Support for creating templated activities"
-msgstr "Taic gus gnìomhachdan a chruthachadh le teamplaidean"
-
-#: src/service/plugins/eventspy/kactivitymanagerd-plugin-eventspy.desktop:2
-msgctxt "Name"
-msgid "Event Spy"
-msgstr "Brathadair nan tachartasan"
-
-#: src/service/plugins/eventspy/kactivitymanagerd-plugin-eventspy.desktop:38
-msgctxt "Comment"
-msgid ""
-"Collects events from applications that support recent documents specification"
-msgstr ""
-"Cruinnichidh e tachartasan o aplacaidean a chuireas taic ri sònrachadh nan "
-"sgrìobhainnean o chionn goirid"
-
-#: src/service/plugins/globalshortcuts/kactivitymanagerd-plugin-globalshortcuts.desktop:2
-msgctxt "Name"
-msgid "Global Shortcuts"
-msgstr "Ath-ghoiridean uile-choitcheann"
-
-#: src/service/plugins/globalshortcuts/kactivitymanagerd-plugin-globalshortcuts.desktop:54
-msgctxt "Comment"
-msgid "Adds global keyboard shortcuts for activity switching"
-msgstr ""
-"Cuiridh seo ath-ghoiridean meur-chlàir uile-choitcheann ris gus leam a "
-"ghearradh eadar gnìomhachdan"
-
-#: src/service/plugins/slc/kactivitymanagerd-plugin-slc.desktop:2
-msgctxt "Name"
-msgid "Share-Like-Connect"
-msgstr "Share-Like-Connect"
-
-#: src/service/plugins/slc/kactivitymanagerd-plugin-slc.desktop:52
-msgctxt "Comment"
-msgid "Provides data to Share-Like-Connect applet"
-msgstr "Bheir seo dàta dhan aplaid Share-Like-Connect"
-
-#: src/service/plugins/sqlite/kactivitymanagerd-plugin-sqlite.desktop:2
-msgctxt "Name"
-msgid "Sqlite Feeder"
-msgstr "Inbhir Sqlite"
-
-#: src/service/plugins/sqlite/kactivitymanagerd-plugin-sqlite.desktop:52
-msgctxt "Comment"
-msgid "Plugin to store and score events in Sqlite"
-msgstr "Plugan gus tachartasan a ghlèidheadh 's a rangachadh ann an Sqlite"
-
-#: src/service/plugins/virtualdesktopswitch/kactivitymanagerd-plugin-virtualdesktopswitch.desktop:2
-msgctxt "Name"
-msgid "Virtual desktop switcher"
-msgstr "Suidsear nan deasgan bhiortail"
-
-#: src/service/plugins/virtualdesktopswitch/kactivitymanagerd-plugin-virtualdesktopswitch.desktop:53
-msgctxt "Comment"
-msgid ""
-"When switching to an activity, opens the virtual desktop last used with that "
-"activity"
-msgstr ""
-"Nuair a ghearras tu leum gu gnìomhachd eile, thèid an deasg bhiortail "
-"fhosgladh a chleachd thu leis a' ghnìomhachd sin an turas mu dheireadh"
 
 #: src/workspace/fileitemplugin/kactivitymanagerd_fileitem_linking_plugin.desktop:4
 msgctxt "Name"
@@ -129,6 +60,64 @@ msgstr "Seall deuchainn air na gnìomhachdan"
 msgctxt "Comment"
 msgid "Strange, but not a Clock"
 msgstr "Neònach ach chan e uaireadair a th' ann"
+
+#~ msgctxt "Name"
+#~ msgid "Activity Templates"
+#~ msgstr "Teamplaidean nan gnìomhachdan"
+
+#~ msgctxt "Comment"
+#~ msgid "Support for creating templated activities"
+#~ msgstr "Taic gus gnìomhachdan a chruthachadh le teamplaidean"
+
+#~ msgctxt "Name"
+#~ msgid "Event Spy"
+#~ msgstr "Brathadair nan tachartasan"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Collects events from applications that support recent documents "
+#~ "specification"
+#~ msgstr ""
+#~ "Cruinnichidh e tachartasan o aplacaidean a chuireas taic ri sònrachadh "
+#~ "nan sgrìobhainnean o chionn goirid"
+
+#~ msgctxt "Name"
+#~ msgid "Global Shortcuts"
+#~ msgstr "Ath-ghoiridean uile-choitcheann"
+
+#~ msgctxt "Comment"
+#~ msgid "Adds global keyboard shortcuts for activity switching"
+#~ msgstr ""
+#~ "Cuiridh seo ath-ghoiridean meur-chlàir uile-choitcheann ris gus leam a "
+#~ "ghearradh eadar gnìomhachdan"
+
+#~ msgctxt "Name"
+#~ msgid "Share-Like-Connect"
+#~ msgstr "Share-Like-Connect"
+
+#~ msgctxt "Comment"
+#~ msgid "Provides data to Share-Like-Connect applet"
+#~ msgstr "Bheir seo dàta dhan aplaid Share-Like-Connect"
+
+#~ msgctxt "Name"
+#~ msgid "Sqlite Feeder"
+#~ msgstr "Inbhir Sqlite"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin to store and score events in Sqlite"
+#~ msgstr "Plugan gus tachartasan a ghlèidheadh 's a rangachadh ann an Sqlite"
+
+#~ msgctxt "Name"
+#~ msgid "Virtual desktop switcher"
+#~ msgstr "Suidsear nan deasgan bhiortail"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "When switching to an activity, opens the virtual desktop last used with "
+#~ "that activity"
+#~ msgstr ""
+#~ "Nuair a ghearras tu leum gu gnìomhachd eile, thèid an deasg bhiortail "
+#~ "fhosgladh a chleachd thu leis a' ghnìomhachd sin an turas mu dheireadh"
 
 #~ msgctxt "Comment"
 #~ msgid "Configure the activities system"
