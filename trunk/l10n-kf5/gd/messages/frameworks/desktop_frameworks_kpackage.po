@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-11-06 09:59+0000\n"
+"POT-Creation-Date: 2015-12-16 07:30+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -15,6 +15,16 @@ msgstr ""
 "(n > 2 && n < 20) ? 2 : 3;\n"
 "X-Generator: Poedit 1.8.4\n"
 "X-Project-Style: kde\n"
+
+#: autotests/data/customcontent/metadata.desktop:4
+msgctxt "Name"
+msgid "Custom Content"
+msgstr ""
+
+#: autotests/data/simplecontent/metadata.desktop:4
+msgctxt "Name"
+msgid "Simple Content"
+msgstr ""
 
 #: autotests/data/testfallbackpackage/metadata.desktop:4
 msgctxt "Name"

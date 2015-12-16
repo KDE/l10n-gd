@@ -832,6 +832,28 @@ msgstr ""
 "a/à/b/bh/c/ch/d/dh/e/è/f/fh/g/gh/i/ì/l/ll/m/mh/n/nn/o/ò/p/ph/r/rr/s/sh/t/th/"
 "u/ù"
 
+#: activities/baby_wordprocessor/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "A baby wordprocessor"
+msgstr ""
+
+#: activities/baby_wordprocessor/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid ""
+"A simplistic word processor to let the children play around with a keyboard "
+"and see letters."
+msgstr ""
+
+#: activities/baby_wordprocessor/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid "Discover the keyboard and the letters."
+msgstr ""
+
+#: activities/baby_wordprocessor/ActivityInfo.qml:31
+msgctxt "ActivityInfo|"
+msgid "Just type on the real or virtual keyboard like in a wordprocessor."
+msgstr ""
+
 #: activities/babymatch/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Matching Items"
