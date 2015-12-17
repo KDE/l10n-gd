@@ -854,6 +854,21 @@ msgctxt "ActivityInfo|"
 msgid "Just type on the real or virtual keyboard like in a wordprocessor."
 msgstr ""
 
+#: activities/baby_wordprocessor/BabyWordprocessor.qml:61
+msgctxt "BabyWordprocessor|"
+msgid "Title"
+msgstr ""
+
+#: activities/baby_wordprocessor/BabyWordprocessor.qml:68
+msgctxt "BabyWordprocessor|"
+msgid "Subtitle"
+msgstr ""
+
+#: activities/baby_wordprocessor/BabyWordprocessor.qml:75
+msgctxt "BabyWordprocessor|"
+msgid "Paragraph"
+msgstr ""
+
 #: activities/babymatch/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Matching Items"
@@ -8880,42 +8895,42 @@ msgctxt "LanguageList|"
 msgid "Your system default"
 msgstr ""
 
-#: core/main.cpp:135
+#: core/main.cpp:144
 msgctxt "QObject|"
 msgid "Run GCompris with the default system cursor."
 msgstr ""
 
-#: core/main.cpp:138
+#: core/main.cpp:147
 msgctxt "QObject|"
 msgid "Run GCompris without cursor (touch screen mode)."
 msgstr ""
 
-#: core/main.cpp:141
+#: core/main.cpp:150
 msgctxt "QObject|"
 msgid "Run GCompris in fullscreen mode."
 msgstr ""
 
-#: core/main.cpp:144
+#: core/main.cpp:153
 msgctxt "QObject|"
 msgid "Run GCompris in window mode."
 msgstr ""
 
-#: core/main.cpp:147
+#: core/main.cpp:156
 msgctxt "QObject|"
 msgid "Run GCompris with sound enabled."
 msgstr ""
 
-#: core/main.cpp:150
+#: core/main.cpp:159
 msgctxt "QObject|"
 msgid "Run GCompris without sound."
 msgstr ""
 
-#: core/main.cpp:153
+#: core/main.cpp:162
 msgctxt "QObject|"
 msgid "Disable the configuration button."
 msgstr ""
 
-#: core/main.cpp:156
+#: core/main.cpp:165
 msgctxt "QObject|"
 msgid "Enable the configuration button (default)."
 msgstr ""
