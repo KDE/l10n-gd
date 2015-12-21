@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-12-16 07:04+0000\n"
+"POT-Creation-Date: 2015-12-21 07:56+0000\n"
 "PO-Revision-Date: 2015-11-04 15:14+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -931,43 +931,43 @@ msgstr "Suidsear nan uinneagan"
 msgid "Main Script for Window Switcher"
 msgstr "Prìomh-sgriobt airson suidsear nan uinneagan"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:484
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:485
 msgid "Fetching file type..."
 msgstr "A' faighinn seòrsa an fhaidhle..."
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:623
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:624
 #, fuzzy
 #| msgid "Plasma Package Manager"
 msgid "Plasma Package"
 msgstr "Manaidsear pacaidean Plasma"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:624
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:625
 msgid "Install"
 msgstr ""
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:628
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:629
 msgid "Widgets"
 msgstr "Widgets"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:641
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:642
 msgid "Icon"
 msgstr "Ìomhaigheag"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:645
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:646
 msgid "Wallpaper"
 msgstr "Pàipear-balla"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:691
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:692
 #, fuzzy
 #| msgid "Script initialization failed"
 msgid "Package Installation Failed"
 msgstr "Dh'fhàillig le tòiseachadh an sgriobt"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:710
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:711
 msgid "The package you just dropped is invalid."
 msgstr ""
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:1000
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:1009
 #, kde-format
 msgctxt "%1 is the name of the containment"
 msgid "%1 Options"
