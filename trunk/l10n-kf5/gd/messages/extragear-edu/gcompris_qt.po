@@ -1444,17 +1444,17 @@ msgctxt "chess|"
 msgid "Invalid, your king may be in check"
 msgstr ""
 
-#: activities/chess/Chess.qml:133
+#: activities/chess/Chess.qml:143
 msgctxt "Chess|"
 msgid "Undo"
 msgstr ""
 
-#: activities/chess/Chess.qml:150
+#: activities/chess/Chess.qml:159
 msgctxt "Chess|"
 msgid "Redo"
 msgstr ""
 
-#: activities/chess/Chess.qml:166
+#: activities/chess/Chess.qml:174
 msgctxt "Chess|"
 msgid "Swap"
 msgstr ""
