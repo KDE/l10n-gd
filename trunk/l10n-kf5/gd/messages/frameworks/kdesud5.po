@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-11-13 07:46+0000\n"
+"POT-Creation-Date: 2015-12-25 07:06+0000\n"
 "PO-Revision-Date: 2015-11-04 15:12+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -27,22 +27,22 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "fios@foramnagaidhlig.net"
 
-#: kdesud.cpp:263
+#: kdesud.cpp:272
 msgid "KDE su daemon"
 msgstr "Daemon su airson KDE"
 
-#: kdesud.cpp:264
+#: kdesud.cpp:273
 msgid "Daemon used by kdesu"
 msgstr "An daemon a chleachdas kdesu"
 
-#: kdesud.cpp:266
+#: kdesud.cpp:275
 msgid "Copyright (c) 1999,2000 Geert Jansen"
 msgstr "Còir-lethbhreac (c) 1999,2000 Geert Jansen"
 
-#: kdesud.cpp:267
+#: kdesud.cpp:276
 msgid "Geert Jansen"
 msgstr "Geert Jansen"
 
-#: kdesud.cpp:267
+#: kdesud.cpp:276
 msgid "Author"
 msgstr "Ùghdar"
