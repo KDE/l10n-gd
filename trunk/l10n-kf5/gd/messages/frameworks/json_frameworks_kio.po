@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-09 08:49+0000\n"
+"POT-Creation-Date: 2015-12-29 08:41+0000\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,15 +21,25 @@ msgctxt "Name"
 msgid "Cookie Jar"
 msgstr "Crogan bhriosgaidean"
 
-#: /src/ioslaves/http/kcookiejar/kcookiejar.json
-msgctxt "Description"
-msgid "Stores network cookies"
-msgstr "Glèidhidh seo briosgaidean lìonraidh"
-
 #: /src/kpasswdserver/kpasswdserver.json
 msgctxt "Name"
 msgid "Password Caching"
 msgstr "Tasgadan nam faclan-faire"
+
+#: /src/kpac/proxyscout.json
+msgctxt "Name"
+msgid "Network Proxy Configuration"
+msgstr "Rèiteachadh progsaidh an lìonraidh"
+
+#: /src/kssld/kssld.json
+msgctxt "Name"
+msgid "SSL Certificate Policy"
+msgstr "Poileasaidh teisteanasan SSL"
+
+#: /src/ioslaves/http/kcookiejar/kcookiejar.json
+msgctxt "Description"
+msgid "Stores network cookies"
+msgstr "Glèidhidh seo briosgaidean lìonraidh"
 
 #: /src/kpasswdserver/kpasswdserver.json
 msgctxt "Description"
@@ -37,19 +47,9 @@ msgid "Temporary password caching"
 msgstr "Tasgadh sealach nam faclan-faire"
 
 #: /src/kpac/proxyscout.json
-msgctxt "Name"
-msgid "Network Proxy Configuration"
-msgstr "Rèiteachadh progsaidh an lìonraidh"
-
-#: /src/kpac/proxyscout.json
 msgctxt "Description"
 msgid "Automatic proxy configuration"
 msgstr "Rèiteachadh fèin-obrachail a' phrogsaidh"
-
-#: /src/kssld/kssld.json
-msgctxt "Name"
-msgid "SSL Certificate Policy"
-msgstr "Poileasaidh teisteanasan SSL"
 
 #: /src/kssld/kssld.json
 msgctxt "Description"
