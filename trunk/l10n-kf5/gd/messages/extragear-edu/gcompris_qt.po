@@ -1044,27 +1044,27 @@ msgid ""
 "press Escape on your keyboard or the back button on your mobile device."
 msgstr ""
 
-#: activities/balancebox/Balancebox.qml:496
+#: activities/balancebox/Balancebox.qml:498
 msgctxt "Balancebox|"
 msgid "Built-in"
 msgstr ""
 
-#: activities/balancebox/Balancebox.qml:497
+#: activities/balancebox/Balancebox.qml:499
 msgctxt "Balancebox|"
 msgid "User"
 msgstr ""
 
-#: activities/balancebox/Balancebox.qml:508
+#: activities/balancebox/Balancebox.qml:510
 msgctxt "Balancebox|"
 msgid "Select your level set"
 msgstr ""
 
-#: activities/balancebox/Balancebox.qml:515
+#: activities/balancebox/Balancebox.qml:517
 msgctxt "Balancebox|"
 msgid "Start Editor"
 msgstr ""
 
-#: activities/balancebox/Balancebox.qml:547
+#: activities/balancebox/Balancebox.qml:549
 msgctxt "Balancebox|"
 msgid ""
 "You selected the user-defined level set, but you have not yet defined any "
@@ -1072,7 +1072,7 @@ msgid ""
 "editor or choose the 'built-in' level set."
 msgstr ""
 
-#: activities/balancebox/Balancebox.qml:549
+#: activities/balancebox/Balancebox.qml:551
 msgctxt "Balancebox|"
 msgid "Ok"
 msgstr ""
