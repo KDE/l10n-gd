@@ -4073,7 +4073,7 @@ msgctxt "board6_0|"
 msgid "Turkey"
 msgstr ""
 
-#: activities/geography/resource/board/board6_0.qml:62
+#: activities/geography/resource/board/board6_0.qml:63
 #, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Slovenian"
@@ -4081,7 +4081,7 @@ msgctxt "board6_0|"
 msgid "Slovenia"
 msgstr "Slòbhainis"
 
-#: activities/geography/resource/board/board6_0.qml:69
+#: activities/geography/resource/board/board6_0.qml:70
 #, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Czech Republic"
@@ -4089,7 +4089,7 @@ msgctxt "board6_0|"
 msgid "Slovak Republic"
 msgstr "Poblachd na Seice"
 
-#: activities/geography/resource/board/board6_0.qml:76
+#: activities/geography/resource/board/board6_0.qml:77
 #, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Montenegrin"
@@ -4097,12 +4097,12 @@ msgctxt "board6_0|"
 msgid "Montenegro"
 msgstr "Monadh Neagrach"
 
-#: activities/geography/resource/board/board6_0.qml:83
+#: activities/geography/resource/board/board6_0.qml:85
 msgctxt "board6_0|"
 msgid "Serbia"
 msgstr ""
 
-#: activities/geography/resource/board/board6_0.qml:90
+#: activities/geography/resource/board/board6_0.qml:92
 #, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Russian"
@@ -4110,27 +4110,27 @@ msgctxt "board6_0|"
 msgid "Russia"
 msgstr "Ruisis"
 
-#: activities/geography/resource/board/board6_0.qml:97
+#: activities/geography/resource/board/board6_0.qml:99
 msgctxt "board6_0|"
 msgid "Romania"
 msgstr ""
 
-#: activities/geography/resource/board/board6_0.qml:104
+#: activities/geography/resource/board/board6_0.qml:106
 msgctxt "board6_0|"
 msgid "Poland"
 msgstr ""
 
-#: activities/geography/resource/board/board6_0.qml:111
+#: activities/geography/resource/board/board6_0.qml:113
 msgctxt "board6_0|"
 msgid "Moldova"
 msgstr ""
 
-#: activities/geography/resource/board/board6_0.qml:118
+#: activities/geography/resource/board/board6_0.qml:120
 msgctxt "board6_0|"
 msgid "Macedonia"
 msgstr ""
 
-#: activities/geography/resource/board/board6_0.qml:125
+#: activities/geography/resource/board/board6_0.qml:128
 #, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Lithuanian"
@@ -4138,7 +4138,7 @@ msgctxt "board6_0|"
 msgid "Lithuania"
 msgstr "Liotuainis"
 
-#: activities/geography/resource/board/board6_0.qml:132
+#: activities/geography/resource/board/board6_0.qml:135
 #, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Latvian"
@@ -4146,7 +4146,7 @@ msgctxt "board6_0|"
 msgid "Latvia"
 msgstr "Laitbheis"
 
-#: activities/geography/resource/board/board6_0.qml:139
+#: activities/geography/resource/board/board6_0.qml:142
 #, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Hungarian"
@@ -4154,12 +4154,12 @@ msgctxt "board6_0|"
 msgid "Hungary"
 msgstr "Ungairis"
 
-#: activities/geography/resource/board/board6_0.qml:146
+#: activities/geography/resource/board/board6_0.qml:149
 msgctxt "board6_0|"
 msgid "Estonia"
 msgstr ""
 
-#: activities/geography/resource/board/board6_0.qml:153
+#: activities/geography/resource/board/board6_0.qml:156
 #, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Czech Republic"
@@ -4167,12 +4167,12 @@ msgctxt "board6_0|"
 msgid "Czech Republic"
 msgstr "Poblachd na Seice"
 
-#: activities/geography/resource/board/board6_0.qml:160
+#: activities/geography/resource/board/board6_0.qml:163
 msgctxt "board6_0|"
 msgid "Croatia"
 msgstr ""
 
-#: activities/geography/resource/board/board6_0.qml:167
+#: activities/geography/resource/board/board6_0.qml:170
 #, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Bulgarian"
@@ -4180,17 +4180,17 @@ msgctxt "board6_0|"
 msgid "Bulgaria"
 msgstr "Bulgairis"
 
-#: activities/geography/resource/board/board6_0.qml:174
+#: activities/geography/resource/board/board6_0.qml:177
 msgctxt "board6_0|"
 msgid "Bosnia Herzegovina"
 msgstr ""
 
-#: activities/geography/resource/board/board6_0.qml:181
+#: activities/geography/resource/board/board6_0.qml:184
 msgctxt "board6_0|"
 msgid "Belarus"
 msgstr ""
 
-#: activities/geography/resource/board/board6_0.qml:188
+#: activities/geography/resource/board/board6_0.qml:191
 msgctxt "board6_0|"
 msgid "Albania"
 msgstr ""
