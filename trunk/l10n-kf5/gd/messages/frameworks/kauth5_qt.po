@@ -47,7 +47,7 @@ msgctxt "KAuth::ExecuteJob|"
 msgid "Unknown status for the authentication procedure"
 msgstr "Chan aithne duinn an staid airson an dearbhaidh"
 
-#: kauthexecutejob.cpp:149
+#: kauthexecutejob.cpp:152
 msgctxt "KAuth::ExecuteJob|"
 msgid ""
 "The current backend only allows helper authorization, but this action does "
@@ -56,7 +56,7 @@ msgstr ""
 "Cha cheadaich am backend làithreach ach dearbhadh inneal-taice ach chan eil "
 "inneal-taice aig a' ghnìomh seo."
 
-#: kauthexecutejob.cpp:157 kauthexecutejob.cpp:181
+#: kauthexecutejob.cpp:160 kauthexecutejob.cpp:184
 msgctxt "KAuth::ExecuteJob|"
 msgid "The backend does not specify how to authorize"
 msgstr "Cha do shònraich am backend dòigh an dearbhaidh"

@@ -5040,17 +5040,17 @@ msgid ""
 "the real keyboard."
 msgstr ""
 
-#: activities/hangman/Hangman.qml:256
+#: activities/hangman/Hangman.qml:235
 msgctxt "Hangman|"
 msgid "Select your locale"
 msgstr ""
 
-#: activities/hangman/Hangman.qml:417
+#: activities/hangman/Hangman.qml:396
 msgctxt "Hangman|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 
-#: activities/hangman/Hangman.qml:418
+#: activities/hangman/Hangman.qml:397
 #, qt-format
 msgctxt "Hangman|"
 msgid ""
@@ -5058,29 +5058,11 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 
-#: activities/hangman/Hangman.qml:420
+#: activities/hangman/Hangman.qml:399
 msgctxt "Hangman|"
 msgid ""
 "We switched to English for this activity but you can select another language "
 "in the configuration dialog."
-msgstr ""
-
-#: activities/hangman/Hangman.qml:433
-msgctxt "Hangman|"
-msgid "The images for this activity are not yet installed."
-msgstr ""
-
-#: activities/hangman/Hangman.qml:434
-#, fuzzy
-#| msgctxt "instruments|"
-#| msgid "Find the triangle"
-msgctxt "Hangman|"
-msgid "Download the images"
-msgstr "Lorg an triantan"
-
-#: activities/hangman/Hangman.qml:434
-msgctxt "Hangman|"
-msgid "OK"
 msgstr ""
 
 #: activities/hanoi/ActivityInfo.qml:26
@@ -5725,12 +5707,12 @@ msgid ""
 "activity/lang."
 msgstr ""
 
-#: activities/lang/Lang.qml:170
+#: activities/lang/Lang.qml:145
 msgctxt "Lang|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 
-#: activities/lang/Lang.qml:171
+#: activities/lang/Lang.qml:146
 #, qt-format
 msgctxt "Lang|"
 msgid ""
@@ -5738,37 +5720,24 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 
-#: activities/lang/Lang.qml:173
+#: activities/lang/Lang.qml:148
 msgctxt "Lang|"
 msgid ""
 "We switched to English for this activity but you can select another language "
 "in the configuration dialog."
 msgstr ""
 
-#: activities/lang/Lang.qml:186
-msgctxt "Lang|"
-msgid "The images for this activity are not yet installed."
-msgstr ""
-
-#: activities/lang/Lang.qml:187
-#, fuzzy
-#| msgctxt "instruments|"
-#| msgid "Find the triangle"
-msgctxt "Lang|"
-msgid "Download the images"
-msgstr "Lorg an triantan"
-
-#: activities/lang/Lang.qml:227
+#: activities/lang/Lang.qml:183
 msgctxt "Lang|"
 msgid "Select your locale"
 msgstr ""
 
-#: activities/lang/Lang.qml:286
+#: activities/lang/Lang.qml:242
 msgctxt "Lang|"
 msgid "other"
 msgstr ""
 
-#: activities/lang/Lang.qml:287
+#: activities/lang/Lang.qml:243
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Addition"
@@ -5776,12 +5745,12 @@ msgctxt "Lang|"
 msgid "action"
 msgstr "Cur ris"
 
-#: activities/lang/Lang.qml:287
+#: activities/lang/Lang.qml:243
 msgctxt "Lang|"
 msgid "adjective"
 msgstr ""
 
-#: activities/lang/Lang.qml:288
+#: activities/lang/Lang.qml:244
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Colors"
@@ -5789,72 +5758,72 @@ msgctxt "Lang|"
 msgid "color"
 msgstr "Dathan"
 
-#: activities/lang/Lang.qml:288
+#: activities/lang/Lang.qml:244
 msgctxt "Lang|"
 msgid "number"
 msgstr ""
 
-#: activities/lang/Lang.qml:289
+#: activities/lang/Lang.qml:245
 msgctxt "Lang|"
 msgid "people"
 msgstr ""
 
-#: activities/lang/Lang.qml:289
+#: activities/lang/Lang.qml:245
 msgctxt "Lang|"
 msgid "bodyparts"
 msgstr ""
 
-#: activities/lang/Lang.qml:290
+#: activities/lang/Lang.qml:246
 msgctxt "Lang|"
 msgid "clothes"
 msgstr ""
 
-#: activities/lang/Lang.qml:290
+#: activities/lang/Lang.qml:246
 msgctxt "Lang|"
 msgid "emotion"
 msgstr ""
 
-#: activities/lang/Lang.qml:291
+#: activities/lang/Lang.qml:247
 msgctxt "Lang|"
 msgid "job"
 msgstr ""
 
-#: activities/lang/Lang.qml:291
+#: activities/lang/Lang.qml:247
 msgctxt "Lang|"
 msgid "sport"
 msgstr ""
 
-#: activities/lang/Lang.qml:292
+#: activities/lang/Lang.qml:248
 msgctxt "Lang|"
 msgid "nature"
 msgstr ""
 
-#: activities/lang/Lang.qml:292
+#: activities/lang/Lang.qml:248
 msgctxt "Lang|"
 msgid "animal"
 msgstr ""
 
-#: activities/lang/Lang.qml:293
+#: activities/lang/Lang.qml:249
 msgctxt "Lang|"
 msgid "fruit"
 msgstr ""
 
-#: activities/lang/Lang.qml:293
+#: activities/lang/Lang.qml:249
 msgctxt "Lang|"
 msgid "plant"
 msgstr ""
 
-#: activities/lang/Lang.qml:294
+#: activities/lang/Lang.qml:250
 msgctxt "Lang|"
 msgid "vegetables"
 msgstr ""
 
-#: activities/lang/Lang.qml:294
+#: activities/lang/Lang.qml:250
 msgctxt "Lang|"
 msgid "object"
 msgstr ""
 
-#: activities/lang/Lang.qml:295
+#: activities/lang/Lang.qml:251
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Simple subtraction"
@@ -5862,22 +5831,22 @@ msgctxt "Lang|"
 msgid "construction"
 msgstr "Toirt air falbh simplidh"
 
-#: activities/lang/Lang.qml:296
+#: activities/lang/Lang.qml:252
 msgctxt "Lang|"
 msgid "furniture"
 msgstr ""
 
-#: activities/lang/Lang.qml:296
+#: activities/lang/Lang.qml:252
 msgctxt "Lang|"
 msgid "houseware"
 msgstr ""
 
-#: activities/lang/Lang.qml:297
+#: activities/lang/Lang.qml:253
 msgctxt "Lang|"
 msgid "tool"
 msgstr ""
 
-#: activities/lang/Lang.qml:297
+#: activities/lang/Lang.qml:253
 msgctxt "Lang|"
 msgid "food"
 msgstr ""
@@ -7108,32 +7077,54 @@ msgstr ""
 "    ctrl-f – Toglaich am modh làn-sgrìn\n"
 "    ctrl-m – Toglaich mùchadh air ceòl a’ chùlaibh"
 
-#: activities/menu/ConfigurationItem.qml:72
+#: activities/menu/ConfigurationItem.qml:77
 msgctxt "ConfigurationItem|"
 msgid "You have the full version"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:73
+#: activities/menu/ConfigurationItem.qml:78
 msgctxt "ConfigurationItem|"
 msgid "Buy the full version"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:105
+#: activities/menu/ConfigurationItem.qml:141
+msgctxt "ConfigurationItem|"
+msgid ""
+"On <a href='http://gcompris.net'>http://gcompris.net</a> you will find the "
+"instructions to obtain an activation code."
+msgstr ""
+
+#: activities/menu/ConfigurationItem.qml:163
+msgctxt "ConfigurationItem|"
+msgid "Enter your activation code"
+msgstr ""
+
+#: activities/menu/ConfigurationItem.qml:166
+msgctxt "ConfigurationItem|"
+msgid "Sorry, your code is too old for this version of GCompris"
+msgstr ""
+
+#: activities/menu/ConfigurationItem.qml:169
+msgctxt "ConfigurationItem|"
+msgid "You code is valid, thanks a lot for your support"
+msgstr ""
+
+#: activities/menu/ConfigurationItem.qml:189
 msgctxt "ConfigurationItem|"
 msgid "Show locked activities"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:115
+#: activities/menu/ConfigurationItem.qml:199
 msgctxt "ConfigurationItem|"
 msgid "Enable audio voices"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:124
+#: activities/menu/ConfigurationItem.qml:208
 msgctxt "ConfigurationItem|"
 msgid "Enable audio effects"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:133
+#: activities/menu/ConfigurationItem.qml:217
 #, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Fullscreen"
@@ -7141,94 +7132,99 @@ msgctxt "ConfigurationItem|"
 msgid "Fullscreen"
 msgstr "Làn-sgrìn"
 
-#: activities/menu/ConfigurationItem.qml:142
+#: activities/menu/ConfigurationItem.qml:226
 msgctxt "ConfigurationItem|"
 msgid "Virtual Keyboard"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:152
+#: activities/menu/ConfigurationItem.qml:236
 msgctxt "ConfigurationItem|"
 msgid "Enable automatic downloads/updates of sound files"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:161
+#: activities/menu/ConfigurationItem.qml:250
+msgctxt "ConfigurationItem|"
+msgid "Use external large word image set"
+msgstr ""
+
+#: activities/menu/ConfigurationItem.qml:260
 msgctxt "ConfigurationItem|"
 msgid "The activity section menu is visible"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:174
+#: activities/menu/ConfigurationItem.qml:273
 msgctxt "ConfigurationItem|"
 msgid "Font selector"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:194
+#: activities/menu/ConfigurationItem.qml:293
 msgctxt "ConfigurationItem|"
 msgid "Font size"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:200
+#: activities/menu/ConfigurationItem.qml:299
 msgctxt "ConfigurationItem|"
 msgid "Default"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:212
+#: activities/menu/ConfigurationItem.qml:311
 msgctxt "ConfigurationItem|"
 msgid "Font Capitalization"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:223
+#: activities/menu/ConfigurationItem.qml:322
 msgctxt "ConfigurationItem|"
 msgid "Language selector"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:250
+#: activities/menu/ConfigurationItem.qml:349
 msgctxt "ConfigurationItem|"
 msgid "Localized voices"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:264
+#: activities/menu/ConfigurationItem.qml:363
 msgctxt "ConfigurationItem|"
 msgid "Check for updates"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:265
+#: activities/menu/ConfigurationItem.qml:364
 msgctxt "ConfigurationItem|"
 msgid "Download"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:283
+#: activities/menu/ConfigurationItem.qml:382
 msgctxt "ConfigurationItem|"
 msgid "Difficulty filter:"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:480
+#: activities/menu/ConfigurationItem.qml:583
 msgctxt "ConfigurationItem|"
 msgid ""
 "You selected a new locale. You need to restart GCompris to play in your new "
 "locale.<br/>Do you want to download the corresponding sound files now?"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:481
+#: activities/menu/ConfigurationItem.qml:584
 msgctxt "ConfigurationItem|"
 msgid "Yes"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:487
+#: activities/menu/ConfigurationItem.qml:590
 msgctxt "ConfigurationItem|"
 msgid "No"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:543
+#: activities/menu/ConfigurationItem.qml:646
 msgctxt "ConfigurationItem|"
 msgid "Mixed case (default)"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:544
+#: activities/menu/ConfigurationItem.qml:647
 msgctxt "ConfigurationItem|"
 msgid "All uppercase"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:545
+#: activities/menu/ConfigurationItem.qml:648
 msgctxt "ConfigurationItem|"
 msgid "All lowercase"
 msgstr ""
@@ -7369,30 +7365,17 @@ msgstr ""
 "Chì thu nì air a’ phrìomh raon is facal neo-choileanta fon dealbh. Tagh an "
 "litir a tha a dhìth gus am facal a dhèanamh coileanta."
 
-#: activities/missing-letter/MissingLetter.qml:292
+#: activities/missing-letter/MissingLetter.qml:270
 msgctxt "MissingLetter|"
 msgid "Select your locale"
 msgstr ""
 
-#: activities/missing-letter/MissingLetter.qml:374
-msgctxt "MissingLetter|"
-msgid "The images for this activity are not yet installed."
-msgstr ""
-
-#: activities/missing-letter/MissingLetter.qml:375
-#, fuzzy
-#| msgctxt "instruments|"
-#| msgid "Find the triangle"
-msgctxt "MissingLetter|"
-msgid "Download the images"
-msgstr "Lorg an triantan"
-
-#: activities/missing-letter/MissingLetter.qml:393
+#: activities/missing-letter/MissingLetter.qml:352
 msgctxt "MissingLetter|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 
-#: activities/missing-letter/MissingLetter.qml:394
+#: activities/missing-letter/MissingLetter.qml:353
 #, qt-format
 msgctxt "MissingLetter|"
 msgid ""
@@ -7400,7 +7383,7 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 
-#: activities/missing-letter/MissingLetter.qml:396
+#: activities/missing-letter/MissingLetter.qml:355
 msgctxt "MissingLetter|"
 msgid ""
 "We switched to English for this activity but you can select another language "
@@ -8675,13 +8658,22 @@ msgid "Type the complete word as it falls, before it reaches the ground"
 msgstr ""
 "Sgrìobh am facal gu lèir fhad 's a tha e a' tuiteam is mus ruig e an làr"
 
-#: core/BuyMeOverlay.qml:57
+#: core/BuyMeOverlay.qml:75
 msgctxt "BuyMeOverlay|"
+msgid ""
+"This activity is only available in the full version of GCompris.<br/>On <a "
+"href='http://gcompris.net'>http://gcompris.net</a> you will find the "
+"instructions to obtain an activation code. Then go to the main configuration "
+"dialog to enter the code."
+msgstr ""
+
+#: core/BuyMeOverlayInapp.qml:75
+msgctxt "BuyMeOverlayInapp|"
 msgid "This activity is only available in the full version of GCompris."
 msgstr ""
 
-#: core/BuyMeOverlay.qml:68
-msgctxt "BuyMeOverlay|"
+#: core/BuyMeOverlayInapp.qml:87
+msgctxt "BuyMeOverlayInapp|"
 msgid "Buy the full version"
 msgstr ""
 
@@ -8980,17 +8972,37 @@ msgctxt "QObject|"
 msgid "Enable the configuration button (default)."
 msgstr ""
 
-#: core/main.qml:122
+#: core/main.qml:125
+msgctxt "main|"
+msgid "The images for several activities are not yet installed."
+msgstr ""
+
+#: core/main.qml:126
+msgctxt "main|"
+msgid "Do you want to download them now?"
+msgstr ""
+
+#: core/main.qml:127 core/main.qml:161
+msgctxt "main|"
+msgid "Yes"
+msgstr ""
+
+#: core/main.qml:132 core/main.qml:167
+msgctxt "main|"
+msgid "No"
+msgstr ""
+
+#: core/main.qml:150
 msgctxt "main|"
 msgid "Welcome to GCompris!"
 msgstr ""
 
-#: core/main.qml:123
+#: core/main.qml:151
 msgctxt "main|"
 msgid "You are running GCompris for the first time."
 msgstr ""
 
-#: core/main.qml:124
+#: core/main.qml:152
 msgctxt "main|"
 msgid ""
 "You should verify that your application settings especially your language is "
@@ -8998,36 +9010,47 @@ msgid ""
 "can do this in the Preferences Dialog."
 msgstr ""
 
-#: core/main.qml:126
+#: core/main.qml:154
 msgctxt "main|"
 msgid "Have Fun!"
 msgstr ""
 
-#: core/main.qml:128
+#: core/main.qml:156
 #, qt-format
 msgctxt "main|"
 msgid "Your current language is %1 (%2)."
 msgstr ""
 
-#: core/main.qml:132
+#: core/main.qml:160
 msgctxt "main|"
 msgid "Do you want to download the corresponding sound files now?"
-msgstr ""
-
-#: core/main.qml:133
-msgctxt "main|"
-msgid "Yes"
-msgstr ""
-
-#: core/main.qml:139
-msgctxt "main|"
-msgid "No"
 msgstr ""
 
 #: core/ReadyButton.qml:46
 msgctxt "ReadyButton|"
 msgid "I am Ready"
 msgstr "Tha mi deiseil"
+
+#, fuzzy
+#~| msgctxt "instruments|"
+#~| msgid "Find the triangle"
+#~ msgctxt "Hangman|"
+#~ msgid "Download the images"
+#~ msgstr "Lorg an triantan"
+
+#, fuzzy
+#~| msgctxt "instruments|"
+#~| msgid "Find the triangle"
+#~ msgctxt "Lang|"
+#~ msgid "Download the images"
+#~ msgstr "Lorg an triantan"
+
+#, fuzzy
+#~| msgctxt "instruments|"
+#~| msgid "Find the triangle"
+#~ msgctxt "MissingLetter|"
+#~ msgid "Download the images"
+#~ msgstr "Lorg an triantan"
 
 #~ msgctxt "ActivityInfo|"
 #~ msgid "Numbers with pairs of dice"
