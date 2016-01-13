@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-12-15 08:49+0000\n"
+"POT-Creation-Date: 2016-01-13 08:00+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -46,20 +46,17 @@ msgctxt "Comment"
 msgid "Activities help you to focus on a specific task"
 msgstr ""
 
-#: tests/imports/org.kde.listactivitiestest/metadata.desktop:3
-msgctxt "Name"
-msgid "Activities testing"
-msgstr "Deuchainn nan gnìomhachdan"
+#~ msgctxt "Name"
+#~ msgid "Activities testing"
+#~ msgstr "Deuchainn nan gnìomhachdan"
 
-#: tests/imports/plasma-applet-org.kde.listactivitiestest.desktop:2
-msgctxt "Name"
-msgid "List activities test"
-msgstr "Seall deuchainn air na gnìomhachdan"
+#~ msgctxt "Name"
+#~ msgid "List activities test"
+#~ msgstr "Seall deuchainn air na gnìomhachdan"
 
-#: tests/imports/plasma-applet-org.kde.listactivitiestest.desktop:45
-msgctxt "Comment"
-msgid "Strange, but not a Clock"
-msgstr "Neònach ach chan e uaireadair a th' ann"
+#~ msgctxt "Comment"
+#~ msgid "Strange, but not a Clock"
+#~ msgstr "Neònach ach chan e uaireadair a th' ann"
 
 #~ msgctxt "Name"
 #~ msgid "Activity Templates"

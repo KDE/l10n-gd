@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-12-16 07:30+0000\n"
+"POT-Creation-Date: 2016-01-13 08:00+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -16,39 +16,25 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 "X-Project-Style: kde\n"
 
-#: autotests/data/customcontent/metadata.desktop:4
-msgctxt "Name"
-msgid "Custom Content"
-msgstr ""
-
-#: autotests/data/simplecontent/metadata.desktop:4
-msgctxt "Name"
-msgid "Simple Content"
-msgstr ""
-
-#: autotests/data/testfallbackpackage/metadata.desktop:4
-msgctxt "Name"
-msgid "Test Fallback Package"
-msgstr "Pacaid dheuchainneach èiginneach"
-
-#: autotests/data/testpackage/metadata.desktop:4
-msgctxt "Name"
-msgid "Test Package"
-msgstr "Pacaid dheuchainneach"
-
-#: autotests/packagemetadatatest.desktop:2
-msgctxt "Name"
-msgid "Package metadata test file"
-msgstr "Faidhle deuchainneach e pacaid mheata-dàta"
-
-#: autotests/packagemetadatatest.desktop:45
-msgctxt "Comment"
-msgid "A test desktop file to test the PackageMetaData class."
-msgstr ""
-"Faidhle desktop deuchainneach gus deuchainn a dhèanamh air a' chlas "
-"PackageMetaData."
-
 #: src/kpackage/data/servicetypes/kpackage-packagestructure.desktop:4
 msgctxt "Comment"
 msgid "KPackage package structure definition"
 msgstr "Mìneachadh structar pacaidean Plasma"
+
+#~ msgctxt "Name"
+#~ msgid "Test Fallback Package"
+#~ msgstr "Pacaid dheuchainneach èiginneach"
+
+#~ msgctxt "Name"
+#~ msgid "Test Package"
+#~ msgstr "Pacaid dheuchainneach"
+
+#~ msgctxt "Name"
+#~ msgid "Package metadata test file"
+#~ msgstr "Faidhle deuchainneach e pacaid mheata-dàta"
+
+#~ msgctxt "Comment"
+#~ msgid "A test desktop file to test the PackageMetaData class."
+#~ msgstr ""
+#~ "Faidhle desktop deuchainneach gus deuchainn a dhèanamh air a' chlas "
+#~ "PackageMetaData."
