@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-18 09:10+0000\n"
+"POT-Creation-Date: 2016-01-18 09:16+0000\n"
 "PO-Revision-Date: 2015-11-04 15:12+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -303,6 +303,11 @@ msgstr "An t-ùrachadh mu dheireadh"
 msgctxt "@label date of template creation8"
 msgid "Template Creation"
 msgstr "Cruthachadh teamplaide"
+
+#: src/propertyinfo.cpp:413
+msgctxt "@label the URL a file was originally downloded from"
+msgid "Downloaded From"
+msgstr ""
 
 #: src/typeinfo.cpp:47
 msgctxt "@label"
