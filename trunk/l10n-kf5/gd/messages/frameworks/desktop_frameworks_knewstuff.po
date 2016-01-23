@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-01-20 08:36+0000\n"
+"POT-Creation-Date: 2016-01-23 08:53+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -124,12 +124,12 @@ msgctxt "Name"
 msgid "HotShots"
 msgstr "HotShots"
 
-#: data/kmoretools-desktopfiles/hotshots.desktop:34
+#: data/kmoretools-desktopfiles/hotshots.desktop:35
 msgctxt "Comment"
 msgid "Screenshot manager"
 msgstr "Stiùiriche ghlacaidhean-sgrìn"
 
-#: data/kmoretools-desktopfiles/hotshots.desktop:67
+#: data/kmoretools-desktopfiles/hotshots.desktop:68
 msgctxt "GenericName"
 msgid "Screenshot manager"
 msgstr "Stiùiriche ghlacaidhean-sgrìn"
@@ -139,12 +139,12 @@ msgctxt "Name"
 msgid "Htop"
 msgstr "Htop"
 
-#: data/kmoretools-desktopfiles/htop.desktop:37
+#: data/kmoretools-desktopfiles/htop.desktop:38
 msgctxt "Comment"
 msgid "Show System Processes"
 msgstr "Seall pròiseasan an t-siostaim"
 
-#: data/kmoretools-desktopfiles/htop.desktop:73
+#: data/kmoretools-desktopfiles/htop.desktop:74
 msgctxt "GenericName"
 msgid "Process Viewer"
 msgstr "Sealladair phròiseasan"
@@ -201,7 +201,7 @@ msgstr ""
 "Uaireadairean airson àm an t-saoghail le caismeachdan, stad-uaireadair 's "
 "tìmear"
 
-#: data/kmoretools-desktopfiles/org.gnome.clocks.desktop:165
+#: data/kmoretools-desktopfiles/org.gnome.clocks.desktop:166
 msgctxt "Keywords"
 msgid "time;timer;alarm;world clock;stopwatch;time zone;"
 msgstr ""
@@ -233,7 +233,7 @@ msgctxt "GenericName"
 msgid "Screenshot Capture Utility"
 msgstr "Goireas gus glacaidhean-sgrìn a thogail"
 
-#: data/kmoretools-desktopfiles/org.kde.kscreengenie.desktop:33
+#: data/kmoretools-desktopfiles/org.kde.kscreengenie.desktop:34
 msgctxt "Name"
 msgid "KScreenGenie"
 msgstr "KScreenGenie"
@@ -243,7 +243,7 @@ msgctxt "GenericName"
 msgid "Screen Capture Program"
 msgstr "Prògram ghlacaidhean-sgrìn"
 
-#: data/kmoretools-desktopfiles/org.kde.ksnapshot.desktop:33
+#: data/kmoretools-desktopfiles/org.kde.ksnapshot.desktop:34
 msgctxt "Name"
 msgid "KSnapshot"
 msgstr "KSnapshot"
@@ -283,12 +283,12 @@ msgctxt "Comment"
 msgid "List and preview available icons"
 msgstr "Seall liosta dhe na h-ìomhaighean ri am faighinn le ro-shealladh"
 
-#: data/kmoretools-desktopfiles/org.kde.plasma.cuttlefish.kmt-edition.desktop:35
+#: data/kmoretools-desktopfiles/org.kde.plasma.cuttlefish.kmt-edition.desktop:36
 msgctxt "GenericName"
 msgid "Icon Browser"
 msgstr "Brabhsair nan ìomhaigheagan"
 
-#: data/kmoretools-desktopfiles/org.kde.plasma.cuttlefish.kmt-edition.desktop:70
+#: data/kmoretools-desktopfiles/org.kde.plasma.cuttlefish.kmt-edition.desktop:71
 msgctxt "Name"
 msgid "Cuttlefish"
 msgstr "Cuttlefish"
@@ -333,7 +333,7 @@ msgctxt "Comment"
 msgid "Easy to use task manager"
 msgstr "Manaidsear nan saothair a tha furasta cleachdadh"
 
-#: data/kmoretools-desktopfiles/xfce4-taskmanager.desktop:68
+#: data/kmoretools-desktopfiles/xfce4-taskmanager.desktop:69
 msgctxt "GenericName"
 msgid "Task Manager"
 msgstr "Manaidsear nan saothair"
