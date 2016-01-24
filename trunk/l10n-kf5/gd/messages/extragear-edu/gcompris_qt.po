@@ -4942,6 +4942,46 @@ msgid ""
 "×3 = 6). So 6 is not a prime number."
 msgstr ""
 
+#: activities/graph-coloring/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "Graph Coloring"
+msgstr ""
+
+#: activities/graph-coloring/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid "Color the graph so that no two adjacent nodes have the same color."
+msgstr ""
+
+#: activities/graph-coloring/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid ""
+"Learn to distinguish between different colors/shapes and learn about "
+"relative positions."
+msgstr ""
+
+#: activities/graph-coloring/ActivityInfo.qml:30
+msgctxt "ActivityInfo|"
+msgid "Ability to distinguish different colors/shapes, sense of positions"
+msgstr ""
+
+#: activities/graph-coloring/GraphColoring.qml:328
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Colors"
+msgctxt "GraphColoring|"
+msgid "Colors"
+msgstr "Dathan"
+
+#: activities/graph-coloring/GraphColoring.qml:329
+msgctxt "GraphColoring|"
+msgid "Shapes"
+msgstr ""
+
+#: activities/graph-coloring/GraphColoring.qml:340
+msgctxt "GraphColoring|"
+msgid "Select your mode"
+msgstr ""
+
 #: activities/guessnumber/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Guess a number"
