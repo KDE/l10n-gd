@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kinit5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-12-25 07:06+0000\n"
+"POT-Creation-Date: 2016-01-26 08:20+0000\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -19,7 +19,7 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 "X-Project-Style: kde\n"
 
-#: kdeinit/kinit.cpp:540
+#: kdeinit/kinit.cpp:532
 msgid ""
 "Unable to start new process.\n"
 "The system may have reached the maximum number of open files possible or the "
@@ -29,7 +29,7 @@ msgstr ""
 "'S dòcha gun do dh'fhosgail an siostam nas urrainn dha de dh'fhaidhlichean "
 "no gun do ràinig e na cheadaich thu de dh'fhaidhlichean fosgailte."
 
-#: kdeinit/kinit.cpp:565
+#: kdeinit/kinit.cpp:557
 msgid ""
 "Unable to create new process.\n"
 "The system may have reached the maximum number of processes possible or the "
@@ -39,12 +39,12 @@ msgstr ""
 "'S dòcha gu bheil an siostam a' ruith nas urrainn dha de phròiseasan no gu "
 "bheil e a' ruith na cheadaich thu de phròiseasan mar-thà."
 
-#: kdeinit/kinit.cpp:656
+#: kdeinit/kinit.cpp:648
 #, kde-format
 msgid "Could not find '%1' executable."
 msgstr "Cha deach am faidhle a ghabhas ruith \"%1\" a lorg."
 
-#: kdeinit/kinit.cpp:684
+#: kdeinit/kinit.cpp:676
 #, kde-format
 msgid ""
 "Could not open library '%1'.\n"
@@ -53,7 +53,7 @@ msgstr ""
 "Cha b' urrainn dhuinn an leabharlann \"%1\" fhosgladh.\n"
 "%2"
 
-#: kdeinit/kinit.cpp:726
+#: kdeinit/kinit.cpp:718
 #, kde-format
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
@@ -62,42 +62,42 @@ msgstr ""
 "Cha deach \"kdemain\" a lorg an-seo: \"%1\".\n"
 "%2"
 
-#: klauncher/klauncher.cpp:495
+#: klauncher/klauncher.cpp:504
 #, kde-format
 msgid "KDEInit could not launch '%1'"
 msgstr "Cha deach le KDEInit \"%1\" a chur gu ruith"
 
-#: klauncher/klauncher.cpp:688 klauncher/klauncher.cpp:702
+#: klauncher/klauncher.cpp:706 klauncher/klauncher.cpp:720
 #, kde-format
 msgid "Could not find service '%1'."
 msgstr "Cha deach an t-seirbheis \"%1\" a lorg."
 
-#: klauncher/klauncher.cpp:720
+#: klauncher/klauncher.cpp:738
 #, kde-format
 msgid "Service '%1' must be executable to run."
 msgstr "Feumaidh an t-seirbheis \"%1\" a bhith 'na fhaidhle a ghabhas ruith."
 
-#: klauncher/klauncher.cpp:722 klauncher/klauncher.cpp:763
+#: klauncher/klauncher.cpp:740 klauncher/klauncher.cpp:781
 #, kde-format
 msgid "Service '%1' is malformatted."
 msgstr "Tha droch fhòrmat air an t-seirbheis \"%1\"."
 
-#: klauncher/klauncher.cpp:857
+#: klauncher/klauncher.cpp:882
 #, kde-format
 msgid "Launching %1"
 msgstr "A' tòiseachadh %1"
 
-#: klauncher/klauncher.cpp:1059
+#: klauncher/klauncher.cpp:1096
 #, kde-format
 msgid "Unknown protocol '%1'.\n"
 msgstr "Pròtacal \"%1\" nach aithne dhuinn.\n"
 
-#: klauncher/klauncher.cpp:1065
+#: klauncher/klauncher.cpp:1102
 #, kde-format
 msgid "Could not find the '%1' plugin.\n"
 msgstr "Cha deach am plugan \"%1\" a lorg.\n"
 
-#: klauncher/klauncher.cpp:1131
+#: klauncher/klauncher.cpp:1168
 #, kde-format
 msgid "Error loading '%1'.\n"
 msgstr "Mearachd le luchdadh \"%1\".\n"
