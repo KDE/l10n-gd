@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kactivities5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-12-27 07:07+0000\n"
+"POT-Creation-Date: 2016-02-03 07:21+0000\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -86,13 +86,13 @@ msgstr "Gnìomhachd"
 msgid "Current activity"
 msgstr "A' ghnìomhachd lèithreach"
 
-#: workspace/settings/imports/activitysettings.cpp:55
+#: workspace/settings/imports/activitysettings.cpp:59
 #, fuzzy
 #| msgid "Create activity..."
 msgid "Delete activity"
 msgstr "Cruthaich gnìomhachd..."
 
-#: workspace/settings/imports/activitysettings.cpp:56
+#: workspace/settings/imports/activitysettings.cpp:60
 #, fuzzy, kde-format
 #| msgid "Are you sure you want to delete this activity?"
 msgid "Are you sure you want to delete '%1'?"
