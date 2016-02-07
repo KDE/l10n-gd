@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-02-06 08:09+0000\n"
+"POT-Creation-Date: 2016-02-07 07:54+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -65,7 +65,7 @@ msgctxt "Comment"
 msgid "Example on how to manage Drop data"
 msgstr "Ball-eisimpleir air mar a stiùiricheas tu dàta Drop"
 
-#: examples/applets/notes/metadata.desktop:40
+#: examples/applets/notes/metadata.desktop:41
 msgctxt "Name"
 msgid "Example notes"
 msgstr "Nòtaichean-eisimpleir"
@@ -114,7 +114,7 @@ msgctxt "Name"
 msgid "Shader Test"
 msgstr "Deuchainn air sgàileadairean"
 
-#: examples/applets/testshaders/metadata.desktop:41
+#: examples/applets/testshaders/metadata.desktop:42
 msgctxt "Comment"
 msgid "Futzing with Visual Effects"
 msgstr "A' cluich le èifeachdan lèirsinne"
@@ -329,7 +329,7 @@ msgctxt "Name"
 msgid "Python Runner"
 msgstr "Ruitheadair Plasma"
 
-#: src/scriptengines/python/plasma-scriptengine-runner-python.desktop:41
+#: src/scriptengines/python/plasma-scriptengine-runner-python.desktop:42
 msgctxt "Comment"
 msgid "Plasma Runner support for Python"
 msgstr "Inneal-taic ruithidh aig Plasma airson Python"
