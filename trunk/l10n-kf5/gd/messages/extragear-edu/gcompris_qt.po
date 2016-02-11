@@ -2069,6 +2069,36 @@ msgctxt "Clockgame|"
 msgid "Set the watch to:"
 msgstr "Suidhich an t-uaireadair aig:"
 
+#: activities/clockgame/Clockgame.qml:108
+#, qt-format
+msgctxt "Clockgame|"
+msgid "%n hour(s)"
+msgid_plural "%n hour(s)"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: activities/clockgame/Clockgame.qml:111
+#, qt-format
+msgctxt "Clockgame|"
+msgid "%n&nbsp;minute(s)"
+msgid_plural "%n&nbsp;minute(s)"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: activities/clockgame/Clockgame.qml:114
+#, qt-format
+msgctxt "Clockgame|"
+msgid "%n second(s)"
+msgid_plural "%n second(s)"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
 #: activities/color_mix/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Mixing color of paint"
