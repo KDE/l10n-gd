@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kinit5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-01-26 08:20+0000\n"
+"POT-Creation-Date: 2016-02-14 07:15+0000\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -77,27 +77,27 @@ msgstr "Cha deach an t-seirbheis \"%1\" a lorg."
 msgid "Service '%1' must be executable to run."
 msgstr "Feumaidh an t-seirbheis \"%1\" a bhith 'na fhaidhle a ghabhas ruith."
 
-#: klauncher/klauncher.cpp:740 klauncher/klauncher.cpp:781
+#: klauncher/klauncher.cpp:740 klauncher/klauncher.cpp:777
 #, kde-format
 msgid "Service '%1' is malformatted."
 msgstr "Tha droch fhòrmat air an t-seirbheis \"%1\"."
 
-#: klauncher/klauncher.cpp:882
+#: klauncher/klauncher.cpp:878
 #, kde-format
 msgid "Launching %1"
 msgstr "A' tòiseachadh %1"
 
-#: klauncher/klauncher.cpp:1096
+#: klauncher/klauncher.cpp:1092
 #, kde-format
 msgid "Unknown protocol '%1'.\n"
 msgstr "Pròtacal \"%1\" nach aithne dhuinn.\n"
 
-#: klauncher/klauncher.cpp:1102
+#: klauncher/klauncher.cpp:1098
 #, kde-format
 msgid "Could not find the '%1' plugin.\n"
 msgstr "Cha deach am plugan \"%1\" a lorg.\n"
 
-#: klauncher/klauncher.cpp:1168
+#: klauncher/klauncher.cpp:1164
 #, kde-format
 msgid "Error loading '%1'.\n"
 msgstr "Mearachd le luchdadh \"%1\".\n"
