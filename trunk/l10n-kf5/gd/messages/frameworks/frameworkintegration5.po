@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-10-01 08:25+0000\n"
+"POT-Creation-Date: 2016-02-16 08:46+0000\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -19,11 +19,11 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 "X-Project-Style: kde\n"
 
-#: platformtheme/kdeplatformfiledialoghelper.cpp:240
+#: platformtheme/kdeplatformfiledialoghelper.cpp:263
 msgid "Opening..."
 msgstr "'Ga fhosgladh..."
 
-#: platformtheme/kdeplatformfiledialoghelper.cpp:240
+#: platformtheme/kdeplatformfiledialoghelper.cpp:263
 msgid "Saving..."
 msgstr "'Ga shàbhaladh..."
 
