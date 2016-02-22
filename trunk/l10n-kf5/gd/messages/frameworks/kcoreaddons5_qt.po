@@ -153,8 +153,11 @@ msgstr ""
 "foillseachadh."
 
 #: lib/kaboutdata.cpp:992
+#, fuzzy
+#| msgctxt "KAboutData CLI|"
+#| msgid "%s was written by:\n"
 msgctxt "KAboutData CLI|"
-msgid "%s was written by:\n"
+msgid "%s was written by:"
 msgstr "Chaidh %s a sgrìobhadh le:\n"
 
 #: lib/kaboutdata.cpp:1003
@@ -163,8 +166,11 @@ msgid "Please use http://bugs.kde.org to report bugs."
 msgstr "Cleachd http://bugs.kde.org gus aithris a dhèanamh air bugaichean."
 
 #: lib/kaboutdata.cpp:1005
+#, fuzzy
+#| msgctxt "KAboutData CLI|"
+#| msgid "Please report bugs to %s.\n"
 msgctxt "KAboutData CLI|"
-msgid "Please report bugs to %s.\n"
+msgid "Please report bugs to %s."
 msgstr "Cuir aithrisean air bugaichean gu %s.\n"
 
 #: lib/plugin/kpluginloader.cpp:122
