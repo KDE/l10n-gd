@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-12-17 07:30+0000\n"
+"POT-Creation-Date: 2016-02-28 07:19+0000\n"
 "PO-Revision-Date: 2015-11-04 15:14+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -181,7 +181,7 @@ msgstr "JavaScript"
 msgid "&Stop Script"
 msgstr "Cuir &stad air an sgriobt"
 
-#: ecma/kjs_binding.cpp:437
+#: ecma/kjs_binding.cpp:446
 #, kde-format
 msgid "Parse error at %1 line %2"
 msgstr "Mearachd parsaidh aig %1 loidhne %2"
