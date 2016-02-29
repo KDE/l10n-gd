@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-02-28 07:19+0000\n"
+"POT-Creation-Date: 2016-02-29 08:48+0000\n"
 "PO-Revision-Date: 2015-11-04 15:14+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -316,11 +316,11 @@ msgstr[2] "Cuir na &faidhlichean"
 msgstr[3] "Cuir na &faidhlichean"
 
 #: html/html_formimpl.cpp:1687 html/html_formimpl.cpp:1908 khtml_part.cpp:4967
-#: khtmlview.cpp:2879 khtmlview.cpp:2923
+#: khtmlview.cpp:2877 khtmlview.cpp:2921
 msgid "Submit"
 msgstr "Cuir a-null"
 
-#: html/html_formimpl.cpp:1900 khtmlview.cpp:2894 khtmlview.cpp:2929
+#: html/html_formimpl.cpp:1900 khtmlview.cpp:2892 khtmlview.cpp:2927
 msgid "Reset"
 msgstr "Ath-shuidhich"
 
@@ -1349,7 +1349,7 @@ msgstr "Dealbh - %1x%2 piogsail"
 msgid "Done."
 msgstr "Dèanta."
 
-#: khtmlview.cpp:1902
+#: khtmlview.cpp:1900
 msgid "Access Keys activated"
 msgstr "Tha na h-iuchraichean inntrigidh gnìomhach"
 
