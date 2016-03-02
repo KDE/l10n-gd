@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kactivities5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-02-16 08:46+0000\n"
+"POT-Creation-Date: 2016-03-01 08:45+0000\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -19,25 +19,28 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 "X-Project-Style: kde\n"
 
-#: imports/activitymodel.cpp:589
-msgctxt "Header title for activity data model"
-msgid "Activity"
-msgstr "Gnìomhachd"
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "GunChleoc"
 
-#~ msgctxt "NAME OF TRANSLATORS"
-#~ msgid "Your names"
-#~ msgstr "GunChleoc"
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "fios@foramnagaidhlig.net"
 
-#~ msgctxt "EMAIL OF TRANSLATORS"
-#~ msgid "Your emails"
-#~ msgstr "fios@foramnagaidhlig.net"
+#: service/Activities.cpp:108
+msgid "Default"
+msgstr "Thùsail"
 
-#~ msgid "Default"
-#~ msgstr "Thùsail"
+#: service/plugins/globalshortcuts/GlobalShortcutsPlugin.cpp:90
+#: service/plugins/globalshortcuts/GlobalShortcutsPlugin.cpp:125
+#, kde-format
+msgctxt "@action"
+msgid "Switch to activity \"%1\""
+msgstr "Gearr leum dhan ghnìomhachd \"%1\""
 
-#~ msgctxt "@action"
-#~ msgid "Switch to activity \"%1\""
-#~ msgstr "Gearr leum dhan ghnìomhachd \"%1\""
+#~ msgctxt "Header title for activity data model"
+#~ msgid "Activity"
+#~ msgstr "Gnìomhachd"
 
 #~ msgid "Activities"
 #~ msgstr "Gnìomhachdan"
