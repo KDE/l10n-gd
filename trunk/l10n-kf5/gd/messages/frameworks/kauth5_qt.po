@@ -15,19 +15,19 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 "X-Qt-Contexts: true\n"
 
-#: backends/dbus/DBusHelperProxy.cpp:80
+#: backends/dbus/DBusHelperProxy.cpp:85
 msgctxt "KAuth::DBusHelperProxy|"
 msgid "DBus Backend error: connection to helper failed. "
 msgstr "Mearachd a' backend DBus: dh'fhàillig le ceangal ris an inneal-taic. "
 
-#: backends/dbus/DBusHelperProxy.cpp:105
+#: backends/dbus/DBusHelperProxy.cpp:110
 msgctxt "KAuth::DBusHelperProxy|"
 msgid "DBus Backend error: could not contact the helper. Connection error: "
 msgstr ""
 "Mearachd a' backend DBus: dh'fhàillig le consltradh ris an inneal-taic. "
 "Mearachd a' cheangail: "
 
-#: backends/dbus/DBusHelperProxy.cpp:106
+#: backends/dbus/DBusHelperProxy.cpp:111
 msgctxt "KAuth::DBusHelperProxy|"
 msgid ". Message error: "
 msgstr ". Mearachd na teachdaireachd: "

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-02-29 08:48+0000\n"
+"POT-Creation-Date: 2016-03-06 07:13+0000\n"
 "PO-Revision-Date: 2015-11-04 15:14+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -186,11 +186,11 @@ msgstr "Cuir &stad air an sgriobt"
 msgid "Parse error at %1 line %2"
 msgstr "Mearachd parsaidh aig %1 loidhne %2"
 
-#: ecma/kjs_html.cpp:2231 ecma/kjs_window.cpp:1946
+#: ecma/kjs_html.cpp:2233 ecma/kjs_window.cpp:1946
 msgid "Confirmation: JavaScript Popup"
 msgstr "Dearbhadh: Priob-uinneag JavaScript"
 
-#: ecma/kjs_html.cpp:2233
+#: ecma/kjs_html.cpp:2235
 msgid ""
 "This site is submitting a form which will open up a new browser window via "
 "JavaScript.\n"
@@ -200,7 +200,7 @@ msgstr ""
 "brabhsair ùr slighe JavaScript.\n"
 "A bheil thu airson cead a thoirt gun cuir e a-null am foirm seo?"
 
-#: ecma/kjs_html.cpp:2236
+#: ecma/kjs_html.cpp:2238
 #, kde-format
 msgid ""
 "<qt>This site is submitting a form which will open <p>%1</p> in a new "
@@ -211,11 +211,11 @@ msgstr ""
 "ann an uinneag brabhsair ùr slighe JavaScript.<br />A bheil thu airson cead "
 "a thoirt gun cuir e a-null am foirm seo?</qt>"
 
-#: ecma/kjs_html.cpp:2238 ecma/kjs_window.cpp:1954
+#: ecma/kjs_html.cpp:2240 ecma/kjs_window.cpp:1954
 msgid "Allow"
 msgstr "Ceadaich"
 
-#: ecma/kjs_html.cpp:2238 ecma/kjs_window.cpp:1954
+#: ecma/kjs_html.cpp:2240 ecma/kjs_window.cpp:1954
 msgid "Do Not Allow"
 msgstr "Diùlt"
 
@@ -349,7 +349,7 @@ msgstr "Luchdaich a-nuas"
 msgid "Do Not Download"
 msgstr "Na luchdaich a-nuas"
 
-#: html/htmlparser.cpp:1978
+#: html/htmlparser.cpp:1980
 msgid "This is a searchable index. Enter search keywords: "
 msgstr "Seo inneacs a ghabhas lorg ann. Cuir a-steach faclan-luirg:"
 
@@ -1597,7 +1597,7 @@ msgstr "Na glèidh idir airson na &làraich seo"
 msgid "Do &not store this time"
 msgstr "&Na glèidh an turas seo"
 
-#: xml/dom_docimpl.cpp:2376
+#: xml/dom_docimpl.cpp:2378
 msgid "Basic Page Style"
 msgstr "Bun-stoidhle duilleige"
 
