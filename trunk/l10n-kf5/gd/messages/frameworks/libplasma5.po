@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-03-05 07:49+0000\n"
+"POT-Creation-Date: 2016-03-10 07:41+0000\n"
 "PO-Revision-Date: 2015-11-04 15:14+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -88,7 +88,7 @@ msgstr "Dh'fhàillig le tòiseachadh an sgriobt"
 msgid "Unknown"
 msgstr "Chan eil fhios"
 
-#: plasma/applet.cpp:627
+#: plasma/applet.cpp:637
 #, kde-format
 msgid "Activate %1 Widget"
 msgstr "Gnìomhach Widget %1"
@@ -212,7 +212,15 @@ msgstr "Goireasan"
 msgid "Windows and Tasks"
 msgstr "Uinneagan is saothraichean"
 
-#: plasma/pluginloader.cpp:683 plasma/pluginloader.cpp:684
+#: plasma/pluginloader.cpp:117
+msgid "Clipboard"
+msgstr ""
+
+#: plasma/pluginloader.cpp:118
+msgid "Tasks"
+msgstr ""
+
+#: plasma/pluginloader.cpp:685 plasma/pluginloader.cpp:686
 msgctxt "misc category"
 msgid "Miscellaneous"
 msgstr "Eile"
