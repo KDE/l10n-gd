@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-03-31 07:49+0000\n"
+"POT-Creation-Date: 2016-04-05 08:25+0000\n"
 "PO-Revision-Date: 2015-11-04 15:14+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -837,12 +837,12 @@ msgstr "Chaidh %1 a dhì-stàladh gu soirbheachail"
 msgid "Error: Uninstallation of %1 failed: %2"
 msgstr "Mearachd: Dh'fhàillig le dì-stàladh %1: %2"
 
-#: plasmaquick/appletquickitem.cpp:505
+#: plasmaquick/appletquickitem.cpp:510
 #, kde-format
 msgid "Error loading QML file: %1"
 msgstr "Mearachd a' luchdadh faidhle QML: %1"
 
-#: plasmaquick/appletquickitem.cpp:507
+#: plasmaquick/appletquickitem.cpp:512
 #, kde-format
 msgid "Error loading Applet: package inexistent. %1"
 msgstr "Mearachd a' luchdadh aplaid: chan eil a' phacaid ann. %1"
