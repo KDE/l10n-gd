@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-04-16 07:44+0000\n"
+"POT-Creation-Date: 2016-04-17 07:23+0000\n"
 "PO-Revision-Date: 2015-11-04 15:12+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -18,18 +18,6 @@ msgstr ""
 "(n > 2 && n < 20) ? 2 : 3;\n"
 "X-Generator: Poedit 1.8.4\n"
 "X-Project-Style: kde\n"
-
-#: src/externalextractor.cpp:68
-msgid "Path does not seem to contain a valid plugin"
-msgstr ""
-
-#: src/externalextractor.cpp:76
-msgid "Manifest does not seem to be a valid JSON Object"
-msgstr ""
-
-#: src/externalwriter.cpp:128
-msgid "Something went wrong while trying to write data"
-msgstr ""
 
 #: src/propertyinfo.cpp:47
 msgctxt "@label music album"
@@ -380,11 +368,3 @@ msgstr "Video"
 msgctxt "@label"
 msgid "Folder"
 msgstr "Pasgan"
-
-#: src/writercollection.cpp:128
-msgid "Plugin could not be converted to a WriterPlugin"
-msgstr ""
-
-#: src/writercollection.cpp:133
-msgid "Plugin could not create instance"
-msgstr ""
