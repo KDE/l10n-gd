@@ -2082,8 +2082,8 @@ msgstr[3] ""
 #: activities/clockgame/Clockgame.qml:111
 #, qt-format
 msgctxt "Clockgame|"
-msgid "%n&nbsp;minute(s)"
-msgid_plural "%n&nbsp;minute(s)"
+msgid "%n minute(s)"
+msgid_plural "%n minute(s)"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
