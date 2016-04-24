@@ -6864,12 +6864,12 @@ msgctxt "Lang|"
 msgid "Select your locale"
 msgstr ""
 
-#: activities/lang/Lang.qml:242
+#: activities/lang/Lang.qml:242 activities/lang/Lang.qml:243
 msgctxt "Lang|"
 msgid "other"
 msgstr ""
 
-#: activities/lang/Lang.qml:243
+#: activities/lang/Lang.qml:244
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Addition"
@@ -6877,12 +6877,12 @@ msgctxt "Lang|"
 msgid "action"
 msgstr "Cur ris"
 
-#: activities/lang/Lang.qml:243
+#: activities/lang/Lang.qml:244
 msgctxt "Lang|"
 msgid "adjective"
 msgstr ""
 
-#: activities/lang/Lang.qml:244
+#: activities/lang/Lang.qml:245
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Colors"
@@ -6890,72 +6890,72 @@ msgctxt "Lang|"
 msgid "color"
 msgstr "Dathan"
 
-#: activities/lang/Lang.qml:244
+#: activities/lang/Lang.qml:245
 msgctxt "Lang|"
 msgid "number"
 msgstr ""
 
-#: activities/lang/Lang.qml:245
+#: activities/lang/Lang.qml:246
 msgctxt "Lang|"
 msgid "people"
 msgstr ""
 
-#: activities/lang/Lang.qml:245
+#: activities/lang/Lang.qml:246
 msgctxt "Lang|"
 msgid "bodyparts"
 msgstr ""
 
-#: activities/lang/Lang.qml:246
+#: activities/lang/Lang.qml:247
 msgctxt "Lang|"
 msgid "clothes"
 msgstr ""
 
-#: activities/lang/Lang.qml:246
+#: activities/lang/Lang.qml:247
 msgctxt "Lang|"
 msgid "emotion"
 msgstr ""
 
-#: activities/lang/Lang.qml:247
+#: activities/lang/Lang.qml:248
 msgctxt "Lang|"
 msgid "job"
 msgstr ""
 
-#: activities/lang/Lang.qml:247
+#: activities/lang/Lang.qml:248
 msgctxt "Lang|"
 msgid "sport"
 msgstr ""
 
-#: activities/lang/Lang.qml:248
+#: activities/lang/Lang.qml:249
 msgctxt "Lang|"
 msgid "nature"
 msgstr ""
 
-#: activities/lang/Lang.qml:248
+#: activities/lang/Lang.qml:249
 msgctxt "Lang|"
 msgid "animal"
 msgstr ""
 
-#: activities/lang/Lang.qml:249
+#: activities/lang/Lang.qml:250
 msgctxt "Lang|"
 msgid "fruit"
 msgstr ""
 
-#: activities/lang/Lang.qml:249
+#: activities/lang/Lang.qml:250
 msgctxt "Lang|"
 msgid "plant"
 msgstr ""
 
-#: activities/lang/Lang.qml:250
+#: activities/lang/Lang.qml:251
 msgctxt "Lang|"
 msgid "vegetables"
 msgstr ""
 
-#: activities/lang/Lang.qml:250
+#: activities/lang/Lang.qml:251
 msgctxt "Lang|"
 msgid "object"
 msgstr ""
 
-#: activities/lang/Lang.qml:251
+#: activities/lang/Lang.qml:252
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Simple subtraction"
@@ -6963,22 +6963,22 @@ msgctxt "Lang|"
 msgid "construction"
 msgstr "Toirt air falbh simplidh"
 
-#: activities/lang/Lang.qml:252
+#: activities/lang/Lang.qml:253
 msgctxt "Lang|"
 msgid "furniture"
 msgstr ""
 
-#: activities/lang/Lang.qml:252
+#: activities/lang/Lang.qml:253
 msgctxt "Lang|"
 msgid "houseware"
 msgstr ""
 
-#: activities/lang/Lang.qml:253
+#: activities/lang/Lang.qml:254
 msgctxt "Lang|"
 msgid "tool"
 msgstr ""
 
-#: activities/lang/Lang.qml:253
+#: activities/lang/Lang.qml:254
 msgctxt "Lang|"
 msgid "food"
 msgstr ""
@@ -8353,17 +8353,17 @@ msgctxt "ConfigurationItem|"
 msgid "No"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:672
+#: activities/menu/ConfigurationItem.qml:674
 msgctxt "ConfigurationItem|"
 msgid "Mixed case (default)"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:673
+#: activities/menu/ConfigurationItem.qml:675
 msgctxt "ConfigurationItem|"
 msgid "All uppercase"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:674
+#: activities/menu/ConfigurationItem.qml:676
 msgctxt "ConfigurationItem|"
 msgid "All lowercase"
 msgstr ""
@@ -10240,7 +10240,7 @@ msgctxt "main|"
 msgid "Do you want to download the corresponding sound files now?"
 msgstr ""
 
-#: core/main.qml:195
+#: core/main.qml:208
 msgctxt "main|"
 msgid "GCompris has been updated! Here are the new changes:<br/>"
 msgstr ""
