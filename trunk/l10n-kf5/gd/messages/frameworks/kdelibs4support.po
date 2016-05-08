@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4support\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-05-06 07:45+0000\n"
+"POT-Creation-Date: 2016-05-08 07:20+0000\n"
 "PO-Revision-Date: 2015-11-04 15:12+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -9877,7 +9877,7 @@ msgstr "Sgìre"
 msgid "Comment"
 msgstr "Beachd"
 
-#: kdeui/kapplication.cpp:751
+#: kdeui/kapplication.cpp:753
 #, kde-format
 msgid "The style '%1' was not found"
 msgstr "cha deach an stoidhle \"%1\" a lorg"
