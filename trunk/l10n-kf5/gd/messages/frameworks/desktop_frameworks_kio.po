@@ -1,11 +1,11 @@
-# GunChleoc <fios@foramnagaidhlig.net>, 2014, 2015.
+# GunChleoc <fios@foramnagaidhlig.net>, 2014, 2015, 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2016-04-23 08:30+0000\n"
-"PO-Revision-Date: 2015-11-04 15:10+0000\n"
-"Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
+"PO-Revision-Date: 2016-04-29 13:17+0100\n"
+"Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
 "Language: gd\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3;\n"
-"X-Generator: Poedit 1.8.4\n"
+"X-Generator: Virtaal 0.7.1\n"
 "X-Project-Style: kde\n"
 
 #: src/ioslaves/http/http_cache_cleaner.desktop:3
@@ -439,62 +439,62 @@ msgstr "Thachair mearachd le gnìomhachadh sgriobt rèiteachadh a' phrogsaidh"
 #: src/new_file_templates/Directory.desktop:2
 msgctxt "Name"
 msgid "Folder..."
-msgstr ""
+msgstr "Pasgan..."
 
 #: src/new_file_templates/Directory.desktop:80
 msgctxt "Comment"
 msgid "Enter folder name:"
-msgstr ""
+msgstr "Cuir a-steach ainm a' phasgain:"
 
 #: src/new_file_templates/HTMLFile.desktop:2
 msgctxt "Name"
 msgid "HTML File..."
-msgstr ""
+msgstr "Faidhle HTML..."
 
 #: src/new_file_templates/HTMLFile.desktop:80
 msgctxt "Comment"
 msgid "Enter HTML filename:"
-msgstr ""
+msgstr "Cuir a-steach ainm an fhaidhle HTML:"
 
 #: src/new_file_templates/linkPath.desktop:2
 msgctxt "Name"
 msgid "Basic link to file or directory..."
-msgstr ""
+msgstr "Ceangal bunasach gun fhaidhle no pasgan..."
 
 #: src/new_file_templates/linkPath.desktop:58
 msgctxt "Comment"
 msgid "Enter path of file or directory:"
-msgstr ""
+msgstr "Cuir a-steach slighe an fhaidhle no a' phasgain:"
 
 #: src/new_file_templates/linkProgram.desktop:2
 msgctxt "Name"
 msgid "Link to Application..."
-msgstr ""
+msgstr "Ceangail ri aplacaid..."
 
 #: src/new_file_templates/linkProgram.desktop:75
 msgctxt "Comment"
 msgid "New Link to Application"
-msgstr ""
+msgstr "Ceangal ùr gu aplacaid"
 
 #: src/new_file_templates/linkURL.desktop:2
 msgctxt "Name"
 msgid "Link to Location (URL)..."
-msgstr ""
+msgstr "Ceangal ùr gu ionad (URL)..."
 
 #: src/new_file_templates/linkURL.desktop:79
 msgctxt "Comment"
 msgid "Enter link to location (URL):"
-msgstr ""
+msgstr "Cuir a-steach an ceangal gun ionad (URL):"
 
 #: src/new_file_templates/TextFile.desktop:2
 msgctxt "Name"
 msgid "Text File..."
-msgstr ""
+msgstr "Faidhle teacsa..."
 
 #: src/new_file_templates/TextFile.desktop:79
 msgctxt "Comment"
 msgid "Enter text filename:"
-msgstr ""
+msgstr "Cuir a-steach ainm an fhaidhle teacsa:"
 
 #: src/urifilters/fixhost/fixhosturifilter.desktop:3
 msgctxt "Name"
@@ -1911,12 +1911,11 @@ msgid "Plugin for the KIO Drag-and-drop Popup Menu"
 msgstr "Plugan airson priob-chlàir-taice slaodaidh is leigeil às KIO"
 
 #: src/widgets/konqpopupmenuplugin.desktop:4
-#, fuzzy
 #| msgctxt "Comment"
 #| msgid "Plugin for the KIO Drag-and-drop Popup Menu"
 msgctxt "Comment"
 msgid "Plugin for the Konqueror Popup Menu"
-msgstr "Plugan airson priob-chlàir-taice slaodaidh is leigeil às KIO"
+msgstr "Plugan airson priob-chlàir-taice Konqueror"
 
 #: src/widgets/kpropertiesdialogplugin.desktop:4
 msgctxt "Comment"

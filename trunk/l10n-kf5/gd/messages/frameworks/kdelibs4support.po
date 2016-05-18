@@ -1,15 +1,15 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR This_file_is_part_of_KDE
 # This file is distributed under the same license as the PACKAGE package.
-# GunChleoc <fios@foramnagaidhlig.net>, 2014, 2015.
+# GunChleoc <fios@foramnagaidhlig.net>, 2014, 2015, 2016.
 # Home <fios@akerbeltz.org>, 2014.
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4support\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-05-08 07:20+0000\n"
-"PO-Revision-Date: 2015-11-04 15:12+0000\n"
-"Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
+"POT-Creation-Date: 2016-02-20 07:38+0000\n"
+"PO-Revision-Date: 2016-04-30 17:39+0100\n"
+"Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
 "Language: gd\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3;\n"
-"X-Generator: Poedit 1.8.4\n"
+"X-Generator: Virtaal 0.7.1\n"
 "X-Project-Style: kde\n"
 
 msgctxt "NAME OF TRANSLATORS"
@@ -2106,11 +2106,14 @@ msgid ""
 "Please check the documentation or the source for any\n"
 "licensing terms.\n"
 msgstr ""
+"Cha deach teirmichean ceadachais a shònrachadh airson a' phrògraim seo.\n"
+"Thoir sùil air an docamaideadh no air a' bhun-tùs airson\n"
+"teirmichean ceadachais sam bith.\n"
 
 #: kdecore/k4aboutdata.cpp:273
 #, kde-format
 msgid "This program is distributed under the terms of the %1."
-msgstr ""
+msgstr "Cha am prògram seo 'ga sgaoileadh fo theirmichean a' cheadachais %1."
 
 #: kdecore/k4aboutdata.cpp:297
 msgctxt "@item license (short name)"
@@ -6064,10 +6067,10 @@ msgid "KDE"
 msgstr "KDE"
 
 #: kdecore/kcmdlineargs.cpp:821 kdecore/kcmdlineargs.cpp:835
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "ERROR: Unknown protocol '%1'"
 msgid "Unknown option '%1'."
-msgstr "MEARACHD: Pròtacal \"%1\" nach aithne dhuinn"
+msgstr "Roghainn \"%1\" nach aithne dhuinn."
 
 #: kdecore/kcmdlineargs.cpp:841
 #, kde-format
@@ -6102,75 +6105,80 @@ msgstr ""
 #: kdecore/kcmdlineargs.cpp:924
 msgid "This application was written by somebody who wants to remain anonymous."
 msgstr ""
+"Chaidh an aplacaid seo a sgrìobhadh le cuideigin nach eil airson ainm "
+"foillseachadh."
 
 #: kdecore/kcmdlineargs.cpp:929
 msgid "Please use http://bugs.kde.org to report bugs.\n"
-msgstr ""
+msgstr "Cleachd http://bugs.kde.org gus aithris a dhèanamh air bugaichean.\n"
 
 #: kdecore/kcmdlineargs.cpp:931
 #, kde-format
 msgid "Please report bugs to %1.\n"
-msgstr ""
+msgstr "Cuir aithrisean air bugaichean gu %1.\n"
 
 #: kdecore/kcmdlineargs.cpp:961
 #, kde-format
 msgid "Unexpected argument '%1'."
-msgstr ""
+msgstr "Argamaid \"%1\" air nach robh sinn an dùil."
 
 #: kdecore/kcmdlineargs.cpp:1074
 msgid "Use --help to get a list of available command line options."
 msgstr ""
+"Cleachd --help airson liosta dhe roghainnean na loidhne-àithne a tha ri "
+"làimh fhaicinn."
 
 #: kdecore/kcmdlineargs.cpp:1096
 msgid "[options] "
-msgstr ""
+msgstr "[roghainnean] "
 
 #: kdecore/kcmdlineargs.cpp:1101
 #, kde-format
 msgid "[%1-options]"
-msgstr ""
+msgstr "[%1-roghainnean]"
 
 #: kdecore/kcmdlineargs.cpp:1122
 #, kde-format
 msgid "Usage: %1 %2\n"
-msgstr ""
+msgstr "Cleachdadh: %1 %2\n"
 
 #: kdecore/kcmdlineargs.cpp:1125
 msgid ""
 "\n"
 "Generic options:\n"
 msgstr ""
+"\n"
+"Roghainnean coitcheann:\n"
 
 #: kdecore/kcmdlineargs.cpp:1127
 msgid "Show help about options"
-msgstr ""
+msgstr "Seall cobhair air na roghainnean"
 
 #: kdecore/kcmdlineargs.cpp:1133
 #, kde-format
 msgid "Show %1 specific options"
-msgstr ""
+msgstr "Seall %1 roghainnean sònraichte"
 
 #: kdecore/kcmdlineargs.cpp:1140
-#, fuzzy
 #| msgid "most locations"
 msgid "Show all options"
-msgstr "a' mhòrchuid a dh'àiteachan"
+msgstr "Seall a h-uile roghainn"
 
 #: kdecore/kcmdlineargs.cpp:1141
 msgid "Show author information"
-msgstr ""
+msgstr "Seall fiosrachadh ùghdair"
 
 #: kdecore/kcmdlineargs.cpp:1142
 msgid "Show version information"
-msgstr ""
+msgstr "Seall fiosrachadh an tionndaidh"
 
 #: kdecore/kcmdlineargs.cpp:1143
 msgid "Show license information"
-msgstr ""
+msgstr "Seall fiosrachadh a' cheadachais"
 
 #: kdecore/kcmdlineargs.cpp:1144
 msgid "End of options"
-msgstr ""
+msgstr "Deireadh nan roghainnean"
 
 #: kdecore/kcmdlineargs.cpp:1164
 #, kde-format
@@ -6178,18 +6186,24 @@ msgid ""
 "\n"
 "%1 options:\n"
 msgstr ""
+"\n"
+"Roghainnean %1:\n"
 
 #: kdecore/kcmdlineargs.cpp:1166
 msgid ""
 "\n"
 "Options:\n"
 msgstr ""
+"\n"
+"Roghainnean:\n"
 
 #: kdecore/kcmdlineargs.cpp:1219
 msgid ""
 "\n"
 "Arguments:\n"
 msgstr ""
+"\n"
+"Argamaidean:\n"
 
 #: kdecore/kcmdlineargs.cpp:1580
 msgid "The files/URLs opened by the application will be deleted after use"
@@ -6201,13 +6215,13 @@ msgstr ""
 msgid "KDE-tempfile"
 msgstr "faidhle sealach KDE"
 
-#: kdecore/kdatetime.cpp:1567 kdecore/kdatetime.cpp:1577
-#: kdecore/kdatetime.cpp:2985
+#: kdecore/kdatetime.cpp:1557 kdecore/kdatetime.cpp:1567
+#: kdecore/kdatetime.cpp:2975
 msgid "am"
 msgstr "m"
 
-#: kdecore/kdatetime.cpp:1567 kdecore/kdatetime.cpp:1577
-#: kdecore/kdatetime.cpp:2990
+#: kdecore/kdatetime.cpp:1557 kdecore/kdatetime.cpp:1567
+#: kdecore/kdatetime.cpp:2980
 msgid "pm"
 msgstr "f"
 
@@ -6612,27 +6626,27 @@ msgstr "%1 %2"
 
 #: kdecore/ksavefile.cpp:99
 msgid "No target filename has been given."
-msgstr ""
+msgstr "Cha deach ainm faidhle a' chinn-uidhe a toirt seachad."
 
 #: kdecore/ksavefile.cpp:106
 msgid "Already opened."
-msgstr ""
+msgstr "Chaidh fhosgladh mar-thà."
 
 #: kdecore/ksavefile.cpp:135
 msgid "Insufficient permissions in target directory."
-msgstr ""
+msgstr "Chan eil na ceadan iomchaidh agad sa phasgan-uidhe."
 
 #: kdecore/ksavefile.cpp:139
 msgid "Unable to open temporary file."
-msgstr ""
+msgstr "Cha deach leinn faidhle sealach fhosgladh."
 
 #: kdecore/ksavefile.cpp:249
 msgid "Synchronization to disk failed"
-msgstr ""
+msgstr "Dh'fhàillig an sioncronachadh leis an diosg"
 
 #: kdecore/ksavefile.cpp:280
 msgid "Error during rename."
-msgstr ""
+msgstr "Mearachd le ainm ùr a chur air."
 
 #: kdecore/ksocketfactory.cpp:92 kdecore/ksocketfactory.cpp:106
 msgid "Timed out trying to connect to remote host"
@@ -9877,7 +9891,7 @@ msgstr "Sgìre"
 msgid "Comment"
 msgstr "Beachd"
 
-#: kdeui/kapplication.cpp:753
+#: kdeui/kapplication.cpp:751
 #, kde-format
 msgid "The style '%1' was not found"
 msgstr "cha deach an stoidhle \"%1\" a lorg"

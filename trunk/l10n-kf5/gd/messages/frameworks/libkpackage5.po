@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR This_file_is_part_of_KDE
 # This file is distributed under the same license as the PACKAGE package.
-# GunChleoc <fios@foramnagaidhlig.net>, 2015.
+# GunChleoc <fios@foramnagaidhlig.net>, 2015, 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2016-04-17 07:24+0000\n"
-"PO-Revision-Date: 2015-11-04 15:14+0000\n"
-"Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
+"PO-Revision-Date: 2016-04-30 12:04+0100\n"
+"Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
 "Language: gd\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3;\n"
-"X-Generator: Poedit 1.8.4\n"
+"X-Generator: Virtaal 0.7.1\n"
 "X-Project-Style: kde\n"
 
 #: kpackage/package.cpp:55
@@ -133,10 +133,10 @@ msgid "Could not open package file: %1"
 msgstr "Cha b' urrainn dhuinn faidhle na pacaid fhosgladh: %1"
 
 #: kpackage/private/packagejobthread.cpp:304
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Could not open package file: %1"
 msgid "Could not open metadata file: %1"
-msgstr "Cha b' urrainn dhuinn faidhle na pacaid fhosgladh: %1"
+msgstr "Cha b' urrainn dhuinn faidhle a' mheata-dàta fhosgladh: %1"
 
 #: kpackage/private/packagejobthread.cpp:315
 #, kde-format
@@ -157,16 +157,21 @@ msgstr "Tha caractaran mì-dhligheach ann an ainm plugain na pacaid %1"
 msgid ""
 "The new package has a different type from the old version already installed."
 msgstr ""
+"Chan eil seòrsa na pacaide ùire co-ionnann ri seòrsa an t-seann-tionndaidh a "
+"chaidh a stàladh mar-thà."
 
 #: kpackage/private/packagejobthread.cpp:356
 #, kde-format
 msgid "Impossible to remove the old installation of %1 located at %2"
 msgstr ""
+"Chan urrainn dhuinn an seann-stàladh dhe %1 san ionad %2 a thoirt air falbh"
 
 #: kpackage/private/packagejobthread.cpp:360
 #, kde-format
 msgid "Not installing version %1 of %2. Version %3 already installed."
 msgstr ""
+"Chan eil sinn a' stàladh tionndadh %1 dhe %2. Chaidh an tionndadh %3 a "
+"stàladh mar-thà."
 
 #: kpackage/private/packagejobthread.cpp:364
 #, kde-format
