@@ -28,10 +28,9 @@ msgid ""
 "\"%2\" in %3.\n"
 "Do you want to reassign it from that action to the current one?"
 msgstr ""
-"Chaidh na co-iuchraichean \"%1\" a riarachadh dhan gnìomh uile-choitcheann \"%"
-"2\" ann an \"%3\" mar-thà.\n"
-"A bheil thu airson an riarachadh atharrachadh on ghnìomh ud dhan ghnìomh "
-"seo?"
+"Chaidh na co-iuchraichean \"%1\" a riarachadh dhan gnìomh uile-choitcheann "
+"\"%2\" ann an \"%3\" mar-thà.\n"
+"A bheil thu airson an riarachadh atharrachadh on ghnìomh ud dhan ghnìomh seo?"
 
 #: kglobalaccel.cpp:545 kglobalaccel.cpp:589
 msgctxt "KGlobalAccel|"

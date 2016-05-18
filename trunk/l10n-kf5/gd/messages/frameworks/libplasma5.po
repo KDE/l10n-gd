@@ -985,7 +985,6 @@ msgid "Fetching file type..."
 msgstr "A' faighinn seòrsa an fhaidhle..."
 
 #: scriptengines/qml/plasmoid/containmentinterface.cpp:631
-#| msgid "Plasma Package Manager"
 msgid "Plasma Package"
 msgstr "Pacaid Plasma"
 
@@ -1006,7 +1005,6 @@ msgid "Wallpaper"
 msgstr "Pàipear-balla"
 
 #: scriptengines/qml/plasmoid/containmentinterface.cpp:699
-#| msgid "Script initialization failed"
 msgid "Package Installation Failed"
 msgstr "Dh’fhàillig le stàladh na pacaide"
 

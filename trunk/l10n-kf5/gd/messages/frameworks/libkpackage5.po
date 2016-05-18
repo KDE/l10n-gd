@@ -134,7 +134,6 @@ msgstr "Cha b' urrainn dhuinn faidhle na pacaid fhosgladh: %1"
 
 #: kpackage/private/packagejobthread.cpp:304
 #, kde-format
-#| msgid "Could not open package file: %1"
 msgid "Could not open metadata file: %1"
 msgstr "Cha b' urrainn dhuinn faidhle a' mheata-dàta fhosgladh: %1"
 

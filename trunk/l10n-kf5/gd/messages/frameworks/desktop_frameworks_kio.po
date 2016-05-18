@@ -1911,8 +1911,6 @@ msgid "Plugin for the KIO Drag-and-drop Popup Menu"
 msgstr "Plugan airson priob-chlàir-taice slaodaidh is leigeil às KIO"
 
 #: src/widgets/konqpopupmenuplugin.desktop:4
-#| msgctxt "Comment"
-#| msgid "Plugin for the KIO Drag-and-drop Popup Menu"
 msgctxt "Comment"
 msgid "Plugin for the Konqueror Popup Menu"
 msgstr "Plugan airson priob-chlàir-taice Konqueror"

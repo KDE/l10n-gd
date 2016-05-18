@@ -60,8 +60,8 @@ msgstr ""
 "%1</b> a shàbhaladh. Seo còd na mearachd: <b>%2 (%3)</b>. Càirich "
 "rèiteachadh an t-siostaim agad is feuch ris a-rithist an uairsin. Faodaidh "
 "a' mhearachd seo tachairt ma the thu a# cleachdadh iuchair GPG anns nach eil "
-"làn-earbsa. Dèan cinnteach gu bheil an iuchair dhìomhair agad airson na "
-"h-iuchrach a tha thu a' cleachdadh.</qt>"
+"làn-earbsa. Dèan cinnteach gu bheil an iuchair dhìomhair agad airson na h-"
+"iuchrach a tha thu a' cleachdadh.</qt>"
 
 #: backend/backendpersisthandler.cpp:584
 #, kde-format
@@ -172,8 +172,8 @@ msgstr ""
 "Cha deach leinn an sporan <b>%1</b> a shioncronachadh dhan diosg. Seo còdan "
 "nam mearachdan:\n"
 "RC <b>%2</b>\n"
-"SF <b>%3</b>. Cuir aithris air buga leis an fiosrachadh seo a-null gu "
-"bugs.kde.org"
+"SF <b>%3</b>. Cuir aithris air buga leis an fiosrachadh seo a-null gu bugs."
+"kde.org"
 
 #. i18n: ectx: property (text), widget (QPushButton, _allowOnce)
 #: kbetterthankdialogbase.ui:50
@@ -202,10 +202,10 @@ msgid ""
 "to store sensitive data in a secure fashion. Please choose the new wallet's "
 "type below or click cancel to deny the application's request.</qt>"
 msgstr ""
-"<qt>Dh'iarr KDE sporan ùr a chruthachadh air a bheil \"<b>%1</b>\". Thèid seo "
-"a cleachdadh gus dàta cugallach a ghlèidheadh ann an dòigh thèarainte. Tagh "
-"seòrsa an sporain ùir gu h-ìosal no briog air \"Sguir dheth\" gus iarrtas na "
-"h-aplacaid a dhiùltadh.</qt>"
+"<qt>Dh'iarr KDE sporan ùr a chruthachadh air a bheil \"<b>%1</b>\". Thèid "
+"seo a cleachdadh gus dàta cugallach a ghlèidheadh ann an dòigh thèarainte. "
+"Tagh seòrsa an sporain ùir gu h-ìosal no briog air \"Sguir dheth\" gus "
+"iarrtas na h-aplacaid a dhiùltadh.</qt>"
 
 #: knewwalletdialog.cpp:67
 #, kde-format
@@ -216,9 +216,9 @@ msgid ""
 "application's request.</qt>"
 msgstr ""
 "<qt>Dh'iarr an aplacaid \"<b>%1</b>\" sporan ùr a chruthachadh air a bheil "
-"\"<b>%2</b>\". Thèid seo a cleachdadh gus dàta cugallach a ghlèidheadh ann an "
-"dòigh thèarainte. Tagh seòrsa an sporain ùir gu h-ìosal no briog air \"Sguir "
-"dheth\" gus iarrtas na h-aplacaid a dhiùltadh.</qt>"
+"\"<b>%2</b>\". Thèid seo a cleachdadh gus dàta cugallach a ghlèidheadh ann "
+"an dòigh thèarainte. Tagh seòrsa an sporain ùir gu h-ìosal no briog air "
+"\"Sguir dheth\" gus iarrtas na h-aplacaid a dhiùltadh.</qt>"
 
 #: knewwalletdialog.cpp:129 knewwalletdialog.cpp:135 kwalletwizard.cpp:162
 #: kwalletwizard.cpp:166
@@ -227,8 +227,8 @@ msgid ""
 "check your system's configuration then try again."
 msgstr ""
 "Cha deach leis an leabharlann QGpgME tòiseachadh le taic dhan phròtacal "
-"OpenPGP. Thoir sùil air rèiteachadh an t-siostaim agad is feuch ris "
-"a-rithist an uairsin."
+"OpenPGP. Thoir sùil air rèiteachadh an t-siostaim agad is feuch ris a-"
+"rithist an uairsin."
 
 #: knewwalletdialog.cpp:156
 msgid ""
@@ -278,17 +278,17 @@ msgstr "Siostam sporain KDE"
 
 #. i18n: ectx: property (text), widget (QLabel, labelIntro)
 #: knewwalletdialogintro.ui:30
-#, kde-format, no-c-format
+#, no-c-format, kde-format
 msgid ""
 "<html><head/><body><p>The application '<span style=\" font-weight:600;\">%1</"
 "span>' has requested to open the KDE wallet. This is used to store sensitive "
 "data in a secure fashion. Please choose the new wallet's type below or click "
 "cancel to deny the application's request.</p></body></html>"
 msgstr ""
-"<html><head/><body><p>Dh'iarr an aplacaid \"<span style=\" font-weight:600;\">%"
-"1</span>\" sporan KDE fhosgladh. Thèid seo a cleachdadh gus dàta cugallach a "
-"ghlèidheadh ann an dòigh thèarainte. Tagh seòrsa an sporain ùir gu h-ìosal "
-"no briog air \"Sguir dheth\" gus iarrtas na h-aplacaid a "
+"<html><head/><body><p>Dh'iarr an aplacaid \"<span style=\" font-weight:600;"
+"\">%1</span>\" sporan KDE fhosgladh. Thèid seo a cleachdadh gus dàta "
+"cugallach a ghlèidheadh ann an dòigh thèarainte. Tagh seòrsa an sporain ùir "
+"gu h-ìosal no briog air \"Sguir dheth\" gus iarrtas na h-aplacaid a "
 "dhiùltadh.</p></body></html>"
 
 #. i18n: ectx: property (text), widget (QRadioButton, _radioBlowfish)
@@ -318,8 +318,8 @@ msgid ""
 "<qt>The application '<b>%1</b>' has requested to open the wallet '<b>%2</"
 "b>'. Please enter the password for this wallet below.</qt>"
 msgstr ""
-"<qt>Dh'iarr an aplacaid \"<b>%1</b>\" fosgladh an sporain \"<b>%2</b>\". Cuir "
-"a-steach am facal-faire airson an sporain gu h-ìosal.</qt>"
+"<qt>Dh'iarr an aplacaid \"<b>%1</b>\" fosgladh an sporain \"<b>%2</b>\". "
+"Cuir a-steach am facal-faire airson an sporain gu h-ìosal.</qt>"
 
 #. i18n( "&Open" ), "wallet-open"));
 #: kwalletd.cpp:632 kwalletd.cpp:776 kwalletd.cpp:894 kwalletd.cpp:1023
@@ -358,8 +358,8 @@ msgid ""
 "<qt>Error opening the wallet '<b>%1</b>'. Please try again.<br />(Error code "
 "%2: %3)</qt>"
 msgstr ""
-"<qt>Mearachd le fosgladh an sporain \"<b>%1</b>\". am feuch thu ris "
-"a-rithist?<br />(Còd na mearachd: %2: %3)</qt>"
+"<qt>Mearachd le fosgladh an sporain \"<b>%1</b>\". am feuch thu ris a-"
+"rithist?<br />(Còd na mearachd: %2: %3)</qt>"
 
 #: kwalletd.cpp:741
 msgid ""
@@ -369,8 +369,8 @@ msgid ""
 msgstr ""
 "Dh'iarr KDE fosgladh an sporain. Thèid seo a cleachdadh gus dàta cugallach a "
 "ghlèidheadh ann an dòigh thèarainte. Cuir a-steach am facal-faire a thèid a "
-"chleachdadh leis an sporan seo no briog air \"Sguir dheth\" gus iarrtas na "
-"h-aplacaid a dhiùltadh."
+"chleachdadh leis an sporan seo no briog air \"Sguir dheth\" gus iarrtas na h-"
+"aplacaid a dhiùltadh."
 
 #: kwalletd.cpp:749
 #, kde-format
@@ -381,9 +381,9 @@ msgid ""
 "qt>"
 msgstr ""
 "<qt>Dh'iarr an aplacaid \"<b>%1</b>\" fosgladh sporain KDE. Thèid seo a "
-"cleachdadh gus dàta cugallach a ghlèidheadh ann an dòigh thèarainte. Cuir "
-"a-steach am facal-faire a thèid a chleachdadh leis an sporan seo no briog "
-"air \"Sguir dheth\" gus iarrtas na h-aplacaid a dhiùltadh.</qt>"
+"cleachdadh gus dàta cugallach a ghlèidheadh ann an dòigh thèarainte. Cuir a-"
+"steach am facal-faire a thèid a chleachdadh leis an sporan seo no briog air "
+"\"Sguir dheth\" gus iarrtas na h-aplacaid a dhiùltadh.</qt>"
 
 #: kwalletd.cpp:761
 #, kde-format
@@ -393,8 +393,8 @@ msgid ""
 "request.</qt>"
 msgstr ""
 "<qt>Dh'iarr KDE gun dèid sporan ùr a chruthachadh air a bheil \"<b>%1</b>\". "
-"Tagh facal-faire airson an sporain sin no sguir dheth gus iarrtas na "
-"h-aplacaid a dhiùltadh.</qt>"
+"Tagh facal-faire airson an sporain sin no sguir dheth gus iarrtas na h-"
+"aplacaid a dhiùltadh.</qt>"
 
 #: kwalletd.cpp:769
 #, kde-format
@@ -403,9 +403,9 @@ msgid ""
 "'<b>%2</b>'. Please choose a password for this wallet, or cancel to deny the "
 "application's request.</qt>"
 msgstr ""
-"<qt>Dh'iarr an aplacaid \"<b>%1</b>\" gun dèid sporan ùr a chruthachadh air a "
-"bheil \"<b>%2</b>\". Tagh facal-faire airson an sporain sin no sguir dheth gus "
-"iarrtas na h-aplacaid a dhiùltadh.</qt>"
+"<qt>Dh'iarr an aplacaid \"<b>%1</b>\" gun dèid sporan ùr a chruthachadh air "
+"a bheil \"<b>%2</b>\". Tagh facal-faire airson an sporain sin no sguir dheth "
+"gus iarrtas na h-aplacaid a dhiùltadh.</qt>"
 
 #: kwalletd.cpp:896
 #, kde-format
@@ -418,8 +418,8 @@ msgid ""
 "<qt>The application '<b>%1</b>' has requested access to the open wallet '<b>"
 "%2</b>'.</qt>"
 msgstr ""
-"<qt>Dh'iarr an aplacaid \"<b>%1</b>\" inntrigeadh dhan sporan fhosgailte \"<b>%"
-"2</b>\".</qt>"
+"<qt>Dh'iarr an aplacaid \"<b>%1</b>\" inntrigeadh dhan sporan fhosgailte "
+"\"<b>%2</b>\".</qt>"
 
 #: kwalletd.cpp:1021
 msgid ""
@@ -437,8 +437,8 @@ msgid ""
 "associated to that key.</qt>"
 msgstr ""
 "<qt>Chaidh an sporan <b>%1</b> a chrioptachadh le iuchair GPG <b>%2</b>. "
-"Cleachd inneal <b>GPG</b> (can <b>kleopatra</b>) gus abairt-fhaire na "
-"h-iuchrach sin atharrachadh.</qt>"
+"Cleachd inneal <b>GPG</b> (can <b>kleopatra</b>) gus abairt-fhaire na h-"
+"iuchrach sin atharrachadh.</qt>"
 
 #: kwalletd.cpp:1047
 #, kde-format
@@ -558,8 +558,7 @@ msgstr ""
 "Fàilte gu KWallet, siostam sporain KDE. Leigidh KWallet leat na faclan-faire "
 "is fiosrachadh pearsanta eile a ghlèidheadh air an diosg ann am faidhle "
 "crioptaichte ach nach fhaic càch am fiosrachadh. Innsidh an draoidh seo dhut "
-"mu KWallet agus cuidichidh e thu ach an rèitich thu e airson a' chiad "
-"turais."
+"mu KWallet agus cuidichidh e thu ach an rèitich thu e airson a' chiad turais."
 
 #. i18n: ectx: property (text), widget (QRadioButton, _basic)
 #: kwalletwizardpageintro.ui:69
@@ -649,11 +648,11 @@ msgid ""
 msgstr ""
 "<html><head/><body><p>Faodaidh iomadh aplacaid feuchainn ri sporan KDE a "
 "chleachdadh gus faclan-faire no fiosrachadh eile a ghlèidheadh ann, can dàta "
-"fhoirmean-lìn no briosgaidean. Nam b' fhearr leat gun cleachd na "
-"h-aplacaidean ud an sporan, feumaidh tu seo a chur an comas an-dràsta agus "
-"an dòigh crioptachaidh a thaghadh.</p><p>Tha an dòigh GPG nas tèarainte ach "
-"feumaidh tu iuchair crioptachaidh no dhà a rèiteachadh air an t-siostam "
-"agad.</p><p>Ma thaghas tu am fòrmat clasaigeach, thoir an aire <span style=\" "
+"fhoirmean-lìn no briosgaidean. Nam b' fhearr leat gun cleachd na h-"
+"aplacaidean ud an sporan, feumaidh tu seo a chur an comas an-dràsta agus an "
+"dòigh crioptachaidh a thaghadh.</p><p>Tha an dòigh GPG nas tèarainte ach "
+"feumaidh tu iuchair crioptachaidh no dhà a rèiteachadh air an t-siostam agad."
+"</p><p>Ma thaghas tu am fòrmat clasaigeach, thoir an aire <span style=\" "
 "font-style:italic;\">nach gabh</span> am facal-faire a thaghas tu aiseag ma "
 "chaidh e air chall agus gheibh duine sam bith aig a bheil am facal-faire "
 "greim air gach fiosrachadh a tha am broinn an sporain.</p></body></html>"
@@ -749,8 +748,7 @@ msgstr "* Ag imrich pasgan %1"
 #, kde-format
 msgid "Cannot retrieve folder %1 entries. Aborting."
 msgstr ""
-"Chan urrainn dhuinn innteartan a' phasgain %1 fhaighinn. 'Ga leigeil "
-"seachad."
+"Chan urrainn dhuinn innteartan a' phasgain %1 fhaighinn. 'Ga leigeil seachad."
 
 #: migrationagent.cpp:229
 #, kde-format

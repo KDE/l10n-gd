@@ -190,8 +190,6 @@ msgid "&Remove"
 msgstr "Thoi&r air falbh"
 
 #: ui/configui.ui:160
-#| msgctxt "SonnetConfigUI|"
-#| msgid "Enable &background spellchecking"
 msgctxt "SonnetConfigUI|"
 msgid "No backend found for spell checking"
 msgstr "Cha deach backend airson dearbhadh an litreachaidh a lorg"

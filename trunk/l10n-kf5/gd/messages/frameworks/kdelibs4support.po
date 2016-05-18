@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4support\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-02-20 07:38+0000\n"
+"POT-Creation-Date: 2016-05-08 07:20+0000\n"
 "PO-Revision-Date: 2016-04-30 17:39+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -6068,7 +6068,6 @@ msgstr "KDE"
 
 #: kdecore/kcmdlineargs.cpp:821 kdecore/kcmdlineargs.cpp:835
 #, kde-format
-#| msgid "ERROR: Unknown protocol '%1'"
 msgid "Unknown option '%1'."
 msgstr "Roghainn \"%1\" nach aithne dhuinn."
 
@@ -6160,7 +6159,6 @@ msgid "Show %1 specific options"
 msgstr "Seall %1 roghainnean sònraichte"
 
 #: kdecore/kcmdlineargs.cpp:1140
-#| msgid "most locations"
 msgid "Show all options"
 msgstr "Seall a h-uile roghainn"
 
@@ -6215,13 +6213,13 @@ msgstr ""
 msgid "KDE-tempfile"
 msgstr "faidhle sealach KDE"
 
-#: kdecore/kdatetime.cpp:1557 kdecore/kdatetime.cpp:1567
-#: kdecore/kdatetime.cpp:2975
+#: kdecore/kdatetime.cpp:1567 kdecore/kdatetime.cpp:1577
+#: kdecore/kdatetime.cpp:2985
 msgid "am"
 msgstr "m"
 
-#: kdecore/kdatetime.cpp:1557 kdecore/kdatetime.cpp:1567
-#: kdecore/kdatetime.cpp:2980
+#: kdecore/kdatetime.cpp:1567 kdecore/kdatetime.cpp:1577
+#: kdecore/kdatetime.cpp:2990
 msgid "pm"
 msgstr "f"
 
@@ -9891,7 +9889,7 @@ msgstr "Sgìre"
 msgid "Comment"
 msgstr "Beachd"
 
-#: kdeui/kapplication.cpp:751
+#: kdeui/kapplication.cpp:753
 #, kde-format
 msgid "The style '%1' was not found"
 msgstr "cha deach an stoidhle \"%1\" a lorg"

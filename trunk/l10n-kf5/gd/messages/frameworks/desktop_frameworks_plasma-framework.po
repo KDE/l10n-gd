@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-04-26 09:29+0000\n"
+"POT-Creation-Date: 2016-04-30 08:26+0000\n"
 "PO-Revision-Date: 2016-04-29 19:26+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -230,8 +230,6 @@ msgid "Breeze Dark"
 msgstr "Dorch-oiteag"
 
 #: src/desktoptheme/breeze-light/metadata.desktop:2
-#| msgctxt "Name"
-#| msgid "Breeze"
 msgctxt "Name"
 msgid "Breeze Light"
 msgstr "Oiteag shoilleir"
@@ -372,8 +370,8 @@ msgctxt "Name"
 msgid "%{APPNAME}"
 msgstr "%{APPNAME}"
 
-#: templates/cpp-plasmoid/src/package/metadata.desktop:31
-#: templates/qml-plasmoid/package/metadata.desktop:31
+#: templates/cpp-plasmoid/src/package/metadata.desktop:32
+#: templates/qml-plasmoid/package/metadata.desktop:32
 msgctxt "Comment"
 msgid "what your app does in a few words"
 msgstr "na nì an aplacaid agad ann am beagan fhaclan"

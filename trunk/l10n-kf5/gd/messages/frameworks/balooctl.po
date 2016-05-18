@@ -131,11 +131,10 @@ msgstr ""
 "Liosta nan criathragan a thèid a chleachdadh gus faidhlichean às-dhùnadh"
 
 #: configcommand.cpp:90 configcommand.cpp:153 configcommand.cpp:264
-#| msgid "The list of filters which are used to exclude files"
 msgid "The list of mimetypes which are used to exclude files"
 msgstr ""
-"Liosta nan seòrsaichean MIME a thèid a chleachdadh gus faidhlichean "
-"às-dhùnadh"
+"Liosta nan seòrsaichean MIME a thèid a chleachdadh gus faidhlichean às-"
+"dhùnadh"
 
 #: configcommand.cpp:142 configcommand.cpp:253 configcommand.cpp:390
 #: configcommand.cpp:459
@@ -163,13 +162,11 @@ msgstr "Chan eil an t-slighe 'na pasgan"
 
 #: configcommand.cpp:179
 #, kde-format
-#| msgid "is not in list of exclude filters"
 msgid "%1 is not in the list of include folders"
 msgstr "chan eil %1 air liosta nan criathragan gabhail a-steach"
 
 #: configcommand.cpp:209
 #, kde-format
-#| msgid "is not in list of exclude filters"
 msgid "%1 is not in the list of exclude folders"
 msgstr "chan eil %1 air liosta nam pasgan às-dhùnaidh"
 
@@ -179,63 +176,54 @@ msgstr "Feumaidh tu criathrag a shònrachadh"
 
 #: configcommand.cpp:227
 #, kde-format
-#| msgid "is not in list of exclude filters"
 msgid "%1 is not in list of exclude filters"
 msgstr "chan eil %1 air liosta nan criathragan às-dhùnaidh"
 
 #: configcommand.cpp:238 configcommand.cpp:374
-#| msgid "A filter must be provided"
 msgid "A mimetype must be provided"
 msgstr "Feumaidh tu seòrsa MIME a shònrachadh"
 
 #: configcommand.cpp:244
 #, kde-format
-#| msgid "is not in list of exclude filters"
 msgid "%1 is not in list of exclude mimetypes"
 msgstr "chan eil %1 air liosta nan seòrsaichean MIME às-dhùnaidh"
 
 #: configcommand.cpp:290
 #, kde-format
-#| msgid "is not in list of exclude filters"
 msgid "%1 is already in the list of include folders"
 msgstr "tha %1 air liosta nam pasgan gabhail a-steach mar-thà"
 
 #: configcommand.cpp:296
 #, kde-format
-#| msgid "Exclude filter is already in the list"
 msgid "Parent folder %1 is already in the list of include folders"
 msgstr ""
 "Tha am pasgan-pàraint %1 air an liosta nam pasganan gabhail a-steach mar-thà"
 
 #: configcommand.cpp:302 configcommand.cpp:344
 #, kde-format
-#| msgid "is not in list of exclude filters"
 msgid "%1 is in the list of exclude folders"
 msgstr "tha %1 air liosta nam pasgan às-dhùnaidh"
 
 #: configcommand.cpp:332
 #, kde-format
-#| msgid "is not in list of exclude filters"
 msgid "%1 is already in the list of exclude folders"
 msgstr "tha %1 air liosta nam pasgan às-dhùnaidh mar-thà"
 
 #: configcommand.cpp:338
 #, kde-format
-#| msgid "is not in list of exclude filters"
 msgid "Parent folder %1 is already in the list of exclude folders"
-msgstr "Tha am pasgan-pàraint %1 air an liosta nam pasganan às-dhùnaidh mar-thà"
+msgstr ""
+"Tha am pasgan-pàraint %1 air an liosta nam pasganan às-dhùnaidh mar-thà"
 
 #: configcommand.cpp:362
 msgid "Exclude filter is already in the list"
 msgstr "Tha a' chriathrag às-dhùnaidh air an liosta mar-thà"
 
 #: configcommand.cpp:380
-#| msgid "Exclude filter is already in the list"
 msgid "Exclude mimetype is already in the list"
 msgstr "Tha an seòrsa MIME às-dhùnaidh air an liosta mar-thà"
 
 #: configcommand.cpp:407 configcommand.cpp:434
-#| msgid "A folder must be provided"
 msgid "A value must be provided"
 msgstr "Feumaidh tu luach a shònrachadh"
 
@@ -309,7 +297,6 @@ msgid "Modify the Baloo configuration"
 msgstr "Atharraich rèiteachadh Baloo"
 
 #: statuscommand.cpp:45
-#| msgid "Print the status of the indexer"
 msgid "Print the status of the Indexer"
 msgstr "Cuir staid an inneil-inneacsaidh air an sgrìn"
 
@@ -319,7 +306,6 @@ msgstr ""
 "Tha Baloo à comas an-dràsta. Gus a chur an comas, ruith \"balooctl enable\""
 
 #: statuscommand.cpp:60
-#| msgid "Config parameter could not be found"
 msgid "Baloo Index could not be opened"
 msgstr "Cha b' urrainn dhuinn inneacs Baloo fhosgladh"
 
@@ -338,7 +324,6 @@ msgstr "Chan eil inneal-inneacsaidh Baloo 'ga ruith"
 
 #: statuscommand.cpp:91
 #, kde-format
-#| msgid "Indexing new files"
 msgid "Indexed %1 / %2 files"
 msgstr "Chaidh %1 / %2 faidhle inneacsadh"
 
