@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-04-12 08:42+0000\n"
+"POT-Creation-Date: 2016-05-19 07:46+0000\n"
 "PO-Revision-Date: 2016-04-30 12:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -1012,7 +1012,7 @@ msgstr "Dh’fhàillig le stàladh na pacaide"
 msgid "The package you just dropped is invalid."
 msgstr "Tha a' phacaid a leig thu às mì-dligheach."
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:1021
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:1027
 #, kde-format
 msgctxt "%1 is the name of the containment"
 msgid "%1 Options"

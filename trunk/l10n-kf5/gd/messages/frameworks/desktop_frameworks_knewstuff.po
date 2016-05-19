@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-04-30 08:26+0000\n"
+"POT-Creation-Date: 2016-05-19 08:16+0000\n"
 "PO-Revision-Date: 2016-04-29 13:18+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -49,7 +49,7 @@ msgctxt "Name"
 msgid "Giggle"
 msgstr "Giggle"
 
-#: data/kmoretools-desktopfiles/giggle.desktop:66
+#: data/kmoretools-desktopfiles/giggle.desktop:67
 msgctxt "Comment"
 msgid "Git repository viewer"
 msgstr "Sealladair ionadan-tasgaidh Git"
@@ -95,7 +95,7 @@ msgctxt "Name"
 msgid "Search for Files..."
 msgstr "Lorg faidhlichean..."
 
-#: data/kmoretools-desktopfiles/gnome-search-tool.desktop:31
+#: data/kmoretools-desktopfiles/gnome-search-tool.desktop:32
 msgctxt "Comment"
 msgid "Locate documents and folders on this computer by name or content"
 msgstr ""
