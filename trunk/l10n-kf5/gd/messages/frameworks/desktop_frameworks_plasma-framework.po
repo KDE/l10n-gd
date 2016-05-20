@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-05-19 08:16+0000\n"
+"POT-Creation-Date: 2016-05-20 07:56+0000\n"
 "PO-Revision-Date: 2016-04-29 19:26+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -189,16 +189,6 @@ msgctxt "Comment"
 msgid "Basic App"
 msgstr "Aplacaid bhunaiteach"
 
-#: examples/kpart/plasma-example-kpart-shell.desktop:2
-msgctxt "Name"
-msgid "plasma-kpart-shell"
-msgstr "plasma-kpart-shell"
-
-#: examples/kpart/plasma-example-kpart-shell.desktop:44
-msgctxt "GenericName"
-msgid "A KPart shell for Plasma"
-msgstr "Shell KPart airson Plasma"
-
 #: examples/testcontainmentactionsplugin/plasma-containmentactions-test.desktop:2
 msgctxt "Name"
 msgid "Test"
@@ -248,11 +238,6 @@ msgstr "Ogsaidean"
 msgctxt "Comment"
 msgid "Theme done in the Oxygen style"
 msgstr "Ùrlar san stoidhle ogsaidean"
-
-#: src/kpart/plasma-kpart.desktop:2
-msgctxt "Name"
-msgid "plasma-kpart"
-msgstr "plasma-kpart"
 
 #: src/plasma/data/servicetypes/plasma-applet.desktop:5
 msgctxt "Comment"
@@ -375,6 +360,18 @@ msgstr "%{APPNAME}"
 msgctxt "Comment"
 msgid "what your app does in a few words"
 msgstr "na nì an aplacaid agad ann am beagan fhaclan"
+
+#~ msgctxt "Name"
+#~ msgid "plasma-kpart-shell"
+#~ msgstr "plasma-kpart-shell"
+
+#~ msgctxt "GenericName"
+#~ msgid "A KPart shell for Plasma"
+#~ msgstr "Shell KPart airson Plasma"
+
+#~ msgctxt "Name"
+#~ msgid "plasma-kpart"
+#~ msgstr "plasma-kpart"
 
 #~ msgctxt "Name"
 #~ msgid "JavaScript File Operations"
