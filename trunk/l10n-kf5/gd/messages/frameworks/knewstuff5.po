@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-04-30 07:54+0000\n"
+"POT-Creation-Date: 2016-05-24 09:07+0000\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -172,11 +172,11 @@ msgstr ""
 msgid "Could not install \"%1\": file not found."
 msgstr "Cha b' urrainn dhuinn \"%1\" a stàladh: cha deach am faidhle a lorg."
 
-#: core/installation.cpp:538
+#: core/installation.cpp:533
 msgid "Overwrite existing file?"
 msgstr "A bheil thu airson sgrìobhadh thairis air an fhaidhle a tha ann?"
 
-#: core/installation.cpp:538
+#: core/installation.cpp:533
 msgid "Download File"
 msgstr "Luchdaich a-nuas faidhle"
 
@@ -366,17 +366,17 @@ msgstr "Lean air"
 msgid "Install"
 msgstr "Stàlaich"
 
-#: kmoretools/kmoretools.cpp:638
+#: kmoretools/kmoretools.cpp:633
 msgctxt "@action:inmenu"
 msgid "More"
 msgstr "Barrachd"
 
-#: kmoretools/kmoretools.cpp:653
+#: kmoretools/kmoretools.cpp:648
 msgctxt "@action:inmenu"
 msgid "Not installed:"
 msgstr "Gun stàladh:"
 
-#: kmoretools/kmoretools.cpp:689
+#: kmoretools/kmoretools.cpp:684
 msgctxt "@action:inmenu"
 msgid "Configure..."
 msgstr "Rèitich..."
