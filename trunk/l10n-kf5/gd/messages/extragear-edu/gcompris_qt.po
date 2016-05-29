@@ -8574,7 +8574,7 @@ msgstr ""
 "pàigheadh. Ma tha thu airson bonn no nòta a chur air falbh, briog air aig "
 "barr na sgrìn."
 
-#: activities/money/money.js:661
+#: activities/money/money.js:660
 msgctxt "money|"
 msgid ""
 "Click on the coins or paper money at the bottom of the screen to pay. If you "
@@ -8584,7 +8584,7 @@ msgstr ""
 "pàigheadh. Ma tha thu airson bonn no nòta a chur air falbh, briog air aig "
 "barr na sgrìn."
 
-#: activities/money/money.js:701
+#: activities/money/money.js:700
 #, qt-format
 msgctxt "money|"
 msgid ""
