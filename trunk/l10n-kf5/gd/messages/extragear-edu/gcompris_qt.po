@@ -8897,7 +8897,7 @@ msgid ""
 "you find a difference you must click on it."
 msgstr ""
 
-#: activities/photo_hunter/PhotoHunter.qml:102
+#: activities/photo_hunter/PhotoHunter.qml:103
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Click on the word corresponding to the printed image."
