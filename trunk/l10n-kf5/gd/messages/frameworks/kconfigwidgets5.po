@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kconfigwidgets5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-10-26 07:54+0000\n"
+"POT-Creation-Date: 2016-06-01 07:19+0000\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -64,41 +64,33 @@ msgstr "Chan eil innteart ann"
 msgid "Clear List"
 msgstr "Falamhaich an liosta"
 
-#: kstandardaction.cpp:90
+#: kstandardaction.cpp:88
 msgctxt "go back"
 msgid "&Back"
 msgstr "&Air ais"
 
-#: kstandardaction.cpp:97
+#: kstandardaction.cpp:95
 msgctxt "go forward"
 msgid "&Forward"
 msgstr "Air a&dhart"
 
-#: kstandardaction.cpp:104
+#: kstandardaction.cpp:102
 msgctxt "home page"
 msgid "&Home"
 msgstr "Dha&chaigh"
 
-#: kstandardaction.cpp:107
+#: kstandardaction.cpp:105
 msgctxt "show help"
 msgid "&Help"
 msgstr "Cob&hair"
 
-#: kstandardaction.cpp:526 kstandardaction_p.h:96
-msgid "Show &Menubar"
-msgstr "Seall &bàr clàr-taice"
-
-#: kstandardaction.cpp:534
+#: kstandardaction.cpp:141
 msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
 msgstr ""
 "Seall bàr clàr-taice<p>Seallaidh seo am bàr clàr-taice a-rithist ma chaidh "
 "fhalach</p>"
 
-#: kstandardaction.cpp:552 kstandardaction_p.h:98
-msgid "Show St&atusbar"
-msgstr "Seall am bàr-st&aid"
-
-#: kstandardaction.cpp:555
+#: kstandardaction.cpp:151
 msgid ""
 "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of the "
 "window used for status information.</p>"
@@ -404,6 +396,10 @@ msgid "Check spelling in document"
 msgstr "Dearbhaich an litreachadh san sgrìobhainn"
 
 #: kstandardaction_p.h:96
+msgid "Show &Menubar"
+msgstr "Seall &bàr clàr-taice"
+
+#: kstandardaction_p.h:96
 msgid "Show or hide menubar"
 msgstr "Seall no falaich am bàr clàr-taice"
 
@@ -414,6 +410,10 @@ msgstr "Seall am &bàr-inneal"
 #: kstandardaction_p.h:97
 msgid "Show or hide toolbar"
 msgstr "Seall no falaich am bàr-inneal"
+
+#: kstandardaction_p.h:98
+msgid "Show St&atusbar"
+msgstr "Seall am bàr-st&aid"
 
 #: kstandardaction_p.h:98
 msgid "Show or hide statusbar"
