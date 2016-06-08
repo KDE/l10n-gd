@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-05-19 07:46+0000\n"
+"POT-Creation-Date: 2016-06-08 07:19+0000\n"
 "PO-Revision-Date: 2016-04-30 12:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -105,11 +105,11 @@ msgctxt "%1 is the name of the applet"
 msgid "%1 Settings"
 msgstr "Roghainnean %1"
 
-#: plasma/corona.cpp:314 plasma/corona.cpp:387
+#: plasma/corona.cpp:317 plasma/corona.cpp:390
 msgid "Lock Widgets"
 msgstr "Glais na Widgets"
 
-#: plasma/corona.cpp:314
+#: plasma/corona.cpp:317
 msgid "Unlock Widgets"
 msgstr "Thoir a' ghlas far Widgets"
 
