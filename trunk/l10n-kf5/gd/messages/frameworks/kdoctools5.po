@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio_help5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-12-02 06:53+0000\n"
+"POT-Creation-Date: 2016-06-16 07:52+0000\n"
 "PO-Revision-Date: 2015-11-04 15:12+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -19,18 +19,18 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 "X-Project-Style: kde\n"
 
-#: xslt.cpp:133
+#: xslt.cpp:134
 msgid "Parsing stylesheet"
 msgstr "A' parsadh an t-siota-stoidhlichean"
 
-#: xslt.cpp:157
+#: xslt.cpp:158
 msgid "Parsing document"
 msgstr "A' parsadh na sgrìobhainn"
 
-#: xslt.cpp:183
+#: xslt.cpp:184
 msgid "Applying stylesheet"
 msgstr "A' cur an t-siota-stoidhlichean an sàs"
 
-#: xslt.cpp:191
+#: xslt.cpp:192
 msgid "Writing document"
 msgstr "A' sgrìobhadh na sgrìobhainn"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-06-14 08:24+0000\n"
+"POT-Creation-Date: 2016-06-16 07:54+0000\n"
 "PO-Revision-Date: 2016-04-30 12:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -80,26 +80,22 @@ msgstr "Ceart ma-thà"
 msgid "Cancel"
 msgstr "Sguir dheth"
 
-#: plasma/applet.cpp:128
-msgid "Script initialization failed"
-msgstr "Dh'fhàillig le tòiseachadh an sgriobt"
-
-#: plasma/applet.cpp:339
+#: plasma/applet.cpp:335
 msgid "Unknown"
 msgstr "Chan eil fhios"
 
-#: plasma/applet.cpp:656
+#: plasma/applet.cpp:652
 #, kde-format
 msgid "Activate %1 Widget"
 msgstr "Gnìomhach Widget %1"
 
-#: plasma/containment.cpp:126 plasma/private/applet_p.cpp:124
+#: plasma/containment.cpp:127 plasma/private/applet_p.cpp:124
 #, kde-format
 msgctxt "%1 is the name of the applet"
 msgid "Remove this %1"
 msgstr "Thoir air falbh an %1 seo"
 
-#: plasma/containment.cpp:131
+#: plasma/containment.cpp:132
 #, kde-format
 msgctxt "%1 is the name of the applet"
 msgid "%1 Settings"
@@ -300,6 +296,10 @@ msgstr "Thoir air falbh an widget seo"
 #: plasma/private/associatedapplicationmanager.cpp:184
 msgid "Run the Associated Application"
 msgstr "Ruith an aplacaid co-cheangailte"
+
+#: plasma/private/applet_p.cpp:469
+msgid "Script initialization failed"
+msgstr "Dh'fhàillig le tòiseachadh an sgriobt"
 
 #: plasma/private/associatedapplicationmanager.cpp:80
 #: plasma/private/associatedapplicationmanager.cpp:181
@@ -847,7 +847,7 @@ msgstr "Mearachd a' luchdadh faidhle QML: %1"
 msgid "Error loading Applet: package inexistent. %1"
 msgstr "Mearachd a' luchdadh aplaid: chan eil a' phacaid ann. %1"
 
-#: plasmaquick/configview.cpp:105
+#: plasmaquick/configview.cpp:109
 #, kde-format
 msgid "%1 Settings"
 msgstr "Roghainnean %1"
@@ -1012,7 +1012,7 @@ msgstr "Dh’fhàillig le stàladh na pacaide"
 msgid "The package you just dropped is invalid."
 msgstr "Tha a' phacaid a leig thu às mì-dligheach."
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:1027
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:1026
 #, kde-format
 msgctxt "%1 is the name of the containment"
 msgid "%1 Options"
