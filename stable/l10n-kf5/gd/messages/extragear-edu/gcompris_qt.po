@@ -9993,37 +9993,37 @@ msgctxt "QObject|"
 msgid "Enable the configuration button (default)."
 msgstr ""
 
-#: core/main.qml:125
+#: core/main.qml:128
 msgctxt "main|"
 msgid "The images for several activities are not yet installed."
 msgstr ""
 
-#: core/main.qml:126
+#: core/main.qml:129
 msgctxt "main|"
 msgid "Do you want to download them now?"
 msgstr ""
 
-#: core/main.qml:127 core/main.qml:164
+#: core/main.qml:130 core/main.qml:167
 msgctxt "main|"
 msgid "Yes"
 msgstr ""
 
-#: core/main.qml:132 core/main.qml:170
+#: core/main.qml:135 core/main.qml:173
 msgctxt "main|"
 msgid "No"
 msgstr ""
 
-#: core/main.qml:153
+#: core/main.qml:156
 msgctxt "main|"
 msgid "Welcome to GCompris!"
 msgstr ""
 
-#: core/main.qml:154
+#: core/main.qml:157
 msgctxt "main|"
 msgid "You are running GCompris for the first time."
 msgstr ""
 
-#: core/main.qml:155
+#: core/main.qml:158
 msgctxt "main|"
 msgid ""
 "You should verify that your application settings especially your language is "
@@ -10031,23 +10031,23 @@ msgid ""
 "can do this in the Preferences Dialog."
 msgstr ""
 
-#: core/main.qml:157
+#: core/main.qml:160
 msgctxt "main|"
 msgid "Have Fun!"
 msgstr ""
 
-#: core/main.qml:159
+#: core/main.qml:162
 #, qt-format
 msgctxt "main|"
 msgid "Your current language is %1 (%2)."
 msgstr ""
 
-#: core/main.qml:163
+#: core/main.qml:166
 msgctxt "main|"
 msgid "Do you want to download the corresponding sound files now?"
 msgstr ""
 
-#: core/main.qml:208
+#: core/main.qml:211
 msgctxt "main|"
 msgid "GCompris has been updated! Here are the new changes:<br/>"
 msgstr ""
