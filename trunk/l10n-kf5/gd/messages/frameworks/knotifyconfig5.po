@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: knotifyconfig5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-01-05 08:59+0000\n"
+"POT-Creation-Date: 2016-06-29 07:26+0000\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -108,7 +108,7 @@ msgstr ""
 "aplacaid a chuir an tachartas</dd><dt>%m</dt><dd>An teachdaireachd a chuir "
 "an aplacaid</dd></dl></qt>"
 
-#: knotifyconfigwidget.cpp:118
+#: knotifyconfigwidget.cpp:129
 msgid "Configure Notifications"
 msgstr "Rèitich na brathan"
 
