@@ -9827,7 +9827,7 @@ msgid "Type the complete word as it falls, before it reaches the ground"
 msgstr ""
 "Sgrìobh am facal gu lèir fhad 's a tha e a' tuiteam is mus ruig e an làr"
 
-#: core/BuyMeOverlay.qml:75
+#: core/BuyMeOverlay.qml:77
 msgctxt "BuyMeOverlay|"
 msgid ""
 "This activity is only available in the full version of GCompris.<br/>On <a "
@@ -9836,12 +9836,12 @@ msgid ""
 "dialog to enter the code."
 msgstr ""
 
-#: core/BuyMeOverlayInapp.qml:75
+#: core/BuyMeOverlayInapp.qml:76
 msgctxt "BuyMeOverlayInapp|"
 msgid "This activity is only available in the full version of GCompris."
 msgstr ""
 
-#: core/BuyMeOverlayInapp.qml:87
+#: core/BuyMeOverlayInapp.qml:88
 msgctxt "BuyMeOverlayInapp|"
 msgid "Buy the full version"
 msgstr ""
@@ -10083,27 +10083,27 @@ msgctxt "DownloadDialog|"
 msgid "Background"
 msgstr ""
 
-#: core/DownloadDialog.qml:227
+#: core/DownloadDialog.qml:228
 msgctxt "DownloadDialog|"
 msgid "Abort"
 msgstr ""
 
-#: core/DownloadDialog.qml:252
+#: core/DownloadDialog.qml:254
 msgctxt "DownloadDialog|"
 msgid "Download error"
 msgstr ""
 
-#: core/DownloadDialog.qml:280
+#: core/DownloadDialog.qml:282
 msgctxt "DownloadDialog|"
 msgid "Your download finished successfully. The data files are now available."
 msgstr ""
 
-#: core/DownloadDialog.qml:282
+#: core/DownloadDialog.qml:284
 msgctxt "DownloadDialog|"
 msgid "Restart any currently active activity."
 msgstr ""
 
-#: core/DownloadDialog.qml:284
+#: core/DownloadDialog.qml:286
 msgctxt "DownloadDialog|"
 msgid "Your local data files are up-to-date."
 msgstr ""
@@ -10171,37 +10171,37 @@ msgctxt "QObject|"
 msgid "Enable the configuration button (default)."
 msgstr ""
 
-#: core/main.qml:125
+#: core/main.qml:139
 msgctxt "main|"
 msgid "The images for several activities are not yet installed."
 msgstr ""
 
-#: core/main.qml:126
+#: core/main.qml:140
 msgctxt "main|"
 msgid "Do you want to download them now?"
 msgstr ""
 
-#: core/main.qml:127 core/main.qml:164
+#: core/main.qml:141 core/main.qml:178
 msgctxt "main|"
 msgid "Yes"
 msgstr ""
 
-#: core/main.qml:132 core/main.qml:170
+#: core/main.qml:146 core/main.qml:184
 msgctxt "main|"
 msgid "No"
 msgstr ""
 
-#: core/main.qml:153
+#: core/main.qml:167
 msgctxt "main|"
 msgid "Welcome to GCompris!"
 msgstr ""
 
-#: core/main.qml:154
+#: core/main.qml:168
 msgctxt "main|"
 msgid "You are running GCompris for the first time."
 msgstr ""
 
-#: core/main.qml:155
+#: core/main.qml:169
 msgctxt "main|"
 msgid ""
 "You should verify that your application settings especially your language is "
@@ -10209,23 +10209,23 @@ msgid ""
 "can do this in the Preferences Dialog."
 msgstr ""
 
-#: core/main.qml:157
+#: core/main.qml:171
 msgctxt "main|"
 msgid "Have Fun!"
 msgstr ""
 
-#: core/main.qml:159
+#: core/main.qml:173
 #, qt-format
 msgctxt "main|"
 msgid "Your current language is %1 (%2)."
 msgstr ""
 
-#: core/main.qml:163
+#: core/main.qml:177
 msgctxt "main|"
 msgid "Do you want to download the corresponding sound files now?"
 msgstr ""
 
-#: core/main.qml:208
+#: core/main.qml:218
 msgctxt "main|"
 msgid "GCompris has been updated! Here are the new changes:<br/>"
 msgstr ""
