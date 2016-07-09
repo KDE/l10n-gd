@@ -8094,7 +8094,7 @@ msgstr ""
 
 #: activities/menu/ConfigurationItem.qml:169
 msgctxt "ConfigurationItem|"
-msgid "You code is valid, thanks a lot for your support"
+msgid "Your code is valid, thanks a lot for your support"
 msgstr ""
 
 #: activities/menu/ConfigurationItem.qml:189
