@@ -2335,6 +2335,53 @@ msgctxt "colors|"
 msgid "Find the pink duck"
 msgstr "Lorg an tunnag dhubh"
 
+#: activities/crane/ActivityInfo.qml:31
+#, fuzzy
+#| msgctxt "instruments|"
+#| msgid "Find the snare drum"
+msgctxt "ActivityInfo|"
+msgid "Build the same model"
+msgstr "Lorg an druma-tormain"
+
+#: activities/crane/ActivityInfo.qml:32
+msgctxt "ActivityInfo|"
+msgid "Drive the crane and copy the model"
+msgstr ""
+
+#: activities/crane/ActivityInfo.qml:34 activities/erase/ActivityInfo.qml:29
+#: activities/erase_2clic/ActivityInfo.qml:29
+#: activities/erase_clic/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid "Motor-coordination"
+msgstr "Co-ghluasad"
+
+#: activities/crane/ActivityInfo.qml:35
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Keyboard manipulation"
+msgctxt "ActivityInfo|"
+msgid "Mouse/keyboard manipulation"
+msgstr ""
+"Cleachdadh a’ mheur-chlàir\n"
+"\n"
+"Mar a gheibh thu na stràcan:\n"
+"1) Air Windows, feumaidh tu an iuchair ` (ri taobh 1) a bhrùthadh agus an "
+"uair sin litir eile.\n"
+"2) Air Mac, feumaidh tu ALT agus ` is an uair sin litir eile a bhrùthadh.\n"
+"\n"
+"Mur obraich sin, tadhail air www.iGaidhlig.net airson barrachd fiosrachaidh "
+"’s taic."
+
+#: activities/crane/ActivityInfo.qml:36
+msgctxt "ActivityInfo|"
+msgid ""
+"Move the items in the left frame to copy their position in the right model. "
+"Next to the crane itself, you will find four arrows that let you move the "
+"items. To select the item to move, just click on it. If you prefer, you can "
+"use the arrow keys and the space or tab key instead. On a mobile version, "
+"you can also swipe up/down/left/right to move the items in the left frame."
+msgstr ""
+
 #: activities/details/ActivityInfo.qml:29
 #, fuzzy
 #| msgctxt "instruments|"
@@ -2536,13 +2583,6 @@ msgid ""
 "Move the mouse or touch the screen to erase the area and discover the "
 "background"
 msgstr "Gluais an luchag gus an raon a shuathadh is an cùlaibh a nochdadh"
-
-#: activities/erase/ActivityInfo.qml:29
-#: activities/erase_2clic/ActivityInfo.qml:29
-#: activities/erase_clic/ActivityInfo.qml:29
-msgctxt "ActivityInfo|"
-msgid "Motor-coordination"
-msgstr "Co-ghluasad"
 
 #: activities/erase/ActivityInfo.qml:30
 #: activities/erase_2clic/ActivityInfo.qml:30
@@ -8914,21 +8954,21 @@ msgctxt "ActivityInfo|"
 msgid "Drawing by Stephane Cabaraux"
 msgstr "Tarraing le Stephane Cabaraux."
 
-#: activities/renewable_energy/RenewableEnergy.qml:157
+#: activities/renewable_energy/RenewableEnergy.qml:162
 msgctxt "RenewableEnergy|"
 msgid ""
 "Tux has come back from fishing on his boat. Bring the electrical system back "
 "up so he can have light in his home."
 msgstr ""
 
-#: activities/renewable_energy/RenewableEnergy.qml:159
+#: activities/renewable_energy/RenewableEnergy.qml:164
 msgctxt "RenewableEnergy|"
 msgid ""
 "Click on different active elements : sun, cloud, dam, solar array, wind farm "
 "and transformers, in order to reactivate the entire electrical system."
 msgstr ""
 
-#: activities/renewable_energy/RenewableEnergy.qml:161
+#: activities/renewable_energy/RenewableEnergy.qml:166
 msgctxt "RenewableEnergy|"
 msgid ""
 "When the system is back up and Tux is in his home, push the light button for "
@@ -8936,12 +8976,12 @@ msgid ""
 "up."
 msgstr ""
 
-#: activities/renewable_energy/RenewableEnergy.qml:163
+#: activities/renewable_energy/RenewableEnergy.qml:168
 msgctxt "RenewableEnergy|"
 msgid "Learn about an electrical system based on renewable energy. Enjoy."
 msgstr ""
 
-#: activities/renewable_energy/RenewableEnergy.qml:186
+#: activities/renewable_energy/RenewableEnergy.qml:191
 msgctxt "RenewableEnergy|"
 msgid ""
 "It is not possible to consume more electricity than what is produced. This "
@@ -9715,26 +9755,26 @@ msgid ""
 "him."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:58
+#: activities/watercycle/Watercycle.qml:65
 msgctxt "Watercycle|"
 msgid ""
 "Sun is the main component of water cycle. Click on the sun to start the "
 "water cycle."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:59
+#: activities/watercycle/Watercycle.qml:66
 msgctxt "Watercycle|"
 msgid "As the sun rises, the water of the sea starts heating and evaporates."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:60
+#: activities/watercycle/Watercycle.qml:67
 msgctxt "Watercycle|"
 msgid ""
 " Water vapor condenses to form cloud and when clouds become heavy, it rains. "
 "Click on the cloud."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:61
+#: activities/watercycle/Watercycle.qml:68
 msgctxt "Watercycle|"
 msgid ""
 "Rain causes rivers to swell up and this water is transported to us via motor "
@@ -9742,24 +9782,24 @@ msgid ""
 "residents."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:63
+#: activities/watercycle/Watercycle.qml:70
 msgctxt "Watercycle|"
 msgid ""
 "See the tower filled with water. Activate the sewage treatment station by "
 "clicking on it."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:64
+#: activities/watercycle/Watercycle.qml:71
 msgctxt "Watercycle|"
 msgid "Great, click on the shower, as Tux arrives home."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:65
+#: activities/watercycle/Watercycle.qml:72
 msgctxt "Watercycle|"
 msgid "Fantastic, you have completed water cycle. You can continue playing."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:89
+#: activities/watercycle/Watercycle.qml:96
 msgctxt "Watercycle|"
 msgid ""
 "The water cycle (also known as the hydrologic cycle) is the journey water "
@@ -9767,7 +9807,7 @@ msgid ""
 "heat provides energy to evaporate water from water bodies like oceans."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:92
+#: activities/watercycle/Watercycle.qml:99
 msgctxt "Watercycle|"
 msgid ""
 "Plants also lose water to the air through transpiration. The water vapor "
@@ -9775,7 +9815,7 @@ msgid ""
 "air over land, precipitation is triggered and fall down as rain."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:95
+#: activities/watercycle/Watercycle.qml:102
 msgctxt "Watercycle|"
 msgid ""
 "Some of the water is trapped between rock or clay layers, called "
@@ -9783,7 +9823,7 @@ msgid ""
 "the seas via rivers."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:97
+#: activities/watercycle/Watercycle.qml:104
 msgctxt "Watercycle|"
 msgid ""
 "Your goal is to complete water cycle before Tux reaches home. Click on the "
