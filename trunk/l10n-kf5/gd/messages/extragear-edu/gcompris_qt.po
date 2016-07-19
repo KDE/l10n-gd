@@ -10202,13 +10202,16 @@ msgid "Run GCompris without sound."
 msgstr ""
 
 #: core/main.cpp:162
+#, fuzzy
+#| msgctxt "instruments|"
+#| msgid "Find the snare drum"
 msgctxt "QObject|"
-msgid "Disable the configuration button."
-msgstr ""
+msgid "Disable the kiosk mode."
+msgstr "Lorg an druma-tormain"
 
 #: core/main.cpp:165
 msgctxt "QObject|"
-msgid "Enable the configuration button (default)."
+msgid "Enable the kiosk mode (default)."
 msgstr ""
 
 #: core/main.qml:139
