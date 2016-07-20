@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-07-05 08:03+0000\n"
+"POT-Creation-Date: 2016-07-20 07:58+0000\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -604,7 +604,7 @@ msgstr "Tha an t-susbaint agad a chaidh ùrachadh roimhe air a faighinn."
 msgid "Fetching content data from server finished."
 msgstr "Tha dàta na susbainte air fhaighinn on fhrithealaiche."
 
-#: uploaddialog.cpp:397 uploaddialog.cpp:836
+#: uploaddialog.cpp:397 uploaddialog.cpp:837
 msgctxt "A link to the website where the get hot new stuff upload can be seen"
 msgid "Visit website"
 msgstr "Tadhail air an làrach-lìn"
@@ -620,12 +620,12 @@ msgctxt "Program name followed by 'Add On Uploader'"
 msgid "%1 Add-On Uploader"
 msgstr "Inneal luchdaidh suas tuilleadain %1"
 
-#: uploaddialog.cpp:486 uploaddialog.cpp:761
+#: uploaddialog.cpp:486 uploaddialog.cpp:762
 #, kde-format
 msgid "File not found: %1"
 msgstr "Cha deach am faidhle a lorg: %1"
 
-#: uploaddialog.cpp:486 uploaddialog.cpp:612 uploaddialog.cpp:761
+#: uploaddialog.cpp:486 uploaddialog.cpp:613 uploaddialog.cpp:762
 msgid "Upload Failed"
 msgstr "Dh'fhàillig leis an luchdadh suas"
 
@@ -654,28 +654,28 @@ msgstr[3] ""
 msgid "Error"
 msgstr "Mearachd"
 
-#: uploaddialog.cpp:612
+#: uploaddialog.cpp:613
 #, kde-format
 msgid "The selected category \"%1\" is invalid."
 msgstr "Chan eil an roinn-seòrsa \"%1\" a thagh thu dligheach."
 
-#: uploaddialog.cpp:661 uploaddialog.cpp:676 uploaddialog.cpp:690
+#: uploaddialog.cpp:662 uploaddialog.cpp:677 uploaddialog.cpp:691
 msgid "Select preview image"
 msgstr "Tagh dealbh ro-sheallaidh"
 
-#: uploaddialog.cpp:705
+#: uploaddialog.cpp:706
 msgid "There was a network error."
 msgstr "Bha mearachd lìonraidh ann."
 
-#: uploaddialog.cpp:705 uploaddialog.cpp:710
+#: uploaddialog.cpp:706 uploaddialog.cpp:711
 msgid "Uploading Failed"
 msgstr "Dh'fhàillig leis an luchdadh suas"
 
-#: uploaddialog.cpp:710
+#: uploaddialog.cpp:711
 msgid "Authentication error."
 msgstr "Mearachd leis an dearbhadh."
 
-#: uploaddialog.cpp:720
+#: uploaddialog.cpp:721
 #, kde-format
 msgid "Upload failed: %1"
 msgstr "Dh'fhàillig leis an luchdadh suas: %1"
