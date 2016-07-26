@@ -2503,6 +2503,32 @@ msgid ""
 "Notre Dame de Paris cathedral on the Île de la Cité island in Paris, France."
 msgstr ""
 
+#: activities/drawletters/ActivityInfo.qml:26
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Simple Letters"
+msgctxt "ActivityInfo|"
+msgid "Draw Letters"
+msgstr "Litrichean simplidh"
+
+#: activities/drawletters/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid "Connect the dots to draw some alphabets"
+msgstr ""
+
+#: activities/drawletters/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid "Children will learn about different letters & alphabets in a fun way."
+msgstr ""
+
+#: activities/drawletters/ActivityInfo.qml:31
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "ActivityInfo|"
+msgid "Draw the figure by connecting the dots in the correct order"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
 #: activities/drawnumber/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Number sequence"
@@ -10206,13 +10232,16 @@ msgstr ""
 #| msgctxt "instruments|"
 #| msgid "Find the snare drum"
 msgctxt "QObject|"
-msgid "Disable the kiosk mode."
+msgid "Disable the kiosk mode (default)."
 msgstr "Lorg an druma-tormain"
 
 #: core/main.cpp:165
+#, fuzzy
+#| msgctxt "instruments|"
+#| msgid "Find the snare drum"
 msgctxt "QObject|"
-msgid "Enable the kiosk mode (default)."
-msgstr ""
+msgid "Enable the kiosk mode."
+msgstr "Lorg an druma-tormain"
 
 #: core/main.qml:139
 msgctxt "main|"
@@ -10512,10 +10541,6 @@ msgstr "Tha mi deiseil"
 #~ msgctxt "ActivityInfo|"
 #~ msgid "Can move the mouse."
 #~ msgstr "Comasach air an luchag a ghluasad."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Draw the picture by clicking on each numbers in the right order."
-#~ msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
 
 #~ msgctxt "ActivityInfo|"
 #~ msgid ""
