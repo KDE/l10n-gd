@@ -15,7 +15,7 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 "X-Qt-Contexts: true\n"
 
-#: kbookmark.cpp:307
+#: kbookmark.cpp:310
 msgctxt "KBookmark|Bookmark separator"
 msgid "--- separator ---"
 msgstr "--- sgaradair ---"
