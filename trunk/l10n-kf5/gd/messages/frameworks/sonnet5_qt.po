@@ -509,18 +509,18 @@ msgctxt "SonnetUi|"
 msgid "Autocorrect"
 msgstr "Fèin-cheartaich"
 
-#: ui/spellcheckdecorator.cpp:177
+#: ui/spellcheckdecorator.cpp:176
 #, qt-format
 msgctxt "Sonnet::SpellCheckDecorator|"
 msgid "No suggestions for %1"
 msgstr "Chan eil moladh airson %1 ann"
 
-#: ui/spellcheckdecorator.cpp:188
+#: ui/spellcheckdecorator.cpp:187
 msgctxt "Sonnet::SpellCheckDecorator|"
 msgid "Ignore"
 msgstr "Leig seachad"
 
-#: ui/spellcheckdecorator.cpp:189
+#: ui/spellcheckdecorator.cpp:188
 msgctxt "Sonnet::SpellCheckDecorator|"
 msgid "Add to Dictionary"
 msgstr "Cuir ris an fhaclair"
