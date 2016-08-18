@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-07-15 07:33+0000\n"
+"POT-Creation-Date: 2016-08-18 07:19+0000\n"
 "PO-Revision-Date: 2016-04-30 17:56+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -19,7 +19,7 @@ msgstr ""
 "X-Generator: Virtaal 0.7.1\n"
 "X-Project-Style: kde\n"
 
-#: kaboutapplicationdialog.cpp:81 khelpmenu.cpp:292
+#: kaboutapplicationdialog.cpp:81 khelpmenu.cpp:290
 #, kde-format
 msgid "About %1"
 msgstr "Mu %1"
@@ -696,12 +696,8 @@ msgctxt ""
 msgid "Hold %1, then push %2"
 msgstr "Cum %1 sìos is an uairsin brùth air %2"
 
-#: khelpmenu.cpp:151
-msgid "&Donate"
-msgstr ""
-
 #. i18n: ectx: Menu (help)
-#: khelpmenu.cpp:178 ui_standards.rc:177
+#: khelpmenu.cpp:176 ui_standards.rc:177
 msgid "&Help"
 msgstr "Cob&hair"
 
