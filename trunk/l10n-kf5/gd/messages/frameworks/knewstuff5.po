@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-08-30 07:42+0000\n"
+"POT-Creation-Date: 2016-09-08 07:29+0000\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -72,7 +72,7 @@ msgstr ""
 msgid "Unknown Open Collaboration Service API error. (%1)"
 msgstr "Mearachd Open Collaboration Service API nach aihne dhuinn. (%1)"
 
-#: button.cpp:49
+#: button.cpp:51
 msgid "Download New Stuff..."
 msgstr "Luchdaich a-nuas stuth ùr..."
 
@@ -232,11 +232,11 @@ msgstr ""
 "shoidhneadh. Dèan cinnteach gun dèid <i>gpg</i> a stàladh air neo chan "
 "urrainn dhuinn na goireasan a shoidhneadh.</qt>"
 
-#: downloaddialog.cpp:80 downloadwidget.cpp:207
+#: downloaddialog.cpp:82 downloadwidget.cpp:207
 msgid "Get Hot New Stuff"
 msgstr "Faigh deagh-stuth ùr"
 
-#: downloaddialog.cpp:92
+#: downloaddialog.cpp:94
 #, kde-format
 msgctxt "Program name followed by 'Add On Installer'"
 msgid "%1 Add-On Installer"
