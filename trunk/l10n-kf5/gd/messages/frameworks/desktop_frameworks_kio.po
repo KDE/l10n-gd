@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-09-02 07:44+0000\n"
+"POT-Creation-Date: 2016-09-10 08:07+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,7 +21,7 @@ msgctxt "Name"
 msgid "HTTP Cache Cleaner"
 msgstr "Glanadair tasgadain HTTP"
 
-#: src/ioslaves/http/http_cache_cleaner.desktop:53
+#: src/ioslaves/http/http_cache_cleaner.desktop:54
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr "Glanaidh seo seann innteartan air falbh on tasgadan HTTP"
@@ -72,7 +72,7 @@ msgctxt "Comment"
 msgid "Configure web cache settings"
 msgstr "Rèitich roghainnean an tasgadain-lìn"
 
-#: src/kcms/kio/cache.desktop:141
+#: src/kcms/kio/cache.desktop:142
 msgctxt "X-KDE-Keywords"
 msgid "Cache,History,Browsing History,Ports,Size"
 msgstr ""
@@ -84,12 +84,12 @@ msgctxt "Name"
 msgid "Cookies"
 msgstr "Briosgaidean"
 
-#: src/kcms/kio/cookies.desktop:55
+#: src/kcms/kio/cookies.desktop:56
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr "Rèitich an dòigh a dh'obraicheas briosgaidean"
 
-#: src/kcms/kio/cookies.desktop:140
+#: src/kcms/kio/cookies.desktop:141
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr ""
@@ -388,7 +388,7 @@ msgctxt "Comment"
 msgid "Configure web shortcuts"
 msgstr "Rèitich na h-ath-ghoiridean lìn"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:142
+#: src/kcms/webshortcuts/webshortcuts.desktop:143
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Shortcuts,Browsing,WWW,Internet,Internet Filters,Network,Search Engines,"
@@ -403,35 +403,35 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "Rèiteachadh progsaidh an lìonraidh"
 
-#: src/kpac/proxyscout.notifyrc:52
+#: src/kpac/proxyscout.notifyrc:53
 msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "Sgriobt progsaidh mì-dhligheach"
 
-#: src/kpac/proxyscout.notifyrc:99
+#: src/kpac/proxyscout.notifyrc:101
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr ""
 "Chan eil sgriobt rèiteachaidh a' phrogsaidh a chaidh a luchdadh a-nuas "
 "dligheach"
 
-#: src/kpac/proxyscout.notifyrc:150
+#: src/kpac/proxyscout.notifyrc:153
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr "Mearachd le luchdadh a-nuas an sgriobt"
 
-#: src/kpac/proxyscout.notifyrc:197
+#: src/kpac/proxyscout.notifyrc:201
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr ""
 "Cha b' urrainn dhuinn sgriobt rèiteachadh a' phrogsaidh a luchdadh a-naus"
 
-#: src/kpac/proxyscout.notifyrc:249
+#: src/kpac/proxyscout.notifyrc:254
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "Mearachd le measadh an sgriobt"
 
-#: src/kpac/proxyscout.notifyrc:294
+#: src/kpac/proxyscout.notifyrc:300
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "Thachair mearachd le gnìomhachadh sgriobt rèiteachadh a' phrogsaidh"
@@ -581,7 +581,7 @@ msgctxt "Name"
 msgid "Arch Linux Package Search"
 msgstr "Lorg pacaidean Arch Linux"
 
-#: src/urifilters/ikws/searchproviders/archpkg.desktop:38
+#: src/urifilters/ikws/searchproviders/archpkg.desktop:39
 msgctxt "Query"
 msgid "http://www.archlinux.org/packages/?q=\\\\{@}"
 msgstr "http://www.archlinux.org/packages/?q=\\\\{@}"
@@ -989,7 +989,7 @@ msgctxt "Name"
 msgid "Freecode"
 msgstr "Freecode"
 
-#: src/urifilters/ikws/searchproviders/freecode.desktop:57
+#: src/urifilters/ikws/searchproviders/freecode.desktop:58
 msgctxt "Query"
 msgid "http://freecode.com/search?q=\\\\{@}"
 msgstr "http://freecode.com/search?q=\\\\{@}"
@@ -1145,7 +1145,7 @@ msgctxt "Name"
 msgid "Google Shopping"
 msgstr "Google Shopping"
 
-#: src/urifilters/ikws/searchproviders/google_shopping.desktop:57
+#: src/urifilters/ikws/searchproviders/google_shopping.desktop:58
 msgctxt "Query"
 msgid "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
 msgstr "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
@@ -1155,7 +1155,7 @@ msgctxt "Name"
 msgid "Great Dictionary of the Catalan Language (GRan Enciclopèdia Catalana)"
 msgstr "Mòr-fhaclair a' Chatalanais (Gran Enciclopèdia Catalana)"
 
-#: src/urifilters/ikws/searchproviders/grec.desktop:42
+#: src/urifilters/ikws/searchproviders/grec.desktop:43
 msgctxt "Query"
 msgid "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
 msgstr "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
@@ -1313,7 +1313,7 @@ msgctxt "Name"
 msgid "KDE Projects"
 msgstr "Pròiseactan KDE"
 
-#: src/urifilters/ikws/searchproviders/kde_projects.desktop:58
+#: src/urifilters/ikws/searchproviders/kde_projects.desktop:59
 msgctxt "Query"
 msgid "https://projects.kde.org/search?projects=1&q=\\\\{@}"
 msgstr "https://projects.kde.org/search?projects=1&q=\\\\{@}"
@@ -1523,7 +1523,7 @@ msgctxt "Name"
 msgid "Qt4 Documentation"
 msgstr "Docamaideadh Qt4"
 
-#: src/urifilters/ikws/searchproviders/qt4.desktop:58
+#: src/urifilters/ikws/searchproviders/qt4.desktop:59
 msgctxt "Query"
 msgid "http://qt-project.org/doc/search/qt-4.8?search=\\\\{@}"
 msgstr "http://qt-project.org/doc/search/qt-4.8?search=\\\\{@}"
@@ -1543,7 +1543,7 @@ msgctxt "Name"
 msgid "Qwant"
 msgstr "Qwant"
 
-#: src/urifilters/ikws/searchproviders/qwant.desktop:43
+#: src/urifilters/ikws/searchproviders/qwant.desktop:44
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&source=web"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&source=web"
@@ -1553,7 +1553,7 @@ msgctxt "Name"
 msgid "Qwant Images"
 msgstr "Qwant Images"
 
-#: src/urifilters/ikws/searchproviders/qwant_images.desktop:44
+#: src/urifilters/ikws/searchproviders/qwant_images.desktop:45
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=images"
 msgstr "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=images"
@@ -1563,7 +1563,7 @@ msgctxt "Name"
 msgid "Qwant News"
 msgstr "Qwant News"
 
-#: src/urifilters/ikws/searchproviders/qwant_news.desktop:43
+#: src/urifilters/ikws/searchproviders/qwant_news.desktop:44
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=news"
 msgstr "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=news"
@@ -1573,7 +1573,7 @@ msgctxt "Name"
 msgid "Qwant Shopping"
 msgstr "Qwant Shopping"
 
-#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:44
+#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:45
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=shopping"
 msgstr "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=shopping"
@@ -1583,7 +1583,7 @@ msgctxt "Name"
 msgid "Qwant Social"
 msgstr "Qwant Social"
 
-#: src/urifilters/ikws/searchproviders/qwant_social.desktop:43
+#: src/urifilters/ikws/searchproviders/qwant_social.desktop:44
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=social"
 msgstr "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=social"
@@ -1593,7 +1593,7 @@ msgctxt "Name"
 msgid "Qwant Videos"
 msgstr "Qwant Videos"
 
-#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:45
+#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:46
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=videos"
 msgstr "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=videos"
@@ -1613,7 +1613,7 @@ msgctxt "Name"
 msgid "Dictionary of the Galician Academy (RAG)"
 msgstr "Faclair an acadamaidh Gailìsich (RAG)"
 
-#: src/urifilters/ikws/searchproviders/rag.desktop:54
+#: src/urifilters/ikws/searchproviders/rag.desktop:55
 msgctxt "Query"
 msgid ""
 "http://www.realacademiagalega.org/dicionario#searchNoun.do?nounTitle=\\\\{@}"
@@ -1655,7 +1655,7 @@ msgctxt "Name"
 msgid "Soundcloud"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/soundcloud.desktop:31
+#: src/urifilters/ikws/searchproviders/soundcloud.desktop:32
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://freecode.com/search?q=\\\\{@}"
