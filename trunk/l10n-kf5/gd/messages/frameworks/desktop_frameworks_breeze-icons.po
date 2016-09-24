@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-09-18 07:39+0000\n"
+"POT-Creation-Date: 2016-09-24 07:53+0000\n"
 "PO-Revision-Date: 2016-04-30 16:09+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,7 +21,7 @@ msgctxt "Name"
 msgid "Breeze"
 msgstr "Oiteag"
 
-#: icons-dark/index.theme:37 icons/index.theme:37
+#: icons-dark/index.theme:38 icons/index.theme:38
 msgctxt "Comment"
 msgid "Default Plasma 5 Theme"
 msgstr "Ùrlar Plasma 5 bunaiteach"
