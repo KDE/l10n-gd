@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwalletd5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-08-12 07:15+0000\n"
+"POT-Creation-Date: 2016-09-26 07:01+0000\n"
 "PO-Revision-Date: 2016-05-04 18:07+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -220,8 +220,8 @@ msgstr ""
 "an dòigh thèarainte. Tagh seòrsa an sporain ùir gu h-ìosal no briog air "
 "\"Sguir dheth\" gus iarrtas na h-aplacaid a dhiùltadh.</qt>"
 
-#: knewwalletdialog.cpp:129 knewwalletdialog.cpp:135 kwalletwizard.cpp:162
-#: kwalletwizard.cpp:166
+#: knewwalletdialog.cpp:129 knewwalletdialog.cpp:135 kwalletwizard.cpp:163
+#: kwalletwizard.cpp:167
 msgid ""
 "The QGpgME library failed to initialize for the OpenPGP protocol. Please "
 "check your system's configuration then try again."
@@ -468,19 +468,19 @@ msgstr ""
 "Chaidh fheuchainn sporan inntrigeadh iomadh turas gun soirbheas. Dh'fhaoidte "
 "gu bheil aplacaid ri droch-ghiùlan."
 
-#: kwalletwizard.cpp:52
+#: kwalletwizard.cpp:53
 msgid "KWallet"
 msgstr "KWallet"
 
-#: kwalletwizard.cpp:281
+#: kwalletwizard.cpp:282
 msgid "<qt>Password is empty.  <b>(WARNING: Insecure)</b></qt>"
 msgstr "<qt>Tha am facal-faire falamh.  <b>(RABHADH: Neo-thèarainte)</b></qt>"
 
-#: kwalletwizard.cpp:283
+#: kwalletwizard.cpp:284
 msgid "Passwords match."
 msgstr "Tha an dà fhacal-faire co-ionnann."
 
-#: kwalletwizard.cpp:286
+#: kwalletwizard.cpp:287
 msgid "Passwords do not match."
 msgstr "Chan eil an dà fhacal-faire co-ionann."
 
