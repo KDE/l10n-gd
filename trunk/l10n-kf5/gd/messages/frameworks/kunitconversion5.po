@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-08-15 07:02+0000\n"
+"POT-Creation-Date: 2016-10-06 07:21+0000\n"
 "PO-Revision-Date: 2016-05-05 13:20+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -2781,6 +2781,1765 @@ msgstr[1] "%1 phunnd san t-slat chiùbach"
 msgstr[2] "%1 puinnd san t-slat chiùbach"
 msgstr[3] "%1 punnd san t-slat chiùbach"
 
+#: electrical_current.cpp:30
+msgid "ElectricalCurrent"
+msgstr ""
+
+#: electrical_current.cpp:32
+#, fuzzy, kde-format
+#| msgctxt "%1 value, %2 unit symbol (acceleration)"
+#| msgid "%1 %2"
+msgctxt "%1 value, %2 unit symbol (electrical current"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: electrical_current.cpp:35
+msgctxt "electrical current unit symbol"
+msgid "YA"
+msgstr ""
+
+#: electrical_current.cpp:36
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "yottahertzs"
+msgctxt "unit description in lists"
+msgid "yottaamperes"
+msgstr "yota-hertz"
+
+#: electrical_current.cpp:37
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "yottahertz;yottahertzs;YHz"
+msgctxt "unit synonyms for matching user input"
+msgid "yottaampere;yottaamperes;YA"
+msgstr "yottahertz;yottahertzs;yota-hertz;YHz"
+
+#: electrical_current.cpp:39
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 yottahertzs"
+msgctxt "amount in units (real)"
+msgid "%1 yottaamperes"
+msgstr "%1 yota-hertz"
+
+#: electrical_current.cpp:40
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 yottahertz"
+#| msgid_plural "%1 yottahertzs"
+msgctxt "amount in units (integer)"
+msgid "%1 yottaampere"
+msgid_plural "%1 yottaamperes"
+msgstr[0] "%1 yota-hertz"
+msgstr[1] "%1 yota-hertz"
+msgstr[2] "%1 yota-hertz"
+msgstr[3] "%1 yota-hertz"
+
+#: electrical_current.cpp:43
+msgctxt "electrical current unit symbol"
+msgid "ZA"
+msgstr ""
+
+#: electrical_current.cpp:44
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "zettahertzs"
+msgctxt "unit description in lists"
+msgid "zettaamperes"
+msgstr "zeta-hertz"
+
+#: electrical_current.cpp:45
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "zettahertz;zettahertzs;ZHz"
+msgctxt "unit synonyms for matching user input"
+msgid "zettaampere;zettaamperes;ZA"
+msgstr "zettahertz;zettahertzs;zeta-hertz;ZHz"
+
+#: electrical_current.cpp:47
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 zettahertzs"
+msgctxt "amount in units (real)"
+msgid "%1 zettaamperes"
+msgstr "%1 zeta-hertz"
+
+#: electrical_current.cpp:48
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 zettahertz"
+#| msgid_plural "%1 zettahertzs"
+msgctxt "amount in units (integer)"
+msgid "%1 zettaampere"
+msgid_plural "%1 zettaamperes"
+msgstr[0] "%1 zeta-hertz"
+msgstr[1] "%1 zeta-hertz"
+msgstr[2] "%1 zeta-hertz"
+msgstr[3] "%1 zeta-hertz"
+
+#: electrical_current.cpp:51
+msgctxt "electrical current unit symbol"
+msgid "EA"
+msgstr ""
+
+#: electrical_current.cpp:52
+msgctxt "unit description in lists"
+msgid "exaamperes"
+msgstr ""
+
+#: electrical_current.cpp:53
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "exahertz;exahertzs;EHz"
+msgctxt "unit synonyms for matching user input"
+msgid "exaampere;exaamperes;EA"
+msgstr "exahertz;exahertzs;exa-hertz;EHz"
+
+#: electrical_current.cpp:55
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 exahertzs"
+msgctxt "amount in units (real)"
+msgid "%1 exaamperes"
+msgstr "%1 exa-hertz"
+
+#: electrical_current.cpp:56
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 exahertz"
+#| msgid_plural "%1 exahertzs"
+msgctxt "amount in units (integer)"
+msgid "%1 exaampere"
+msgid_plural "%1 exaamperes"
+msgstr[0] "%1 exa-hertz"
+msgstr[1] "%1 exa-hertz"
+msgstr[2] "%1 exa-hertz"
+msgstr[3] "%1 exa-hertz"
+
+#: electrical_current.cpp:59
+msgctxt "electrical current unit symbol"
+msgid "PA"
+msgstr ""
+
+#: electrical_current.cpp:60
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "petahertzs"
+msgctxt "unit description in lists"
+msgid "petaamperes"
+msgstr "peta-hertz"
+
+#: electrical_current.cpp:61
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "petahertz;petahertzs;PHz"
+msgctxt "unit synonyms for matching user input"
+msgid "petaampere;petaamperes;PA"
+msgstr "petahertz;petahertzs;peta-hertz;PHz"
+
+#: electrical_current.cpp:63
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 petahertzs"
+msgctxt "amount in units (real)"
+msgid "%1 petaamperes"
+msgstr "%1 peta-hertz"
+
+#: electrical_current.cpp:64
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 petahertz"
+#| msgid_plural "%1 petahertzs"
+msgctxt "amount in units (integer)"
+msgid "%1 petaampere"
+msgid_plural "%1 petaamperes"
+msgstr[0] "%1 pheta-hertz"
+msgstr[1] "%1 pheta-hertz"
+msgstr[2] "%1 peta-hertz"
+msgstr[3] "%1 peta-hertz"
+
+#: electrical_current.cpp:67
+msgctxt "electrical current unit symbol"
+msgid "TA"
+msgstr ""
+
+#: electrical_current.cpp:68
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "terahertzs"
+msgctxt "unit description in lists"
+msgid "teraamperes"
+msgstr "tera-hertz"
+
+#: electrical_current.cpp:69
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "terahertz;terahertzs;THz"
+msgctxt "unit synonyms for matching user input"
+msgid "teraampere;teraamperes;TA"
+msgstr "terahertz;terahertzs;tera-hertz;THz"
+
+#: electrical_current.cpp:71
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 terahertzs"
+msgctxt "amount in units (real)"
+msgid "%1 teraamperes"
+msgstr "%1 tera-hertz"
+
+#: electrical_current.cpp:72
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 terahertz"
+#| msgid_plural "%1 terahertzs"
+msgctxt "amount in units (integer)"
+msgid "%1 teraampere"
+msgid_plural "%1 teraamperes"
+msgstr[0] "%1 tera-hertz"
+msgstr[1] "%1 thera-hertz"
+msgstr[2] "%1 tera-hertz"
+msgstr[3] "%1 tera-hertz"
+
+#: electrical_current.cpp:75
+msgctxt "electrical current unit symbol"
+msgid "GA"
+msgstr ""
+
+#: electrical_current.cpp:76
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "gigahertzs"
+msgctxt "unit description in lists"
+msgid "gigaamperes"
+msgstr "giga-hertz"
+
+#: electrical_current.cpp:77
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "gigahertz;gigahertzs;GHz"
+msgctxt "unit synonyms for matching user input"
+msgid "gigaampere;gigaamperes;GA"
+msgstr "gigahertz;gigahertzs;giga-hertz;GHz"
+
+#: electrical_current.cpp:79
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 gigahertzs"
+msgctxt "amount in units (real)"
+msgid "%1 gigaamperes"
+msgstr "%1 giga-hertz"
+
+#: electrical_current.cpp:80
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 gigahertz"
+#| msgid_plural "%1 gigahertzs"
+msgctxt "amount in units (integer)"
+msgid "%1 gigaampere"
+msgid_plural "%1 gigaamperes"
+msgstr[0] "%1 ghiga-hertz"
+msgstr[1] "%1 ghiga-hertz"
+msgstr[2] "%1 giga-hertz"
+msgstr[3] "%1 giga-hertz"
+
+#: electrical_current.cpp:83
+msgctxt "electrical current unit symbol"
+msgid "MA"
+msgstr ""
+
+#: electrical_current.cpp:84
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "megahertzs"
+msgctxt "unit description in lists"
+msgid "megaamperes"
+msgstr "meaga-hertz"
+
+#: electrical_current.cpp:85
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "megahertz;megahertzs;MHz"
+msgctxt "unit synonyms for matching user input"
+msgid "megaampere;megaamperes;MA"
+msgstr "megahertz;megahertzs;meaga-hertz;MHz"
+
+#: electrical_current.cpp:87
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 megahertzs"
+msgctxt "amount in units (real)"
+msgid "%1 megaamperes"
+msgstr "%1 meaga-hertz"
+
+#: electrical_current.cpp:88
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 megahertz"
+#| msgid_plural "%1 megahertzs"
+msgctxt "amount in units (integer)"
+msgid "%1 megaampere"
+msgid_plural "%1 megaamperes"
+msgstr[0] "%1 mheaga-hertz"
+msgstr[1] "%1 mheaga-hertz"
+msgstr[2] "%1 meaga-hertz"
+msgstr[3] "%1 meaga-hertz"
+
+#: electrical_current.cpp:91
+msgctxt "electrical current unit symbol"
+msgid "kA"
+msgstr ""
+
+#: electrical_current.cpp:92
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "kilocalories"
+msgctxt "unit description in lists"
+msgid "kiloamperes"
+msgstr "cileacalaraidh"
+
+#: electrical_current.cpp:93
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "kilogram per liter;kilograms per liter;kg/l"
+msgctxt "unit synonyms for matching user input"
+msgid "kiloampere;kiloamperes;kA"
+msgstr "kilogram per liter;kilograms per liter;cileagram san liotair;kg/l"
+
+#: electrical_current.cpp:95
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 kilocalories"
+msgctxt "amount in units (real)"
+msgid "%1 kiloamperes"
+msgstr "%1 cileacalaraidh"
+
+#: electrical_current.cpp:96
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 kilogram per liter"
+#| msgid_plural "%1 kilograms per liter"
+msgctxt "amount in units (integer)"
+msgid "%1 kiloampere"
+msgid_plural "%1 kiloamperes"
+msgstr[0] "%1 chileagram san liotair"
+msgstr[1] "%1 chileagram san liotair"
+msgstr[2] "%1 cileagramaichean san liotair"
+msgstr[3] "%1 cileagram san liotair"
+
+#: electrical_current.cpp:99
+msgctxt "electrical current unit symbol"
+msgid "hA"
+msgstr ""
+
+#: electrical_current.cpp:100
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "hectohertzs"
+msgctxt "unit description in lists"
+msgid "hectoamperes"
+msgstr "heacta-hertz"
+
+#: electrical_current.cpp:101
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "hectohertz;hectohertzs;hHz"
+msgctxt "unit synonyms for matching user input"
+msgid "hectoampere;hectoamperes;hA"
+msgstr "hectohertz;hectohertzs;heacta-hertz;hHz"
+
+#: electrical_current.cpp:103
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 hectohertzs"
+msgctxt "amount in units (real)"
+msgid "%1 hectoamperes"
+msgstr "%1 heacta-hertz"
+
+#: electrical_current.cpp:104
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 hectohertz"
+#| msgid_plural "%1 hectohertzs"
+msgctxt "amount in units (integer)"
+msgid "%1 hectoampere"
+msgid_plural "%1 hectoamperes"
+msgstr[0] "%1 heacta-hertz"
+msgstr[1] "%1 heacta-hertz"
+msgstr[2] "%1 heacta-hertz"
+msgstr[3] "%1 heacta-hertz"
+
+#: electrical_current.cpp:107
+#, fuzzy
+#| msgctxt "energy unit symbol"
+#| msgid "daJ"
+msgctxt "electrical current unit symbol"
+msgid "daA"
+msgstr "daJ"
+
+#: electrical_current.cpp:108
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "decahertzs"
+msgctxt "unit description in lists"
+msgid "decaamperes"
+msgstr "deca-hertz"
+
+#: electrical_current.cpp:109
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "decahertz;decahertzs;daHz"
+msgctxt "unit synonyms for matching user input"
+msgid "decaampere;decaamperes;daA"
+msgstr "decahertz;decahertzs;deca-hertz;daHz"
+
+#: electrical_current.cpp:111
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 decahertzs"
+msgctxt "amount in units (real)"
+msgid "%1 decaamperes"
+msgstr "%1 deca-hertz"
+
+#: electrical_current.cpp:112
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 decahertz"
+#| msgid_plural "%1 decahertzs"
+msgctxt "amount in units (integer)"
+msgid "%1 decaampere"
+msgid_plural "%1 decaamperes"
+msgstr[0] "%1 deca-hertz"
+msgstr[1] "%1 dheca-hertz"
+msgstr[2] "%1 deca-hertz"
+msgstr[3] "%1 deca-hertz"
+
+#: electrical_current.cpp:115
+msgctxt "electrical current unit symbol"
+msgid "A"
+msgstr ""
+
+#: electrical_current.cpp:116
+msgctxt "unit description in lists"
+msgid "amperes"
+msgstr ""
+
+#: electrical_current.cpp:117
+msgctxt "unit synonyms for matching user input"
+msgid "amp;amps;ampere;amperes;A"
+msgstr ""
+
+#: electrical_current.cpp:119
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 acres"
+msgctxt "amount in units (real)"
+msgid "%1 amperes"
+msgstr "%1 acair(ean)"
+
+#: electrical_current.cpp:120
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 acre"
+#| msgid_plural "%1 acres"
+msgctxt "amount in units (integer)"
+msgid "%1 ampere"
+msgid_plural "%1 amperes"
+msgstr[0] "%1 acair"
+msgstr[1] "%1 acair"
+msgstr[2] "%1 acairean"
+msgstr[3] "%1 acair"
+
+#: electrical_current.cpp:123
+msgctxt "electrical current unit symbol"
+msgid "dA"
+msgstr ""
+
+#: electrical_current.cpp:124
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "decihertzs"
+msgctxt "unit description in lists"
+msgid "deciamperes"
+msgstr "deicheamh-hertz"
+
+#: electrical_current.cpp:125
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "decihertz;decihertzs;dHz"
+msgctxt "unit synonyms for matching user input"
+msgid "deciampere;deciamperes;dA"
+msgstr "decihertz;decihertzs;deicheamh-hertz;dHz"
+
+#: electrical_current.cpp:127
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 decihertzs"
+msgctxt "amount in units (real)"
+msgid "%1 deciamperes"
+msgstr "%1 deicheamh-hertz"
+
+#: electrical_current.cpp:128
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 decihertz"
+#| msgid_plural "%1 decihertzs"
+msgctxt "amount in units (integer)"
+msgid "%1 deciampere"
+msgid_plural "%1 deciamperes"
+msgstr[0] "%1 deicheamh-hertz"
+msgstr[1] "%1 dheicheamh-hertz"
+msgstr[2] "%1 deicheamh-hertz"
+msgstr[3] "%1 deicheamh-hertz"
+
+#: electrical_current.cpp:131
+msgctxt "electrical current unit symbol"
+msgid "cA"
+msgstr ""
+
+#: electrical_current.cpp:132
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "centihertzs"
+msgctxt "unit description in lists"
+msgid "centiamperes"
+msgstr "ceuda-hertz"
+
+#: electrical_current.cpp:133
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "centihertz;centihertzs;cHz"
+msgctxt "unit synonyms for matching user input"
+msgid "centiampere;centiamperes;cA"
+msgstr "centihertz;centihertzs;ceuda-hertz;cHz"
+
+#: electrical_current.cpp:135
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 centihertzs"
+msgctxt "amount in units (real)"
+msgid "%1 centiamperes"
+msgstr "%1 ceuda-hertz"
+
+#: electrical_current.cpp:136
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 centihertz"
+#| msgid_plural "%1 centihertzs"
+msgctxt "amount in units (integer)"
+msgid "%1 centiampere"
+msgid_plural "%1 centiamperes"
+msgstr[0] "%1 cheuda-hertz"
+msgstr[1] "%1 cheuda-hertz"
+msgstr[2] "%1 ceuda-hertz"
+msgstr[3] "%1 ceuda-hertz"
+
+#: electrical_current.cpp:139
+msgctxt "electrical current unit symbol"
+msgid "mA"
+msgstr ""
+
+#: electrical_current.cpp:140
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "millihertzs"
+msgctxt "unit description in lists"
+msgid "milliamperes"
+msgstr "mille-hertz"
+
+#: electrical_current.cpp:141
+msgctxt "unit synonyms for matching user input"
+msgid "milliamp;milliamps;milliampere;milliamperes;mA"
+msgstr ""
+
+#: electrical_current.cpp:143
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 millihertzs"
+msgctxt "amount in units (real)"
+msgid "%1 milliamperes"
+msgstr "%1 mille-hertz"
+
+#: electrical_current.cpp:144
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 millihertz"
+#| msgid_plural "%1 millihertzs"
+msgctxt "amount in units (integer)"
+msgid "%1 milliampere"
+msgid_plural "%1 milliamperes"
+msgstr[0] "%1 mhille-hertz"
+msgstr[1] "%1 mhille-hertz"
+msgstr[2] "%1 mille-hertz"
+msgstr[3] "%1 mille-hertz"
+
+#: electrical_current.cpp:147
+#, fuzzy
+#| msgctxt "energy unit symbol"
+#| msgid "µJ"
+msgctxt "electrical current unit symbol"
+msgid "µA"
+msgstr "µJ"
+
+#: electrical_current.cpp:148
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "microhertzs"
+msgctxt "unit description in lists"
+msgid "microamperes"
+msgstr "micreo-hertz"
+
+#: electrical_current.cpp:149
+msgctxt "unit synonyms for matching user input"
+msgid "microamp;microamps;microampere;microamperes;µA;uA"
+msgstr ""
+
+#: electrical_current.cpp:151
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 microhertzs"
+msgctxt "amount in units (real)"
+msgid "%1 microamperes"
+msgstr "%1 micreo-hertz"
+
+#: electrical_current.cpp:152
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 microhertz"
+#| msgid_plural "%1 microhertzs"
+msgctxt "amount in units (integer)"
+msgid "%1 microampere"
+msgid_plural "%1 microamperes"
+msgstr[0] "%1 mhicreo-hertz"
+msgstr[1] "%1 mhicreo-hertz"
+msgstr[2] "%1 micreo-hertz"
+msgstr[3] "%1 micreo-hertz"
+
+#: electrical_current.cpp:155
+msgctxt "electrical current unit symbol"
+msgid "nA"
+msgstr ""
+
+#: electrical_current.cpp:156
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "nanohertzs"
+msgctxt "unit description in lists"
+msgid "nanoamperes"
+msgstr "nano-hertz"
+
+#: electrical_current.cpp:157
+msgctxt "unit synonyms for matching user input"
+msgid "nanoamp;nanoamps;nanoampere;nanoamperes;nA"
+msgstr ""
+
+#: electrical_current.cpp:159
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 nanometers"
+msgctxt "amount in units (real)"
+msgid "%1 nanoamperes"
+msgstr "%1 nano-mheatair"
+
+#: electrical_current.cpp:160
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 nanometer"
+#| msgid_plural "%1 nanometers"
+msgctxt "amount in units (integer)"
+msgid "%1 nanoampere"
+msgid_plural "%1 nanoamperes"
+msgstr[0] "%1 nano-mheatair"
+msgstr[1] "%1 nano-mheatair"
+msgstr[2] "%1 nano-mheatairean"
+msgstr[3] "%1 nano-mheatair"
+
+#: electrical_current.cpp:163
+msgctxt "electrical current unit symbol"
+msgid "pA"
+msgstr ""
+
+#: electrical_current.cpp:164
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "picohertzs"
+msgctxt "unit description in lists"
+msgid "picoamperes"
+msgstr "pico-hertz"
+
+#: electrical_current.cpp:165
+msgctxt "unit synonyms for matching user input"
+msgid "picoamp;picoamps;picoampere;picoamperes;pA"
+msgstr ""
+
+#: electrical_current.cpp:167
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 picohertzs"
+msgctxt "amount in units (real)"
+msgid "%1 picoamperes"
+msgstr "%1 pico-hertz"
+
+#: electrical_current.cpp:168
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 picohertz"
+#| msgid_plural "%1 picohertzs"
+msgctxt "amount in units (integer)"
+msgid "%1 picoampere"
+msgid_plural "%1 picoamperes"
+msgstr[0] "%1 phico-hertz"
+msgstr[1] "%1 phico-hertz"
+msgstr[2] "%1 pico-hertz"
+msgstr[3] "%1 pico-hertz"
+
+#: electrical_current.cpp:171
+msgctxt "electrical current unit symbol"
+msgid "fA"
+msgstr ""
+
+#: electrical_current.cpp:172
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "femtohertzs"
+msgctxt "unit description in lists"
+msgid "femtoamperes"
+msgstr "femto-hertz"
+
+#: electrical_current.cpp:173
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "femtohertz;femtohertzs;fHz"
+msgctxt "unit synonyms for matching user input"
+msgid "femtoampere;femtoamperes;fA"
+msgstr "femtohertz;femtohertzs;femto-hertz;fHz"
+
+#: electrical_current.cpp:175
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 femtohertzs"
+msgctxt "amount in units (real)"
+msgid "%1 femtoamperes"
+msgstr "%1 femto-hertz"
+
+#: electrical_current.cpp:176
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 femtohertz"
+#| msgid_plural "%1 femtohertzs"
+msgctxt "amount in units (integer)"
+msgid "%1 femtoampere"
+msgid_plural "%1 femtoamperes"
+msgstr[0] "%1 fhemto-hertz"
+msgstr[1] "%1 fhemto-hertz"
+msgstr[2] "%1 femto-hertz"
+msgstr[3] "%1 femto-hertz"
+
+#: electrical_current.cpp:179
+msgctxt "electrical current unit symbol"
+msgid "aA"
+msgstr ""
+
+#: electrical_current.cpp:180
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "attohertzs"
+msgctxt "unit description in lists"
+msgid "attoamperes"
+msgstr "ato-hertz"
+
+#: electrical_current.cpp:181
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "attohertz;attohertzs;aHz"
+msgctxt "unit synonyms for matching user input"
+msgid "attoampere;attoamperes;aA"
+msgstr "attohertz;attohertzs;ato-hertz;aHz"
+
+#: electrical_current.cpp:183
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 attohertzs"
+msgctxt "amount in units (real)"
+msgid "%1 attoamperes"
+msgstr "%1 ato-hertz"
+
+#: electrical_current.cpp:184
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 attohertz"
+#| msgid_plural "%1 attohertzs"
+msgctxt "amount in units (integer)"
+msgid "%1 attoampere"
+msgid_plural "%1 attoamperes"
+msgstr[0] "%1 ato-hertz"
+msgstr[1] "%1 ato-hertz"
+msgstr[2] "%1 ato-hertz"
+msgstr[3] "%1 ato-hertz"
+
+#: electrical_current.cpp:187
+msgctxt "electrical current unit symbol"
+msgid "zA"
+msgstr ""
+
+#: electrical_current.cpp:188
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "zeptohertzs"
+msgctxt "unit description in lists"
+msgid "zeptoamperes"
+msgstr "zepto-hertz"
+
+#: electrical_current.cpp:189
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "zeptohertz;zeptohertzs;zHz"
+msgctxt "unit synonyms for matching user input"
+msgid "zeptoampere;zeptoamperes;zA"
+msgstr "zeptohertz;zeptohertzs;zepto-hertz;zHz"
+
+#: electrical_current.cpp:191
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 zeptohertzs"
+msgctxt "amount in units (real)"
+msgid "%1 zeptoamperes"
+msgstr "%1 zepto-hertz"
+
+#: electrical_current.cpp:192
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 zeptohertz"
+#| msgid_plural "%1 zeptohertzs"
+msgctxt "amount in units (integer)"
+msgid "%1 zeptoampere"
+msgid_plural "%1 zeptoamperes"
+msgstr[0] "%1 zepto-hertz"
+msgstr[1] "%1 zepto-hertz"
+msgstr[2] "%1 zepto-hertz"
+msgstr[3] "%1 zepto-hertz"
+
+#: electrical_current.cpp:195
+msgctxt "electrical current unit symbol"
+msgid "yA"
+msgstr ""
+
+#: electrical_current.cpp:196
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "yoctohertzs"
+msgctxt "unit description in lists"
+msgid "yoctoamperes"
+msgstr "yocto-hertz"
+
+#: electrical_current.cpp:197
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "yoctohertz;yoctohertzs;yHz"
+msgctxt "unit synonyms for matching user input"
+msgid "yoctoampere;yoctoamperes;yA"
+msgstr "yoctohertz;yoctohertzs;yocto-hertz;yHz"
+
+#: electrical_current.cpp:199
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 yoctohertzs"
+msgctxt "amount in units (real)"
+msgid "%1 yoctoamperes"
+msgstr "%1 yocto-hertz"
+
+#: electrical_current.cpp:200
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 yoctohertz"
+#| msgid_plural "%1 yoctohertzs"
+msgctxt "amount in units (integer)"
+msgid "%1 yoctoampere"
+msgid_plural "%1 yoctoamperes"
+msgstr[0] "%1 yocto-hertz"
+msgstr[1] "%1 yocto-hertz"
+msgstr[2] "%1 yocto-hertz"
+msgstr[3] "%1 yocto-hertz"
+
+#: electrical_resistance.cpp:30
+msgid "Resistance"
+msgstr ""
+
+#: electrical_resistance.cpp:32
+#, fuzzy, kde-format
+#| msgctxt "%1 value, %2 unit symbol (acceleration)"
+#| msgid "%1 %2"
+msgctxt "%1 value, %2 unit symbol (electrical resistance"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: electrical_resistance.cpp:35
+msgctxt "electrical resistance unit symbol"
+msgid "YΩ"
+msgstr ""
+
+#: electrical_resistance.cpp:36
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "yottajoules"
+msgctxt "unit description in lists"
+msgid "yottaohms"
+msgstr "yota-joule"
+
+#: electrical_resistance.cpp:37
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "yottajoule;yottajoules;YJ"
+msgctxt "unit synonyms for matching user input"
+msgid "yottaohm;yottaohms;YΩ"
+msgstr "yottajoule;yottajoules;yota-joule;YJ"
+
+#: electrical_resistance.cpp:39
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 yottajoules"
+msgctxt "amount in units (real)"
+msgid "%1 yottaohms"
+msgstr "%1 yota-joule"
+
+#: electrical_resistance.cpp:40
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 yottajoule"
+#| msgid_plural "%1 yottajoules"
+msgctxt "amount in units (integer)"
+msgid "%1 yottaohm"
+msgid_plural "%1 yottaohms"
+msgstr[0] "%1 yota-joule"
+msgstr[1] "%1 yota-joule"
+msgstr[2] "%1 yota-joule"
+msgstr[3] "%1 yota-joule"
+
+#: electrical_resistance.cpp:43
+msgctxt "electrical resistance unit symbol"
+msgid "ZΩ"
+msgstr ""
+
+#: electrical_resistance.cpp:44
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "zettajoules"
+msgctxt "unit description in lists"
+msgid "zettaohms"
+msgstr "zeta-joules"
+
+#: electrical_resistance.cpp:45
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "zettajoule;zettajoules;ZJ"
+msgctxt "unit synonyms for matching user input"
+msgid "zettaohm;zettaohms;ZΩ"
+msgstr "zettajoule;zettajoules;zeta-joule;ZJ"
+
+#: electrical_resistance.cpp:47
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 zettajoules"
+msgctxt "amount in units (real)"
+msgid "%1 zettaohms"
+msgstr "%1 zeta-joule"
+
+#: electrical_resistance.cpp:48
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 zettajoule"
+#| msgid_plural "%1 zettajoules"
+msgctxt "amount in units (integer)"
+msgid "%1 zettaohm"
+msgid_plural "%1 zettaohms"
+msgstr[0] "%1 zeta-joule"
+msgstr[1] "%1 zeta-joule"
+msgstr[2] "%1 zeta-joule"
+msgstr[3] "%1 zeta-joule"
+
+#: electrical_resistance.cpp:51
+msgctxt "electrical resistance unit symbol"
+msgid "EΩ"
+msgstr ""
+
+#: electrical_resistance.cpp:52
+msgctxt "unit description in lists"
+msgid "exaohms"
+msgstr ""
+
+#: electrical_resistance.cpp:53
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "exajoule;exajoules;EJ"
+msgctxt "unit synonyms for matching user input"
+msgid "exaohm;exaohms;EΩ"
+msgstr "exajoule;exajoules;exa-joule;EJ"
+
+#: electrical_resistance.cpp:55
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 exajoules"
+msgctxt "amount in units (real)"
+msgid "%1 exaohms"
+msgstr "%1 exa-joule"
+
+#: electrical_resistance.cpp:56
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 exajoule"
+#| msgid_plural "%1 exajoules"
+msgctxt "amount in units (integer)"
+msgid "%1 exaohm"
+msgid_plural "%1 exaohms"
+msgstr[0] "%1 exa-joule"
+msgstr[1] "%1 exa-joule"
+msgstr[2] "%1 exa-joule"
+msgstr[3] "%1 exa-joule"
+
+#: electrical_resistance.cpp:59
+msgctxt "electrical resistance unit symbol"
+msgid "PΩ"
+msgstr ""
+
+#: electrical_resistance.cpp:60
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "petajoules"
+msgctxt "unit description in lists"
+msgid "petaohms"
+msgstr "peta-joule"
+
+#: electrical_resistance.cpp:61
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "petajoule;petajoules;PJ"
+msgctxt "unit synonyms for matching user input"
+msgid "petaohm;petaohms;PΩ"
+msgstr "petajoule;petajoules;peta-joule;PJ"
+
+#: electrical_resistance.cpp:63
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 pesetas"
+msgctxt "amount in units (real)"
+msgid "%1 petaohms"
+msgstr "%1 peseta Spàinnteach"
+
+#: electrical_resistance.cpp:64
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 peseta"
+#| msgid_plural "%1 pesetas"
+msgctxt "amount in units (integer)"
+msgid "%1 petaohm"
+msgid_plural "%1 petaohms"
+msgstr[0] "%1 pheseta Spàinnteach"
+msgstr[1] "%1 pheseta Spàinnteach"
+msgstr[2] "%1 peseta Spàinnteach"
+msgstr[3] "%1 peseta Spàinnteach"
+
+#: electrical_resistance.cpp:67
+msgctxt "electrical resistance unit symbol"
+msgid "TΩ"
+msgstr ""
+
+#: electrical_resistance.cpp:68
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "terajoules"
+msgctxt "unit description in lists"
+msgid "teraohms"
+msgstr "tera-joule"
+
+#: electrical_resistance.cpp:69
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "terajoule;terajoules;TJ"
+msgctxt "unit synonyms for matching user input"
+msgid "teraohm;teraohms;TΩ"
+msgstr "terajoule;terajoules;tera-joule;TJ"
+
+#: electrical_resistance.cpp:71
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 terajoules"
+msgctxt "amount in units (real)"
+msgid "%1 teraohms"
+msgstr "%1 tera-joule"
+
+#: electrical_resistance.cpp:72
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 terajoule"
+#| msgid_plural "%1 terajoules"
+msgctxt "amount in units (integer)"
+msgid "%1 teraohm"
+msgid_plural "%1 teraohms"
+msgstr[0] "%1 tera-joule"
+msgstr[1] "%1 tera-joule"
+msgstr[2] "%1 tera-joule"
+msgstr[3] "%1 tera-joule"
+
+#: electrical_resistance.cpp:75
+msgctxt "electrical resistance unit symbol"
+msgid "GΩ"
+msgstr ""
+
+#: electrical_resistance.cpp:76
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "gigajoules"
+msgctxt "unit description in lists"
+msgid "gigaohms"
+msgstr "giga-joule"
+
+#: electrical_resistance.cpp:77
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "gigajoule;gigajoules;GJ"
+msgctxt "unit synonyms for matching user input"
+msgid "gigaohm;gigaohms;GΩ"
+msgstr "gigajoule;gigajoules;giga-joule;GJ"
+
+#: electrical_resistance.cpp:79
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 gigajoules"
+msgctxt "amount in units (real)"
+msgid "%1 gigaohms"
+msgstr "%1 giga-joule"
+
+#: electrical_resistance.cpp:80
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 gigajoule"
+#| msgid_plural "%1 gigajoules"
+msgctxt "amount in units (integer)"
+msgid "%1 gigaohm"
+msgid_plural "%1 gigaohms"
+msgstr[0] "%1 giga-joule"
+msgstr[1] "%1 giga-joule"
+msgstr[2] "%1 giga-joule"
+msgstr[3] "%1 giga-joule"
+
+#: electrical_resistance.cpp:83
+msgctxt "electrical resistance unit symbol"
+msgid "MΩ"
+msgstr ""
+
+#: electrical_resistance.cpp:84
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "megajoules"
+msgctxt "unit description in lists"
+msgid "megaohms"
+msgstr "meaga-joule"
+
+#: electrical_resistance.cpp:85
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "megajoule;megajoules;MJ"
+msgctxt "unit synonyms for matching user input"
+msgid "megaohm;megaohms;MΩ"
+msgstr "megajoule;megajoules;meaga-joule;MJ"
+
+#: electrical_resistance.cpp:87
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 megajoules"
+msgctxt "amount in units (real)"
+msgid "%1 megaohms"
+msgstr "%1 meaga-joule"
+
+#: electrical_resistance.cpp:88
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 megajoule"
+#| msgid_plural "%1 megajoules"
+msgctxt "amount in units (integer)"
+msgid "%1 megaohm"
+msgid_plural "%1 megaohms"
+msgstr[0] "%1 mheaga-joule"
+msgstr[1] "%1 mheaga-joule"
+msgstr[2] "%1 meaga-joule"
+msgstr[3] "%1 meaga-joule"
+
+#: electrical_resistance.cpp:91
+msgctxt "electrical resistance unit symbol"
+msgid "kΩ"
+msgstr ""
+
+#: electrical_resistance.cpp:92
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "kiloponds"
+msgctxt "unit description in lists"
+msgid "kiloohms"
+msgstr "cilea-phond"
+
+#: electrical_resistance.cpp:93
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "kilojoule;kilojoules;kJ"
+msgctxt "unit synonyms for matching user input"
+msgid "kiloohm;kiloohms;kΩ"
+msgstr "kilojoule;kilojoules;cilea-joule;kJ"
+
+#: electrical_resistance.cpp:95
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 kiloponds"
+msgctxt "amount in units (real)"
+msgid "%1 kiloohms"
+msgstr "%1 cilea-phond"
+
+#: electrical_resistance.cpp:96
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 kilopond"
+#| msgid_plural "%1 kiloponds"
+msgctxt "amount in units (integer)"
+msgid "%1 kiloohm"
+msgid_plural "%1 kiloohms"
+msgstr[0] "%1 chilea-phond"
+msgstr[1] "%1 chilea-phond"
+msgstr[2] "%1 cilea-phond"
+msgstr[3] "%1 cilea-phond"
+
+#: electrical_resistance.cpp:99
+msgctxt "electrical resistance unit symbol"
+msgid "hΩ"
+msgstr ""
+
+#: electrical_resistance.cpp:100
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "hectojoules"
+msgctxt "unit description in lists"
+msgid "hectoohms"
+msgstr "heacta-joule"
+
+#: electrical_resistance.cpp:101
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "hectojoule;hectojoules;hJ"
+msgctxt "unit synonyms for matching user input"
+msgid "hectoohm;hectoohms;hΩ"
+msgstr "hectojoule;hectojoules;heacta-joule;hJ"
+
+#: electrical_resistance.cpp:103
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 hectojoules"
+msgctxt "amount in units (real)"
+msgid "%1 hectoohms"
+msgstr "%1 heacta-joule"
+
+#: electrical_resistance.cpp:104
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 hectojoule"
+#| msgid_plural "%1 hectojoules"
+msgctxt "amount in units (integer)"
+msgid "%1 hectoohm"
+msgid_plural "%1 hectoohms"
+msgstr[0] "%1 heacta-joule"
+msgstr[1] "%1 heacta-joule"
+msgstr[2] "%1 heacta-joule"
+msgstr[3] "%1 heacta-joule"
+
+#: electrical_resistance.cpp:107
+msgctxt "electrical resistance unit symbol"
+msgid "daΩ"
+msgstr ""
+
+#: electrical_resistance.cpp:108
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "decajoules"
+msgctxt "unit description in lists"
+msgid "decaohms"
+msgstr "deaca-joule"
+
+#: electrical_resistance.cpp:109
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "decajoule;decajoules;daJ"
+msgctxt "unit synonyms for matching user input"
+msgid "decaohm;decaohms;daΩ"
+msgstr "decajoule;decajoules;deaca-joule;daJ"
+
+#: electrical_resistance.cpp:111
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 decajoules"
+msgctxt "amount in units (real)"
+msgid "%1 decaohms"
+msgstr "%1 deaca-joule"
+
+#: electrical_resistance.cpp:112
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 decajoule"
+#| msgid_plural "%1 decajoules"
+msgctxt "amount in units (integer)"
+msgid "%1 decaohm"
+msgid_plural "%1 decaohms"
+msgstr[0] "%1 deaca-joule"
+msgstr[1] "%1 dheaca-joule"
+msgstr[2] "%1 deaca-joule"
+msgstr[3] "%1 deaca-joule"
+
+#: electrical_resistance.cpp:115
+msgctxt "electrical resistance unit symbol"
+msgid "Ω"
+msgstr ""
+
+#: electrical_resistance.cpp:116
+msgctxt "unit description in lists"
+msgid "ohms"
+msgstr ""
+
+#: electrical_resistance.cpp:117
+msgctxt "unit synonyms for matching user input"
+msgid "ohm;ohms;Ω"
+msgstr ""
+
+#: electrical_resistance.cpp:119
+#, kde-format
+msgctxt "amount in units (real)"
+msgid "%1 ohms"
+msgstr ""
+
+#: electrical_resistance.cpp:120
+#, kde-format
+msgctxt "amount in units (integer)"
+msgid "%1 ohm"
+msgid_plural "%1 ohms"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: electrical_resistance.cpp:123
+msgctxt "electrical resistance unit symbol"
+msgid "dΩ"
+msgstr ""
+
+#: electrical_resistance.cpp:124
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "decijoules"
+msgctxt "unit description in lists"
+msgid "deciohms"
+msgstr "deicheamh-joule"
+
+#: electrical_resistance.cpp:125
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "decijoule;decijoules;dJ"
+msgctxt "unit synonyms for matching user input"
+msgid "deciohm;deciohms;dΩ"
+msgstr "decijoule;decijoules;deicheamh-joule;dJ"
+
+#: electrical_resistance.cpp:127
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 decijoules"
+msgctxt "amount in units (real)"
+msgid "%1 deciohms"
+msgstr "%1 deicheamh-joule"
+
+#: electrical_resistance.cpp:128
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 decijoule"
+#| msgid_plural "%1 decijoules"
+msgctxt "amount in units (integer)"
+msgid "%1 deciohm"
+msgid_plural "%1 deciohms"
+msgstr[0] "%1 deicheamh-joule"
+msgstr[1] "%1 dheicheamh-joule"
+msgstr[2] "%1 deicheamh-joule"
+msgstr[3] "%1 deicheamh-joule"
+
+#: electrical_resistance.cpp:131
+msgctxt "electrical resistance unit symbol"
+msgid "cΩ"
+msgstr ""
+
+#: electrical_resistance.cpp:132
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "centijoules"
+msgctxt "unit description in lists"
+msgid "centiohms"
+msgstr "ceuda-joule"
+
+#: electrical_resistance.cpp:133
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "centijoule;centijoules;cJ"
+msgctxt "unit synonyms for matching user input"
+msgid "centiohm;centiohms;cΩ"
+msgstr "centijoule;centijoules;ceuda-joule;cJ"
+
+#: electrical_resistance.cpp:135
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 centijoules"
+msgctxt "amount in units (real)"
+msgid "%1 centiohms"
+msgstr "%1 ceuda-joule"
+
+#: electrical_resistance.cpp:136
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 centijoule"
+#| msgid_plural "%1 centijoules"
+msgctxt "amount in units (integer)"
+msgid "%1 centiohm"
+msgid_plural "%1 centiohms"
+msgstr[0] "%1 cheuda-joule"
+msgstr[1] "%1 cheuda-joule"
+msgstr[2] "%1 ceuda-joule"
+msgstr[3] "%1 ceuda-joule"
+
+#: electrical_resistance.cpp:139
+msgctxt "electrical resistance unit symbol"
+msgid "mΩ"
+msgstr ""
+
+#: electrical_resistance.cpp:140
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "millijoules"
+msgctxt "unit description in lists"
+msgid "milliohms"
+msgstr "mille-joule"
+
+#: electrical_resistance.cpp:141
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "millijoule;millijoules;mJ"
+msgctxt "unit synonyms for matching user input"
+msgid "milliohm;milliohms;mΩ"
+msgstr "millijoule;millijoules;mille-joule;mJ"
+
+#: electrical_resistance.cpp:143
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 millijoules"
+msgctxt "amount in units (real)"
+msgid "%1 milliohms"
+msgstr "%1 mille-joule"
+
+#: electrical_resistance.cpp:144
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 millijoule"
+#| msgid_plural "%1 millijoules"
+msgctxt "amount in units (integer)"
+msgid "%1 milliohm"
+msgid_plural "%1 milliohms"
+msgstr[0] "%1 mhille-joule"
+msgstr[1] "%1 mhille-joule"
+msgstr[2] "%1 mille-joule"
+msgstr[3] "%1 mille-joule"
+
+#: electrical_resistance.cpp:147
+msgctxt "electrical resistance unit symbol"
+msgid "µΩ"
+msgstr ""
+
+#: electrical_resistance.cpp:148
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "microjoules"
+msgctxt "unit description in lists"
+msgid "microohms"
+msgstr "micreo-joule"
+
+#: electrical_resistance.cpp:149
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "microjoule;microjoules;µJ;uJ"
+msgctxt "unit synonyms for matching user input"
+msgid "microohm;microohms;µΩ;uΩ"
+msgstr "microjoule;microjoules;micreo-joule;µJ;uJ"
+
+#: electrical_resistance.cpp:151
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 microjoules"
+msgctxt "amount in units (real)"
+msgid "%1 microohms"
+msgstr "%1 micreo-joule"
+
+#: electrical_resistance.cpp:152
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 microjoule"
+#| msgid_plural "%1 microjoules"
+msgctxt "amount in units (integer)"
+msgid "%1 microohm"
+msgid_plural "%1 microohms"
+msgstr[0] "%1 mhicreo-joule"
+msgstr[1] "%1 mhicreo-joule"
+msgstr[2] "%1 mhicreo-joule"
+msgstr[3] "%1 mhicreo-joule"
+
+#: electrical_resistance.cpp:155
+msgctxt "electrical resistance unit symbol"
+msgid "nΩ"
+msgstr ""
+
+#: electrical_resistance.cpp:156
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "nanojoules"
+msgctxt "unit description in lists"
+msgid "nanoohms"
+msgstr "nano-joule"
+
+#: electrical_resistance.cpp:157
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "nanojoule;nanojoules;nJ"
+msgctxt "unit synonyms for matching user input"
+msgid "nanoohm;nanoohms;nΩ"
+msgstr "nanojoule;nanojoules;nano-joule;nJ"
+
+#: electrical_resistance.cpp:159
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 nanojoules"
+msgctxt "amount in units (real)"
+msgid "%1 nanoohms"
+msgstr "%1 nano-joule"
+
+#: electrical_resistance.cpp:160
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 nanojoule"
+#| msgid_plural "%1 nanojoules"
+msgctxt "amount in units (integer)"
+msgid "%1 nanoohm"
+msgid_plural "%1 nanoohms"
+msgstr[0] "%1 nano-joule"
+msgstr[1] "%1 nano-joule"
+msgstr[2] "%1 nano-joule"
+msgstr[3] "%1 nano-joule"
+
+#: electrical_resistance.cpp:163
+msgctxt "electrical resistance unit symbol"
+msgid "pΩ"
+msgstr ""
+
+#: electrical_resistance.cpp:164
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "picojoules"
+msgctxt "unit description in lists"
+msgid "picoohms"
+msgstr "pico-joule"
+
+#: electrical_resistance.cpp:165
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "picojoule;picojoules;pJ"
+msgctxt "unit synonyms for matching user input"
+msgid "picoohm;picoohms;pΩ"
+msgstr "picojoule;picojoules;pico-joule;pJ"
+
+#: electrical_resistance.cpp:167
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 picojoules"
+msgctxt "amount in units (real)"
+msgid "%1 picoohms"
+msgstr "%1 pico-joule"
+
+#: electrical_resistance.cpp:168
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 picojoule"
+#| msgid_plural "%1 picojoules"
+msgctxt "amount in units (integer)"
+msgid "%1 picoohm"
+msgid_plural "%1 picoohms"
+msgstr[0] "%1 phico-joule"
+msgstr[1] "%1 phico-joule"
+msgstr[2] "%1 pico-joule"
+msgstr[3] "%1 pico-joule"
+
+#: electrical_resistance.cpp:171
+msgctxt "electrical resistance unit symbol"
+msgid "fΩ"
+msgstr ""
+
+#: electrical_resistance.cpp:172
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "femtojoules"
+msgctxt "unit description in lists"
+msgid "femtoohms"
+msgstr "femto-joule"
+
+#: electrical_resistance.cpp:173
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "femtojoule;femtojoules;fJ"
+msgctxt "unit synonyms for matching user input"
+msgid "femtoohm;femtoohms;fΩ"
+msgstr "femtojoule;femtojoules;femto-joule;fJ"
+
+#: electrical_resistance.cpp:175
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 femtojoules"
+msgctxt "amount in units (real)"
+msgid "%1 femtoohms"
+msgstr "%1 femto-joule"
+
+#: electrical_resistance.cpp:176
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 femtojoule"
+#| msgid_plural "%1 femtojoules"
+msgctxt "amount in units (integer)"
+msgid "%1 femtoohm"
+msgid_plural "%1 femtoohms"
+msgstr[0] "%1 fhemto-joule"
+msgstr[1] "%1 fhemto-joule"
+msgstr[2] "%1 femto-joule"
+msgstr[3] "%1 femto-joule"
+
+#: electrical_resistance.cpp:179
+msgctxt "electrical resistance unit symbol"
+msgid "aΩ"
+msgstr ""
+
+#: electrical_resistance.cpp:180
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "attojoules"
+msgctxt "unit description in lists"
+msgid "attoohms"
+msgstr "ato-joule"
+
+#: electrical_resistance.cpp:181
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "attojoule;attojoules;aJ"
+msgctxt "unit synonyms for matching user input"
+msgid "attoohm;attoohms;aΩ"
+msgstr "attojoule;attojoules;ato-joule;aJ"
+
+#: electrical_resistance.cpp:183
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 attojoules"
+msgctxt "amount in units (real)"
+msgid "%1 attoohms"
+msgstr "%1 ato-joule"
+
+#: electrical_resistance.cpp:184
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 attojoule"
+#| msgid_plural "%1 attojoules"
+msgctxt "amount in units (integer)"
+msgid "%1 attoohm"
+msgid_plural "%1 attoohms"
+msgstr[0] "%1 ato-joule"
+msgstr[1] "%1 ato-joule"
+msgstr[2] "%1 ato-joule"
+msgstr[3] "%1 ato-joule"
+
+#: electrical_resistance.cpp:187
+msgctxt "electrical resistance unit symbol"
+msgid "zΩ"
+msgstr ""
+
+#: electrical_resistance.cpp:188
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "zeptojoules"
+msgctxt "unit description in lists"
+msgid "zeptoohms"
+msgstr "zepto-joule"
+
+#: electrical_resistance.cpp:189
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "zeptojoule;zeptojoules;zJ"
+msgctxt "unit synonyms for matching user input"
+msgid "zeptoohm;zeptoohms;zΩ"
+msgstr "zeptojoule;zeptojoules;zepto-joule;zJ"
+
+#: electrical_resistance.cpp:191
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 zeptojoules"
+msgctxt "amount in units (real)"
+msgid "%1 zeptoohms"
+msgstr "%1 zepto-joule"
+
+#: electrical_resistance.cpp:192
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 zeptojoule"
+#| msgid_plural "%1 zeptojoules"
+msgctxt "amount in units (integer)"
+msgid "%1 zeptoohm"
+msgid_plural "%1 zeptoohms"
+msgstr[0] "%1 zepto-joule"
+msgstr[1] "%1 zepto-joule"
+msgstr[2] "%1 zepto-joule"
+msgstr[3] "%1 zepto-joule"
+
+#: electrical_resistance.cpp:195
+msgctxt "electrical resistance unit symbol"
+msgid "yΩ"
+msgstr ""
+
+#: electrical_resistance.cpp:196
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "yoctojoules"
+msgctxt "unit description in lists"
+msgid "yoctoohms"
+msgstr "yocto-joule"
+
+#: electrical_resistance.cpp:197
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "yoctojoule;yoctojoules;yJ"
+msgctxt "unit synonyms for matching user input"
+msgid "yoctoohm;yoctoohms;yΩ"
+msgstr "yoctojoule;yoctojoules;yocto-joule;yJ"
+
+#: electrical_resistance.cpp:199
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 yoctojoules"
+msgctxt "amount in units (real)"
+msgid "%1 yoctoohms"
+msgstr "%1 yocto-joule"
+
+#: electrical_resistance.cpp:200
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 yoctojoule"
+#| msgid_plural "%1 yoctojoules"
+msgctxt "amount in units (integer)"
+msgid "%1 yoctoohm"
+msgid_plural "%1 yoctoohms"
+msgstr[0] "%1 yocto-joule"
+msgstr[1] "%1 yocto-joule"
+msgstr[2] "%1 yocto-joule"
+msgstr[3] "%1 yocto-joule"
+
 #: energy.cpp:53
 msgid "Energy"
 msgstr "Luths"
@@ -3634,26 +5393,98 @@ msgstr[3] "%1 cileacalaraidh"
 
 #: energy.cpp:275
 msgctxt "energy unit symbol"
+msgid "BTU"
+msgstr ""
+
+#: energy.cpp:276
+msgctxt "unit description in lists"
+msgid "British Thermal Unit"
+msgstr ""
+
+#: energy.cpp:277
+msgctxt "unit synonyms for matching user input"
+msgid "Btu;BTU;Btus;BTUs"
+msgstr ""
+
+#: energy.cpp:279
+#, kde-format
+msgctxt "amount in units (real)"
+msgid "%1 BTU"
+msgstr ""
+
+#: energy.cpp:280
+#, kde-format
+msgctxt "amount in units (integer)"
+msgid "%1 BTU"
+msgid_plural "%1 BTU"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: energy.cpp:283
+#, fuzzy
+#| msgid "Energy"
+msgctxt "energy unit symbol"
+msgid "Erg"
+msgstr "Luths"
+
+#: energy.cpp:284
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "rydbergs"
+msgctxt "unit description in lists"
+msgid "ergs"
+msgstr "rydberg"
+
+#: energy.cpp:285
+msgctxt "unit synonyms for matching user input"
+msgid "Erg;erg;Ergs;ergs"
+msgstr ""
+
+#: energy.cpp:287
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 euros"
+msgctxt "amount in units (real)"
+msgid "%1 ergs"
+msgstr "%1 eòro"
+
+#: energy.cpp:288
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 euro"
+#| msgid_plural "%1 euros"
+msgctxt "amount in units (integer)"
+msgid "%1 erg"
+msgid_plural "%1 erg"
+msgstr[0] "%1 eòro"
+msgstr[1] "%1 eòro"
+msgstr[2] "%1 eòrothan"
+msgstr[3] "%1 eòro"
+
+#: energy.cpp:291
+msgctxt "energy unit symbol"
 msgid "nm"
 msgstr "nm"
 
-#: energy.cpp:276
+#: energy.cpp:292
 msgctxt "unit description in lists"
 msgid "photon wavelength in nanometers"
 msgstr "tonn-fhad photon ann an nano-mheatair"
 
-#: energy.cpp:277
+#: energy.cpp:293
 msgctxt "unit synonyms for matching user input"
 msgid "nm;photon wavelength"
 msgstr "nm;photon wavelength;tonn-fhad photon"
 
-#: energy.cpp:279 length.cpp:158
+#: energy.cpp:295 length.cpp:158
 #, kde-format
 msgctxt "amount in units (real)"
 msgid "%1 nanometers"
 msgstr "%1 nano-mheatair"
 
-#: energy.cpp:280 length.cpp:159
+#: energy.cpp:296 length.cpp:159
 #, kde-format
 msgctxt "amount in units (integer)"
 msgid "%1 nanometer"
@@ -9004,6 +10835,310 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
+#: thermal_conductivity.cpp:29
+msgid "Thermal Conductivity"
+msgstr ""
+
+#: thermal_conductivity.cpp:31
+#, fuzzy, kde-format
+#| msgctxt "%1 value, %2 unit symbol (acceleration)"
+#| msgid "%1 %2"
+msgctxt "%1 value, %2 unit symbol (thermal conductivity)"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: thermal_conductivity.cpp:34
+msgctxt "thermal conductivity unit symbol"
+msgid "W/m·K"
+msgstr ""
+
+#: thermal_conductivity.cpp:35
+msgctxt "unit description in lists"
+msgid "watt per meter kelvin"
+msgstr ""
+
+#: thermal_conductivity.cpp:37
+msgctxt "unit synonyms for matching user input"
+msgid "watt per meter kelvin;watt per meter-kelvin;W/mK;W/m.K"
+msgstr ""
+
+#: thermal_conductivity.cpp:39
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 grams per liter"
+msgctxt "amount in units (real)"
+msgid "%1 watts per meter kelvin"
+msgstr "%1 grama san liotair"
+
+#: thermal_conductivity.cpp:40
+#, kde-format
+msgctxt "amount in units (integer)"
+msgid "%1 watt per meter kelvin"
+msgid_plural "%1 watts per meter kelvin"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: thermal_conductivity.cpp:44
+msgctxt "thermal conductivity unit symbol"
+msgid "Btu/ft·hr·°F"
+msgstr ""
+
+#: thermal_conductivity.cpp:45
+msgctxt "unit description in lists"
+msgid "btu per foot hour degree Fahrenheit"
+msgstr ""
+
+#: thermal_conductivity.cpp:47
+msgctxt "unit synonyms for matching user input"
+msgid ""
+"btu per foot hour degree Fahrenheit;btu per foot hour Fahrenheit;btu per "
+"foot-hour-Fahrenheit;Btu/ft-hr-F"
+msgstr ""
+
+#: thermal_conductivity.cpp:49
+#, kde-format
+msgctxt "amount in units (real)"
+msgid "%1 btu per foot hour degree Fahrenheit"
+msgstr ""
+
+#: thermal_conductivity.cpp:50
+#, kde-format
+msgctxt "amount in units (integer)"
+msgid "%1 btu per foot hour degree Fahrenheit"
+msgid_plural "%1 btu per foot hour degree Fahrenheit"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: thermal_conductivity.cpp:54
+msgctxt "thermal conductivity unit symbol"
+msgid "Btu/ft²·hr·°F/in"
+msgstr ""
+
+#: thermal_conductivity.cpp:55
+msgctxt "unit description in lists"
+msgid "btu per square foot hour degree Fahrenheit per inch"
+msgstr ""
+
+#: thermal_conductivity.cpp:57
+msgctxt "unit synonyms for matching user input"
+msgid ""
+"btu per square foot hour degree Fahrenheit per inch;btu per foot squared "
+"hour Fahrenheit per inch;btu per sq foot-hour-Fahrenheit per inch;Btu/ft^2-"
+"hr-F/in"
+msgstr ""
+
+#: thermal_conductivity.cpp:59
+#, kde-format
+msgctxt "amount in units (real)"
+msgid "%1 btu per square foot hour degree Fahrenheit per inch"
+msgstr ""
+
+#: thermal_conductivity.cpp:60
+#, kde-format
+msgctxt "amount in units (integer)"
+msgid "%1 btu per square foot hour degree Fahrenheit per inch"
+msgid_plural "%1 btu per square foot hour degree Fahrenheit per inch"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: thermal_flux.cpp:30
+msgid "Thermal Flux Density"
+msgstr ""
+
+#: thermal_flux.cpp:32
+#, fuzzy, kde-format
+#| msgctxt "%1 value, %2 unit symbol (acceleration)"
+#| msgid "%1 %2"
+msgctxt "%1 value, %2 unit symbol (thermal flux density)"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: thermal_flux.cpp:35
+msgctxt "thermal flux unit symbol"
+msgid "W/m²"
+msgstr ""
+
+#: thermal_flux.cpp:36
+#, fuzzy
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 square meter"
+#| msgid_plural "%1 square meters"
+msgctxt "unit description in lists"
+msgid "watt per square meter"
+msgstr "%1 mheatair ceàrnagach"
+
+#: thermal_flux.cpp:38
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "square meter;square meters;m²;m/-2;m^2;m2"
+msgctxt "unit synonyms for matching user input"
+msgid "watt per square meter;W/m2;W/m^2"
+msgstr "square meter;square meters;meatair ceàrnagach;m²;m/-2;m^2;m2"
+
+#: thermal_flux.cpp:40
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 square meter"
+#| msgid_plural "%1 square meters"
+msgctxt "amount in units (real)"
+msgid "%1 watts per square meter"
+msgstr "%1 mheatair ceàrnagach"
+
+#: thermal_flux.cpp:41
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 square meter"
+#| msgid_plural "%1 square meters"
+msgctxt "amount in units (integer)"
+msgid "%1 watt per square meter"
+msgid_plural "%1 watts per square meter"
+msgstr[0] "%1 mheatair ceàrnagach"
+msgstr[1] "%1 mheatair ceàrnagach"
+msgstr[2] "%1 meatairean ceàrnagach"
+msgstr[3] "%1 meatair ceàrnagach"
+
+#: thermal_flux.cpp:45
+msgctxt "thermal flux unit symbol"
+msgid "Btu/hr/ft²"
+msgstr ""
+
+#: thermal_flux.cpp:46
+msgctxt "unit description in lists"
+msgid "btu per hour per square foot"
+msgstr ""
+
+#: thermal_flux.cpp:48
+msgctxt "unit synonyms for matching user input"
+msgid ""
+"btu per hour per square foot;Btu/hr/ft2;Btu/hr/ft^2;Btu/ft^2/hr;Btu/ft2/hr"
+msgstr ""
+
+#: thermal_flux.cpp:50
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 pound per cubic foot"
+#| msgid_plural "%1 pounds per cubic foot"
+msgctxt "amount in units (real)"
+msgid "%1 btu per hour per square foot"
+msgstr "%1 phunnd san troigh chiùbach"
+
+#: thermal_flux.cpp:51
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 pound per cubic foot"
+#| msgid_plural "%1 pounds per cubic foot"
+msgctxt "amount in units (integer)"
+msgid "%1 btu per hour per square foot"
+msgid_plural "%1 btu per hour per square foot"
+msgstr[0] "%1 phunnd san troigh chiùbach"
+msgstr[1] "%1 phunnd san troigh chiùbach"
+msgstr[2] "%1 puinnd san troigh chiùbach"
+msgstr[3] "%1 punnd san troigh chiùbach"
+
+#: thermal_generation.cpp:29
+#, fuzzy
+#| msgid "Acceleration"
+msgid "Thermal Generation"
+msgstr "Luathachadh"
+
+#: thermal_generation.cpp:31
+#, fuzzy, kde-format
+#| msgctxt "%1 value, %2 unit symbol (acceleration)"
+#| msgid "%1 %2"
+msgctxt "%1 value, %2 unit symbol (thermal generation)"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: thermal_generation.cpp:34
+msgctxt "thermal generation unit symbol"
+msgid "W/m³"
+msgstr ""
+
+#: thermal_generation.cpp:35
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "kilograms per cubic meter"
+msgctxt "unit description in lists"
+msgid "watt per cubic meter"
+msgstr "cileagram sa mheatair ciùbach"
+
+#: thermal_generation.cpp:37
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "kilograms per cubic meter"
+msgctxt "unit synonyms for matching user input"
+msgid "watt per cubic meter;W/m3;W/m^3"
+msgstr "cileagram sa mheatair ciùbach"
+
+#: thermal_generation.cpp:39
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 kilograms per cubic meter"
+msgctxt "amount in units (real)"
+msgid "%1 watts per cubic meter"
+msgstr "%1 cileagram sa mheatair ciùbach"
+
+#: thermal_generation.cpp:40
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 kilogram per cubic meter"
+#| msgid_plural "%1 kilograms per cubic meter"
+msgctxt "amount in units (integer)"
+msgid "%1 watt per cubic meter"
+msgid_plural "%1 watts per cubic meter"
+msgstr[0] "%1 chileagram sa mheatair ciùbach"
+msgstr[1] "%1 chileagram sa mheatair ciùbach"
+msgstr[2] "%1 cileagramaichean sa mheatair ciùbach"
+msgstr[3] "%1 cileagram sa mheatair ciùbach"
+
+#: thermal_generation.cpp:44
+msgctxt "thermal generation unit symbol"
+msgid "Btu/hr/ft³"
+msgstr ""
+
+#: thermal_generation.cpp:45
+#, fuzzy
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 pound per cubic foot"
+#| msgid_plural "%1 pounds per cubic foot"
+msgctxt "unit description in lists"
+msgid "btu per hour per cubic foot"
+msgstr "%1 phunnd san troigh chiùbach"
+
+#: thermal_generation.cpp:47
+msgctxt "unit synonyms for matching user input"
+msgid ""
+"btu per hour per cubic foot;Btu/hr/ft3;Btu/hr/ft^3;Btu/ft^3/hr;Btu/ft3/hr"
+msgstr ""
+
+#: thermal_generation.cpp:49
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 pound per cubic foot"
+#| msgid_plural "%1 pounds per cubic foot"
+msgctxt "amount in units (real)"
+msgid "%1 btu per hour per cubic foot"
+msgstr "%1 phunnd san troigh chiùbach"
+
+#: thermal_generation.cpp:50
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 pound per cubic foot"
+#| msgid_plural "%1 pounds per cubic foot"
+msgctxt "amount in units (integer)"
+msgid "%1 btu per hour per cubic foot"
+msgid_plural "%1 btu per hour per cubic foot"
+msgstr[0] "%1 phunnd san troigh chiùbach"
+msgstr[1] "%1 phunnd san troigh chiùbach"
+msgstr[2] "%1 puinnd san troigh chiùbach"
+msgstr[3] "%1 punnd san troigh chiùbach"
+
 #: timeunit.cpp:29
 msgid "Time"
 msgstr ""
@@ -10170,6 +12305,936 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
+
+#: voltage.cpp:30
+msgid "Voltage"
+msgstr ""
+
+#: voltage.cpp:32
+#, fuzzy, kde-format
+#| msgctxt "%1 value, %2 unit symbol (acceleration)"
+#| msgid "%1 %2"
+msgctxt "%1 value, %2 unit symbol (voltage"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: voltage.cpp:35
+msgctxt "voltage unit symbol"
+msgid "YV"
+msgstr ""
+
+#: voltage.cpp:36
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "yottajoules"
+msgctxt "unit description in lists"
+msgid "yottavolts"
+msgstr "yota-joule"
+
+#: voltage.cpp:37
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "yottajoule;yottajoules;YJ"
+msgctxt "unit synonyms for matching user input"
+msgid "yottavolt;yottavolts;YV"
+msgstr "yottajoule;yottajoules;yota-joule;YJ"
+
+#: voltage.cpp:39
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 yottajoules"
+msgctxt "amount in units (real)"
+msgid "%1 yottavolts"
+msgstr "%1 yota-joule"
+
+#: voltage.cpp:40
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 yottajoule"
+#| msgid_plural "%1 yottajoules"
+msgctxt "amount in units (integer)"
+msgid "%1 yottavolt"
+msgid_plural "%1 yottavolts"
+msgstr[0] "%1 yota-joule"
+msgstr[1] "%1 yota-joule"
+msgstr[2] "%1 yota-joule"
+msgstr[3] "%1 yota-joule"
+
+#: voltage.cpp:43
+msgctxt "voltage unit symbol"
+msgid "ZV"
+msgstr ""
+
+#: voltage.cpp:44
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "zettajoules"
+msgctxt "unit description in lists"
+msgid "zettavolts"
+msgstr "zeta-joules"
+
+#: voltage.cpp:45
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "zettajoule;zettajoules;ZJ"
+msgctxt "unit synonyms for matching user input"
+msgid "zettavolt;zettavolts;ZV"
+msgstr "zettajoule;zettajoules;zeta-joule;ZJ"
+
+#: voltage.cpp:47
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 zettajoules"
+msgctxt "amount in units (real)"
+msgid "%1 zettavolts"
+msgstr "%1 zeta-joule"
+
+#: voltage.cpp:48
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 zettajoule"
+#| msgid_plural "%1 zettajoules"
+msgctxt "amount in units (integer)"
+msgid "%1 zettavolt"
+msgid_plural "%1 zettavolts"
+msgstr[0] "%1 zeta-joule"
+msgstr[1] "%1 zeta-joule"
+msgstr[2] "%1 zeta-joule"
+msgstr[3] "%1 zeta-joule"
+
+#: voltage.cpp:51
+msgctxt "voltage unit symbol"
+msgid "EV"
+msgstr ""
+
+#: voltage.cpp:52
+msgctxt "unit description in lists"
+msgid "exavolts"
+msgstr ""
+
+#: voltage.cpp:53
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "exajoule;exajoules;EJ"
+msgctxt "unit synonyms for matching user input"
+msgid "exavolt;exavolts;EV"
+msgstr "exajoule;exajoules;exa-joule;EJ"
+
+#: voltage.cpp:55
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 exajoules"
+msgctxt "amount in units (real)"
+msgid "%1 exavolts"
+msgstr "%1 exa-joule"
+
+#: voltage.cpp:56
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 exajoule"
+#| msgid_plural "%1 exajoules"
+msgctxt "amount in units (integer)"
+msgid "%1 exavolt"
+msgid_plural "%1 exavolts"
+msgstr[0] "%1 exa-joule"
+msgstr[1] "%1 exa-joule"
+msgstr[2] "%1 exa-joule"
+msgstr[3] "%1 exa-joule"
+
+#: voltage.cpp:59
+msgctxt "voltage unit symbol"
+msgid "PV"
+msgstr ""
+
+#: voltage.cpp:60
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "petajoules"
+msgctxt "unit description in lists"
+msgid "petavolts"
+msgstr "peta-joule"
+
+#: voltage.cpp:61
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "petajoule;petajoules;PJ"
+msgctxt "unit synonyms for matching user input"
+msgid "petavolt;petavolts;PV"
+msgstr "petajoule;petajoules;peta-joule;PJ"
+
+#: voltage.cpp:63
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 petajoules"
+msgctxt "amount in units (real)"
+msgid "%1 petavolts"
+msgstr "%1 peta-joule"
+
+#: voltage.cpp:64
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 petajoule"
+#| msgid_plural "%1 petajoules"
+msgctxt "amount in units (integer)"
+msgid "%1 petavolt"
+msgid_plural "%1 petavolts"
+msgstr[0] "%1 peta-joule"
+msgstr[1] "%1 peta-joule"
+msgstr[2] "%1 peta-joule"
+msgstr[3] "%1 peta-joule"
+
+#: voltage.cpp:67
+msgctxt "voltage unit symbol"
+msgid "TV"
+msgstr ""
+
+#: voltage.cpp:68
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "terajoules"
+msgctxt "unit description in lists"
+msgid "teravolts"
+msgstr "tera-joule"
+
+#: voltage.cpp:69
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "terajoule;terajoules;TJ"
+msgctxt "unit synonyms for matching user input"
+msgid "teravolt;teravolts;TV"
+msgstr "terajoule;terajoules;tera-joule;TJ"
+
+#: voltage.cpp:71
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 terajoules"
+msgctxt "amount in units (real)"
+msgid "%1 teravolts"
+msgstr "%1 tera-joule"
+
+#: voltage.cpp:72
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 terajoule"
+#| msgid_plural "%1 terajoules"
+msgctxt "amount in units (integer)"
+msgid "%1 teravolt"
+msgid_plural "%1 teravolts"
+msgstr[0] "%1 tera-joule"
+msgstr[1] "%1 tera-joule"
+msgstr[2] "%1 tera-joule"
+msgstr[3] "%1 tera-joule"
+
+#: voltage.cpp:75
+msgctxt "voltage unit symbol"
+msgid "GV"
+msgstr ""
+
+#: voltage.cpp:76
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "gigajoules"
+msgctxt "unit description in lists"
+msgid "gigavolts"
+msgstr "giga-joule"
+
+#: voltage.cpp:77
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "gigajoule;gigajoules;GJ"
+msgctxt "unit synonyms for matching user input"
+msgid "gigavolt;gigavolts;GV"
+msgstr "gigajoule;gigajoules;giga-joule;GJ"
+
+#: voltage.cpp:79
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 gigajoules"
+msgctxt "amount in units (real)"
+msgid "%1 gigavolts"
+msgstr "%1 giga-joule"
+
+#: voltage.cpp:80
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 gigajoule"
+#| msgid_plural "%1 gigajoules"
+msgctxt "amount in units (integer)"
+msgid "%1 gigavolt"
+msgid_plural "%1 gigavolts"
+msgstr[0] "%1 giga-joule"
+msgstr[1] "%1 giga-joule"
+msgstr[2] "%1 giga-joule"
+msgstr[3] "%1 giga-joule"
+
+#: voltage.cpp:83
+msgctxt "voltage unit symbol"
+msgid "MV"
+msgstr ""
+
+#: voltage.cpp:84
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "megajoules"
+msgctxt "unit description in lists"
+msgid "megavolts"
+msgstr "meaga-joule"
+
+#: voltage.cpp:85
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "megajoule;megajoules;MJ"
+msgctxt "unit synonyms for matching user input"
+msgid "megavolt;megavolts;MV"
+msgstr "megajoule;megajoules;meaga-joule;MJ"
+
+#: voltage.cpp:87
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 megajoules"
+msgctxt "amount in units (real)"
+msgid "%1 megavolts"
+msgstr "%1 meaga-joule"
+
+#: voltage.cpp:88
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 megajoule"
+#| msgid_plural "%1 megajoules"
+msgctxt "amount in units (integer)"
+msgid "%1 megavolt"
+msgid_plural "%1 megavolts"
+msgstr[0] "%1 mheaga-joule"
+msgstr[1] "%1 mheaga-joule"
+msgstr[2] "%1 meaga-joule"
+msgstr[3] "%1 meaga-joule"
+
+#: voltage.cpp:91
+msgctxt "voltage unit symbol"
+msgid "kV"
+msgstr ""
+
+#: voltage.cpp:92
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "kilojoules"
+msgctxt "unit description in lists"
+msgid "kilovolts"
+msgstr "cilea-joule"
+
+#: voltage.cpp:93
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "kilojoule;kilojoules;kJ"
+msgctxt "unit synonyms for matching user input"
+msgid "kilovolt;kilovolts;kV"
+msgstr "kilojoule;kilojoules;cilea-joule;kJ"
+
+#: voltage.cpp:95
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 kilojoules"
+msgctxt "amount in units (real)"
+msgid "%1 kilovolts"
+msgstr "%1 cilea-joule"
+
+#: voltage.cpp:96
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 kilojoule"
+#| msgid_plural "%1 kilojoules"
+msgctxt "amount in units (integer)"
+msgid "%1 kilovolt"
+msgid_plural "%1 kilovolts"
+msgstr[0] "%1 chilea-joule"
+msgstr[1] "%1 chilea-joule"
+msgstr[2] "%1 cilea-joule"
+msgstr[3] "%1 cilea-joule"
+
+#: voltage.cpp:99
+msgctxt "voltage unit symbol"
+msgid "hV"
+msgstr ""
+
+#: voltage.cpp:100
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "electronvolts"
+msgctxt "unit description in lists"
+msgid "hectovolts"
+msgstr "volt-eleactroin"
+
+#: voltage.cpp:101
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "electronvolt;electronvolts;eV"
+msgctxt "unit synonyms for matching user input"
+msgid "hectovolt;hectovolts;hV"
+msgstr "electronvolt;electronvolts;volt-eleactroin;eV"
+
+#: voltage.cpp:103
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 electronvolts"
+msgctxt "amount in units (real)"
+msgid "%1 hectovolts"
+msgstr "%1 volt-eleactroin"
+
+#: voltage.cpp:104
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 electronvolt"
+#| msgid_plural "%1 electronvolts"
+msgctxt "amount in units (integer)"
+msgid "%1 hectovolt"
+msgid_plural "%1 hectovolts"
+msgstr[0] "%1 volt-eleactroin"
+msgstr[1] "%1 volt-eleactroin"
+msgstr[2] "%1 volt-eleactroin"
+msgstr[3] "%1 volt-eleactroin"
+
+#: voltage.cpp:107
+#, fuzzy
+#| msgctxt "energy unit symbol"
+#| msgid "daJ"
+msgctxt "voltage unit symbol"
+msgid "daV"
+msgstr "daJ"
+
+#: voltage.cpp:108
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "decajoules"
+msgctxt "unit description in lists"
+msgid "decavolts"
+msgstr "deaca-joule"
+
+#: voltage.cpp:109
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "decajoule;decajoules;daJ"
+msgctxt "unit synonyms for matching user input"
+msgid "decavolt;decavolts;daV"
+msgstr "decajoule;decajoules;deaca-joule;daJ"
+
+#: voltage.cpp:111
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 decajoules"
+msgctxt "amount in units (real)"
+msgid "%1 decavolts"
+msgstr "%1 deaca-joule"
+
+#: voltage.cpp:112
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 decajoule"
+#| msgid_plural "%1 decajoules"
+msgctxt "amount in units (integer)"
+msgid "%1 decavolt"
+msgid_plural "%1 decavolts"
+msgstr[0] "%1 deaca-joule"
+msgstr[1] "%1 dheaca-joule"
+msgstr[2] "%1 deaca-joule"
+msgstr[3] "%1 deaca-joule"
+
+#: voltage.cpp:115
+#, fuzzy
+#| msgctxt "energy unit symbol"
+#| msgid "eV"
+msgctxt "voltage unit symbol"
+msgid "V"
+msgstr "eV"
+
+#: voltage.cpp:116
+msgctxt "unit description in lists"
+msgid "volts"
+msgstr ""
+
+#: voltage.cpp:117
+msgctxt "unit synonyms for matching user input"
+msgid "volt;volts;V"
+msgstr ""
+
+#: voltage.cpp:119
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 electronvolts"
+msgctxt "amount in units (real)"
+msgid "%1 volts"
+msgstr "%1 volt-eleactroin"
+
+#: voltage.cpp:120
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 electronvolt"
+#| msgid_plural "%1 electronvolts"
+msgctxt "amount in units (integer)"
+msgid "%1 volt"
+msgid_plural "%1 volts"
+msgstr[0] "%1 volt-eleactroin"
+msgstr[1] "%1 volt-eleactroin"
+msgstr[2] "%1 volt-eleactroin"
+msgstr[3] "%1 volt-eleactroin"
+
+#: voltage.cpp:123
+msgctxt "voltage unit symbol"
+msgid "dV"
+msgstr ""
+
+#: voltage.cpp:124
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "decijoules"
+msgctxt "unit description in lists"
+msgid "decivolts"
+msgstr "deicheamh-joule"
+
+#: voltage.cpp:125
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "decijoule;decijoules;dJ"
+msgctxt "unit synonyms for matching user input"
+msgid "decivolt;decivolts;dV"
+msgstr "decijoule;decijoules;deicheamh-joule;dJ"
+
+#: voltage.cpp:127
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 decijoules"
+msgctxt "amount in units (real)"
+msgid "%1 decivolts"
+msgstr "%1 deicheamh-joule"
+
+#: voltage.cpp:128
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 decijoule"
+#| msgid_plural "%1 decijoules"
+msgctxt "amount in units (integer)"
+msgid "%1 decivolt"
+msgid_plural "%1 decivolts"
+msgstr[0] "%1 deicheamh-joule"
+msgstr[1] "%1 dheicheamh-joule"
+msgstr[2] "%1 deicheamh-joule"
+msgstr[3] "%1 deicheamh-joule"
+
+#: voltage.cpp:131
+msgctxt "voltage unit symbol"
+msgid "cV"
+msgstr ""
+
+#: voltage.cpp:132
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "centijoules"
+msgctxt "unit description in lists"
+msgid "centivolts"
+msgstr "ceuda-joule"
+
+#: voltage.cpp:133
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "centijoule;centijoules;cJ"
+msgctxt "unit synonyms for matching user input"
+msgid "centivolt;centivolts;cV"
+msgstr "centijoule;centijoules;ceuda-joule;cJ"
+
+#: voltage.cpp:135
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 centijoules"
+msgctxt "amount in units (real)"
+msgid "%1 centivolts"
+msgstr "%1 ceuda-joule"
+
+#: voltage.cpp:136
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 centijoule"
+#| msgid_plural "%1 centijoules"
+msgctxt "amount in units (integer)"
+msgid "%1 centivolt"
+msgid_plural "%1 centivolts"
+msgstr[0] "%1 cheuda-joule"
+msgstr[1] "%1 cheuda-joule"
+msgstr[2] "%1 ceuda-joule"
+msgstr[3] "%1 ceuda-joule"
+
+#: voltage.cpp:139
+msgctxt "voltage unit symbol"
+msgid "mV"
+msgstr ""
+
+#: voltage.cpp:140
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "millijoules"
+msgctxt "unit description in lists"
+msgid "millivolts"
+msgstr "mille-joule"
+
+#: voltage.cpp:141
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "millijoule;millijoules;mJ"
+msgctxt "unit synonyms for matching user input"
+msgid "millivolt;millivolts;mV"
+msgstr "millijoule;millijoules;mille-joule;mJ"
+
+#: voltage.cpp:143
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 millijoules"
+msgctxt "amount in units (real)"
+msgid "%1 millivolts"
+msgstr "%1 mille-joule"
+
+#: voltage.cpp:144
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 millijoule"
+#| msgid_plural "%1 millijoules"
+msgctxt "amount in units (integer)"
+msgid "%1 millivolt"
+msgid_plural "%1 millivolts"
+msgstr[0] "%1 mhille-joule"
+msgstr[1] "%1 mhille-joule"
+msgstr[2] "%1 mille-joule"
+msgstr[3] "%1 mille-joule"
+
+#: voltage.cpp:147
+#, fuzzy
+#| msgctxt "energy unit symbol"
+#| msgid "µJ"
+msgctxt "voltage unit symbol"
+msgid "µV"
+msgstr "µJ"
+
+#: voltage.cpp:148
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "microjoules"
+msgctxt "unit description in lists"
+msgid "microvolts"
+msgstr "micreo-joule"
+
+#: voltage.cpp:149
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "microjoule;microjoules;µJ;uJ"
+msgctxt "unit synonyms for matching user input"
+msgid "microvolt;microvolts;µV;uV"
+msgstr "microjoule;microjoules;micreo-joule;µJ;uJ"
+
+#: voltage.cpp:151
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 microjoules"
+msgctxt "amount in units (real)"
+msgid "%1 microvolts"
+msgstr "%1 micreo-joule"
+
+#: voltage.cpp:152
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 microjoule"
+#| msgid_plural "%1 microjoules"
+msgctxt "amount in units (integer)"
+msgid "%1 microvolt"
+msgid_plural "%1 microvolts"
+msgstr[0] "%1 mhicreo-joule"
+msgstr[1] "%1 mhicreo-joule"
+msgstr[2] "%1 mhicreo-joule"
+msgstr[3] "%1 mhicreo-joule"
+
+#: voltage.cpp:155
+msgctxt "voltage unit symbol"
+msgid "nV"
+msgstr ""
+
+#: voltage.cpp:156
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "nanojoules"
+msgctxt "unit description in lists"
+msgid "nanovolts"
+msgstr "nano-joule"
+
+#: voltage.cpp:157
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "nanojoule;nanojoules;nJ"
+msgctxt "unit synonyms for matching user input"
+msgid "nanovolt;nanovolts;nV"
+msgstr "nanojoule;nanojoules;nano-joule;nJ"
+
+#: voltage.cpp:159
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 nanojoules"
+msgctxt "amount in units (real)"
+msgid "%1 nanovolts"
+msgstr "%1 nano-joule"
+
+#: voltage.cpp:160
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 nanojoule"
+#| msgid_plural "%1 nanojoules"
+msgctxt "amount in units (integer)"
+msgid "%1 nanovolt"
+msgid_plural "%1 nanovolts"
+msgstr[0] "%1 nano-joule"
+msgstr[1] "%1 nano-joule"
+msgstr[2] "%1 nano-joule"
+msgstr[3] "%1 nano-joule"
+
+#: voltage.cpp:163
+msgctxt "voltage unit symbol"
+msgid "pV"
+msgstr ""
+
+#: voltage.cpp:164
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "picojoules"
+msgctxt "unit description in lists"
+msgid "picovolts"
+msgstr "pico-joule"
+
+#: voltage.cpp:165
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "picojoule;picojoules;pJ"
+msgctxt "unit synonyms for matching user input"
+msgid "picovolt;picovolts;pV"
+msgstr "picojoule;picojoules;pico-joule;pJ"
+
+#: voltage.cpp:167
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 picojoules"
+msgctxt "amount in units (real)"
+msgid "%1 picovolts"
+msgstr "%1 pico-joule"
+
+#: voltage.cpp:168
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 picojoule"
+#| msgid_plural "%1 picojoules"
+msgctxt "amount in units (integer)"
+msgid "%1 picovolt"
+msgid_plural "%1 picovolts"
+msgstr[0] "%1 phico-joule"
+msgstr[1] "%1 phico-joule"
+msgstr[2] "%1 pico-joule"
+msgstr[3] "%1 pico-joule"
+
+#: voltage.cpp:171
+msgctxt "voltage unit symbol"
+msgid "fV"
+msgstr ""
+
+#: voltage.cpp:172
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "femtojoules"
+msgctxt "unit description in lists"
+msgid "femtovolts"
+msgstr "femto-joule"
+
+#: voltage.cpp:173
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "femtojoule;femtojoules;fJ"
+msgctxt "unit synonyms for matching user input"
+msgid "femtovolt;femtovolts;fV"
+msgstr "femtojoule;femtojoules;femto-joule;fJ"
+
+#: voltage.cpp:175
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 femtojoules"
+msgctxt "amount in units (real)"
+msgid "%1 femtovolts"
+msgstr "%1 femto-joule"
+
+#: voltage.cpp:176
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 femtojoule"
+#| msgid_plural "%1 femtojoules"
+msgctxt "amount in units (integer)"
+msgid "%1 femtovolt"
+msgid_plural "%1 femtovolts"
+msgstr[0] "%1 fhemto-joule"
+msgstr[1] "%1 fhemto-joule"
+msgstr[2] "%1 femto-joule"
+msgstr[3] "%1 femto-joule"
+
+#: voltage.cpp:179
+msgctxt "voltage unit symbol"
+msgid "aV"
+msgstr ""
+
+#: voltage.cpp:180
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "attojoules"
+msgctxt "unit description in lists"
+msgid "attovolts"
+msgstr "ato-joule"
+
+#: voltage.cpp:181
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "attojoule;attojoules;aJ"
+msgctxt "unit synonyms for matching user input"
+msgid "attovolt;attovolts;aV"
+msgstr "attojoule;attojoules;ato-joule;aJ"
+
+#: voltage.cpp:183
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 attojoules"
+msgctxt "amount in units (real)"
+msgid "%1 attovolts"
+msgstr "%1 ato-joule"
+
+#: voltage.cpp:184
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 attojoule"
+#| msgid_plural "%1 attojoules"
+msgctxt "amount in units (integer)"
+msgid "%1 attovolt"
+msgid_plural "%1 attovolts"
+msgstr[0] "%1 ato-joule"
+msgstr[1] "%1 ato-joule"
+msgstr[2] "%1 ato-joule"
+msgstr[3] "%1 ato-joule"
+
+#: voltage.cpp:187
+msgctxt "voltage unit symbol"
+msgid "zV"
+msgstr ""
+
+#: voltage.cpp:188
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "zeptojoules"
+msgctxt "unit description in lists"
+msgid "zeptovolts"
+msgstr "zepto-joule"
+
+#: voltage.cpp:189
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "zeptojoule;zeptojoules;zJ"
+msgctxt "unit synonyms for matching user input"
+msgid "zeptovolt;zeptovolts;zV"
+msgstr "zeptojoule;zeptojoules;zepto-joule;zJ"
+
+#: voltage.cpp:191
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 zeptojoules"
+msgctxt "amount in units (real)"
+msgid "%1 zeptovolts"
+msgstr "%1 zepto-joule"
+
+#: voltage.cpp:192
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 zeptojoule"
+#| msgid_plural "%1 zeptojoules"
+msgctxt "amount in units (integer)"
+msgid "%1 zeptovolt"
+msgid_plural "%1 zeptovolts"
+msgstr[0] "%1 zepto-joule"
+msgstr[1] "%1 zepto-joule"
+msgstr[2] "%1 zepto-joule"
+msgstr[3] "%1 zepto-joule"
+
+#: voltage.cpp:195
+msgctxt "voltage unit symbol"
+msgid "yV"
+msgstr ""
+
+#: voltage.cpp:196
+#, fuzzy
+#| msgctxt "unit description in lists"
+#| msgid "yoctojoules"
+msgctxt "unit description in lists"
+msgid "yoctovolts"
+msgstr "yocto-joule"
+
+#: voltage.cpp:197
+#, fuzzy
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "yoctojoule;yoctojoules;yJ"
+msgctxt "unit synonyms for matching user input"
+msgid "yoctovolt;yoctovolts;yV"
+msgstr "yoctojoule;yoctojoules;yocto-joule;yJ"
+
+#: voltage.cpp:199
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 yoctojoules"
+msgctxt "amount in units (real)"
+msgid "%1 yoctovolts"
+msgstr "%1 yocto-joule"
+
+#: voltage.cpp:200
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 yoctojoule"
+#| msgid_plural "%1 yoctojoules"
+msgctxt "amount in units (integer)"
+msgid "%1 yoctovolt"
+msgid_plural "%1 yoctovolts"
+msgstr[0] "%1 yocto-joule"
+msgstr[1] "%1 yocto-joule"
+msgstr[2] "%1 yocto-joule"
+msgstr[3] "%1 yocto-joule"
+
+#: voltage.cpp:203
+msgctxt "voltage unit symbol"
+msgid "stV"
+msgstr ""
+
+#: voltage.cpp:204
+msgctxt "unit description in lists"
+msgid "statvolts"
+msgstr ""
+
+#: voltage.cpp:205
+msgctxt "unit synonyms for matching user input"
+msgid "statvolt;statvolts;stV"
+msgstr ""
+
+#: voltage.cpp:207
+#, fuzzy, kde-format
+#| msgctxt "amount in units (real)"
+#| msgid "%1 electronvolts"
+msgctxt "amount in units (real)"
+msgid "%1 statvolts"
+msgstr "%1 volt-eleactroin"
+
+#: voltage.cpp:208
+#, fuzzy, kde-format
+#| msgctxt "amount in units (integer)"
+#| msgid "%1 attonewton"
+#| msgid_plural "%1 attonewtons"
+msgctxt "amount in units (integer)"
+msgid "%1 statvolt"
+msgid_plural "%1 statvolts"
+msgstr[0] "%1 ato-newton"
+msgstr[1] "%1 ato-newton"
+msgstr[2] "%1 ato-newton"
+msgstr[3] "%1 ato-newton"
 
 #: volume.cpp:29
 msgid "Volume"
