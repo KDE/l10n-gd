@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-09-24 07:53+0000\n"
+"POT-Creation-Date: 2016-10-07 07:38+0000\n"
 "PO-Revision-Date: 2016-04-30 16:09+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -16,20 +16,22 @@ msgstr ""
 "X-Generator: Virtaal 0.7.1\n"
 "X-Project-Style: kde\n"
 
-#: icons-dark/index.theme:2 icons/index.theme:2
+#: icons-dark/index.theme:2
+msgctxt "Name"
+msgid "Breeze Dark"
+msgstr "Oiteag dhorcha"
+
+#: icons-dark/index.theme:36
+msgctxt "Comment"
+msgid "Default Plasma 5 Theme for Dark themes"
+msgstr "Ùrlar Plasma 5 bunaiteach airson ùrlaran dorcha"
+
+#: icons/index.theme:2
 msgctxt "Name"
 msgid "Breeze"
 msgstr "Oiteag"
 
-#: icons-dark/index.theme:38 icons/index.theme:38
+#: icons/index.theme:38
 msgctxt "Comment"
 msgid "Default Plasma 5 Theme"
 msgstr "Ùrlar Plasma 5 bunaiteach"
-
-#~ msgctxt "Name"
-#~ msgid "Breeze Dark"
-#~ msgstr "Oiteag dhorcha"
-
-#~ msgctxt "Comment"
-#~ msgid "Default Plasma 5 Theme for Dark themes"
-#~ msgstr "Ùrlar Plasma 5 bunaiteach airson ùrlaran dorcha"
