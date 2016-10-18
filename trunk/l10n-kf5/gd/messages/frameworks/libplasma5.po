@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-10-14 07:11+0000\n"
+"POT-Creation-Date: 2016-10-18 07:36+0000\n"
 "PO-Revision-Date: 2016-04-30 12:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -315,95 +315,95 @@ msgstr "Faidhle rèiteachaidh XML"
 msgid "Custom expander for compact applets"
 msgstr "Meudaichear gnàthaichte dha dh'aplaidean teannta"
 
-#: plasma/pluginloader.cpp:92
+#: plasma/pluginloader.cpp:90
 msgid "Accessibility"
 msgstr "So-ruigsinneachd"
 
-#: plasma/pluginloader.cpp:93
+#: plasma/pluginloader.cpp:91
 msgid "Application Launchers"
 msgstr "Lòinsearan aplacaidean"
 
-#: plasma/pluginloader.cpp:94
+#: plasma/pluginloader.cpp:92
 msgid "Astronomy"
 msgstr "Reul-eòlas"
 
-#: plasma/pluginloader.cpp:95
+#: plasma/pluginloader.cpp:93
 msgid "Date and Time"
 msgstr "Ceann-là 's àm"
 
-#: plasma/pluginloader.cpp:96
+#: plasma/pluginloader.cpp:94
 msgid "Development Tools"
 msgstr "Innealan leasachaidh"
 
-#: plasma/pluginloader.cpp:97
+#: plasma/pluginloader.cpp:95
 msgid "Education"
 msgstr "Foghlam"
 
-#: plasma/pluginloader.cpp:98
+#: plasma/pluginloader.cpp:96
 msgid "Environment and Weather"
 msgstr "An t-àrainneachd 's an aimsir"
 
-#: plasma/pluginloader.cpp:99
+#: plasma/pluginloader.cpp:97
 msgid "Examples"
 msgstr "Buill-eisimpleir"
 
-#: plasma/pluginloader.cpp:100
+#: plasma/pluginloader.cpp:98
 msgid "File System"
 msgstr "Siostam fhaidhlichean"
 
-#: plasma/pluginloader.cpp:101
+#: plasma/pluginloader.cpp:99
 msgid "Fun and Games"
 msgstr "Tlachd is geamannan"
 
-#: plasma/pluginloader.cpp:102
+#: plasma/pluginloader.cpp:100
 msgid "Graphics"
 msgstr "Grafaigeachd"
 
-#: plasma/pluginloader.cpp:103
+#: plasma/pluginloader.cpp:101
 msgid "Language"
 msgstr "Cànan"
 
-#: plasma/pluginloader.cpp:104
+#: plasma/pluginloader.cpp:102
 msgid "Mapping"
 msgstr "Mapachadh"
 
-#: plasma/pluginloader.cpp:105
+#: plasma/pluginloader.cpp:103
 msgid "Miscellaneous"
 msgstr "Eile"
 
-#: plasma/pluginloader.cpp:106
+#: plasma/pluginloader.cpp:104
 msgid "Multimedia"
 msgstr "Ioma-mheadhanan"
 
-#: plasma/pluginloader.cpp:107
+#: plasma/pluginloader.cpp:105
 msgid "Online Services"
 msgstr "Seirbheisean air loidhne"
 
-#: plasma/pluginloader.cpp:108
+#: plasma/pluginloader.cpp:106
 msgid "Productivity"
 msgstr "Dèanadas"
 
-#: plasma/pluginloader.cpp:109
+#: plasma/pluginloader.cpp:107
 msgid "System Information"
 msgstr "Fiosrachadh an t-siostaim"
 
-#: plasma/pluginloader.cpp:110
+#: plasma/pluginloader.cpp:108
 msgid "Utilities"
 msgstr "Goireasan"
 
-#: plasma/pluginloader.cpp:111
+#: plasma/pluginloader.cpp:109
 msgid "Windows and Tasks"
 msgstr "Uinneagan is saothraichean"
 
-#: plasma/pluginloader.cpp:112
+#: plasma/pluginloader.cpp:110
 msgid "Clipboard"
 msgstr "Stòr-bhòrd"
 
-#: plasma/pluginloader.cpp:113
+#: plasma/pluginloader.cpp:111
 msgid "Tasks"
 msgstr "Saothraichean"
 
-#: plasma/pluginloader.cpp:612 plasma/pluginloader.cpp:613
+#: plasma/pluginloader.cpp:610 plasma/pluginloader.cpp:611
 msgctxt "misc category"
 msgid "Miscellaneous"
 msgstr "Eile"
@@ -604,142 +604,142 @@ msgstr ""
 "Slighe absaloideach gu freumh na pacaid. Mura deach a sholar, thèid lorg sna "
 "pasganan dàta stannardach airson an t-seisein KDE seo 'na àite."
 
-#: plasmapkg/plasmapkg.cpp:100
+#: plasmapkg/plasmapkg.cpp:101
 #, kde-format
 msgid "Failed to generate a Package hash for %1"
 msgstr "Cha deach leinn hais a ghintinn airson na pacaid %1"
 
-#: plasmapkg/plasmapkg.cpp:103
+#: plasmapkg/plasmapkg.cpp:104
 #, kde-format
 msgid "SHA1 hash for Package at %1: '%2'"
 msgstr "Hais SHA1 airson na pacaid aig %1: \"%2\""
 
-#: plasmapkg/plasmapkg.cpp:140 plasmapkg/plasmapkg.cpp:187
-#: plasmapkg/plasmapkg.cpp:208
+#: plasmapkg/plasmapkg.cpp:141 plasmapkg/plasmapkg.cpp:188
+#: plasmapkg/plasmapkg.cpp:209
 msgctxt "package type"
 msgid "wallpaper"
 msgstr "pàipear-balla"
 
-#: plasmapkg/plasmapkg.cpp:193
+#: plasmapkg/plasmapkg.cpp:194
 msgctxt "package type"
 msgid "plasmoid"
 msgstr "plasmoid"
 
-#: plasmapkg/plasmapkg.cpp:199
+#: plasmapkg/plasmapkg.cpp:200
 msgctxt "package type"
 msgid "package"
 msgstr "pacaid"
 
-#: plasmapkg/plasmapkg.cpp:204
+#: plasmapkg/plasmapkg.cpp:205
 msgctxt "package type"
 msgid "theme"
 msgstr "ùrlar"
 
-#: plasmapkg/plasmapkg.cpp:213
+#: plasmapkg/plasmapkg.cpp:214
 msgctxt "package type"
 msgid "dataengine"
 msgstr "dataengine"
 
-#: plasmapkg/plasmapkg.cpp:218
+#: plasmapkg/plasmapkg.cpp:219
 msgctxt "package type"
 msgid "runner"
 msgstr "runner"
 
-#: plasmapkg/plasmapkg.cpp:223
+#: plasmapkg/plasmapkg.cpp:224
 msgctxt "package type"
 msgid "wallpaperplugin"
 msgstr "plugan pàipeir-bhalla"
 
-#: plasmapkg/plasmapkg.cpp:228
+#: plasmapkg/plasmapkg.cpp:229
 msgctxt "package type"
 msgid "lookandfeel"
 msgstr "coltas"
 
-#: plasmapkg/plasmapkg.cpp:233
+#: plasmapkg/plasmapkg.cpp:234
 msgctxt "package type"
 msgid "shell"
 msgstr "shell"
 
-#: plasmapkg/plasmapkg.cpp:238
+#: plasmapkg/plasmapkg.cpp:239
 msgctxt "package type"
 msgid "layout-template"
 msgstr "teamplaid co-dhealbhachd"
 
-#: plasmapkg/plasmapkg.cpp:243
+#: plasmapkg/plasmapkg.cpp:244
 msgctxt "package type"
 msgid "kwineffect"
 msgstr "kwineffect"
 
-#: plasmapkg/plasmapkg.cpp:248
+#: plasmapkg/plasmapkg.cpp:249
 msgctxt "package type"
 msgid "windowswitcher"
 msgstr "suidsear nan uinneagan"
 
-#: plasmapkg/plasmapkg.cpp:253
+#: plasmapkg/plasmapkg.cpp:254
 msgctxt "package type"
 msgid "kwinscript"
 msgstr "kwinscript"
 
-#: plasmapkg/plasmapkg.cpp:263
+#: plasmapkg/plasmapkg.cpp:264
 #, kde-format
 msgid "Could not find a suitable installer for package of type %1"
 msgstr ""
 "Cha deach leinn inneal-stàlaidh iomchaidh a lorg airson pacaid dhen t-seòrsa "
 "%1"
 
-#: plasmapkg/plasmapkg.cpp:281
+#: plasmapkg/plasmapkg.cpp:282
 #, kde-format
 msgid "Listing service types: %1"
 msgstr "A' sealltainn seòrsaichean de sheirbheisean: %1"
 
-#: plasmapkg/plasmapkg.cpp:349
+#: plasmapkg/plasmapkg.cpp:350
 #, kde-format
 msgid "Error: Plugin %1 is not installed."
 msgstr "Mearachd: Cha deach am plugan %1 a stàladh."
 
-#: plasmapkg/plasmapkg.cpp:359
+#: plasmapkg/plasmapkg.cpp:360
 msgctxt ""
 "No option was given, this is the error message telling the user he needs at "
 "least one, do not translate install, remove, upgrade nor list"
 msgid "One of install, remove, upgrade or list is required."
 msgstr "Tha feum air stàladh, toirt air falbh, àrdachadh no sealladh."
 
-#: plasmapkg/plasmapkg.cpp:467
+#: plasmapkg/plasmapkg.cpp:468
 #, kde-format
 msgid "Error: Can't find plugin metadata: %1"
 msgstr "Mearachd: Chan urrainn dhuinn meata-dàta a' plugain a lorg: %1"
 
-#: plasmapkg/plasmapkg.cpp:470
+#: plasmapkg/plasmapkg.cpp:471
 #, kde-format
 msgid "Showing info for package: %1"
 msgstr "A' sealltainn fiosrachadh na pacaid: %1"
 
-#: plasmapkg/plasmapkg.cpp:471
+#: plasmapkg/plasmapkg.cpp:472
 #, kde-format
 msgid "      Name : %1"
 msgstr "      Ainm : %1"
 
-#: plasmapkg/plasmapkg.cpp:472
+#: plasmapkg/plasmapkg.cpp:473
 #, kde-format
 msgid "   Comment : %1"
 msgstr "    Beachd : %1"
 
-#: plasmapkg/plasmapkg.cpp:473
+#: plasmapkg/plasmapkg.cpp:474
 #, kde-format
 msgid "    Plugin : %1"
 msgstr "    Plugan : %1"
 
-#: plasmapkg/plasmapkg.cpp:474
+#: plasmapkg/plasmapkg.cpp:475
 #, kde-format
 msgid "    Author : %1"
 msgstr "    Ùghdar : %1"
 
-#: plasmapkg/plasmapkg.cpp:475
+#: plasmapkg/plasmapkg.cpp:476
 #, kde-format
 msgid "      Path : %1"
 msgstr "    Slighe : %1"
 
-#: plasmapkg/plasmapkg.cpp:486
+#: plasmapkg/plasmapkg.cpp:487
 msgctxt ""
 "The user entered conflicting options packageroot and global, this is the "
 "error message telling the user he can use only one"
@@ -750,116 +750,116 @@ msgstr ""
 "Tha freumh na pacaid is na roghainnean coitcheann an còmhstri a chèile, "
 "feuch nach tagh thu ach aonan."
 
-#: plasmapkg/plasmapkg.cpp:511
+#: plasmapkg/plasmapkg.cpp:512
 msgid "Addon Name"
 msgstr "Ainm an tuilleadain"
 
-#: plasmapkg/plasmapkg.cpp:512
+#: plasmapkg/plasmapkg.cpp:513
 msgid "Service Type"
 msgstr "Seòrsa na seirbheise"
 
-#: plasmapkg/plasmapkg.cpp:513
+#: plasmapkg/plasmapkg.cpp:514
 msgid "Path"
 msgstr "Slighe"
 
-#: plasmapkg/plasmapkg.cpp:514
+#: plasmapkg/plasmapkg.cpp:515
 msgid "Type Argument"
 msgstr "Argamaid an t-seòrsa"
 
-#: plasmapkg/plasmapkg.cpp:562
+#: plasmapkg/plasmapkg.cpp:563
 msgid "Package types that are installable with this tool:"
 msgstr "Seòrsaichean de phacaidean a ghabhas stàladh leis an inneal seo:"
 
-#: plasmapkg/plasmapkg.cpp:563
+#: plasmapkg/plasmapkg.cpp:564
 msgid "Built in:"
 msgstr "Chaidh a thogail ann an:"
 
-#: plasmapkg/plasmapkg.cpp:566
+#: plasmapkg/plasmapkg.cpp:567
 msgid "DataEngine"
 msgstr "DataEngine"
 
-#: plasmapkg/plasmapkg.cpp:567
+#: plasmapkg/plasmapkg.cpp:568
 msgid "Layout Template"
 msgstr "Teamplaid co-dhealbhachd"
 
-#: plasmapkg/plasmapkg.cpp:568
+#: plasmapkg/plasmapkg.cpp:569
 msgid "Look and Feel"
 msgstr "Coltas"
 
-#: plasmapkg/plasmapkg.cpp:569
+#: plasmapkg/plasmapkg.cpp:570
 msgid "Package"
 msgstr "Pacaid"
 
-#: plasmapkg/plasmapkg.cpp:570
+#: plasmapkg/plasmapkg.cpp:571
 msgid "Plasmoid"
 msgstr "Plasmoid"
 
-#: plasmapkg/plasmapkg.cpp:571
+#: plasmapkg/plasmapkg.cpp:572
 msgid "Runner"
 msgstr "Runner"
 
-#: plasmapkg/plasmapkg.cpp:572
+#: plasmapkg/plasmapkg.cpp:573
 msgid "Shell"
 msgstr "Shell"
 
-#: plasmapkg/plasmapkg.cpp:573
+#: plasmapkg/plasmapkg.cpp:574
 msgid "Theme"
 msgstr "Ùrlar"
 
-#: plasmapkg/plasmapkg.cpp:574
+#: plasmapkg/plasmapkg.cpp:575
 msgid "Wallpaper Images"
 msgstr "Dealbhan pàipeir-bhalla"
 
-#: plasmapkg/plasmapkg.cpp:575
+#: plasmapkg/plasmapkg.cpp:576
 msgid "Animated Wallpaper"
 msgstr "Pàipear-balla beòthaichte"
 
-#: plasmapkg/plasmapkg.cpp:576
+#: plasmapkg/plasmapkg.cpp:577
 msgid "KWin Effect"
 msgstr "Èifeachd KWin"
 
-#: plasmapkg/plasmapkg.cpp:577
+#: plasmapkg/plasmapkg.cpp:578
 msgid "KWin Window Switcher"
 msgstr "Suidsear uinneagan KWin"
 
-#: plasmapkg/plasmapkg.cpp:578
+#: plasmapkg/plasmapkg.cpp:579
 msgid "KWin Script"
 msgstr "Sgriobt KWin"
 
-#: plasmapkg/plasmapkg.cpp:585
+#: plasmapkg/plasmapkg.cpp:586
 msgid "Provided by plugins:"
 msgstr "'Ga solar le plugain:"
 
-#: plasmapkg/plasmapkg.cpp:606
+#: plasmapkg/plasmapkg.cpp:607
 msgid "Provided by .desktop files:"
 msgstr "'Ga sholar le faidhlichean .desktop:"
 
-#: plasmapkg/plasmapkg.cpp:627
+#: plasmapkg/plasmapkg.cpp:628
 #, kde-format
 msgid "Successfully upgraded %1"
 msgstr "Chaidh %1 àrdachadh gu soirbheachail"
 
-#: plasmapkg/plasmapkg.cpp:629
+#: plasmapkg/plasmapkg.cpp:630
 #, kde-format
 msgid "Successfully installed %1"
 msgstr "Chaidh %1 a stàladh gu soirbheachail"
 
-#: plasmapkg/plasmapkg.cpp:632
+#: plasmapkg/plasmapkg.cpp:633
 #, kde-format
 msgid "Error: Installation of %1 failed: %2"
 msgstr "Mearachd: Dh'fhàillig le stàladh %1: %2"
 
-#: plasmapkg/plasmapkg.cpp:644
+#: plasmapkg/plasmapkg.cpp:645
 #, kde-format
 msgid "Upgrading package from file: %1"
 msgstr "Ag àrdachadh pacaid on fhaidhle: %1"
 
-#: plasmapkg/plasmapkg.cpp:649
+#: plasmapkg/plasmapkg.cpp:650
 #, kde-format
 msgid "Successfully uninstalled %1"
 msgstr "Chaidh %1 a dhì-stàladh gu soirbheachail"
 
-#: plasmapkg/plasmapkg.cpp:651
+#: plasmapkg/plasmapkg.cpp:652
 #, kde-format
 msgid "Error: Uninstallation of %1 failed: %2"
 msgstr "Mearachd: Dh'fhàillig le dì-stàladh %1: %2"
@@ -874,7 +874,7 @@ msgstr "Mearachd a' luchdadh faidhle QML: %1"
 msgid "Error loading Applet: package inexistent. %1"
 msgstr "Mearachd a' luchdadh aplaid: chan eil a' phacaid ann. %1"
 
-#: plasmaquick/configview.cpp:109
+#: plasmaquick/configview.cpp:110
 #, kde-format
 msgid "%1 Settings"
 msgstr "Roghainnean %1"
@@ -1003,43 +1003,43 @@ msgstr "Suidsear nan uinneagan"
 msgid "Main Script for Window Switcher"
 msgstr "Prìomh-sgriobt airson suidsear nan uinneagan"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:462
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:463
 msgid "Content dropped"
 msgstr "Chaidh an t-susbaint a leigeil às"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:463
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:464
 msgid "Fetching file type..."
 msgstr "A' faighinn seòrsa an fhaidhle..."
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:602
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:603
 msgid "Plasma Package"
 msgstr "Pacaid Plasma"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:603
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:604
 msgid "Install"
 msgstr "Stàlaich"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:607
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:608
 msgid "Widgets"
 msgstr "Widgets"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:620
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:621
 msgid "Icon"
 msgstr "Ìomhaigheag"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:624
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:625
 msgid "Wallpaper"
 msgstr "Pàipear-balla"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:670
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:671
 msgid "Package Installation Failed"
 msgstr "Dh’fhàillig le stàladh na pacaide"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:689
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:690
 msgid "The package you just dropped is invalid."
 msgstr "Tha a' phacaid a leig thu às mì-dligheach."
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:997
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:998
 #, kde-format
 msgctxt "%1 is the name of the containment"
 msgid "%1 Options"
