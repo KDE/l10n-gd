@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-10-18 08:05+0000\n"
+"POT-Creation-Date: 2016-10-22 07:58+0000\n"
 "PO-Revision-Date: 2016-04-29 19:26+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -357,7 +357,7 @@ msgctxt "Name"
 msgid "Plasma QML/C++ Applet"
 msgstr "Aplaid Plasma"
 
-#: templates/cpp-plasmoid/cpp-plasmoid.kdevtemplate:20
+#: templates/cpp-plasmoid/cpp-plasmoid.kdevtemplate:21
 msgctxt "Comment"
 msgid ""
 "A Plasma Applet template written in an hybrid mix of QML and C++: a Plasma "
@@ -385,7 +385,7 @@ msgctxt "Name"
 msgid "Simple Plasma Wallpaper"
 msgstr "Pàipear-balla Plasma"
 
-#: templates/plasma-wallpaper/plasma-wallpaper.kdevtemplate:20
+#: templates/plasma-wallpaper/plasma-wallpaper.kdevtemplate:21
 msgctxt "Comment"
 msgid ""
 "Simple Plasma Wallpaper template: a Plasma wallpaper template displaying a "
@@ -400,7 +400,7 @@ msgctxt "Name"
 msgid "Plasma QML Applet"
 msgstr "Aplaid Plasma"
 
-#: templates/qml-plasmoid/qml-plasmoid.kdevtemplate:22
+#: templates/qml-plasmoid/qml-plasmoid.kdevtemplate:23
 msgctxt "Comment"
 msgid ""
 "Plasma QML Applet template: a Plasma applet template displaying a SVG "
