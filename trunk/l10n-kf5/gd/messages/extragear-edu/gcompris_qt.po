@@ -8292,8 +8292,8 @@ msgstr ""
 #: activities/menu/Menu.qml:324
 msgctxt "Menu|"
 msgid ""
-"Put your favorite activities here by selecting the sun on each activity top "
-"right."
+"Put your favorite activities here by selecting the sun at the top right of "
+"that activity."
 msgstr ""
 
 #: activities/menu/Menu.qml:590
