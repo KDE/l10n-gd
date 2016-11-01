@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-10-27 07:12+0000\n"
+"POT-Creation-Date: 2016-11-01 07:36+0000\n"
 "PO-Revision-Date: 2016-04-30 12:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -129,13 +129,13 @@ msgstr ""
 "trice ma shònraicheas tu meud nas motha."
 
 #: plasma/packagestructure/dataenginepackage.cpp:39
-#: plasma/packagestructure/packages.cpp:99
+#: plasma/packagestructure/packages.cpp:98
 #: plasmaquick/private/packages.cpp:117
 msgid "Data Files"
 msgstr "Faidhlichean dàta"
 
 #: plasma/packagestructure/dataenginepackage.cpp:41
-#: plasma/packagestructure/packages.cpp:101
+#: plasma/packagestructure/packages.cpp:100
 #: plasmaquick/private/packages.cpp:119
 msgid "Executable Scripts"
 msgstr "Sgriobtaichean so-ghnìomhach"
@@ -145,13 +145,13 @@ msgid "Service Descriptions"
 msgstr "Tuairisgeulan sheirbheisean"
 
 #: plasma/packagestructure/dataenginepackage.cpp:49
-#: plasma/packagestructure/packages.cpp:107
+#: plasma/packagestructure/packages.cpp:106
 #: plasmaquick/private/packages.cpp:124
 msgid "Translations"
 msgstr "Eadar-theangachaidhean"
 
 #: plasma/packagestructure/packages.cpp:42
-#: plasma/packagestructure/packages.cpp:63 plasmaquick/private/packages.cpp:86
+#: plasma/packagestructure/packages.cpp:62 plasmaquick/private/packages.cpp:86
 #: plasmaquick/private/packages.cpp:131
 msgid "Main Script File"
 msgstr "Prìomh-fhaidhle an sgriobt"
@@ -160,27 +160,27 @@ msgstr "Prìomh-fhaidhle an sgriobt"
 msgid "Tests"
 msgstr "Deuchainnean"
 
-#: plasma/packagestructure/packages.cpp:85
+#: plasma/packagestructure/packages.cpp:84
 #: plasmaquick/private/packages.cpp:103
 msgid "Images"
 msgstr "Dealbhan"
 
-#: plasma/packagestructure/packages.cpp:86
+#: plasma/packagestructure/packages.cpp:85
 #: plasmaquick/private/packages.cpp:104
 msgid "Themed Images"
 msgstr "Dealbhan ùrlair"
 
-#: plasma/packagestructure/packages.cpp:92
+#: plasma/packagestructure/packages.cpp:91
 #: plasmaquick/private/packages.cpp:110
 msgid "Configuration Definitions"
 msgstr "Mìneachaidhean rèiteachaidh"
 
-#: plasma/packagestructure/packages.cpp:97
+#: plasma/packagestructure/packages.cpp:96
 #: plasmaquick/private/packages.cpp:115
 msgid "User Interface"
 msgstr "Eadar-aghaidh"
 
-#: plasma/packagestructure/packages.cpp:105
+#: plasma/packagestructure/packages.cpp:104
 msgid "Screenshot"
 msgstr "Glacadh-sgrìn"
 

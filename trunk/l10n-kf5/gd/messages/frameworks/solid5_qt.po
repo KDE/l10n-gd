@@ -894,12 +894,12 @@ msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "An unspecified error has occurred"
 msgstr "Thachair mearachd nach aithne dhuinn"
 
-#: solid/devices/backends/udisks2/udisksmanager.cpp:90
+#: solid/devices/backends/udisks2/udisksmanager.cpp:89
 msgctxt "Solid::Backends::UDisks2::Manager|"
 msgid "Storage"
 msgstr "Stòras"
 
-#: solid/devices/backends/udisks2/udisksmanager.cpp:91
+#: solid/devices/backends/udisks2/udisksmanager.cpp:90
 msgctxt "Solid::Backends::UDisks2::Manager|"
 msgid "Storage devices"
 msgstr "Uidheaman-stòrais"
