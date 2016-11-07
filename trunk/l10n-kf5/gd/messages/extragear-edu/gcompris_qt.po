@@ -5542,9 +5542,14 @@ msgctxt "ActivityInfo|"
 msgid "Letter association between the screen and the keyboard"
 msgstr "Co-cheangladh nan litrichean eadar an sgrìn is am meur-chlàr"
 
-#: activities/gletters/Gletters.qml:147
+#: activities/gletters/Gletters.qml:149
 msgctxt "Gletters|"
 msgid "Select your locale"
+msgstr ""
+
+#: activities/gletters/Gletters.qml:155
+msgctxt "Gletters|"
+msgid "Uppercase only mode"
 msgstr ""
 
 #: activities/gnumch-equality/ActivityInfo.qml:26
