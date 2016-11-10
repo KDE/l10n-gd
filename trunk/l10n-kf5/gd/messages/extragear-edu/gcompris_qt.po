@@ -2529,31 +2529,31 @@ msgctxt "ActivityInfo|"
 msgid "Draw the letter by connecting the dots in the correct order"
 msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
 
-#: activities/drawnumber/ActivityInfo.qml:26
+#: activities/drawnumbers/ActivityInfo.qml:26
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Simple Letters"
 msgctxt "ActivityInfo|"
-msgid "Number sequence"
+msgid "Draw Numbers"
+msgstr "Litrichean simplidh"
+
+#: activities/drawnumbers/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid "Connect the dots to draw numbers from 0 to 9"
 msgstr ""
 
-#: activities/drawnumber/ActivityInfo.qml:27
+#: activities/drawnumbers/ActivityInfo.qml:28
+msgctxt "ActivityInfo|"
+msgid "Children will learn how to draw different numbers in a fun way."
+msgstr ""
+
+#: activities/drawnumbers/ActivityInfo.qml:30
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Draw the picture by clicking on each numbers in the right order."
 msgctxt "ActivityInfo|"
-msgid "Touch the numbers in the right sequence."
+msgid "Draw the numbers by connecting the dots in the correct order"
 msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
-
-#: activities/drawnumber/ActivityInfo.qml:29
-msgctxt "ActivityInfo|"
-msgid "Can count from 1 to 50."
-msgstr "Tha cunntadh o 1 gu 50 agad."
-
-#: activities/drawnumber/ActivityInfo.qml:31
-msgctxt "ActivityInfo|"
-msgid ""
-"Draw the picture by touching each number in the right sequence, or sliding "
-"your finger or dragging the mouse through the numbers in the correct "
-"sequence."
-msgstr ""
 
 #: activities/enumerate/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -8756,6 +8756,32 @@ msgctxt "ActivityInfo|"
 msgid ""
 "Play with a friend. First take turns to place nine pieces, and then take "
 "turns to move pieces"
+msgstr ""
+
+#: activities/number_sequence/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "Number sequence"
+msgstr ""
+
+#: activities/number_sequence/ActivityInfo.qml:27
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "ActivityInfo|"
+msgid "Touch the numbers in the right sequence."
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/number_sequence/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid "Can count from 1 to 50."
+msgstr "Tha cunntadh o 1 gu 50 agad."
+
+#: activities/number_sequence/ActivityInfo.qml:31
+msgctxt "ActivityInfo|"
+msgid ""
+"Draw the picture by touching each number in the right sequence, or sliding "
+"your finger or dragging the mouse through the numbers in the correct "
+"sequence."
 msgstr ""
 
 #: activities/numbers-odd-even/ActivityInfo.qml:26
