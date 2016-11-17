@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-11-04 07:09+0000\n"
+"POT-Creation-Date: 2016-11-17 10:44+0000\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -36,7 +36,7 @@ msgstr ""
 "Tha an nì seo %1 %2.\n"
 "A bheil thu airson a cheannach?"
 
-#: attica/atticaprovider.cpp:330
+#: attica/atticaprovider.cpp:331
 #, kde-format
 msgid ""
 "Your account balance is too low:\n"
@@ -47,83 +47,83 @@ msgstr ""
 "Am balans agad: %1\n"
 "A' phrìs: %2"
 
-#: attica/atticaprovider.cpp:373
+#: attica/atticaprovider.cpp:374
 msgctxt "voting for an item (good/bad)"
 msgid "Your vote was recorded."
 msgstr "Chaidh a' bhòt agad a chlàradh."
 
-#: attica/atticaprovider.cpp:389
+#: attica/atticaprovider.cpp:390
 msgid "You are now a fan."
 msgstr "Tha thu 'ga leantainn a-nis."
 
-#: attica/atticaprovider.cpp:400
+#: attica/atticaprovider.cpp:401
 #, kde-format
 msgid "Network error. (%1)"
 msgstr "Mearachd lìonraidh. (%1)"
 
-#: attica/atticaprovider.cpp:404
+#: attica/atticaprovider.cpp:405
 msgid "Too many requests to server. Please try again in a few minutes."
 msgstr ""
 "Tha iarrtasan aig an fhrithealaiche. Feuch ris a-rithist an ceann mionaid no "
 "dhà."
 
-#: attica/atticaprovider.cpp:406
+#: attica/atticaprovider.cpp:407
 #, kde-format
 msgid "Unknown Open Collaboration Service API error. (%1)"
 msgstr "Mearachd Open Collaboration Service API nach aihne dhuinn. (%1)"
 
-#: button.cpp:51
+#: button.cpp:52
 msgid "Download New Stuff..."
 msgstr "Luchdaich a-nuas stuth ùr..."
 
-#: core/engine.cpp:92
+#: core/engine.cpp:93
 msgid "Initializing"
 msgstr "'Ga thòiseachadh"
 
-#: core/engine.cpp:96
+#: core/engine.cpp:97
 #, kde-format
 msgid "Configuration file not found: \"%1\""
 msgstr "Cha deach am faidhle rèiteachaidh a lorg: \"%1\""
 
-#: core/engine.cpp:109
+#: core/engine.cpp:110
 #, kde-format
 msgid "Configuration file is invalid: \"%1\""
 msgstr "Chan eil am faidhle rèiteachaidh dligheach: \"%1\""
 
-#: core/engine.cpp:160
+#: core/engine.cpp:161
 msgid "Loading provider information"
 msgstr "A' luchdadh fiosrachadh an t-solaraiche"
 
-#: core/engine.cpp:183
+#: core/engine.cpp:184
 #, kde-format
 msgid "Could not load get hot new stuff providers from file: %1"
 msgstr ""
 "Cha b' urrainn dhuinn solaraichean deagh-stuith ùir a luchdadh on fhaidhle: "
 "%1"
 
-#: core/engine.cpp:201
+#: core/engine.cpp:202
 msgid "Error initializing provider."
 msgstr "Mearachd le tòiseachadh an t-solaraiche."
 
-#: core/engine.cpp:205 core/engine.cpp:544
+#: core/engine.cpp:206 core/engine.cpp:545
 msgid "Loading data"
 msgstr "A' luchdadh dàta"
 
-#: core/engine.cpp:235
+#: core/engine.cpp:236
 msgid "Loading data from provider"
 msgstr "A' luchdadh dàta on t-solaraiche"
 
-#: core/engine.cpp:240
+#: core/engine.cpp:241
 #, kde-format
 msgid "Loading of providers from file: %1 failed"
 msgstr "Dh'fhàillig le luchdadh nan solaraichean on fhaidhle: %1"
 
-#: core/engine.cpp:504
+#: core/engine.cpp:505
 #, kde-format
 msgid "Re: %1"
 msgstr "Re: %1"
 
-#: core/engine.cpp:546
+#: core/engine.cpp:547
 #, kde-format
 msgid "Loading one preview"
 msgid_plural "Loading %1 previews"
@@ -132,28 +132,28 @@ msgstr[1] "A' luchdadh %1 ro-shealladh"
 msgstr[2] "A' luchdadh %1 ro-sheallaidhean"
 msgstr[3] "A' luchdadh %1 ro-shealladh"
 
-#: core/engine.cpp:548 ui/itemsgridviewdelegate.cpp:334
-#: ui/itemsviewdelegate.cpp:128
+#: core/engine.cpp:549 ui/itemsgridviewdelegate.cpp:334
+#: ui/itemsviewdelegate.cpp:129
 msgid "Installing"
 msgstr "'Ga stàladh"
 
-#: core/installation.cpp:175
+#: core/installation.cpp:187
 msgid "Invalid item."
 msgstr "Nì mì-dhligheach."
 
-#: core/installation.cpp:182
+#: core/installation.cpp:194
 #, kde-format
 msgid "Download of item failed: no download URL for \"%1\"."
 msgstr ""
 "Cha deach leinn an nì a luchdadh: chan eil URL luchdaidh a-nuas airson "
 "\"%1\" ann."
 
-#: core/installation.cpp:221
+#: core/installation.cpp:233
 #, kde-format
 msgid "Download of \"%1\" failed, error: %2"
 msgstr "Cha deach leinn \"%1\" a luchdadh a-nuas, mearachd: %2"
 
-#: core/installation.cpp:230
+#: core/installation.cpp:243
 msgid ""
 "The downloaded file is a html file. This indicates a link to a website "
 "instead of the actual download. Would you like to open the site with a "
@@ -163,30 +163,30 @@ msgstr ""
 "riochdachadh ceangal seach dearbh-luchdadh a-nuas. A bheil thu airson an "
 "làrach-lìn fhosgladh le brabhsair 'na àite?"
 
-#: core/installation.cpp:230
+#: core/installation.cpp:244
 msgid "Possibly bad download link"
 msgstr "Droch-cheangal luchdaidh a-nuas ma dh'fhaoidte"
 
-#: core/installation.cpp:233
+#: core/installation.cpp:247
 msgid "Downloaded file was a HTML file. Opened in browser."
 msgstr ""
 "Tha am faidhle a chaidh a luchdadh a-nuas 'na fhaidhle HTML. Dh'fhosgail "
 "sinn sa bhrabhsair e."
 
-#: core/installation.cpp:296
+#: core/installation.cpp:310
 #, kde-format
 msgid "Could not install \"%1\": file not found."
 msgstr "Cha b' urrainn dhuinn \"%1\" a stàladh: cha deach am faidhle a lorg."
 
-#: core/installation.cpp:534
+#: core/installation.cpp:545
 msgid "Overwrite existing file?"
 msgstr "A bheil thu airson sgrìobhadh thairis air an fhaidhle a tha ann?"
 
-#: core/installation.cpp:534
+#: core/installation.cpp:546
 msgid "Download File"
 msgstr "Luchdaich a-nuas faidhle"
 
-#: core/security.cpp:86
+#: core/security.cpp:84
 msgid ""
 "<qt>Cannot start <i>gpg</i> and retrieve the available keys. Make sure that "
 "<i>gpg</i> is installed, otherwise verification of downloaded resources will "
@@ -196,7 +196,7 @@ msgstr ""
 "faighinn a luchdadh. Dèan cinnteach gun dèid <i>gpg</i> a stàladh air neo "
 "chan urrainn dhuinn na goireasan air an luchdadh a-nuas a dhearbhadh.</qt>"
 
-#: core/security.cpp:210
+#: core/security.cpp:208
 #, kde-format
 msgid ""
 "<qt>Enter passphrase for key <b>0x%1</b>, belonging to<br /><i>%2&lt;%3&gt;</"
@@ -205,7 +205,7 @@ msgstr ""
 "<qt>Cuir a-steach an abairt-fhaire airson na h-iuchrach <b>0x%1</b> a tha "
 "le<br /><i>%2&lt;%3&gt;</i><br />:</qt>"
 
-#: core/security.cpp:290
+#: core/security.cpp:286
 msgid ""
 "<qt>Cannot start <i>gpg</i> and check the validity of the file. Make sure "
 "that <i>gpg</i> is installed, otherwise verification of downloaded resources "
@@ -215,15 +215,15 @@ msgstr ""
 "fhaidhle a dhearbhadh. Dèan cinnteach gun dèid <i>gpg</i> a stàladh air neo "
 "chan urrainn dhuinn na goireasan air an luchdadh a-nuas a dhearbhadh.</qt>"
 
-#: core/security.cpp:345
-msgid "Select Signing Key"
-msgstr "Tagh iuchair soidhnidh"
-
-#: core/security.cpp:345
+#: core/security.cpp:341
 msgid "Key used for signing:"
 msgstr "Iuchair airson an t-soidhnidh:"
 
-#: core/security.cpp:378
+#: core/security.cpp:342
+msgid "Select Signing Key"
+msgstr "Tagh iuchair soidhnidh"
+
+#: core/security.cpp:377
 msgid ""
 "<qt>Cannot start <i>gpg</i> and sign the file. Make sure that <i>gpg</i> is "
 "installed, otherwise signing of the resources will not be possible.</qt>"
@@ -232,61 +232,61 @@ msgstr ""
 "shoidhneadh. Dèan cinnteach gun dèid <i>gpg</i> a stàladh air neo chan "
 "urrainn dhuinn na goireasan a shoidhneadh.</qt>"
 
-#: downloaddialog.cpp:82 downloadwidget.cpp:209
+#: downloaddialog.cpp:83 downloadwidget.cpp:214
 msgid "Get Hot New Stuff"
 msgstr "Faigh deagh-stuth ùr"
 
-#: downloaddialog.cpp:94
+#: downloaddialog.cpp:95
 #, kde-format
 msgctxt "Program name followed by 'Add On Installer'"
 msgid "%1 Add-On Installer"
 msgstr "Stàlaichear tuilleadain %1"
 
-#: downloadwidget.cpp:121
+#: downloadwidget.cpp:126
 msgid "Timeout. Check Internet connection."
 msgstr "Dh'fhalbh an ùine air. Thoir sùil air a' cheangal dhan eadar-lìon."
 
-#: downloadwidget.cpp:181
+#: downloadwidget.cpp:186
 #, kde-format
 msgid "Server: %1"
 msgstr "Frithealaiche: %1"
 
-#: downloadwidget.cpp:182
+#: downloadwidget.cpp:187
 #, kde-format
 msgid "<br />Provider: %1"
 msgstr "<br />Solaraiche: %1"
 
-#: downloadwidget.cpp:183
+#: downloadwidget.cpp:188
 #, kde-format
 msgid "<br />Version: %1"
 msgstr "<br />Tionndadh: %1"
 
-#: downloadwidget.cpp:187
+#: downloadwidget.cpp:192
 msgid "Provider information"
 msgstr "Fiosrachadh an t-solaraiche"
 
-#: downloadwidget.cpp:198
+#: downloadwidget.cpp:203
 #, kde-format
 msgid "Could not install %1"
 msgstr "Cha b' urrainn dhuinn %1 a stàladh"
 
-#: downloadwidget.cpp:199
+#: downloadwidget.cpp:204
 msgid "Get Hot New Stuff!"
 msgstr "Faigh deagh-stuth ùr!"
 
-#: downloadwidget.cpp:251
+#: downloadwidget.cpp:258
 msgid "Icons view mode"
 msgstr "Modh sealladh nan ìomhaigheagan"
 
-#: downloadwidget.cpp:253
+#: downloadwidget.cpp:260
 msgid "Details view mode"
 msgstr "Modh sealladh an fhiosrachaidh"
 
-#: downloadwidget.cpp:268
+#: downloadwidget.cpp:275
 msgid "All Providers"
 msgstr "A h-uile solaraiche"
 
-#: downloadwidget.cpp:275
+#: downloadwidget.cpp:282
 msgid "All Categories"
 msgstr "A h-uile roinn-seòrsa"
 
@@ -350,13 +350,13 @@ msgstr "<a href=\"http://opendesktop.org\">Duilleag-dhachaigh</a>"
 #. i18n: ectx: property (text), widget (QRadioButton, radioUpdate)
 #. i18n: ectx: property (text), widget (QPushButton, updateButton)
 #: downloadwidget.ui:566 ui/itemsgridviewdelegate.cpp:329
-#: ui/itemsviewdelegate.cpp:123 uploaddialog.ui:171
+#: ui/itemsviewdelegate.cpp:124 uploaddialog.ui:171
 msgid "Update"
 msgstr "Ùraich"
 
 #. i18n: ectx: property (text), widget (QPushButton, uninstallButton)
 #: downloadwidget.ui:576 ui/itemsgridviewdelegate.cpp:325
-#: ui/itemsviewdelegate.cpp:119
+#: ui/itemsviewdelegate.cpp:120
 msgid "Uninstall"
 msgstr "Dì-stàlaich"
 
@@ -367,8 +367,8 @@ msgstr "Lean air"
 
 #. i18n: ectx: property (text), widget (QPushButton, installButton)
 #: downloadwidget.ui:590 ui/itemsgridviewdelegate.cpp:344
-#: ui/itemsgridviewdelegate.cpp:354 ui/itemsviewdelegate.cpp:138
-#: ui/itemsviewdelegate.cpp:148
+#: ui/itemsgridviewdelegate.cpp:354 ui/itemsviewdelegate.cpp:139
+#: ui/itemsviewdelegate.cpp:149
 msgid "Install"
 msgstr "Stàlaich"
 
@@ -470,6 +470,27 @@ msgstr ""
 msgid "More tools..."
 msgstr "Barrachd innealan..."
 
+#: qtquick/qml/NewStuffItem.qml:36
+#, fuzzy
+#| msgid "Install"
+msgctxt "Request installation of this item"
+msgid "Install"
+msgstr "Stàlaich"
+
+#: qtquick/qml/NewStuffItem.qml:43
+#, fuzzy
+#| msgid "Update"
+msgctxt "Request updating of this item"
+msgid "Update"
+msgstr "Ùraich"
+
+#: qtquick/qml/NewStuffItem.qml:50
+#, fuzzy
+#| msgid "Uninstall"
+msgctxt "Request uninstallation of this item"
+msgid "Uninstall"
+msgstr "Dì-stàlaich"
+
 #: ui/entrydetailsdialog.cpp:91
 #, kde-format
 msgid "Details for %1"
@@ -506,20 +527,20 @@ msgctxt "Tooltip for a link in a dialog"
 msgid "Opens in a browser window"
 msgstr "Thèid fhosgladh ann an uinneag brabhsair ùr"
 
-#: ui/itemsgridviewdelegate.cpp:101 ui/itemsviewdelegate.cpp:258
+#: ui/itemsgridviewdelegate.cpp:101 ui/itemsviewdelegate.cpp:259
 #, kde-format
 msgid "Rating: %1%"
 msgstr "Rangachadh: %1%"
 
 #: ui/itemsgridviewdelegate.cpp:152 ui/itemsgridviewdelegate.cpp:154
-#: ui/itemsgridviewdelegate.cpp:156 ui/itemsviewdelegate.cpp:218
-#: ui/itemsviewdelegate.cpp:220 ui/itemsviewdelegate.cpp:222
+#: ui/itemsgridviewdelegate.cpp:156 ui/itemsviewdelegate.cpp:219
+#: ui/itemsviewdelegate.cpp:221 ui/itemsviewdelegate.cpp:223
 #, kde-format
 msgctxt "Show the author of this item in a list"
 msgid "By <i>%1</i>"
 msgstr "Le <i>%1</i>"
 
-#: ui/itemsgridviewdelegate.cpp:179 ui/itemsviewdelegate.cpp:236
+#: ui/itemsgridviewdelegate.cpp:179 ui/itemsviewdelegate.cpp:237
 #, kde-format
 msgctxt "fan as in supporter"
 msgid "1 fan"
@@ -529,7 +550,7 @@ msgstr[1] "%1 luchd-leantainn"
 msgstr[2] "%1 luchd-leantainn"
 msgstr[3] "%1 luchd-leantainn"
 
-#: ui/itemsgridviewdelegate.cpp:182 ui/itemsviewdelegate.cpp:239
+#: ui/itemsgridviewdelegate.cpp:182 ui/itemsviewdelegate.cpp:240
 #, kde-format
 msgid "1 download"
 msgid_plural "%1 downloads"
@@ -538,98 +559,98 @@ msgstr[1] "%1 luchdadh a-nuas"
 msgstr[2] "%1 luchdaidhean a-nuas"
 msgstr[3] "%1 luchdadh a-nuas"
 
-#: ui/itemsgridviewdelegate.cpp:248 ui/itemsviewdelegate.cpp:309
+#: ui/itemsgridviewdelegate.cpp:248 ui/itemsviewdelegate.cpp:310
 msgid "Loading Preview"
 msgstr "A' luchdadh an ro-sheallaidh"
 
-#: ui/itemsgridviewdelegate.cpp:275 ui/itemsviewdelegate.cpp:169
+#: ui/itemsgridviewdelegate.cpp:275 ui/itemsviewdelegate.cpp:170
 msgid "Details"
 msgstr "Mion-fhiosrachadh"
 
-#: ui/itemsgridviewdelegate.cpp:339 ui/itemsviewdelegate.cpp:133
+#: ui/itemsgridviewdelegate.cpp:339 ui/itemsviewdelegate.cpp:134
 msgid "Updating"
 msgstr "'Ga ùrachadh"
 
-#: ui/itemsgridviewdelegate.cpp:349 ui/itemsviewdelegate.cpp:143
+#: ui/itemsgridviewdelegate.cpp:349 ui/itemsviewdelegate.cpp:144
 msgid "Install Again"
 msgstr "Stàlaich às ùr"
 
-#: uploaddialog.cpp:64
+#: uploaddialog.cpp:65
 msgctxt "Opposite to Back"
 msgid "Next"
 msgstr "Air adhart"
 
-#: uploaddialog.cpp:69
+#: uploaddialog.cpp:70
 msgid "Finish"
 msgstr "Crìochnaich"
 
-#: uploaddialog.cpp:175
+#: uploaddialog.cpp:178
 msgid "Fetching provider information..."
 msgstr "A' faighinn fiosrachadh an t-solaraiche..."
 
-#: uploaddialog.cpp:182
+#: uploaddialog.cpp:185
 msgid "Fetching license data from server..."
 msgstr "A' faighinn fiosrachadh a' cheadachais on fhrithealaiche..."
 
-#: uploaddialog.cpp:189
+#: uploaddialog.cpp:192
 msgid "Fetching content data from server..."
 msgstr "A' faighinn dàta na susbainte on fhrithealaiche..."
 
-#: uploaddialog.cpp:264
+#: uploaddialog.cpp:267
 msgid "Could not fetch provider information."
 msgstr "Cha b' urrainn dhuinn fiosrachadh an t-solaraiche fhaighinn."
 
-#: uploaddialog.cpp:288
+#: uploaddialog.cpp:291
 msgid "Register a new account"
 msgstr "Clàraich cunntas ùr"
 
-#: uploaddialog.cpp:312
+#: uploaddialog.cpp:315
 msgid "Checking login..."
 msgstr "A' dearbhadh a' chlàraidh a-steach..."
 
-#: uploaddialog.cpp:334
+#: uploaddialog.cpp:337
 msgid "Fetching your previously updated content..."
 msgstr "A' faighinn na susbainte a chaidh ùrachadh roimhe..."
 
-#: uploaddialog.cpp:337
+#: uploaddialog.cpp:340
 msgid "Could not verify login, please try again."
 msgstr ""
 "Cha b' urrainn dhuinn an clàradh a-steach a dhearbhadh, feuch ris a-rithist."
 
-#: uploaddialog.cpp:356
+#: uploaddialog.cpp:359
 msgid "Fetching your previously updated content finished."
 msgstr "Tha an t-susbaint agad a chaidh ùrachadh roimhe air a faighinn."
 
-#: uploaddialog.cpp:374
+#: uploaddialog.cpp:377
 msgid "Fetching content data from server finished."
 msgstr "Tha dàta na susbainte air fhaighinn on fhrithealaiche."
 
-#: uploaddialog.cpp:397 uploaddialog.cpp:837
+#: uploaddialog.cpp:400 uploaddialog.cpp:840
 msgctxt "A link to the website where the get hot new stuff upload can be seen"
 msgid "Visit website"
 msgstr "Tadhail air an làrach-lìn"
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, UploadDialog)
-#: uploaddialog.cpp:443 uploaddialog.ui:14
+#: uploaddialog.cpp:446 uploaddialog.ui:14
 msgid "Share Hot New Stuff"
 msgstr "Co-roinn deagh-stuth ùr"
 
-#: uploaddialog.cpp:466
+#: uploaddialog.cpp:469
 #, kde-format
 msgctxt "Program name followed by 'Add On Uploader'"
 msgid "%1 Add-On Uploader"
 msgstr "Inneal luchdaidh suas tuilleadain %1"
 
-#: uploaddialog.cpp:486 uploaddialog.cpp:762
+#: uploaddialog.cpp:489 uploaddialog.cpp:765
 #, kde-format
 msgid "File not found: %1"
 msgstr "Cha deach am faidhle a lorg: %1"
 
-#: uploaddialog.cpp:486 uploaddialog.cpp:613 uploaddialog.cpp:762
+#: uploaddialog.cpp:489 uploaddialog.cpp:616 uploaddialog.cpp:765
 msgid "Upload Failed"
 msgstr "Dh'fhàillig leis an luchdadh suas"
 
-#: uploaddialog.cpp:566
+#: uploaddialog.cpp:569
 #, kde-format
 msgid ""
 "The server does not recognize the category %2 to which you are trying to "
@@ -650,32 +671,32 @@ msgstr[3] ""
 "Chan aithnich am frithealaiche gin dhe na roinnean-seòrsa dhan a tha thu a' "
 "feuchainn ri rud a luchdadh suas: %2"
 
-#: uploaddialog.cpp:569
+#: uploaddialog.cpp:572
 msgid "Error"
 msgstr "Mearachd"
 
-#: uploaddialog.cpp:613
+#: uploaddialog.cpp:616
 #, kde-format
 msgid "The selected category \"%1\" is invalid."
 msgstr "Chan eil an roinn-seòrsa \"%1\" a thagh thu dligheach."
 
-#: uploaddialog.cpp:662 uploaddialog.cpp:677 uploaddialog.cpp:691
+#: uploaddialog.cpp:665 uploaddialog.cpp:680 uploaddialog.cpp:694
 msgid "Select preview image"
 msgstr "Tagh dealbh ro-sheallaidh"
 
-#: uploaddialog.cpp:706
+#: uploaddialog.cpp:709
 msgid "There was a network error."
 msgstr "Bha mearachd lìonraidh ann."
 
-#: uploaddialog.cpp:706 uploaddialog.cpp:711
+#: uploaddialog.cpp:709 uploaddialog.cpp:714
 msgid "Uploading Failed"
 msgstr "Dh'fhàillig leis an luchdadh suas"
 
-#: uploaddialog.cpp:711
+#: uploaddialog.cpp:714
 msgid "Authentication error."
 msgstr "Mearachd leis an dearbhadh."
 
-#: uploaddialog.cpp:721
+#: uploaddialog.cpp:724
 #, kde-format
 msgid "Upload failed: %1"
 msgstr "Dh'fhàillig leis an luchdadh suas: %1"
