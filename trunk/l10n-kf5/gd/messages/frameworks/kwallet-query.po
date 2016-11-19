@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-02-25 07:46+0000\n"
+"POT-Creation-Date: 2016-11-19 20:12+0100\n"
 "PO-Revision-Date: 2015-11-04 15:14+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -19,39 +19,48 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 "X-Project-Style: kde\n"
 
+#, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "GunChleoc"
 
+#, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "fios@foramnagaidhlig.net"
 
 #: main.cpp:38 main.cpp:40
+#, kde-format
 msgid "KWallet query interface"
 msgstr "Eadar-aghaidh ceistean KWallet"
 
 #: main.cpp:42
+#, kde-format
 msgid "(c) 2015, The KDE Developers"
 msgstr "(c) 2015, The KDE Developers"
 
 #: main.cpp:46
+#, kde-format
 msgid "verbose output"
 msgstr "às-chur briathrach"
 
 #: main.cpp:47
+#, kde-format
 msgid "list password entries"
 msgstr "seall innteartan facail-fhaire"
 
 #: main.cpp:48
+#, kde-format
 msgid "reads the secrets from the given <entry>"
 msgstr "leughaidh seo na rùintean-dìomhair on <entry> shònraichte"
 
 #: main.cpp:48 main.cpp:49
+#, kde-format
 msgid "Entry"
 msgstr "Innteart"
 
 #: main.cpp:49
+#, kde-format
 msgid ""
 "write secrets to the given <entry>. The values are read from the standard "
 "input. IMPORTANT: previous wallet entry value will be overwritten!"
@@ -61,36 +70,44 @@ msgstr ""
 "t-seann-luach aig innteart an sporain!"
 
 #: main.cpp:50
+#, kde-format
 msgid "specify the folder in the wallet <folder>"
 msgstr "sònraich am pasgan san sporan <folder>"
 
 #: main.cpp:50
+#, kde-format
 msgid "Folder"
 msgstr "Pasgan"
 
 #: main.cpp:53
+#, kde-format
 msgid "wallet"
 msgstr "sporan"
 
 #: main.cpp:53
+#, kde-format
 msgid "The wallet to query"
 msgstr "An sporan airson ceist a chur dha"
 
 #: main.cpp:63
+#, kde-format
 msgid "Missing argument"
 msgstr "Tha argamaid a dhìth"
 
 #: main.cpp:67
+#, kde-format
 msgid "Too many arguments given"
 msgstr "Chaidh cus argamaidean a shònrachadh"
 
 #: main.cpp:74
+#, kde-format
 msgid "Only one mode (list, read or write) can be set. Aborting"
 msgstr ""
 "Chan urrainn dhut ach aon mhodh (sealladh, leughadh no sgrìobhadh) a "
 "shuidheachadh. A' sgur dheth"
 
 #: main.cpp:80
+#, kde-format
 msgid "Please specify the mode (list or read)."
 msgstr "Sònraich am modh (leughadh no sgrìobhadh)."
 

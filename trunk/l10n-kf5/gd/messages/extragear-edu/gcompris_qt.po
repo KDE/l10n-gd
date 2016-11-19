@@ -6095,8 +6095,7 @@ msgctxt "ActivityInfo|"
 msgid "Vocabulary and reading"
 msgstr "Leughadh nam faclan"
 
-#: activities/imagename/ActivityInfo.qml:33
-#: activities/lang/ActivityInfo.qml:35
+#: activities/imagename/ActivityInfo.qml:33 activities/lang/ActivityInfo.qml:35
 #: activities/memory-wordnumber/ActivityInfo.qml:30
 #: activities/readingh/ActivityInfo.qml:30
 #: activities/readingv/ActivityInfo.qml:30

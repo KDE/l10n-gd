@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kubuntu-debug-installer\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-07 11:39+0000\n"
+"POT-Creation-Date: 2016-11-19 20:19+0100\n"
 "PO-Revision-Date: 2013-10-10 19:19+0000\n"
 "Last-Translator: Jonathan Riddell <riddell@gmail.com>\n"
 "Language-Team: Gaelic; Scottish <gd@li.org>\n"
@@ -20,17 +20,20 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3;\n"
 
+#, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr ""
 ",Launchpad Contributions:,Akerbeltz,alasdair caimbeul, ,Launchpad "
 "Contributions:,Akerbeltz,Jonathan Riddell,alasdair caimbeul"
 
+#, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ",,fios@akerbeltz.org,,,,fios@akerbeltz.org,riddell@gmail.com,"
 
 #: src/DebugInstaller.cpp:48
+#, kde-format
 msgctxt "@info Error message"
 msgid "No file paths were provided, so no debug packages could be found."
 msgstr ""
@@ -38,11 +41,13 @@ msgstr ""
 "pacaidean dì-bhugachaidh a lorg leis a sin."
 
 #: src/DebugInstaller.cpp:51 src/DebugInstaller.cpp:80
+#, kde-format
 msgctxt "@title:window"
 msgid "Couldn't find debug packages"
 msgstr "Cha b' urrainn dhuinn pacaidean dì-bhugachaidh a lorg"
 
 #: src/DebugInstaller.cpp:77
+#, kde-format
 msgctxt "@info"
 msgid ""
 "No debug packages could be found for the files listed below.\n"
@@ -53,6 +58,7 @@ msgstr ""
 "A bheil thu airson leantainn air adhart co-dhiù?"
 
 #: src/DebugInstaller.cpp:93
+#, kde-format
 msgctxt "@info"
 msgid ""
 "Do you want to install the following debug packages so that the necessary "
@@ -62,38 +68,45 @@ msgstr ""
 "na samhlaidhean dì-bhugachaidh riatanach ri làimh?"
 
 #: src/DebugInstaller.cpp:95
+#, kde-format
 msgctxt "@title:window"
 msgid "Confirm package installation"
 msgstr "Dearbh stàladh na pacaid"
 
 #: src/DebugInstaller.cpp:98
+#, kde-format
 msgctxt "@action:button"
 msgid "Install"
 msgstr "Stàlaich"
 
 #: src/DebugInstaller.cpp:162
+#, kde-format
 msgctxt "@info:progress"
 msgid "Looking for debug packages"
 msgstr "A' lorg nam pacaidean dì-bhugachaidh"
 
 #: src/main.cpp:36
+#, kde-format
 msgid "Debug package installer"
 msgstr "Stàlaichear pacaid dì-bhugachaidh"
 
 #: src/main.cpp:38
+#, kde-format
 msgid "A debug package installer for Kubuntu"
 msgstr "Stàlaichear pacaid dì-bhugachaidh airson Kubuntu"
 
 #: src/main.cpp:40
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "(C) 2010 Harald Sitter"
 msgid "(C) 2010-2014 Harald Sitter"
 msgstr "(C) 2010 Harald Sitter"
 
 #: src/main.cpp:42
+#, kde-format
 msgid "Harald Sitter"
 msgstr "Harald Sitter"
 
 #: src/main.cpp:48
+#, kde-format
 msgid "Files to find debug packages for"
 msgstr "Faidhlichean a thèidh pacaidean dì-bhugachaidh a lorg dha"

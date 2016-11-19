@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-11-19 03:25+0000\n"
+"POT-Creation-Date: 2016-11-19 20:11+0100\n"
 "PO-Revision-Date: 2015-11-04 15:14+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -20,75 +20,93 @@ msgstr ""
 "X-Project-Style: kde\n"
 
 #: kicondialog.cpp:260 kicondialog.cpp:272 kicondialog.cpp:602
+#, kde-format
 msgid "Select Icon"
 msgstr "Tagh ìomhaigheag"
 
 #: kicondialog.cpp:289
+#, kde-format
 msgid "Icon Source"
 msgstr "Tùs na h-ìomhaigheige"
 
 #: kicondialog.cpp:298
+#, kde-format
 msgid "S&ystem icons:"
 msgstr "Ìomhaigheagan an t-&siostaim:"
 
 #: kicondialog.cpp:304
+#, kde-format
 msgid "O&ther icons:"
 msgstr "Ìomhaigheagan &eile:"
 
 #: kicondialog.cpp:307
+#, kde-format
 msgid "&Browse..."
 msgstr "&Rùraich..."
 
 #: kicondialog.cpp:318
+#, kde-format
 msgid "&Search:"
 msgstr "&Lorg:"
 
 #: kicondialog.cpp:325
+#, kde-format
 msgid "Search interactively for icon names (e.g. folder)."
 msgstr ""
 "Lorg gu h-eadar-ghnìomhach airson ainmean ìomhaigheagan (pasgan, m.e.)."
 
 #: kicondialog.cpp:355
+#, kde-format
 msgid "Actions"
 msgstr "Gnìomhan"
 
 #: kicondialog.cpp:356
+#, kde-format
 msgid "Applications"
 msgstr "Aplacaidean"
 
 #: kicondialog.cpp:357
+#, kde-format
 msgid "Categories"
 msgstr "Roinnean-seòrsa"
 
 #: kicondialog.cpp:358
+#, kde-format
 msgid "Devices"
 msgstr "Uidheaman"
 
 #: kicondialog.cpp:359
+#, kde-format
 msgid "Emblems"
 msgstr "Suaicheantasan"
 
 #: kicondialog.cpp:360
+#, kde-format
 msgid "Emotes"
 msgstr "Samhlaidhean-gnùis"
 
 #: kicondialog.cpp:361
+#, kde-format
 msgid "Mimetypes"
 msgstr "Seòrsaichean MIME"
 
 #: kicondialog.cpp:362
+#, kde-format
 msgid "Places"
 msgstr "Àiteachan"
 
 #: kicondialog.cpp:363
+#, kde-format
 msgid "Status"
 msgstr "Staid"
 
 #: kicondialog.cpp:364
+#, kde-format
 msgid "All"
 msgstr ""
 
 #: kicondialog.cpp:602
+#, kde-format
 msgid "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 msgstr ""
 "*.png *.xpm *.svg *.svgz|Faidhlichean ìomhaigheige (*.png *.xpm *.svg *.svgz)"
