@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kactivities5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-03-09 07:18+0000\n"
+"POT-Creation-Date: 2016-11-19 22:49+0100\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -20,42 +20,51 @@ msgstr ""
 "X-Project-Style: kde\n"
 
 #: fileitemplugin/FileItemLinkingPlugin.cpp:100 KioActivities.cpp:306
+#, kde-format
 msgid "Activities"
 msgstr "Gnìomhachdan"
 
 #: fileitemplugin/FileItemLinkingPlugin.cpp:103
+#, kde-format
 msgid "Loading..."
 msgstr "'Ga luchdadh..."
 
 #: fileitemplugin/FileItemLinkingPlugin.cpp:123
+#, kde-format
 msgid "The Activity Manager is not running"
 msgstr "Chan eil manaidsear nan gnìomhachdan 'ga ruith"
 
 #: fileitemplugin/FileItemLinkingPluginActionLoader.cpp:67
 #: fileitemplugin/FileItemLinkingPluginActionLoader.cpp:134
+#, kde-format
 msgid "Link to the current activity"
 msgstr "Dèan ceangal dhan ghnìomhachd làithreach"
 
 #: fileitemplugin/FileItemLinkingPluginActionLoader.cpp:70
 #: fileitemplugin/FileItemLinkingPluginActionLoader.cpp:139
+#, kde-format
 msgid "Unlink from the current activity"
 msgstr "Dì-cheangail on ghnìomhachd làithreach"
 
 #: fileitemplugin/FileItemLinkingPluginActionLoader.cpp:73
 #: fileitemplugin/FileItemLinkingPluginActionLoader.cpp:143
+#, kde-format
 msgid "Link to:"
 msgstr "Ceangail gu:"
 
 #: fileitemplugin/FileItemLinkingPluginActionLoader.cpp:78
 #: fileitemplugin/FileItemLinkingPluginActionLoader.cpp:151
+#, kde-format
 msgid "Unlink from:"
 msgstr "Dì-cheangail o:"
 
 #: KioActivities.cpp:107 KioActivities.cpp:229
+#, kde-format
 msgid "Activity"
 msgstr "Gnìomhachd"
 
 #: KioActivities.cpp:228
+#, kde-format
 msgid "Current activity"
 msgstr "A' ghnìomhachd lèithreach"
 
