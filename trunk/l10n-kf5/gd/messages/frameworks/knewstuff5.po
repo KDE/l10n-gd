@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-11-19 20:12+0100\n"
+"POT-Creation-Date: 2016-11-25 03:09+0100\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -147,24 +147,24 @@ msgstr[3] "A' luchdadh %1 ro-shealladh"
 msgid "Installing"
 msgstr "'Ga stàladh"
 
-#: core/installation.cpp:187
+#: core/installation.cpp:197
 #, kde-format
 msgid "Invalid item."
 msgstr "Nì mì-dhligheach."
 
-#: core/installation.cpp:194
+#: core/installation.cpp:204
 #, kde-format
 msgid "Download of item failed: no download URL for \"%1\"."
 msgstr ""
 "Cha deach leinn an nì a luchdadh: chan eil URL luchdaidh a-nuas airson "
 "\"%1\" ann."
 
-#: core/installation.cpp:233
+#: core/installation.cpp:243
 #, kde-format
 msgid "Download of \"%1\" failed, error: %2"
 msgstr "Cha deach leinn \"%1\" a luchdadh a-nuas, mearachd: %2"
 
-#: core/installation.cpp:243
+#: core/installation.cpp:253
 #, kde-format
 msgid ""
 "The downloaded file is a html file. This indicates a link to a website "
@@ -175,29 +175,29 @@ msgstr ""
 "riochdachadh ceangal seach dearbh-luchdadh a-nuas. A bheil thu airson an "
 "làrach-lìn fhosgladh le brabhsair 'na àite?"
 
-#: core/installation.cpp:244
+#: core/installation.cpp:254
 #, kde-format
 msgid "Possibly bad download link"
 msgstr "Droch-cheangal luchdaidh a-nuas ma dh'fhaoidte"
 
-#: core/installation.cpp:247
+#: core/installation.cpp:257
 #, kde-format
 msgid "Downloaded file was a HTML file. Opened in browser."
 msgstr ""
 "Tha am faidhle a chaidh a luchdadh a-nuas 'na fhaidhle HTML. Dh'fhosgail "
 "sinn sa bhrabhsair e."
 
-#: core/installation.cpp:310
+#: core/installation.cpp:320
 #, kde-format
 msgid "Could not install \"%1\": file not found."
 msgstr "Cha b' urrainn dhuinn \"%1\" a stàladh: cha deach am faidhle a lorg."
 
-#: core/installation.cpp:545
+#: core/installation.cpp:555
 #, kde-format
 msgid "Overwrite existing file?"
 msgstr "A bheil thu airson sgrìobhadh thairis air an fhaidhle a tha ann?"
 
-#: core/installation.cpp:546
+#: core/installation.cpp:556
 #, kde-format
 msgid "Download File"
 msgstr "Luchdaich a-nuas faidhle"
