@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-11-24 02:01+0000\n"
+"POT-Creation-Date: 2016-12-01 02:01+0000\n"
 "PO-Revision-Date: 2016-04-29 13:18+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -163,7 +163,7 @@ msgctxt "Name"
 msgid "KDiskFree"
 msgstr "KDiskFree"
 
-#: data/kmoretools-desktopfiles/kdf.desktop:41
+#: data/kmoretools-desktopfiles/kdf.desktop:42
 msgctxt "GenericName"
 msgid "View Disk Usage"
 msgstr "Seall cleachdadh nan diosgan"
@@ -173,12 +173,12 @@ msgctxt "Name"
 msgid "KSystemLog"
 msgstr "KSystemLog"
 
-#: data/kmoretools-desktopfiles/ksystemlog.desktop:44
+#: data/kmoretools-desktopfiles/ksystemlog.desktop:45
 msgctxt "Comment"
 msgid "System log viewer tool"
 msgstr "Sealladair airson logaichean an t-siostaim"
 
-#: data/kmoretools-desktopfiles/ksystemlog.desktop:81
+#: data/kmoretools-desktopfiles/ksystemlog.desktop:83
 msgctxt "GenericName"
 msgid "System Log Viewer"
 msgstr "Sealladair logaichean an t-siostaim"
@@ -212,12 +212,12 @@ msgctxt "Name"
 msgid "Filelight"
 msgstr "Filelight"
 
-#: data/kmoretools-desktopfiles/org.kde.filelight.desktop:39
+#: data/kmoretools-desktopfiles/org.kde.filelight.desktop:40
 msgctxt "GenericName"
 msgid "Disk Usage Statistics"
 msgstr "Stadastaireachd air cleachdadh nan diosgan"
 
-#: data/kmoretools-desktopfiles/org.kde.filelight.desktop:78
+#: data/kmoretools-desktopfiles/org.kde.filelight.desktop:80
 msgctxt "Comment"
 msgid "View disk usage information"
 msgstr "Seall fiosrachadh air cleachdadh nan diosgan"
@@ -242,7 +242,7 @@ msgctxt "GenericName"
 msgid "Screen Capture Program"
 msgstr "Prògram ghlacaidhean-sgrìn"
 
-#: data/kmoretools-desktopfiles/org.kde.ksnapshot.desktop:38
+#: data/kmoretools-desktopfiles/org.kde.ksnapshot.desktop:39
 msgctxt "Name"
 msgid "KSnapshot"
 msgstr "KSnapshot"
@@ -252,7 +252,7 @@ msgctxt "Name"
 msgid "KSysGuard"
 msgstr "KSysGuard"
 
-#: data/kmoretools-desktopfiles/org.kde.ksysguard.desktop:38
+#: data/kmoretools-desktopfiles/org.kde.ksysguard.desktop:39
 msgctxt "GenericName"
 msgid "System Monitor"
 msgstr "Monatair an t-siostaim"
@@ -262,7 +262,7 @@ msgctxt "GenericName"
 msgid "Countdown Launcher"
 msgstr "Lòinsear cunntaidh sìos"
 
-#: data/kmoretools-desktopfiles/org.kde.ktimer.desktop:42
+#: data/kmoretools-desktopfiles/org.kde.ktimer.desktop:43
 msgctxt "Name"
 msgid "KTimer"
 msgstr "KTimer"
@@ -327,12 +327,12 @@ msgctxt "Name"
 msgid "Task Manager"
 msgstr "Manaidsear nan saothair"
 
-#: data/kmoretools-desktopfiles/xfce4-taskmanager.desktop:39
+#: data/kmoretools-desktopfiles/xfce4-taskmanager.desktop:40
 msgctxt "Comment"
 msgid "Easy to use task manager"
 msgstr "Manaidsear nan saothair a tha furasta cleachdadh"
 
-#: data/kmoretools-desktopfiles/xfce4-taskmanager.desktop:74
+#: data/kmoretools-desktopfiles/xfce4-taskmanager.desktop:75
 msgctxt "GenericName"
 msgid "Task Manager"
 msgstr "Manaidsear nan saothair"
