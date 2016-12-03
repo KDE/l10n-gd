@@ -2335,6 +2335,53 @@ msgctxt "colors|"
 msgid "Find the pink duck"
 msgstr "Lorg an tunnag dhubh"
 
+#: activities/crane/ActivityInfo.qml:31
+#, fuzzy
+#| msgctxt "instruments|"
+#| msgid "Find the snare drum"
+msgctxt "ActivityInfo|"
+msgid "Build the same model"
+msgstr "Lorg an druma-tormain"
+
+#: activities/crane/ActivityInfo.qml:32
+msgctxt "ActivityInfo|"
+msgid "Drive the crane and copy the model"
+msgstr ""
+
+#: activities/crane/ActivityInfo.qml:34 activities/erase/ActivityInfo.qml:29
+#: activities/erase_2clic/ActivityInfo.qml:29
+#: activities/erase_clic/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid "Motor-coordination"
+msgstr "Co-ghluasad"
+
+#: activities/crane/ActivityInfo.qml:35
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Keyboard manipulation"
+msgctxt "ActivityInfo|"
+msgid "Mouse/keyboard manipulation"
+msgstr ""
+"Cleachdadh a’ mheur-chlàir\n"
+"\n"
+"Mar a gheibh thu na stràcan:\n"
+"1) Air Windows, feumaidh tu an iuchair ` (ri taobh 1) a bhrùthadh agus an "
+"uair sin litir eile.\n"
+"2) Air Mac, feumaidh tu ALT agus ` is an uair sin litir eile a bhrùthadh.\n"
+"\n"
+"Mur obraich sin, tadhail air www.iGaidhlig.net airson barrachd fiosrachaidh "
+"’s taic."
+
+#: activities/crane/ActivityInfo.qml:36
+msgctxt "ActivityInfo|"
+msgid ""
+"Move the items in the left frame to copy their position in the right model. "
+"Next to the crane itself, you will find four arrows that let you move the "
+"items. To select the item to move, just click on it. If you prefer, you can "
+"use the arrow keys and the space or tab key instead. On a mobile version, "
+"you can also swipe up/down/left/right to move the items in the left frame."
+msgstr ""
+
 #: activities/details/ActivityInfo.qml:29
 #, fuzzy
 #| msgctxt "instruments|"
@@ -2456,31 +2503,54 @@ msgid ""
 "Notre Dame de Paris cathedral on the Île de la Cité island in Paris, France."
 msgstr ""
 
-#: activities/drawnumber/ActivityInfo.qml:26
-msgctxt "ActivityInfo|"
-msgid "Number sequence"
-msgstr ""
-
-#: activities/drawnumber/ActivityInfo.qml:27
+#: activities/drawletters/ActivityInfo.qml:26
 #, fuzzy
 #| msgctxt "ActivityInfo|"
-#| msgid "Draw the picture by clicking on each numbers in the right order."
+#| msgid "Simple Letters"
 msgctxt "ActivityInfo|"
-msgid "Touch the numbers in the right sequence."
-msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+msgid "Draw Letters"
+msgstr "Litrichean simplidh"
 
-#: activities/drawnumber/ActivityInfo.qml:29
+#: activities/drawletters/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
-msgid "Can count from 1 to 50."
-msgstr "Tha cunntadh o 1 gu 50 agad."
-
-#: activities/drawnumber/ActivityInfo.qml:31
-msgctxt "ActivityInfo|"
-msgid ""
-"Draw the picture by touching each number in the right sequence, or sliding "
-"your finger or dragging the mouse through the numbers in the correct "
-"sequence."
+msgid "Connect the dots to draw letters"
 msgstr ""
+
+#: activities/drawletters/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid "Children will learn how to draw different letters in a fun way."
+msgstr ""
+
+#: activities/drawletters/ActivityInfo.qml:31
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Move the helicopter to catch the clouds in the correct order"
+msgctxt "ActivityInfo|"
+msgid "Draw the letter by connecting the dots in the correct order"
+msgstr "Gluais an heileacoptair ach an glac thu na neòil san òrdugh cheart"
+
+#: activities/drawnumbers/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "Draw Numbers"
+msgstr ""
+
+#: activities/drawnumbers/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid "Connect the dots to draw numbers from 0 to 9"
+msgstr ""
+
+#: activities/drawnumbers/ActivityInfo.qml:28
+msgctxt "ActivityInfo|"
+msgid "Children will learn how to draw different numbers in a fun way."
+msgstr ""
+
+#: activities/drawnumbers/ActivityInfo.qml:30
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Move the helicopter to catch the clouds in the correct order"
+msgctxt "ActivityInfo|"
+msgid "Draw the numbers by connecting the dots in the correct order"
+msgstr "Gluais an heileacoptair ach an glac thu na neòil san òrdugh cheart"
 
 #: activities/enumerate/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -2537,19 +2607,12 @@ msgid ""
 "background"
 msgstr "Gluais an luchag gus an raon a shuathadh is an cùlaibh a nochdadh"
 
-#: activities/erase/ActivityInfo.qml:29
-#: activities/erase_2clic/ActivityInfo.qml:29
-#: activities/erase_clic/ActivityInfo.qml:29
-msgctxt "ActivityInfo|"
-msgid "Motor-coordination"
-msgstr "Co-ghluasad"
-
 #: activities/erase/ActivityInfo.qml:30
 #: activities/erase_2clic/ActivityInfo.qml:30
 #: activities/erase_clic/ActivityInfo.qml:30
 #: activities/hanoi/ActivityInfo.qml:30
 #: activities/memory-tux/ActivityInfo.qml:30
-#: activities/tangram/ActivityInfo.qml:35
+#: activities/tangram/ActivityInfo.qml:36
 msgctxt "ActivityInfo|"
 msgid "Mouse-manipulation"
 msgstr "Cleachdadh na luchaige"
@@ -2979,7 +3042,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board1.qml:97
 msgctxt "board1|"
 msgid ""
-"The Taj Mahal  is a white marble mausoleum located on the southern bank of "
+"The Taj Mahal is a white marble mausoleum located on the southern bank of "
 "the Yamuna River in the Indian city of Agra. It was commissioned in 1632 by "
 "the Mughal emperor Shah Jahan reigned to house the tomb of his favorite wife "
 "of three, Mumtaz Mahal."
@@ -2992,12 +3055,12 @@ msgstr ""
 
 #: activities/explore_monuments/resource/board/board1.qml:109
 msgctxt "board1|"
-msgid "The 7 Wonders of World."
+msgid "The 7 New Wonders of World."
 msgstr ""
 
 #: activities/explore_monuments/resource/board/board1.qml:112
 msgctxt "board1|"
-msgid "Click on location where the given Monument is located."
+msgid "Click on location where the given monument is located."
 msgstr ""
 
 #: activities/explore_monuments/resource/board/board2.qml:29
@@ -3044,7 +3107,7 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board2.qml:52
 msgctxt "board2|"
 msgid ""
-"The Taj Mahal  is a white marble mausoleum located on the southern bank of "
+"The Taj Mahal is a white marble mausoleum located on the southern bank of "
 "the Yamuna River in the Indian city of Agra. It was commissioned in 1632 by "
 "the Mughal emperor Shah Jahan reigned to house the tomb of his favorite wife "
 "of three, Mumtaz Mahal."
@@ -3092,10 +3155,10 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board2.qml:85
 msgctxt "board2|"
 msgid ""
-"AJANTA is world's greatest historical  monument recognized by UNESCO "
-"located  just 55kms from Jalgaon city and 105kms from  Aurangabad City of "
-"Maharashtra, India. There are  30 caves in Ajanta of which 9, 10, 19, 26 and "
-"29 are chaitya-grihas and the rest are monasteries."
+"Ajanta is world's greatest historical monument recognized by UNESCO located "
+"just 55kms from Jalgaon city and 105kms from Aurangabad City of Maharashtra, "
+"India. There are 30 caves in Ajanta of which 9, 10, 19, 26 and 29 are "
+"chaitya-grihas and the rest are monasteries."
 msgstr ""
 
 #: activities/explore_monuments/resource/board/board2.qml:95
@@ -3200,7 +3263,7 @@ msgstr ""
 
 #: activities/explore_monuments/resource/board/board2.qml:166
 msgctxt "board2|"
-msgid "Click on location where the given Monument is located."
+msgid "Click on location where the given monument is located."
 msgstr ""
 
 #: activities/explore_monuments/resource/board/board3.qml:29
@@ -3370,7 +3433,7 @@ msgstr ""
 
 #: activities/explore_monuments/resource/board/board3.qml:144
 msgctxt "board3|"
-msgid "Click on location where the given Monument is located."
+msgid "Click on location where the given monument is located."
 msgstr ""
 
 #: activities/explore_monuments/resource/board/board4.qml:29
@@ -3433,7 +3496,7 @@ msgctxt "board4|"
 msgid ""
 "The Cathedral of Berlin is the largest church in the city, and it serves as "
 "a vital center for the Protestant church of Germany. Reaching out well "
-"beyond the borders of the parish  and of Berlin, the cathedral attracts "
+"beyond the borders of the parish and of Berlin, the cathedral attracts "
 "thousands of visitors, year after year, from Germany and abroad."
 msgstr ""
 
@@ -3488,7 +3551,7 @@ msgstr ""
 
 #: activities/explore_monuments/resource/board/board4.qml:111
 msgctxt "board4|"
-msgid "Click on location where the given Monument is located."
+msgid "Click on location where the given monument is located."
 msgstr ""
 
 #: activities/explore_monuments/resource/board/board5.qml:29
@@ -3667,7 +3730,7 @@ msgstr ""
 
 #: activities/explore_monuments/resource/board/board5.qml:144
 msgctxt "board5|"
-msgid "Click on location where the given Monument is located."
+msgid "Click on location where the given monument is located."
 msgstr ""
 
 #: activities/explore_monuments/resource/board/board6.qml:28
@@ -4285,12 +4348,12 @@ msgctxt "board10_0|"
 msgid "Oceania"
 msgstr ""
 
-#: activities/geography/resource/board/board10_0.qml:33
+#: activities/geography/resource/board/board10_0.qml:34
 msgctxt "board10_0|"
 msgid "Pitcairn Islands"
 msgstr ""
 
-#: activities/geography/resource/board/board10_0.qml:39
+#: activities/geography/resource/board/board10_0.qml:41
 #, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "French"
@@ -4298,37 +4361,37 @@ msgctxt "board10_0|"
 msgid "French Polynesia"
 msgstr "Fraingis"
 
-#: activities/geography/resource/board/board10_0.qml:45
+#: activities/geography/resource/board/board10_0.qml:48
 msgctxt "board10_0|"
 msgid "Papua New Guinea"
 msgstr ""
 
-#: activities/geography/resource/board/board10_0.qml:51
+#: activities/geography/resource/board/board10_0.qml:55
 msgctxt "board10_0|"
 msgid "East Timor"
 msgstr ""
 
-#: activities/geography/resource/board/board10_0.qml:57
+#: activities/geography/resource/board/board10_0.qml:62
 msgctxt "board10_0|"
 msgid "Indonesia"
 msgstr ""
 
-#: activities/geography/resource/board/board10_0.qml:63
+#: activities/geography/resource/board/board10_0.qml:69
 msgctxt "board10_0|"
 msgid "Palau"
 msgstr ""
 
-#: activities/geography/resource/board/board10_0.qml:69
+#: activities/geography/resource/board/board10_0.qml:76
 msgctxt "board10_0|"
 msgid "Northern Mariana Islands"
 msgstr ""
 
-#: activities/geography/resource/board/board10_0.qml:75
+#: activities/geography/resource/board/board10_0.qml:83
 msgctxt "board10_0|"
 msgid "Micronesia"
 msgstr ""
 
-#: activities/geography/resource/board/board10_0.qml:81
+#: activities/geography/resource/board/board10_0.qml:90
 #, fuzzy
 #| msgctxt "DialogHelp|"
 #| msgid "Manual"
@@ -4336,67 +4399,67 @@ msgctxt "board10_0|"
 msgid "Vanuatu"
 msgstr "Stiùireadh"
 
-#: activities/geography/resource/board/board10_0.qml:87
+#: activities/geography/resource/board/board10_0.qml:97
 msgctxt "board10_0|"
 msgid "Tuvalu"
 msgstr ""
 
-#: activities/geography/resource/board/board10_0.qml:93
+#: activities/geography/resource/board/board10_0.qml:104
 msgctxt "board10_0|"
 msgid "Tonga"
 msgstr ""
 
-#: activities/geography/resource/board/board10_0.qml:99
+#: activities/geography/resource/board/board10_0.qml:111
 msgctxt "board10_0|"
 msgid "New Caledonia"
 msgstr ""
 
-#: activities/geography/resource/board/board10_0.qml:105
+#: activities/geography/resource/board/board10_0.qml:118
 msgctxt "board10_0|"
 msgid "Marshall Islands"
 msgstr ""
 
-#: activities/geography/resource/board/board10_0.qml:111
+#: activities/geography/resource/board/board10_0.qml:125
 msgctxt "board10_0|"
 msgid "Kiribati"
 msgstr ""
 
-#: activities/geography/resource/board/board10_0.qml:117
+#: activities/geography/resource/board/board10_0.qml:132
 msgctxt "board10_0|"
 msgid "Fiji"
 msgstr ""
 
-#: activities/geography/resource/board/board10_0.qml:123
+#: activities/geography/resource/board/board10_0.qml:139
 msgctxt "board10_0|"
 msgid "Solomon Islands"
 msgstr ""
 
-#: activities/geography/resource/board/board10_0.qml:129
+#: activities/geography/resource/board/board10_0.qml:146
 msgctxt "board10_0|"
 msgid "New Zealand"
 msgstr ""
 
-#: activities/geography/resource/board/board10_0.qml:135
+#: activities/geography/resource/board/board10_0.qml:153
 msgctxt "board10_0|"
 msgid "Cook Islands"
 msgstr ""
 
-#: activities/geography/resource/board/board10_0.qml:141
+#: activities/geography/resource/board/board10_0.qml:160
 msgctxt "board10_0|"
 msgid "American Samoa"
 msgstr ""
 
-#: activities/geography/resource/board/board10_0.qml:147
+#: activities/geography/resource/board/board10_0.qml:167
 msgctxt "board10_0|"
 msgid "Australia"
 msgstr ""
 
-#: activities/geography/resource/board/board10_0.qml:153
+#: activities/geography/resource/board/board10_0.qml:174
 msgctxt "board10_0|"
 msgid "United States Minor Outlying Islands"
 msgstr ""
 
-#: activities/geography/resource/board/board10_0.qml:159
+#: activities/geography/resource/board/board10_0.qml:181
 msgctxt "board10_0|"
 msgid "Hawaii"
 msgstr ""
@@ -5224,7 +5287,7 @@ msgctxt "board9_0|"
 msgid "Asia"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:33
+#: activities/geography/resource/board/board9_0.qml:34
 #, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Russian"
@@ -5232,57 +5295,57 @@ msgctxt "board9_0|"
 msgid "Russia"
 msgstr "Ruisis"
 
-#: activities/geography/resource/board/board9_0.qml:39
+#: activities/geography/resource/board/board9_0.qml:41
 msgctxt "board9_0|"
 msgid "Mongolia"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:45
+#: activities/geography/resource/board/board9_0.qml:48
 msgctxt "board9_0|"
 msgid "Japan"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:51
+#: activities/geography/resource/board/board9_0.qml:55
 msgctxt "board9_0|"
 msgid "North Korea"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:57
+#: activities/geography/resource/board/board9_0.qml:62
 msgctxt "board9_0|"
 msgid "South Korea"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:63
+#: activities/geography/resource/board/board9_0.qml:69
 msgctxt "board9_0|"
 msgid "Kazakhstan"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:69
+#: activities/geography/resource/board/board9_0.qml:76
 msgctxt "board9_0|"
 msgid "Uzbekistan"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:75
+#: activities/geography/resource/board/board9_0.qml:83
 msgctxt "board9_0|"
 msgid "Taiwan"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:81
+#: activities/geography/resource/board/board9_0.qml:90
 msgctxt "board9_0|"
 msgid "Vietnam"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:87
+#: activities/geography/resource/board/board9_0.qml:97
 msgctxt "board9_0|"
 msgid "Cambodia"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:93
+#: activities/geography/resource/board/board9_0.qml:104
 msgctxt "board9_0|"
 msgid "Laos"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:99
+#: activities/geography/resource/board/board9_0.qml:111
 #, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Thai"
@@ -5290,133 +5353,133 @@ msgctxt "board9_0|"
 msgid "Thailand"
 msgstr "Cànan nan Tàidh"
 
-#: activities/geography/resource/board/board9_0.qml:105
+#: activities/geography/resource/board/board9_0.qml:118
 msgctxt "board9_0|"
 msgid "Sri Lanka"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:111
+#: activities/geography/resource/board/board9_0.qml:125
 msgctxt "board9_0|"
 msgid "China"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:117
+#: activities/geography/resource/board/board9_0.qml:132
 msgctxt "board9_0|"
 msgid "India"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:123
+#: activities/geography/resource/board/board9_0.qml:139
 msgctxt "board9_0|"
 msgid "Bangladesh"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:129
+#: activities/geography/resource/board/board9_0.qml:146
 msgctxt "board9_0|"
 msgid "Bhutan"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:135
+#: activities/geography/resource/board/board9_0.qml:153
 msgctxt "board9_0|"
 msgid "Nepal"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:141
+#: activities/geography/resource/board/board9_0.qml:160
 msgctxt "board9_0|"
 msgid "Pakistan"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:147
+#: activities/geography/resource/board/board9_0.qml:167
 msgctxt "board9_0|"
 msgid "Myanmar"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:153
+#: activities/geography/resource/board/board9_0.qml:174
 msgctxt "board9_0|"
 msgid "Philippines"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:159
+#: activities/geography/resource/board/board9_0.qml:181
 msgctxt "board9_0|"
 msgid "Indonesia"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:165
+#: activities/geography/resource/board/board9_0.qml:188
 msgctxt "board9_0|"
 msgid "Malaysia"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:171
+#: activities/geography/resource/board/board9_0.qml:195
 msgctxt "board9_0|"
 msgid "Afghanistan"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:177
+#: activities/geography/resource/board/board9_0.qml:202
 msgctxt "board9_0|"
 msgid "Tajikistan"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:183
+#: activities/geography/resource/board/board9_0.qml:209
 msgctxt "board9_0|"
 msgid "Kyrgyzstan"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:189
+#: activities/geography/resource/board/board9_0.qml:216
 msgctxt "board9_0|"
 msgid "Turkmenistan"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:195
+#: activities/geography/resource/board/board9_0.qml:223
 msgctxt "board9_0|"
 msgid "Iran"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:201
+#: activities/geography/resource/board/board9_0.qml:230
 msgctxt "board9_0|"
 msgid "Azerbaijan"
 msgstr ""
 
 #. Translators: Strip Asia| and translate only Georgia
-#: activities/geography/resource/board/board9_0.qml:208
+#: activities/geography/resource/board/board9_0.qml:238
 msgctxt "board9_0|"
 msgid "Asia|Georgia"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:214
+#: activities/geography/resource/board/board9_0.qml:245
 msgctxt "board9_0|"
 msgid "Turkey"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:220
+#: activities/geography/resource/board/board9_0.qml:252
 msgctxt "board9_0|"
 msgid "Syria"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:226
+#: activities/geography/resource/board/board9_0.qml:259
 msgctxt "board9_0|"
 msgid "Iraq"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:232
+#: activities/geography/resource/board/board9_0.qml:266
 msgctxt "board9_0|"
 msgid "Jordan"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:238
+#: activities/geography/resource/board/board9_0.qml:273
 msgctxt "board9_0|"
 msgid "Saudi Arabia"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:244
+#: activities/geography/resource/board/board9_0.qml:280
 msgctxt "board9_0|"
 msgid "Yemen"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:250
+#: activities/geography/resource/board/board9_0.qml:287
 msgctxt "board9_0|"
 msgid "United Arab Emirates"
 msgstr ""
 
-#: activities/geography/resource/board/board9_0.qml:256
+#: activities/geography/resource/board/board9_0.qml:294
 msgctxt "board9_0|"
 msgid "Oman"
 msgstr ""
@@ -5437,9 +5500,14 @@ msgctxt "ActivityInfo|"
 msgid "Letter association between the screen and the keyboard"
 msgstr "Co-cheangladh nan litrichean eadar an sgrìn is am meur-chlàr"
 
-#: activities/gletters/Gletters.qml:147
+#: activities/gletters/Gletters.qml:149
 msgctxt "Gletters|"
 msgid "Select your locale"
+msgstr ""
+
+#: activities/gletters/Gletters.qml:155
+msgctxt "Gletters|"
+msgid "Uppercase only mode"
 msgstr ""
 
 #: activities/gnumch-equality/ActivityInfo.qml:26
@@ -5825,17 +5893,22 @@ msgid ""
 "the real keyboard."
 msgstr ""
 
-#: activities/hangman/Hangman.qml:235
+#: activities/hangman/Hangman.qml:236
 msgctxt "Hangman|"
 msgid "Select your locale"
 msgstr ""
 
-#: activities/hangman/Hangman.qml:396
+#: activities/hangman/Hangman.qml:242
+msgctxt "Hangman|"
+msgid "Display image to find as hint"
+msgstr ""
+
+#: activities/hangman/Hangman.qml:408
 msgctxt "Hangman|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 
-#: activities/hangman/Hangman.qml:397
+#: activities/hangman/Hangman.qml:409
 #, qt-format
 msgctxt "Hangman|"
 msgid ""
@@ -5843,7 +5916,7 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 
-#: activities/hangman/Hangman.qml:399
+#: activities/hangman/Hangman.qml:411
 msgctxt "Hangman|"
 msgid ""
 "We switched to English for this activity but you can select another language "
@@ -6614,12 +6687,12 @@ msgid ""
 "activity/lang."
 msgstr ""
 
-#: activities/lang/Lang.qml:145
+#: activities/lang/Lang.qml:143
 msgctxt "Lang|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 
-#: activities/lang/Lang.qml:146
+#: activities/lang/Lang.qml:144
 #, qt-format
 msgctxt "Lang|"
 msgid ""
@@ -6627,24 +6700,24 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 
-#: activities/lang/Lang.qml:148
+#: activities/lang/Lang.qml:146
 msgctxt "Lang|"
 msgid ""
 "We switched to English for this activity but you can select another language "
 "in the configuration dialog."
 msgstr ""
 
-#: activities/lang/Lang.qml:183
+#: activities/lang/Lang.qml:181
 msgctxt "Lang|"
 msgid "Select your locale"
 msgstr ""
 
-#: activities/lang/Lang.qml:242 activities/lang/Lang.qml:243
+#: activities/lang/Lang.qml:240 activities/lang/Lang.qml:241
 msgctxt "Lang|"
 msgid "other"
 msgstr ""
 
-#: activities/lang/Lang.qml:244
+#: activities/lang/Lang.qml:242
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Addition"
@@ -6652,12 +6725,12 @@ msgctxt "Lang|"
 msgid "action"
 msgstr "Cur ris"
 
-#: activities/lang/Lang.qml:244
+#: activities/lang/Lang.qml:242
 msgctxt "Lang|"
 msgid "adjective"
 msgstr ""
 
-#: activities/lang/Lang.qml:245
+#: activities/lang/Lang.qml:243
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Colors"
@@ -6665,72 +6738,72 @@ msgctxt "Lang|"
 msgid "color"
 msgstr "Dathan"
 
-#: activities/lang/Lang.qml:245
+#: activities/lang/Lang.qml:243
 msgctxt "Lang|"
 msgid "number"
 msgstr ""
 
-#: activities/lang/Lang.qml:246
+#: activities/lang/Lang.qml:244
 msgctxt "Lang|"
 msgid "people"
 msgstr ""
 
-#: activities/lang/Lang.qml:246
+#: activities/lang/Lang.qml:244
 msgctxt "Lang|"
 msgid "bodyparts"
 msgstr ""
 
-#: activities/lang/Lang.qml:247
+#: activities/lang/Lang.qml:245
 msgctxt "Lang|"
 msgid "clothes"
 msgstr ""
 
-#: activities/lang/Lang.qml:247
+#: activities/lang/Lang.qml:245
 msgctxt "Lang|"
 msgid "emotion"
 msgstr ""
 
-#: activities/lang/Lang.qml:248
+#: activities/lang/Lang.qml:246
 msgctxt "Lang|"
 msgid "job"
 msgstr ""
 
-#: activities/lang/Lang.qml:248
+#: activities/lang/Lang.qml:246
 msgctxt "Lang|"
 msgid "sport"
 msgstr ""
 
-#: activities/lang/Lang.qml:249
+#: activities/lang/Lang.qml:247
 msgctxt "Lang|"
 msgid "nature"
 msgstr ""
 
-#: activities/lang/Lang.qml:249
+#: activities/lang/Lang.qml:247
 msgctxt "Lang|"
 msgid "animal"
 msgstr ""
 
-#: activities/lang/Lang.qml:250
+#: activities/lang/Lang.qml:248
 msgctxt "Lang|"
 msgid "fruit"
 msgstr ""
 
-#: activities/lang/Lang.qml:250
+#: activities/lang/Lang.qml:248
 msgctxt "Lang|"
 msgid "plant"
 msgstr ""
 
-#: activities/lang/Lang.qml:251
+#: activities/lang/Lang.qml:249
 msgctxt "Lang|"
 msgid "vegetables"
 msgstr ""
 
-#: activities/lang/Lang.qml:251
+#: activities/lang/Lang.qml:249
 msgctxt "Lang|"
 msgid "object"
 msgstr ""
 
-#: activities/lang/Lang.qml:252
+#: activities/lang/Lang.qml:250
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Simple subtraction"
@@ -6738,22 +6811,22 @@ msgctxt "Lang|"
 msgid "construction"
 msgstr "Toirt air falbh simplidh"
 
-#: activities/lang/Lang.qml:253
+#: activities/lang/Lang.qml:251
 msgctxt "Lang|"
 msgid "furniture"
 msgstr ""
 
-#: activities/lang/Lang.qml:253
+#: activities/lang/Lang.qml:251
 msgctxt "Lang|"
 msgid "houseware"
 msgstr ""
 
-#: activities/lang/Lang.qml:254
+#: activities/lang/Lang.qml:252
 msgctxt "Lang|"
 msgid "tool"
 msgstr ""
 
-#: activities/lang/Lang.qml:254
+#: activities/lang/Lang.qml:252
 msgctxt "Lang|"
 msgid "food"
 msgstr ""
@@ -6795,6 +6868,66 @@ msgstr "An làmh chlì"
 msgctxt "Leftright|"
 msgid "Right hand"
 msgstr "An làmh dheas"
+
+#: activities/letter-in-word/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "Letter in which word"
+msgstr ""
+
+#: activities/letter-in-word/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid ""
+"A letter is written and/or spoken. Some words are displayed, the children "
+"must find the word or the words in which this letter appears."
+msgstr ""
+
+#: activities/letter-in-word/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid "Select all the words which contain the spoken letter."
+msgstr ""
+
+#: activities/letter-in-word/ActivityInfo.qml:30
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Visual letter-recognition. Can move the mouse."
+msgctxt "ActivityInfo|"
+msgid "spellings, letter recognition"
+msgstr ""
+"Aithnichidh tu na litrichean a chì thu. Tha thu comasach air an luchag a "
+"ghluasad.\n"
+"\n"
+"Mar a gheibh thu na stràcan:\n"
+"1) Air Windows, feumaidh tu an iuchair ` (ri taobh 1) a bhrùthadh agus an "
+"uair sin litir eile.\n"
+"2) Air Mac, feumaidh tu ALT agus ` is an uair sin litir eile a bhrùthadh.\n"
+"\n"
+"Mur obraich sin, tadhail air www.iGaidhlig.net airson barrachd fiosrachaidh "
+"’s taic."
+
+#: activities/letter-in-word/LetterInWord.qml:119
+msgctxt "LetterInWord|"
+msgid "Select your locale"
+msgstr ""
+
+#: activities/letter-in-word/LetterInWord.qml:338
+msgctxt "LetterInWord|"
+msgid "We are sorry, we don't have yet a translation for your language."
+msgstr ""
+
+#: activities/letter-in-word/LetterInWord.qml:339
+#, qt-format
+msgctxt "LetterInWord|"
+msgid ""
+"GCompris is developed by the KDE community, you can translate GCompris by "
+"joining a translation team on <a href=\"%2\">%2</a>"
+msgstr ""
+
+#: activities/letter-in-word/LetterInWord.qml:341
+msgctxt "LetterInWord|"
+msgid ""
+"We switched to English for this activity but you can select another language "
+"in the configuration dialog."
+msgstr ""
 
 #: activities/lightsoff/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -6855,7 +6988,7 @@ msgstr ""
 
 #: activities/louis-braille/louis_braille_data.js:23
 msgctxt "louis_braille_data|"
-msgid "Born on January 4th 1809 in Coupvary near Paris in France."
+msgid "Born on January 4th 1809 in Coupvray near Paris in France."
 msgstr ""
 
 #: activities/louis-braille/louis_braille_data.js:28
@@ -8014,7 +8147,7 @@ msgstr ""
 
 #: activities/menu/ConfigurationItem.qml:169
 msgctxt "ConfigurationItem|"
-msgid "You code is valid, thanks a lot for your support"
+msgid "Your code is valid, thanks a lot for your support"
 msgstr ""
 
 #: activities/menu/ConfigurationItem.qml:189
@@ -8055,99 +8188,116 @@ msgctxt "ConfigurationItem|"
 msgid "Use external large word image set"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:261
+#: activities/menu/ConfigurationItem.qml:262
 msgctxt "ConfigurationItem|"
 msgid "The activity section menu is visible"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:274
+#: activities/menu/ConfigurationItem.qml:275
 msgctxt "ConfigurationItem|"
 msgid "Font selector"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:294
+#: activities/menu/ConfigurationItem.qml:295
 msgctxt "ConfigurationItem|"
 msgid "Font size"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:300
-#: activities/menu/ConfigurationItem.qml:338
+#: activities/menu/ConfigurationItem.qml:301
+#: activities/menu/ConfigurationItem.qml:339
 msgctxt "ConfigurationItem|"
 msgid "Default"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:312
+#: activities/menu/ConfigurationItem.qml:313
 msgctxt "ConfigurationItem|"
 msgid "Font Capitalization"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:332
+#: activities/menu/ConfigurationItem.qml:333
 msgctxt "ConfigurationItem|"
 msgid "Font letter spacing"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:351
+#: activities/menu/ConfigurationItem.qml:352
 msgctxt "ConfigurationItem|"
 msgid "Language selector"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:378
+#: activities/menu/ConfigurationItem.qml:379
 msgctxt "ConfigurationItem|"
 msgid "Localized voices"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:394
+#: activities/menu/ConfigurationItem.qml:395
 msgctxt "ConfigurationItem|"
 msgid "Check for updates"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:395
+#: activities/menu/ConfigurationItem.qml:396
 msgctxt "ConfigurationItem|"
 msgid "Download"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:413
+#: activities/menu/ConfigurationItem.qml:414
 msgctxt "ConfigurationItem|"
 msgid "Difficulty filter:"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:614
+#: activities/menu/ConfigurationItem.qml:616
 msgctxt "ConfigurationItem|"
 msgid ""
 "You selected a new locale. You need to restart GCompris to play in your new "
 "locale.<br/>Do you want to download the corresponding sound files now?"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:615
+#: activities/menu/ConfigurationItem.qml:617
+#: activities/menu/ConfigurationItem.qml:654
 msgctxt "ConfigurationItem|"
 msgid "Yes"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:621
+#: activities/menu/ConfigurationItem.qml:623
+#: activities/menu/ConfigurationItem.qml:659
 msgctxt "ConfigurationItem|"
 msgid "No"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:674
+#: activities/menu/ConfigurationItem.qml:652
+msgctxt "ConfigurationItem|"
+msgid "The images for several activities are not yet installed. "
+msgstr ""
+
+#: activities/menu/ConfigurationItem.qml:653
+msgctxt "ConfigurationItem|"
+msgid "Do you want to download them now?"
+msgstr ""
+
+#: activities/menu/ConfigurationItem.qml:709
 msgctxt "ConfigurationItem|"
 msgid "Mixed case (default)"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:675
+#: activities/menu/ConfigurationItem.qml:710
 msgctxt "ConfigurationItem|"
 msgid "All uppercase"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:676
+#: activities/menu/ConfigurationItem.qml:711
 msgctxt "ConfigurationItem|"
 msgid "All lowercase"
 msgstr ""
 
-#: activities/menu/Menu.qml:284
+#: activities/menu/Menu.qml:324
 msgctxt "Menu|"
 msgid ""
-"Put your favorite activities here by selecting the sun on each activity top "
-"right."
+"Put your favorite activities here by selecting the sun at the top right of "
+"that activity."
+msgstr ""
+
+#: activities/menu/Menu.qml:590
+msgctxt "Menu|"
+msgid "Search specific activities"
 msgstr ""
 
 #: activities/mining/ActivityInfo.qml:26
@@ -8279,17 +8429,17 @@ msgstr ""
 "Chì thu nì air a’ phrìomh raon is facal neo-choileanta fon dealbh. Tagh an "
 "litir a tha a dhìth gus am facal a dhèanamh coileanta."
 
-#: activities/missing-letter/MissingLetter.qml:270
+#: activities/missing-letter/MissingLetter.qml:269
 msgctxt "MissingLetter|"
 msgid "Select your locale"
 msgstr ""
 
-#: activities/missing-letter/MissingLetter.qml:352
+#: activities/missing-letter/MissingLetter.qml:351
 msgctxt "MissingLetter|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 
-#: activities/missing-letter/MissingLetter.qml:353
+#: activities/missing-letter/MissingLetter.qml:352
 #, qt-format
 msgctxt "MissingLetter|"
 msgid ""
@@ -8297,7 +8447,7 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 
-#: activities/missing-letter/MissingLetter.qml:355
+#: activities/missing-letter/MissingLetter.qml:354
 msgctxt "MissingLetter|"
 msgid ""
 "We switched to English for this activity but you can select another language "
@@ -8438,6 +8588,162 @@ msgstr ""
 msgctxt "ActivityInfo|"
 msgid ""
 "First select the item you want to put then click on a spot on the empty area"
+msgstr ""
+
+#: activities/nine_men_morris/ActivityInfo.qml:26
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Addition memory game against Tux"
+msgctxt "ActivityInfo|"
+msgid "Nine men's morris (against Tux)"
+msgstr "Geama cuimhne cuir ris an aghaidh Tux"
+
+#: activities/nine_men_morris/ActivityInfo.qml:27
+#: activities/nine_men_morris_2players/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid ""
+"Reduce the opponent to two pieces, or by leaving him without a legal move."
+msgstr ""
+
+#: activities/nine_men_morris/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid ""
+"Form mills (line of 3 pieces) to remove pieces of Tux until Tux has only two "
+"pieces, or doesn't have a legal move"
+msgstr ""
+
+#: activities/nine_men_morris/ActivityInfo.qml:31
+msgctxt "ActivityInfo|"
+msgid ""
+"Play with the computer. First take turns to place nine pieces, and then take "
+"turns to move pieces"
+msgstr ""
+
+#: activities/nine_men_morris/nine_men_morris.js:255
+#: activities/nine_men_morris/nine_men_morris.js:1132
+msgctxt "nine_men_morris|"
+msgid "Place a piece"
+msgstr ""
+
+#: activities/nine_men_morris/nine_men_morris.js:294
+msgctxt "nine_men_morris|"
+msgid ""
+"You and Tux start with 9 pieces each, and take turns to place your pieces on "
+"to the empty spots (by clicking on the spots) on the board."
+msgstr ""
+
+#: activities/nine_men_morris/nine_men_morris.js:298
+msgctxt "nine_men_morris|"
+msgid ""
+"If you form a mill (line of 3 pieces), then select a piece of Tux, and "
+"remove it. Pieces of formed mill can not be removed unless no other pieces "
+"are left on board."
+msgstr ""
+
+#: activities/nine_men_morris/nine_men_morris.js:302
+msgctxt "nine_men_morris|"
+msgid ""
+"After all the pieces are placed, you and Tux will take turns to move them. "
+"Click on one of your pieces, and then on the adjacent empty spot to move it "
+"there. Green color spot indicates where you can move."
+msgstr ""
+
+#: activities/nine_men_morris/nine_men_morris.js:307
+msgctxt "nine_men_morris|"
+msgid ""
+"If you are left with 3 pieces, your pieces will gain the ability to 'fly' "
+"and can be moved to any vacant spot on the board."
+msgstr ""
+
+#: activities/nine_men_morris/nine_men_morris.js:311
+msgctxt "nine_men_morris|"
+msgid ""
+"If you immobilize the computer or leave it with less than 3 pieces, then you "
+"win the game."
+msgstr ""
+
+#: activities/nine_men_morris/nine_men_morris.js:435
+#: activities/nine_men_morris/nine_men_morris.js:1191
+msgctxt "nine_men_morris|"
+msgid "Move a piece"
+msgstr ""
+
+#: activities/nine_men_morris/nine_men_morris.js:964
+msgctxt "nine_men_morris|"
+msgid "Remove a piece"
+msgstr ""
+
+#: activities/nine_men_morris/nine_men_morris.js:1166
+msgctxt "nine_men_morris|"
+msgid "Congratulations"
+msgstr ""
+
+#: activities/nine_men_morris/nine_men_morris.js:1169
+msgctxt "nine_men_morris|"
+msgid "Congratulations Player 1"
+msgstr ""
+
+#: activities/nine_men_morris/nine_men_morris.js:1181
+msgctxt "nine_men_morris|"
+msgid "Congratulations Player 2"
+msgstr ""
+
+#: activities/nine_men_morris/nine_men_morris.js:1185
+msgctxt "nine_men_morris|"
+msgid "Try again"
+msgstr ""
+
+#: activities/nine_men_morris/NineMenMorris.qml:613
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Simple subtraction"
+msgctxt "NineMenMorris|"
+msgid "Skip tutorial"
+msgstr "Toirt air falbh simplidh"
+
+#: activities/nine_men_morris_2players/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "Nine men's morris (with a friend)"
+msgstr ""
+
+#: activities/nine_men_morris_2players/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid ""
+"Form mills (line of 3 pieces) to remove pieces of opponent until opponent "
+"has only two pieces, or doesn't have a legal move"
+msgstr ""
+
+#: activities/nine_men_morris_2players/ActivityInfo.qml:31
+msgctxt "ActivityInfo|"
+msgid ""
+"Play with a friend. First take turns to place nine pieces, and then take "
+"turns to move pieces"
+msgstr ""
+
+#: activities/number_sequence/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "Number sequence"
+msgstr ""
+
+#: activities/number_sequence/ActivityInfo.qml:27
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "ActivityInfo|"
+msgid "Touch the numbers in the right sequence."
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/number_sequence/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid "Can count from 1 to 50."
+msgstr "Tha cunntadh o 1 gu 50 agad."
+
+#: activities/number_sequence/ActivityInfo.qml:31
+msgctxt "ActivityInfo|"
+msgid ""
+"Draw the picture by touching each number in the right sequence, or sliding "
+"your finger or dragging the mouse through the numbers in the correct "
+"sequence."
 msgstr ""
 
 #: activities/numbers-odd-even/ActivityInfo.qml:26
@@ -8672,7 +8978,12 @@ msgid ""
 "you find a difference you must click on it."
 msgstr ""
 
-#: activities/photo_hunter/PhotoHunter.qml:103
+#: activities/photo_hunter/PhotoHunter.qml:107
+msgctxt "PhotoHunter|"
+msgid "Drag the slider to show the differences!"
+msgstr ""
+
+#: activities/photo_hunter/PhotoHunter.qml:108
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Click on the word corresponding to the printed image."
@@ -8834,21 +9145,21 @@ msgctxt "ActivityInfo|"
 msgid "Drawing by Stephane Cabaraux"
 msgstr "Tarraing le Stephane Cabaraux."
 
-#: activities/renewable_energy/RenewableEnergy.qml:157
+#: activities/renewable_energy/RenewableEnergy.qml:162
 msgctxt "RenewableEnergy|"
 msgid ""
 "Tux has come back from fishing on his boat. Bring the electrical system back "
 "up so he can have light in his home."
 msgstr ""
 
-#: activities/renewable_energy/RenewableEnergy.qml:159
+#: activities/renewable_energy/RenewableEnergy.qml:164
 msgctxt "RenewableEnergy|"
 msgid ""
 "Click on different active elements : sun, cloud, dam, solar array, wind farm "
 "and transformers, in order to reactivate the entire electrical system."
 msgstr ""
 
-#: activities/renewable_energy/RenewableEnergy.qml:161
+#: activities/renewable_energy/RenewableEnergy.qml:166
 msgctxt "RenewableEnergy|"
 msgid ""
 "When the system is back up and Tux is in his home, push the light button for "
@@ -8856,12 +9167,12 @@ msgid ""
 "up."
 msgstr ""
 
-#: activities/renewable_energy/RenewableEnergy.qml:163
+#: activities/renewable_energy/RenewableEnergy.qml:168
 msgctxt "RenewableEnergy|"
 msgid "Learn about an electrical system based on renewable energy. Enjoy."
 msgstr ""
 
-#: activities/renewable_energy/RenewableEnergy.qml:186
+#: activities/renewable_energy/RenewableEnergy.qml:191
 msgctxt "RenewableEnergy|"
 msgid ""
 "It is not possible to consume more electricity than what is produced. This "
@@ -8910,6 +9221,104 @@ msgstr ""
 "Briog air an dìsinn gus sealltainn co mheud clàr-deighe a tha eadar Tux is "
 "an iasg. Briog air an dìsinn leis a’ phutan deas gus cunntadh sìos. Nuair a "
 "bhios tu deiseil, briog air a’ phutan “OK” no brùth air an iuchair “Enter”."
+
+#: activities/roman_numerals/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "Roman numerals"
+msgstr ""
+
+#: activities/roman_numerals/ActivityInfo.qml:31
+msgctxt "ActivityInfo|"
+msgid ""
+"A Roman numeral is the name for a number when it is written in the way the "
+"Romans used to write numbers. Roman numerals are not used very often today "
+"in the west. They are used to write the names of kings and queens, or popes. "
+"For example: Queen Elizabeth II. They may be used to write the year a book "
+"or movie was made."
+msgstr ""
+
+#: activities/roman_numerals/RomanNumerals.qml:69
+#: activities/roman_numerals/RomanNumerals.qml:75
+msgctxt "RomanNumerals|"
+msgid ""
+"Roman numerals, are based on seven symbols: I = 1, V = 5, X = 10, L = 50, C "
+"= 100, D = 500, M = 1000."
+msgstr ""
+
+#: activities/roman_numerals/RomanNumerals.qml:70
+#: activities/roman_numerals/RomanNumerals.qml:82
+#: activities/roman_numerals/RomanNumerals.qml:94
+#: activities/roman_numerals/RomanNumerals.qml:106
+#: activities/roman_numerals/RomanNumerals.qml:118
+#, qt-format
+msgctxt "RomanNumerals|"
+msgid "Convert the roman number %1 in arabic."
+msgstr ""
+
+#: activities/roman_numerals/RomanNumerals.qml:76
+#: activities/roman_numerals/RomanNumerals.qml:88
+#: activities/roman_numerals/RomanNumerals.qml:100
+#: activities/roman_numerals/RomanNumerals.qml:112
+#: activities/roman_numerals/RomanNumerals.qml:124
+#: activities/roman_numerals/RomanNumerals.qml:130
+#: activities/roman_numerals/RomanNumerals.qml:136
+#: activities/roman_numerals/RomanNumerals.qml:142
+#: activities/roman_numerals/RomanNumerals.qml:148
+#, qt-format
+msgctxt "RomanNumerals|"
+msgid "Convert the arabic number %1 in roman."
+msgstr ""
+
+#: activities/roman_numerals/RomanNumerals.qml:81
+#: activities/roman_numerals/RomanNumerals.qml:87
+msgctxt "RomanNumerals|"
+msgid "Several symbols create a larger number like II = 2, XX = 20, XI = 11."
+msgstr ""
+
+#: activities/roman_numerals/RomanNumerals.qml:93
+#: activities/roman_numerals/RomanNumerals.qml:99
+msgctxt "RomanNumerals|"
+msgid ""
+"If a lower value symbol is before a higher value one, it is subtracted. "
+"Otherwise it is added. So 'IV' is '4', 'VI' is '6', 'IX' is 9."
+msgstr ""
+
+#: activities/roman_numerals/RomanNumerals.qml:105
+#: activities/roman_numerals/RomanNumerals.qml:111
+msgctxt "RomanNumerals|"
+msgid ""
+"Only one number is subtracted, not two. So 8 is always VIII and never IIX."
+msgstr ""
+
+#: activities/roman_numerals/RomanNumerals.qml:117
+#: activities/roman_numerals/RomanNumerals.qml:123
+msgctxt "RomanNumerals|"
+msgid ""
+"Proper form is to subtract only a value with the next lower power of 10. "
+"Thus, 900 is written CM, but 990 would not be XM - properly, it is CM for "
+"the 900 portion and XC for the 90 portion, or CMXC. Similarly, 999 would not "
+"be IM but rather CMXCIX - CM for the 900 portion, XC for the 90 portion, and "
+"IX for the 9 portion. Only values starting in 1's are ever used to subtract; "
+"45 is properly XLV, not VL."
+msgstr ""
+
+#: activities/roman_numerals/RomanNumerals.qml:129
+msgctxt "RomanNumerals|"
+msgid ""
+"Now you know the rules, you can read and write any numbers in roman numerals."
+msgstr ""
+
+#: activities/roman_numerals/RomanNumerals.qml:352
+#, qt-format
+msgctxt "RomanNumerals|"
+msgid "Roman value: %1"
+msgstr ""
+
+#: activities/roman_numerals/RomanNumerals.qml:353
+#, qt-format
+msgctxt "RomanNumerals|"
+msgid "Arabic value: %1"
+msgstr ""
 
 #: activities/scalesboard/ActivityInfo.qml:26
 #: activities/scalesboard_weight/ActivityInfo.qml:26
@@ -9131,6 +9540,252 @@ msgctxt "ScalesboardWeight|"
 msgid "Enter the weight of the gift in ounce: %1"
 msgstr ""
 
+#: activities/share/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "Share the candies"
+msgstr ""
+
+#: activities/share/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid "Try to split the candies to a given number of children"
+msgstr ""
+
+#: activities/share/ActivityInfo.qml:29
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Subtraction memory game"
+msgctxt "ActivityInfo|"
+msgid "Learn the division of numbers"
+msgstr "Geama cuimhne toirt air falbh"
+
+#: activities/share/ActivityInfo.qml:30
+msgctxt "ActivityInfo|"
+msgid "Know how to count"
+msgstr ""
+
+#: activities/share/ActivityInfo.qml:31
+msgctxt "ActivityInfo|"
+msgid ""
+"Follow the instructions shown on the screen: first, drag the given number of "
+"boys/girls to the middle, then drag candies to each child's rectangle."
+msgstr ""
+
+#: activities/share/resource/board/board0.qml:28
+msgctxt "board0|"
+msgid ""
+"Paul wants to equally share 2 candies between 2 of his friends: one girl and "
+"one boy. Can you help him? First, place the children in center, then drag "
+"the candies to each of them."
+msgstr ""
+
+#: activities/share/resource/board/board0.qml:38
+msgctxt "board0|"
+msgid "Now he wants to give 4 candies to his friends."
+msgstr ""
+
+#: activities/share/resource/board/board0.qml:48
+msgctxt "board0|"
+msgid "Can you now give 6 of Paul's candies to his friends?"
+msgstr ""
+
+#: activities/share/resource/board/board0.qml:59
+msgctxt "board0|"
+msgid ""
+"Paul has only 10 candies left. He eats 2 candies and he gives the rest to "
+"his friends. Can you help him equally split the 8 remaining candies?"
+msgstr ""
+
+#: activities/share/resource/board/board1.qml:28
+msgctxt "board1|"
+msgid ""
+"George wants to equally share 3 candies between 2 of his friends: one girl "
+"and one boy. Can he equally split the candies between his friends? First, "
+"place the children in center, then drag the candies to each of them. Be "
+"careful, a rest will remain!"
+msgstr ""
+
+#: activities/share/resource/board/board1.qml:38
+msgctxt "board1|"
+msgid ""
+"Maria wants to equally share 5 candies between 3 of her friends: one girl "
+"and two boys. Can she equally split the candies between her friends? First, "
+"place the children in center, then drag the candies to each of them. Be "
+"careful, a rest will remain!"
+msgstr ""
+
+#: activities/share/resource/board/board1.qml:48
+msgctxt "board1|"
+msgid ""
+"John wants to equally share 10 candies between 3 of his friends: one boy and "
+"two girls. Can he equally split the candies between his friends? First, "
+"place the children in center, then drag the candies to each of them."
+msgstr ""
+
+#: activities/share/resource/board/board2.qml:28
+msgctxt "board2|"
+msgid ""
+"Alice wants to equally share 3 candies between 3 of her friends: one girl "
+"and two boys. Can you help her? First, place the children in the center, "
+"then drag the candies to each of them."
+msgstr ""
+
+#: activities/share/resource/board/board2.qml:38
+msgctxt "board2|"
+msgid "Now, Alice wants to give 6 candies to her friends"
+msgstr ""
+
+#: activities/share/resource/board/board2.qml:48
+msgctxt "board2|"
+msgid ""
+"Can you help Alice give 9 candies to her friends: one girl and two boys?"
+msgstr ""
+
+#: activities/share/resource/board/board2.qml:58
+msgctxt "board2|"
+msgid ""
+"Alice has 12 candies left. She wants to give them all to her friends. Can "
+"you help her split the candies equally?"
+msgstr ""
+
+#: activities/share/resource/board/board3.qml:28
+msgctxt "board3|"
+msgid ""
+"Michael wants to equally share 5 candies between 2 of his friends: one girl "
+"and one boy. Can you help him? First, place the children in center, then "
+"drag the candies to each of them!"
+msgstr ""
+
+#: activities/share/resource/board/board3.qml:38
+msgctxt "board3|"
+msgid ""
+"Helen has 3 friends: one boy and two girls. She wants to give them 7 "
+"candies. Help her split the candies between her friends!"
+msgstr ""
+
+#: activities/share/resource/board/board3.qml:48
+msgctxt "board3|"
+msgid ""
+"Michelle has 9 candies and wants to split them with two brothers and two "
+"sisters. Help her share the candies!"
+msgstr ""
+
+#: activities/share/resource/board/board3.qml:58
+msgctxt "board3|"
+msgid ""
+"Thomas wants to share his 11 candies with his friends: three boys and one "
+"girl. Can you help him?"
+msgstr ""
+
+#: activities/share/resource/board/board4.qml:28
+msgctxt "board4|"
+msgid ""
+"Charles wants to share his 8 candies with 3 of his friends: one boy and two "
+"girls. Can he split the candies equally?"
+msgstr ""
+
+#: activities/share/resource/board/board4.qml:38
+msgctxt "board4|"
+msgid ""
+"For her birthday, Elizabeth has 12 candies to share with 4 of her friends: "
+"two girls and two boys. How should she split the candies to her friends?"
+msgstr ""
+
+#: activities/share/resource/board/board4.qml:48
+msgctxt "board4|"
+msgid ""
+"Jason's father gave him 14 candies to share with his friends: two boys and "
+"three girls. Help him give the candies to his friends!"
+msgstr ""
+
+#: activities/share/resource/board/board5.qml:29
+msgctxt "board5|"
+msgid ""
+"Bob wants to give 5 candies to his friends: two boys and one girl, his "
+"girlfriend already has one candy. Can you help him equally split the candies "
+"so that each friend will have the same amount of candies?"
+msgstr ""
+
+#: activities/share/resource/board/board5.qml:39
+msgctxt "board5|"
+msgid ""
+"Harry wants to equally share 8 candies between his friends: one boy and two "
+"girls. Place the children in center, then drag the candies to each of them "
+"so that each of them has an equal number of candies."
+msgstr ""
+
+#: activities/share/resource/board/board5.qml:49
+msgctxt "board5|"
+msgid "Can you now give 6 of Harry's candies to his friends?"
+msgstr ""
+
+#: activities/share/resource/board/board6.qml:29
+msgctxt "board6|"
+msgid ""
+"Help Jon split 9 candies between three boys and two girls. The rest will "
+"remain to Jon."
+msgstr ""
+
+#: activities/share/resource/board/board6.qml:39
+msgctxt "board6|"
+msgid ""
+"Jon wants to share the rest of his candies with his brother and his sister. "
+"Can you split them equally, knowing that his brother already has two candies?"
+msgstr ""
+
+#: activities/share/resource/board/board6.qml:49
+msgctxt "board6|"
+msgid ""
+"Help Tux split some candies to his friends: 9 candies to one boy and two "
+"girls."
+msgstr ""
+
+#: activities/share/share.js:95
+#, qt-format
+msgctxt ""
+"share|First part of Place %n boy(s) and %n girl(s) in the center. Then "
+"equally split %n candies between them."
+msgid "Place %n boy(s) "
+msgid_plural "Place %n boy(s) "
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: activities/share/share.js:99
+#, qt-format
+msgctxt ""
+"share|Second part of Place %n boy(s) and %n girl(s) in the center. Then "
+"equally split %n candies between them."
+msgid "and %n girl(s) in the center. "
+msgid_plural "and %n girl(s) in the center. "
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: activities/share/share.js:103
+#, qt-format
+msgctxt ""
+"share|Third part of Place %n boy(s) and %n girl(s) in the center. Then "
+"equally split %n candies between them."
+msgid "Then equally split %n candies between them."
+msgid_plural "Then equally split %n candies between them."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: activities/share/Share.qml:346
+#, qt-format
+msgctxt "Share|"
+msgid "You can't put more than %1 candies in the same widget"
+msgstr ""
+
+#: activities/share/Share.qml:365
+msgctxt "Share|"
+msgid "Display candy counter"
+msgstr ""
+
 #: activities/simplepaint/ActivityInfo.qml:26
 #, fuzzy
 #| msgctxt "ActivityInfo|"
@@ -9348,16 +10003,17 @@ msgid ""
 "boards of cunning') is a Chinese puzzle. While the tangram is often said to "
 "be ancient, its existence has only been verified as far back as 1800. It "
 "consists of 7 pieces, called tans, which fit together to form a square; "
-"taking the square as the unit:\n"
-"    5 right isosceles triangles\n"
-"    2 small (legs of 1)\n"
-"    1 medium size (legs of square root of 2)\n"
-"    2 large size (legs of 2)\n"
-"    1 square (side of 1)\n"
-"    1 parallelogram (sides of 1 and square root of 2)"
+"Using the square side as 1 unit, the 7 pieces contains:\n"
+"    5 right isosceles triangles, including:\n"
+"        - 2 small size ones (legs of 1)\n"
+"        - 1 medium size (legs of square root of 2)\n"
+"        - 2 large size (legs of 2)\n"
+"    1 square (side of 1) and\n"
+"    1 parallelogram (sides of 1 and square root of 2)\n"
+"    "
 msgstr ""
 
-#: activities/tangram/ActivityInfo.qml:36
+#: activities/tangram/ActivityInfo.qml:37
 msgctxt "ActivityInfo|"
 msgid ""
 "Select the tangram to form. Move a piece by dragging it. The symmetrical "
@@ -9366,7 +10022,7 @@ msgid ""
 "objects are used to introduce the tangram concept."
 msgstr ""
 
-#: activities/tangram/ActivityInfo.qml:37
+#: activities/tangram/ActivityInfo.qml:38
 msgctxt "ActivityInfo|"
 msgid ""
 "The original code was written by Philippe Banwarth in 1999. It was ported to "
@@ -9536,26 +10192,26 @@ msgid ""
 "him."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:58
+#: activities/watercycle/Watercycle.qml:65
 msgctxt "Watercycle|"
 msgid ""
 "Sun is the main component of water cycle. Click on the sun to start the "
 "water cycle."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:59
+#: activities/watercycle/Watercycle.qml:66
 msgctxt "Watercycle|"
 msgid "As the sun rises, the water of the sea starts heating and evaporates."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:60
+#: activities/watercycle/Watercycle.qml:67
 msgctxt "Watercycle|"
 msgid ""
 " Water vapor condenses to form cloud and when clouds become heavy, it rains. "
 "Click on the cloud."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:61
+#: activities/watercycle/Watercycle.qml:68
 msgctxt "Watercycle|"
 msgid ""
 "Rain causes rivers to swell up and this water is transported to us via motor "
@@ -9563,24 +10219,24 @@ msgid ""
 "residents."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:63
+#: activities/watercycle/Watercycle.qml:70
 msgctxt "Watercycle|"
 msgid ""
 "See the tower filled with water. Activate the sewage treatment station by "
 "clicking on it."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:64
+#: activities/watercycle/Watercycle.qml:71
 msgctxt "Watercycle|"
 msgid "Great, click on the shower, as Tux arrives home."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:65
+#: activities/watercycle/Watercycle.qml:72
 msgctxt "Watercycle|"
 msgid "Fantastic, you have completed water cycle. You can continue playing."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:89
+#: activities/watercycle/Watercycle.qml:96
 msgctxt "Watercycle|"
 msgid ""
 "The water cycle (also known as the hydrologic cycle) is the journey water "
@@ -9588,7 +10244,7 @@ msgid ""
 "heat provides energy to evaporate water from water bodies like oceans."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:92
+#: activities/watercycle/Watercycle.qml:99
 msgctxt "Watercycle|"
 msgid ""
 "Plants also lose water to the air through transpiration. The water vapor "
@@ -9596,7 +10252,7 @@ msgid ""
 "air over land, precipitation is triggered and fall down as rain."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:95
+#: activities/watercycle/Watercycle.qml:102
 msgctxt "Watercycle|"
 msgid ""
 "Some of the water is trapped between rock or clay layers, called "
@@ -9604,7 +10260,7 @@ msgid ""
 "the seas via rivers."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:97
+#: activities/watercycle/Watercycle.qml:104
 msgctxt "Watercycle|"
 msgid ""
 "Your goal is to complete water cycle before Tux reaches home. Click on the "
@@ -9669,15 +10325,20 @@ msgstr ""
 
 #: core/ChangeLog.qml:40
 msgctxt "ChangeLog|"
-msgid "A Changelog."
+msgid "Search feature."
 msgstr ""
 
 #: core/ChangeLog.qml:41
 msgctxt "ChangeLog|"
-msgid "Many little fixes. Lang activity now available in French."
+msgid "A Changelog."
 msgstr ""
 
 #: core/ChangeLog.qml:42
+msgctxt "ChangeLog|"
+msgid "Many little fixes. Lang activity now available in French."
+msgstr ""
+
+#: core/ChangeLog.qml:43
 msgctxt "ChangeLog|"
 msgid ""
 "Adding a loading overlay to let the user know that some actions are taking "
@@ -9686,12 +10347,12 @@ msgid ""
 "(92% translated), Russian (98% translated), Slovak (92% translated), Turkish."
 msgstr ""
 
-#: core/ChangeLog.qml:43
+#: core/ChangeLog.qml:44
 msgctxt "ChangeLog|"
 msgid "Translations added for: Slovenian, German, Galician."
 msgstr ""
 
-#: core/ChangeLog.qml:62
+#: core/ChangeLog.qml:63
 #, qt-format
 msgctxt "ChangeLog|"
 msgid "Version %1:"
@@ -9984,45 +10645,42 @@ msgstr ""
 
 #: core/main.cpp:162
 msgctxt "QObject|"
-msgid "Disable the configuration button."
+msgid "Disable the kiosk mode (default)."
 msgstr ""
 
 #: core/main.cpp:165
 msgctxt "QObject|"
-msgid "Enable the configuration button (default)."
+msgid "Enable the kiosk mode."
 msgstr ""
 
-#: core/main.qml:140
+#: core/main.qml:130
 msgctxt "main|"
-msgid "The images for several activities are not yet installed."
+msgid ""
+"The images for several activities are not yet installed. Do you want to "
+"download them now?"
 msgstr ""
 
-#: core/main.qml:141
-msgctxt "main|"
-msgid "Do you want to download them now?"
-msgstr ""
-
-#: core/main.qml:142 core/main.qml:179
+#: core/main.qml:132 core/main.qml:171
 msgctxt "main|"
 msgid "Yes"
 msgstr ""
 
-#: core/main.qml:147 core/main.qml:185
+#: core/main.qml:137 core/main.qml:177
 msgctxt "main|"
 msgid "No"
 msgstr ""
 
-#: core/main.qml:168
+#: core/main.qml:160
 msgctxt "main|"
 msgid "Welcome to GCompris!"
 msgstr ""
 
-#: core/main.qml:169
+#: core/main.qml:161
 msgctxt "main|"
 msgid "You are running GCompris for the first time."
 msgstr ""
 
-#: core/main.qml:170
+#: core/main.qml:162
 msgctxt "main|"
 msgid ""
 "You should verify that your application settings especially your language is "
@@ -10030,23 +10688,23 @@ msgid ""
 "can do this in the Preferences Dialog."
 msgstr ""
 
-#: core/main.qml:172
+#: core/main.qml:164
 msgctxt "main|"
 msgid "Have Fun!"
 msgstr ""
 
-#: core/main.qml:174
+#: core/main.qml:166
 #, qt-format
 msgctxt "main|"
 msgid "Your current language is %1 (%2)."
 msgstr ""
 
-#: core/main.qml:178
+#: core/main.qml:170
 msgctxt "main|"
 msgid "Do you want to download the corresponding sound files now?"
 msgstr ""
 
-#: core/main.qml:219
+#: core/main.qml:199
 msgctxt "main|"
 msgid "GCompris has been updated! Here are the new changes:<br/>"
 msgstr ""
