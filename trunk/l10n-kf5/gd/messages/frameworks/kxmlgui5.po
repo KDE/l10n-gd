@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-12-10 02:34+0100\n"
+"POT-Creation-Date: 2016-12-11 02:37+0100\n"
 "PO-Revision-Date: 2016-04-30 17:56+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -577,23 +577,17 @@ msgstr ""
 msgid "Close Message"
 msgstr "Dùin an teachdaireachd"
 
-#: kcheckaccelerators.cpp:229
+#: kcheckaccelerators.cpp:230
 #, kde-format
 msgctxt "@title:window"
 msgid "Dr. Klash' Accelerator Diagnosis"
 msgstr "Diagnosachd nan luathaichearan le Dr. Klash"
 
-#: kcheckaccelerators.cpp:236
+#: kcheckaccelerators.cpp:237
 #, kde-format
 msgctxt "@option:check"
 msgid "Disable automatic checking"
 msgstr "Cuir an dearbhadh fèin-obrachail à comas"
-
-#: kcheckaccelerators.cpp:240
-#, kde-format
-msgctxt "@action:button"
-msgid "Close"
-msgstr "Dùin"
 
 #: kcheckaccelerators.cpp:281
 #, kde-format
@@ -1541,6 +1535,10 @@ msgstr "&Roghainnean"
 #, kde-format
 msgid "Main Toolbar"
 msgstr "Am prìomh bhàr-inneal"
+
+#~ msgctxt "@action:button"
+#~ msgid "Close"
+#~ msgstr "Dùin"
 
 #~ msgid "<b>Version %1</b>"
 #~ msgstr "<b>Tionndadh %1</b>"
