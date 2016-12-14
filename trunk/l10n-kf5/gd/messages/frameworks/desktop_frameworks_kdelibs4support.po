@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ICU\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-02-08 11:41+0000\n"
+"POT-Creation-Date: 2016-12-14 02:05+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -2306,9 +2306,12 @@ msgid "Cyprus"
 msgstr "Cìopras"
 
 #: src/l10n/cz/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Czech"
 msgctxt "Name"
-msgid "Czech Republic"
-msgstr "Poblachd na Seice"
+msgid "Czechia"
+msgstr "Seicis"
 
 #: src/l10n/de/country.desktop:2
 msgctxt "Name"
@@ -3323,6 +3326,10 @@ msgid ""
 msgstr ""
 "Cumaidh seo sùil air eadar-aghaidhean an lìonraidh agus cuiridh e brath gu "
 "aplacaidean a chleachdas an lìonra."
+
+#~ msgctxt "Name"
+#~ msgid "Czech Republic"
+#~ msgstr "Poblachd na Seice"
 
 #~ msgid "ohms"
 #~ msgstr "ohm"
