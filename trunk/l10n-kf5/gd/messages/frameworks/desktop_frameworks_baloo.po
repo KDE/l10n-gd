@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-12-21 03:06+0000\n"
+"POT-Creation-Date: 2016-12-22 03:00+0000\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -26,7 +26,7 @@ msgctxt "Name"
 msgid "Search Folder Updater"
 msgstr "Inneal-ùrachaidh nam pasganan-luirg"
 
-#: src/kioslaves/kded/baloosearchmodule.desktop:50
+#: src/kioslaves/kded/baloosearchmodule.desktop:51
 msgctxt "Comment"
 msgid "Allows automatic updates of Search Folders"
 msgstr "Bheir e comas ùrachaidh fhèin-obrachail dhut airson nam pasganan-luirg"

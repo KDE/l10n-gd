@@ -5011,12 +5011,9 @@ msgid "Estonia"
 msgstr ""
 
 #: activities/geography/resource/board/board6_0.qml:156
-#, fuzzy
-#| msgctxt "DialogConfig|"
-#| msgid "Czech Republic"
 msgctxt "board6_0|"
-msgid "Czech Republic"
-msgstr "Poblachd na Seice"
+msgid "Czechia"
+msgstr ""
 
 #: activities/geography/resource/board/board6_0.qml:163
 msgctxt "board6_0|"
@@ -10761,6 +10758,13 @@ msgstr ""
 msgctxt "ReadyButton|"
 msgid "I am Ready"
 msgstr "Tha mi deiseil"
+
+#, fuzzy
+#~| msgctxt "DialogConfig|"
+#~| msgid "Czech Republic"
+#~ msgctxt "board6_0|"
+#~ msgid "Czech Republic"
+#~ msgstr "Poblachd na Seice"
 
 #, fuzzy
 #~| msgctxt "DialogConfig|"
