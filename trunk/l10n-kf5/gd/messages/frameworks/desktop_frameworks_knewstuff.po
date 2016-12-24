@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-12-23 02:59+0000\n"
+"POT-Creation-Date: 2016-12-24 03:09+0000\n"
 "PO-Revision-Date: 2016-04-29 13:18+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -178,7 +178,7 @@ msgctxt "Comment"
 msgid "System log viewer tool"
 msgstr "Sealladair airson logaichean an t-siostaim"
 
-#: data/kmoretools-desktopfiles/ksystemlog.desktop:82
+#: data/kmoretools-desktopfiles/ksystemlog.desktop:83
 msgctxt "GenericName"
 msgid "System Log Viewer"
 msgstr "Sealladair logaichean an t-siostaim"
@@ -200,7 +200,7 @@ msgstr ""
 "Uaireadairean airson àm an t-saoghail le caismeachdan, stad-uaireadair 's "
 "tìmear"
 
-#: data/kmoretools-desktopfiles/org.gnome.clocks.desktop:173
+#: data/kmoretools-desktopfiles/org.gnome.clocks.desktop:174
 msgctxt "Keywords"
 msgid "time;timer;alarm;world clock;stopwatch;time zone;"
 msgstr ""
