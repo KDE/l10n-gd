@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-12-20 08:53+0100\n"
+"POT-Creation-Date: 2016-12-28 03:38+0100\n"
 "PO-Revision-Date: 2016-04-30 12:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -478,7 +478,7 @@ msgstr "Stòr-bhòrd"
 msgid "Tasks"
 msgstr "Saothraichean"
 
-#: plasma/pluginloader.cpp:594 plasma/pluginloader.cpp:595
+#: plasma/pluginloader.cpp:596 plasma/pluginloader.cpp:597
 #, kde-format
 msgctxt "misc category"
 msgid "Miscellaneous"
@@ -635,376 +635,6 @@ msgid "Invalid (null) service, can not perform any operations."
 msgstr ""
 "Seirbheis mhì-dhligheach (null), chan urrainn dhuinn obrachadh sam bith a "
 "dhèanamh."
-
-#: plasmapkg/main.cpp:49
-#, kde-format
-msgid "Plasma Package Manager"
-msgstr "Manaidsear pacaidean Plasma"
-
-#: plasmapkg/main.cpp:56
-#, kde-format
-msgctxt "Do not translate <path>"
-msgid "Generate a SHA1 hash for the package at <path>"
-msgstr "Gin hais SHA1airson na pacaid air <path>"
-
-#: plasmapkg/main.cpp:57
-#, kde-format
-msgid "For install or remove, operates on packages installed for all users."
-msgstr ""
-"Airson stàladh no toirt air falbh, obraichidh e air pacaidean a chaidh a "
-"stàladh airson a h-uile cleachdaiche."
-
-#: plasmapkg/main.cpp:62
-#, kde-format
-msgctxt ""
-"theme, wallpaper, etc. are keywords, but they may be translated, as both "
-"versions are recognized by the application (if translated, should be same as "
-"messages with 'package type' context below)"
-msgid ""
-"The type of package, e.g. theme, wallpaper, plasmoid, dataengine, runner, "
-"layout-template, etc."
-msgstr ""
-"An seòrsa de phacaid, can ùrlar, pàipear-balla, plasmoid, dataengine, "
-"runner, teamplaid co-dhealbhachd, is msaa."
-
-#: plasmapkg/main.cpp:64
-#, kde-format
-msgctxt "Do not translate <path>"
-msgid "Install the package at <path>"
-msgstr "Stàlaich a' phacaid air <path>"
-
-#: plasmapkg/main.cpp:65
-#, kde-format
-msgctxt "Do not translate <name>"
-msgid "Show information of package <name>"
-msgstr "Seall fiosrachadh na pacaid <name>"
-
-#: plasmapkg/main.cpp:66
-#, kde-format
-msgctxt "Do not translate <path>"
-msgid "Upgrade the package at <path>"
-msgstr "Àrdaich a' phacaid air <path>"
-
-#: plasmapkg/main.cpp:67
-#, kde-format
-msgid "List installed packages"
-msgstr "Seall na pacaidean air an stàladh"
-
-#: plasmapkg/main.cpp:68
-#, kde-format
-msgid "List all known package types that can be installed"
-msgstr "Seall a h-uile seòrsa de phacaid a ghabhas stàladh"
-
-#: plasmapkg/main.cpp:69
-#, kde-format
-msgctxt "Do not translate <name>"
-msgid "Remove the package named <name>"
-msgstr "Thoir air falbh a' phacaid air a tha <name>"
-
-#: plasmapkg/main.cpp:70
-#, kde-format
-msgid ""
-"Absolute path to the package root. If not supplied, then the standard data "
-"directories for this KDE session will be searched instead."
-msgstr ""
-"Slighe absaloideach gu freumh na pacaid. Mura deach a sholar, thèid lorg sna "
-"pasganan dàta stannardach airson an t-seisein KDE seo 'na àite."
-
-#: plasmapkg/plasmapkg.cpp:100
-#, kde-format
-msgid "Failed to generate a Package hash for %1"
-msgstr "Cha deach leinn hais a ghintinn airson na pacaid %1"
-
-#: plasmapkg/plasmapkg.cpp:103
-#, kde-format
-msgid "SHA1 hash for Package at %1: '%2'"
-msgstr "Hais SHA1 airson na pacaid aig %1: \"%2\""
-
-#: plasmapkg/plasmapkg.cpp:140 plasmapkg/plasmapkg.cpp:187
-#: plasmapkg/plasmapkg.cpp:208
-#, kde-format
-msgctxt "package type"
-msgid "wallpaper"
-msgstr "pàipear-balla"
-
-#: plasmapkg/plasmapkg.cpp:193
-#, kde-format
-msgctxt "package type"
-msgid "plasmoid"
-msgstr "plasmoid"
-
-#: plasmapkg/plasmapkg.cpp:199
-#, kde-format
-msgctxt "package type"
-msgid "package"
-msgstr "pacaid"
-
-#: plasmapkg/plasmapkg.cpp:204
-#, kde-format
-msgctxt "package type"
-msgid "theme"
-msgstr "ùrlar"
-
-#: plasmapkg/plasmapkg.cpp:213
-#, kde-format
-msgctxt "package type"
-msgid "dataengine"
-msgstr "dataengine"
-
-#: plasmapkg/plasmapkg.cpp:218
-#, kde-format
-msgctxt "package type"
-msgid "runner"
-msgstr "runner"
-
-#: plasmapkg/plasmapkg.cpp:223
-#, kde-format
-msgctxt "package type"
-msgid "wallpaperplugin"
-msgstr "plugan pàipeir-bhalla"
-
-#: plasmapkg/plasmapkg.cpp:228
-#, kde-format
-msgctxt "package type"
-msgid "lookandfeel"
-msgstr "coltas"
-
-#: plasmapkg/plasmapkg.cpp:233
-#, kde-format
-msgctxt "package type"
-msgid "shell"
-msgstr "shell"
-
-#: plasmapkg/plasmapkg.cpp:238
-#, kde-format
-msgctxt "package type"
-msgid "layout-template"
-msgstr "teamplaid co-dhealbhachd"
-
-#: plasmapkg/plasmapkg.cpp:243
-#, kde-format
-msgctxt "package type"
-msgid "kwineffect"
-msgstr "kwineffect"
-
-#: plasmapkg/plasmapkg.cpp:248
-#, kde-format
-msgctxt "package type"
-msgid "windowswitcher"
-msgstr "suidsear nan uinneagan"
-
-#: plasmapkg/plasmapkg.cpp:253
-#, kde-format
-msgctxt "package type"
-msgid "kwinscript"
-msgstr "kwinscript"
-
-#: plasmapkg/plasmapkg.cpp:263
-#, kde-format
-msgid "Could not find a suitable installer for package of type %1"
-msgstr ""
-"Cha deach leinn inneal-stàlaidh iomchaidh a lorg airson pacaid dhen t-seòrsa "
-"%1"
-
-#: plasmapkg/plasmapkg.cpp:281
-#, kde-format
-msgid "Listing service types: %1"
-msgstr "A' sealltainn seòrsaichean de sheirbheisean: %1"
-
-#: plasmapkg/plasmapkg.cpp:349
-#, kde-format
-msgid "Error: Plugin %1 is not installed."
-msgstr "Mearachd: Cha deach am plugan %1 a stàladh."
-
-#: plasmapkg/plasmapkg.cpp:359
-#, kde-format
-msgctxt ""
-"No option was given, this is the error message telling the user he needs at "
-"least one, do not translate install, remove, upgrade nor list"
-msgid "One of install, remove, upgrade or list is required."
-msgstr "Tha feum air stàladh, toirt air falbh, àrdachadh no sealladh."
-
-#: plasmapkg/plasmapkg.cpp:467
-#, kde-format
-msgid "Error: Can't find plugin metadata: %1"
-msgstr "Mearachd: Chan urrainn dhuinn meata-dàta a' plugain a lorg: %1"
-
-#: plasmapkg/plasmapkg.cpp:470
-#, kde-format
-msgid "Showing info for package: %1"
-msgstr "A' sealltainn fiosrachadh na pacaid: %1"
-
-#: plasmapkg/plasmapkg.cpp:471
-#, kde-format
-msgid "      Name : %1"
-msgstr "      Ainm : %1"
-
-#: plasmapkg/plasmapkg.cpp:472
-#, kde-format
-msgid "   Comment : %1"
-msgstr "    Beachd : %1"
-
-#: plasmapkg/plasmapkg.cpp:473
-#, kde-format
-msgid "    Plugin : %1"
-msgstr "    Plugan : %1"
-
-#: plasmapkg/plasmapkg.cpp:474
-#, kde-format
-msgid "    Author : %1"
-msgstr "    Ùghdar : %1"
-
-#: plasmapkg/plasmapkg.cpp:475
-#, kde-format
-msgid "      Path : %1"
-msgstr "    Slighe : %1"
-
-#: plasmapkg/plasmapkg.cpp:486
-#, kde-format
-msgctxt ""
-"The user entered conflicting options packageroot and global, this is the "
-"error message telling the user he can use only one"
-msgid ""
-"The packageroot and global options conflict each other, please select only "
-"one."
-msgstr ""
-"Tha freumh na pacaid is na roghainnean coitcheann an còmhstri a chèile, "
-"feuch nach tagh thu ach aonan."
-
-#: plasmapkg/plasmapkg.cpp:511
-#, kde-format
-msgid "Addon Name"
-msgstr "Ainm an tuilleadain"
-
-#: plasmapkg/plasmapkg.cpp:512
-#, kde-format
-msgid "Service Type"
-msgstr "Seòrsa na seirbheise"
-
-#: plasmapkg/plasmapkg.cpp:513
-#, kde-format
-msgid "Path"
-msgstr "Slighe"
-
-#: plasmapkg/plasmapkg.cpp:514
-#, kde-format
-msgid "Type Argument"
-msgstr "Argamaid an t-seòrsa"
-
-#: plasmapkg/plasmapkg.cpp:562
-#, kde-format
-msgid "Package types that are installable with this tool:"
-msgstr "Seòrsaichean de phacaidean a ghabhas stàladh leis an inneal seo:"
-
-#: plasmapkg/plasmapkg.cpp:563
-#, kde-format
-msgid "Built in:"
-msgstr "Chaidh a thogail ann an:"
-
-#: plasmapkg/plasmapkg.cpp:566
-#, kde-format
-msgid "DataEngine"
-msgstr "DataEngine"
-
-#: plasmapkg/plasmapkg.cpp:567
-#, kde-format
-msgid "Layout Template"
-msgstr "Teamplaid co-dhealbhachd"
-
-#: plasmapkg/plasmapkg.cpp:568
-#, kde-format
-msgid "Look and Feel"
-msgstr "Coltas"
-
-#: plasmapkg/plasmapkg.cpp:569
-#, kde-format
-msgid "Package"
-msgstr "Pacaid"
-
-#: plasmapkg/plasmapkg.cpp:570
-#, kde-format
-msgid "Plasmoid"
-msgstr "Plasmoid"
-
-#: plasmapkg/plasmapkg.cpp:571
-#, kde-format
-msgid "Runner"
-msgstr "Runner"
-
-#: plasmapkg/plasmapkg.cpp:572
-#, kde-format
-msgid "Shell"
-msgstr "Shell"
-
-#: plasmapkg/plasmapkg.cpp:573
-#, kde-format
-msgid "Theme"
-msgstr "Ùrlar"
-
-#: plasmapkg/plasmapkg.cpp:574
-#, kde-format
-msgid "Wallpaper Images"
-msgstr "Dealbhan pàipeir-bhalla"
-
-#: plasmapkg/plasmapkg.cpp:575
-#, kde-format
-msgid "Animated Wallpaper"
-msgstr "Pàipear-balla beòthaichte"
-
-#: plasmapkg/plasmapkg.cpp:576
-#, kde-format
-msgid "KWin Effect"
-msgstr "Èifeachd KWin"
-
-#: plasmapkg/plasmapkg.cpp:577
-#, kde-format
-msgid "KWin Window Switcher"
-msgstr "Suidsear uinneagan KWin"
-
-#: plasmapkg/plasmapkg.cpp:578
-#, kde-format
-msgid "KWin Script"
-msgstr "Sgriobt KWin"
-
-#: plasmapkg/plasmapkg.cpp:585
-#, kde-format
-msgid "Provided by plugins:"
-msgstr "'Ga solar le plugain:"
-
-#: plasmapkg/plasmapkg.cpp:606
-#, kde-format
-msgid "Provided by .desktop files:"
-msgstr "'Ga sholar le faidhlichean .desktop:"
-
-#: plasmapkg/plasmapkg.cpp:627
-#, kde-format
-msgid "Successfully upgraded %1"
-msgstr "Chaidh %1 àrdachadh gu soirbheachail"
-
-#: plasmapkg/plasmapkg.cpp:629
-#, kde-format
-msgid "Successfully installed %1"
-msgstr "Chaidh %1 a stàladh gu soirbheachail"
-
-#: plasmapkg/plasmapkg.cpp:632
-#, kde-format
-msgid "Error: Installation of %1 failed: %2"
-msgstr "Mearachd: Dh'fhàillig le stàladh %1: %2"
-
-#: plasmapkg/plasmapkg.cpp:644
-#, kde-format
-msgid "Upgrading package from file: %1"
-msgstr "Ag àrdachadh pacaid on fhaidhle: %1"
-
-#: plasmapkg/plasmapkg.cpp:649
-#, kde-format
-msgid "Successfully uninstalled %1"
-msgstr "Chaidh %1 a dhì-stàladh gu soirbheachail"
-
-#: plasmapkg/plasmapkg.cpp:651
-#, kde-format
-msgid "Error: Uninstallation of %1 failed: %2"
-msgstr "Mearachd: Dh'fhàillig le dì-stàladh %1: %2"
 
 #: plasmaquick/appletquickitem.cpp:515
 #, kde-format
@@ -1226,3 +856,242 @@ msgstr "Tha a' phacaid a leig thu às mì-dligheach."
 msgctxt "%1 is the name of the containment"
 msgid "%1 Options"
 msgstr "Roghainnean %1"
+
+#~ msgid "Plasma Package Manager"
+#~ msgstr "Manaidsear pacaidean Plasma"
+
+#~ msgctxt "Do not translate <path>"
+#~ msgid "Generate a SHA1 hash for the package at <path>"
+#~ msgstr "Gin hais SHA1airson na pacaid air <path>"
+
+#~ msgid "For install or remove, operates on packages installed for all users."
+#~ msgstr ""
+#~ "Airson stàladh no toirt air falbh, obraichidh e air pacaidean a chaidh a "
+#~ "stàladh airson a h-uile cleachdaiche."
+
+#~ msgctxt ""
+#~ "theme, wallpaper, etc. are keywords, but they may be translated, as both "
+#~ "versions are recognized by the application (if translated, should be same "
+#~ "as messages with 'package type' context below)"
+#~ msgid ""
+#~ "The type of package, e.g. theme, wallpaper, plasmoid, dataengine, runner, "
+#~ "layout-template, etc."
+#~ msgstr ""
+#~ "An seòrsa de phacaid, can ùrlar, pàipear-balla, plasmoid, dataengine, "
+#~ "runner, teamplaid co-dhealbhachd, is msaa."
+
+#~ msgctxt "Do not translate <path>"
+#~ msgid "Install the package at <path>"
+#~ msgstr "Stàlaich a' phacaid air <path>"
+
+#~ msgctxt "Do not translate <name>"
+#~ msgid "Show information of package <name>"
+#~ msgstr "Seall fiosrachadh na pacaid <name>"
+
+#~ msgctxt "Do not translate <path>"
+#~ msgid "Upgrade the package at <path>"
+#~ msgstr "Àrdaich a' phacaid air <path>"
+
+#~ msgid "List installed packages"
+#~ msgstr "Seall na pacaidean air an stàladh"
+
+#~ msgid "List all known package types that can be installed"
+#~ msgstr "Seall a h-uile seòrsa de phacaid a ghabhas stàladh"
+
+#~ msgctxt "Do not translate <name>"
+#~ msgid "Remove the package named <name>"
+#~ msgstr "Thoir air falbh a' phacaid air a tha <name>"
+
+#~ msgid ""
+#~ "Absolute path to the package root. If not supplied, then the standard "
+#~ "data directories for this KDE session will be searched instead."
+#~ msgstr ""
+#~ "Slighe absaloideach gu freumh na pacaid. Mura deach a sholar, thèid lorg "
+#~ "sna pasganan dàta stannardach airson an t-seisein KDE seo 'na àite."
+
+#~ msgid "Failed to generate a Package hash for %1"
+#~ msgstr "Cha deach leinn hais a ghintinn airson na pacaid %1"
+
+#~ msgid "SHA1 hash for Package at %1: '%2'"
+#~ msgstr "Hais SHA1 airson na pacaid aig %1: \"%2\""
+
+#~ msgctxt "package type"
+#~ msgid "wallpaper"
+#~ msgstr "pàipear-balla"
+
+#~ msgctxt "package type"
+#~ msgid "plasmoid"
+#~ msgstr "plasmoid"
+
+#~ msgctxt "package type"
+#~ msgid "package"
+#~ msgstr "pacaid"
+
+#~ msgctxt "package type"
+#~ msgid "theme"
+#~ msgstr "ùrlar"
+
+#~ msgctxt "package type"
+#~ msgid "dataengine"
+#~ msgstr "dataengine"
+
+#~ msgctxt "package type"
+#~ msgid "runner"
+#~ msgstr "runner"
+
+#~ msgctxt "package type"
+#~ msgid "wallpaperplugin"
+#~ msgstr "plugan pàipeir-bhalla"
+
+#~ msgctxt "package type"
+#~ msgid "lookandfeel"
+#~ msgstr "coltas"
+
+#~ msgctxt "package type"
+#~ msgid "shell"
+#~ msgstr "shell"
+
+#~ msgctxt "package type"
+#~ msgid "layout-template"
+#~ msgstr "teamplaid co-dhealbhachd"
+
+#~ msgctxt "package type"
+#~ msgid "kwineffect"
+#~ msgstr "kwineffect"
+
+#~ msgctxt "package type"
+#~ msgid "windowswitcher"
+#~ msgstr "suidsear nan uinneagan"
+
+#~ msgctxt "package type"
+#~ msgid "kwinscript"
+#~ msgstr "kwinscript"
+
+#~ msgid "Could not find a suitable installer for package of type %1"
+#~ msgstr ""
+#~ "Cha deach leinn inneal-stàlaidh iomchaidh a lorg airson pacaid dhen t-"
+#~ "seòrsa %1"
+
+#~ msgid "Listing service types: %1"
+#~ msgstr "A' sealltainn seòrsaichean de sheirbheisean: %1"
+
+#~ msgid "Error: Plugin %1 is not installed."
+#~ msgstr "Mearachd: Cha deach am plugan %1 a stàladh."
+
+#~ msgctxt ""
+#~ "No option was given, this is the error message telling the user he needs "
+#~ "at least one, do not translate install, remove, upgrade nor list"
+#~ msgid "One of install, remove, upgrade or list is required."
+#~ msgstr "Tha feum air stàladh, toirt air falbh, àrdachadh no sealladh."
+
+#~ msgid "Error: Can't find plugin metadata: %1"
+#~ msgstr "Mearachd: Chan urrainn dhuinn meata-dàta a' plugain a lorg: %1"
+
+#~ msgid "Showing info for package: %1"
+#~ msgstr "A' sealltainn fiosrachadh na pacaid: %1"
+
+#~ msgid "      Name : %1"
+#~ msgstr "      Ainm : %1"
+
+#~ msgid "   Comment : %1"
+#~ msgstr "    Beachd : %1"
+
+#~ msgid "    Plugin : %1"
+#~ msgstr "    Plugan : %1"
+
+#~ msgid "    Author : %1"
+#~ msgstr "    Ùghdar : %1"
+
+#~ msgid "      Path : %1"
+#~ msgstr "    Slighe : %1"
+
+#~ msgctxt ""
+#~ "The user entered conflicting options packageroot and global, this is the "
+#~ "error message telling the user he can use only one"
+#~ msgid ""
+#~ "The packageroot and global options conflict each other, please select "
+#~ "only one."
+#~ msgstr ""
+#~ "Tha freumh na pacaid is na roghainnean coitcheann an còmhstri a chèile, "
+#~ "feuch nach tagh thu ach aonan."
+
+#~ msgid "Addon Name"
+#~ msgstr "Ainm an tuilleadain"
+
+#~ msgid "Service Type"
+#~ msgstr "Seòrsa na seirbheise"
+
+#~ msgid "Path"
+#~ msgstr "Slighe"
+
+#~ msgid "Type Argument"
+#~ msgstr "Argamaid an t-seòrsa"
+
+#~ msgid "Package types that are installable with this tool:"
+#~ msgstr "Seòrsaichean de phacaidean a ghabhas stàladh leis an inneal seo:"
+
+#~ msgid "Built in:"
+#~ msgstr "Chaidh a thogail ann an:"
+
+#~ msgid "DataEngine"
+#~ msgstr "DataEngine"
+
+#~ msgid "Layout Template"
+#~ msgstr "Teamplaid co-dhealbhachd"
+
+#~ msgid "Look and Feel"
+#~ msgstr "Coltas"
+
+#~ msgid "Package"
+#~ msgstr "Pacaid"
+
+#~ msgid "Plasmoid"
+#~ msgstr "Plasmoid"
+
+#~ msgid "Runner"
+#~ msgstr "Runner"
+
+#~ msgid "Shell"
+#~ msgstr "Shell"
+
+#~ msgid "Theme"
+#~ msgstr "Ùrlar"
+
+#~ msgid "Wallpaper Images"
+#~ msgstr "Dealbhan pàipeir-bhalla"
+
+#~ msgid "Animated Wallpaper"
+#~ msgstr "Pàipear-balla beòthaichte"
+
+#~ msgid "KWin Effect"
+#~ msgstr "Èifeachd KWin"
+
+#~ msgid "KWin Window Switcher"
+#~ msgstr "Suidsear uinneagan KWin"
+
+#~ msgid "KWin Script"
+#~ msgstr "Sgriobt KWin"
+
+#~ msgid "Provided by plugins:"
+#~ msgstr "'Ga solar le plugain:"
+
+#~ msgid "Provided by .desktop files:"
+#~ msgstr "'Ga sholar le faidhlichean .desktop:"
+
+#~ msgid "Successfully upgraded %1"
+#~ msgstr "Chaidh %1 àrdachadh gu soirbheachail"
+
+#~ msgid "Successfully installed %1"
+#~ msgstr "Chaidh %1 a stàladh gu soirbheachail"
+
+#~ msgid "Error: Installation of %1 failed: %2"
+#~ msgstr "Mearachd: Dh'fhàillig le stàladh %1: %2"
+
+#~ msgid "Upgrading package from file: %1"
+#~ msgstr "Ag àrdachadh pacaid on fhaidhle: %1"
+
+#~ msgid "Successfully uninstalled %1"
+#~ msgstr "Chaidh %1 a dhì-stàladh gu soirbheachail"
+
+#~ msgid "Error: Uninstallation of %1 failed: %2"
+#~ msgstr "Mearachd: Dh'fhàillig le dì-stàladh %1: %2"
