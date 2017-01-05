@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-01-04 03:52+0100\n"
+"POT-Creation-Date: 2017-01-05 03:49+0100\n"
 "PO-Revision-Date: 2016-04-30 12:04+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -204,7 +204,7 @@ msgstr "Tha %1 ann mar-thà"
 #: kpackage/private/packagejobthread.cpp:378
 #, fuzzy, kde-format
 #| msgid "Could not open package file: %1"
-msgid "Could not install dependency: %1"
+msgid "Could not install dependency: '%1'"
 msgstr "Cha b' urrainn dhuinn faidhle na pacaid fhosgladh: %1"
 
 #: kpackage/private/packagejobthread.cpp:390
