@@ -6669,31 +6669,31 @@ msgid ""
 "horizontal direction you must first rotate and then accelerate it."
 msgstr ""
 
-#: activities/land_safe/LandSafe.qml:503
+#: activities/land_safe/LandSafe.qml:571
 #, qt-format
 msgctxt "LandSafe|"
 msgid "Fuel: %1"
 msgstr ""
 
-#: activities/land_safe/LandSafe.qml:513
+#: activities/land_safe/LandSafe.qml:581
 #, qt-format
 msgctxt "LandSafe|"
 msgid "Altitude: %1"
 msgstr ""
 
-#: activities/land_safe/LandSafe.qml:524
+#: activities/land_safe/LandSafe.qml:592
 #, qt-format
 msgctxt "LandSafe|"
 msgid "Velocity: %1"
 msgstr ""
 
-#: activities/land_safe/LandSafe.qml:537
+#: activities/land_safe/LandSafe.qml:605
 #, qt-format
 msgctxt "LandSafe|"
 msgid "Acceleration: %1"
 msgstr ""
 
-#: activities/land_safe/LandSafe.qml:563
+#: activities/land_safe/LandSafe.qml:631
 #, qt-format
 msgctxt "LandSafe|"
 msgid "Gravity: %1"
