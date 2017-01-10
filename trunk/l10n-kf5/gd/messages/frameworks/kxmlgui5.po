@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-12-30 03:27+0100\n"
+"POT-Creation-Date: 2017-01-10 07:48+0100\n"
 "PO-Revision-Date: 2016-04-30 17:56+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -1475,7 +1475,7 @@ msgstr "Neo-dhèan"
 msgid "No text"
 msgstr "Chan eil teacsa ann"
 
-#: kxmlguiwindow.cpp:426
+#: kxmlguiwindow.cpp:429
 #, kde-format
 msgid ""
 "There are two actions (%1, %2) that want to use the same shortcut (%3). This "
@@ -1483,7 +1483,7 @@ msgid ""
 "org'>bugs.kde.org</a>"
 msgstr ""
 
-#: kxmlguiwindow.cpp:426
+#: kxmlguiwindow.cpp:429
 #, fuzzy, kde-format
 #| msgid "Ambiguous shortcut detected"
 msgid "Ambiguous Shortcuts"
