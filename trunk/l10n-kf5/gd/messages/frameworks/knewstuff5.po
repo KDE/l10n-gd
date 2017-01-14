@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-12-20 08:52+0100\n"
+"POT-Creation-Date: 2017-01-14 03:51+0100\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -19,13 +19,13 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 "X-Project-Style: kde\n"
 
-#: attica/atticaprovider.cpp:144
+#: attica/atticaprovider.cpp:152
 #, fuzzy, kde-format
 #| msgid "All Categories"
 msgid "All categories are missing"
 msgstr "A h-uile roinn-seòrsa"
 
-#: attica/atticaprovider.cpp:316
+#: attica/atticaprovider.cpp:324
 #, kde-format
 msgctxt ""
 "the price of a download item, parameter 1 is the currency, 2 is the price"
@@ -36,7 +36,7 @@ msgstr ""
 "Tha an nì seo %1 %2.\n"
 "A bheil thu airson a cheannach?"
 
-#: attica/atticaprovider.cpp:331
+#: attica/atticaprovider.cpp:338
 #, kde-format
 msgid ""
 "Your account balance is too low:\n"
@@ -47,30 +47,30 @@ msgstr ""
 "Am balans agad: %1\n"
 "A' phrìs: %2"
 
-#: attica/atticaprovider.cpp:374
+#: attica/atticaprovider.cpp:380
 #, kde-format
 msgctxt "voting for an item (good/bad)"
 msgid "Your vote was recorded."
 msgstr "Chaidh a' bhòt agad a chlàradh."
 
-#: attica/atticaprovider.cpp:390
+#: attica/atticaprovider.cpp:395
 #, kde-format
 msgid "You are now a fan."
 msgstr "Tha thu 'ga leantainn a-nis."
 
-#: attica/atticaprovider.cpp:401
+#: attica/atticaprovider.cpp:406
 #, kde-format
 msgid "Network error. (%1)"
 msgstr "Mearachd lìonraidh. (%1)"
 
-#: attica/atticaprovider.cpp:405
+#: attica/atticaprovider.cpp:410
 #, kde-format
 msgid "Too many requests to server. Please try again in a few minutes."
 msgstr ""
 "Tha iarrtasan aig an fhrithealaiche. Feuch ris a-rithist an ceann mionaid no "
 "dhà."
 
-#: attica/atticaprovider.cpp:407
+#: attica/atticaprovider.cpp:412
 #, kde-format
 msgid "Unknown Open Collaboration Service API error. (%1)"
 msgstr "Mearachd Open Collaboration Service API nach aihne dhuinn. (%1)"
@@ -80,59 +80,59 @@ msgstr "Mearachd Open Collaboration Service API nach aihne dhuinn. (%1)"
 msgid "Download New Stuff..."
 msgstr "Luchdaich a-nuas stuth ùr..."
 
-#: core/engine.cpp:93
+#: core/engine.cpp:118
 #, kde-format
 msgid "Initializing"
 msgstr "'Ga thòiseachadh"
 
-#: core/engine.cpp:97
+#: core/engine.cpp:122
 #, kde-format
 msgid "Configuration file not found: \"%1\""
 msgstr "Cha deach am faidhle rèiteachaidh a lorg: \"%1\""
 
-#: core/engine.cpp:110
+#: core/engine.cpp:135
 #, kde-format
 msgid "Configuration file is invalid: \"%1\""
 msgstr "Chan eil am faidhle rèiteachaidh dligheach: \"%1\""
 
-#: core/engine.cpp:161
+#: core/engine.cpp:191
 #, kde-format
 msgid "Loading provider information"
 msgstr "A' luchdadh fiosrachadh an t-solaraiche"
 
-#: core/engine.cpp:184
+#: core/engine.cpp:214
 #, kde-format
 msgid "Could not load get hot new stuff providers from file: %1"
 msgstr ""
 "Cha b' urrainn dhuinn solaraichean deagh-stuith ùir a luchdadh on fhaidhle: "
 "%1"
 
-#: core/engine.cpp:202
+#: core/engine.cpp:237
 #, kde-format
 msgid "Error initializing provider."
 msgstr "Mearachd le tòiseachadh an t-solaraiche."
 
-#: core/engine.cpp:206 core/engine.cpp:545
+#: core/engine.cpp:241 core/engine.cpp:584
 #, kde-format
 msgid "Loading data"
 msgstr "A' luchdadh dàta"
 
-#: core/engine.cpp:236
+#: core/engine.cpp:275
 #, kde-format
 msgid "Loading data from provider"
 msgstr "A' luchdadh dàta on t-solaraiche"
 
-#: core/engine.cpp:241
+#: core/engine.cpp:280
 #, kde-format
 msgid "Loading of providers from file: %1 failed"
 msgstr "Dh'fhàillig le luchdadh nan solaraichean on fhaidhle: %1"
 
-#: core/engine.cpp:505
+#: core/engine.cpp:544
 #, kde-format
 msgid "Re: %1"
 msgstr "Re: %1"
 
-#: core/engine.cpp:547
+#: core/engine.cpp:586
 #, kde-format
 msgid "Loading one preview"
 msgid_plural "Loading %1 previews"
@@ -141,8 +141,8 @@ msgstr[1] "A' luchdadh %1 ro-shealladh"
 msgstr[2] "A' luchdadh %1 ro-sheallaidhean"
 msgstr[3] "A' luchdadh %1 ro-shealladh"
 
-#: core/engine.cpp:549 ui/itemsgridviewdelegate.cpp:334
-#: ui/itemsviewdelegate.cpp:129
+#: core/engine.cpp:588 ui/itemsgridviewdelegate.cpp:335
+#: ui/itemsviewdelegate.cpp:130
 #, kde-format
 msgid "Installing"
 msgstr "'Ga stàladh"
@@ -192,12 +192,12 @@ msgstr ""
 msgid "Could not install \"%1\": file not found."
 msgstr "Cha b' urrainn dhuinn \"%1\" a stàladh: cha deach am faidhle a lorg."
 
-#: core/installation.cpp:555
+#: core/installation.cpp:557
 #, kde-format
 msgid "Overwrite existing file?"
 msgstr "A bheil thu airson sgrìobhadh thairis air an fhaidhle a tha ann?"
 
-#: core/installation.cpp:556
+#: core/installation.cpp:558
 #, kde-format
 msgid "Download File"
 msgstr "Luchdaich a-nuas faidhle"
@@ -253,7 +253,7 @@ msgstr ""
 "shoidhneadh. Dèan cinnteach gun dèid <i>gpg</i> a stàladh air neo chan "
 "urrainn dhuinn na goireasan a shoidhneadh.</qt>"
 
-#: downloaddialog.cpp:83 downloadwidget.cpp:219
+#: downloaddialog.cpp:83 downloadwidget.cpp:220
 #, kde-format
 msgid "Get Hot New Stuff"
 msgstr "Faigh deagh-stuth ùr"
@@ -269,52 +269,52 @@ msgstr "Stàlaichear tuilleadain %1"
 msgid "Timeout. Check Internet connection."
 msgstr "Dh'fhalbh an ùine air. Thoir sùil air a' cheangal dhan eadar-lìon."
 
-#: downloadwidget.cpp:191
+#: downloadwidget.cpp:192
 #, kde-format
 msgid "Server: %1"
 msgstr "Frithealaiche: %1"
 
-#: downloadwidget.cpp:192
+#: downloadwidget.cpp:193
 #, kde-format
 msgid "<br />Provider: %1"
 msgstr "<br />Solaraiche: %1"
 
-#: downloadwidget.cpp:193
+#: downloadwidget.cpp:194
 #, kde-format
 msgid "<br />Version: %1"
 msgstr "<br />Tionndadh: %1"
 
-#: downloadwidget.cpp:197
+#: downloadwidget.cpp:198
 #, kde-format
 msgid "Provider information"
 msgstr "Fiosrachadh an t-solaraiche"
 
-#: downloadwidget.cpp:208
+#: downloadwidget.cpp:209
 #, kde-format
 msgid "Could not install %1"
 msgstr "Cha b' urrainn dhuinn %1 a stàladh"
 
-#: downloadwidget.cpp:209
+#: downloadwidget.cpp:210
 #, kde-format
 msgid "Get Hot New Stuff!"
 msgstr "Faigh deagh-stuth ùr!"
 
-#: downloadwidget.cpp:263
+#: downloadwidget.cpp:264
 #, kde-format
 msgid "Icons view mode"
 msgstr "Modh sealladh nan ìomhaigheagan"
 
-#: downloadwidget.cpp:265
+#: downloadwidget.cpp:266
 #, kde-format
 msgid "Details view mode"
 msgstr "Modh sealladh an fhiosrachaidh"
 
-#: downloadwidget.cpp:280
+#: downloadwidget.cpp:281
 #, kde-format
 msgid "All Providers"
 msgstr "A h-uile solaraiche"
 
-#: downloadwidget.cpp:287
+#: downloadwidget.cpp:288
 #, kde-format
 msgid "All Categories"
 msgstr "A h-uile roinn-seòrsa"
@@ -389,15 +389,15 @@ msgstr "<a href=\"http://opendesktop.org\">Duilleag-dhachaigh</a>"
 
 #. i18n: ectx: property (text), widget (QPushButton, updateButton)
 #. i18n: ectx: property (text), widget (QRadioButton, radioUpdate)
-#: downloadwidget.ui:566 ui/itemsgridviewdelegate.cpp:329
-#: ui/itemsviewdelegate.cpp:124 uploaddialog.ui:171
+#: downloadwidget.ui:566 ui/itemsgridviewdelegate.cpp:330
+#: ui/itemsviewdelegate.cpp:125 uploaddialog.ui:171
 #, kde-format
 msgid "Update"
 msgstr "Ùraich"
 
 #. i18n: ectx: property (text), widget (QPushButton, uninstallButton)
-#: downloadwidget.ui:576 ui/itemsgridviewdelegate.cpp:325
-#: ui/itemsviewdelegate.cpp:120
+#: downloadwidget.ui:576 ui/itemsgridviewdelegate.cpp:326
+#: ui/itemsviewdelegate.cpp:121
 #, kde-format
 msgid "Uninstall"
 msgstr "Dì-stàlaich"
@@ -409,9 +409,9 @@ msgid "Become a Fan"
 msgstr "Lean air"
 
 #. i18n: ectx: property (text), widget (QPushButton, installButton)
-#: downloadwidget.ui:590 ui/itemsgridviewdelegate.cpp:344
-#: ui/itemsgridviewdelegate.cpp:354 ui/itemsviewdelegate.cpp:139
-#: ui/itemsviewdelegate.cpp:149
+#: downloadwidget.ui:590 ui/itemsgridviewdelegate.cpp:345
+#: ui/itemsgridviewdelegate.cpp:355 ui/itemsviewdelegate.cpp:140
+#: ui/itemsviewdelegate.cpp:150
 #, kde-format
 msgid "Install"
 msgstr "Stàlaich"
@@ -593,20 +593,20 @@ msgctxt "Tooltip for a link in a dialog"
 msgid "Opens in a browser window"
 msgstr "Thèid fhosgladh ann an uinneag brabhsair ùr"
 
-#: ui/itemsgridviewdelegate.cpp:101 ui/itemsviewdelegate.cpp:259
+#: ui/itemsgridviewdelegate.cpp:101 ui/itemsviewdelegate.cpp:260
 #, kde-format
 msgid "Rating: %1%"
 msgstr "Rangachadh: %1%"
 
 #: ui/itemsgridviewdelegate.cpp:152 ui/itemsgridviewdelegate.cpp:154
-#: ui/itemsgridviewdelegate.cpp:156 ui/itemsviewdelegate.cpp:219
-#: ui/itemsviewdelegate.cpp:221 ui/itemsviewdelegate.cpp:223
+#: ui/itemsgridviewdelegate.cpp:156 ui/itemsviewdelegate.cpp:220
+#: ui/itemsviewdelegate.cpp:222 ui/itemsviewdelegate.cpp:224
 #, kde-format
 msgctxt "Show the author of this item in a list"
 msgid "By <i>%1</i>"
 msgstr "Le <i>%1</i>"
 
-#: ui/itemsgridviewdelegate.cpp:179 ui/itemsviewdelegate.cpp:237
+#: ui/itemsgridviewdelegate.cpp:179 ui/itemsviewdelegate.cpp:238
 #, kde-format
 msgctxt "fan as in supporter"
 msgid "1 fan"
@@ -616,7 +616,7 @@ msgstr[1] "%1 luchd-leantainn"
 msgstr[2] "%1 luchd-leantainn"
 msgstr[3] "%1 luchd-leantainn"
 
-#: ui/itemsgridviewdelegate.cpp:182 ui/itemsviewdelegate.cpp:240
+#: ui/itemsgridviewdelegate.cpp:182 ui/itemsviewdelegate.cpp:241
 #, kde-format
 msgid "1 download"
 msgid_plural "%1 downloads"
@@ -625,22 +625,22 @@ msgstr[1] "%1 luchdadh a-nuas"
 msgstr[2] "%1 luchdaidhean a-nuas"
 msgstr[3] "%1 luchdadh a-nuas"
 
-#: ui/itemsgridviewdelegate.cpp:248 ui/itemsviewdelegate.cpp:310
+#: ui/itemsgridviewdelegate.cpp:248 ui/itemsviewdelegate.cpp:311
 #, kde-format
 msgid "Loading Preview"
 msgstr "A' luchdadh an ro-sheallaidh"
 
-#: ui/itemsgridviewdelegate.cpp:275 ui/itemsviewdelegate.cpp:170
+#: ui/itemsgridviewdelegate.cpp:275 ui/itemsviewdelegate.cpp:171
 #, kde-format
 msgid "Details"
 msgstr "Mion-fhiosrachadh"
 
-#: ui/itemsgridviewdelegate.cpp:339 ui/itemsviewdelegate.cpp:134
+#: ui/itemsgridviewdelegate.cpp:340 ui/itemsviewdelegate.cpp:135
 #, kde-format
 msgid "Updating"
 msgstr "'Ga ùrachadh"
 
-#: ui/itemsgridviewdelegate.cpp:349 ui/itemsviewdelegate.cpp:144
+#: ui/itemsgridviewdelegate.cpp:350 ui/itemsviewdelegate.cpp:145
 #, kde-format
 msgid "Install Again"
 msgstr "Stàlaich às ùr"
