@@ -3994,8 +3994,8 @@ msgstr ""
 #: activities/explore_world_animals/resource/board/board2.qml:53
 msgctxt "board2|"
 msgid ""
-"Kangaroo lives in Australia and is well-known for pounch on its belly used "
-"to cradle baby kangaroos."
+"Kangaroo lives in Australia and is well-known for pouch on its belly used to "
+"cradle baby kangaroos."
 msgstr ""
 
 #: activities/explore_world_animals/resource/board/board2.qml:63
