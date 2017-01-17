@@ -475,58 +475,53 @@ msgstr "%1 d(h)iog(an)"
 
 #. @item:intext %1 is a whole number
 #: lib/util/kformatprivate.cpp:282
-#, qt-format
+#, fuzzy, qt-format
+#| msgctxt "KFormat|"
+#| msgid "%n millisecond(s)"
+#| msgid_plural "%n millisecond(s)"
 msgctxt "KFormat|"
 msgid "%n millisecond(s)"
-msgid_plural "%n millisecond(s)"
-msgstr[0] "%n mhille-dhiog"
-msgstr[1] "%n mhille-dhiog"
-msgstr[2] "%n mhille-dhiogan"
-msgstr[3] "%n mhille-dhiog"
+msgstr "%n mhille-dhiog"
 
 #. @item:intext %n is a whole number
 #: lib/util/kformatprivate.cpp:300
-#, qt-format
+#, fuzzy, qt-format
+#| msgctxt "KFormat|"
+#| msgid "%n day(s)"
+#| msgid_plural "%n day(s)"
 msgctxt "KFormat|"
 msgid "%n day(s)"
-msgid_plural "%n day(s)"
-msgstr[0] "%n latha"
-msgstr[1] "%n latha"
-msgstr[2] "%n làithean"
-msgstr[3] "%n latha"
+msgstr "%n latha"
 
 #. @item:intext %n is a whole number
 #: lib/util/kformatprivate.cpp:305
-#, qt-format
+#, fuzzy, qt-format
+#| msgctxt "KFormat|"
+#| msgid "%n hour(s)"
+#| msgid_plural "%n hour(s)"
 msgctxt "KFormat|"
 msgid "%n hour(s)"
-msgid_plural "%n hour(s)"
-msgstr[0] "%n uair"
-msgstr[1] "%n uair"
-msgstr[2] "%n uairean"
-msgstr[3] "%n uair"
+msgstr "%n uair"
 
 #. @item:intext %n is a whole number
 #: lib/util/kformatprivate.cpp:310
-#, qt-format
+#, fuzzy, qt-format
+#| msgctxt "KFormat|"
+#| msgid "%n minute(s)"
+#| msgid_plural "%n minute(s)"
 msgctxt "KFormat|"
 msgid "%n minute(s)"
-msgid_plural "%n minute(s)"
-msgstr[0] "%n mhionaid"
-msgstr[1] "%n mhionaid"
-msgstr[2] "%n mionaidean"
-msgstr[3] "%n mionaid"
+msgstr "%n mhionaid"
 
 #. @item:intext %n is a whole number
 #: lib/util/kformatprivate.cpp:315
-#, qt-format
+#, fuzzy, qt-format
+#| msgctxt "KFormat|"
+#| msgid "%n second(s)"
+#| msgid_plural "%n second(s)"
 msgctxt "KFormat|"
 msgid "%n second(s)"
-msgid_plural "%n second(s)"
-msgstr[0] "%n diog"
-msgstr[1] "%n dhiog"
-msgstr[2] "%n diogan"
-msgstr[3] "%n diog"
+msgstr "%n diog"
 
 #. @item:intext days and hours. This uses the previous item:intext messages. If this does not fit the grammar of your language please contact the i18n team to solve the problem
 #. ----------
@@ -540,36 +535,109 @@ msgctxt "KFormat|"
 msgid "%1 and %2"
 msgstr "%1 agus %2"
 
-#: lib/util/kformatprivate.cpp:372
+#: lib/util/kformatprivate.cpp:366
+msgctxt ""
+"KFormat|used when a relative date string can't be generated because the date "
+"is invalid"
+msgid "Invalid date"
+msgstr ""
+
+#: lib/util/kformatprivate.cpp:376
 msgctxt "KFormat|"
 msgid "Tomorrow"
 msgstr "A-màireach"
 
-#: lib/util/kformatprivate.cpp:374
+#: lib/util/kformatprivate.cpp:378
 msgctxt "KFormat|"
 msgid "Today"
 msgstr "An-diugh"
 
-#: lib/util/kformatprivate.cpp:376
+#: lib/util/kformatprivate.cpp:380
 msgctxt "KFormat|"
 msgid "Yesterday"
 msgstr "An-dè"
 
-#: lib/util/kformatprivate.cpp:383
-#, qt-format
-msgctxt "KFormat|"
-msgid "Last %1"
-msgstr "An %1 roimhe"
+#: lib/util/kformatprivate.cpp:386
+msgctxt "KFormat|most recent such day before today"
+msgid "Last Monday"
+msgstr ""
 
 #: lib/util/kformatprivate.cpp:388
-#, qt-format
-msgctxt "KFormat|"
-msgid "Next %1"
-msgstr "An ath %1"
+msgctxt "KFormat|most recent such day before today"
+msgid "Last Tuesday"
+msgstr ""
+
+#: lib/util/kformatprivate.cpp:390
+msgctxt "KFormat|most recent such day before today"
+msgid "Last Wednesday"
+msgstr ""
+
+#: lib/util/kformatprivate.cpp:392
+msgctxt "KFormat|most recent such day before today"
+msgid "Last Thursday"
+msgstr ""
+
+#: lib/util/kformatprivate.cpp:394
+msgctxt "KFormat|most recent such day before today"
+msgid "Last Friday"
+msgstr ""
+
+#: lib/util/kformatprivate.cpp:396
+msgctxt "KFormat|most recent such day before today"
+msgid "Last Saturday"
+msgstr ""
+
+#: lib/util/kformatprivate.cpp:398
+msgctxt "KFormat|most recent such day before today"
+msgid "Last Sunday"
+msgstr ""
+
+#: lib/util/kformatprivate.cpp:403
+msgctxt "KFormat|the next such day after today"
+msgid "Next Monday"
+msgstr ""
+
+#: lib/util/kformatprivate.cpp:405
+msgctxt "KFormat|the next such day after today"
+msgid "Next Tuesday"
+msgstr ""
+
+#: lib/util/kformatprivate.cpp:407
+msgctxt "KFormat|the next such day after today"
+msgid "Next Wednesday"
+msgstr ""
+
+#: lib/util/kformatprivate.cpp:409
+msgctxt "KFormat|the next such day after today"
+msgid "Next Thursday"
+msgstr ""
+
+#: lib/util/kformatprivate.cpp:411
+msgctxt "KFormat|the next such day after today"
+msgid "Next Friday"
+msgstr ""
+
+#: lib/util/kformatprivate.cpp:413
+msgctxt "KFormat|the next such day after today"
+msgid "Next Saturday"
+msgstr ""
+
+#: lib/util/kformatprivate.cpp:415
+msgctxt "KFormat|the next such day after today"
+msgid "Next Sunday"
+msgstr ""
 
 #. relative datetime with %1 result of formatReleativeDate() and %2 the formatted time If this does not fit the grammar of your language please contact the i18n team to solve the problem
-#: lib/util/kformatprivate.cpp:402
+#: lib/util/kformatprivate.cpp:430
 #, qt-format
 msgctxt "KFormat|"
 msgid "%1, %2"
 msgstr "%1, %2"
+
+#~ msgctxt "KFormat|"
+#~ msgid "Last %1"
+#~ msgstr "An %1 roimhe"
+
+#~ msgctxt "KFormat|"
+#~ msgid "Next %1"
+#~ msgstr "An ath %1"
