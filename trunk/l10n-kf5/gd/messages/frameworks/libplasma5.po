@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-01-09 03:49+0100\n"
+"POT-Creation-Date: 2017-01-18 03:59+0100\n"
 "PO-Revision-Date: 2016-04-30 12:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -601,7 +601,7 @@ msgstr "Roghainnean na gnìomhachd"
 msgid "Add Widgets..."
 msgstr "Cuir widgets ris..."
 
-#: plasma/private/containment_p.cpp:205
+#: plasma/private/containment_p.cpp:207
 #, kde-format
 msgid "Could not find requested component: %1"
 msgstr "Cha do lorg sinn a' cho-phàirt a dh'iarr thu: %1"
