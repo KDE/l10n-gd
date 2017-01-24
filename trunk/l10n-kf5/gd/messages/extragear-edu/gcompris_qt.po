@@ -1388,6 +1388,516 @@ msgctxt "ActivityInfo|"
 msgid "Drawing by Stephane Cabaraux."
 msgstr "Tarraing le Stephane Cabaraux."
 
+#: activities/categorization/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "Categorization"
+msgstr ""
+
+#: activities/categorization/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid "Categorize the elements into correct and incorrect groups"
+msgstr ""
+
+#: activities/categorization/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid "Build conceptual thinking and enrich knowledge"
+msgstr ""
+
+#: activities/categorization/ActivityInfo.qml:30
+msgctxt "ActivityInfo|"
+msgid "Can drag elements using mouse"
+msgstr ""
+
+#: activities/categorization/ActivityInfo.qml:31
+msgctxt "ActivityInfo|"
+msgid ""
+"Review the instructions and then drag and drop the elements as specified"
+msgstr ""
+
+#: activities/categorization/Categorization.qml:119
+msgctxt "Categorization|"
+msgid "Instructions and score visible"
+msgstr ""
+
+#: activities/categorization/Categorization.qml:133
+msgctxt "Categorization|"
+msgid "Instructions visible and score invisible"
+msgstr ""
+
+#: activities/categorization/Categorization.qml:147
+msgctxt "Categorization|"
+msgid "Instructions and score invisible"
+msgstr ""
+
+#: activities/categorization/Categorization.qml:210
+msgctxt "Categorization|"
+msgid ""
+"You don't have all the images for this activity. Press Update to get the "
+"complete dataset. Press the Cross to play with demo version or 'Never show "
+"this dialog later' if you want to never see again this dialog."
+msgstr ""
+
+#: activities/categorization/Categorization.qml:213
+#, fuzzy
+#| msgctxt "instruments|"
+#| msgid "Find the triangle"
+msgctxt "Categorization|"
+msgid "Update the image set"
+msgstr "Lorg an triantan"
+
+#: activities/categorization/Categorization.qml:214
+msgctxt "Categorization|"
+msgid "Never show this dialog later"
+msgstr ""
+
+#: activities/categorization/CategoryReview.qml:134
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Remove the red car from the parking lot through the gate on the right"
+msgctxt "CategoryReview|"
+msgid ""
+"Place the majority category images to the right and other images to the left"
+msgstr "Thoir an càr dearg a-mach às an ionad-pàrcaidh tron gheata taobh deas"
+
+#: activities/categorization/resource/board/category1.qml:28
+msgctxt "category1|"
+msgid "Alphabets"
+msgstr ""
+
+#: activities/categorization/resource/board/category1.qml:32
+#: activities/categorization/resource/board/category1.qml:50
+#: activities/categorization/resource/board/category1.qml:59
+#: activities/categorization/resource/board/category1.qml:68
+#: activities/categorization/resource/board/category1.qml:77
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "category1|"
+msgid "Place the ALPHABETS to the right and other objects to the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/categorization/resource/board/category1.qml:41
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "category1|"
+msgid "Place the ALPHABETS to the right and others objects to the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/categorization/resource/board/category10.qml:28
+msgctxt "category10|"
+msgid "Transport"
+msgstr ""
+
+#: activities/categorization/resource/board/category10.qml:32
+#: activities/categorization/resource/board/category10.qml:41
+#: activities/categorization/resource/board/category10.qml:50
+#: activities/categorization/resource/board/category10.qml:59
+#: activities/categorization/resource/board/category10.qml:69
+#: activities/categorization/resource/board/category10.qml:78
+#: activities/categorization/resource/board/category10.qml:87
+#: activities/categorization/resource/board/category10.qml:96
+#: activities/categorization/resource/board/category10.qml:105
+#: activities/categorization/resource/board/category10.qml:114
+msgctxt "category10|"
+msgid "Place the MODE OF TRANSPORTS to the right and other objects to the left"
+msgstr ""
+
+#: activities/categorization/resource/board/category11.qml:30
+msgctxt "category11|"
+msgid "Shapes"
+msgstr ""
+
+#: activities/categorization/resource/board/category11.qml:34
+msgctxt "category11|"
+msgid "Place the objects matching CIRCLE to the right and others to the left"
+msgstr ""
+
+#: activities/categorization/resource/board/category11.qml:43
+msgctxt "category11|"
+msgid "Place the objects matching RECTANGLE to right and others to the left"
+msgstr ""
+
+#: activities/categorization/resource/board/category11.qml:52
+msgctxt "category11|"
+msgid "Place the objects matching HEMISPHERE to right and others to the left"
+msgstr ""
+
+#: activities/categorization/resource/board/category11.qml:61
+msgctxt "category11|"
+msgid "Place the objects matching TRAPEZIUM to right and others to the left"
+msgstr ""
+
+#: activities/categorization/resource/board/category11.qml:70
+msgctxt "category11|"
+msgid "Place the objects matching TRIANGLE to right and others to the left"
+msgstr ""
+
+#: activities/categorization/resource/board/category11.qml:79
+msgctxt "category11|"
+msgid "Place the objects matching SEMICIRCLE to right and others to the left"
+msgstr ""
+
+#: activities/categorization/resource/board/category11.qml:88
+msgctxt "category11|"
+msgid "Place the objects matching PENTAGON to right and others to the left"
+msgstr ""
+
+#: activities/categorization/resource/board/category11.qml:97
+msgctxt "category11|"
+msgid "Place the objects matching SQUARE to right and others to the left"
+msgstr ""
+
+#: activities/categorization/resource/board/category11.qml:106
+msgctxt "category11|"
+msgid "Place the objects matching CONE to right and others to the left"
+msgstr ""
+
+#: activities/categorization/resource/board/category11.qml:115
+msgctxt "category11|"
+msgid ""
+"Place the objects matching PARELLELOGRAM to right and others to the left"
+msgstr ""
+
+#: activities/categorization/resource/board/category11.qml:124
+msgctxt "category11|"
+msgid "Place the objects matching HEPTAGON to right and others to the left"
+msgstr ""
+
+#: activities/categorization/resource/board/category11.qml:133
+msgctxt "category11|"
+msgid "Place the objects matching CUBE to right and others to the left"
+msgstr ""
+
+#: activities/categorization/resource/board/category11.qml:142
+msgctxt "category11|"
+msgid "Place the objects matching RHOMBUS to right and others to the left"
+msgstr ""
+
+#: activities/categorization/resource/board/category11.qml:151
+msgctxt "category11|"
+msgid "Place the objects matching NONAGON to right and others to the left"
+msgstr ""
+
+#: activities/categorization/resource/board/category11.qml:160
+msgctxt "category11|"
+msgid "Place the objects matching CUBOID to right and others to the left"
+msgstr ""
+
+#: activities/categorization/resource/board/category11.qml:169
+msgctxt "category11|"
+msgid "Place the objects matching HEXAGON to right and others to the left"
+msgstr ""
+
+#: activities/categorization/resource/board/category11.qml:178
+msgctxt "category11|"
+msgid "Place the objects matching OCTAGON to right and others to the left"
+msgstr ""
+
+#: activities/categorization/resource/board/category11.qml:187
+msgctxt "category11|"
+msgid "Place the objects matching CYLINDER to right and others to the left"
+msgstr ""
+
+#: activities/categorization/resource/board/category11.qml:196
+msgctxt "category11|"
+msgid "Place the objects matching DECAGON to right and others to the left"
+msgstr ""
+
+#: activities/categorization/resource/board/category12.qml:28
+msgctxt "category12|"
+msgid "Animals"
+msgstr ""
+
+#: activities/categorization/resource/board/category12.qml:32
+#: activities/categorization/resource/board/category12.qml:41
+#: activities/categorization/resource/board/category12.qml:50
+#: activities/categorization/resource/board/category12.qml:59
+#: activities/categorization/resource/board/category12.qml:68
+#: activities/categorization/resource/board/category12.qml:77
+#: activities/categorization/resource/board/category12.qml:86
+#: activities/categorization/resource/board/category12.qml:95
+#: activities/categorization/resource/board/category12.qml:104
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "category12|"
+msgid "Place the ANIMALS to the right and other objects to the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/categorization/resource/board/category13.qml:28
+msgctxt "category13|"
+msgid "Insects"
+msgstr ""
+
+#: activities/categorization/resource/board/category13.qml:32
+#: activities/categorization/resource/board/category13.qml:41
+#: activities/categorization/resource/board/category13.qml:50
+#: activities/categorization/resource/board/category13.qml:59
+#: activities/categorization/resource/board/category13.qml:68
+#: activities/categorization/resource/board/category13.qml:77
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "category13|"
+msgid "Place the INSECTS to the right and other objects to the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/categorization/resource/board/category14.qml:28
+msgctxt "category14|"
+msgid "Birds"
+msgstr ""
+
+#: activities/categorization/resource/board/category14.qml:32
+#: activities/categorization/resource/board/category14.qml:41
+#: activities/categorization/resource/board/category14.qml:50
+#: activities/categorization/resource/board/category14.qml:59
+#: activities/categorization/resource/board/category14.qml:68
+#: activities/categorization/resource/board/category14.qml:77
+#: activities/categorization/resource/board/category14.qml:86
+#: activities/categorization/resource/board/category14.qml:95
+#: activities/categorization/resource/board/category14.qml:104
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "category14|"
+msgid "Place the BIRDS to the right and other objects to the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/categorization/resource/board/category15.qml:28
+msgctxt "category15|"
+msgid "Nature"
+msgstr ""
+
+#: activities/categorization/resource/board/category15.qml:32
+#: activities/categorization/resource/board/category15.qml:41
+#: activities/categorization/resource/board/category15.qml:50
+#: activities/categorization/resource/board/category15.qml:59
+#: activities/categorization/resource/board/category15.qml:68
+#: activities/categorization/resource/board/category15.qml:77
+#: activities/categorization/resource/board/category15.qml:86
+#: activities/categorization/resource/board/category15.qml:95
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "category15|"
+msgid "Place the NATURE images to the right and other objects to the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/categorization/resource/board/category16.qml:28
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Colors"
+msgctxt "category16|"
+msgid "Colors"
+msgstr "Dathan"
+
+#: activities/categorization/resource/board/category17.qml:28
+msgctxt "category17|"
+msgid "Vegetables"
+msgstr ""
+
+#: activities/categorization/resource/board/category17.qml:32
+#: activities/categorization/resource/board/category17.qml:41
+#: activities/categorization/resource/board/category17.qml:50
+#: activities/categorization/resource/board/category17.qml:59
+#: activities/categorization/resource/board/category17.qml:68
+#: activities/categorization/resource/board/category17.qml:77
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "category17|"
+msgid "Place the VEGETABLES to the right and other objects to the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/categorization/resource/board/category18.qml:28
+msgctxt "category18|"
+msgid "Food"
+msgstr ""
+
+#: activities/categorization/resource/board/category18.qml:32
+#: activities/categorization/resource/board/category18.qml:41
+#: activities/categorization/resource/board/category18.qml:50
+#: activities/categorization/resource/board/category18.qml:59
+#: activities/categorization/resource/board/category18.qml:68
+#: activities/categorization/resource/board/category18.qml:77
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "category18|"
+msgid "Place the FOOD ITEMS to the right and other objects to the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/categorization/resource/board/category2.qml:29
+msgctxt "category2|"
+msgid "Tools"
+msgstr ""
+
+#: activities/categorization/resource/board/category2.qml:33
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "category2|"
+msgid "Place the TOOLS to the right and other objects to the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/categorization/resource/board/category2.qml:42
+#: activities/categorization/resource/board/category2.qml:51
+#: activities/categorization/resource/board/category2.qml:60
+#: activities/categorization/resource/board/category2.qml:69
+#: activities/categorization/resource/board/category2.qml:78
+#: activities/categorization/resource/board/category2.qml:87
+#: activities/categorization/resource/board/category2.qml:96
+#: activities/categorization/resource/board/category2.qml:105
+#: activities/categorization/resource/board/category2.qml:114
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "category2|"
+msgid "Place the TOOLS to the right and others to the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/categorization/resource/board/category3.qml:29
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Music instruments"
+msgctxt "category3|"
+msgid "Monuments"
+msgstr "Innealan-ciùil"
+
+#: activities/categorization/resource/board/category3.qml:33
+#: activities/categorization/resource/board/category3.qml:42
+#: activities/categorization/resource/board/category3.qml:51
+#: activities/categorization/resource/board/category3.qml:60
+#: activities/categorization/resource/board/category3.qml:69
+#: activities/categorization/resource/board/category3.qml:78
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "category3|"
+msgid "Place the MONUMENTS to the right and other objects to the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/categorization/resource/board/category4.qml:28
+msgctxt "category4|"
+msgid "Renewable"
+msgstr ""
+
+#: activities/categorization/resource/board/category4.qml:32
+#: activities/categorization/resource/board/category4.qml:41
+#: activities/categorization/resource/board/category4.qml:50
+#: activities/categorization/resource/board/category4.qml:59
+#: activities/categorization/resource/board/category4.qml:68
+#: activities/categorization/resource/board/category4.qml:77
+#: activities/categorization/resource/board/category4.qml:86
+#: activities/categorization/resource/board/category4.qml:95
+msgctxt "category4|"
+msgid ""
+"Place the RENEWABLE energy sources to the right and other objects to the left"
+msgstr ""
+
+#: activities/categorization/resource/board/category5.qml:28
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Simple Letters"
+msgctxt "category5|"
+msgid "Numbers"
+msgstr "Litrichean simplidh"
+
+#: activities/categorization/resource/board/category5.qml:32
+#: activities/categorization/resource/board/category5.qml:41
+#: activities/categorization/resource/board/category5.qml:50
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "category5|"
+msgid "Place the NUMBERS to the right and other objects to the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/categorization/resource/board/category6.qml:28
+msgctxt "category6|"
+msgid "fishes"
+msgstr ""
+
+#: activities/categorization/resource/board/category6.qml:32
+#: activities/categorization/resource/board/category6.qml:41
+#: activities/categorization/resource/board/category6.qml:50
+#: activities/categorization/resource/board/category6.qml:59
+#: activities/categorization/resource/board/category6.qml:69
+#: activities/categorization/resource/board/category6.qml:78
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "category6|"
+msgid "Place the FISHES to the right and other objects to the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/categorization/resource/board/category7.qml:28
+msgctxt "category7|"
+msgid "Fruits"
+msgstr ""
+
+#: activities/categorization/resource/board/category7.qml:32
+#: activities/categorization/resource/board/category7.qml:41
+#: activities/categorization/resource/board/category7.qml:50
+#: activities/categorization/resource/board/category7.qml:59
+#: activities/categorization/resource/board/category7.qml:68
+#: activities/categorization/resource/board/category7.qml:77
+#: activities/categorization/resource/board/category7.qml:86
+#: activities/categorization/resource/board/category7.qml:95
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "category7|"
+msgid "Place the FRUITS to the right and other objects to the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/categorization/resource/board/category8.qml:28
+msgctxt "category8|"
+msgid "Living"
+msgstr ""
+
+#: activities/categorization/resource/board/category8.qml:32
+#: activities/categorization/resource/board/category8.qml:41
+#: activities/categorization/resource/board/category8.qml:50
+#: activities/categorization/resource/board/category8.qml:59
+#: activities/categorization/resource/board/category8.qml:68
+#: activities/categorization/resource/board/category8.qml:77
+#: activities/categorization/resource/board/category8.qml:86
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "category8|"
+msgid "Place the living beings to the right and other objects to the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/categorization/resource/board/category9.qml:28
+msgctxt "category9|"
+msgid "Household goods"
+msgstr ""
+
+#: activities/categorization/resource/board/category9.qml:32
+#: activities/categorization/resource/board/category9.qml:41
+#: activities/categorization/resource/board/category9.qml:50
+#: activities/categorization/resource/board/category9.qml:59
+#: activities/categorization/resource/board/category9.qml:68
+#: activities/categorization/resource/board/category9.qml:77
+#: activities/categorization/resource/board/category9.qml:86
+#: activities/categorization/resource/board/category9.qml:95
+#: activities/categorization/resource/board/category9.qml:104
+#: activities/categorization/resource/board/category9.qml:114
+#: activities/categorization/resource/board/category9.qml:123
+#: activities/categorization/resource/board/category9.qml:132
+#: activities/categorization/resource/board/category9.qml:141
+#: activities/categorization/resource/board/category9.qml:150
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "category9|"
+msgid "Place the HOUSEHOLD GOODS to the right and other objects to the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
 #: activities/chess/ActivityInfo.qml:26
 #, fuzzy
 #| msgctxt "ActivityInfo|"
@@ -8485,8 +8995,16 @@ msgstr ""
 
 #: activities/menu/ConfigurationItem.qml:251
 msgctxt "ConfigurationItem|"
-msgid "Use external large word image set"
+msgid "Use full word image set"
 msgstr ""
+
+#: activities/menu/ConfigurationItem.qml:251
+#, fuzzy
+#| msgctxt "instruments|"
+#| msgid "Find the triangle"
+msgctxt "ConfigurationItem|"
+msgid "Download full word image set"
+msgstr "Lorg an triantan"
 
 #: activities/menu/ConfigurationItem.qml:262
 msgctxt "ConfigurationItem|"
@@ -11037,13 +11555,6 @@ msgstr "Tha mi deiseil"
 #, fuzzy
 #~| msgctxt "instruments|"
 #~| msgid "Find the triangle"
-#~ msgctxt "Hangman|"
-#~ msgid "Download the images"
-#~ msgstr "Lorg an triantan"
-
-#, fuzzy
-#~| msgctxt "instruments|"
-#~| msgid "Find the triangle"
 #~ msgctxt "Lang|"
 #~ msgid "Download the images"
 #~ msgstr "Lorg an triantan"
@@ -11164,16 +11675,6 @@ msgstr "Tha mi deiseil"
 #~ msgctxt "ActivityInfo|"
 #~ msgid "Move the mouse"
 #~ msgstr "Gluais an luchag"
-
-#, fuzzy
-#~| msgctxt "ActivityInfo|"
-#~| msgid ""
-#~| "Remove the red car from the parking lot through the gate on the right"
-#~ msgctxt "ActivityInfo|"
-#~ msgid ""
-#~ "Copy the mirror image from the gid on the right into the grid on the left."
-#~ msgstr ""
-#~ "Thoir an càr dearg a-mach às an ionad-pàrcaidh tron gheata taobh deas"
 
 #~ msgctxt "ActivityInfo|"
 #~ msgid "Click on the correct colored butterfly."
