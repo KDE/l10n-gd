@@ -10840,13 +10840,6 @@ msgid ""
 "objects are used to introduce the tangram concept."
 msgstr ""
 
-#: activities/tangram/ActivityInfo.qml:38
-msgctxt "ActivityInfo|"
-msgid ""
-"The original code was written by Philippe Banwarth in 1999. It was ported to "
-"GCompris by Yves Combe in 2005."
-msgstr ""
-
 #: activities/target/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Practice addition with a target game"
