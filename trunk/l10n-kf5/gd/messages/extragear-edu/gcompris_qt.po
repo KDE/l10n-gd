@@ -1205,22 +1205,22 @@ msgid ""
 "ball. If you want Tux to begin, just click on him"
 msgstr ""
 
-#: activities/bargame/Bargame.qml:352
+#: activities/bargame/Bargame.qml:353
 msgctxt "Bargame|"
 msgid "Easy"
 msgstr ""
 
-#: activities/bargame/Bargame.qml:353
+#: activities/bargame/Bargame.qml:354
 msgctxt "Bargame|"
 msgid "Medium"
 msgstr ""
 
-#: activities/bargame/Bargame.qml:354
+#: activities/bargame/Bargame.qml:355
 msgctxt "Bargame|"
 msgid "Difficult"
 msgstr ""
 
-#: activities/bargame/Bargame.qml:365
+#: activities/bargame/Bargame.qml:366
 msgctxt "Bargame|"
 msgid "Select your difficulty"
 msgstr ""
