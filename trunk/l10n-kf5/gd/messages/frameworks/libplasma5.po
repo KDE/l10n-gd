@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-02-25 03:59+0100\n"
+"POT-Creation-Date: 2017-03-04 03:58+0100\n"
 "PO-Revision-Date: 2016-04-30 12:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -636,12 +636,12 @@ msgstr ""
 "Seirbheis mhì-dhligheach (null), chan urrainn dhuinn obrachadh sam bith a "
 "dhèanamh."
 
-#: plasmaquick/appletquickitem.cpp:515
+#: plasmaquick/appletquickitem.cpp:527
 #, kde-format
 msgid "Error loading QML file: %1"
 msgstr "Mearachd a' luchdadh faidhle QML: %1"
 
-#: plasmaquick/appletquickitem.cpp:517
+#: plasmaquick/appletquickitem.cpp:529
 #, kde-format
 msgid "Error loading Applet: package inexistent. %1"
 msgstr "Mearachd a' luchdadh aplaid: chan eil a' phacaid ann. %1"
