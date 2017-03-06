@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-02-06 03:13+0000\n"
+"POT-Creation-Date: 2017-03-06 03:12+0000\n"
 "PO-Revision-Date: 2016-04-29 13:18+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,7 +21,7 @@ msgctxt "Name"
 msgid "Catfish"
 msgstr "Catfish"
 
-#: data/kmoretools-desktopfiles/catfish.desktop:41
+#: data/kmoretools-desktopfiles/catfish.desktop:42
 msgctxt "Comment"
 msgid "File search"
 msgstr "Lorg fhaidhlichean"
@@ -31,7 +31,7 @@ msgctxt "Name"
 msgid "Partitioner"
 msgstr "Inneal-pàirteachaidh"
 
-#: data/kmoretools-desktopfiles/disk.desktop:56
+#: data/kmoretools-desktopfiles/disk.desktop:57
 msgctxt "GenericName"
 msgid "Partition hard disks (including RAID, LVM, and encrypted file systems)"
 msgstr ""
@@ -44,12 +44,12 @@ msgctxt "GenericName"
 msgid "Git repository viewer"
 msgstr "Sealladair ionadan-tasgaidh Git"
 
-#: data/kmoretools-desktopfiles/giggle.desktop:41
+#: data/kmoretools-desktopfiles/giggle.desktop:42
 msgctxt "Name"
 msgid "Giggle"
 msgstr "Giggle"
 
-#: data/kmoretools-desktopfiles/giggle.desktop:75
+#: data/kmoretools-desktopfiles/giggle.desktop:77
 msgctxt "Comment"
 msgid "Git repository viewer"
 msgstr "Sealladair ionadan-tasgaidh Git"
@@ -60,7 +60,7 @@ msgctxt "Name"
 msgid "Git Cola"
 msgstr "Git Cola"
 
-#: data/kmoretools-desktopfiles/git-cola.desktop:38
+#: data/kmoretools-desktopfiles/git-cola.desktop:39
 msgctxt "Comment"
 msgid "The highly caffeinated Git GUI"
 msgstr "Eadar-aghaidh airson Git"
@@ -70,12 +70,12 @@ msgctxt "Name"
 msgid "Git Cola (View History)"
 msgstr "Git Cola (Seall an eachdraidh)"
 
-#: data/kmoretools-desktopfiles/gitg.desktop:39
+#: data/kmoretools-desktopfiles/gitg.desktop:40
 msgctxt "Name"
 msgid "gitg"
 msgstr "gitg"
 
-#: data/kmoretools-desktopfiles/gitg.desktop:75
+#: data/kmoretools-desktopfiles/gitg.desktop:77
 msgctxt "Comment"
 msgid "Git repository browser"
 msgstr "Brabhsair ionadan-tasgaidh Git"
