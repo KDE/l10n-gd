@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-03-07 09:32+0100\n"
+"POT-Creation-Date: 2017-03-08 04:00+0100\n"
 "PO-Revision-Date: 2016-04-30 12:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -859,7 +859,7 @@ msgstr "Ìomhaigheag"
 msgid "Wallpaper"
 msgstr "Pàipear-balla"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:1081
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:1083
 #, kde-format
 msgctxt "%1 is the name of the containment"
 msgid "%1 Options"
