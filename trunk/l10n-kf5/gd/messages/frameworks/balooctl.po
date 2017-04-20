@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-03-20 02:37+0100\n"
+"POT-Creation-Date: 2017-04-20 02:49+0200\n"
 "PO-Revision-Date: 2016-04-29 13:11+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -269,99 +269,99 @@ msgstr "Feumaidh tu luach a shònrachadh"
 msgid "Invalid value"
 msgstr "Luach mì-dhligheach"
 
-#: main.cpp:67
+#: main.cpp:69
 #, kde-format
 msgid "balooctl"
 msgstr "balooctl"
 
-#: main.cpp:68
+#: main.cpp:70
 #, kde-format
 msgid "Vishesh Handa"
 msgstr "Vishesh Handa"
 
-#: main.cpp:68
+#: main.cpp:70
 #, kde-format
 msgid "Maintainer"
 msgstr "Neach-glèidhidh"
 
-#: main.cpp:74
+#: main.cpp:75
 #, kde-format
 msgid "The command to execute"
 msgstr "An àithne ri ruith"
 
-#: main.cpp:76
+#: main.cpp:77
 #, kde-format
 msgid "Print the status of the indexer"
 msgstr "Cuir staid an inneil-inneacsaidh air an sgrìn"
 
-#: main.cpp:77
+#: main.cpp:78
 #, kde-format
 msgid "Enable the file indexer"
 msgstr "Cuir an comas inneal-inneacsaidh nam faidhlichean"
 
-#: main.cpp:78
+#: main.cpp:79
 #, kde-format
 msgid "Disable the file indexer"
 msgstr "Cuir à comas inneal-inneacsaidh nam faidhlichean"
 
-#: main.cpp:79
+#: main.cpp:80
 #, kde-format
 msgid "Start the file indexer"
 msgstr "Tòisich inneal-inneacsaidh nam faidhlichean"
 
-#: main.cpp:80
+#: main.cpp:81
 #, kde-format
 msgid "Stop the file indexer"
 msgstr "Cuir stad air inneal-inneacsaidh nam faidhlichean"
 
-#: main.cpp:81
+#: main.cpp:82
 #, kde-format
 msgid "Restart the file indexer"
 msgstr "Ath-thòisich inneal-inneacsaidh nam faidhlichean"
 
-#: main.cpp:82
+#: main.cpp:83
 #, kde-format
 msgid "Suspend the file indexer"
 msgstr "Cuir inneal-inneacsaidh nam faidhlichean 'na dhàil"
 
-#: main.cpp:83
+#: main.cpp:84
 #, kde-format
 msgid "Resume the file indexer"
 msgstr "Lean air inneal-inneacsaidh nam faidhlichean"
 
-#: main.cpp:84
+#: main.cpp:85
 #, kde-format
 msgid "Check for any unindexed files and index them"
 msgstr ""
 "Thoir sùil airson faidhlichean gun inneacsadh is cuir ris an inneacs iad"
 
-#: main.cpp:85
+#: main.cpp:86
 #, kde-format
 msgid "Check database for consistency"
 msgstr ""
 
-#: main.cpp:86
+#: main.cpp:87
 #, kde-format
 msgid "Index the specified files"
 msgstr "Cuir na faidhlichean sònraichte ris an inneacs"
 
-#: main.cpp:87
+#: main.cpp:88
 #, kde-format
 msgid "Forget the specified files"
 msgstr "Dìochuimhnich na faidhlichean sònraichte"
 
-#: main.cpp:88
+#: main.cpp:89
 #, kde-format
 msgid "Modify the Baloo configuration"
 msgstr "Atharraich rèiteachadh Baloo"
 
-#: main.cpp:89
+#: main.cpp:90
 #, fuzzy, kde-format
 #| msgid "Stop the file indexer"
 msgid "Monitor the file indexer"
 msgstr "Cuir stad air inneal-inneacsaidh nam faidhlichean"
 
-#: main.cpp:90
+#: main.cpp:91
 #, kde-format
 msgid "Display the disk space used by index"
 msgstr ""
