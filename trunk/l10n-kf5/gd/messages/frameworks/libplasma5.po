@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-04-14 02:44+0200\n"
+"POT-Creation-Date: 2017-04-25 05:31+0200\n"
 "PO-Revision-Date: 2016-04-30 12:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -806,60 +806,60 @@ msgstr "Suidsear nan uinneagan"
 msgid "Main Script for Window Switcher"
 msgstr "Prìomh-sgriobt airson suidsear nan uinneagan"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:482
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:483
 #, kde-format
 msgid "Content dropped"
 msgstr "Chaidh an t-susbaint a leigeil às"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:483
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:484
 #, kde-format
 msgid "Fetching file type..."
 msgstr "A' faighinn seòrsa an fhaidhle..."
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:640
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:643
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:641
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:644
 #, kde-format
 msgid "Plasma Package"
 msgstr "Pacaid Plasma"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:641
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:647
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:642
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:648
 #, kde-format
 msgid "Install"
 msgstr "Stàlaich"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:661
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:662
 #, kde-format
 msgid "Package Installation Failed"
 msgstr "Dh’fhàillig le stàladh na pacaide"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:681
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:682
 #, kde-format
 msgid "The package you just dropped is invalid."
 msgstr "Tha a' phacaid a leig thu às mì-dligheach."
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:691
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:693
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:778
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:781
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:692
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:694
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:779
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:782
 #, kde-format
 msgid "Widgets"
 msgstr "Widgets"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:719
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:779
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:785
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:720
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:780
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:786
 #, kde-format
 msgid "Icon"
 msgstr "Ìomhaigheag"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:735
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:737
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:736
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:738
 #, kde-format
 msgid "Wallpaper"
 msgstr "Pàipear-balla"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:1105
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:1127
 #, kde-format
 msgctxt "%1 is the name of the containment"
 msgid "%1 Options"
