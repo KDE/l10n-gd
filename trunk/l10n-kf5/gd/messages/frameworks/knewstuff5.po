@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-05-04 02:55+0200\n"
+"POT-Creation-Date: 2017-05-08 02:54+0200\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -59,8 +59,9 @@ msgid "You are now a fan."
 msgstr "Tha thu 'ga leantainn a-nis."
 
 #: attica/atticaprovider.cpp:418
-#, kde-format
-msgid "Network error. (%1)"
+#, fuzzy, kde-format
+#| msgid "Network error. (%1)"
+msgid "Network error %1: %2"
 msgstr "Mearachd lìonraidh. (%1)"
 
 #: attica/atticaprovider.cpp:422
