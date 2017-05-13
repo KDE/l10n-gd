@@ -11597,33 +11597,48 @@ msgstr ""
 
 #: core/DialogHelp.qml:63
 msgctxt "DialogHelp|"
-msgid "Author"
+msgid "Author:"
 msgstr ""
 
 #: core/DialogHelp.qml:67
+#, fuzzy
+#| msgctxt "DialogHelp|"
+#| msgid "Prerequisite"
 msgctxt "DialogHelp|"
-msgid "Prerequisite"
+msgid "Prerequisite:"
 msgstr "Ro-ghoireasan riatanach"
 
 #: core/DialogHelp.qml:72
+#, fuzzy
+#| msgctxt "DialogHelp|"
+#| msgid "Goal"
 msgctxt "DialogHelp|"
-msgid "Goal"
+msgid "Goal:"
 msgstr "Amas"
 
 #: core/DialogHelp.qml:77
+#, fuzzy
+#| msgctxt "DialogHelp|"
+#| msgid "Manual"
 msgctxt "DialogHelp|"
-msgid "Manual"
+msgid "Manual:"
 msgstr "Stiùireadh"
 
 #: core/DialogHelp.qml:81
+#, fuzzy
+#| msgctxt "DialogHelp|"
+#| msgid "Credit"
 msgctxt "DialogHelp|"
-msgid "Credit"
+msgid "Credit:"
 msgstr "Cliù"
 
 #: core/DialogHelp.qml:85
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Addition"
 msgctxt "DialogHelp|"
-msgid "Section: "
-msgstr ""
+msgid "Section:"
+msgstr "Cur ris"
 
 #: core/DownloadDialog.qml:166
 msgctxt "DownloadDialog|"
