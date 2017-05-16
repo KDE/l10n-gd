@@ -958,7 +958,7 @@ msgstr ""
 
 #: activities/babyshapes/resource/board/board5_0.qml:25
 msgctxt "board5_0|"
-msgid "Hello ! My name is Lock."
+msgid "Hello! My name is Lock."
 msgstr ""
 
 #: activities/babyshapes/resource/board/board6_0.qml:25
