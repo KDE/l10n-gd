@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GCompris-Unofficial\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-05-10 01:51+0200\n"
+"POT-Creation-Date: 2017-05-17 01:38+0200\n"
 "PO-Revision-Date: 2017-05-04 09:29+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -125,6 +125,7 @@ msgstr "Tionndadh %(version)s"
 msgid "Download GCompris"
 msgstr "Luchdaich a-nuas GCompris"
 
+#. other platform
 #: template/index.html:115
 msgid "Other"
 msgstr "Eile"
