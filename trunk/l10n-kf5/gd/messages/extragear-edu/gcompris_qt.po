@@ -1305,8 +1305,11 @@ msgstr ""
 "Tha seo furasta, tha na h-àireamhan co-ionnan ris na litrichean o “A” gu “J”."
 
 #: activities/braille_alphabets/FirstScreen.qml:36
+#, fuzzy
+#| msgctxt "FirstScreen|"
+#| msgid "Braille : Unlocking the Code"
 msgctxt "FirstScreen|"
-msgid "Braille : Unlocking the Code"
+msgid "Braille: Unlocking the Code"
 msgstr "Braille : A’ neo-ghlasadh a’ còd"
 
 #: activities/braille_alphabets/FirstScreen.qml:64
