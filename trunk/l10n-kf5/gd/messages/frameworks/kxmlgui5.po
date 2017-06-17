@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-06-02 03:01+0200\n"
+"POT-Creation-Date: 2017-06-17 03:03+0200\n"
 "PO-Revision-Date: 2016-04-30 17:56+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -947,25 +947,25 @@ msgstr ""
 "A bheil thu cinnteach gu bheil thu airson a chleachdadh na ath-ghoirid uile-"
 "choitcheann cuideachd?"
 
-#: kkeysequencewidget.cpp:672
+#: kkeysequencewidget.cpp:675
 #, kde-format
 msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
 msgstr "Ion-chur"
 
-#: kkeysequencewidget.cpp:679 kshortcuteditwidget.cpp:66
+#: kkeysequencewidget.cpp:682 kshortcuteditwidget.cpp:66
 #: kshortcuteditwidget.cpp:69
 #, kde-format
 msgctxt "No shortcut defined"
 msgid "None"
 msgstr "Gun ath-ghoirid"
 
-#: kkeysequencewidget.cpp:725
+#: kkeysequencewidget.cpp:728
 #, kde-format
 msgid "The key you just pressed is not supported by Qt."
 msgstr "Cha chuir Qt taic ris an iuchair a tha thu air a bhrùthadh."
 
-#: kkeysequencewidget.cpp:726
+#: kkeysequencewidget.cpp:729
 #, kde-format
 msgid "Unsupported Key"
 msgstr "Iuchair ris nach eil taic"
