@@ -1333,7 +1333,7 @@ msgstr ""
 "gach fear. Mar a chì thu taobh clì, bheir sinn iomradh air gach dotag leis "
 "na h-àireamhan 1 gu 6."
 
-#: activities/braille_alphabets/FirstScreen.qml:86
+#: activities/braille_alphabets/FirstScreen.qml:89
 msgctxt "FirstScreen|"
 msgid "When you are ready, click on me and try reproducing Braille characters."
 msgstr ""
