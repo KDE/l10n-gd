@@ -2035,7 +2035,8 @@ msgstr ""
 #| msgctxt "ActivityInfo|"
 #| msgid "Draw the picture by clicking on each numbers in the right order."
 msgctxt "category_transports|"
-msgid "Place the MODE OF TRANSPORTS to the right and other objects to the left"
+msgid ""
+"Place the MEANS OF TRANSPORTATION to the right and other objects to the left"
 msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
 
 #: activities/categorization/resource/board/category_vegetables.qml:30
