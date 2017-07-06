@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GCompris-Unofficial\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-05 01:43+0200\n"
+"POT-Creation-Date: 2017-07-07 01:31+0200\n"
 "PO-Revision-Date: 2017-05-04 09:29+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -159,45 +159,54 @@ msgid "Here is the list of activity categories with some examples:"
 msgstr ""
 
 #: template/index.html:200
-msgid "computer discovery: keyboard, mouse, different mouse gestures, ..."
+#, fuzzy
+#| msgid "computer discovery: keyboard, mouse, different mouse gestures, ..."
+msgid "computer discovery: keyboard, mouse, touchscreen ..."
 msgstr ""
 "Faigh a-mach mun choimpiutair: am meur-chlàr, an luchag, gluasadan na "
 "luchaige, ..."
 
 #: template/index.html:201
+#, fuzzy
+#| msgid "reading: reading practice"
+msgid "reading: letters, words, reading practice, typing text ..."
+msgstr "leughadh: cleachd do sgilean leughaidh"
+
+#: template/index.html:202
+#, fuzzy
+#| msgid ""
+#| "arithmetic: table memory, enumeration, double entry table, mirror "
+#| "image, ..."
 msgid ""
-"arithmetic: table memory, enumeration, double entry table, mirror image, ..."
+"arithmetic: numbers, operations, table memory, enumeration, double entry "
+"table ..."
 msgstr ""
 "àireamhachd: cuimhnich na clàran, àireamhachadh, an griod, sgàthanaich "
 "dealbh, ..."
 
-#: template/index.html:202
-msgid ""
-"science: the canal lock, the water cycle, the submarine, electric "
-"simulation ..."
+#: template/index.html:203
+#, fuzzy
+#| msgid ""
+#| "science: the canal lock, the water cycle, the submarine, electric "
+#| "simulation ..."
+msgid "science: the canal lock, the water cycle, renewable energy ..."
 msgstr ""
 "saidheans: loc canail, cearcall an uisge, bàta-tumaidh, atharrais sgeama "
 "dealain, ..."
 
-#: template/index.html:203
-msgid "geography: place the country on the map"
-msgstr "cruinn-eòlas: suidhich an dùthaich air a' mhapa"
-
 #: template/index.html:204
-msgid "games: chess, memory, connect 4, oware, sudoku ..."
-msgstr "geamannan: tàileasg, cuimhne, ceangail 4, oware, sudoku, ..."
+msgid "geography: countries, regions, culture ..."
+msgstr ""
 
 #: template/index.html:205
-msgid "reading: reading practice"
-msgstr "leughadh: cleachd do sgilean leughaidh"
+#, fuzzy
+#| msgid "games: chess, memory, connect 4, oware, sudoku ..."
+msgid "games: chess, memory, align 4, hangman, tic-tac-toe ..."
+msgstr "geamannan: tàileasg, cuimhne, ceangail 4, oware, sudoku, ..."
 
 #: template/index.html:206
-msgid ""
-"other: learn to tell time, puzzle of famous paintings, vector drawing, "
-"cartoon making, ..."
+msgid "other: colors, shapes, Braille, learn to tell time ..."
 msgstr ""
-"eile: ionnsaich an uaireadair, tòimhseachain le dealbhan cliùiteach, "
-"tarraing vector, dèan cartùn, ..."
 
 #: template/index.html:208
 #, fuzzy
@@ -246,6 +255,16 @@ msgstr "Leabhar-mhìneachaidh:"
 #: template/screenshot.html:61
 msgid "Credit:"
 msgstr "Urram:"
+
+#~ msgid "geography: place the country on the map"
+#~ msgstr "cruinn-eòlas: suidhich an dùthaich air a' mhapa"
+
+#~ msgid ""
+#~ "other: learn to tell time, puzzle of famous paintings, vector drawing, "
+#~ "cartoon making, ..."
+#~ msgstr ""
+#~ "eile: ionnsaich an uaireadair, tòimhseachain le dealbhan cliùiteach, "
+#~ "tarraing vector, dèan cartùn, ..."
 
 #~ msgid ""
 #~ "Below you can find a list of categories with some of the activities "
