@@ -1524,7 +1524,7 @@ msgctxt "Categorization|"
 msgid "Never show this dialog later"
 msgstr ""
 
-#: activities/categorization/CategoryReview.qml:135
+#: activities/categorization/CategoryReview.qml:139
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
@@ -11799,7 +11799,7 @@ msgctxt "main|"
 msgid "GCompris has been updated! Here are the new changes:<br/>"
 msgstr ""
 
-#: core/ReadyButton.qml:72
+#: core/ReadyButton.qml:76
 msgctxt "ReadyButton|"
 msgid "I am Ready"
 msgstr "Tha mi deiseil"
