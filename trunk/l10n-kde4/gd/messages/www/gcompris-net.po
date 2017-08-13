@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GCompris-Unofficial\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-07 01:31+0200\n"
+"POT-Creation-Date: 2017-08-13 01:46+0200\n"
 "PO-Revision-Date: 2017-05-04 09:29+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -116,25 +116,25 @@ msgstr ""
 msgid "GCompris Educational Software"
 msgstr "Bathar-bog foghlaim GCompris"
 
-#: template/index.html:23 template/index.html:75
+#: template/index.html:27 template/index.html:79
 #, python-format
 msgid "Version %(version)s"
 msgstr "Tionndadh %(version)s"
 
-#: template/index.html:103 template/index.html:104
+#: template/index.html:107 template/index.html:108
 msgid "Download GCompris"
 msgstr "Luchdaich a-nuas GCompris"
 
 #. other platform
-#: template/index.html:115
+#: template/index.html:119
 msgid "Other"
 msgstr "Eile"
 
-#: template/index.html:189
+#: template/index.html:193
 msgid "View all screenshots"
 msgstr "Seall na h-uile glacadh-sgrìn"
 
-#: template/index.html:196
+#: template/index.html:200
 #, fuzzy
 #| msgid ""
 #| "GCompris is a high quality educational software suite comprising of "
@@ -146,7 +146,7 @@ msgstr ""
 "'S e sreath de phrògraman foghlaim a th' ann an GCompris le deagh chàileachd "
 "is tha iomadh cleas na bhroinn airson clann aois 2 gu 10."
 
-#: template/index.html:197
+#: template/index.html:201
 msgid ""
 "Some of the activities are game orientated, but nonetheless still "
 "educational."
@@ -154,11 +154,11 @@ msgstr ""
 "'S e geamannan a th' ann an cuid dhe na cleasan ach tha iad math airson "
 "foghlam co-dhiù."
 
-#: template/index.html:198
+#: template/index.html:202
 msgid "Here is the list of activity categories with some examples:"
 msgstr ""
 
-#: template/index.html:200
+#: template/index.html:204
 #, fuzzy
 #| msgid "computer discovery: keyboard, mouse, different mouse gestures, ..."
 msgid "computer discovery: keyboard, mouse, touchscreen ..."
@@ -166,13 +166,13 @@ msgstr ""
 "Faigh a-mach mun choimpiutair: am meur-chlàr, an luchag, gluasadan na "
 "luchaige, ..."
 
-#: template/index.html:201
+#: template/index.html:205
 #, fuzzy
 #| msgid "reading: reading practice"
 msgid "reading: letters, words, reading practice, typing text ..."
 msgstr "leughadh: cleachd do sgilean leughaidh"
 
-#: template/index.html:202
+#: template/index.html:206
 #, fuzzy
 #| msgid ""
 #| "arithmetic: table memory, enumeration, double entry table, mirror "
@@ -184,7 +184,7 @@ msgstr ""
 "àireamhachd: cuimhnich na clàran, àireamhachadh, an griod, sgàthanaich "
 "dealbh, ..."
 
-#: template/index.html:203
+#: template/index.html:207
 #, fuzzy
 #| msgid ""
 #| "science: the canal lock, the water cycle, the submarine, electric "
@@ -194,21 +194,21 @@ msgstr ""
 "saidheans: loc canail, cearcall an uisge, bàta-tumaidh, atharrais sgeama "
 "dealain, ..."
 
-#: template/index.html:204
+#: template/index.html:208
 msgid "geography: countries, regions, culture ..."
 msgstr ""
 
-#: template/index.html:205
+#: template/index.html:209
 #, fuzzy
 #| msgid "games: chess, memory, connect 4, oware, sudoku ..."
 msgid "games: chess, memory, align 4, hangman, tic-tac-toe ..."
 msgstr "geamannan: tàileasg, cuimhne, ceangail 4, oware, sudoku, ..."
 
-#: template/index.html:206
+#: template/index.html:210
 msgid "other: colors, shapes, Braille, learn to tell time ..."
 msgstr ""
 
-#: template/index.html:208
+#: template/index.html:212
 #, fuzzy
 #| msgid ""
 #| "Currently GCompris offers in excess of 100 activities and more are being "
@@ -226,11 +226,11 @@ msgstr ""
 "thu gleus a chur air a-rèir nam feumalachdan agad fhèin, a leasachadh is gu "
 "h-àraidh a cho-roinn leis a' chlann air fheadh an t-saoghail."
 
-#: template/index.html:214
+#: template/index.html:218
 msgid "Latest news"
 msgstr "Na naidheachdan as ùire"
 
-#: template/index.html:218
+#: template/index.html:222
 msgid "All the news"
 msgstr "A h-uile naidheachd"
 
