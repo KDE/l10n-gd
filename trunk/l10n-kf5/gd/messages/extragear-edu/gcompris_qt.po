@@ -1926,7 +1926,7 @@ msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
 #| msgctxt "ActivityInfo|"
 #| msgid "Draw the picture by clicking on each numbers in the right order."
 msgctxt "category_shapes|"
-msgid "Place the objects matching HEMISPHERE to right and others to the left"
+msgid "Place the objects matching BALL to right and others to the left"
 msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
 
 #: activities/categorization/resource/board/category_shapes.qml:63
@@ -1934,7 +1934,7 @@ msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
 #| msgctxt "ActivityInfo|"
 #| msgid "Draw the picture by clicking on each numbers in the right order."
 msgctxt "category_shapes|"
-msgid "Place the objects matching TRAPEZIUM to right and others to the left"
+msgid "Place the objects matching TRAPEZOID to right and others to the left"
 msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
 
 #: activities/categorization/resource/board/category_shapes.qml:72
@@ -12480,6 +12480,14 @@ msgstr ""
 msgctxt "ReadyButton|"
 msgid "I am Ready"
 msgstr "Tha mi deiseil"
+
+#, fuzzy
+#~| msgctxt "ActivityInfo|"
+#~| msgid "Draw the picture by clicking on each numbers in the right order."
+#~ msgctxt "category_shapes|"
+#~ msgid ""
+#~ "Place the objects matching HEMISPHERE to right and others to the left"
+#~ msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
 
 #, fuzzy
 #~| msgctxt "ActivityInfo|"

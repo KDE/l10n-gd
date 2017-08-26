@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-08-03 03:13+0200\n"
+"POT-Creation-Date: 2017-08-26 03:16+0200\n"
 "PO-Revision-Date: 2016-04-30 12:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -232,7 +232,6 @@ msgid "Wallpaper packages"
 msgstr "Pacaidean phàipearan-balla"
 
 #: plasma/packagestructure/plasmathemepackage.cpp:52
-#: plasma/packagestructure/plasmathemepackage.cpp:105
 #, kde-format
 msgid "Images for widgets"
 msgstr "Dealbhan airson widgets"
@@ -301,54 +300,7 @@ msgstr "Dealbhan cùlaibh do-lèirsinneach airson panailean"
 msgid "Opaque background image for tooltips"
 msgstr "Dealbhan cùlaibh do-lèirsinneach airson gliocasan-sgrìn"
 
-#: plasma/packagestructure/plasmathemepackage.cpp:95
-#, kde-format
-msgid "Low color images for dialogs"
-msgstr "Dealbhan le dathan laga airson còmhraidhean"
-
-#: plasma/packagestructure/plasmathemepackage.cpp:97
-#: plasma/packagestructure/plasmathemepackage.cpp:99
-#, kde-format
-msgid "Low color generic dialog background"
-msgstr "Cùlaibh còmhraidh le dathan laga coitcheann"
-
-#: plasma/packagestructure/plasmathemepackage.cpp:101
-#: plasma/packagestructure/plasmathemepackage.cpp:103
-#, kde-format
-msgid "Low color theme for the logout dialog"
-msgstr "Ùrlar le dathan laga airson còmhradh clàraidh a-mach"
-
-#: plasma/packagestructure/plasmathemepackage.cpp:107
-#: plasma/packagestructure/plasmathemepackage.cpp:109
-#, kde-format
-msgid "Low color background image for widgets"
-msgstr "Dealbhan cùlaibh le dathan laga airson widgets"
-
-#: plasma/packagestructure/plasmathemepackage.cpp:111
-#: plasma/packagestructure/plasmathemepackage.cpp:113
-#, kde-format
-msgid "Low color analog clock face"
-msgstr "Uaireadair aodannail le dathan laga"
-
-#: plasma/packagestructure/plasmathemepackage.cpp:115
-#: plasma/packagestructure/plasmathemepackage.cpp:117
-#, kde-format
-msgid "Low color background image for panels"
-msgstr "Dealbhan cùlaibh le dathan laga airson panailean"
-
-#: plasma/packagestructure/plasmathemepackage.cpp:119
-#: plasma/packagestructure/plasmathemepackage.cpp:121
-#, kde-format
-msgid "Low color background for graphing widgets"
-msgstr "Cùlaibh le dathan laga airson grafaigeachd widgets"
-
-#: plasma/packagestructure/plasmathemepackage.cpp:123
-#: plasma/packagestructure/plasmathemepackage.cpp:125
-#, kde-format
-msgid "Low color background image for tooltips"
-msgstr "Dealbhan cùlaibh le dathan laga airson gliocasan-sgrìn"
-
-#: plasma/packagestructure/plasmathemepackage.cpp:127
+#: plasma/packagestructure/plasmathemepackage.cpp:94
 #, kde-format
 msgid "KColorScheme configuration file"
 msgstr "Faidhle rèiteachadh KColorScheme"
@@ -636,12 +588,12 @@ msgstr ""
 "Seirbheis mhì-dhligheach (null), chan urrainn dhuinn obrachadh sam bith a "
 "dhèanamh."
 
-#: plasmaquick/appletquickitem.cpp:528
+#: plasmaquick/appletquickitem.cpp:529
 #, kde-format
 msgid "Error loading QML file: %1"
 msgstr "Mearachd a' luchdadh faidhle QML: %1"
 
-#: plasmaquick/appletquickitem.cpp:530
+#: plasmaquick/appletquickitem.cpp:531
 #, kde-format
 msgid "Error loading Applet: package inexistent. %1"
 msgstr "Mearachd a' luchdadh aplaid: chan eil a' phacaid ann. %1"
@@ -864,6 +816,30 @@ msgstr "Pàipear-balla"
 msgctxt "%1 is the name of the containment"
 msgid "%1 Options"
 msgstr "Roghainnean %1"
+
+#~ msgid "Low color images for dialogs"
+#~ msgstr "Dealbhan le dathan laga airson còmhraidhean"
+
+#~ msgid "Low color generic dialog background"
+#~ msgstr "Cùlaibh còmhraidh le dathan laga coitcheann"
+
+#~ msgid "Low color theme for the logout dialog"
+#~ msgstr "Ùrlar le dathan laga airson còmhradh clàraidh a-mach"
+
+#~ msgid "Low color background image for widgets"
+#~ msgstr "Dealbhan cùlaibh le dathan laga airson widgets"
+
+#~ msgid "Low color analog clock face"
+#~ msgstr "Uaireadair aodannail le dathan laga"
+
+#~ msgid "Low color background image for panels"
+#~ msgstr "Dealbhan cùlaibh le dathan laga airson panailean"
+
+#~ msgid "Low color background for graphing widgets"
+#~ msgstr "Cùlaibh le dathan laga airson grafaigeachd widgets"
+
+#~ msgid "Low color background image for tooltips"
+#~ msgstr "Dealbhan cùlaibh le dathan laga airson gliocasan-sgrìn"
 
 #~ msgid "Plasma Package Manager"
 #~ msgstr "Manaidsear pacaidean Plasma"
