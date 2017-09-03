@@ -1578,7 +1578,7 @@ msgstr ""
 
 #: activities/categorization/Categorization.qml:161
 msgctxt "Categorization|"
-msgid "Instructions and score invisible"
+msgid "Instructions invisible and score visible"
 msgstr ""
 
 #: activities/categorization/Categorization.qml:224
