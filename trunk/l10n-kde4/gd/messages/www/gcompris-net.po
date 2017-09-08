@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GCompris-Unofficial\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-08-13 01:46+0200\n"
+"POT-Creation-Date: 2017-09-09 01:41+0200\n"
 "PO-Revision-Date: 2017-05-04 09:29+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,8 +21,10 @@ msgstr ""
 "Generated-By: Babel 0.9.6\n"
 
 #: template/base.html:58
-msgid "News"
-msgstr "Naidheachdan"
+#, fuzzy
+#| msgid "Download GCompris"
+msgid "Download"
+msgstr "Luchdaich a-nuas GCompris"
 
 #: template/base.html:59 template/buy.html:4 template/buy.html:9
 msgid "Buy / Donate"
@@ -75,7 +77,7 @@ msgstr ""
 "seo, faodaidh tu an sgaoileadh mu dheireadh a fhuair thu a chleachdadh cho "
 "fad a thogras tu."
 
-#: template/buy.html:42 template/buy.html:72
+#: template/buy.html:42 template/buy.html:70
 msgid "Thanks for your support of free software in education."
 msgstr "Tapadh leat airson taic a thoirt do bhathar-bog saor san fhoghlam."
 
@@ -83,11 +85,11 @@ msgstr "Tapadh leat airson taic a thoirt do bhathar-bog saor san fhoghlam."
 msgid "Legal reference: Company Timothée Giet RCS RENNES France 537 873 986."
 msgstr "Iomradh laghail: Company Timothée Giet RCS RENNES France 537 873 986."
 
-#: template/buy.html:56
+#: template/buy.html:54
 msgid "Donate"
 msgstr "Thoir tìodhlac dhuinn"
 
-#: template/buy.html:60
+#: template/buy.html:58
 msgid ""
 "You, your children, your classroom love GCompris. You have now the "
 "opportunity to help this project."
@@ -95,7 +97,7 @@ msgstr ""
 "'S toil leat fhèin is le do chlann is leis an sgoil agad GCompris. Tha "
 "cothrom agad a-nis gus taic a thoirt dhan phròiseact seo."
 
-#: template/buy.html:61
+#: template/buy.html:59
 msgid ""
 "Developing software takes a lot of time, it needs hardware, it implies "
 "moving to promote the project. Said simply, I need your help to continue my "
@@ -105,7 +107,7 @@ msgstr ""
 "gluasad gus am pròiseact a bhrosnachadh. A dh'innse na fìrinn, tha mi "
 "feumach air taic gus leantainn air adhart leis a' phròiseact seo."
 
-#: template/buy.html:62
+#: template/buy.html:60
 msgid ""
 "You can donate the amount of your choice by clicking on the button below:"
 msgstr ""
@@ -127,8 +129,8 @@ msgstr "Luchdaich a-nuas GCompris"
 
 #. other platform
 #: template/index.html:119
-msgid "Other"
-msgstr "Eile"
+msgid "All"
+msgstr ""
 
 #: template/index.html:193
 msgid "View all screenshots"
@@ -255,6 +257,12 @@ msgstr "Leabhar-mhìneachaidh:"
 #: template/screenshot.html:61
 msgid "Credit:"
 msgstr "Urram:"
+
+#~ msgid "News"
+#~ msgstr "Naidheachdan"
+
+#~ msgid "Other"
+#~ msgstr "Eile"
 
 #~ msgid "geography: place the country on the map"
 #~ msgstr "cruinn-eòlas: suidhich an dùthaich air a' mhapa"
