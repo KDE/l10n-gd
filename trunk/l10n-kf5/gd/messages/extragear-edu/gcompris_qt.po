@@ -10414,16 +10414,18 @@ msgstr ""
 "glacaidh Tux am bàla. Feumaidh tu breabadh air a’ bhàla gus a thilleadh far "
 "an robh e"
 
-#: activities/penalty/Penalty.qml:278
+#: activities/penalty/Penalty.qml:385
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Double click the mouse on the ball to score a goal."
 msgctxt "Penalty|"
-msgid "Double click or double tap on the ball to kick it."
+msgid ""
+"Double click or double tap on the side of the goal you want to put the ball "
+"in."
 msgstr ""
 "Dèan briogadh dùbailte leis an luchag air a’ bhàla gus an tadhal a bhualadh."
 
-#: activities/penalty/Penalty.qml:318
+#: activities/penalty/Penalty.qml:425
 msgctxt "Penalty|"
 msgid "Click or tap the ball to bring it back to its former position"
 msgstr ""
@@ -12480,6 +12482,15 @@ msgstr ""
 msgctxt "ReadyButton|"
 msgid "I am Ready"
 msgstr "Tha mi deiseil"
+
+#, fuzzy
+#~| msgctxt "ActivityInfo|"
+#~| msgid "Double click the mouse on the ball to score a goal."
+#~ msgctxt "Penalty|"
+#~ msgid "Double click or double tap on the ball to kick it."
+#~ msgstr ""
+#~ "Dèan briogadh dùbailte leis an luchag air a’ bhàla gus an tadhal a "
+#~ "bhualadh."
 
 #, fuzzy
 #~| msgctxt "ActivityInfo|"

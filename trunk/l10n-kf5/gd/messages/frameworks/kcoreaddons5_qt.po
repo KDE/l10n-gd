@@ -481,7 +481,11 @@ msgstr "%1 d(h)iog(an)"
 #| msgid_plural "%n millisecond(s)"
 msgctxt "KFormat|"
 msgid "%n millisecond(s)"
-msgstr "%n mhille-dhiog"
+msgid_plural "%n millisecond(s)"
+msgstr[0] "%n mhille-dhiog"
+msgstr[1] "%n mhille-dhiog"
+msgstr[2] "%n mhille-dhiog"
+msgstr[3] "%n mhille-dhiog"
 
 #. @item:intext %n is a whole number
 #: lib/util/kformatprivate.cpp:306
@@ -491,7 +495,11 @@ msgstr "%n mhille-dhiog"
 #| msgid_plural "%n day(s)"
 msgctxt "KFormat|"
 msgid "%n day(s)"
-msgstr "%n latha"
+msgid_plural "%n day(s)"
+msgstr[0] "%n latha"
+msgstr[1] "%n latha"
+msgstr[2] "%n latha"
+msgstr[3] "%n latha"
 
 #. @item:intext %n is a whole number
 #: lib/util/kformatprivate.cpp:311
@@ -501,7 +509,11 @@ msgstr "%n latha"
 #| msgid_plural "%n hour(s)"
 msgctxt "KFormat|"
 msgid "%n hour(s)"
-msgstr "%n uair"
+msgid_plural "%n hour(s)"
+msgstr[0] "%n uair"
+msgstr[1] "%n uair"
+msgstr[2] "%n uair"
+msgstr[3] "%n uair"
 
 #. @item:intext %n is a whole number
 #: lib/util/kformatprivate.cpp:316
@@ -511,7 +523,11 @@ msgstr "%n uair"
 #| msgid_plural "%n minute(s)"
 msgctxt "KFormat|"
 msgid "%n minute(s)"
-msgstr "%n mhionaid"
+msgid_plural "%n minute(s)"
+msgstr[0] "%n mhionaid"
+msgstr[1] "%n mhionaid"
+msgstr[2] "%n mhionaid"
+msgstr[3] "%n mhionaid"
 
 #. @item:intext %n is a whole number
 #: lib/util/kformatprivate.cpp:321
@@ -521,7 +537,11 @@ msgstr "%n mhionaid"
 #| msgid_plural "%n second(s)"
 msgctxt "KFormat|"
 msgid "%n second(s)"
-msgstr "%n diog"
+msgid_plural "%n second(s)"
+msgstr[0] "%n diog"
+msgstr[1] "%n diog"
+msgstr[2] "%n diog"
+msgstr[3] "%n diog"
 
 #. @item:intext days and hours. This uses the previous item:intext messages. If this does not fit the grammar of your language please contact the i18n team to solve the problem
 #. ----------
