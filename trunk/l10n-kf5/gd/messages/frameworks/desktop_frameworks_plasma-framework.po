@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-08-12 01:35+0000\n"
+"POT-Creation-Date: 2017-09-16 01:38+0000\n"
 "PO-Revision-Date: 2016-04-29 19:26+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -417,7 +417,7 @@ msgctxt "Name"
 msgid "Plasma QML Applet with QML extension"
 msgstr "Aplaid Plasma"
 
-#: templates/qml-plasmoid-with-qml-extension/qml-plasmoid-with-qml-extension.kdevtemplate:29
+#: templates/qml-plasmoid-with-qml-extension/qml-plasmoid-with-qml-extension.kdevtemplate:30
 msgctxt "Comment"
 msgid ""
 "A template for a Plasma applet which uses custom API provided by an own QML "
