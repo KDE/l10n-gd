@@ -1983,7 +1983,7 @@ msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
 #| msgid "Draw the picture by clicking on each numbers in the right order."
 msgctxt "category_shapes|"
 msgid ""
-"Place the objects matching a PARELLELOGRAM to right and others to the left"
+"Place the objects matching a PARALLELOGRAM to right and others to the left"
 msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
 
 #: activities/categorization/resource/board/category_shapes.qml:126
