@@ -10613,7 +10613,7 @@ msgstr ""
 "glacaidh Tux am bàla. Feumaidh tu breabadh air a’ bhàla gus a thilleadh far "
 "an robh e"
 
-#: activities/penalty/Penalty.qml:385
+#: activities/penalty/Penalty.qml:218
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Double click the mouse on the ball to score a goal."
@@ -10624,7 +10624,7 @@ msgid ""
 msgstr ""
 "Dèan briogadh dùbailte leis an luchag air a’ bhàla gus an tadhal a bhualadh."
 
-#: activities/penalty/Penalty.qml:425
+#: activities/penalty/Penalty.qml:258
 msgctxt "Penalty|"
 msgid "Click or tap the ball to bring it back to its former position"
 msgstr ""
@@ -11671,12 +11671,12 @@ msgctxt "Controls|"
 msgid "Left Ballast Tank"
 msgstr ""
 
-#: activities/submarine/Controls.qml:271
+#: activities/submarine/Controls.qml:333
 msgctxt "Controls|"
 msgid "Central Ballast Tank"
 msgstr ""
 
-#: activities/submarine/Controls.qml:372
+#: activities/submarine/Controls.qml:496
 msgctxt "Controls|"
 msgid "Right Ballast Tank"
 msgstr ""
