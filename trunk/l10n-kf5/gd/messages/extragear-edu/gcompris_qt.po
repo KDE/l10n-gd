@@ -8728,17 +8728,30 @@ msgstr ""
 "Mur obraich sin, tadhail air www.iGaidhlig.net airson barrachd fiosrachaidh "
 "’s taic."
 
-#: activities/letter-in-word/LetterInWord.qml:119
+#: activities/letter-in-word/LetterInWord.qml:126
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Falling Words"
+msgctxt "LetterInWord|"
+msgid "All words"
+msgstr "Faclan a' tuiteam"
+
+#: activities/letter-in-word/LetterInWord.qml:134
+msgctxt "LetterInWord|"
+msgid "Only 5 words"
+msgstr ""
+
+#: activities/letter-in-word/LetterInWord.qml:146
 msgctxt "LetterInWord|"
 msgid "Select your locale"
 msgstr ""
 
-#: activities/letter-in-word/LetterInWord.qml:355
+#: activities/letter-in-word/LetterInWord.qml:392
 msgctxt "LetterInWord|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 
-#: activities/letter-in-word/LetterInWord.qml:356
+#: activities/letter-in-word/LetterInWord.qml:393
 #, qt-format
 msgctxt "LetterInWord|"
 msgid ""
@@ -8746,7 +8759,7 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 
-#: activities/letter-in-word/LetterInWord.qml:358
+#: activities/letter-in-word/LetterInWord.qml:395
 msgctxt "LetterInWord|"
 msgid ""
 "We switched to English for this activity but you can select another language "
