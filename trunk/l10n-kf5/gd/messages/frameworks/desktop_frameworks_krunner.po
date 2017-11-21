@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-09-28 01:34+0000\n"
+"POT-Creation-Date: 2017-11-21 02:08+0000\n"
 "PO-Revision-Date: 2016-04-29 19:25+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,16 +21,6 @@ msgctxt "Comment"
 msgid "KRunner plugin"
 msgstr "Plugan KRunner"
 
-#: templates/runner/%{APPNAMELC}.desktop:2
-msgctxt "Name"
-msgid "%{APPNAME}"
-msgstr "%{APPNAME}"
-
-#: templates/runner/%{APPNAMELC}.desktop:43
-msgctxt "Comment"
-msgid "%{APPNAME} runner"
-msgstr "Ruithear %{APPNAME}"
-
 #: templates/runner/runner.kdevtemplate:3
 msgctxt "Name"
 msgid "C++"
@@ -40,6 +30,14 @@ msgstr ""
 msgctxt "Comment"
 msgid "Plasma Runner Template. A plasma runner template"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "%{APPNAME}"
+#~ msgstr "%{APPNAME}"
+
+#~ msgctxt "Comment"
+#~ msgid "%{APPNAME} runner"
+#~ msgstr "Ruithear %{APPNAME}"
 
 #~ msgctxt "Name"
 #~ msgid "Home Files"
