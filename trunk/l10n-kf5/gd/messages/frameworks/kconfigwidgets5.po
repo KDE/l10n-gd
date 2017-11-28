@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kconfigwidgets5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-08-10 03:23+0200\n"
+"POT-Creation-Date: 2017-11-28 03:00+0100\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -29,14 +29,14 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "fios@foramnagaidhlig.net"
 
-#: kcmodule.cpp:166
+#: kcmodule.cpp:167
 #, kde-format
 msgid "You will be asked to authenticate before saving"
 msgstr ""
 "Thèid iarraidh ort gun dèan thu dearbhadh gur tusa a th' ann mus sàbhail thu "
 "rud"
 
-#: kcmodule.cpp:170
+#: kcmodule.cpp:171
 #, kde-format
 msgid "You are not allowed to save the configuration"
 msgstr "Chan fhaod thu an rèiteachadh a shàbhaladh"
@@ -59,7 +59,7 @@ msgctxt "@title:window"
 msgid "Configure"
 msgstr "Rèitich"
 
-#: klanguagebutton.cpp:194
+#: klanguagebutton.cpp:195
 #, kde-format
 msgid "without name"
 msgstr "gun ainm"
@@ -74,38 +74,38 @@ msgstr "Chan eil innteart ann"
 msgid "Clear List"
 msgstr "Falamhaich an liosta"
 
-#: kstandardaction.cpp:153
+#: kstandardaction.cpp:154
 #, kde-format
 msgctxt "go back"
 msgid "&Back"
 msgstr "&Air ais"
 
-#: kstandardaction.cpp:160
+#: kstandardaction.cpp:161
 #, kde-format
 msgctxt "go forward"
 msgid "&Forward"
 msgstr "Air a&dhart"
 
-#: kstandardaction.cpp:167
+#: kstandardaction.cpp:168
 #, kde-format
 msgctxt "home page"
 msgid "&Home"
 msgstr "Dha&chaigh"
 
-#: kstandardaction.cpp:170
+#: kstandardaction.cpp:171
 #, kde-format
 msgctxt "show help"
 msgid "&Help"
 msgstr "Cob&hair"
 
-#: kstandardaction.cpp:207
+#: kstandardaction.cpp:208
 #, kde-format
 msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
 msgstr ""
 "Seall bàr clàr-taice<p>Seallaidh seo am bàr clàr-taice a-rithist ma chaidh "
 "fhalach</p>"
 
-#: kstandardaction.cpp:226
+#: kstandardaction.cpp:227
 #, kde-format
 msgid ""
 "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of the "
