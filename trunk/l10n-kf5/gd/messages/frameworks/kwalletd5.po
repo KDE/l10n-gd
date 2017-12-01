@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwalletd5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-11-29 04:58+0100\n"
+"POT-Creation-Date: 2017-12-01 03:08+0100\n"
 "PO-Revision-Date: 2016-05-04 18:07+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -29,7 +29,7 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "fios@foramnagaidhlig.net"
 
-#: backend/backendpersisthandler.cpp:504
+#: backend/backendpersisthandler.cpp:506
 #, kde-format
 msgid ""
 "<qt>Error when attempting to initialize OpenPGP while attempting to save the "
@@ -40,7 +40,7 @@ msgstr ""
 "<b>%1</b>. Seo còd na mearachd: <b>%2</b>. Càirich rèiteachadh an t-siostaim "
 "agad is feuch ris a-rithist an uairsin.</qt>"
 
-#: backend/backendpersisthandler.cpp:512
+#: backend/backendpersisthandler.cpp:514
 #, kde-format
 msgid ""
 "<qt>Error when attempting to initialize OpenPGP while attempting to save the "
@@ -50,7 +50,7 @@ msgstr ""
 "sporan <b>%1</b> a shàbhaladh. Càirich rèiteachadh an t-siostaim agad is "
 "feuch ris a-rithist an uairsin.</qt>"
 
-#: backend/backendpersisthandler.cpp:563
+#: backend/backendpersisthandler.cpp:565
 #, kde-format
 msgid ""
 "<qt>Encryption error while attempting to save the wallet <b>%1</b>. Error "
@@ -65,7 +65,7 @@ msgstr ""
 "làn-earbsa. Dèan cinnteach gu bheil an iuchair dhìomhair agad airson na h-"
 "iuchrach a tha thu a' cleachdadh.</qt>"
 
-#: backend/backendpersisthandler.cpp:575
+#: backend/backendpersisthandler.cpp:577
 #, kde-format
 msgid ""
 "<qt>File handling error while attempting to save the wallet <b>%1</b>. Error "
@@ -75,7 +75,7 @@ msgstr ""
 "ris an sporan <b>%1</b> a shàbhaladh. Seo a' mhearachd: <b>%2</b>. Càirich "
 "rèiteachadh an t-siostaim agad is feuch ris a-rithist an uairsin.</qt>"
 
-#: backend/backendpersisthandler.cpp:593
+#: backend/backendpersisthandler.cpp:595
 #, kde-format
 msgid ""
 "<qt>Error when attempting to initialize OpenPGP while attempting to open the "
@@ -86,7 +86,7 @@ msgstr ""
 "<b>%1</b>. Seo còd na mearachd: <b>%2</b>. Càirich rèiteachadh an t-siostaim "
 "agad is feuch ris a-rithist an uairsin.</qt>"
 
-#: backend/backendpersisthandler.cpp:611
+#: backend/backendpersisthandler.cpp:613
 #, kde-format
 msgid ""
 "<qt>Error when attempting to initialize OpenPGP while attempting to open the "
@@ -96,12 +96,12 @@ msgstr ""
 "sporan <b>%1</b> fhosgladh. Càirich rèiteachadh an t-siostaim agad is feuch "
 "ris a-rithist an uairsin.</qt>"
 
-#: backend/backendpersisthandler.cpp:621
+#: backend/backendpersisthandler.cpp:623
 #, kde-format
 msgid "Retry"
 msgstr "Feuch ris a-rithist"
 
-#: backend/backendpersisthandler.cpp:623
+#: backend/backendpersisthandler.cpp:625
 #, kde-format
 msgid ""
 "<qt>Error when attempting to decrypt the wallet <b>%1</b> using GPG. If "
@@ -112,12 +112,12 @@ msgstr ""
 "cleachdadh SmartCard, dèan cinnteach gun deach a chur a-steach agus feuch "
 "ris a-rithist.<br><br>Seo a' mhearachd GPG: <b>%2</b></qt>"
 
-#: backend/backendpersisthandler.cpp:624
+#: backend/backendpersisthandler.cpp:626
 #, kde-format
 msgid "kwalletd GPG backend"
 msgstr "backend GPG kwalletd"
 
-#: backend/backendpersisthandler.cpp:668
+#: backend/backendpersisthandler.cpp:670
 #, kde-format
 msgid ""
 "<qt>Error when attempting to open the wallet <b>%1</b>. The wallet was "
