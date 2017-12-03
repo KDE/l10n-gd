@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-08-26 03:16+0200\n"
+"POT-Creation-Date: 2017-12-03 03:08+0100\n"
 "PO-Revision-Date: 2016-04-30 12:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -515,9 +515,9 @@ msgid "Remove this Widget"
 msgstr "Thoir air falbh an widget seo"
 
 #: plasma/private/applet_p.cpp:396
-#: plasma/private/associatedapplicationmanager.cpp:83
-#: plasma/private/associatedapplicationmanager.cpp:142
-#: plasma/private/associatedapplicationmanager.cpp:184
+#: plasma/private/associatedapplicationmanager.cpp:82
+#: plasma/private/associatedapplicationmanager.cpp:141
+#: plasma/private/associatedapplicationmanager.cpp:183
 #, kde-format
 msgid "Run the Associated Application"
 msgstr "Ruith an aplacaid co-cheangailte"
@@ -527,8 +527,8 @@ msgstr "Ruith an aplacaid co-cheangailte"
 msgid "Script initialization failed"
 msgstr "Dh'fhàillig le tòiseachadh an sgriobt"
 
-#: plasma/private/associatedapplicationmanager.cpp:80
-#: plasma/private/associatedapplicationmanager.cpp:181
+#: plasma/private/associatedapplicationmanager.cpp:79
+#: plasma/private/associatedapplicationmanager.cpp:180
 #, kde-format
 msgid "Open with %1"
 msgstr "Fosgail le %1"
