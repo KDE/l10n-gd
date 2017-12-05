@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-12-03 03:08+0100\n"
+"POT-Creation-Date: 2017-12-05 03:09+0100\n"
 "PO-Revision-Date: 2016-04-30 12:04+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -19,7 +19,7 @@ msgstr ""
 "X-Generator: Virtaal 0.7.1\n"
 "X-Project-Style: kde\n"
 
-#: kpackage/package.cpp:54
+#: kpackage/package.cpp:55
 #, kde-format
 msgid "Desktop file that describes this package."
 msgstr "Faidhle desktop a mhìnicheas a' phacaid seo."
