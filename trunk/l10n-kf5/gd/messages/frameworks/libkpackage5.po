@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-12-06 05:01+0100\n"
+"POT-Creation-Date: 2017-12-09 02:58+0100\n"
 "PO-Revision-Date: 2016-04-30 12:04+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -124,7 +124,7 @@ msgstr "Goireasan"
 msgid "Windows and Tasks"
 msgstr "Uinneagan is saothraichean"
 
-#: kpackage/packageloader.cpp:395
+#: kpackage/packageloader.cpp:396
 #, kde-format
 msgid "Could not load installer for package of type %1. Error reported was: %2"
 msgstr ""
