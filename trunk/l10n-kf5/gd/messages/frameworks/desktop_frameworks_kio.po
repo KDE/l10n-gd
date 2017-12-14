@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-12-04 02:17+0000\n"
+"POT-Creation-Date: 2017-12-14 02:23+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -41,7 +41,7 @@ msgctxt "Name"
 msgid "Remote URL Change Notifier"
 msgstr ""
 
-#: src/ioslaves/remote/kdedmodule/remotedirnotify.desktop:66
+#: src/ioslaves/remote/kdedmodule/remotedirnotify.desktop:67
 msgctxt "Comment"
 msgid "Provides change notification for network folders"
 msgstr ""
