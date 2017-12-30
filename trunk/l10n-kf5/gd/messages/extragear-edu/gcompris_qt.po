@@ -3225,12 +3225,12 @@ msgstr ""
 "diogan). Briog air na saighdean is gluais an luchag gus na h-àireamhan a "
 "dhèanamh nas motha no nas lugha."
 
-#: activities/clockgame/Clockgame.qml:105
+#: activities/clockgame/Clockgame.qml:106
 msgctxt "Clockgame|"
 msgid "Set the watch to:"
 msgstr "Suidhich an t-uaireadair aig:"
 
-#: activities/clockgame/Clockgame.qml:108
+#: activities/clockgame/Clockgame.qml:109
 #, qt-format
 msgctxt "Clockgame|"
 msgid "%n hour(s)"
@@ -3240,7 +3240,7 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-#: activities/clockgame/Clockgame.qml:111
+#: activities/clockgame/Clockgame.qml:112
 #, qt-format
 msgctxt "Clockgame|"
 msgid "%n minute(s)"
@@ -3250,7 +3250,7 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-#: activities/clockgame/Clockgame.qml:114
+#: activities/clockgame/Clockgame.qml:115
 #, qt-format
 msgctxt "Clockgame|"
 msgid "%n second(s)"
