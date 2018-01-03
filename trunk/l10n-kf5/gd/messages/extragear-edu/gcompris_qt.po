@@ -13077,17 +13077,17 @@ msgctxt "ReadyButton|"
 msgid "I am Ready"
 msgstr "Tha mi deiseil"
 
-#: core/Tutorial.qml:122
+#: core/Tutorial.qml:125
 msgctxt "Tutorial|"
 msgid "Previous"
 msgstr ""
 
-#: core/Tutorial.qml:181
+#: core/Tutorial.qml:188
 msgctxt "Tutorial|"
 msgid "Next"
 msgstr ""
 
-#: core/Tutorial.qml:239
+#: core/Tutorial.qml:250
 msgctxt "Tutorial|"
 msgid "Skip"
 msgstr ""
