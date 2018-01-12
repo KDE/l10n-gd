@@ -5688,7 +5688,7 @@ msgctxt "Dataset|"
 msgid "Son-in-law"
 msgstr ""
 
-#: activities/family/Family.qml:235
+#: activities/family/Family.qml:237
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Maze"
@@ -5696,7 +5696,12 @@ msgctxt "Family|"
 msgid "Me"
 msgstr "Cuartan"
 
-#: activities/family/Family.qml:348
+#: activities/family/Family.qml:260
+msgctxt "Family|"
+msgid "?"
+msgstr ""
+
+#: activities/family/Family.qml:372
 #, qt-format
 msgctxt "Family|"
 msgid "Select one of the pairs denoting: %1"
