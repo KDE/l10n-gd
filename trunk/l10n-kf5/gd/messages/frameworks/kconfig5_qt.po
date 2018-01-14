@@ -383,9 +383,12 @@ msgid "Key Bindings"
 msgstr "Nasgadh nan iuchraichean"
 
 #: gui/kstandardshortcut.cpp:159
+#, fuzzy
+#| msgctxt "KStandardShortcut|@action"
+#| msgid "Configure Notifications"
 msgctxt "KStandardShortcut|@action"
-msgid "Preferences"
-msgstr "Roghainnean"
+msgid "Configure Application"
+msgstr "Rèitich na brathan"
 
 #: gui/kstandardshortcut.cpp:160
 msgctxt "KStandardShortcut|@action"
@@ -528,3 +531,7 @@ msgid "The value to write. Mandatory, on a shell use '' for empty"
 msgstr ""
 "An luach a thèid a sgrìobhadh. Tha seo riatanach, cleachd '' air shell "
 "airson luach falamh."
+
+#~ msgctxt "KStandardShortcut|@action"
+#~ msgid "Preferences"
+#~ msgstr "Roghainnean"
