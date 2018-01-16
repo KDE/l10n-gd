@@ -15,61 +15,7 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 "X-Qt-Contexts: true\n"
 
-#: kjobtrackerformatters.cpp:32
-#, qt-format
-msgctxt "KJobTrackerFormatters|"
-msgid "%1 B"
-msgstr "%1 B"
-
-#: kjobtrackerformatters.cpp:33
-#, qt-format
-msgctxt "KJobTrackerFormatters|"
-msgid "%1 KiB"
-msgstr "%1 KiB"
-
-#: kjobtrackerformatters.cpp:34
-#, qt-format
-msgctxt "KJobTrackerFormatters|"
-msgid "%1 MiB"
-msgstr "%1 MiB"
-
-#: kjobtrackerformatters.cpp:35
-#, qt-format
-msgctxt "KJobTrackerFormatters|"
-msgid "%1 GiB"
-msgstr "%1 GiB"
-
-#: kjobtrackerformatters.cpp:36
-#, qt-format
-msgctxt "KJobTrackerFormatters|"
-msgid "%1 TiB"
-msgstr "%1 TiB"
-
-#: kjobtrackerformatters.cpp:37
-#, qt-format
-msgctxt "KJobTrackerFormatters|"
-msgid "%1 PiB"
-msgstr "%1 PiB"
-
-#: kjobtrackerformatters.cpp:38
-#, qt-format
-msgctxt "KJobTrackerFormatters|"
-msgid "%1 EiB"
-msgstr "%1 EiB"
-
-#: kjobtrackerformatters.cpp:39
-#, qt-format
-msgctxt "KJobTrackerFormatters|"
-msgid "%1 ZiB"
-msgstr "%1 ZiB"
-
 #: kjobtrackerformatters.cpp:40
-#, qt-format
-msgctxt "KJobTrackerFormatters|"
-msgid "%1 YiB"
-msgstr "%1 YiB"
-
-#: kjobtrackerformatters.cpp:62
 #, qt-format
 msgctxt "KJobTrackerFormatters|@item:intext"
 msgid "%n day(s)"
@@ -79,7 +25,7 @@ msgstr[1] "%n latha"
 msgstr[2] "%n làithean"
 msgstr[3] "%n latha"
 
-#: kjobtrackerformatters.cpp:69
+#: kjobtrackerformatters.cpp:47
 #, qt-format
 msgctxt "KJobTrackerFormatters|@item:intext"
 msgid "%n hour(s)"
@@ -89,7 +35,7 @@ msgstr[1] "%n uair"
 msgstr[2] "%n uairean"
 msgstr[3] "%n uair"
 
-#: kjobtrackerformatters.cpp:76
+#: kjobtrackerformatters.cpp:54
 #, qt-format
 msgctxt "KJobTrackerFormatters|@item:intext"
 msgid "%n minute(s)"
@@ -99,7 +45,7 @@ msgstr[1] "%n mhionaid"
 msgstr[2] "%n mionaidean"
 msgstr[3] "%n mionaid"
 
-#: kjobtrackerformatters.cpp:83
+#: kjobtrackerformatters.cpp:61
 #, qt-format
 msgctxt "KJobTrackerFormatters|@item:intext"
 msgid "%n second(s)"
@@ -109,19 +55,19 @@ msgstr[1] "%n dhiog"
 msgstr[2] "%n diogan"
 msgstr[3] "%n diog"
 
-#: kjobtrackerformatters.cpp:104
+#: kjobtrackerformatters.cpp:82
 #, qt-format
 msgctxt "KJobTrackerFormatters|@item:intext days and hours."
 msgid "%1 and %2"
 msgstr "%1 agus %2"
 
-#: kjobtrackerformatters.cpp:108
+#: kjobtrackerformatters.cpp:86
 #, qt-format
 msgctxt "KJobTrackerFormatters|@item:intext hours and minutes."
 msgid "%1 and %2"
 msgstr "%1 agus %2"
 
-#: kjobtrackerformatters.cpp:112
+#: kjobtrackerformatters.cpp:90
 #, qt-format
 msgctxt "KJobTrackerFormatters|@item:intext minutes and seconds."
 msgid "%1 and %2"
@@ -314,3 +260,39 @@ msgstr[3] "%n faidhle"
 msgctxt "KWidgetJobTracker|"
 msgid "Click this to collapse the dialog, to hide details"
 msgstr "Briog an-seo gus an còmhradh a lùghdachadh 's fiosrachaidh fhalach"
+
+#~ msgctxt "KJobTrackerFormatters|"
+#~ msgid "%1 B"
+#~ msgstr "%1 B"
+
+#~ msgctxt "KJobTrackerFormatters|"
+#~ msgid "%1 KiB"
+#~ msgstr "%1 KiB"
+
+#~ msgctxt "KJobTrackerFormatters|"
+#~ msgid "%1 MiB"
+#~ msgstr "%1 MiB"
+
+#~ msgctxt "KJobTrackerFormatters|"
+#~ msgid "%1 GiB"
+#~ msgstr "%1 GiB"
+
+#~ msgctxt "KJobTrackerFormatters|"
+#~ msgid "%1 TiB"
+#~ msgstr "%1 TiB"
+
+#~ msgctxt "KJobTrackerFormatters|"
+#~ msgid "%1 PiB"
+#~ msgstr "%1 PiB"
+
+#~ msgctxt "KJobTrackerFormatters|"
+#~ msgid "%1 EiB"
+#~ msgstr "%1 EiB"
+
+#~ msgctxt "KJobTrackerFormatters|"
+#~ msgid "%1 ZiB"
+#~ msgstr "%1 ZiB"
+
+#~ msgctxt "KJobTrackerFormatters|"
+#~ msgid "%1 YiB"
+#~ msgstr "%1 YiB"
