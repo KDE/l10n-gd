@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-04-20 02:49+0200\n"
+"POT-Creation-Date: 2018-01-19 03:18+0100\n"
 "PO-Revision-Date: 2016-04-29 13:11+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -371,41 +371,84 @@ msgstr ""
 msgid "Print the status of the Indexer"
 msgstr "Cuir staid an inneil-inneacsaidh air an sgrìn"
 
-#: statuscommand.cpp:54
-#, kde-format
-msgid "Baloo is currently disabled. To enable, please run \"balooctl enable\""
+#: statuscommand.cpp:55
+#, fuzzy, kde-format
+#| msgid ""
+#| "Baloo is currently disabled. To enable, please run \"balooctl enable\""
+msgid "Baloo is currently disabled. To enable, please run %1"
 msgstr ""
 "Tha Baloo à comas an-dràsta. Gus a chur an comas, ruith \"balooctl enable\""
 
-#: statuscommand.cpp:60
+#: statuscommand.cpp:61
 #, kde-format
 msgid "Baloo Index could not be opened"
 msgstr "Cha b' urrainn dhuinn inneacs Baloo fhosgladh"
 
-#: statuscommand.cpp:81
+#: statuscommand.cpp:82
 #, kde-format
 msgid "Baloo File Indexer is running"
 msgstr "Tha inneal-inneacsaidh Baloo 'ga ruith"
 
-#: statuscommand.cpp:82
+#: statuscommand.cpp:83
 #, kde-format
 msgid "Indexer state: %1"
 msgstr "Staid an inneil-inneacsaidh: %1"
 
-#: statuscommand.cpp:85
+#: statuscommand.cpp:86
 #, kde-format
 msgid "Baloo File Indexer is not running"
 msgstr "Chan eil inneal-inneacsaidh Baloo 'ga ruith"
 
-#: statuscommand.cpp:91
+#: statuscommand.cpp:92
 #, kde-format
 msgid "Indexed %1 / %2 files"
 msgstr "Chaidh %1 / %2 faidhle inneacsadh"
 
-#: statuscommand.cpp:108
+#: statuscommand.cpp:100
+#, kde-format
+msgid "Current size of index is %1"
+msgstr ""
+
+#: statuscommand.cpp:102
+#, fuzzy, kde-format
+#| msgid "Path does not exist"
+msgid "Index does not exist yet"
+msgstr "Chan eil an t-slighe ann"
+
+#: statuscommand.cpp:109
 #, kde-format
 msgid "File: %1"
 msgstr "Faidhle: %1"
+
+#: statuscommand.cpp:111
+#, kde-format
+msgid "Basic Indexing: Done"
+msgstr ""
+
+#: statuscommand.cpp:113
+#, kde-format
+msgid "Basic Indexing: Scheduled"
+msgstr ""
+
+#: statuscommand.cpp:117
+#, kde-format
+msgid "Basic Indexing: Disabled"
+msgstr ""
+
+#: statuscommand.cpp:126
+#, kde-format
+msgid "Content Indexing: Scheduled"
+msgstr ""
+
+#: statuscommand.cpp:128
+#, kde-format
+msgid "Content Indexing: Failed"
+msgstr ""
+
+#: statuscommand.cpp:130
+#, kde-format
+msgid "Content Indexing: Done"
+msgstr ""
 
 #~ msgid "Must provide a value"
 #~ msgstr "Feumar luach a shònrachadh"
