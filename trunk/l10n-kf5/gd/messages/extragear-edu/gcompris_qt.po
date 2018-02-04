@@ -11043,7 +11043,7 @@ msgid ""
 "that activity."
 msgstr ""
 
-#: activities/menu/Menu.qml:589
+#: activities/menu/Menu.qml:588
 msgctxt "Menu|"
 msgid "Search specific activities"
 msgstr ""
