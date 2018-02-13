@@ -4216,21 +4216,6 @@ msgctxt "DigitalElectricity|"
 msgid "Select your Mode"
 msgstr ""
 
-#: activities/digital_electricity/ListWidget.qml:120
-msgctxt "ListWidget|"
-msgid "Tools"
-msgstr ""
-
-#: activities/digital_electricity/ListWidget.qml:302
-msgctxt "ListWidget|"
-msgid "+"
-msgstr ""
-
-#: activities/digital_electricity/ListWidget.qml:338
-msgctxt "ListWidget|"
-msgid "-"
-msgstr ""
-
 #. Activity title
 #: activities/drawletters/ActivityInfo.qml:27
 #, fuzzy
