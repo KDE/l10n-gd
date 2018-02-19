@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-02-14 02:25+0000\n"
+"POT-Creation-Date: 2018-02-19 02:26+0000\n"
 "PO-Revision-Date: 2016-04-29 13:18+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -230,17 +230,17 @@ msgctxt "GenericName"
 msgid "Character Map"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/gucharmap.desktop:31
+#: data/kmoretools-desktopfiles/gucharmap.desktop:32
 msgctxt "Name"
 msgid "GNOME Character Map"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/gucharmap.desktop:60
+#: data/kmoretools-desktopfiles/gucharmap.desktop:62
 msgctxt "Comment"
 msgid "Insert special characters into documents"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/gucharmap.desktop:90
+#: data/kmoretools-desktopfiles/gucharmap.desktop:92
 msgctxt "Keywords"
 msgid "font;unicode;"
 msgstr ""
