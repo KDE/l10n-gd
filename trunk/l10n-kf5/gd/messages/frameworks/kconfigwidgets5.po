@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kconfigwidgets5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-12-16 03:10+0100\n"
+"POT-Creation-Date: 2018-02-20 03:16+0100\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -58,11 +58,6 @@ msgstr "Mothaich gu fèin-obrachail"
 msgctxt "@title:window"
 msgid "Configure"
 msgstr "Rèitich"
-
-#: klanguagebutton.cpp:195
-#, kde-format
-msgid "without name"
-msgstr "gun ainm"
 
 #: krecentfilesaction.cpp:78
 #, kde-format
@@ -630,3 +625,6 @@ msgstr "Ai&r ais"
 msgctxt "@action:button Goes to next tip, opposite to previous"
 msgid "&Next"
 msgstr "Air &adhart"
+
+#~ msgid "without name"
+#~ msgstr "gun ainm"
