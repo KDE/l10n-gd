@@ -10098,11 +10098,11 @@ msgstr "Geama cuimhne cuir ris is toirt air falbh an aghaidh Tux"
 #: activities/memory-math-add-minus/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid ""
-"Turn the cards over to find two numbers which subtract the same, until all "
-"the cards are gone."
+"Turn the cards over to find two numbers which add or subtract the same, "
+"until all the cards are gone."
 msgstr ""
 "Thoir car air dà cairt gus an dèan na tha air an dàrna cairt na tha air a’ "
-"chairt eile ’s tu a’ toirt air falbh."
+"chairt eile ’s tu a’ cur àireamhan ri chèile no an toirt air falbh."
 
 #. Help goal
 #: activities/memory-math-add-minus-tux/ActivityInfo.qml:32
@@ -10305,11 +10305,11 @@ msgstr "Geama cuimhne iomadachaidh an aghaidh Tux"
 #: activities/memory-math-minus/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid ""
-"Turn the cards over to find two numbers which add or subtract the same, "
-"until all the cards are gone."
+"Turn the cards over to find two numbers which subtract the same, until all "
+"the cards are gone."
 msgstr ""
 "Thoir car air dà cairt gus an dèan na tha air an dàrna cairt na tha air a’ "
-"chairt eile ’s tu a’ cur àireamhan ri chèile no an toirt air falbh."
+"chairt eile ’s tu a’ toirt air falbh."
 
 #. Help goal
 #: activities/memory-math-minus-tux/ActivityInfo.qml:32
@@ -11031,7 +11031,7 @@ msgid ""
 "that activity."
 msgstr ""
 
-#: activities/menu/Menu.qml:588
+#: activities/menu/Menu.qml:601
 msgctxt "Menu|"
 msgid "Search specific activities"
 msgstr ""
