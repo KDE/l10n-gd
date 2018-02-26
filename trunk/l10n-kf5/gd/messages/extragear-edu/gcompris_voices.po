@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gcompris voices\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-01-15 03:03+0100\n"
+"POT-Creation-Date: 2018-02-26 03:12+0100\n"
 "PO-Revision-Date: 2017-05-27 14:21+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: gd <kde-i18n-doc@kde.org>\n"
@@ -413,7 +413,7 @@ msgstr ""
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "penalty"
 #: : input:104
 #, fuzzy, kde-format
-msgid "Double click or double tap on the ball to score a goal."
+msgid "Double click or double tap on the goal, in order to score."
 msgstr "Dèan briogadh dùbailte air a' bhàla gus a bhreabadh."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "categorization"
