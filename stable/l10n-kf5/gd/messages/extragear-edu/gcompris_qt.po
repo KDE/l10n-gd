@@ -13534,12 +13534,12 @@ msgctxt "DialogActivityConfig|"
 msgid "Configuration"
 msgstr ""
 
-#: core/DialogHelp.qml:63
+#: core/DialogHelp.qml:61
 msgctxt "DialogHelp|"
 msgid "Author:"
 msgstr ""
 
-#: core/DialogHelp.qml:67
+#: core/DialogHelp.qml:65
 #, fuzzy
 #| msgctxt "DialogHelp|"
 #| msgid "Prerequisite"
@@ -13547,7 +13547,7 @@ msgctxt "DialogHelp|"
 msgid "Prerequisite:"
 msgstr "Ro-ghoireasan riatanach"
 
-#: core/DialogHelp.qml:72
+#: core/DialogHelp.qml:70
 #, fuzzy
 #| msgctxt "DialogHelp|"
 #| msgid "Goal"
@@ -13555,7 +13555,7 @@ msgctxt "DialogHelp|"
 msgid "Goal:"
 msgstr "Amas"
 
-#: core/DialogHelp.qml:77
+#: core/DialogHelp.qml:75
 #, fuzzy
 #| msgctxt "DialogHelp|"
 #| msgid "Manual"
@@ -13563,7 +13563,7 @@ msgctxt "DialogHelp|"
 msgid "Manual:"
 msgstr "Stiùireadh"
 
-#: core/DialogHelp.qml:81
+#: core/DialogHelp.qml:79
 #, fuzzy
 #| msgctxt "DialogHelp|"
 #| msgid "Credit"
@@ -13571,7 +13571,7 @@ msgctxt "DialogHelp|"
 msgid "Credit:"
 msgstr "Cliù"
 
-#: core/DialogHelp.qml:85
+#: core/DialogHelp.qml:83
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Addition"
