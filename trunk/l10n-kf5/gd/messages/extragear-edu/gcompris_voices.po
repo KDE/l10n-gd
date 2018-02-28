@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gcompris voices\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-02-26 03:12+0100\n"
+"POT-Creation-Date: 2018-02-28 03:14+0100\n"
 "PO-Revision-Date: 2017-05-27 14:21+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: gd <kde-i18n-doc@kde.org>\n"
@@ -164,8 +164,7 @@ msgid "Type the letters on your keyboard before they reach the ground."
 msgstr "Buail na litrichean air a' mheur-chlàr agad mus ruig iad an làr."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "calendar"
-#. i18n: intro voices, see GCompris-voices/README.md - activity: "find_the_day"
-#: : input:44 input:214
+#: : input:44
 #, kde-format
 msgid "Select the asked date on the calendar"
 msgstr ""
@@ -330,12 +329,13 @@ msgstr ""
 "Sleamhnaich na càraichean às an rathad ach an urrainn dhan chàr dearg am "
 "bogsa fhàgail."
 
-#. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-case-association-tux"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-case-association"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-case-association-tux"
 #: : input:82 input:116
-#, kde-format
-msgid "Match the alphabet with its upper);"
-msgstr ""
+#, fuzzy, kde-format
+#| msgid "Match the numeric with the word."
+msgid "Match the upper case card with its lower case pair."
+msgstr "Cuir àireamh agus am facal ceart còmhla."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "gnumch-equality"
 #: : input:84
@@ -494,17 +494,20 @@ msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "redraw_symmetrical"
 #: : input:132
-#, kde-format
+#, fuzzy, kde-format
+#| msgid ""
+#| "Use the drawing tools to reproduce a symmetrical figure on the right hand "
+#| "side."
 msgid ""
-"Use the drawing tools to reproduce the right-hand side symmetrical figure."
+"Use the drawing tools to reproduce symmetrically the pattern on the right."
 msgstr ""
-"Cleachd na h-innealan tarraing gus an cruth co-chothromaichte air an taobh "
-"deas a tharraig as ùr."
+"Cleachd na h-innealan tarraing gus cruth co-chothromaichte a tharraing às ùr "
+"air an taobh deas."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "digital_electricity"
 #: : input:136
 #, kde-format
-msgid "Learn how the digital electricity works and create your own circuit"
+msgid "Learn how digital electronics work and create your own circuit."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "renewable_energy"
@@ -540,7 +543,7 @@ msgstr "Tog an t-aon tùr san raon fhalamh a chì thu air an taobh deas."
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "number_sequence"
 #: : input:148
 #, fuzzy, kde-format
-msgid "Draw the picture by touching each number in the right sequence."
+msgid "Draw the picture by touching the numbers in ascending order."
 msgstr "Tarraing an dealbh, a' briogadh air gach àireamh san òrdugh cheart."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "erase_2clic"
@@ -573,11 +576,16 @@ msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "superbrain"
 #: : input:160
-#, kde-format
+#, fuzzy, kde-format
+#| msgid ""
+#| "Find out the right combination of colors. A black pin means you found the "
+#| "correct colour in the correct position, a white pin means it's the "
+#| "correct colour but in the wrong position."
 msgid ""
-"Find out the right combination of colors. A black pin means you found the "
-"correct colour in the correct position, a white pin means it's the correct "
-"colour but in the wrong position."
+"Find out the right combination of colors. A dot framed in a black square "
+"means that you found the correct colour in the correct position, while a dot "
+"framed in a white square means it's the correct colour, but in the wrong "
+"position."
 msgstr ""
 "Lorg na dathan a tha a dhìth 's tu a' briogadh air na dotagan aig bonn na "
 "sgrìn. Innsidh prìne dhubh dhut gun do lorg thu an dath a tha a dhìth san "
@@ -715,14 +723,21 @@ msgstr ""
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "target"
 #: : input:194
 #, kde-format
-msgid "Click on the target to launch darts, then count your score!"
+msgid "Click on the target to launch darts, then count your final score!"
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "numbers-odd-even"
 #: : input:196
-#, kde-format
-msgid "Move the helicopter to catch the clouds having even or odd numbers"
+#, fuzzy, kde-format
+#| msgid ""
+#| "Move the helicopter with the arrow keys and catch the number in the "
+#| "clouds in numerical order."
+msgid ""
+"Move the helicopter to catch the clouds having even or odd numbers, in the "
+"shown order."
 msgstr ""
+"Gluais an heileacoptair leis na saighdean agus glac na h-àireamhan sna neòil "
+"ann an òrdugh àireamhail."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "watercycle"
 #: : input:198
@@ -761,6 +776,13 @@ msgstr ""
 "Cuir na h-àireamhan a chaidh a thoirt dhut còmhla ris na h-obrachaidhean "
 "iomchaidh ach am faigh thu an toradh a chì thu aig a' bharr."
 
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "find_the_day"
+#: : input:214
+#, fuzzy, kde-format
+#| msgid "Click on the right color"
+msgid "Select the required day."
+msgstr "Briog air an dath cheart."
+
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "mining"
 #: : input:220
 #, kde-format
@@ -772,10 +794,13 @@ msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "planegame"
 #: : input:222
-#, kde-format
+#, fuzzy, kde-format
+#| msgid ""
+#| "Move the helicopter with the arrow keys and catch the number in the "
+#| "clouds in numerical order."
 msgid ""
-"Move the helicopter with the arrow keys and catch the number in the clouds "
-"in numerical order."
+"Move the helicopter with the arrow keys and catch the numbers in the clouds, "
+"in ascending order."
 msgstr ""
 "Gluais an heileacoptair leis na saighdean agus glac na h-àireamhan sna neòil "
 "ann an òrdugh àireamhail."
@@ -830,10 +855,11 @@ msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "redraw"
 #: : input:236
-#, kde-format
-msgid ""
-"Use the drawing tools to reproduce a symmetrical figure on the right hand "
-"side."
+#, fuzzy, kde-format
+#| msgid ""
+#| "Use the drawing tools to reproduce a symmetrical figure on the right hand "
+#| "side."
+msgid "Use the drawing tools to build an identical pattern on the right."
 msgstr ""
 "Cleachd na h-innealan tarraing gus cruth co-chothromaichte a tharraing às ùr "
 "air an taobh deas."
@@ -855,8 +881,8 @@ msgstr ""
 #: : input:242
 #, fuzzy, kde-format
 msgid ""
-" Click on each item in turn in the left frame and move them to mirror their "
-"position in the right frame."
+" Click on each item in turn, in the left frame, and move them to reproduce "
+"the pattern from the right frame."
 msgstr ""
 "Briog air gach ball mu seach sa bhogsa air an taobh chlì agus gluais iad "
 "leis na saighdean gus am bidh iad co-ionnan ris an fheadhainn sa bhogsa air "
@@ -1008,6 +1034,12 @@ msgid ""
 "Count the number of the points on the dominoes then type the result on your "
 "keyboard."
 msgstr ""
+
+#~ msgid ""
+#~ "Use the drawing tools to reproduce the right-hand side symmetrical figure."
+#~ msgstr ""
+#~ "Cleachd na h-innealan tarraing gus an cruth co-chothromaichte air an "
+#~ "taobh deas a tharraig as ùr."
 
 #, fuzzy
 #~ msgid "find the dancing butterfly having the requested color"

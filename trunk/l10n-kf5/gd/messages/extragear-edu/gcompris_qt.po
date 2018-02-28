@@ -4500,7 +4500,7 @@ msgstr ""
 #: activities/explore_farm_animals/resource/board/board1.qml:56
 msgctxt "board1|"
 msgid ""
-"The cow goes 'moo. moo.'. Cows are herbivorous mammals. They graze all day "
+"The cow goes 'moo! moo!'. Cows are herbivorous mammals. They graze all day "
 "in the meadow."
 msgstr ""
 
@@ -4640,9 +4640,12 @@ msgid "This animal is a close relative to the goat."
 msgstr "Is an t-amas gach solas a chur dheth."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:153
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Kick the ball into the goal"
 msgctxt "board1|"
-msgid "Click on the questions to explore each farm animal."
-msgstr ""
+msgid "Click on each farm animal to discover them."
+msgstr "Breab am bàla dhan tadhal"
 
 #: activities/explore_farm_animals/resource/board/board1.qml:156
 #, fuzzy
@@ -6614,7 +6617,7 @@ msgstr ""
 
 #: activities/geo-country/resource/board/board16_0.qml:25
 msgctxt "board16_0|"
-msgid "Provinces of Romania"
+msgid "Historical provinces of Romania"
 msgstr ""
 
 #: activities/geo-country/resource/board/board1_0.qml:25
@@ -8182,7 +8185,7 @@ msgstr ""
 #. Help goal
 #: activities/guesscount/ActivityInfo.qml:37
 msgctxt "ActivityInfo|"
-msgid "To learn algebra"
+msgid "Intuition and practice of algebraic-like calculations."
 msgstr ""
 
 #. Help prerequisite
@@ -11871,13 +11874,9 @@ msgstr ""
 #: activities/redraw/ActivityInfo.qml:36
 #: activities/redraw_symmetrical/ActivityInfo.qml:36
 msgctxt "ActivityInfo|"
-msgid "First, select the proper color from the toolbar. Then drag to paint."
-msgstr ""
-
-#: activities/redraw/ActivityInfo.qml:37
-msgctxt "ActivityInfo|"
 msgid ""
-"At the first level a hint is provided to show that no symmetry is requested."
+"First, select the proper color from the toolbar. Then click on the grid and "
+"drag to paint, then release the click to stop painting."
 msgstr ""
 
 #. Activity title
@@ -11890,12 +11889,6 @@ msgstr ""
 #: activities/redraw_symmetrical/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Draw the image on the empty grid as if you see it in a mirror."
-msgstr ""
-
-#: activities/redraw_symmetrical/ActivityInfo.qml:37
-msgctxt "ActivityInfo|"
-msgid ""
-"At the first level a hint is provided to show that a symmetry is requested."
 msgstr ""
 
 #. Activity title
@@ -13584,12 +13577,12 @@ msgctxt "DialogActivityConfig|"
 msgid "Configuration"
 msgstr ""
 
-#: core/DialogHelp.qml:63
+#: core/DialogHelp.qml:61
 msgctxt "DialogHelp|"
 msgid "Author:"
 msgstr ""
 
-#: core/DialogHelp.qml:67
+#: core/DialogHelp.qml:65
 #, fuzzy
 #| msgctxt "DialogHelp|"
 #| msgid "Prerequisite"
@@ -13597,7 +13590,7 @@ msgctxt "DialogHelp|"
 msgid "Prerequisite:"
 msgstr "Ro-ghoireasan riatanach"
 
-#: core/DialogHelp.qml:72
+#: core/DialogHelp.qml:70
 #, fuzzy
 #| msgctxt "DialogHelp|"
 #| msgid "Goal"
@@ -13605,7 +13598,7 @@ msgctxt "DialogHelp|"
 msgid "Goal:"
 msgstr "Amas"
 
-#: core/DialogHelp.qml:77
+#: core/DialogHelp.qml:75
 #, fuzzy
 #| msgctxt "DialogHelp|"
 #| msgid "Manual"
@@ -13613,7 +13606,7 @@ msgctxt "DialogHelp|"
 msgid "Manual:"
 msgstr "Stiùireadh"
 
-#: core/DialogHelp.qml:81
+#: core/DialogHelp.qml:79
 #, fuzzy
 #| msgctxt "DialogHelp|"
 #| msgid "Credit"
@@ -13621,7 +13614,7 @@ msgctxt "DialogHelp|"
 msgid "Credit:"
 msgstr "Cliù"
 
-#: core/DialogHelp.qml:85
+#: core/DialogHelp.qml:83
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Addition"
