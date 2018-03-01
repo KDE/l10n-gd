@@ -6550,6 +6550,17 @@ msgctxt "ActivityInfo|"
 msgid "Drag and Drop the regions to redraw the whole country"
 msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
 
+#. Help manual
+#: activities/geo-country/ActivityInfo.qml:40
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Drag and Drop weights to balance the scales"
+msgctxt "ActivityInfo|"
+msgid ""
+"Drag and drop different regions of the country to correct locations to "
+"redraw the whole country."
+msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
+
 #: activities/geo-country/resource/board/board10_0.qml:26
 msgctxt "board10_0|"
 msgid "United States of America"
@@ -6688,6 +6699,16 @@ msgstr ""
 #| msgid "Drag and Drop weights to balance the scales"
 msgctxt "ActivityInfo|"
 msgid "Drag and Drop the items to redraw the whole map"
+msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
+
+#. Help manual
+#: activities/geography/ActivityInfo.qml:40
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Drag and Drop weights to balance the scales"
+msgctxt "ActivityInfo|"
+msgid ""
+"Drag and drop the map pieces to correct locations to redraw the whole map."
 msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
 
 #: activities/geography/resource/board/board10_0.qml:25
