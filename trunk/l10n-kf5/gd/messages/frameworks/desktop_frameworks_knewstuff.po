@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-03-05 02:32+0000\n"
+"POT-Creation-Date: 2018-03-06 02:35+0000\n"
 "PO-Revision-Date: 2016-04-29 13:18+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -57,7 +57,7 @@ msgctxt "GenericName"
 msgid "Animated GIF recorder"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/com.uploadedlobster.peek.desktop:64
+#: data/kmoretools-desktopfiles/com.uploadedlobster.peek.desktop:65
 msgctxt "Comment"
 msgid "Record short animated GIF images from your screen"
 msgstr ""
