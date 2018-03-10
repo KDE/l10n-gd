@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-02-26 02:32+0000\n"
+"POT-Creation-Date: 2018-03-10 02:31+0000\n"
 "PO-Revision-Date: 2016-04-29 19:26+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,29 +21,29 @@ msgctxt "Comment"
 msgid "Report a bug in Plasma"
 msgstr "Innis dhuinn mu bhuga ann am Plasma"
 
-#: examples/applets/bugreport/metadata.desktop:45
+#: examples/applets/bugreport/metadata.desktop:44
 msgctxt "Keywords"
 msgid "plasma;bugzilla;bug;development;support;"
 msgstr "plasma;bugzilla;bug;development;support;buga;leasachadh;taic;cobhair;"
 
-#: examples/applets/bugreport/metadata.desktop:83
+#: examples/applets/bugreport/metadata.desktop:82
 #: examples/developerguide/basic/metadata.desktop:39
 msgctxt "Name"
 msgid "Bug"
 msgstr "Buga"
 
-#: examples/applets/compactrepresentation/metadata.desktop:5
-#: examples/applets/helloworld/metadata.desktop:5
+#: examples/applets/compactrepresentation/metadata.desktop:4
+#: examples/applets/helloworld/metadata.desktop:4
 msgctxt "Name"
 msgid "hello world"
 msgstr "Shin thu, a shaoghail"
 
-#: examples/applets/conditionalloader/metadata.desktop:4
+#: examples/applets/conditionalloader/metadata.desktop:3
 msgctxt "Name"
 msgid "Applet Test"
 msgstr "Deuchainn air aplaid"
 
-#: examples/applets/config/metadata.desktop:4
+#: examples/applets/config/metadata.desktop:3
 msgctxt "Name"
 msgid "Configuration test"
 msgstr "Deuchainn air an rèiteachadh"
@@ -55,7 +55,7 @@ msgstr ""
 "Aplaid-eisimpleir a sheallas mar a chleachdas tu modailean leabaichte ann an "
 "DataEngines"
 
-#: examples/applets/dataenginemodel/metadata.desktop:42
+#: examples/applets/dataenginemodel/metadata.desktop:41
 msgctxt "Name"
 msgid "Dataengine model"
 msgstr "Modail inneil-dàta"
@@ -65,7 +65,7 @@ msgctxt "Comment"
 msgid "Example on how to manage Drop data"
 msgstr "Ball-eisimpleir air mar a stiùiricheas tu dàta Drop"
 
-#: examples/applets/notes/metadata.desktop:43
+#: examples/applets/notes/metadata.desktop:42
 msgctxt "Name"
 msgid "Example notes"
 msgstr "Nòtaichean-eisimpleir"
@@ -94,42 +94,42 @@ msgstr ""
 "Buill-eisimpleir a sheallas dhut mar a sgrìobhas tu Widget shaothraichean "
 "agad fhèin"
 
-#: examples/applets/samegame/metadata.desktop:3
+#: examples/applets/samegame/metadata.desktop:2
 msgctxt "Name"
 msgid "Same game (QML)"
 msgstr "An aon gheama (QML)"
 
-#: examples/applets/samegame/metadata.desktop:43
+#: examples/applets/samegame/metadata.desktop:42
 msgctxt "Comment"
 msgid "The Same game QML Qt demo converted as plasmoid"
 msgstr "Taisbeanadh air QML Qt an aon gheama mar phlasmoid"
 
-#: examples/applets/testcomponents/metadata.desktop:4
+#: examples/applets/testcomponents/metadata.desktop:3
 msgctxt "Name"
 msgid "Components Test"
 msgstr "Deuchainn air co-phàirtean"
 
-#: examples/applets/testshaders/metadata.desktop:4
+#: examples/applets/testshaders/metadata.desktop:3
 msgctxt "Name"
 msgid "Shader Test"
 msgstr "Deuchainn air sgàileadairean"
 
-#: examples/applets/testshaders/metadata.desktop:44
+#: examples/applets/testshaders/metadata.desktop:43
 msgctxt "Comment"
 msgid "Futzing with Visual Effects"
 msgstr "A' cluich le èifeachdan lèirsinne"
 
-#: examples/applets/testtheme/metadata.desktop:4
+#: examples/applets/testtheme/metadata.desktop:3
 msgctxt "Name"
 msgid "Theme Test"
 msgstr "Deuchainn air ùrlar"
 
-#: examples/applets/widgetgallery/metadata.desktop:3
+#: examples/applets/widgetgallery/metadata.desktop:2
 msgctxt "Name"
 msgid "Widgets gallery"
 msgstr "Gailearaidh nan widgets"
 
-#: examples/applets/widgetgallery/metadata.desktop:45
+#: examples/applets/widgetgallery/metadata.desktop:44
 msgctxt "Comment"
 msgid "gallery of widgets done with Plasma QtComponents"
 msgstr "Gailearaidh de widgets a chaidh a dhèanamh le QtComponents Plasma"
@@ -144,7 +144,7 @@ msgctxt "Comment"
 msgid "Example showing how to display window thumbnails"
 msgstr "Eisimpleir a sheallas dhut mar a nochdas tu dealbhagan uinneagan"
 
-#: examples/containments/testcontainment/metadata.desktop:4
+#: examples/containments/testcontainment/metadata.desktop:3
 msgctxt "Name"
 msgid "Containment Test"
 msgstr "Deuchainn air soithichean"
@@ -199,7 +199,7 @@ msgctxt "Comment"
 msgid "A dummy plugin for testing"
 msgstr "Plugan dumaidh a chum deuchainn"
 
-#: examples/wallpapers/autumn/metadata.desktop:4
+#: examples/wallpapers/autumn/metadata.desktop:3
 msgctxt "Name"
 msgid "Autumn"
 msgstr "Foghar"
