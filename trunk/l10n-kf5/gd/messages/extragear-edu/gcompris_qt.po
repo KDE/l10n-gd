@@ -4224,7 +4224,7 @@ msgstr ""
 #. Help goal
 #: activities/drawletters/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
-msgid "Children will learn how to draw different letters in a fun way."
+msgid "Learning how to draw the letters in a funny way."
 msgstr ""
 
 #. Help manual
@@ -4254,7 +4254,7 @@ msgstr ""
 #. Help goal
 #: activities/drawnumbers/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
-msgid "Children will learn how to draw different numbers in a fun way."
+msgid "Learning how to draw the numbers in a funny way."
 msgstr ""
 
 #. Help manual
@@ -9701,7 +9701,7 @@ msgstr "Breab am bàla dhan tadhal"
 #. The math operation
 #: activities/magic-hat-minus/MagicHat.qml:104
 msgctxt "MagicHat|"
-msgid "-"
+msgid "−"
 msgstr ""
 
 #: activities/magic-hat-minus/MagicHat.qml:104
@@ -10176,11 +10176,18 @@ msgstr "Geama cuimhne cuir ris an aghaidh Tux"
 
 #. Help title
 #: activities/memory-math-add-tux/ActivityInfo.qml:29
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Turn the cards over to find two numbers which add up the same, until all "
+#| "the cards are gone."
 msgctxt "ActivityInfo|"
 msgid ""
 "Turn the cards over to find two numbers which add up the same, until all the "
-"cards are gone. Tux do the same. You have to beat it !"
+"cards are gone. Tux will do the same. You have to beat it !"
 msgstr ""
+"Thoir car air dà cairt gus an dèan na tha air an dàrna cairt na tha air a’ "
+"chairt eile ’s tu a’ cur àireamhan ri chèile."
 
 #. Help goal
 #: activities/memory-math-add-tux/ActivityInfo.qml:32
@@ -10339,7 +10346,8 @@ msgstr ""
 #| msgctxt "ActivityInfo|"
 #| msgid "Practise addition, subtraction, until all the cards are gone."
 msgctxt "ActivityInfo|"
-msgid "Practice subtraction, until all the cards are gone. Tux do the same"
+msgid ""
+"Practice subtraction, until all the cards are gone. Tux will do the same"
 msgstr ""
 "Cleachd cur ri chèile is toirt air falbh gus am bi a h-uile cairt air falbh."
 
@@ -10741,7 +10749,7 @@ msgstr ""
 
 #: activities/memory/math_util.js:39
 msgctxt "math_util|"
-msgid "-"
+msgid "−"
 msgstr ""
 
 #: activities/memory/math_util.js:50 activities/memory/math_util.js:53
@@ -10868,54 +10876,54 @@ msgstr ""
 "    ctrl-f – Toglaich am modh làn-sgrìn\n"
 "    ctrl-m – Toglaich mùchadh air ceòl a’ chùlaibh"
 
-#: activities/menu/ConfigurationItem.qml:78
+#: activities/menu/ConfigurationItem.qml:77
 msgctxt "ConfigurationItem|"
 msgid "You have the full version"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:79
+#: activities/menu/ConfigurationItem.qml:78
 msgctxt "ConfigurationItem|"
 msgid "Buy the full version"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:142
+#: activities/menu/ConfigurationItem.qml:141
 msgctxt "ConfigurationItem|"
 msgid ""
 "On <a href='http://gcompris.net'>http://gcompris.net</a> you will find the "
 "instructions to obtain an activation code."
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:164
+#: activities/menu/ConfigurationItem.qml:163
 msgctxt "ConfigurationItem|"
 msgid "Enter your activation code"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:167
+#: activities/menu/ConfigurationItem.qml:166
 msgctxt "ConfigurationItem|"
 msgid "Sorry, your code is too old for this version of GCompris"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:170
+#: activities/menu/ConfigurationItem.qml:169
 msgctxt "ConfigurationItem|"
 msgid "Your code is valid, thanks a lot for your support"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:190
+#: activities/menu/ConfigurationItem.qml:189
 msgctxt "ConfigurationItem|"
 msgid "Show locked activities"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:200
+#: activities/menu/ConfigurationItem.qml:199
 msgctxt "ConfigurationItem|"
 msgid "Enable audio voices"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:209
+#: activities/menu/ConfigurationItem.qml:208
 msgctxt "ConfigurationItem|"
 msgid "Enable audio effects"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:218
+#: activities/menu/ConfigurationItem.qml:217
 #, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Fullscreen"
@@ -10923,22 +10931,22 @@ msgctxt "ConfigurationItem|"
 msgid "Fullscreen"
 msgstr "Làn-sgrìn"
 
-#: activities/menu/ConfigurationItem.qml:228
+#: activities/menu/ConfigurationItem.qml:227
 msgctxt "ConfigurationItem|"
 msgid "Virtual Keyboard"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:238
+#: activities/menu/ConfigurationItem.qml:237
 msgctxt "ConfigurationItem|"
 msgid "Enable automatic downloads/updates of sound files"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:252
+#: activities/menu/ConfigurationItem.qml:251
 msgctxt "ConfigurationItem|"
 msgid "Use full word image set"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:252
+#: activities/menu/ConfigurationItem.qml:251
 #, fuzzy
 #| msgctxt "instruments|"
 #| msgid "Find the triangle"
@@ -10946,102 +10954,102 @@ msgctxt "ConfigurationItem|"
 msgid "Download full word image set"
 msgstr "Lorg an triantan"
 
-#: activities/menu/ConfigurationItem.qml:263
+#: activities/menu/ConfigurationItem.qml:262
 msgctxt "ConfigurationItem|"
 msgid "The activity section menu is visible"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:276
+#: activities/menu/ConfigurationItem.qml:275
 msgctxt "ConfigurationItem|"
 msgid "Font selector"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:306
+#: activities/menu/ConfigurationItem.qml:292
 msgctxt "ConfigurationItem|"
 msgid "Font size"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:312
-#: activities/menu/ConfigurationItem.qml:360
+#: activities/menu/ConfigurationItem.qml:298
+#: activities/menu/ConfigurationItem.qml:333
 msgctxt "ConfigurationItem|"
 msgid "Default"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:324
+#: activities/menu/ConfigurationItem.qml:310
 msgctxt "ConfigurationItem|"
 msgid "Font Capitalization"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:354
+#: activities/menu/ConfigurationItem.qml:327
 msgctxt "ConfigurationItem|"
 msgid "Font letter spacing"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:373
+#: activities/menu/ConfigurationItem.qml:346
 msgctxt "ConfigurationItem|"
 msgid "Language selector"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:400
+#: activities/menu/ConfigurationItem.qml:373
 msgctxt "ConfigurationItem|"
 msgid "Localized voices"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:416
+#: activities/menu/ConfigurationItem.qml:389
 msgctxt "ConfigurationItem|"
 msgid "Check for updates"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:417
+#: activities/menu/ConfigurationItem.qml:390
 msgctxt "ConfigurationItem|"
 msgid "Download"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:435
+#: activities/menu/ConfigurationItem.qml:408
 msgctxt "ConfigurationItem|"
 msgid "Difficulty filter:"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:637
+#: activities/menu/ConfigurationItem.qml:610
 msgctxt "ConfigurationItem|"
 msgid ""
 "You selected a new locale. You need to restart GCompris to play in your new "
 "locale.<br/>Do you want to download the corresponding sound files now?"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:638
-#: activities/menu/ConfigurationItem.qml:675
+#: activities/menu/ConfigurationItem.qml:611
+#: activities/menu/ConfigurationItem.qml:648
 msgctxt "ConfigurationItem|"
 msgid "Yes"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:644
-#: activities/menu/ConfigurationItem.qml:680
+#: activities/menu/ConfigurationItem.qml:617
+#: activities/menu/ConfigurationItem.qml:653
 msgctxt "ConfigurationItem|"
 msgid "No"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:673
+#: activities/menu/ConfigurationItem.qml:646
 msgctxt "ConfigurationItem|"
 msgid "The images for several activities are not yet installed. "
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:674
+#: activities/menu/ConfigurationItem.qml:647
 msgctxt "ConfigurationItem|"
 msgid "Do you want to download them now?"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:733
+#: activities/menu/ConfigurationItem.qml:706
 msgctxt "ConfigurationItem|"
 msgid "Mixed case (default)"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:734
+#: activities/menu/ConfigurationItem.qml:707
 msgctxt "ConfigurationItem|"
 msgid "All uppercase"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:735
+#: activities/menu/ConfigurationItem.qml:708
 msgctxt "ConfigurationItem|"
 msgid "All lowercase"
 msgstr ""
