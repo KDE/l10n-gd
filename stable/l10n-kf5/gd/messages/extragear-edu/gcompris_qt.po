@@ -1540,14 +1540,21 @@ msgstr "Gnìomhachd mìosachain"
 
 #. Help title
 #: activities/calendar/ActivityInfo.qml:29
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Review the instructions and select the correct date on calendar."
 msgctxt "ActivityInfo|"
-msgid "Read the task and select the correct date on calendar"
-msgstr "Leugh dè an t-saothair agus tagh an ceann-là ceart air a’ mhìosachan"
+msgid "Read the instructions and select the correct date on the calendar"
+msgstr ""
+"Thoir sùil air an stiùireadh agus tagh an ceann-là ceart air a’ mhìosachan."
 
 #. Help goal
 #: activities/calendar/ActivityInfo.qml:32
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn to use a calendar efficiently"
 msgctxt "ActivityInfo|"
-msgid "Learn to use a calendar efficiently"
+msgid "Learn how to use a calendar"
 msgstr "Ionnsaich mar a chleachdas tu mìosachan gu h-èifeachdach"
 
 #. Help prerequisite
@@ -1558,9 +1565,11 @@ msgstr "Coincheap na seachdain, a’ mhìos is na bliadhna"
 
 #. Help manual
 #: activities/calendar/ActivityInfo.qml:36
-#: activities/find_the_day/ActivityInfo.qml:36
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Review the instructions and select the correct date on calendar."
 msgctxt "ActivityInfo|"
-msgid "Review the instructions and select the correct date on calendar."
+msgid "Read the instructions and select the correct date on the calendar."
 msgstr ""
 "Thoir sùil air an stiùireadh agus tagh an ceann-là ceart air a’ mhìosachan."
 
@@ -1795,46 +1804,71 @@ msgid "Find the second Friday of December month of year 2017"
 msgstr "Lorg an dàrna DihAoine san Dùbhlachd sa bhliadhna 2017"
 
 #: activities/calendar/calendar_dataset.js:295
+#, fuzzy
+#| msgctxt "calendar_dataset|"
+#| msgid ""
+#| "Braille Day is celebrated one day before January 5. Find the date of "
+#| "Braille Day in 2018"
 msgctxt "calendar_dataset|"
 msgid ""
-"Columbus Day is celebrated on the second monday of October. Find the date of "
-"Columbus Day in 2018"
+"Human Rights Day is celebrated five days after December 5.<br> Find the date "
+"of Human Rights Day in 2017."
 msgstr ""
-"Thèid Là Cholumbus a chomharradh an dàrna DiLuain san Dàmhair. Lorg ceann-là "
-"Là Cholumbus ann an 2018."
+"Thèid Là Braille a chomharradh aon latha ron 5mh dhe Fhaoilleach. Lorg ceann-"
+"là Là Braille ann an 2018."
 
 #: activities/calendar/calendar_dataset.js:299
+#, fuzzy
+#| msgctxt "calendar_dataset|"
+#| msgid ""
+#| "Braille Day is celebrated one day before January 5. Find the date of "
+#| "Braille Day in 2018"
 msgctxt "calendar_dataset|"
 msgid ""
-"Braille Day is celebrated one day before January 5. Find the date of Braille "
-"Day in 2018"
+"Braille Day is celebrated one day before January 5.<br> Find the date of "
+"Braille Day in 2018"
 msgstr ""
 "Thèid Là Braille a chomharradh aon latha ron 5mh dhe Fhaoilleach. Lorg ceann-"
 "là Là Braille ann an 2018."
 
 #: activities/calendar/calendar_dataset.js:303
+#, fuzzy
+#| msgctxt "calendar_dataset|"
+#| msgid ""
+#| "Mark's birthday is on March 4. His party is exactly two weeks later. Find "
+#| "the date of his party in 2018"
 msgctxt "calendar_dataset|"
 msgid ""
-"Mark's birthday is on March 4. His party is exactly two weeks later. Find "
-"the date of his party in 2018"
+"Mark's birthday is on November 4. In 2017 his party was exactly two weeks "
+"later.<br> Find the date of his party in 2017"
 msgstr ""
 "Tha co-là breith aig Mark air a’ 4mh latha dhen Mhàrt. Bidh pàrtaidh aige dà "
 "sheachdain ’na dhèidh. Dè an ceann-là air am bi am pàrtaidh aige ann an 2018?"
 
 #: activities/calendar/calendar_dataset.js:307
+#, fuzzy
+#| msgctxt "calendar_dataset|"
+#| msgid ""
+#| "Braille Day is celebrated one day before January 5. Find the date of "
+#| "Braille Day in 2018"
 msgctxt "calendar_dataset|"
 msgid ""
-"Mother's Day falls on the second Sunday in May. Find the date of Mother's "
-"Day in 2018"
+"International Women's Day is celebrated two days before March 10.<br> Find "
+"the date of International Women's Day in 2018."
 msgstr ""
-"Thèid Là nam Màthraichean a chomharradh air an dàrna DiDòmhnaich sa "
-"Chèitean. Lorg ceann-là Là nam Màthraichean ann an 2018."
+"Thèid Là Braille a chomharradh aon latha ron 5mh dhe Fhaoilleach. Lorg ceann-"
+"là Là Braille ann an 2018."
 
 #: activities/calendar/calendar_dataset.js:311
+#, fuzzy
+#| msgctxt "calendar_dataset|"
+#| msgid ""
+#| "Sports competition will be held on last Friday of September 2018. Select "
+#| "the date of sports competition on the calendar"
 msgctxt "calendar_dataset|"
 msgid ""
-"Sports competition will be held on last Friday of September 2018. Select the "
-"date of sports competition on the calendar"
+"Sports competition was held on last Friday of September 2017.<br> Select the "
+"date of sports competition on the calendar."
 msgstr ""
 "Thèid co-fharpais spòrs a chumail DihAoine mu dheireadh san t-Sultain 2018. "
 "Tagh latha a’ cho-fharpais spòrs air a’ mhìosachan."
@@ -4243,8 +4277,11 @@ msgstr "Ceangail na dotagan airson litrichean a tharraing"
 
 #. Help goal
 #: activities/drawletters/ActivityInfo.qml:32
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Children will learn how to draw different letters in a fun way."
 msgctxt "ActivityInfo|"
-msgid "Children will learn how to draw different letters in a fun way."
+msgid "Learning how to draw the letters in a funny way."
 msgstr ""
 "Ionnsaichidh a’ chlann mar a thàirngeas iad litrichean ann an dòigh spòrsail."
 
@@ -4269,8 +4306,11 @@ msgstr "Ceangail na dotagan, a’ tarraing àireamhan eadar 0 is 9"
 
 #. Help goal
 #: activities/drawnumbers/ActivityInfo.qml:32
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Children will learn how to draw different numbers in a fun way."
 msgctxt "ActivityInfo|"
-msgid "Children will learn how to draw different numbers in a fun way."
+msgid "Learning how to draw the numbers in a funny way."
 msgstr ""
 "Ionnsaichidh a’ chlann mar a thàirngeas iad litrichean ann an dòigh spòrsail."
 
@@ -4869,21 +4909,11 @@ msgstr "An Teampall Òir"
 #: activities/explore_monuments/resource/board/board2.qml:30
 msgctxt "board2|"
 msgid ""
-"The Golden Temple Amritsar India (Sri Harimandir Sahib Amritsar) is not only "
-"a central religious place of the Sikhs, but also a symbol of human "
-"brotherhood and equality. Everybody, irrespective of cast, creed or race can "
-"seek spiritual solace and religious fulfillment without any hindrance. It "
-"also represents the distinct identity, glory and heritage of the Sikhs. To "
-"pen-down the philosophy, ideology, the inner and outer beauty, as well as "
-"the historical legacy of Sri Harimandir Sahib is a momentous task. It is a "
-"matter of experience rather than a of description."
+"Sri Harimandir Sahib, known as the Golden Temple in Amritsar, is one of the "
+"most revered spiritual sites of Sikhism. The construction was intended to "
+"build a place of worship for men and women from all walks of life and all "
+"religions to worship God equally."
 msgstr ""
-"Chan eil an Teampall Òir ann an Amritsar sna h-Innseachan (Sri Harimandir "
-"Sahib Amritsar) ’na phrìomh-làrach ann an creideamh nan Sikh a-mhàin ach "
-"cuireachd ’na shuaicheantas bràithreachd is co-ionnannachd mac an duine. "
-"Faodaidh neach sam bith, ge be dè inbhe, creideamh no cinneadh a dhol a-"
-"steach a shireadh sòlas spioradail agus slànadh cràbhach gun bhacadh sam "
-"bith. Tha e a’ riochdachadh dearbh-aithne, glòr agus dualchas nan Sikh."
 
 #: activities/explore_monuments/resource/board/board2.qml:40
 #: activities/explore_monuments/resource/board/board2.qml:43
@@ -4980,16 +5010,14 @@ msgstr "Uamhan Ajantā"
 #: activities/explore_monuments/resource/board/board2.qml:85
 msgctxt "board2|"
 msgid ""
-"Ajanta is world's greatest historical monument recognized by UNESCO located "
-"just 55kms from Jalgaon city and 105kms from Aurangabad City of Maharashtra, "
-"India. There are 30 caves in Ajanta of which 9, 10, 19, 26 and 29 are "
-"chaitya-grihas and the rest are monasteries."
+"The Ajanta Caves are about 29 rock-cut Buddhist cave monuments which date "
+"from the 2nd century BCE to about 480 CE in Aurangabad district of "
+"Maharashtra state of India. The caves include paintings and rock cut "
+"sculptures described as among the finest surviving examples of ancient "
+"Indian art, particularly expressive paintings that present emotion through "
+"gesture, pose and form. Since 1983, the caves have been a UNESCO World "
+"Heritage Site"
 msgstr ""
-"Tha Ajantā am measg nan làraichean-cuimhne UNESCO as motha san t-saoghal, "
-"dìreach 55km taobh a-muigh cathair Jalgaon is 105km o chathair Auraṅgābād "
-"ann am Mahārāṣṭra sna h-Innseachan. Tha 30 uamh ann an Ajantā agus tha 5 "
-"dhiubh nan chaitya (tallachan-adhraidh) agus an corr dhiubh nam "
-"manachainnean."
 
 #: activities/explore_monuments/resource/board/board2.qml:95
 #: activities/explore_monuments/resource/board/board2.qml:98
@@ -5015,12 +5043,19 @@ msgid "Mysore Palace"
 msgstr "Lùchairt Mysuru"
 
 #: activities/explore_monuments/resource/board/board2.qml:107
+#, fuzzy
+#| msgctxt "board2|"
+#| msgid ""
+#| "Mysore Palace or Mysore Maharaja Palace is one of the largest and most "
+#| "spectacular monuments in the country. Also known as Amba Vilas, it is "
+#| "located in the heart of the city of Mysore. The palace was initially "
+#| "built by the Wodeyar kings in the 14th century."
 msgctxt "board2|"
 msgid ""
 "Mysore Palace or Mysore Maharaja Palace is one of the largest and most "
-"spectacular monuments in the country. Also known as Amba Vilas, it is "
-"located in the heart of the city of Mysore. The palace was initially built "
-"by the Wodeyar kings in the 14th century."
+"spectacular monuments in India. Also known as Amba Vilas, it is located in "
+"the heart of the city of Mysore. The palace was initially built by the "
+"Wodeyar kings in the 14th century."
 msgstr ""
 "Tha Lùchairt Mahārāja Amba Vilasam measg nan làraichean-cuimhne as motha "
 "agus as mìorbhailiche san dùthaich. Canar Amba Vilas ris cuideachd agus the "
@@ -5040,8 +5075,7 @@ msgid ""
 "Shah. He built the Charminar to mark the end of plague in the Hyderabad "
 "city. Since the construction of the Charminar, the Hyderabad city has almost "
 "become synonymous with the monument. The Charminar is a massive and "
-"impressive structure with four minarets. In the evening, with illumination, "
-"the great Charminar looks even greater."
+"impressive structure with four minarets."
 msgstr ""
 
 #: activities/explore_monuments/resource/board/board2.qml:128
@@ -5054,12 +5088,9 @@ msgstr ""
 msgctxt "board2|"
 msgid ""
 "The Victoria Memorial was built to commemorate the peak of the British "
-"Empire in India. The Victoria Memorial, conceived by Lord Curzon, represents "
-"the architectural climax of Kolkata city. Lord Curzon, the then Viceroy "
-"specified its classical style but the actual plan of Victoria Memorial was "
-"laid down by the well-known architect, Sir William Emerson. The Victoria "
-"Memorial blends the best of the British and Mughal architecture. The "
-"Victoria Memorial hall was built with white Makrana marbles."
+"Empire in India. It represents the architectural climax of Kolkata city, and "
+"blends the best of the British and Mughal architecture. The Victoria "
+"Memorial hall was built with white Makrana marbles."
 msgstr ""
 
 #: activities/explore_monuments/resource/board/board2.qml:139
@@ -5087,10 +5118,10 @@ msgstr ""
 msgctxt "board2|"
 msgid ""
 "Qutub Minar at 74 meters, is the tallest brick minaret in the world, and the "
-"second tallest minar in India after Fateh Burj at Mohali. Qutub Minar, along "
-"with the ancient and medieval monuments surrounding it, form the Qutb "
-"Complex, which is a UNESCO World Heritage Site. The tower is located in the "
-"Mehrauli area of Delhi, India. Made of red sandstone and marble."
+"second tallest minar in India after Fateh Burj at Mohali. Along with the "
+"ancient and medieval monuments surrounding it, they form the Qutb Complex, "
+"which is a UNESCO World Heritage Site. The tower, located in the Mehrauli "
+"area of Delhi, is made of red sandstone and marble."
 msgstr ""
 
 #: activities/explore_monuments/resource/board/board2.qml:163
@@ -6220,19 +6251,18 @@ msgstr "Teaghlach"
 
 #. Help title
 #: activities/family/ActivityInfo.qml:29
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "This activity will give teach about who we are related to our relatives"
 msgctxt "ActivityInfo|"
-msgid "This activity will teach you about who we are related to our relatives"
-msgstr "Ionnsaichidh tu mu na dàimhean a tha eadar daoine sa ghnìomhachd seo."
+msgid "Select the name you should call this family member"
+msgstr ""
 
 #. Help goal
 #: activities/family/ActivityInfo.qml:32
+#: activities/family_find_relative/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
-msgid "To get an idea about relationships in the family"
-msgstr "A’ fàs eòlach air na dàimhean ann an teaghlach"
+msgid ""
+"Learn the relationships in a family, according to the lineal system used in "
+"most Western societies"
+msgstr ""
 
 #. Help prerequisite
 #: activities/family/ActivityInfo.qml:34
@@ -6242,27 +6272,14 @@ msgstr "Sgilean leughaidh"
 
 #. Help manual
 #: activities/family/ActivityInfo.qml:36
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "To find the relation between two family members.\n"
-#| "For the married couple we have highlighted with the rings that is between "
-#| "two circles. For the rest of relations we have only solid lines.\n"
-#| "Red circle will point to you and blue one to your relative. Now you have "
-#| "to find what you should call this person.\n"
 msgctxt "ActivityInfo|"
 msgid ""
-"To find the relation between two family members.\n"
-"For the married couple we have highlighted with the rings that is between "
-"two circles. For the rest of relations we have only solid lines.\n"
-"White circle will point to you and red one to your relative. Now you have to "
-"find what you should call this person.\n"
+"A family tree is shown.\n"
+"The circles are linked with lines to mark the relations. Married couples are "
+"marked with a ring on the link.\n"
+"You are the person in the white circle. Select the name you should call the "
+"person in the orange circle.\n"
 msgstr ""
-"Mar a lorgas tu dè an dàimh a tha eadar dithis san aon teaghlach.\n"
-"Tha fàinneachan eadar dà chearcall mas e càraid phòsta a tha ann. Chan eil "
-"eadar daoine càirdeach eile ach loidhne sholadach.\n"
-"Comharraichidh cearcall dearg thu fhèin agus fear gorm caraid agad.\n"
-"Feumaidh tu fiosrachadh a-nis dè chanas tu ris an neach seo.\n"
 
 #: activities/family/Dataset.qml:136 activities/family/Dataset.qml:137
 msgctxt "Dataset|"
@@ -6413,12 +6430,6 @@ msgctxt "ActivityInfo|"
 msgid "Point the relatives"
 msgstr "Cunnt na nithean"
 
-#. Help goal
-#: activities/family_find_relative/ActivityInfo.qml:32
-msgctxt "ActivityInfo|"
-msgid "To get an idea of family relations"
-msgstr "A’ fàs eòlach air na dàimhean ann an teaghlach"
-
 #. Help prerequisite
 #: activities/family_find_relative/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
@@ -6429,11 +6440,11 @@ msgstr "Leughadh, gluasad is briogadh leis an luchag"
 #: activities/family_find_relative/ActivityInfo.qml:36
 msgctxt "ActivityInfo|"
 msgid ""
-"You are provided with a relation and a family hierarchy. Click on a pair of "
-"family members which correctly identifies the given relation."
+"A family tree is shown, with some instructions.\n"
+"The circles are linked with lines to mark the relations. Married couples are "
+"marked with a ring on the link.\n"
+"Click on a pair of family members which corresponds to the given relation."
 msgstr ""
-"Gheibh thu caraid agus rangachd teaghlaich. Briog air paidhir de bhuill san "
-"teaghlach a tha a’ riochdadh na dàimh ud."
 
 #. Activity title
 #: activities/fifteen/ActivityInfo.qml:27
@@ -6472,14 +6483,13 @@ msgstr "Lorg an clàrsach"
 #| msgctxt "ActivityInfo|"
 #| msgid "Read the task and select the correct date on calendar"
 msgctxt "ActivityInfo|"
-msgid ""
-"Read the task and find the correct date by doing mathematical calculations."
+msgid "Find the correct date and select it on the calendar."
 msgstr "Leugh dè an t-saothair agus tagh an ceann-là ceart air a’ mhìosachan"
 
 #. Help goal
 #: activities/find_the_day/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
-msgid "Learn to find date on the calendar by duration calculations."
+msgid "Learn how to count days and find a date on a calendar."
 msgstr ""
 
 #. Help prerequisite
@@ -6490,6 +6500,18 @@ msgstr ""
 msgctxt "ActivityInfo|"
 msgid "Basics of calendar"
 msgstr "Sgìrean Chanada"
+
+#. Help manual
+#: activities/find_the_day/ActivityInfo.qml:36
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Review the instructions and select the correct date on calendar."
+msgctxt "ActivityInfo|"
+msgid ""
+"Read the instructions and perform the requested calculation to find a date. "
+"Then select this date on the calendar."
+msgstr ""
+"Thoir sùil air an stiùireadh agus tagh an ceann-là ceart air a’ mhìosachan."
 
 #: activities/find_the_day/find_the_day_dataset.js:46
 #, fuzzy
@@ -8483,7 +8505,7 @@ msgstr ""
 "\n"
 "An aire: b=b, B=bh, c=c, C=ch ... a leithid ceudna."
 
-#: activities/hangman/hangman.js:219
+#: activities/hangman/hangman.js:215
 #, qt-format
 msgctxt "hangman|"
 msgid "Attempted: %1"
@@ -9858,8 +9880,8 @@ msgstr "Briog air an ad airson an geama a chur gu dol"
 #. The math operation
 #: activities/magic-hat-minus/MagicHat.qml:104
 msgctxt "MagicHat|"
-msgid "-"
-msgstr "-"
+msgid "−"
+msgstr ""
 
 #: activities/magic-hat-minus/MagicHat.qml:104
 msgctxt "MagicHat|"
@@ -10370,10 +10392,15 @@ msgstr "Geama cuimhne cuir ris an aghaidh Tux"
 
 #. Help title
 #: activities/memory-math-add-tux/ActivityInfo.qml:29
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Turn the cards over to find two numbers which add up the same, until all "
+#| "the cards are gone. Tux do the same. You have to beat it !"
 msgctxt "ActivityInfo|"
 msgid ""
 "Turn the cards over to find two numbers which add up the same, until all the "
-"cards are gone. Tux do the same. You have to beat it !"
+"cards are gone. Tux will do the same. You have to beat it !"
 msgstr ""
 "Thoir car air dà cairt gus an dèan na tha air an dàrna cairt na tha air a’ "
 "chairt eile ’s tu a’ cur àireamhan ri chèile. Nì Tux an aon rud is feumaidh "
@@ -10591,8 +10618,12 @@ msgstr ""
 
 #. Help goal
 #: activities/memory-math-minus-tux/ActivityInfo.qml:32
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Practice subtraction, until all the cards are gone. Tux do the same"
 msgctxt "ActivityInfo|"
-msgid "Practice subtraction, until all the cards are gone. Tux do the same"
+msgid ""
+"Practice subtraction, until all the cards are gone. Tux will do the same"
 msgstr "Dèan toirt air falbh gus am bi gach cairt air falbh. Nì Tux an aon rud"
 
 #. Help prerequisite
@@ -10967,8 +10998,8 @@ msgstr "+"
 
 #: activities/memory/math_util.js:39
 msgctxt "math_util|"
-msgid "-"
-msgstr "-"
+msgid "−"
+msgstr ""
 
 #: activities/memory/math_util.js:50 activities/memory/math_util.js:53
 msgctxt "math_util|"
@@ -11068,17 +11099,17 @@ msgstr ""
 "    Ctrl + M – Toglaich mùchadh air ceòl a’ chùlaibh\n"
 "    Ctrl+S – Toglaich bàr earrann na gnìomhachd"
 
-#: activities/menu/ConfigurationItem.qml:78
+#: activities/menu/ConfigurationItem.qml:77
 msgctxt "ConfigurationItem|"
 msgid "You have the full version"
 msgstr "Tha an tionndadh slàn agad"
 
-#: activities/menu/ConfigurationItem.qml:79
+#: activities/menu/ConfigurationItem.qml:78
 msgctxt "ConfigurationItem|"
 msgid "Buy the full version"
 msgstr "Ceannaich an tionndadh slàn"
 
-#: activities/menu/ConfigurationItem.qml:142
+#: activities/menu/ConfigurationItem.qml:141
 msgctxt "ConfigurationItem|"
 msgid ""
 "On <a href='http://gcompris.net'>http://gcompris.net</a> you will find the "
@@ -11087,122 +11118,122 @@ msgstr ""
 "Gheibh thu stiùireadh a dh’innseas dhut mar a gheibh thu còd gnìomhachaidh "
 "air <a href='http://gcompris.net'>http://gcompris.net</a>."
 
-#: activities/menu/ConfigurationItem.qml:164
+#: activities/menu/ConfigurationItem.qml:163
 msgctxt "ConfigurationItem|"
 msgid "Enter your activation code"
 msgstr "Cuir an còd gnìomhachaidh a-steach"
 
-#: activities/menu/ConfigurationItem.qml:167
+#: activities/menu/ConfigurationItem.qml:166
 msgctxt "ConfigurationItem|"
 msgid "Sorry, your code is too old for this version of GCompris"
 msgstr ""
 "Tha sinn duilich ach tha an còd agad ro aosta airson an tionndadh seo de "
 "GCompris"
 
-#: activities/menu/ConfigurationItem.qml:170
+#: activities/menu/ConfigurationItem.qml:169
 msgctxt "ConfigurationItem|"
 msgid "Your code is valid, thanks a lot for your support"
 msgstr "Tha an còd agad dligheach, mòran taing airson taic a chumail rinn"
 
-#: activities/menu/ConfigurationItem.qml:190
+#: activities/menu/ConfigurationItem.qml:189
 msgctxt "ConfigurationItem|"
 msgid "Show locked activities"
 msgstr "Seall gnìomhachdan glaiste"
 
-#: activities/menu/ConfigurationItem.qml:200
+#: activities/menu/ConfigurationItem.qml:199
 msgctxt "ConfigurationItem|"
 msgid "Enable audio voices"
 msgstr "Cuir an guth an comas"
 
-#: activities/menu/ConfigurationItem.qml:209
+#: activities/menu/ConfigurationItem.qml:208
 msgctxt "ConfigurationItem|"
 msgid "Enable audio effects"
 msgstr "Cuir na fuaimean an comas"
 
-#: activities/menu/ConfigurationItem.qml:218
+#: activities/menu/ConfigurationItem.qml:217
 msgctxt "ConfigurationItem|"
 msgid "Fullscreen"
 msgstr "Làn-sgrìn"
 
-#: activities/menu/ConfigurationItem.qml:228
+#: activities/menu/ConfigurationItem.qml:227
 msgctxt "ConfigurationItem|"
 msgid "Virtual Keyboard"
 msgstr "Meur-chlàr mas-fhìor"
 
-#: activities/menu/ConfigurationItem.qml:238
+#: activities/menu/ConfigurationItem.qml:237
 msgctxt "ConfigurationItem|"
 msgid "Enable automatic downloads/updates of sound files"
 msgstr ""
 "Cuir luchdadh a-nuas/ùrachadh de dh’fhaidhlichean fuaime fèin-obrachail an "
 "comas"
 
-#: activities/menu/ConfigurationItem.qml:252
+#: activities/menu/ConfigurationItem.qml:251
 msgctxt "ConfigurationItem|"
 msgid "Use full word image set"
 msgstr "Cleach seata slàn de dhealbhan nam faclan"
 
-#: activities/menu/ConfigurationItem.qml:252
+#: activities/menu/ConfigurationItem.qml:251
 msgctxt "ConfigurationItem|"
 msgid "Download full word image set"
 msgstr "Luchdaich a-nuas seata slàn de dhealbhan nam faclan"
 
-#: activities/menu/ConfigurationItem.qml:263
+#: activities/menu/ConfigurationItem.qml:262
 msgctxt "ConfigurationItem|"
 msgid "The activity section menu is visible"
 msgstr "Chithear clàr-taice earrann na gnìomhachd"
 
-#: activities/menu/ConfigurationItem.qml:276
+#: activities/menu/ConfigurationItem.qml:275
 msgctxt "ConfigurationItem|"
 msgid "Font selector"
 msgstr "Roghnaichear a’ chrutha-chlò"
 
-#: activities/menu/ConfigurationItem.qml:306
+#: activities/menu/ConfigurationItem.qml:292
 msgctxt "ConfigurationItem|"
 msgid "Font size"
 msgstr "Meud a’ chrutha-chlò"
 
-#: activities/menu/ConfigurationItem.qml:312
-#: activities/menu/ConfigurationItem.qml:360
+#: activities/menu/ConfigurationItem.qml:298
+#: activities/menu/ConfigurationItem.qml:333
 msgctxt "ConfigurationItem|"
 msgid "Default"
 msgstr "Bun-roghainn"
 
-#: activities/menu/ConfigurationItem.qml:324
+#: activities/menu/ConfigurationItem.qml:310
 msgctxt "ConfigurationItem|"
 msgid "Font Capitalization"
 msgstr "Litrichean mòra sa chruth-chlò"
 
-#: activities/menu/ConfigurationItem.qml:354
+#: activities/menu/ConfigurationItem.qml:327
 msgctxt "ConfigurationItem|"
 msgid "Font letter spacing"
 msgstr "Beàrnadh eadar litrichean sa chruth-chlò"
 
-#: activities/menu/ConfigurationItem.qml:373
+#: activities/menu/ConfigurationItem.qml:346
 msgctxt "ConfigurationItem|"
 msgid "Language selector"
 msgstr "Roghnaichear a’ chànain"
 
-#: activities/menu/ConfigurationItem.qml:400
+#: activities/menu/ConfigurationItem.qml:373
 msgctxt "ConfigurationItem|"
 msgid "Localized voices"
 msgstr "Guthan ann an cànain eile"
 
-#: activities/menu/ConfigurationItem.qml:416
+#: activities/menu/ConfigurationItem.qml:389
 msgctxt "ConfigurationItem|"
 msgid "Check for updates"
 msgstr "Thoir sùil airson ùrachaidhean"
 
-#: activities/menu/ConfigurationItem.qml:417
+#: activities/menu/ConfigurationItem.qml:390
 msgctxt "ConfigurationItem|"
 msgid "Download"
 msgstr "Luchdaich a-nuas"
 
-#: activities/menu/ConfigurationItem.qml:435
+#: activities/menu/ConfigurationItem.qml:408
 msgctxt "ConfigurationItem|"
 msgid "Difficulty filter:"
 msgstr "Criathrag ìre na duilghe:"
 
-#: activities/menu/ConfigurationItem.qml:637
+#: activities/menu/ConfigurationItem.qml:610
 msgctxt "ConfigurationItem|"
 msgid ""
 "You selected a new locale. You need to restart GCompris to play in your new "
@@ -11212,39 +11243,39 @@ msgstr ""
 "fhaic thu an cànan ùr.<br/>A bheil thu airson na faidhlichean fuaime "
 "iomchaidh a luchdadh a-nuas an-dràsta?"
 
-#: activities/menu/ConfigurationItem.qml:638
-#: activities/menu/ConfigurationItem.qml:675
+#: activities/menu/ConfigurationItem.qml:611
+#: activities/menu/ConfigurationItem.qml:648
 msgctxt "ConfigurationItem|"
 msgid "Yes"
 msgstr "Tha"
 
-#: activities/menu/ConfigurationItem.qml:644
-#: activities/menu/ConfigurationItem.qml:680
+#: activities/menu/ConfigurationItem.qml:617
+#: activities/menu/ConfigurationItem.qml:653
 msgctxt "ConfigurationItem|"
 msgid "No"
 msgstr "Chan eil"
 
-#: activities/menu/ConfigurationItem.qml:673
+#: activities/menu/ConfigurationItem.qml:646
 msgctxt "ConfigurationItem|"
 msgid "The images for several activities are not yet installed. "
 msgstr "Cha deach na dealbhan airson grunn chleasan a stàladh fhathast."
 
-#: activities/menu/ConfigurationItem.qml:674
+#: activities/menu/ConfigurationItem.qml:647
 msgctxt "ConfigurationItem|"
 msgid "Do you want to download them now?"
 msgstr "A bheil thu airson an luchdadh a-nuas an-dràsta?"
 
-#: activities/menu/ConfigurationItem.qml:733
+#: activities/menu/ConfigurationItem.qml:706
 msgctxt "ConfigurationItem|"
 msgid "Mixed case (default)"
 msgstr "Litrichean mòra ’s beaga (bun-roghainn)"
 
-#: activities/menu/ConfigurationItem.qml:734
+#: activities/menu/ConfigurationItem.qml:707
 msgctxt "ConfigurationItem|"
 msgid "All uppercase"
 msgstr "Litrichean mòra a-mhàin"
 
-#: activities/menu/ConfigurationItem.qml:735
+#: activities/menu/ConfigurationItem.qml:708
 msgctxt "ConfigurationItem|"
 msgid "All lowercase"
 msgstr "Litrichean beaga a-mhàin"
@@ -12709,14 +12740,20 @@ msgstr "Cuir a-steach cuideam a’ phrèasaint ann an unnsachan: %1"
 
 #. Activity title
 #: activities/share/ActivityInfo.qml:27
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Share the candies"
 msgctxt "ActivityInfo|"
-msgid "Share the candies"
+msgid "Share pieces of candy"
 msgstr "Co-roinn na siùcaran"
 
 #. Help title
 #: activities/share/ActivityInfo.qml:29
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Try to split the candies to a given number of children"
 msgctxt "ActivityInfo|"
-msgid "Try to split the candies to a given number of children"
+msgid "Try to split the pieces of candy to a given number of children"
 msgstr "Feuch is co-roinn siùcaran eadar àireamh de chlann"
 
 #. Help goal
@@ -12733,53 +12770,84 @@ msgstr "Ionnsaich cunntadh"
 
 #. Help manual
 #: activities/share/ActivityInfo.qml:36
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Follow the instructions shown on the screen: first, drag the given number "
+#| "of boys/girls to the middle, then drag candies to each child's rectangle."
 msgctxt "ActivityInfo|"
 msgid ""
 "Follow the instructions shown on the screen: first, drag the given number of "
-"boys/girls to the middle, then drag candies to each child's rectangle."
+"boys/girls to the middle, then drag pieces of candy to each child's "
+"rectangle."
 msgstr ""
 "Lean ris an stiùireadh air an sgrìn: slaod an àireamh cheart de chaileagan/"
 "bhalaich dhan mheadhan an toiseach agus slaod siùcaran dhan cheart-cheàrnach "
 "aig gach aon dhiubh an uairsin."
 
 #: activities/share/resource/board/board0.qml:28
+#, fuzzy
+#| msgctxt "board0|"
+#| msgid ""
+#| "Paul wants to equally share 2 candies between 2 of his friends: one girl "
+#| "and one boy. Can you help him? First, place the children in center, then "
+#| "drag the candies to each of them."
 msgctxt "board0|"
 msgid ""
-"Paul wants to equally share 2 candies between 2 of his friends: one girl and "
-"one boy. Can you help him? First, place the children in center, then drag "
-"the candies to each of them."
+"Paul wants to equally share 2 pieces of candy between 2 of his friends: one "
+"girl and one boy. Can you help him? First, place the children in center, "
+"then drag the pieces of candy to each of them."
 msgstr ""
 "Tha Pòl airson dà shiùcar a roinneadh eadar dà charaid aige: caileag agus "
 "balach. An cuidich thu e? Cuir a’ chlann sa mheadhan an toiseach agus slaod "
 "na siùcaran thuca an uairsin."
 
 #: activities/share/resource/board/board0.qml:38
+#, fuzzy
+#| msgctxt "board0|"
+#| msgid "Now he wants to give 4 candies to his friends."
 msgctxt "board0|"
-msgid "Now he wants to give 4 candies to his friends."
+msgid "Now he wants to give 4 pieces of candy to his friends."
 msgstr "Tha e airson ceithir siùcaran a thoirt dha charaidean a-nis."
 
 #: activities/share/resource/board/board0.qml:48
+#, fuzzy
+#| msgctxt "board0|"
+#| msgid "Can you now give 6 of Paul's candies to his friends?"
 msgctxt "board0|"
-msgid "Can you now give 6 of Paul's candies to his friends?"
+msgid "Can you now give 6 of Paul's pieces of candy to his friends?"
 msgstr "An roinn thu sia siùcaran aig Pòl eadar na caraidean aige?"
 
 #: activities/share/resource/board/board0.qml:59
+#, fuzzy
+#| msgctxt "board0|"
+#| msgid ""
+#| "Paul has only 10 candies left. He eats 2 candies and he gives the rest to "
+#| "his friends. Can you help him equally split the 8 remaining candies?"
 msgctxt "board0|"
 msgid ""
-"Paul has only 10 candies left. He eats 2 candies and he gives the rest to "
-"his friends. Can you help him equally split the 8 remaining candies?"
+"Paul has only 10 pieces of candy left. He eats 2 pieces of candy and he "
+"gives the rest to his friends. Can you help him equally split the 8 "
+"remaining pieces of candy?"
 msgstr ""
 "Chan eil air fhàgail aig Pòl ach 10 siùcaran. Dh’ith e a dhà dhiubh ’s chuir "
 "e roimhe an corr a thoirt dha charaidean. An roinn thu an corr, a h-ochd "
 "dhiubh, cothromach eatarra?"
 
 #: activities/share/resource/board/board1.qml:28
+#, fuzzy
+#| msgctxt "board1|"
+#| msgid ""
+#| "George wants to equally share 3 candies between 2 of his friends: one "
+#| "girl and one boy. Can he equally split the candies between his friends? "
+#| "First, place the children in center, then drag the candies to each of "
+#| "them. Be careful, a rest will remain!"
 msgctxt "board1|"
 msgid ""
-"George wants to equally share 3 candies between 2 of his friends: one girl "
-"and one boy. Can he equally split the candies between his friends? First, "
-"place the children in center, then drag the candies to each of them. Be "
-"careful, a rest will remain!"
+"George wants to equally share 3 pieces of candy between 2 of his friends: "
+"one girl and one boy. Can he equally split the pieces of candy between his "
+"friends? First, place the children in center, then drag the pieces of candy "
+"to each of them. Be careful, a rest will remain!"
 msgstr ""
 "Tha Seòras airson trì siùcaran a roinneadh eadar dà charaid aige: caileag "
 "agus balach. An gabh an roinneadh gu cothromach? Cuir a’ chlann sa mheadhan "
@@ -12787,12 +12855,19 @@ msgstr ""
 "corralach ann!"
 
 #: activities/share/resource/board/board1.qml:38
+#, fuzzy
+#| msgctxt "board1|"
+#| msgid ""
+#| "Maria wants to equally share 5 candies between 3 of her friends: one girl "
+#| "and two boys. Can she equally split the candies between her friends? "
+#| "First, place the children in center, then drag the candies to each of "
+#| "them. Be careful, a rest will remain!"
 msgctxt "board1|"
 msgid ""
-"Maria wants to equally share 5 candies between 3 of her friends: one girl "
-"and two boys. Can she equally split the candies between her friends? First, "
-"place the children in center, then drag the candies to each of them. Be "
-"careful, a rest will remain!"
+"Maria wants to equally share 5 pieces of candy between 3 of her friends: one "
+"girl and two boys. Can she equally split the pieces of candy between her "
+"friends? First, place the children in center, then drag the pieces of candy "
+"to each of them. Be careful, a rest will remain!"
 msgstr ""
 "Tha Màiri airson còig siùcaran a roinneadh eadar trì caraidean aice: caileag "
 "a dà bhalach. An gabh an roinneadh gu cothromach eadar a caraidean? Cuir a’ "
@@ -12800,178 +12875,281 @@ msgstr ""
 "air d’ aire, bidh corralach ann!"
 
 #: activities/share/resource/board/board1.qml:48
+#, fuzzy
+#| msgctxt "board1|"
+#| msgid ""
+#| "John wants to equally share 10 candies between 3 of his friends: one boy "
+#| "and two girls. Can he equally split the candies between his friends? "
+#| "First, place the children in center, then drag the candies to each of "
+#| "them."
 msgctxt "board1|"
 msgid ""
-"John wants to equally share 10 candies between 3 of his friends: one boy and "
-"two girls. Can he equally split the candies between his friends? First, "
-"place the children in center, then drag the candies to each of them."
+"John wants to equally share 10 pieces of candy between 3 of his friends: one "
+"boy and two girls. Can he equally split the pieces of candy between his "
+"friends? First, place the children in center, then drag the pieces of candy "
+"to each of them."
 msgstr ""
 "Tha Iain airson deich siùcaran a roinneadh eadar trì caraidean aige: balach "
 "agus dà chaileag. An gabh an roinneadh gu cothromach eadar a caraidean? Cuir "
 "a’ chlann sa mheadhan an toiseach agus slaod na siùcaran thuca an uairsin."
 
 #: activities/share/resource/board/board2.qml:28
+#, fuzzy
+#| msgctxt "board2|"
+#| msgid ""
+#| "Alice wants to equally share 3 candies between 3 of her friends: one girl "
+#| "and two boys. Can you help her? First, place the children in the center, "
+#| "then drag the candies to each of them."
 msgctxt "board2|"
 msgid ""
-"Alice wants to equally share 3 candies between 3 of her friends: one girl "
-"and two boys. Can you help her? First, place the children in the center, "
-"then drag the candies to each of them."
+"Alice wants to equally share 3 pieces of candy between 3 of her friends: one "
+"girl and two boys. Can you help her? First, place the children in the "
+"center, then drag the pieces of candy to each of them."
 msgstr ""
 "Tha Gormail airson trì siùcaran a roinneadh eadar trì caraidean aice: "
 "caileag agus dà bhalach. An cuidich thu i? Cuir a’ chlann sa mheadhan an "
 "toiseach agus slaod na siùcaran thuca an uairsin."
 
 #: activities/share/resource/board/board2.qml:38
+#, fuzzy
+#| msgctxt "board2|"
+#| msgid "Now, Alice wants to give 6 candies to her friends"
 msgctxt "board2|"
-msgid "Now, Alice wants to give 6 candies to her friends"
+msgid "Now, Alice wants to give 6 pieces of candy to her friends"
 msgstr "Tha Gormail airson sia siùcaran a thoirt dha caraidean a-nis."
 
 #: activities/share/resource/board/board2.qml:48
+#, fuzzy
+#| msgctxt "board2|"
+#| msgid ""
+#| "Can you help Alice give 9 candies to her friends: one girl and two boys?"
 msgctxt "board2|"
 msgid ""
-"Can you help Alice give 9 candies to her friends: one girl and two boys?"
+"Can you help Alice give 9 pieces of candy to her friends: one girl and two "
+"boys?"
 msgstr ""
 "An cuidich thu Gormail le bhith a’ roinneadh naoidh siùcaran eadar a "
 "caraidean: caileag agus dà bhalach?"
 
 #: activities/share/resource/board/board2.qml:58
+#, fuzzy
+#| msgctxt "board2|"
+#| msgid ""
+#| "Alice has 12 candies left. She wants to give them all to her friends. Can "
+#| "you help her split the candies equally?"
 msgctxt "board2|"
 msgid ""
-"Alice has 12 candies left. She wants to give them all to her friends. Can "
-"you help her split the candies equally?"
+"Alice has 12 pieces of candy left. She wants to give them all to her "
+"friends. Can you help her split the pieces of candy equally?"
 msgstr ""
 "Tha dà shiùcar deug air fhàgail aig Gormail. Tha i airson gach aon dhiubh a "
 "thoirt dha caraidean. An cuidich thu Gormail le bhith ’gan roinneadh gu "
 "cothromach?"
 
 #: activities/share/resource/board/board3.qml:28
+#, fuzzy
+#| msgctxt "board3|"
+#| msgid ""
+#| "Michael wants to equally share 5 candies between 2 of his friends: one "
+#| "girl and one boy. Can you help him? First, place the children in center, "
+#| "then drag the candies to each of them!"
 msgctxt "board3|"
 msgid ""
-"Michael wants to equally share 5 candies between 2 of his friends: one girl "
-"and one boy. Can you help him? First, place the children in center, then "
-"drag the candies to each of them!"
+"Michael wants to equally share 5 pieces of candy between 2 of his friends: "
+"one girl and one boy. Can you help him? First, place the children in center, "
+"then drag the pieces of candy to each of them!"
 msgstr ""
 "Tha Mìcheal airson còig siùcaran a roinneadh eadar dà charaid aige: caileag "
 "agus balach. An cuidich thu e? Cuir a’ chlann sa mheadhan an toiseach agus "
 "slaod na siùcaran thuca an uairsin."
 
 #: activities/share/resource/board/board3.qml:38
+#, fuzzy
+#| msgctxt "board3|"
+#| msgid ""
+#| "Helen has 3 friends: one boy and two girls. She wants to give them 7 "
+#| "candies. Help her split the candies between her friends!"
 msgctxt "board3|"
 msgid ""
-"Helen has 3 friends: one boy and two girls. She wants to give them 7 "
-"candies. Help her split the candies between her friends!"
+"Helen has 3 friends: one boy and two girls. She wants to give them 7 pieces "
+"of candy. Help her split the pieces of candy between her friends!"
 msgstr ""
 "Tha trì caraidean aig Eilidh: balach agus dà chaileag. Bu mhath leatha "
 "seachd siùcaran a thoirt dhaibh. Cuidich i a’ roinneadh nan siùcaran eadar a "
 "caraidean!"
 
 #: activities/share/resource/board/board3.qml:48
+#, fuzzy
+#| msgctxt "board3|"
+#| msgid ""
+#| "Michelle has 9 candies and wants to split them with two brothers and two "
+#| "sisters. Help her share the candies!"
 msgctxt "board3|"
 msgid ""
-"Michelle has 9 candies and wants to split them with two brothers and two "
-"sisters. Help her share the candies!"
+"Michelle has 9 pieces of candy and wants to split them with two brothers and "
+"two sisters. Help her share the pieces of candy!"
 msgstr ""
 "Tha naoidh siùcaran aig Fionnghal agus bu chaomh leatha an roinneadh eadar a "
 "dà bhràthair is dà phiuthar. Cuidich i a’ roinneadh nan siùcaran!"
 
 #: activities/share/resource/board/board3.qml:58
+#, fuzzy
+#| msgctxt "board3|"
+#| msgid ""
+#| "Thomas wants to share his 11 candies with his friends: three boys and one "
+#| "girl. Can you help him?"
 msgctxt "board3|"
 msgid ""
-"Thomas wants to share his 11 candies with his friends: three boys and one "
-"girl. Can you help him?"
+"Thomas wants to share his 11 pieces of candy with his friends: three boys "
+"and one girl. Can you help him?"
 msgstr ""
 "Tha Tormod airson aon siùcar deug aige a roinneadh eadar a charaidean: trì "
 "balaich agus caileag. An cuidich thu e?"
 
 #: activities/share/resource/board/board4.qml:28
+#, fuzzy
+#| msgctxt "board4|"
+#| msgid ""
+#| "Charles wants to share his 8 candies with 3 of his friends: one boy and "
+#| "two girls. Can he split the candies equally?"
 msgctxt "board4|"
 msgid ""
-"Charles wants to share his 8 candies with 3 of his friends: one boy and two "
-"girls. Can he split the candies equally?"
+"Charles wants to share his 8 pieces of candy with 3 of his friends: one boy "
+"and two girls. Can he split the pieces of candy equally?"
 msgstr ""
 "Tha Teàrlach airson ochd siùcaran a roinneadh eadar trì caraidhean: dà "
 "chaileag agus balach. An gabh na siùcaran a roinneadh gu cothromach?"
 
 #: activities/share/resource/board/board4.qml:38
+#, fuzzy
+#| msgctxt "board4|"
+#| msgid ""
+#| "For her birthday, Elizabeth has 12 candies to share with 4 of her "
+#| "friends: two girls and two boys. How should she split the candies to her "
+#| "friends?"
 msgctxt "board4|"
 msgid ""
-"For her birthday, Elizabeth has 12 candies to share with 4 of her friends: "
-"two girls and two boys. How should she split the candies to her friends?"
+"For her birthday, Elizabeth has 12 pieces of candy to share with 4 of her "
+"friends: two girls and two boys. How should she split the pieces of candy to "
+"her friends?"
 msgstr ""
 "Tha co-là breith aig Ealasaid agus tha dà shiùcar deug aice ’s tha i airson "
 "an roinneadh eadar ceithir caraidean: dà chaileag is dà bhalach. Ciamar a "
 "roinneas i na siùcaran eadar a caraidean?"
 
 #: activities/share/resource/board/board4.qml:48
+#, fuzzy
+#| msgctxt "board4|"
+#| msgid ""
+#| "Jason's father gave him 14 candies to share with his friends: two boys "
+#| "and three girls. Help him give the candies to his friends!"
 msgctxt "board4|"
 msgid ""
-"Jason's father gave him 14 candies to share with his friends: two boys and "
-"three girls. Help him give the candies to his friends!"
+"Jason's father gave him 14 pieces of candy to share with his friends: two "
+"boys and three girls. Help him give the pieces of candy to his friends!"
 msgstr ""
 "Thug athair Mhurchaidh ceithir siùcaran deug dha airson an roinneadh eadar a "
 "charaidean: dà bhalach agus trì caileagan. Cuidich e le bhith ’gan roinneadh "
 "eadar a charaidean!"
 
 #: activities/share/resource/board/board5.qml:29
+#, fuzzy
+#| msgctxt "board5|"
+#| msgid ""
+#| "Bob wants to give 5 candies to his friends: two boys and one girl, his "
+#| "girlfriend already has one candy. Can you help him equally split the "
+#| "candies so that each friend will have the same amount of candies?"
 msgctxt "board5|"
 msgid ""
-"Bob wants to give 5 candies to his friends: two boys and one girl, his "
-"girlfriend already has one candy. Can you help him equally split the candies "
-"so that each friend will have the same amount of candies?"
+"Bob wants to give 5 pieces of candy to his friends: two boys and one girl, "
+"his girlfriend already has one candy. Can you help him equally split the "
+"pieces of candy so that each friend will have the same amount of pieces of "
+"candy?"
 msgstr ""
 "Tha Dòmhnall airson còig siùcaran a thoirt dha charaidean: dà bhalach agus "
 "caileag agus tha pìos aig a bhràmar mu thràth. An cuidich thu e le bhith "
 "’gan roinneadh air dòigh ach am bi an aon àireamh aig gach caraid aige?"
 
 #: activities/share/resource/board/board5.qml:39
+#, fuzzy
+#| msgctxt "board5|"
+#| msgid ""
+#| "Harry wants to equally share 8 candies between his friends: one boy and "
+#| "two girls. Place the children in center, then drag the candies to each of "
+#| "them so that each of them has an equal number of candies."
 msgctxt "board5|"
 msgid ""
-"Harry wants to equally share 8 candies between his friends: one boy and two "
-"girls. Place the children in center, then drag the candies to each of them "
-"so that each of them has an equal number of candies."
+"Harry wants to equally share 8 pieces of candy between his friends: one boy "
+"and two girls. Place the children in center, then drag the pieces of candy "
+"to each of them so that each of them has an equal number of pieces of candy."
 msgstr ""
 "Tha Torcail airson ochd siùcaran a roinneadh eadar a charaidean: dà chaileag "
 "agus balach. Cuir a’ chlann sa mheadhan is slaod na siùcaran thuca gus am bi "
 "an àireamh de shiùcaran aig gach aon dhiubh."
 
 #: activities/share/resource/board/board5.qml:49
+#, fuzzy
+#| msgctxt "board5|"
+#| msgid "Can you now give 6 of Harry's candies to his friends?"
 msgctxt "board5|"
-msgid "Can you now give 6 of Harry's candies to his friends?"
+msgid "Can you now give 6 of Harry's pieces of candy to his friends?"
 msgstr "An roinn thu sia siùcaran aig Torcail eadar na caraidean aige?"
 
 #: activities/share/resource/board/board6.qml:29
+#, fuzzy
+#| msgctxt "board6|"
+#| msgid ""
+#| "Help Jon split 9 candies between three boys and two girls. The rest will "
+#| "remain to Jon."
 msgctxt "board6|"
 msgid ""
-"Help Jon split 9 candies between three boys and two girls. The rest will "
-"remain to Jon."
+"Help Jon split 9 pieces of candies between three boys and two girls. The "
+"rest will remain to Jon."
 msgstr ""
 "Cuidich Lachaidh a’ roinneadh naoidh siùcaran eadar dà chaileag is trì "
 "balaich. Cumaidh Lachaidh an corr."
 
 #: activities/share/resource/board/board6.qml:39
+#, fuzzy
+#| msgctxt "board6|"
+#| msgid ""
+#| "Jon wants to share the rest of his candies with his brother and his "
+#| "sister. Can you split them equally, knowing that his brother already has "
+#| "two candies?"
 msgctxt "board6|"
 msgid ""
-"Jon wants to share the rest of his candies with his brother and his sister. "
-"Can you split them equally, knowing that his brother already has two candies?"
+"Jon wants to share the rest of his pieces of candies with his brother and "
+"his sister. Can you split them equally, knowing that his brother already has "
+"two pieces of candies?"
 msgstr ""
 "Tha Lachaidh airson an corr dhe na siùcaran a roinneadh le a bhràthair is a "
 "phiuthar a-nis. An gabh an roinneadh gu cothromach is dà shiùcar aig a "
 "bhràthair mu thràth?"
 
 #: activities/share/resource/board/board6.qml:49
+#, fuzzy
+#| msgctxt "board6|"
+#| msgid ""
+#| "Help Tux split some candies to his friends: 9 candies to one boy and two "
+#| "girls."
 msgctxt "board6|"
 msgid ""
-"Help Tux split some candies to his friends: 9 candies to one boy and two "
-"girls."
+"Help Tux split some pieces of candies to his friends: 9 pieces of candies to "
+"one boy and two girls."
 msgstr ""
 "Cuidich Tux le bhith a’ roinneadh siùcaran eadar a charaidean: naoidh "
 "siùcaran eadar balach is dà chaileag."
 
 #: activities/share/share.js:95
-#, qt-format
+#, fuzzy, qt-format
+#| msgctxt ""
+#| "share|First part of Place %n boy(s) and %n girl(s) in the center. Then "
+#| "equally split %n candies between them."
+#| msgid "Place %n boy(s) "
+#| msgid_plural "Place %n boy(s) "
 msgctxt ""
 "share|First part of Place %n boy(s) and %n girl(s) in the center. Then "
-"equally split %n candies between them."
+"equally split %n pieces of candy between them."
 msgid "Place %n boy(s) "
 msgid_plural "Place %n boy(s) "
 msgstr[0] "Gluais %n bhalach"
@@ -12980,10 +13158,15 @@ msgstr[2] "Gluais %n balaich"
 msgstr[3] "Gluais %n balach"
 
 #: activities/share/share.js:99
-#, qt-format
+#, fuzzy, qt-format
+#| msgctxt ""
+#| "share|Second part of Place %n boy(s) and %n girl(s) in the center. Then "
+#| "equally split %n candies between them."
+#| msgid "and %n girl(s) in the center. "
+#| msgid_plural "and %n girl(s) in the center. "
 msgctxt ""
 "share|Second part of Place %n boy(s) and %n girl(s) in the center. Then "
-"equally split %n candies between them."
+"equally split %n pieces of candy between them."
 msgid "and %n girl(s) in the center. "
 msgid_plural "and %n girl(s) in the center. "
 msgstr[0] "agus %n chaileag dhan mheadhan. "
@@ -12992,21 +13175,28 @@ msgstr[2] "agus %n caileagan dhan mheadhan."
 msgstr[3] "agus %n caileag dhan mheadhan."
 
 #: activities/share/share.js:103
-#, qt-format
+#, fuzzy, qt-format
+#| msgctxt ""
+#| "share|Third part of Place %n boy(s) and %n girl(s) in the center. Then "
+#| "equally split %n candies between them."
+#| msgid "Then equally split %n candies between them."
+#| msgid_plural "Then equally split %n candies between them."
 msgctxt ""
 "share|Third part of Place %n boy(s) and %n girl(s) in the center. Then "
-"equally split %n candies between them."
-msgid "Then equally split %n candies between them."
-msgid_plural "Then equally split %n candies between them."
+"equally split %n pieces of candy between them."
+msgid "Then equally split %n pieces of candy between them."
+msgid_plural "Then equally split %n pieces of candy between them."
 msgstr[0] "Roinn %n siùcar eatarra gu cothromach an uairsin."
 msgstr[1] "Roinn %n shiùcar eatarra gu cothromach an uairsin."
 msgstr[2] "Roinn %n siùcaran eatarra gu cothromach an uairsin."
 msgstr[3] "Roinn %n siùcar eatarra gu cothromach an uairsin."
 
 #: activities/share/Share.qml:346
-#, qt-format
+#, fuzzy, qt-format
+#| msgctxt "Share|"
+#| msgid "You can't put more than %1 candies in the same widget"
 msgctxt "Share|"
-msgid "You can't put more than %1 candies in the same widget"
+msgid "You can't put more than %1 pieces of candy in the same rectangle"
 msgstr "Chan urrainn dhut barrachd air %1 siùcar a chur dhan aon widget"
 
 #: activities/share/Share.qml:365
@@ -14249,6 +14439,120 @@ msgstr "Air adhart"
 msgctxt "Tutorial|"
 msgid "Skip"
 msgstr "Gearr leum"
+
+#~ msgctxt "calendar_dataset|"
+#~ msgid ""
+#~ "Columbus Day is celebrated on the second monday of October. Find the date "
+#~ "of Columbus Day in 2018"
+#~ msgstr ""
+#~ "Thèid Là Cholumbus a chomharradh an dàrna DiLuain san Dàmhair. Lorg ceann-"
+#~ "là Là Cholumbus ann an 2018."
+
+#~ msgctxt "calendar_dataset|"
+#~ msgid ""
+#~ "Mother's Day falls on the second Sunday in May. Find the date of Mother's "
+#~ "Day in 2018"
+#~ msgstr ""
+#~ "Thèid Là nam Màthraichean a chomharradh air an dàrna DiDòmhnaich sa "
+#~ "Chèitean. Lorg ceann-là Là nam Màthraichean ann an 2018."
+
+#~ msgctxt "board2|"
+#~ msgid ""
+#~ "The Golden Temple Amritsar India (Sri Harimandir Sahib Amritsar) is not "
+#~ "only a central religious place of the Sikhs, but also a symbol of human "
+#~ "brotherhood and equality. Everybody, irrespective of cast, creed or race "
+#~ "can seek spiritual solace and religious fulfillment without any "
+#~ "hindrance. It also represents the distinct identity, glory and heritage "
+#~ "of the Sikhs. To pen-down the philosophy, ideology, the inner and outer "
+#~ "beauty, as well as the historical legacy of Sri Harimandir Sahib is a "
+#~ "momentous task. It is a matter of experience rather than a of description."
+#~ msgstr ""
+#~ "Chan eil an Teampall Òir ann an Amritsar sna h-Innseachan (Sri Harimandir "
+#~ "Sahib Amritsar) ’na phrìomh-làrach ann an creideamh nan Sikh a-mhàin ach "
+#~ "cuireachd ’na shuaicheantas bràithreachd is co-ionnannachd mac an duine. "
+#~ "Faodaidh neach sam bith, ge be dè inbhe, creideamh no cinneadh a dhol a-"
+#~ "steach a shireadh sòlas spioradail agus slànadh cràbhach gun bhacadh sam "
+#~ "bith. Tha e a’ riochdachadh dearbh-aithne, glòr agus dualchas nan Sikh."
+
+#~ msgctxt "board2|"
+#~ msgid ""
+#~ "Ajanta is world's greatest historical monument recognized by UNESCO "
+#~ "located just 55kms from Jalgaon city and 105kms from Aurangabad City of "
+#~ "Maharashtra, India. There are 30 caves in Ajanta of which 9, 10, 19, 26 "
+#~ "and 29 are chaitya-grihas and the rest are monasteries."
+#~ msgstr ""
+#~ "Tha Ajantā am measg nan làraichean-cuimhne UNESCO as motha san t-saoghal, "
+#~ "dìreach 55km taobh a-muigh cathair Jalgaon is 105km o chathair Auraṅgābād "
+#~ "ann am Mahārāṣṭra sna h-Innseachan. Tha 30 uamh ann an Ajantā agus tha 5 "
+#~ "dhiubh nan chaitya (tallachan-adhraidh) agus an corr dhiubh nam "
+#~ "manachainnean."
+
+#, fuzzy
+#~| msgctxt "ActivityInfo|"
+#~| msgid ""
+#~| "This activity will give teach about who we are related to our relatives"
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "This activity will teach you about who we are related to our relatives"
+#~ msgstr ""
+#~ "Ionnsaichidh tu mu na dàimhean a tha eadar daoine sa ghnìomhachd seo."
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "To get an idea about relationships in the family"
+#~ msgstr "A’ fàs eòlach air na dàimhean ann an teaghlach"
+
+#, fuzzy
+#~| msgctxt "ActivityInfo|"
+#~| msgid ""
+#~| "To find the relation between two family members.\n"
+#~| "For the married couple we have highlighted with the rings that is "
+#~| "between two circles. For the rest of relations we have only solid "
+#~| "lines.\n"
+#~| "Red circle will point to you and blue one to your relative. Now you have "
+#~| "to find what you should call this person.\n"
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "To find the relation between two family members.\n"
+#~ "For the married couple we have highlighted with the rings that is between "
+#~ "two circles. For the rest of relations we have only solid lines.\n"
+#~ "White circle will point to you and red one to your relative. Now you have "
+#~ "to find what you should call this person.\n"
+#~ msgstr ""
+#~ "Mar a lorgas tu dè an dàimh a tha eadar dithis san aon teaghlach.\n"
+#~ "Tha fàinneachan eadar dà chearcall mas e càraid phòsta a tha ann. Chan "
+#~ "eil eadar daoine càirdeach eile ach loidhne sholadach.\n"
+#~ "Comharraichidh cearcall dearg thu fhèin agus fear gorm caraid agad.\n"
+#~ "Feumaidh tu fiosrachadh a-nis dè chanas tu ris an neach seo.\n"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "To get an idea of family relations"
+#~ msgstr "A’ fàs eòlach air na dàimhean ann an teaghlach"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "You are provided with a relation and a family hierarchy. Click on a pair "
+#~ "of family members which correctly identifies the given relation."
+#~ msgstr ""
+#~ "Gheibh thu caraid agus rangachd teaghlaich. Briog air paidhir de bhuill "
+#~ "san teaghlach a tha a’ riochdadh na dàimh ud."
+
+#, fuzzy
+#~| msgctxt "ActivityInfo|"
+#~| msgid "Read the task and select the correct date on calendar"
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "Read the task and find the correct date by doing mathematical "
+#~ "calculations."
+#~ msgstr ""
+#~ "Leugh dè an t-saothair agus tagh an ceann-là ceart air a’ mhìosachan"
+
+#~ msgctxt "MagicHat|"
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgctxt "math_util|"
+#~ msgid "-"
+#~ msgstr "-"
 
 #~ msgctxt "ActivityInfo|"
 #~ msgid "Family find relatives"
