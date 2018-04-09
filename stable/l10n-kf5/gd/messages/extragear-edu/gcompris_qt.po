@@ -1729,8 +1729,11 @@ msgid "Select fifth Thursday of given month"
 msgstr "Tagh an còigeamh Diardaoin dhen mhìos ud"
 
 #: activities/calendar/calendar_dataset.js:189
+#, fuzzy
+#| msgctxt "calendar_dataset|"
+#| msgid "Select fourth day after 27th of given month"
 msgctxt "calendar_dataset|"
-msgid "Select fourth day after 27th of given month"
+msgid "Select third day after 27th of given month"
 msgstr "Tagh an ceathramh latha an dèidh an 27mh latha dhen mhìos ud"
 
 #: activities/calendar/calendar_dataset.js:208
