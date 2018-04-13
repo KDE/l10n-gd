@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-10-17 03:36+0200\n"
+"POT-Creation-Date: 2018-04-13 03:28+0200\n"
 "PO-Revision-Date: 2016-04-29 19:43+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -286,34 +286,40 @@ msgstr "Foillsichear"
 #: src/propertyinfo.cpp:327
 #, kde-format
 msgctxt "@label"
+msgid "Label"
+msgstr ""
+
+#: src/propertyinfo.cpp:333
+#, kde-format
+msgctxt "@label"
 msgid "Release Year"
 msgstr "Bliadhna an sgaoilidh"
 
-#: src/propertyinfo.cpp:333
+#: src/propertyinfo.cpp:339
 #, kde-format
 msgctxt "@label"
 msgid "Sample Rate"
 msgstr "Reat shampallan"
 
-#: src/propertyinfo.cpp:339
+#: src/propertyinfo.cpp:345
 #, kde-format
 msgctxt "@label"
 msgid "Subject"
 msgstr "Cuspair"
 
-#: src/propertyinfo.cpp:346
+#: src/propertyinfo.cpp:352
 #, kde-format
 msgctxt "@label"
 msgid "Title"
 msgstr "Tiotal"
 
-#: src/propertyinfo.cpp:352
+#: src/propertyinfo.cpp:358
 #, kde-format
 msgctxt "@label music track number"
 msgid "Track Number"
 msgstr "Àireamh an traca"
 
-#: src/propertyinfo.cpp:358
+#: src/propertyinfo.cpp:364
 #, fuzzy, kde-format
 #| msgctxt "@label music track number"
 #| msgid "Track Number"
@@ -321,73 +327,123 @@ msgctxt "@label music disc number"
 msgid "Disc Number"
 msgstr "Àireamh an traca"
 
-#: src/propertyinfo.cpp:364
+#: src/propertyinfo.cpp:370
+#, fuzzy, kde-format
+#| msgctxt "@label"
+#| msgid "Duration"
+msgctxt "@label"
+msgid "Location"
+msgstr "Faid"
+
+#: src/propertyinfo.cpp:376
+#, kde-format
+msgctxt "@label"
+msgid "Performer"
+msgstr ""
+
+#: src/propertyinfo.cpp:382
+#, kde-format
+msgctxt "@label"
+msgid "Ensemble"
+msgstr ""
+
+#: src/propertyinfo.cpp:388
+#, kde-format
+msgctxt "@label"
+msgid "Arranger"
+msgstr ""
+
+#: src/propertyinfo.cpp:394
+#, kde-format
+msgctxt "@label"
+msgid "Conductor"
+msgstr ""
+
+#: src/propertyinfo.cpp:400
+#, kde-format
+msgctxt "@label"
+msgid "Compilation"
+msgstr ""
+
+#: src/propertyinfo.cpp:406
+#, kde-format
+msgctxt "@label"
+msgid "License"
+msgstr ""
+
+#: src/propertyinfo.cpp:412
+#, kde-format
+msgctxt "@label"
+msgid "Opus"
+msgstr ""
+
+#: src/propertyinfo.cpp:418
 #, kde-format
 msgctxt "@label"
 msgid "Width"
 msgstr "Leud"
 
-#: src/propertyinfo.cpp:370
+#: src/propertyinfo.cpp:424
 #, kde-format
 msgctxt "@label number of words"
 msgid "Word Count"
 msgstr "Cunntadh fhaclan"
 
-#: src/propertyinfo.cpp:377
+#: src/propertyinfo.cpp:431
 #, kde-format
 msgctxt "@label number of translatable strings"
 msgid "Translatable Units"
 msgstr "Aonadan a ghabhas eadar-theangachadh"
 
-#: src/propertyinfo.cpp:384
+#: src/propertyinfo.cpp:438
 #, kde-format
 msgctxt "@label number of translated strings"
 msgid "Translations"
 msgstr "Eadar-theangachaidhean"
 
-#: src/propertyinfo.cpp:392
+#: src/propertyinfo.cpp:446
 #, kde-format
 msgctxt "@label number of fuzzy translated strings"
 msgid "Draft Translations"
 msgstr "Dreachdan eadar-theangachaidhean"
 
-#: src/propertyinfo.cpp:399
+#: src/propertyinfo.cpp:453
 #, kde-format
 msgctxt "@label translation author"
 msgid "Author"
 msgstr "Ùghdar"
 
-#: src/propertyinfo.cpp:406
+#: src/propertyinfo.cpp:460
 #, kde-format
 msgctxt "@label translations last update"
 msgid "Last Update"
 msgstr "An t-ùrachadh mu dheireadh"
 
-#: src/propertyinfo.cpp:413
+#: src/propertyinfo.cpp:467
 #, kde-format
 msgctxt "@label date of template creation8"
 msgid "Template Creation"
 msgstr "Cruthachadh teamplaide"
 
-#: src/propertyinfo.cpp:420
+#: src/propertyinfo.cpp:474
 #, kde-format
 msgctxt "@label the URL a file was originally downloded from"
 msgid "Downloaded From"
 msgstr "Air a luchdadh a-nuas o"
 
-#: src/propertyinfo.cpp:427
+#: src/propertyinfo.cpp:481
 #, kde-format
 msgctxt "@label the subject of an email this file was attached to"
 msgid "E-Mail Attachment Subject"
 msgstr "Cuspair a' cheanglachain puist-d"
 
-#: src/propertyinfo.cpp:434
+#: src/propertyinfo.cpp:488
 #, kde-format
 msgctxt "@label the sender of an email this file was attached to"
 msgid "E-Mail Attachment Sender"
 msgstr "Seòladair a' cheanglachain puist-d"
 
-#: src/propertyinfo.cpp:441
+#: src/propertyinfo.cpp:495
 #, kde-format
 msgctxt "@label the message ID of an email this file was attached to"
 msgid "E-Mail Attachment Message ID"
