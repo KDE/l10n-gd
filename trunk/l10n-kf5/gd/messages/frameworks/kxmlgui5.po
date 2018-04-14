@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-03-01 03:27+0100\n"
+"POT-Creation-Date: 2018-04-14 03:24+0200\n"
 "PO-Revision-Date: 2016-04-30 17:56+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -19,7 +19,7 @@ msgstr ""
 "X-Generator: Virtaal 0.7.1\n"
 "X-Project-Style: kde\n"
 
-#: kaboutapplicationdialog.cpp:81 khelpmenu.cpp:288
+#: kaboutapplicationdialog.cpp:81 khelpmenu.cpp:281
 #, kde-format
 msgid "About %1"
 msgstr "Mu %1"
@@ -612,39 +612,39 @@ msgstr ""
 msgid "Close Message"
 msgstr "Dùin an teachdaireachd"
 
-#: kcheckaccelerators.cpp:230
+#: kcheckaccelerators.cpp:231
 #, kde-format
 msgctxt "@title:window"
 msgid "Dr. Klash' Accelerator Diagnosis"
 msgstr "Diagnosachd nan luathaichearan le Dr. Klash"
 
-#: kcheckaccelerators.cpp:237
+#: kcheckaccelerators.cpp:238
 #, kde-format
 msgctxt "@option:check"
 msgid "Disable automatic checking"
 msgstr "Cuir an dearbhadh fèin-obrachail à comas"
 
-#: kcheckaccelerators.cpp:281
+#: kcheckaccelerators.cpp:282
 #, kde-format
 msgid "<h2>Accelerators changed</h2>"
 msgstr "<h2>Tha luathaichearan air an atharrachadh</h2>"
 
-#: kcheckaccelerators.cpp:283 kcheckaccelerators.cpp:294
+#: kcheckaccelerators.cpp:284 kcheckaccelerators.cpp:295
 #, kde-format
 msgid "Old Text"
 msgstr "Seann-teacsa"
 
-#: kcheckaccelerators.cpp:285 kcheckaccelerators.cpp:303
+#: kcheckaccelerators.cpp:286 kcheckaccelerators.cpp:304
 #, kde-format
 msgid "New Text"
 msgstr "Teacsa ùr"
 
-#: kcheckaccelerators.cpp:292
+#: kcheckaccelerators.cpp:293
 #, kde-format
 msgid "<h2>Accelerators removed</h2>"
 msgstr "<h2>Chaidh luathaichearan a thoirt air falbh</h2>"
 
-#: kcheckaccelerators.cpp:301
+#: kcheckaccelerators.cpp:302
 #, kde-format
 msgid "<h2>Accelerators added (just for your info)</h2>"
 msgstr "<h2>Chaidh luathaichearan a chur ris (mar fhiosrachadh dhut)</h2>"
@@ -788,25 +788,25 @@ msgctxt "left mouse button"
 msgid "left button"
 msgstr "putan clì"
 
-#: kgesture.cpp:508
+#: kgesture.cpp:507
 #, kde-format
 msgctxt "middle mouse button"
 msgid "middle button"
 msgstr "putan meadhain"
 
-#: kgesture.cpp:511
+#: kgesture.cpp:509
 #, kde-format
 msgctxt "right mouse button"
 msgid "right button"
 msgstr "putan deas"
 
-#: kgesture.cpp:514
+#: kgesture.cpp:511
 #, kde-format
 msgctxt "a nonexistent value of mouse button"
 msgid "invalid button"
 msgstr "putan mì-dhligheach"
 
-#: kgesture.cpp:528
+#: kgesture.cpp:524
 #, kde-format
 msgctxt ""
 "a kind of mouse gesture: hold down one mouse button, then press another "
