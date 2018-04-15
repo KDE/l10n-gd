@@ -6232,7 +6232,7 @@ msgctxt "Dataset|"
 msgid "Son-in-law"
 msgstr ""
 
-#: activities/family/Family.qml:237
+#: activities/family/Family.qml:238
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Maze"
@@ -6240,12 +6240,12 @@ msgctxt "Family|"
 msgid "Me"
 msgstr "Cuartan"
 
-#: activities/family/Family.qml:260
+#: activities/family/Family.qml:261
 msgctxt "Family|"
 msgid "?"
 msgstr ""
 
-#: activities/family/Family.qml:372
+#: activities/family/Family.qml:375
 #, qt-format
 msgctxt "Family|"
 msgid "Select one of the pairs denoting: %1"
@@ -9414,12 +9414,12 @@ msgstr ""
 "Chì thu làmh: an e làmh chlì no làmh dheas a th’ ann? Briog air a’ phutan "
 "taobh clì no air a’ phutan taobh deas a-rèir dè an làmh a chì thu."
 
-#: activities/leftright/Leftright.qml:146
+#: activities/leftright/Leftright.qml:148
 msgctxt "Leftright|"
 msgid "Left hand"
 msgstr "An làmh chlì"
 
-#: activities/leftright/Leftright.qml:159
+#: activities/leftright/Leftright.qml:164
 msgctxt "Leftright|"
 msgid "Right hand"
 msgstr "An làmh dheas"
@@ -11225,17 +11225,17 @@ msgstr ""
 "Chì thu nì air a’ phrìomh raon is facal neo-choileanta fon dealbh. Tagh an "
 "litir a tha a dhìth gus am facal a dhèanamh coileanta."
 
-#: activities/missing-letter/MissingLetter.qml:274
+#: activities/missing-letter/MissingLetter.qml:278
 msgctxt "MissingLetter|"
 msgid "Select your locale"
 msgstr ""
 
-#: activities/missing-letter/MissingLetter.qml:356
+#: activities/missing-letter/MissingLetter.qml:362
 msgctxt "MissingLetter|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 
-#: activities/missing-letter/MissingLetter.qml:357
+#: activities/missing-letter/MissingLetter.qml:363
 #, qt-format
 msgctxt "MissingLetter|"
 msgid ""
@@ -11243,7 +11243,7 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 
-#: activities/missing-letter/MissingLetter.qml:359
+#: activities/missing-letter/MissingLetter.qml:365
 msgctxt "MissingLetter|"
 msgid ""
 "We switched to English for this activity but you can select another language "
@@ -11959,12 +11959,12 @@ msgid ""
 "appear and disappear. Does the given word belong to the list?"
 msgstr ""
 
-#: activities/readingh/Readingh.qml:104
+#: activities/readingh/Readingh.qml:105
 msgctxt "Readingh|"
 msgid "Select your locale"
 msgstr ""
 
-#: activities/readingh/Readingh.qml:234
+#: activities/readingh/Readingh.qml:231
 #, qt-format
 msgctxt "Readingh|"
 msgid ""
@@ -11972,12 +11972,12 @@ msgid ""
 "font></b><br/><font color=\"#373737\">is displayed"
 msgstr ""
 
-#: activities/readingh/Readingh.qml:260
+#: activities/readingh/Readingh.qml:257
 msgctxt "Readingh|"
 msgid "Yes, I saw it!"
 msgstr ""
 
-#: activities/readingh/Readingh.qml:275
+#: activities/readingh/Readingh.qml:271
 msgctxt "Readingh|"
 msgid "No, it was not there!"
 msgstr ""
