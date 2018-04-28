@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwalletd5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-12-01 03:08+0100\n"
+"POT-Creation-Date: 2018-04-28 03:40+0200\n"
 "PO-Revision-Date: 2016-05-04 18:07+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -251,7 +251,7 @@ msgstr ""
 "OpenPGP. Thoir sùil air rèiteachadh an t-siostaim agad is feuch ris a-"
 "rithist an uairsin."
 
-#: knewwalletdialog.cpp:156
+#: knewwalletdialog.cpp:155
 #, fuzzy, kde-format
 #| msgid ""
 #| "Seems that your system has no keys suitable for encryption. Please set-up "
