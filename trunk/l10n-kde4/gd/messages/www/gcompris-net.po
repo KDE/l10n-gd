@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GCompris-Unofficial\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-03-25 01:50+0100\n"
+"POT-Creation-Date: 2018-05-08 01:52+0200\n"
 "PO-Revision-Date: 2017-05-04 09:29+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -20,21 +20,21 @@ msgstr ""
 "X-Generator: Virtaal 0.7.1\n"
 "Generated-By: Babel 0.9.6\n"
 
-#: template/base.html:58
+#: template/base.html:59
 #, fuzzy
 #| msgid "Download GCompris"
 msgid "Download"
 msgstr "Luchdaich a-nuas GCompris"
 
-#: template/base.html:59 template/buy.html:4 template/buy.html:9
+#: template/base.html:60 template/buy.html:4 template/buy.html:9
 msgid "Buy / Donate"
 msgstr "Ceannaich / Thoir tìodhlac dhuinn"
 
-#: template/base.html:60
+#: template/base.html:61
 msgid "Screenshots"
 msgstr "Glacaidhean-sgrìn"
 
-#: template/base.html:62
+#: template/base.html:63
 msgid "Contribute"
 msgstr "Thoir taic dhuinn"
 
@@ -228,11 +228,11 @@ msgstr ""
 "thu gleus a chur air a-rèir nam feumalachdan agad fhèin, a leasachadh is gu "
 "h-àraidh a cho-roinn leis a' chlann air fheadh an t-saoghail."
 
-#: template/index.html:218
+#: template/index.html:219
 msgid "Latest news"
 msgstr "Na naidheachdan as ùire"
 
-#: template/index.html:222
+#: template/index.html:223
 msgid "All the news"
 msgstr "A h-uile naidheachd"
 
