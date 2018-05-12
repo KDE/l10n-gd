@@ -1249,9 +1249,12 @@ msgstr ""
 #. Help goal
 #: activities/bargame/ActivityInfo.qml:32
 #: activities/bargame_2players/ActivityInfo.qml:32
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Kick the ball into the goal"
 msgctxt "ActivityInfo|"
-msgid "Don't use the last ball"
-msgstr ""
+msgid "Don't put the ball in the last hole"
+msgstr "Breab am bàla dhan tadhal"
 
 #. Help prerequisite
 #: activities/bargame/ActivityInfo.qml:34
