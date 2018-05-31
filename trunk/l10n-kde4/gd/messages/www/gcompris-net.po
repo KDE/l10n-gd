@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GCompris-Unofficial\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-05-08 01:52+0200\n"
+"POT-Creation-Date: 2018-05-31 01:55+0200\n"
 "PO-Revision-Date: 2017-05-04 09:29+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -38,38 +38,79 @@ msgstr "Glacaidhean-sgrìn"
 msgid "Contribute"
 msgstr "Thoir taic dhuinn"
 
-#: template/buy.html:16 template/screenshot.html:28
-msgid "Buying the Windows or MacOSX version"
+#: template/buy.html:16
+#, fuzzy
+#| msgid "Buying the Windows or MacOSX version"
+msgid "Buying the full version"
 msgstr "A' ceannach an tionndadh ùr airson Windows no MacOSX"
 
 #: template/buy.html:20
-#, python-format
 msgid ""
-"The Windows and MacOSX versions have a limited number of activities, about "
+"On proprietary operating systems (Windows/Mac/Android...), the full version "
+"of GCompris has a cost."
+msgstr ""
+
+#: template/buy.html:21
+#, fuzzy, python-format
+#| msgid ""
+#| "The Windows and MacOSX versions have a limited number of activities, "
+#| "about %(demo_activities)s on the %(total_activities)s available."
+msgid ""
+"We provide a free demo with a limited number of activities, "
 "%(demo_activities)s on the %(total_activities)s available."
 msgstr ""
 "Chan eil ach cuid dhe na chleasan ri fhaighinn air Windows is MacOSX o thùs, "
 "mu %(demo_activities)s dhe na %(total_activities)s atha ri am faighinn."
 
-#: template/buy.html:21
+#: template/buy.html:22
+msgid "Follow the instructions below to buy the full version."
+msgstr ""
+
+#: template/buy.html:24
+#, python-format
 msgid ""
-"Click on the button below let you pay 9&euro; for the activation code. After "
-"payment you will receive immediately an email with your instructions (check "
-"your spam folder). If you do not receive this email please write me at "
-"sales@gcompris.net"
+"For Windows, you can get the demo from the <a href=downloads-%(locale)s."
+"html>download page</a>, and buy here the activation code to unlock the full "
+"version. The cost is 9€."
+msgstr ""
+
+#: template/buy.html:37
+msgid "Notes:"
+msgstr ""
+
+#: template/buy.html:38
+msgid ""
+"For personal use, it is possible to use this code on several computers.</"
+"br>\n"
+"          For schools and other institutions, please contact us to get a "
+"quote."
+msgstr ""
+
+#: template/buy.html:40
+#, fuzzy
+#| msgid ""
+#| "Click on the button below let you pay 9&euro; for the activation code. "
+#| "After payment you will receive immediately an email with your "
+#| "instructions (check your spam folder). If you do not receive this email "
+#| "please write me at sales@gcompris.net"
+msgid ""
+"After the payment you will immediately receive an email with instructions "
+"(check your spam folder). If you do not receive this email please contact us "
+"at sales@gcompris.net ."
 msgstr ""
 "Briog air a' phutan gu h-ìosal gus 9&euro; a phàigheadh airson còd "
 "gnìomhachaidh. Nuair a bhios tu air pàigheadh, gheibh thu post-d sa bhad le "
 "mìneachaidhean ann (thoir sùil air a' phasgan truilleis agad). Mur faigh thu "
 "am post-d seo, cuir fios thugam aig sales@gcompris.net"
 
-#: template/buy.html:22
-msgid "Contact me to get a quote for your school."
-msgstr "Cuir fhios thugam gus bargan fhaighinn airson an sgoil agad."
-
 #: template/buy.html:41
+#, fuzzy
+#| msgid ""
+#| "The registration gives you the right to update to any new release of "
+#| "GCompris for 2 years. After that period, you can continue to use the "
+#| "latest release you got for as long as you wish."
 msgid ""
-"The registration gives you the right to update to any new release of "
+"This registration gives you the right to update to any new release of "
 "GCompris for 2 years. After that period, you can continue to use the latest "
 "release you got for as long as you wish."
 msgstr ""
@@ -77,37 +118,102 @@ msgstr ""
 "seo, faodaidh tu an sgaoileadh mu dheireadh a fhuair thu a chleachdadh cho "
 "fad a thogras tu."
 
-#: template/buy.html:42 template/buy.html:70
-msgid "Thanks for your support of free software in education."
+#: template/buy.html:43
+msgid ""
+"Alternatively, you can also buy the full version of GCompris directly <a "
+"href=\"https://www.microsoft.com/en-us/store/p/gcompris/9pgxjtcxn8qm\">from "
+"the Windows Store.</a>"
+msgstr ""
+
+#: template/buy.html:46
+msgid ""
+"For MacOSX, the current version is not available anymore, we are working to "
+"bring it back soon. It will use the same code as the Windows version."
+msgstr ""
+
+#: template/buy.html:49
+msgid ""
+"For Android, the recommanded way is to directly buy the full version <a href="
+"\"https://play.google.com/store/apps/details?id=net.gcompris.full\">from "
+"Google Play store</a>."
+msgstr ""
+
+#: template/buy.html:50
+msgid ""
+"You can also install <a href=\"https://play.google.com/store/apps/details?"
+"id=net.gcompris\">the demo</a> available in the store, and use the in-app "
+"purchase button to unlock the full version from it. Note however that this "
+"second method doesn't allow to use the Google Play Family Library to share "
+"it with your family. Also, a few users reported issues to unlock the demo."
+msgstr ""
+
+#: template/buy.html:53
+msgid ""
+"For users of Free-Software operating systems, the full version is always "
+"free.</br>\n"
+"          This means that for GNU/Linux, the installer we provide and the "
+"distribution packages have the full version. There is no need for any "
+"activation code."
+msgstr ""
+
+#: template/buy.html:55
+msgid "However, you can still support us with a donation, see below."
+msgstr ""
+
+#: template/buy.html:57 template/buy.html:102
+#, fuzzy
+#| msgid "Thanks for your support of free software in education."
+msgid "Thanks for supporting Free Software in education."
 msgstr "Tapadh leat airson taic a thoirt do bhathar-bog saor san fhoghlam."
 
-#: template/buy.html:44
-msgid "Legal reference: Company Timothée Giet RCS RENNES France 537 873 986."
-msgstr "Iomradh laghail: Company Timothée Giet RCS RENNES France 537 873 986."
+#: template/buy.html:59
+msgid "Legal reference: Company"
+msgstr ""
 
-#: template/buy.html:54
+#: template/buy.html:69
+msgid "Schools"
+msgstr ""
+
+#: template/buy.html:73
+msgid "For schools and other institutions, you need a site license."
+msgstr ""
+
+#: template/buy.html:74
+msgid "The price of a site license depends on the number of installations."
+msgstr ""
+
+#: template/buy.html:75
+msgid ""
+"Please contact us at <a href=\"mailto:sales@gcompris.net?subject=GCompris - "
+"Quote for school\">sales@gcompris.net</a> to request a quote."
+msgstr ""
+
+#: template/buy.html:85
 msgid "Donate"
 msgstr "Thoir tìodhlac dhuinn"
 
-#: template/buy.html:58
+#: template/buy.html:89
+#, fuzzy
+#| msgid ""
+#| "You, your children, your classroom love GCompris. You have now the "
+#| "opportunity to help this project."
 msgid ""
-"You, your children, your classroom love GCompris. You have now the "
-"opportunity to help this project."
+"You, your children or your school love GCompris. You can support the project "
+"with a donation."
 msgstr ""
 "'S toil leat fhèin is le do chlann is leis an sgoil agad GCompris. Tha "
 "cothrom agad a-nis gus taic a thoirt dhan phròiseact seo."
 
-#: template/buy.html:59
+#: template/buy.html:90
 msgid ""
-"Developing software takes a lot of time, it needs hardware, it implies "
-"moving to promote the project. Said simply, I need your help to continue my "
-"investment in this project."
+"Developing software takes a lot of time, it needs hardware, and other "
+"requirements that have a cost. Currently all sales and donations are used to "
+"support one of the main contributors, a professional graphic artist and "
+"developer who is now in charge of the graphics and co-maintaining the "
+"application."
 msgstr ""
-"Bheir e ùine mhòr gus bathar-bog a leasachadh, feumaidh tu bathar-cruaidh is "
-"gluasad gus am pròiseact a bhrosnachadh. A dh'innse na fìrinn, tha mi "
-"feumach air taic gus leantainn air adhart leis a' phròiseact seo."
 
-#: template/buy.html:60
+#: template/buy.html:91
 msgid ""
 "You can donate the amount of your choice by clicking on the button below:"
 msgstr ""
@@ -236,6 +342,10 @@ msgstr "Na naidheachdan as ùire"
 msgid "All the news"
 msgstr "A h-uile naidheachd"
 
+#: template/screenshot.html:28
+msgid "Buying the Windows or MacOSX version"
+msgstr "A' ceannach an tionndadh ùr airson Windows no MacOSX"
+
 #: template/screenshot.html:46
 msgid "Description:"
 msgstr "Tuairisgeul:"
@@ -257,6 +367,23 @@ msgstr "Leabhar-mhìneachaidh:"
 #: template/screenshot.html:61
 msgid "Credit:"
 msgstr "Urram:"
+
+#~ msgid "Contact me to get a quote for your school."
+#~ msgstr "Cuir fhios thugam gus bargan fhaighinn airson an sgoil agad."
+
+#~ msgid ""
+#~ "Legal reference: Company Timothée Giet RCS RENNES France 537 873 986."
+#~ msgstr ""
+#~ "Iomradh laghail: Company Timothée Giet RCS RENNES France 537 873 986."
+
+#~ msgid ""
+#~ "Developing software takes a lot of time, it needs hardware, it implies "
+#~ "moving to promote the project. Said simply, I need your help to continue "
+#~ "my investment in this project."
+#~ msgstr ""
+#~ "Bheir e ùine mhòr gus bathar-bog a leasachadh, feumaidh tu bathar-cruaidh "
+#~ "is gluasad gus am pròiseact a bhrosnachadh. A dh'innse na fìrinn, tha mi "
+#~ "feumach air taic gus leantainn air adhart leis a' phròiseact seo."
 
 #~ msgid "News"
 #~ msgstr "Naidheachdan"
