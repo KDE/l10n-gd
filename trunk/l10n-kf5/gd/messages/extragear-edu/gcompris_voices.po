@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gcompris voices\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-04-04 03:23+0200\n"
+"POT-Creation-Date: 2018-06-11 03:27+0200\n"
 "PO-Revision-Date: 2017-05-27 14:21+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: gd <kde-i18n-doc@kde.org>\n"
@@ -73,8 +73,8 @@ msgstr ""
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-math-add"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-math-mult-tux"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-math-mult-div-tux"
-#: : input:14 input:16 input:80 input:110 input:134 input:146 input:208
-#: input:214 input:218 input:234 input:262 input:274 input:276 input:280
+#: : input:14 input:16 input:80 input:112 input:136 input:148 input:210
+#: input:216 input:220 input:236 input:264 input:276 input:278 input:282
 #, kde-format
 msgid "Turn over two cards to match the calculation with its answer."
 msgstr ""
@@ -180,7 +180,7 @@ msgstr ""
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "scalesboard"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "scalesboard_weight"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "scalesboard_weight_avoirdupois"
-#: : input:48 input:102 input:250
+#: : input:48 input:104 input:252
 #, kde-format
 msgid "Drag the weights up to balance the scales."
 msgstr "Slaod na clachan-tomhais suas ach am bidh a' mheidh cothromaichte."
@@ -216,14 +216,14 @@ msgstr "Maidsich cairt àireimh ri cairt air a bheil uiread a dhealbhan-dè."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-sound-tux"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-sound"
-#: : input:56 input:256
+#: : input:56 input:258
 #, kde-format
 msgid "Click on an audio card and find its double."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "tic_tac_toe_2players"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "tic_tac_toe"
-#: : input:58 input:114
+#: : input:58 input:116
 #, kde-format
 msgid ""
 "Click on the square which you wish to mark and try to mark 3 consecutive "
@@ -331,14 +331,21 @@ msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-case-association"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-case-association-tux"
-#: : input:82 input:116
+#: : input:82 input:118
 #, fuzzy, kde-format
 #| msgid "Match the numeric with the word."
 msgid "Match the upper case card with its lower case pair."
 msgstr "Cuir àireamh agus am facal ceart còmhla."
 
-#. i18n: intro voices, see GCompris-voices/README.md - activity: "gnumch-equality"
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "solar_system"
 #: : input:84
+#, kde-format
+msgid ""
+"Answer the questions presented and get a 100% correctness among the options."
+msgstr ""
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "gnumch-equality"
+#: : input:86
 #, fuzzy, kde-format
 #| msgid ""
 #| "Guide the number eater with the arrow keys to the prime numbers and press "
@@ -351,14 +358,14 @@ msgstr ""
 "àireamhan agus brùth air a' spacebar gus an slugadh."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "explore_world_animals"
-#: : input:86
+#: : input:88
 #, kde-format
 msgid "Learn about world animals and locate them on a map."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "click_on_letter_up"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "click_on_letter"
-#: : input:88 input:220
+#: : input:90 input:222
 #, kde-format
 msgid ""
 "Click on the required letter. You can listen to it again by clicking on the "
@@ -368,25 +375,25 @@ msgstr ""
 "is tu a' briogadh air a' bheul."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "graph-coloring"
-#: : input:90
+#: : input:92
 #, kde-format
 msgid "Color the graph so that no two adjacent nodes have the same color."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "money_cents"
-#: : input:92
+#: : input:94
 #, kde-format
 msgid "Click on the money to pay."
 msgstr "Briog air an airgead gus pàigheadh."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "braille_fun"
-#: : input:94
+#: : input:96
 #, kde-format
 msgid "Create the Braille cell for the letter."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "algorithm"
-#: : input:96
+#: : input:98
 #, fuzzy, kde-format
 msgid ""
 "Click on the missing items on the table and follow the logical sequence "
@@ -396,14 +403,14 @@ msgstr ""
 "cheangal loidigeach a chì thu gu h-àrd."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "alphabet-sequence"
-#: : input:98
+#: : input:100
 #, kde-format
 msgid ""
 "Move the helicopter to catch the clouds following the order of the alphabet."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "maze"
-#: : input:100
+#: : input:102
 #, fuzzy, kde-format
 msgid ""
 "Use the arrows keys or swipe the touch screen to help Tux find his way out."
@@ -411,19 +418,19 @@ msgstr ""
 "Cleachd na saighdean air a' mheur-chlàr agad gus an t-slighe a-mach a lorg."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "penalty"
-#: : input:104
+#: : input:106
 #, fuzzy, kde-format
 msgid "Double click or double tap on the goal, in order to score."
 msgstr "Dèan briogadh dùbailte air a' bhàla gus a bhreabadh."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "categorization"
-#: : input:106
+#: : input:108
 #, kde-format
 msgid "Categorize the elements into the correct group"
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "land_safe"
-#: : input:108
+#: : input:110
 #, kde-format
 msgid "Use the arrow keys to pilot your spaceship safely onto the landing pad."
 msgstr ""
@@ -431,13 +438,13 @@ msgstr ""
 "gu sàbhailte."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "magic-hat-minus"
-#: : input:112
+#: : input:114
 #, kde-format
 msgid "Click on the hat. How many stars are still hiding under the hat."
 msgstr "Briog air an ad. Co mheud rionnag a tha am falach fon ad fhathast?"
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "share"
-#: : input:118
+#: : input:120
 #, kde-format
 msgid ""
 "Share the candies equally among the specified number of children and notice "
@@ -445,7 +452,7 @@ msgid ""
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "simplepaint"
-#: : input:120
+#: : input:122
 #, kde-format
 msgid ""
 "Select a color and paint the rectangles as you like to create a drawing."
@@ -453,14 +460,14 @@ msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "money_back_cents"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "money_back"
-#: : input:122 input:206
+#: : input:124 input:208
 #, kde-format
 msgid "Click on the money at the bottom of the screen to give Tux his change."
 msgstr "Briog air an airgead aig bonn na sgrìn gus iomlaid a thoirt dha Tux."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "readingv"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "readingh"
-#: : input:124 input:150
+#: : input:126 input:152
 #, fuzzy, kde-format
 msgid "Read a list of words and say if a given word is in it."
 msgstr ""
@@ -469,13 +476,13 @@ msgstr ""
 "chunnaic mi e\" agus mura nochd, briog air \"Cha deach, cha robh e ann\"."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "babyshapes"
-#: : input:126
+#: : input:128
 #, kde-format
 msgid "Drag and drop the objects matching the shapes."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "magic-hat-plus"
-#: : input:128
+#: : input:130
 #, kde-format
 msgid ""
 "Count the number of stars hidden under the hat and then click on the stars "
@@ -485,7 +492,7 @@ msgstr ""
 "rionnagan air an taobh deas gus an àireamh innse."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "nine_men_morris"
-#: : input:130
+#: : input:132
 #, kde-format
 msgid ""
 "Click on the dot where you wish to place your piece and try to take all "
@@ -493,7 +500,7 @@ msgid ""
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "redraw_symmetrical"
-#: : input:132
+#: : input:134
 #, fuzzy, kde-format
 #| msgid ""
 #| "Use the drawing tools to reproduce a symmetrical figure on the right hand "
@@ -505,19 +512,19 @@ msgstr ""
 "air an taobh deas."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "digital_electricity"
-#: : input:136
+#: : input:138
 #, kde-format
 msgid "Learn how digital electronics work and create your own circuit."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "renewable_energy"
-#: : input:138
+#: : input:140
 #, kde-format
 msgid "Click on the different stages that go to make up the power supply."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "align4"
-#: : input:140
+#: : input:142
 #, fuzzy, kde-format
 msgid ""
 "Click on the column where you wish your token to fall and try to align of 4 "
@@ -527,13 +534,13 @@ msgstr ""
 "buinn a choileanadh airson buaidh a thoirt."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "letter-in-word"
-#: : input:142
+#: : input:144
 #, kde-format
 msgid "Click on all the words containing the wanted letter."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "hanoi"
-#: : input:144
+#: : input:146
 #, kde-format
 msgid ""
 "Rebuild the same tower in the empty area as the one you see on the right "
@@ -541,39 +548,39 @@ msgid ""
 msgstr "Tog an t-aon tùr san raon fhalamh a chì thu air an taobh deas."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "number_sequence"
-#: : input:148
+#: : input:150
 #, fuzzy, kde-format
 msgid "Draw the picture by touching the numbers in ascending order."
 msgstr "Tarraing an dealbh, a' briogadh air gach àireamh san òrdugh cheart."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "railroad"
-#: : input:152
+#: : input:154
 #, kde-format
 msgid "Observe the train and then click on the items to set up a similar train"
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "erase_2clic"
-#: : input:154
+#: : input:156
 #, fuzzy, kde-format
 msgid "Double tap or double click on the bricks to discover the hidden picture"
 msgstr ""
 "Dèan briogadh dùbailte air na breigichean gus an dealbh am falach a lorg."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "advanced_colors"
-#: : input:156
+#: : input:158
 #, fuzzy, kde-format
 #| msgid "Click on the right color"
 msgid "click on the required color"
 msgstr "Briog air an dath cheart."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "drawletters"
-#: : input:158
+#: : input:160
 #, kde-format
 msgid "Click on the selected points and draw the letter"
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "lang"
-#: : input:160
+#: : input:162
 #, kde-format
 msgid ""
 "Select the language you want to learn then review the words before doing the "
@@ -581,7 +588,7 @@ msgid ""
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "superbrain"
-#: : input:162
+#: : input:164
 #, fuzzy, kde-format
 #| msgid ""
 #| "Find out the right combination of colors. A black pin means you found the "
@@ -599,19 +606,19 @@ msgstr ""
 "bheil e san àite chearr."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "explore_monuments"
-#: : input:164
+#: : input:166
 #, kde-format
 msgid "Explore Monuments around the world."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "clickgame"
-#: : input:166
+#: : input:168
 #, kde-format
 msgid "Catch the fish before they leave the aquarium."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "algebra_plus"
-#: : input:168
+#: : input:170
 #, fuzzy, kde-format
 #| msgid ""
 #| "Add the two numbers together, and type in your answer before the balloon "
@@ -624,19 +631,19 @@ msgstr ""
 "san uisge."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "roman_numerals"
-#: : input:170
+#: : input:172
 #, kde-format
 msgid "Learn and practice roman to arabic numerals conversion"
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "template"
-#: : input:172
+#: : input:174
 #, kde-format
 msgid "put here in comment the text for the intro voice"
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "fifteen"
-#: : input:174
+#: : input:176
 #, fuzzy, kde-format
 msgid ""
 "Click or drag an element next to a free space, the element will move and "
@@ -648,7 +655,7 @@ msgstr ""
 "rèir nan àireamhan."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "gnumch-multiples"
-#: : input:176
+#: : input:178
 #, fuzzy, kde-format
 #| msgid ""
 #| "Guide the number eater with the arrow keys to the prime numbers and press "
@@ -661,13 +668,13 @@ msgstr ""
 "àireamhan agus brùth air a' spacebar gus an slugadh."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "lightsoff"
-#: : input:178
+#: : input:180
 #, kde-format
 msgid "Click on the lamps to turn them off."
 msgstr "Briog air na lampaichean gus an cur dheth."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "leftright"
-#: : input:180
+#: : input:182
 #, kde-format
 msgid ""
 "Guess if the picture presents a left or right hand and click on the correct "
@@ -677,7 +684,7 @@ msgstr ""
 "an fhreagairt."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "submarine"
-#: : input:182
+#: : input:184
 #, kde-format
 msgid ""
 "Drive the submarine to the right end of the screen without colliding with "
@@ -685,7 +692,7 @@ msgid ""
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "gnumch-primes"
-#: : input:184
+#: : input:186
 #, kde-format
 msgid ""
 "Guide the number eater with the arrow keys to the prime numbers and press "
@@ -695,7 +702,7 @@ msgstr ""
 "àireamhan agus brùth air a' spacebar gus an slugadh."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "guessnumber"
-#: : input:186
+#: : input:188
 #, kde-format
 msgid "Find out the number by typing a number from the range proposed."
 msgstr ""
@@ -703,37 +710,37 @@ msgstr ""
 "dhut. Briog air a' phutan \"OK\" gus do fhreagairt a dhearbhadh."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "photo_hunter"
-#: : input:188
+#: : input:190
 #, kde-format
 msgid "look at the two pictures carefully and click where you see a difference"
 msgstr "Seall air an dà dhealbh gu cùramach agus briog far am faic thu diofar."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "erase_clic"
-#: : input:190
+#: : input:192
 #, kde-format
 msgid "Click or tap on the transparent bricks and discover the hidden picture."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "family_find_relative"
-#: : input:192
+#: : input:194
 #, kde-format
 msgid "Click on a pair that defines the given relation"
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "drawnumbers"
-#: : input:194
+#: : input:196
 #, kde-format
 msgid "Draw the numbers by connecting the dots in the correct order."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "target"
-#: : input:196
+#: : input:198
 #, kde-format
 msgid "Click on the target to launch darts, then count your final score!"
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "numbers-odd-even"
-#: : input:198
+#: : input:200
 #, fuzzy, kde-format
 #| msgid ""
 #| "Move the helicopter with the arrow keys and catch the number in the "
@@ -746,7 +753,7 @@ msgstr ""
 "ann an òrdugh àireamhail."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "watercycle"
-#: : input:200
+#: : input:202
 #, kde-format
 msgid ""
 "Click on the various active elements that make up the water supply. Then "
@@ -754,19 +761,19 @@ msgid ""
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "wordsgame"
-#: : input:202
+#: : input:204
 #, kde-format
 msgid "Type the words on your keyboard before they reach the ground."
 msgstr "Sgrìobh na faclan air a' mheur-chlàr agad mus ruig iad an làr."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "erase"
-#: : input:204
+#: : input:206
 #, kde-format
 msgid " Clear the window with your sponge and discover the hidden picture."
 msgstr "Glan an uinneag leis an spong ach am faic thu an dealbh falaichte."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "chess_partyend"
-#: : input:210
+#: : input:212
 #, kde-format
 msgid ""
 "Click on a white chess piece and green boxes will appear to indicate all the "
@@ -774,7 +781,7 @@ msgid ""
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "guesscount"
-#: : input:212
+#: : input:214
 #, kde-format
 msgid ""
 "Use the numbers and operations suggested to find the results proposed above."
@@ -783,14 +790,14 @@ msgstr ""
 "iomchaidh ach am faigh thu an toradh a chì thu aig a' bharr."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "find_the_day"
-#: : input:216
+#: : input:218
 #, fuzzy, kde-format
 #| msgid "Click on the right color"
 msgid "Select the required day."
 msgstr "Briog air an dath cheart."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "mining"
-#: : input:222
+#: : input:224
 #, kde-format
 msgid ""
 "Looking at the rockwall, you can see a sparkle somewhere. Move the mouse "
@@ -799,7 +806,7 @@ msgid ""
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "planegame"
-#: : input:224
+#: : input:226
 #, fuzzy, kde-format
 #| msgid ""
 #| "Move the helicopter with the arrow keys and catch the number in the "
@@ -812,7 +819,7 @@ msgstr ""
 "ann an òrdugh àireamhail."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "clockgame"
-#: : input:226
+#: : input:228
 #, fuzzy, kde-format
 msgid "Drag and drop the needles of the clock to display the required time"
 msgstr ""
@@ -820,7 +827,7 @@ msgstr ""
 "an ùine a chaidh iarraidh ort."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "tangram"
-#: : input:228
+#: : input:230
 #, kde-format
 msgid ""
 "Click on each object to obtain the same figure. You can change their "
@@ -830,7 +837,7 @@ msgstr ""
 "de bhall is tu a' briogadh air na saighdean."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "intro_gravity"
-#: : input:230
+#: : input:232
 #, kde-format
 msgid ""
 "Change the planets' gravitational force by moving the sliders up and down. "
@@ -841,7 +848,7 @@ msgstr ""
 "Tux."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "gnumch-inequality"
-#: : input:232
+#: : input:234
 #, fuzzy, kde-format
 #| msgid ""
 #| "Guide the number eater with the arrow keys to the prime numbers and press "
@@ -854,13 +861,13 @@ msgstr ""
 "àireamhan agus brùth air a' spacebar gus an slugadh."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "geo-country"
-#: : input:236
+#: : input:238
 #, kde-format
 msgid "Drag and drop the regions to complete the country maps."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "redraw"
-#: : input:238
+#: : input:240
 #, fuzzy, kde-format
 #| msgid ""
 #| "Use the drawing tools to reproduce a symmetrical figure on the right hand "
@@ -871,20 +878,20 @@ msgstr ""
 "air an taobh deas."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "memory-wordnumber"
-#: : input:240
+#: : input:242
 #, kde-format
 msgid "Match the numeric with the word."
 msgstr "Cuir àireamh agus am facal ceart còmhla."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "explore_world_music"
-#: : input:242
+#: : input:244
 #, kde-format
 msgid "Click on the suitcases to learn about music from around the world."
 msgstr ""
 "Briog air na màileidean gus fiosrachadh fhaighinn air ceòl an t-saoghail."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "crane"
-#: : input:244
+#: : input:246
 #, fuzzy, kde-format
 msgid ""
 " Click on each item in turn, in the left frame, and move them to reproduce "
@@ -895,7 +902,7 @@ msgstr ""
 "an taobh deas."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "canal_lock"
-#: : input:246
+#: : input:248
 #, fuzzy, kde-format
 msgid ""
 "You are responsible for the lock and you must help Tux pass through. Click "
@@ -907,7 +914,7 @@ msgstr ""
 "lùghdachadh no a mheudachadh."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "gnumch-factors"
-#: : input:248
+#: : input:250
 #, fuzzy, kde-format
 #| msgid ""
 #| "Guide the number eater with the arrow keys to the prime numbers and press "
@@ -920,50 +927,50 @@ msgstr ""
 "àireamhan agus brùth air a' spacebar gus an slugadh."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "hangman"
-#: : input:252
+#: : input:254
 #, kde-format
 msgid "A word is hidden, you must discover it letter by letter."
 msgstr "Chaidh facal a chur am falach. Feumaidh tu a lorg litir air an litir."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "geography"
-#: : input:254
+#: : input:256
 #, kde-format
 msgid "Drag and drop the objects to complete the map."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "imagename"
-#: : input:258
+#: : input:260
 #, fuzzy, kde-format
 #| msgid "Catch and drop each piece on the points."
 msgid "Drag and drop each item above its name."
 msgstr "Slaod gach pìos agus leig às e air dotag."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "money"
-#: : input:260
+#: : input:262
 #, fuzzy, kde-format
 msgid "Click or tap on the money to pay."
 msgstr "Briog air an airgead gus pàigheadh."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "instruments"
-#: : input:264
+#: : input:266
 #, kde-format
 msgid "Click on the correct musical instrument."
 msgstr "Briog air an inneal-chiùil cheart."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "clickanddraw"
-#: : input:266
+#: : input:268
 #, fuzzy, kde-format
 msgid "Click on the selected points and draw"
 msgstr "Briog air na dotagan gorma agus dèan tarraing."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "colors"
-#: : input:268
+#: : input:270
 #, kde-format
 msgid "Click on the right color"
 msgstr "Briog air an dath cheart."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "reversecount"
-#: : input:270
+#: : input:272
 #, fuzzy, kde-format
 #| msgid ""
 #| "Click on the dice and validate your choice with the OK button to indicate "
@@ -976,7 +983,7 @@ msgstr ""
 "deighe a tha aige ri siubhal mus faigh e iasg."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "melody"
-#: : input:272
+#: : input:274
 #, kde-format
 msgid ""
 "Listen to the sound sequence played, and reproduce it by clicking on the "
@@ -984,13 +991,13 @@ msgid ""
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "explore_farm_animals"
-#: : input:278
+#: : input:280
 #, kde-format
 msgid "Learn about farmyard animals and the noises that they make."
 msgstr "Faigh eòlas air beathaichean na croite agus na fuaimean a nì iad."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "mazerelative"
-#: : input:282
+#: : input:284
 #, kde-format
 msgid ""
 "Help Tux find his way out. Left and right are used to turn and up to go "
@@ -998,7 +1005,7 @@ msgid ""
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "align4-2players"
-#: : input:284
+#: : input:286
 #, kde-format
 msgid ""
 "Click on the column where you wish your token to fall and try to align 4 "
@@ -1009,7 +1016,7 @@ msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "bargame"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "bargame_2players"
-#: : input:286 input:288
+#: : input:288 input:290
 #, kde-format
 msgid ""
 "Click the number of balls you wish to place in the holes and then click the "
@@ -1020,13 +1027,13 @@ msgstr ""
 "dearg."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "football"
-#: : input:290
+#: : input:292
 #, kde-format
 msgid "Drag a line from the ball to set the speed and direction of your kick."
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "chronos"
-#: : input:292
+#: : input:294
 #, kde-format
 msgid "Slide the pictures into the order that tells the story"
 msgstr ""
@@ -1034,7 +1041,7 @@ msgstr ""
 "thu san òrdugh cheart iad."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "smallnumbers2"
-#: : input:294
+#: : input:296
 #, kde-format
 msgid ""
 "Count the number of the points on the dominoes then type the result on your "
