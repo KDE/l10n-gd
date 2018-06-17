@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GCompris-Unofficial\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-06-14 01:52+0200\n"
+"POT-Creation-Date: 2018-06-17 01:51+0200\n"
 "PO-Revision-Date: 2017-05-04 09:29+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -342,7 +342,7 @@ msgstr ""
 #: template/downloads.html:75 template/downloads.html:100
 msgid ""
 "To use it, open a terminal in the folder where you downloaded the installer "
-"and run these commands :"
+"and run these commands:"
 msgstr ""
 
 #: template/downloads.html:80 template/downloads.html:105
@@ -354,7 +354,7 @@ msgstr ""
 #: template/downloads.html:81 template/downloads.html:106
 msgid ""
 "Finally, to launch gcompris, go in the new folder, in bin, and double-click "
-"on gcompris-qt.sh ."
+"on gcompris-qt.sh."
 msgstr ""
 
 #: template/downloads.html:92
