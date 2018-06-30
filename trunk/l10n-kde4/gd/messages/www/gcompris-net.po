@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GCompris-Unofficial\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-06-17 01:51+0200\n"
+"POT-Creation-Date: 2018-06-30 01:51+0200\n"
 "PO-Revision-Date: 2017-05-04 09:29+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -509,11 +509,17 @@ msgstr ""
 "thu gleus a chur air a-rèir nam feumalachdan agad fhèin, a leasachadh is gu "
 "h-àraidh a cho-roinn leis a' chlann air fheadh an t-saoghail."
 
-#: template/index.html:219
+#: template/index.html:213
+msgid ""
+"The GCompris project is hosted and developed by <a target=\"_blank\" rel="
+"\"noopener\" href=\"https://www.kde.org/\">the KDE community</a>."
+msgstr ""
+
+#: template/index.html:220
 msgid "Latest news"
 msgstr "Na naidheachdan as ùire"
 
-#: template/index.html:223
+#: template/index.html:224
 msgid "All the news"
 msgstr "A h-uile naidheachd"
 
