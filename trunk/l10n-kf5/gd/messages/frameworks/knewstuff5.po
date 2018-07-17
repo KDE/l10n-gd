@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-06-26 03:26+0200\n"
+"POT-Creation-Date: 2018-07-17 03:37+0200\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -255,12 +255,12 @@ msgstr ""
 "shoidhneadh. Dèan cinnteach gun dèid <i>gpg</i> a stàladh air neo chan "
 "urrainn dhuinn na goireasan a shoidhneadh.</qt>"
 
-#: downloaddialog.cpp:83 downloadwidget.cpp:220
+#: downloaddialog.cpp:83 downloadwidget.cpp:222
 #, kde-format
 msgid "Get Hot New Stuff"
 msgstr "Faigh deagh-stuth ùr"
 
-#: downloaddialog.cpp:98
+#: downloaddialog.cpp:101
 #, kde-format
 msgctxt "Program name followed by 'Add On Installer'"
 msgid "%1 Add-On Installer"
@@ -271,52 +271,52 @@ msgstr "Stàlaichear tuilleadain %1"
 msgid "Timeout. Check Internet connection."
 msgstr "Dh'fhalbh an ùine air. Thoir sùil air a' cheangal dhan eadar-lìon."
 
-#: downloadwidget.cpp:192
+#: downloadwidget.cpp:194
 #, kde-format
 msgid "Server: %1"
 msgstr "Frithealaiche: %1"
 
-#: downloadwidget.cpp:193
+#: downloadwidget.cpp:195
 #, kde-format
 msgid "<br />Provider: %1"
 msgstr "<br />Solaraiche: %1"
 
-#: downloadwidget.cpp:194
+#: downloadwidget.cpp:196
 #, kde-format
 msgid "<br />Version: %1"
 msgstr "<br />Tionndadh: %1"
 
-#: downloadwidget.cpp:198
+#: downloadwidget.cpp:200
 #, kde-format
 msgid "Provider information"
 msgstr "Fiosrachadh an t-solaraiche"
 
-#: downloadwidget.cpp:209
+#: downloadwidget.cpp:211
 #, kde-format
 msgid "Could not install %1"
 msgstr "Cha b' urrainn dhuinn %1 a stàladh"
 
-#: downloadwidget.cpp:210
+#: downloadwidget.cpp:212
 #, kde-format
 msgid "Get Hot New Stuff!"
 msgstr "Faigh deagh-stuth ùr!"
 
-#: downloadwidget.cpp:264
+#: downloadwidget.cpp:267
 #, kde-format
 msgid "Icons view mode"
 msgstr "Modh sealladh nan ìomhaigheagan"
 
-#: downloadwidget.cpp:266
+#: downloadwidget.cpp:269
 #, kde-format
 msgid "Details view mode"
 msgstr "Modh sealladh an fhiosrachaidh"
 
-#: downloadwidget.cpp:281
+#: downloadwidget.cpp:284
 #, kde-format
 msgid "All Providers"
 msgstr "A h-uile solaraiche"
 
-#: downloadwidget.cpp:288
+#: downloadwidget.cpp:291
 #, kde-format
 msgid "All Categories"
 msgstr "A h-uile roinn-seòrsa"
@@ -335,17 +335,17 @@ msgstr "Solaraiche:"
 msgid "Category:"
 msgstr "Roinn-seòrsa:"
 
-#. i18n: ectx: property (text), widget (QRadioButton, newestRadio)
-#: downloadwidget.ui:90
-#, kde-format
-msgid "Newest"
-msgstr "As ùire"
-
 #. i18n: ectx: property (text), widget (QRadioButton, ratingRadio)
-#: downloadwidget.ui:103
+#: downloadwidget.ui:90
 #, kde-format
 msgid "Rating"
 msgstr "Rangachadh"
+
+#. i18n: ectx: property (text), widget (QRadioButton, newestRadio)
+#: downloadwidget.ui:103
+#, kde-format
+msgid "Newest"
+msgstr "As ùire"
 
 #. i18n: ectx: property (text), widget (QRadioButton, mostDownloadsRadio)
 #: downloadwidget.ui:110
