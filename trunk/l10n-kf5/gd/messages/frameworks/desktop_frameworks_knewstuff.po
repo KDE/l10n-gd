@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-07-14 01:39+0000\n"
+"POT-Creation-Date: 2018-07-18 01:47+0000\n"
 "PO-Revision-Date: 2016-04-29 13:18+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -16,12 +16,12 @@ msgstr ""
 "X-Generator: Virtaal 0.7.1\n"
 "X-Project-Style: kde\n"
 
-#: data/kmoretools-desktopfiles/angrysearch.desktop:4
+#: data/kmoretools-desktopfiles/angrysearch.desktop:3
 msgctxt "Name"
 msgid "ANGRYsearch"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/angrysearch.desktop:36
+#: data/kmoretools-desktopfiles/angrysearch.desktop:35
 msgctxt "GenericName"
 msgid "Linux file search, instant results as you type"
 msgstr ""
@@ -290,17 +290,17 @@ msgctxt "Comment"
 msgid "Screen capture and editor"
 msgstr "Tog is deasaich glacaidhean-sgrìn"
 
-#: data/kmoretools-desktopfiles/kding.desktop:5
+#: data/kmoretools-desktopfiles/kding.desktop:4
 msgctxt "Name"
 msgid "KDing"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/kding.desktop:37
+#: data/kmoretools-desktopfiles/kding.desktop:36
 msgctxt "GenericName"
 msgid "German-English Translator"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/kding.desktop:69
+#: data/kmoretools-desktopfiles/kding.desktop:68
 msgctxt "Comment"
 msgid "Translator"
 msgstr ""
@@ -447,12 +447,12 @@ msgctxt "Comment"
 msgid "List and preview available icons"
 msgstr "Seall liosta dhe na h-ìomhaighean ri am faighinn le ro-shealladh"
 
-#: data/kmoretools-desktopfiles/org.kde.plasma.cuttlefish.kmt-edition.desktop:42
+#: data/kmoretools-desktopfiles/org.kde.plasma.cuttlefish.kmt-edition.desktop:41
 msgctxt "GenericName"
 msgid "Icon Browser"
 msgstr "Brabhsair nan ìomhaigheagan"
 
-#: data/kmoretools-desktopfiles/org.kde.plasma.cuttlefish.kmt-edition.desktop:84
+#: data/kmoretools-desktopfiles/org.kde.plasma.cuttlefish.kmt-edition.desktop:83
 msgctxt "Name"
 msgid "Cuttlefish"
 msgstr "Cuttlefish"
