@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-23 01:51+0000\n"
+"POT-Creation-Date: 2018-08-29 01:59+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -140,11 +140,6 @@ msgstr ""
 #: thumbnail/exrthumbnail.desktop:3
 msgctxt "Name"
 msgid "EXR Images"
-msgstr ""
-
-#: thumbnail/htmlthumbnail.desktop:3
-msgctxt "Name"
-msgid "HTML Files"
 msgstr ""
 
 #: thumbnail/imagethumbnail.desktop:3
