@@ -969,27 +969,27 @@ msgctxt "Solid::Backends::UPower::UPowerManager|"
 msgid "Batteries and other sources of power"
 msgstr "Bataraidhean is tùsan cumhachd eile"
 
-#: solid/devices/backends/win/windevice.cpp:174
+#: solid/devices/backends/win/windevice.cpp:173
 msgctxt "Solid::Backends::Win::WinDevice|battery technology"
 msgid "Lithium Ion"
 msgstr "Lithium Ion"
 
-#: solid/devices/backends/win/windevice.cpp:177
+#: solid/devices/backends/win/windevice.cpp:176
 msgctxt "Solid::Backends::Win::WinDevice|battery technology"
 msgid "Lead Acid"
 msgstr "Lead Acid"
 
-#: solid/devices/backends/win/windevice.cpp:180
+#: solid/devices/backends/win/windevice.cpp:179
 msgctxt "Solid::Backends::Win::WinDevice|battery technology"
 msgid "Nickel Cadmium"
 msgstr "Nickel Cadmium"
 
-#: solid/devices/backends/win/windevice.cpp:183
+#: solid/devices/backends/win/windevice.cpp:182
 msgctxt "Solid::Backends::Win::WinDevice|battery technology"
 msgid "Nickel Metal Hydride"
 msgstr "Nickel Metal Hydride"
 
-#: solid/devices/backends/win/windevice.cpp:186
+#: solid/devices/backends/win/windevice.cpp:185
 msgctxt "Solid::Backends::Win::WinDevice|battery technology"
 msgid "Unknown"
 msgstr "Chan eil fhios"
