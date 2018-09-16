@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kinit5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:05+0200\n"
+"POT-Creation-Date: 2018-09-16 03:43+0200\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -19,7 +19,7 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 "X-Project-Style: kde\n"
 
-#: kdeinit/kinit.cpp:509
+#: kdeinit/kinit.cpp:510
 #, kde-format
 msgid ""
 "Unable to start new process.\n"
@@ -30,7 +30,7 @@ msgstr ""
 "'S dòcha gun do dh'fhosgail an siostam nas urrainn dha de dh'fhaidhlichean "
 "no gun do ràinig e na cheadaich thu de dh'fhaidhlichean fosgailte."
 
-#: kdeinit/kinit.cpp:531
+#: kdeinit/kinit.cpp:532
 #, kde-format
 msgid ""
 "Unable to create new process.\n"
@@ -41,12 +41,12 @@ msgstr ""
 "'S dòcha gu bheil an siostam a' ruith nas urrainn dha de phròiseasan no gu "
 "bheil e a' ruith na cheadaich thu de phròiseasan mar-thà."
 
-#: kdeinit/kinit.cpp:614
+#: kdeinit/kinit.cpp:615
 #, kde-format
 msgid "Could not find '%1' executable."
 msgstr "Cha deach am faidhle a ghabhas ruith \"%1\" a lorg."
 
-#: kdeinit/kinit.cpp:647
+#: kdeinit/kinit.cpp:648
 #, kde-format
 msgid ""
 "Could not open library '%1'.\n"
@@ -55,7 +55,7 @@ msgstr ""
 "Cha b' urrainn dhuinn an leabharlann \"%1\" fhosgladh.\n"
 "%2"
 
-#: kdeinit/kinit.cpp:684
+#: kdeinit/kinit.cpp:685
 #, kde-format
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
