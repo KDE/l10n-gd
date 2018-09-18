@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-09-08 03:57+0200\n"
+"POT-Creation-Date: 2018-09-18 03:45+0200\n"
 "PO-Revision-Date: 2015-11-04 15:09+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -103,22 +103,22 @@ msgstr "'S e buga a th' ann"
 msgid "No index information found"
 msgstr "Cha deach fiosrachadh an inneics a lorg"
 
-#: main.cpp:194
+#: main.cpp:195
 #, kde-format
 msgid "Internal Info"
 msgstr ""
 
-#: main.cpp:195
+#: main.cpp:196
 #, kde-format
 msgid "Terms: %1"
 msgstr ""
 
-#: main.cpp:196
+#: main.cpp:197
 #, kde-format
 msgid "File Name Terms: %1"
 msgstr ""
 
-#: main.cpp:197
+#: main.cpp:198
 #, kde-format
 msgid "%1 Terms: %2"
 msgstr ""

@@ -43,7 +43,7 @@ msgid ""
 "have to find the correct butterfly and touch it."
 msgstr ""
 
-#. Look at http://gcompris.net/wiki/Advanced_color_translation to see all the advanced colors Color #FF7F50
+#. Look at https://gcompris.net/wiki/Advanced_color_translation to see all the advanced colors Color #FF7F50
 #. ----------
 #. Color #FF7F50
 #: activities/advanced_colors/advanced_colors.js:26
@@ -1830,6 +1830,28 @@ msgstr ""
 msgctxt "ActivityInfo|"
 msgid "Drawing by Stephane Cabaraux."
 msgstr "Tarraing le Stephane Cabaraux."
+
+#: activities/canal_lock/CanalLock.qml:62
+msgctxt "CanalLock|"
+msgid ""
+"Your goal is to get Tux across the canal lock to get the wooden logs, using "
+"the different types of water locks available."
+msgstr ""
+
+#: activities/canal_lock/CanalLock.qml:64
+msgctxt "CanalLock|"
+msgid ""
+"The vertical colored bars represent the water locks, which can be operated "
+"by clicking them. Two locks of the same type cannot be operated "
+"simultaneously."
+msgstr ""
+
+#: activities/canal_lock/CanalLock.qml:66
+msgctxt "CanalLock|"
+msgid ""
+"The water level inside the lock will change according to the side of the "
+"canal it is connected with. Use this property to help Tux get the job done."
+msgstr ""
 
 #. Activity title
 #: activities/categorization/ActivityInfo.qml:27
@@ -10937,7 +10959,7 @@ msgstr ""
 #: activities/menu/ConfigurationItem.qml:141
 msgctxt "ConfigurationItem|"
 msgid ""
-"On <a href='http://gcompris.net'>http://gcompris.net</a> you will find the "
+"On <a href='https://gcompris.net'>https://gcompris.net</a> you will find the "
 "instructions to obtain an activation code."
 msgstr ""
 
@@ -14636,7 +14658,7 @@ msgstr ""
 msgctxt "BuyMeOverlay|"
 msgid ""
 "This activity is only available in the full version of GCompris.<br/>On <a "
-"href='http://gcompris.net'>http://gcompris.net</a> you will find the "
+"href='https://gcompris.net'>https://gcompris.net</a> you will find the "
 "instructions to obtain an activation code. Then go to the main configuration "
 "dialog to enter the code."
 msgstr ""
@@ -14786,8 +14808,11 @@ msgid "Based on Qt %1"
 msgstr ""
 
 #: core/DialogAbout.qml:71
+#, fuzzy
+#| msgctxt "DialogAbout|"
+#| msgid "GCompris Home Page: http://gcompris.net"
 msgctxt "DialogAbout|"
-msgid "GCompris Home Page: http://gcompris.net"
+msgid "GCompris Home Page: https://gcompris.net"
 msgstr "Duilleag-dhachaigh GCompris: http://gcompris.net"
 
 #: core/DialogAbout.qml:78
