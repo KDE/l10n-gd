@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-02 02:04+0000\n"
+"POT-Creation-Date: 2018-10-11 02:02+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -31,7 +31,7 @@ msgctxt "Name"
 msgid "HTTP Cache Cleaner"
 msgstr "Glanadair tasgadain HTTP"
 
-#: src/ioslaves/http/http_cache_cleaner.desktop:55
+#: src/ioslaves/http/http_cache_cleaner.desktop:54
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr "Glanaidh seo seann innteartan air falbh on tasgadan HTTP"
@@ -62,7 +62,7 @@ msgid "KTelnetService"
 msgstr "KTelnetService"
 
 #: src/ioslaves/trash/kcmtrash.desktop:1
-#: src/ioslaves/trash/kcmtrash.desktop:171
+#: src/ioslaves/trash/kcmtrash.desktop:170
 msgctxt "Name"
 msgid "Trash"
 msgstr "An sgudal"
@@ -72,12 +72,12 @@ msgctxt "Comment"
 msgid "This service allows configuration of the trash."
 msgstr "Leigidh an t-seirbheis seo leat an sgudal a rèiteachadh."
 
-#: src/ioslaves/trash/kcmtrash.desktop:251
+#: src/ioslaves/trash/kcmtrash.desktop:250
 msgctxt "Comment"
 msgid "Configure trash settings"
 msgstr "Rèitich roghainnean an sgudail"
 
-#: src/ioslaves/trash/kcmtrash.desktop:330
+#: src/ioslaves/trash/kcmtrash.desktop:329
 msgctxt "X-KDE-Keywords"
 msgid "trash"
 msgstr "An sgudal"
@@ -87,12 +87,12 @@ msgctxt "Name"
 msgid "Cache"
 msgstr "Tasgadan"
 
-#: src/kcms/kio/cache.desktop:103
+#: src/kcms/kio/cache.desktop:102
 msgctxt "Comment"
 msgid "Configure web cache settings"
 msgstr "Rèitich roghainnean an tasgadain-lìn"
 
-#: src/kcms/kio/cache.desktop:147
+#: src/kcms/kio/cache.desktop:145
 msgctxt "X-KDE-Keywords"
 msgid "Cache,History,Browsing History,Ports,Size"
 msgstr ""
@@ -104,12 +104,12 @@ msgctxt "Name"
 msgid "Cookies"
 msgstr "Briosgaidean"
 
-#: src/kcms/kio/cookies.desktop:60
+#: src/kcms/kio/cookies.desktop:59
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr "Rèitich an dòigh a dh'obraicheas briosgaidean"
 
-#: src/kcms/kio/cookies.desktop:146
+#: src/kcms/kio/cookies.desktop:144
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr ""
@@ -121,14 +121,14 @@ msgctxt "Name"
 msgid "Connection Preferences"
 msgstr "Roghainnean ceangail"
 
-#: src/kcms/kio/netpref.desktop:99
+#: src/kcms/kio/netpref.desktop:98
 msgctxt "Comment"
 msgid "Configure generic network preferences, like timeout values"
 msgstr ""
 "Rèitich roghainnean coitcheann an lìonraidh, can cuin a dh'fhalbhas an ùine "
 "air nithean"
 
-#: src/kcms/kio/netpref.desktop:183
+#: src/kcms/kio/netpref.desktop:181
 msgctxt "X-KDE-Keywords"
 msgid "timeout,iopref,netpref,network preferences,ftp"
 msgstr ""
@@ -140,12 +140,12 @@ msgctxt "Name"
 msgid "Proxy"
 msgstr "Progsaidh"
 
-#: src/kcms/kio/proxy.desktop:102
+#: src/kcms/kio/proxy.desktop:101
 msgctxt "Comment"
 msgid "Configure the proxy servers used"
 msgstr "Rèitich na frithealaichean progsaidh a thèid a chleachdadh"
 
-#: src/kcms/kio/proxy.desktop:189
+#: src/kcms/kio/proxy.desktop:187
 msgctxt "X-KDE-Keywords"
 msgid "Proxy,Proxy server,Firewall,Squid"
 msgstr ""
@@ -157,12 +157,12 @@ msgctxt "Name"
 msgid "Windows Shares"
 msgstr "Co-roinneadh Windows"
 
-#: src/kcms/kio/smb.desktop:98
+#: src/kcms/kio/smb.desktop:97
 msgctxt "Comment"
 msgid "Credentials used to access SMB shares"
 msgstr ""
 
-#: src/kcms/kio/smb.desktop:132
+#: src/kcms/kio/smb.desktop:131
 msgctxt "X-KDE-Keywords"
 msgid ""
 "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
@@ -399,12 +399,12 @@ msgctxt "Name"
 msgid "Browser Identification"
 msgstr "Aithneachadh a' bhrabhsair"
 
-#: src/kcms/kio/useragent.desktop:99
+#: src/kcms/kio/useragent.desktop:98
 msgctxt "Comment"
 msgid "Configure the User Agent exposed by the HTTP kioslave"
 msgstr ""
 
-#: src/kcms/kio/useragent.desktop:134
+#: src/kcms/kio/useragent.desktop:133
 msgctxt "X-KDE-Keywords"
 msgid "User Agent,Browser,Internet,WWW,Network,agent,bindings,server,login"
 msgstr ""
@@ -417,12 +417,12 @@ msgctxt "Name"
 msgid "Web Shortcuts"
 msgstr "Ath-ghoiridean lìn"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:101
+#: src/kcms/webshortcuts/webshortcuts.desktop:100
 msgctxt "Comment"
 msgid "Configure web shortcuts"
 msgstr "Rèitich na h-ath-ghoiridean lìn"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:146
+#: src/kcms/webshortcuts/webshortcuts.desktop:144
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Shortcuts,Browsing,WWW,Internet,Internet Filters,Network,Search Engines,"
@@ -437,35 +437,35 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "Rèiteachadh progsaidh an lìonraidh"
 
-#: src/kpac/proxyscout.notifyrc:54
+#: src/kpac/proxyscout.notifyrc:53
 msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "Sgriobt progsaidh mì-dhligheach"
 
-#: src/kpac/proxyscout.notifyrc:103
+#: src/kpac/proxyscout.notifyrc:101
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr ""
 "Chan eil sgriobt rèiteachaidh a' phrogsaidh a chaidh a luchdadh a-nuas "
 "dligheach"
 
-#: src/kpac/proxyscout.notifyrc:156
+#: src/kpac/proxyscout.notifyrc:153
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr "Mearachd le luchdadh a-nuas an sgriobt"
 
-#: src/kpac/proxyscout.notifyrc:205
+#: src/kpac/proxyscout.notifyrc:201
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr ""
 "Cha b' urrainn dhuinn sgriobt rèiteachadh a' phrogsaidh a luchdadh a-naus"
 
-#: src/kpac/proxyscout.notifyrc:259
+#: src/kpac/proxyscout.notifyrc:254
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "Mearachd le measadh an sgriobt"
 
-#: src/kpac/proxyscout.notifyrc:306
+#: src/kpac/proxyscout.notifyrc:300
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "Thachair mearachd le gnìomhachadh sgriobt rèiteachadh a' phrogsaidh"
@@ -475,7 +475,7 @@ msgctxt "Name"
 msgid "Folder..."
 msgstr "Pasgan..."
 
-#: src/new_file_templates/Directory.desktop:86
+#: src/new_file_templates/Directory.desktop:85
 msgctxt "Comment"
 msgid "Enter folder name:"
 msgstr "Cuir a-steach ainm a' phasgain:"
@@ -485,7 +485,7 @@ msgctxt "Name"
 msgid "HTML File..."
 msgstr "Faidhle HTML..."
 
-#: src/new_file_templates/HTMLFile.desktop:86
+#: src/new_file_templates/HTMLFile.desktop:85
 msgctxt "Comment"
 msgid "Enter HTML filename:"
 msgstr "Cuir a-steach ainm an fhaidhle HTML:"
@@ -495,7 +495,7 @@ msgctxt "Name"
 msgid "Basic link to file or directory..."
 msgstr "Ceangal bunasach gun fhaidhle no pasgan..."
 
-#: src/new_file_templates/linkPath.desktop:64
+#: src/new_file_templates/linkPath.desktop:63
 msgctxt "Comment"
 msgid "Enter path of file or directory:"
 msgstr "Cuir a-steach slighe an fhaidhle no a' phasgain:"
@@ -525,7 +525,7 @@ msgctxt "Name"
 msgid "Text File..."
 msgstr "Faidhle teacsa..."
 
-#: src/new_file_templates/TextFile.desktop:85
+#: src/new_file_templates/TextFile.desktop:84
 msgctxt "Comment"
 msgid "Enter text filename:"
 msgstr "Cuir a-steach ainm an fhaidhle teacsa:"
@@ -540,7 +540,7 @@ msgctxt "Name"
 msgid "7Digital"
 msgstr "7Digital"
 
-#: src/urifilters/ikws/searchproviders/7digital.desktop:74
+#: src/urifilters/ikws/searchproviders/7digital.desktop:73
 msgctxt "Query"
 msgid ""
 "http://us.7digital.com/Search?search=\\\\{@}&searchtype=global&submit=Search"
@@ -552,7 +552,7 @@ msgctxt "Name"
 msgid "Acronym Database"
 msgstr "Stòr-dàta ghearr-ainmean"
 
-#: src/urifilters/ikws/searchproviders/acronym.desktop:93
+#: src/urifilters/ikws/searchproviders/acronym.desktop:92
 msgctxt "Query"
 msgid "http://www.abbreviations.com/\\\\{@}"
 msgstr "http://www.abbreviations.com/\\\\{@}"
@@ -562,7 +562,7 @@ msgctxt "Name"
 msgid "Amazon"
 msgstr "Amazon"
 
-#: src/urifilters/ikws/searchproviders/amazon.desktop:73
+#: src/urifilters/ikws/searchproviders/amazon.desktop:72
 msgctxt "Query"
 msgid ""
 "http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=aps&field-keywords=\\"
@@ -576,7 +576,7 @@ msgctxt "Name"
 msgid "Amazon MP3"
 msgstr "Amazon MP3"
 
-#: src/urifilters/ikws/searchproviders/amazon_mp3.desktop:74
+#: src/urifilters/ikws/searchproviders/amazon_mp3.desktop:73
 msgctxt "Query"
 msgid ""
 "http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=digital-music&field-"
@@ -590,7 +590,7 @@ msgctxt "Name"
 msgid "All Music Guide"
 msgstr "Treòir All Music"
 
-#: src/urifilters/ikws/searchproviders/amg.desktop:91
+#: src/urifilters/ikws/searchproviders/amg.desktop:90
 msgctxt "Query"
 msgid "http://www.allmusic.com/search/all/\\\\{@}"
 msgstr "http://www.allmusic.com/search/all/\\\\{@}"
@@ -600,7 +600,7 @@ msgctxt "Name"
 msgid "Arch Linux Package Search"
 msgstr "Lorg pacaidean Arch Linux"
 
-#: src/urifilters/ikws/searchproviders/archpkg.desktop:44
+#: src/urifilters/ikws/searchproviders/archpkg.desktop:43
 msgctxt "Query"
 msgid "http://www.archlinux.org/packages/?q=\\\\{@}"
 msgstr "http://www.archlinux.org/packages/?q=\\\\{@}"
@@ -610,7 +610,7 @@ msgctxt "Name"
 msgid "Debian Backports Search"
 msgstr "Lorg airson Debian Backports"
 
-#: src/urifilters/ikws/searchproviders/backports.desktop:88
+#: src/urifilters/ikws/searchproviders/backports.desktop:87
 msgctxt "Query"
 msgid ""
 "http://packages.debian.org/search?suite=squeeze-"
@@ -624,7 +624,7 @@ msgctxt "Name"
 msgid "Baidu"
 msgstr "Baidu"
 
-#: src/urifilters/ikws/searchproviders/baidu.desktop:73
+#: src/urifilters/ikws/searchproviders/baidu.desktop:72
 msgctxt "Query"
 msgid "http://www.baidu.com/s?wd=\\\\{@}"
 msgstr "http://www.baidu.com/s?wd=\\\\{@}"
@@ -634,7 +634,7 @@ msgctxt "Name"
 msgid "Beolingus Online Dictionary"
 msgstr "Faclair air loidhne Beolingus"
 
-#: src/urifilters/ikws/searchproviders/beolingus.desktop:73
+#: src/urifilters/ikws/searchproviders/beolingus.desktop:72
 msgctxt "Query"
 msgid ""
 "http://dict.tu-chemnitz.de/dings.cgi?"
@@ -650,7 +650,7 @@ msgctxt "Name"
 msgid "Bing"
 msgstr "Bing"
 
-#: src/urifilters/ikws/searchproviders/bing.desktop:73
+#: src/urifilters/ikws/searchproviders/bing.desktop:72
 msgctxt "Query"
 msgid "http://www.bing.com/search?q=\\\\{@}"
 msgstr "http://www.bing.com/search?q=\\\\{@}"
@@ -730,7 +730,7 @@ msgctxt "Name"
 msgid "CTAN Catalog"
 msgstr "Catalog CTAN"
 
-#: src/urifilters/ikws/searchproviders/ctan_cat.desktop:93
+#: src/urifilters/ikws/searchproviders/ctan_cat.desktop:92
 msgctxt "Query"
 msgid ""
 "http://tug.ctan.org/cgi-bin/search.py?metadataSearch=\\\\{@}"
@@ -754,7 +754,7 @@ msgctxt "Name"
 msgid "Debian BTS Bug Search"
 msgstr "Lorg airson bugaichean ann an Debian BTS"
 
-#: src/urifilters/ikws/searchproviders/dbug.desktop:89
+#: src/urifilters/ikws/searchproviders/dbug.desktop:88
 msgctxt "Query"
 msgid "http://bugs.debian.org/\\\\{@}"
 msgstr "http://bugs.debian.org/\\\\{@}"
@@ -836,7 +836,7 @@ msgctxt "Name"
 msgid "Duck Duck Go"
 msgstr "Duck Duck Go"
 
-#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:73
+#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:72
 msgctxt "Query"
 msgid "https://duckduckgo.com/?q=\\\\{@}&t=kde"
 msgstr "https://duckduckgo.com/?q=\\\\{@}&t=kde"
@@ -846,7 +846,7 @@ msgctxt "Name"
 msgid "Duck Duck Go Info"
 msgstr "Fiosrachadh Duck Duck Go"
 
-#: src/urifilters/ikws/searchproviders/duckduckgo_info.desktop:73
+#: src/urifilters/ikws/searchproviders/duckduckgo_info.desktop:72
 msgctxt "Query"
 msgid "https://duckduckgo.com/?q=\\\\{@}&v=r&t=kde"
 msgstr "https://duckduckgo.com/?q=\\\\{@}&v=r&t=kde"
@@ -856,7 +856,7 @@ msgctxt "Name"
 msgid "Duck Duck Go Shopping"
 msgstr "Duck Duck Go Shopping"
 
-#: src/urifilters/ikws/searchproviders/duckduckgo_shopping.desktop:74
+#: src/urifilters/ikws/searchproviders/duckduckgo_shopping.desktop:73
 msgctxt "Query"
 msgid "https://duckduckgo.com/?q=\\\\{@}&v=s&t=kde"
 msgstr "https://duckduckgo.com/?q=\\\\{@}&v=s&t=kde"
@@ -866,7 +866,7 @@ msgctxt "Name"
 msgid "Ecosia search engine"
 msgstr "Inneal-luirg Ecosia"
 
-#: src/urifilters/ikws/searchproviders/ecosia.desktop:74
+#: src/urifilters/ikws/searchproviders/ecosia.desktop:73
 msgctxt "Query"
 msgid "http://ecosia.org/search.php?q=\\\\{@}&meta=normal"
 msgstr "http://ecosia.org/search.php?q=\\\\{@}&meta=normal"
@@ -921,7 +921,7 @@ msgctxt "Name"
 msgid "Ethicle"
 msgstr "Ethicle"
 
-#: src/urifilters/ikws/searchproviders/ethicle.desktop:76
+#: src/urifilters/ikws/searchproviders/ethicle.desktop:75
 msgctxt "Query"
 msgid "http://www.ethicle.com/search.php?q=\\\\{@}"
 msgstr "http://www.ethicle.com/search.php?q=\\\\{@}"
@@ -931,7 +931,7 @@ msgctxt "Name"
 msgid "Facebook"
 msgstr "Facebook"
 
-#: src/urifilters/ikws/searchproviders/facebook.desktop:74
+#: src/urifilters/ikws/searchproviders/facebook.desktop:73
 msgctxt "Query"
 msgid "https://www.facebook.com/search/?q=\\\\{@}&init=quick"
 msgstr "https://www.facebook.com/search/?q=\\\\{@}&init=quick"
@@ -941,7 +941,7 @@ msgctxt "Name"
 msgid "Feedster"
 msgstr "Feedster"
 
-#: src/urifilters/ikws/searchproviders/feedster.desktop:95
+#: src/urifilters/ikws/searchproviders/feedster.desktop:94
 msgctxt "Query"
 msgid ""
 "http://www.feedster.com/index.php?page=search/web&type=Web&search=\\\\{@}"
@@ -953,7 +953,7 @@ msgctxt "Name"
 msgid "Flickr Creative Commons"
 msgstr "Flickr Creative Commons"
 
-#: src/urifilters/ikws/searchproviders/flickrcc.desktop:72
+#: src/urifilters/ikws/searchproviders/flickrcc.desktop:71
 msgctxt "Query"
 msgid "https://www.flickr.com/search/?q=\\\\{@}&l=cc&ct=0&mt=all&adv=1"
 msgstr "https://www.flickr.com/search/?q=\\\\{@}&l=cc&ct=0&mt=all&adv=1"
@@ -963,7 +963,7 @@ msgctxt "Name"
 msgid "Flickr"
 msgstr "Flickr"
 
-#: src/urifilters/ikws/searchproviders/flickr.desktop:74
+#: src/urifilters/ikws/searchproviders/flickr.desktop:73
 msgctxt "Query"
 msgid "http://www.flickr.com/search/?q=\\\\{@}"
 msgstr "http://www.flickr.com/search/?q=\\\\{@}"
@@ -1028,7 +1028,7 @@ msgctxt "Name"
 msgid "GitHub"
 msgstr "GitHub"
 
-#: src/urifilters/ikws/searchproviders/github.desktop:74
+#: src/urifilters/ikws/searchproviders/github.desktop:73
 msgctxt "Query"
 msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"
 msgstr "https://github.com/search?q=\\\\{@}&x=0&y=0"
@@ -1073,7 +1073,7 @@ msgctxt "Name"
 msgid "Google Code"
 msgstr "Google Code"
 
-#: src/urifilters/ikws/searchproviders/google_code.desktop:72
+#: src/urifilters/ikws/searchproviders/google_code.desktop:71
 msgctxt "Query"
 msgid "https://code.google.com/query/#q=\\\\{%2520}"
 msgstr "https://code.google.com/query/#q=\\\\{%2520}"
@@ -1083,7 +1083,7 @@ msgctxt "Name"
 msgid "Google"
 msgstr "Google"
 
-#: src/urifilters/ikws/searchproviders/google.desktop:97
+#: src/urifilters/ikws/searchproviders/google.desktop:96
 msgctxt "Query"
 msgid "https://www.google.com/search?q=\\\\{@}&ie=UTF-8"
 msgstr "https://www.google.com/search?q=\\\\{@}&ie=UTF-8"
@@ -1093,7 +1093,7 @@ msgctxt "Name"
 msgid "Google Groups"
 msgstr "Google Groups"
 
-#: src/urifilters/ikws/searchproviders/google_groups.desktop:97
+#: src/urifilters/ikws/searchproviders/google_groups.desktop:96
 msgctxt "Query"
 msgid "https://groups.google.com/groups?oi=djq&as_q=\\\\{@}"
 msgstr "https://groups.google.com/groups?oi=djq&as_q=\\\\{@}"
@@ -1103,7 +1103,7 @@ msgctxt "Name"
 msgid "Google Image Search"
 msgstr "Google Image Search"
 
-#: src/urifilters/ikws/searchproviders/google_images.desktop:97
+#: src/urifilters/ikws/searchproviders/google_images.desktop:96
 msgctxt "Query"
 msgid "https://www.google.com/search?site=imghp&tbm=isch&q=\\\\{@}"
 msgstr "https://www.google.com/search?site=imghp&tbm=isch&q=\\\\{@}"
@@ -1127,7 +1127,7 @@ msgctxt "Name"
 msgid "Google Maps"
 msgstr "Google Maps"
 
-#: src/urifilters/ikws/searchproviders/google_maps.desktop:73
+#: src/urifilters/ikws/searchproviders/google_maps.desktop:72
 msgctxt "Query"
 msgid "https://maps.google.com/maps?q=\\\\{@}&ie=UTF8&iwloc=addr"
 msgstr "https://maps.google.com/maps?q=\\\\{@}&ie=UTF8&iwloc=addr"
@@ -1137,7 +1137,7 @@ msgctxt "Name"
 msgid "Google Movies"
 msgstr "Google Movies"
 
-#: src/urifilters/ikws/searchproviders/google_movie.desktop:95
+#: src/urifilters/ikws/searchproviders/google_movie.desktop:94
 msgctxt "Query"
 msgid "http://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 msgstr "http://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
@@ -1147,7 +1147,7 @@ msgctxt "Name"
 msgid "Google News"
 msgstr "Google News"
 
-#: src/urifilters/ikws/searchproviders/google_news.desktop:96
+#: src/urifilters/ikws/searchproviders/google_news.desktop:95
 msgctxt "Query"
 msgid "https://news.google.com/news?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 msgstr "https://news.google.com/news?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
@@ -1157,7 +1157,7 @@ msgctxt "Name"
 msgid "Google Shopping"
 msgstr "Google Shopping"
 
-#: src/urifilters/ikws/searchproviders/google_shopping.desktop:58
+#: src/urifilters/ikws/searchproviders/google_shopping.desktop:57
 msgctxt "Query"
 msgid "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
 msgstr "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
@@ -1177,7 +1177,7 @@ msgctxt "Name"
 msgid "HyperDictionary.com"
 msgstr "HyperDictionary.com"
 
-#: src/urifilters/ikws/searchproviders/hyperdictionary.desktop:96
+#: src/urifilters/ikws/searchproviders/hyperdictionary.desktop:95
 msgctxt "Query"
 msgid "http://www.hyperdictionary.com/search.aspx?define=\\\\{@}"
 msgstr "http://www.hyperdictionary.com/search.aspx?define=\\\\{@}"
@@ -1257,7 +1257,7 @@ msgctxt "Name"
 msgid "Jamendo"
 msgstr "Jamendo"
 
-#: src/urifilters/ikws/searchproviders/jamendo.desktop:75
+#: src/urifilters/ikws/searchproviders/jamendo.desktop:74
 msgctxt "Query"
 msgid "http://www.jamendo.com/en/search?qs=q=\\\\{@}"
 msgstr "http://www.jamendo.com/en/search?qs=q=\\\\{@}"
@@ -1267,7 +1267,7 @@ msgctxt "Name"
 msgid "Ask Jeeves"
 msgstr "Ask Jeeves"
 
-#: src/urifilters/ikws/searchproviders/jeeves.desktop:95
+#: src/urifilters/ikws/searchproviders/jeeves.desktop:94
 msgctxt "Query"
 msgid ""
 "http://www.ask.com/main/askJeeves.asp?"
@@ -1315,7 +1315,7 @@ msgctxt "Name"
 msgid "KDE Look"
 msgstr "KDE Look"
 
-#: src/urifilters/ikws/searchproviders/kde_look.desktop:74
+#: src/urifilters/ikws/searchproviders/kde_look.desktop:73
 msgctxt "Query"
 msgid "http://www.kde-look.org/content/search.php?search=Search&name=\\\\{@}"
 msgstr "http://www.kde-look.org/content/search.php?search=Search&name=\\\\{@}"
@@ -1325,7 +1325,7 @@ msgctxt "Name"
 msgid "KDE TechBase"
 msgstr "KDE TechBase"
 
-#: src/urifilters/ikws/searchproviders/kde_techbase.desktop:73
+#: src/urifilters/ikws/searchproviders/kde_techbase.desktop:72
 msgctxt "Query"
 msgid "http://techbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
 msgstr "http://techbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
@@ -1335,7 +1335,7 @@ msgctxt "Name"
 msgid "KDE UserBase"
 msgstr "KDE UserBase"
 
-#: src/urifilters/ikws/searchproviders/kde_userbase.desktop:74
+#: src/urifilters/ikws/searchproviders/kde_userbase.desktop:73
 msgctxt "Query"
 msgid "http://userbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
 msgstr "http://userbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
@@ -1345,7 +1345,7 @@ msgctxt "Name"
 msgid "LEO-Translate"
 msgstr "LEO-Translate"
 
-#: src/urifilters/ikws/searchproviders/leo.desktop:95
+#: src/urifilters/ikws/searchproviders/leo.desktop:94
 msgctxt "Query"
 msgid "http://dict.leo.org/?search=\\\\{@}"
 msgstr "http://dict.leo.org/?search=\\\\{@}"
@@ -1355,7 +1355,7 @@ msgctxt "Name"
 msgid "Magnatune"
 msgstr "Magnatune"
 
-#: src/urifilters/ikws/searchproviders/magnatune.desktop:74
+#: src/urifilters/ikws/searchproviders/magnatune.desktop:73
 msgctxt "Query"
 msgid "http://my.magnatune.com/search?w=\\\\{@}&t=m&x=0&y=0"
 msgstr "http://my.magnatune.com/search?w=\\\\{@}&t=m&x=0&y=0"
@@ -1365,7 +1365,7 @@ msgctxt "Name"
 msgid "MetaCrawler"
 msgstr "MetaCrawler"
 
-#: src/urifilters/ikws/searchproviders/metacrawler.desktop:96
+#: src/urifilters/ikws/searchproviders/metacrawler.desktop:95
 msgctxt "Query"
 msgid "http://www.metacrawler.com/info.metac.cloud.other/search/web?q=\\\\{@}"
 msgstr "http://www.metacrawler.com/info.metac.cloud.other/search/web?q=\\\\{@}"
@@ -1445,7 +1445,7 @@ msgctxt "Name"
 msgid "Netcraft"
 msgstr "Netcraft"
 
-#: src/urifilters/ikws/searchproviders/netcraft.desktop:95
+#: src/urifilters/ikws/searchproviders/netcraft.desktop:94
 msgctxt "Query"
 msgid "http://uptime.netcraft.com/up/graph?site=\\\\{@}"
 msgstr "http://uptime.netcraft.com/up/graph?site=\\\\{@}"
@@ -1479,7 +1479,7 @@ msgctxt "Name"
 msgid "openDesktop.org"
 msgstr "openDesktop.org"
 
-#: src/urifilters/ikws/searchproviders/opendesktop.desktop:73
+#: src/urifilters/ikws/searchproviders/opendesktop.desktop:72
 msgctxt "Query"
 msgid ""
 "http://www.opendesktop.org/content/search.php?search=Search&name=\\\\{@}"
@@ -1551,7 +1551,7 @@ msgctxt "Name"
 msgid "Qwant"
 msgstr "Qwant"
 
-#: src/urifilters/ikws/searchproviders/qwant.desktop:46
+#: src/urifilters/ikws/searchproviders/qwant.desktop:45
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&source=web"
 msgstr "https://www.qwant.com/?q=\\\\{@}&client=kde&source=web"
@@ -1611,7 +1611,7 @@ msgctxt "Name"
 msgid "Dictionary of the Spanish Academy (RAE)"
 msgstr "Faclair an acadamaidh Spàinntich (RAE)"
 
-#: src/urifilters/ikws/searchproviders/rae.desktop:95
+#: src/urifilters/ikws/searchproviders/rae.desktop:94
 msgctxt "Query"
 msgid "http://www.rae.es/drae/?val=\\\\{@}"
 msgstr "http://www.rae.es/drae/?val=\\\\{@}"
@@ -1621,7 +1621,7 @@ msgctxt "Name"
 msgid "Dictionary of the Galician Academy (RAG)"
 msgstr "Faclair an acadamaidh Gailìsich (RAG)"
 
-#: src/urifilters/ikws/searchproviders/rag.desktop:55
+#: src/urifilters/ikws/searchproviders/rag.desktop:54
 msgctxt "Query"
 msgid ""
 "http://www.realacademiagalega.org/dicionario#searchNoun.do?nounTitle=\\\\{@}"
@@ -1643,7 +1643,7 @@ msgctxt "Name"
 msgid "RPM-Find"
 msgstr "RPM-Find"
 
-#: src/urifilters/ikws/searchproviders/rpmfind.desktop:96
+#: src/urifilters/ikws/searchproviders/rpmfind.desktop:95
 msgctxt "Query"
 msgid "http://www.rpmfind.net/linux/rpm2html/search.php?query=\\\\{@}"
 msgstr "http://www.rpmfind.net/linux/rpm2html/search.php?query=\\\\{@}"
@@ -1663,7 +1663,7 @@ msgctxt "Name"
 msgid "Soundcloud"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/soundcloud.desktop:44
+#: src/urifilters/ikws/searchproviders/soundcloud.desktop:43
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://freecode.com/search?q=\\\\{@}"
@@ -1676,7 +1676,7 @@ msgctxt "Name"
 msgid "SourceForge"
 msgstr "SourceForge"
 
-#: src/urifilters/ikws/searchproviders/sourceforge.desktop:94
+#: src/urifilters/ikws/searchproviders/sourceforge.desktop:93
 msgctxt "Query"
 msgid ""
 "http://sourceforge.net/search/?type_of_search=\\\\{type,\"soft\"}&exact=\\"
@@ -1690,7 +1690,7 @@ msgctxt "Name"
 msgid "Technorati"
 msgstr "Technorati"
 
-#: src/urifilters/ikws/searchproviders/technorati.desktop:94
+#: src/urifilters/ikws/searchproviders/technorati.desktop:93
 msgctxt "Query"
 msgid "http://technorati.com/search?return=sites&authority=high&q=\\\\{@}"
 msgstr "http://technorati.com/search?return=sites&authority=high&q=\\\\{@}"
@@ -1720,7 +1720,7 @@ msgctxt "Name"
 msgid "TV Tome"
 msgstr "TV Tome"
 
-#: src/urifilters/ikws/searchproviders/tvtome.desktop:94
+#: src/urifilters/ikws/searchproviders/tvtome.desktop:93
 msgctxt "Query"
 msgid "http://www.tv.com/search.php?type=11&stype=all&qs=\\\\{@}&x=0&y=0"
 msgstr "http://www.tv.com/search.php?type=11&stype=all&qs=\\\\{@}&x=0&y=0"
@@ -1730,7 +1730,7 @@ msgctxt "Name"
 msgid "Urban Dictionary"
 msgstr "Urban Dictionary"
 
-#: src/urifilters/ikws/searchproviders/urbandictionary.desktop:73
+#: src/urifilters/ikws/searchproviders/urbandictionary.desktop:72
 msgctxt "Query"
 msgid "http://www.urbandictionary.com/define.php?term=\\\\{@}"
 msgstr "http://www.urbandictionary.com/define.php?term=\\\\{@}"
@@ -1740,7 +1740,7 @@ msgctxt "Name"
 msgid "U.S. Patent Database"
 msgstr "U.S. Patent Database"
 
-#: src/urifilters/ikws/searchproviders/uspto.desktop:93
+#: src/urifilters/ikws/searchproviders/uspto.desktop:92
 msgctxt "Query"
 msgid ""
 "http://patft.uspto.gov/netacgi/nph-Parser?TERM1=\\\\{@}"
@@ -1754,7 +1754,7 @@ msgctxt "Name"
 msgid "Vimeo"
 msgstr "Vimeo"
 
-#: src/urifilters/ikws/searchproviders/vimeo.desktop:74
+#: src/urifilters/ikws/searchproviders/vimeo.desktop:73
 msgctxt "Query"
 msgid "http://vimeo.com/search?q=\\\\{@}"
 msgstr "http://vimeo.com/search?q=\\\\{@}"
@@ -1764,7 +1764,7 @@ msgctxt "Name"
 msgid "Voila"
 msgstr "Voila"
 
-#: src/urifilters/ikws/searchproviders/voila.desktop:97
+#: src/urifilters/ikws/searchproviders/voila.desktop:96
 msgctxt "Query"
 msgid "http://www.voila.com/S/geek?an=1&kw=\\\\{@}&dt=*"
 msgstr "http://www.voila.com/S/geek?an=1&kw=\\\\{@}&dt=*"
@@ -1774,7 +1774,7 @@ msgctxt "Name"
 msgid "Merriam-Webster Dictionary"
 msgstr "Faclair Merriam-Webster"
 
-#: src/urifilters/ikws/searchproviders/webster.desktop:96
+#: src/urifilters/ikws/searchproviders/webster.desktop:95
 msgctxt "Query"
 msgid "http://www.m-w.com/cgi-bin/dictionary?book=Dictionary&va=\\\\{@}"
 msgstr "http://www.m-w.com/cgi-bin/dictionary?book=Dictionary&va=\\\\{@}"
@@ -1784,7 +1784,7 @@ msgctxt "Name"
 msgid "Wikia"
 msgstr "Wikia"
 
-#: src/urifilters/ikws/searchproviders/wikia.desktop:73
+#: src/urifilters/ikws/searchproviders/wikia.desktop:72
 msgctxt "Query"
 msgid ""
 "http://www.wikia.com/Special:Search?search=\\\\{@}&wikia_search_submit=Search"
@@ -1796,7 +1796,7 @@ msgctxt "Name"
 msgid "Wikipedia - The Free Encyclopedia"
 msgstr "Uicipeid - An leabhar-eòlais saor"
 
-#: src/urifilters/ikws/searchproviders/wikipedia.desktop:95
+#: src/urifilters/ikws/searchproviders/wikipedia.desktop:94
 msgctxt "Query"
 msgid "https://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 msgstr "https://gd.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
@@ -1806,7 +1806,7 @@ msgctxt "Name"
 msgid "Wiktionary - The Free Dictionary"
 msgstr "Wiktionary - The Free Dictionary"
 
-#: src/urifilters/ikws/searchproviders/wiktionary.desktop:93
+#: src/urifilters/ikws/searchproviders/wiktionary.desktop:92
 msgctxt "Query"
 msgid "https://en.wiktionary.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 msgstr "https://en.wiktionary.org/wiki/Special:Search?search=\\\\{@}&go=Go"
@@ -1816,7 +1816,7 @@ msgctxt "Name"
 msgid "Wolfram Alpha"
 msgstr "Wolfram Alpha"
 
-#: src/urifilters/ikws/searchproviders/wolfram_alpha.desktop:75
+#: src/urifilters/ikws/searchproviders/wolfram_alpha.desktop:74
 msgctxt "Query"
 msgid "https://www.wolframalpha.com/input/?i=\\\\{@}"
 msgstr "https://www.wolframalpha.com/input/?i=\\\\{@}"
@@ -1826,7 +1826,7 @@ msgctxt "Name"
 msgid "WordReference.com English Dictionary"
 msgstr "WordReference.com Faclaor Beurla"
 
-#: src/urifilters/ikws/searchproviders/wordref.desktop:94
+#: src/urifilters/ikws/searchproviders/wordref.desktop:93
 msgctxt "Query"
 msgid "http://www.wordreference.com/english/definition.asp?en=\\\\{@}"
 msgstr "http://www.wordreference.com/english/definition.asp?en=\\\\{@}"
@@ -1836,7 +1836,7 @@ msgctxt "Name"
 msgid "Yahoo"
 msgstr "Yahoo"
 
-#: src/urifilters/ikws/searchproviders/yahoo.desktop:74
+#: src/urifilters/ikws/searchproviders/yahoo.desktop:73
 msgctxt "Query"
 msgid ""
 "http://search.yahoo.com/search?toggle=1&cop=mss&ei=UTF-8&fr=yfp-t-701&p=\\"
@@ -1906,7 +1906,7 @@ msgctxt "Name"
 msgid "YouTube"
 msgstr "YouTube"
 
-#: src/urifilters/ikws/searchproviders/youtube.desktop:72
+#: src/urifilters/ikws/searchproviders/youtube.desktop:71
 msgctxt "Query"
 msgid "https://www.youtube.com/results?search_query=\\\\{@}&search_type=&aq=f"
 msgstr "https://www.youtube.com/results?search_query=\\\\{@}&search_type=&aq=f"
