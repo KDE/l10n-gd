@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-09-20 03:43+0200\n"
+"POT-Creation-Date: 2018-10-23 03:52+0200\n"
 "PO-Revision-Date: 2016-04-29 19:43+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -464,8 +464,10 @@ msgid "Template Creation"
 msgstr "Cruthachadh teamplaide"
 
 #: src/propertyinfo.cpp:510
-#, kde-format
-msgctxt "@label the URL a file was originally downloded from"
+#, fuzzy, kde-format
+#| msgctxt "@label the URL a file was originally downloded from"
+#| msgid "Downloaded From"
+msgctxt "@label the URL a file was originally downloaded from"
 msgid "Downloaded From"
 msgstr "Air a luchdadh a-nuas o"
 

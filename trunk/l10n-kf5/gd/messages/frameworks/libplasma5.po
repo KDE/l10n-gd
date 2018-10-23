@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-19 03:43+0200\n"
+"POT-Creation-Date: 2018-10-23 03:53+0200\n"
 "PO-Revision-Date: 2016-04-30 12:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -104,7 +104,7 @@ msgstr "Chan eil fhios"
 msgid "Activate %1 Widget"
 msgstr "Gnìomhach Widget %1"
 
-#: plasma/containment.cpp:121 plasma/private/applet_p.cpp:124
+#: plasma/containment.cpp:120 plasma/private/applet_p.cpp:124
 #, fuzzy, kde-format
 #| msgctxt "%1 is the name of the applet"
 #| msgid "Remove this %1"
@@ -112,18 +112,18 @@ msgctxt "%1 is the name of the applet"
 msgid "Remove %1"
 msgstr "Thoir air falbh an %1 seo"
 
-#: plasma/containment.cpp:126 plasma/private/applet_p.cpp:129
+#: plasma/containment.cpp:125 plasma/private/applet_p.cpp:129
 #, kde-format
 msgctxt "%1 is the name of the applet"
 msgid "Configure %1..."
 msgstr ""
 
-#: plasma/corona.cpp:371 plasma/corona.cpp:444
+#: plasma/corona.cpp:370 plasma/corona.cpp:443
 #, kde-format
 msgid "Lock Widgets"
 msgstr "Glais na Widgets"
 
-#: plasma/corona.cpp:371
+#: plasma/corona.cpp:370
 #, kde-format
 msgid "Unlock Widgets"
 msgstr "Thoir a' ghlas far Widgets"
