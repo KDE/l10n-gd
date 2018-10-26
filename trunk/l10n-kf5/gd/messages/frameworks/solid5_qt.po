@@ -1059,33 +1059,33 @@ msgctxt "Solid::DeviceInterface|Network Share device type"
 msgid "Network Share"
 msgstr "Co-roinneadh lìonraidh"
 
-#: tools/solid-hardware/solid-hardware.cpp:173
-#: tools/solid-hardware/solid-hardware.cpp:272
+#: tools/solid-hardware/solid-hardware.cpp:174
+#: tools/solid-hardware/solid-hardware.cpp:273
 msgctxt "solid-hardware|"
 msgid "Device udi"
 msgstr "UDI an uidheim"
 
-#: tools/solid-hardware/solid-hardware.cpp:188
+#: tools/solid-hardware/solid-hardware.cpp:189
 msgctxt "solid-hardware|"
 msgid "KDE tool for querying your hardware from the command line"
 msgstr "Inneal KDE gus am bathar-cruaidh agad a cheasnachadh on loidhne-àithne"
 
-#: tools/solid-hardware/solid-hardware.cpp:191
+#: tools/solid-hardware/solid-hardware.cpp:192
 msgctxt "solid-hardware|"
 msgid "Command to execute"
 msgstr "An àithne ri a ruith"
 
-#: tools/solid-hardware/solid-hardware.cpp:193
+#: tools/solid-hardware/solid-hardware.cpp:194
 msgctxt "solid-hardware|"
 msgid "Show available commands"
 msgstr "Seall na h-àitheantan a tha ri làimh"
 
-#: tools/solid-hardware/solid-hardware.cpp:199 tools/solid-power/main.cpp:47
+#: tools/solid-hardware/solid-hardware.cpp:200 tools/solid-power/main.cpp:47
 msgctxt "solid-hardware|"
 msgid "Syntax:"
 msgstr "Co-chàradh:"
 
-#: tools/solid-hardware/solid-hardware.cpp:202
+#: tools/solid-hardware/solid-hardware.cpp:203
 msgctxt "solid-hardware|"
 msgid ""
 "             # List the hardware available in the system.\n"
@@ -1115,7 +1115,7 @@ msgstr ""
 "UDIean nan\n"
 "             # uidheamman.\n"
 
-#: tools/solid-hardware/solid-hardware.cpp:213
+#: tools/solid-hardware/solid-hardware.cpp:214
 msgctxt "solid-hardware|"
 msgid ""
 "             # Display all the interfaces and properties of the device\n"
@@ -1125,7 +1125,7 @@ msgstr ""
 "             # a cho-fhreagras ri \"udi\" gun a bhith an eisimeil an "
 "ùrlair.\n"
 
-#: tools/solid-hardware/solid-hardware.cpp:218
+#: tools/solid-hardware/solid-hardware.cpp:219
 msgctxt "solid-hardware|"
 msgid ""
 "             # Display all the properties of the device corresponding to "
@@ -1138,7 +1138,7 @@ msgstr ""
 "             # (thoir an aire gu bheil ainmean nan roghainnean an eisimeil "
 "a' backend).\n"
 
-#: tools/solid-hardware/solid-hardware.cpp:223
+#: tools/solid-hardware/solid-hardware.cpp:224
 msgctxt "solid-hardware|"
 msgid ""
 "             # List the UDI of devices corresponding to 'predicate'.\n"
@@ -1153,7 +1153,7 @@ msgstr ""
 "             # le meur an uidheim a cho-fhreagras,\n"
 "             # - Mura deach, thèid a lorg am measg nan uidheaman uile.\n"
 
-#: tools/solid-hardware/solid-hardware.cpp:230
+#: tools/solid-hardware/solid-hardware.cpp:231
 msgctxt "solid-hardware|"
 msgid ""
 "             # If applicable, mount the device corresponding to 'udi'.\n"
@@ -1161,7 +1161,7 @@ msgstr ""
 "             # Ma tha seo iomchaidh, munntaich an t-uidheam a cho-fhreagras "
 "ri \"udi\".\n"
 
-#: tools/solid-hardware/solid-hardware.cpp:234
+#: tools/solid-hardware/solid-hardware.cpp:235
 msgctxt "solid-hardware|"
 msgid ""
 "             # If applicable, unmount the device corresponding to 'udi'.\n"
@@ -1169,7 +1169,7 @@ msgstr ""
 "             # Ma tha seo iomchaidh, dì-mhunntaich an t-uidheam a cho-"
 "fhreagras ri \"udi\".\n"
 
-#: tools/solid-hardware/solid-hardware.cpp:238
+#: tools/solid-hardware/solid-hardware.cpp:239
 msgctxt "solid-hardware|"
 msgid ""
 "             # If applicable, eject the device corresponding to 'udi'.\n"
@@ -1177,7 +1177,7 @@ msgstr ""
 "             # Ma tha seo iomchaidh, gluais a-mach an t-uidheam a cho-"
 "fhreagras ri \"udi\".\n"
 
-#: tools/solid-hardware/solid-hardware.cpp:242
+#: tools/solid-hardware/solid-hardware.cpp:243
 msgctxt "solid-hardware|"
 msgid "             # Listen to all add/remove events on supported hardware."
 msgstr ""
@@ -1185,41 +1185,41 @@ msgstr ""
 "bathar-bog\n"
 "             # ris an cuirear taic."
 
-#: tools/solid-hardware/solid-hardware.cpp:259
+#: tools/solid-hardware/solid-hardware.cpp:260
 msgctxt "solid-hardware|"
 msgid "Show device details"
 msgstr "Seall mion-fhiosrachadh an uidheim"
 
-#: tools/solid-hardware/solid-hardware.cpp:260
+#: tools/solid-hardware/solid-hardware.cpp:261
 msgctxt "solid-hardware|"
 msgid "Show non portable information"
 msgstr "Seall fiosrachadh do-ghiùlan"
 
-#: tools/solid-hardware/solid-hardware.cpp:273
+#: tools/solid-hardware/solid-hardware.cpp:274
 msgctxt "solid-hardware|"
 msgid "Parent device udi"
 msgstr "UDI an uidheim pàraint"
 
-#: tools/solid-hardware/solid-hardware.cpp:301
+#: tools/solid-hardware/solid-hardware.cpp:302
 #, qt-format
 msgctxt "solid-hardware|"
 msgid "Syntax Error: Unknown command '%1'"
 msgstr "Mearachd co-chàraidh: Chan aithne dhuinn an t-àithne \"%1\""
 
-#: tools/solid-hardware/solid-hardware.cpp:370
+#: tools/solid-hardware/solid-hardware.cpp:371
 #, qt-format
 msgctxt "SolidHardware|"
 msgid "Error: %1 does not have the interface StorageAccess."
 msgstr ""
 "Mearachd: Chan eil an eadar-aghaidh StorageAccess aig %1 StorageAccess."
 
-#: tools/solid-hardware/solid-hardware.cpp:375
+#: tools/solid-hardware/solid-hardware.cpp:376
 #, qt-format
 msgctxt "SolidHardware|"
 msgid "Error: %1 does not have the interface OpticalDrive."
 msgstr "Mearachd: Chan eil an eadar-aghaidh OpticalDrive aig %1 StorageAccess."
 
-#: tools/solid-hardware/solid-hardware.cpp:408
+#: tools/solid-hardware/solid-hardware.cpp:409
 #, qt-format
 msgctxt "SolidHardware|"
 msgid "Error: %1"
