@@ -9759,7 +9759,7 @@ msgstr ""
 "gluasad fon ad? Cunnt iad gu cùramach. :) Briog air an raon air a’ bhonn gu "
 "deas gus freagairt a thoirt."
 
-#: activities/magic-hat-minus/MagicHat.qml:99
+#: activities/magic-hat-minus/MagicHat.qml:101
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Kick the ball into the goal"
@@ -9768,12 +9768,12 @@ msgid "Click on the hat to begin the game"
 msgstr "Breab am bàla dhan tadhal"
 
 #. The math operation
-#: activities/magic-hat-minus/MagicHat.qml:104
+#: activities/magic-hat-minus/MagicHat.qml:106
 msgctxt "MagicHat|"
 msgid "−"
 msgstr ""
 
-#: activities/magic-hat-minus/MagicHat.qml:104
+#: activities/magic-hat-minus/MagicHat.qml:106
 msgctxt "MagicHat|"
 msgid "+"
 msgstr ""
