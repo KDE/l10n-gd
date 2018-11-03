@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-23 03:53+0200\n"
+"POT-Creation-Date: 2018-11-03 03:47+0100\n"
 "PO-Revision-Date: 2016-04-30 12:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -118,7 +118,7 @@ msgctxt "%1 is the name of the applet"
 msgid "Configure %1..."
 msgstr ""
 
-#: plasma/corona.cpp:370 plasma/corona.cpp:443
+#: plasma/corona.cpp:370 plasma/corona.cpp:442
 #, kde-format
 msgid "Lock Widgets"
 msgstr "Glais na Widgets"
