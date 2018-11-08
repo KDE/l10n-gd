@@ -8191,10 +8191,15 @@ msgstr ""
 
 #. Help title
 #: activities/gnumch-factors/ActivityInfo.qml:30
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Guide the Number Muncher to all the factors of the number at the top of "
+#| "the screen."
 msgctxt "ActivityInfo|"
 msgid ""
-"Guide the Number Muncher to all the factors of the number at the top of the "
-"screen."
+"Guide the Number Muncher to all the factors of the number at the bottom of "
+"the screen."
 msgstr ""
 "Stiùirich itheadair nan àireamh dha na h-uile factar aig an àireamh air barr "
 "na sgrìn."
@@ -8227,10 +8232,15 @@ msgstr ""
 
 #. Help title
 #: activities/gnumch-inequality/ActivityInfo.qml:30
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Guide the Number Muncher to the all the expressions that do not equal the "
+#| "number at the top of the screen."
 msgctxt "ActivityInfo|"
 msgid ""
 "Guide the Number Muncher to the all the expressions that do not equal the "
-"number at the top of the screen."
+"number at the bottom of the screen."
 msgstr ""
 "Stiùirich itheadair nan àireamh dha na h-uile eas-preisean nach ionnan ris "
 "an àireamh air barr na sgrìn."
@@ -8249,9 +8259,14 @@ msgstr ""
 
 #. Help title
 #: activities/gnumch-multiples/ActivityInfo.qml:30
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Guide the Number Muncher to all the multiples of the number at the top of "
+#| "the screen."
 msgctxt "ActivityInfo|"
 msgid ""
-"Guide the Number Muncher to all the multiples of the number at the top of "
+"Guide the Number Muncher to all the multiples of the number at the bottom of "
 "the screen."
 msgstr ""
 "Stiùirich itheadair nan àireamh dha na h-uile iomad aig an àireamh air barr "
