@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-05-20 01:45+0000\n"
+"POT-Creation-Date: 2018-10-11 02:02+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -16,7 +16,7 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 "X-Project-Style: kde\n"
 
-#: activities/fileitemplugin/kactivitymanagerd_fileitem_linking_plugin.desktop:4
+#: activities/fileitemplugin/kactivitymanagerd_fileitem_linking_plugin.desktop:3
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "List activities test"
@@ -29,7 +29,7 @@ msgctxt "Name"
 msgid "Search Folder Updater"
 msgstr ""
 
-#: filenamesearch/kded/filenamesearchmodule.desktop:50
+#: filenamesearch/kded/filenamesearchmodule.desktop:49
 msgctxt "Comment"
 msgid "Allows automatic updates of Search Folders"
 msgstr ""
@@ -44,7 +44,7 @@ msgctxt "Comment"
 msgid "Embeddable Troff Viewer"
 msgstr ""
 
-#: man/kmanpart.desktop:94
+#: man/kmanpart.desktop:93
 msgctxt "Name"
 msgid "KManPart"
 msgstr ""
@@ -75,7 +75,7 @@ msgctxt "Name"
 msgid "Network Watcher"
 msgstr ""
 
-#: network/kded/networkwatcher.desktop:80
+#: network/kded/networkwatcher.desktop:79
 msgctxt "Comment"
 msgid ""
 "Keeps track of the network and updates directory listings of the network:/ "
@@ -87,7 +87,7 @@ msgctxt "Name"
 msgid "Recent Document Watcher"
 msgstr ""
 
-#: recentdocuments/recentdocumentsnotifier.desktop:71
+#: recentdocuments/recentdocumentsnotifier.desktop:70
 msgctxt "Comment"
 msgid "Monitors \"Recent Documents\" folder for changes"
 msgstr ""
@@ -102,12 +102,17 @@ msgctxt "Name"
 msgid "Shared Folders (SMB)"
 msgstr ""
 
-#: thumbnail/audiothumbnail.desktop:4
+#: thumbnail/appimagethumbnail.desktop:3
+msgctxt "Name"
+msgid "AppImage"
+msgstr ""
+
+#: thumbnail/audiothumbnail.desktop:3
 msgctxt "Name"
 msgid "Audio files"
 msgstr ""
 
-#: thumbnail/comicbookthumbnail.desktop:4
+#: thumbnail/comicbookthumbnail.desktop:3
 msgctxt "Name"
 msgid "Comic Books"
 msgstr ""
@@ -137,11 +142,6 @@ msgctxt "Name"
 msgid "EXR Images"
 msgstr ""
 
-#: thumbnail/htmlthumbnail.desktop:3
-msgctxt "Name"
-msgid "HTML Files"
-msgstr ""
-
 #: thumbnail/imagethumbnail.desktop:3
 msgctxt "Name"
 msgid "Images (GIF, PNG, BMP, ...)"
@@ -155,6 +155,11 @@ msgstr ""
 #: thumbnail/kraorathumbnail.desktop:3
 msgctxt "Name"
 msgid "Krita Documents"
+msgstr ""
+
+#: thumbnail/opendocumentthumbnail.desktop:3
+msgctxt "Name"
+msgid "Office Documents (Open Document Files)"
 msgstr ""
 
 #: thumbnail/svgthumbnail.desktop:3
@@ -172,12 +177,12 @@ msgctxt "Comment"
 msgid "Thumbnail Handler"
 msgstr ""
 
-#: thumbnail/windowsexethumbnail.desktop:4
+#: thumbnail/windowsexethumbnail.desktop:3
 msgctxt "Name"
 msgid "Microsoft Windows Executables"
 msgstr ""
 
-#: thumbnail/windowsimagethumbnail.desktop:4
+#: thumbnail/windowsimagethumbnail.desktop:3
 msgctxt "Name"
 msgid "Microsoft Windows Images"
 msgstr ""
