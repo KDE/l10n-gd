@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-11-05 03:40+0100\n"
+"POT-Creation-Date: 2018-11-16 03:46+0100\n"
 "PO-Revision-Date: 2016-04-30 17:56+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -200,17 +200,28 @@ msgid "<html><font size=\"5\">KDE - Be Free!</font></html>"
 msgstr "<html><font size=\"5\">KDE - Bi saor!</font></html>"
 
 #: kaboutkdedialog_p.cpp:55
-#, kde-format
+#, fuzzy, kde-format
+#| msgid ""
+#| "<html><b>KDE</b> is a world-wide network of software engineers, artists, "
+#| "writers, translators and facilitators who are committed to <a href="
+#| "\"%1\">Free Software</a> development. This community has created hundreds "
+#| "of Free Software applications as part of the KDE frameworks, workspaces "
+#| "and applications.<br /><br />KDE is a cooperative enterprise in which no "
+#| "single entity controls the efforts or products of KDE to the exclusion of "
+#| "others. Everyone is welcome to join and contribute to KDE, including you."
+#| "<br /><br />Visit <a href=\"%2\">%2</a> for more information about the "
+#| "KDE community and the software we produce.</html>"
 msgid ""
-"<html><b>KDE</b> is a world-wide network of software engineers, artists, "
-"writers, translators and facilitators who are committed to <a href="
-"\"%1\">Free Software</a> development. This community has created hundreds of "
-"Free Software applications as part of the KDE frameworks, workspaces and "
-"applications.<br /><br />KDE is a cooperative enterprise in which no single "
-"entity controls the efforts or products of KDE to the exclusion of others. "
-"Everyone is welcome to join and contribute to KDE, including you.<br /><br /"
-">Visit <a href=\"%2\">%2</a> for more information about the KDE community "
-"and the software we produce.</html>"
+"<html><b>KDE</b> is a world-wide community of software engineers, artists, "
+"writers, translators and creators who are committed to <a href=\"%1\">Free "
+"Software</a> development. KDE produces the Plasma desktop environment, "
+"hundreds of applications, and the many software libraries that support them."
+"<br /><br />KDE is a cooperative enterprise: no single entity controls its "
+"direction or products. Instead, we work together to achieve the common goal "
+"of building the world's finest Free Software. Everyone is welcome to <a href="
+"\"%2\">join and contribute</a> to KDE, including you.<br /><br />Visit <a "
+"href=\"%3\">%3</a> for more information about the KDE community and the "
+"software we produce.</html>"
 msgstr ""
 "<html>'S e lìonraidh dhe dh'innleadairean bathair-bhog, luchd-ealain, "
 "sgrìobhadairean, eadar-theangadairean is comasaichean air feadh an t-"
@@ -224,7 +235,7 @@ msgstr ""
 "href=\"%2\">%2</a> airson barrachd fiosrachaidh mu choimhearsnachd KDE agus "
 "mun bhathar-bhog a nì sinn.</html>"
 
-#: kaboutkdedialog_p.cpp:74
+#: kaboutkdedialog_p.cpp:75
 #, kde-format
 msgid ""
 "<html>Software can always be improved, and the KDE team is ready to do so. "
@@ -246,7 +257,7 @@ msgstr ""
 "d' iarrtas a chlàradh leinn. Dèan cinnteach gun cuir thu a' chudromachd air "
 "\"Miann\".</html>"
 
-#: kaboutkdedialog_p.cpp:92
+#: kaboutkdedialog_p.cpp:93
 #, kde-format
 msgid ""
 "<html>You do not have to be a software developer to be a member of the KDE "
@@ -267,7 +278,7 @@ msgstr ""
 "docamaididh, tadhail air <a href=\"%2\">%2</a> ach am faigh thu na tha a "
 "dhìth ort.</html>"
 
-#: kaboutkdedialog_p.cpp:114
+#: kaboutkdedialog_p.cpp:115
 #, kde-format
 msgid ""
 "<html>KDE software is and will always be available free of charge, however "
@@ -298,23 +309,23 @@ msgstr ""
 "mhìnicheas sinn air <a href=\"%2\">%2</a>.<br /><br />Gun robh mìle math "
 "agad airson do chuideachaidh.</html>"
 
-#: kaboutkdedialog_p.cpp:134
+#: kaboutkdedialog_p.cpp:135
 #, kde-format
 msgctxt "About KDE"
 msgid "&About"
 msgstr "&Mu dhèidhinn"
 
-#: kaboutkdedialog_p.cpp:135
+#: kaboutkdedialog_p.cpp:136
 #, kde-format
 msgid "&Report Bugs or Wishes"
 msgstr "&Innis dhuinn mu bhugaichean no miannan"
 
-#: kaboutkdedialog_p.cpp:136
+#: kaboutkdedialog_p.cpp:137
 #, kde-format
 msgid "&Join KDE"
 msgstr "Faigh &ballrachd ann an KDE"
 
-#: kaboutkdedialog_p.cpp:137
+#: kaboutkdedialog_p.cpp:138
 #, kde-format
 msgid "&Support KDE"
 msgstr "&Cuir taic ri KDE"
