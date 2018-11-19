@@ -13055,6 +13055,34 @@ msgstr ""
 "an iasg. Briog air an dìsinn leis a’ phutan deas gus cunntadh sìos. Nuair a "
 "bhios tu deiseil, briog air a’ phutan “OK” no brùth air an iuchair “Enter”."
 
+#: activities/reversecount/Reversecount.qml:230
+msgctxt "Reversecount|"
+msgid "Dots"
+msgstr ""
+
+#: activities/reversecount/Reversecount.qml:231
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Simple Letters"
+msgctxt "Reversecount|"
+msgid "Numbers"
+msgstr "Litrichean simplidh"
+
+#: activities/reversecount/Reversecount.qml:232
+msgctxt "Reversecount|"
+msgid "Romans"
+msgstr ""
+
+#: activities/reversecount/Reversecount.qml:233
+msgctxt "Reversecount|"
+msgid "Images"
+msgstr ""
+
+#: activities/reversecount/Reversecount.qml:243
+msgctxt "Reversecount|"
+msgid "Select Domino Representation"
+msgstr ""
+
 #. Activity title
 #: activities/roman_numerals/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
