@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-09 03:55+0200\n"
+"POT-Creation-Date: 2018-11-22 03:05+0100\n"
 "PO-Revision-Date: 2016-04-30 12:04+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -343,7 +343,7 @@ msgstr "    Ùghdar : %1"
 msgid "      Path : %1"
 msgstr "    Slighe : %1"
 
-#: kpackagetool/kpackagetool.cpp:569
+#: kpackagetool/kpackagetool.cpp:574
 #, kde-format
 msgctxt ""
 "The user entered conflicting options packageroot and global, this is the "
@@ -355,105 +355,105 @@ msgstr ""
 "Tha freumh na pacaid is na roghainnean coitcheann an còmhstri a chèile, "
 "feuch nach tagh thu ach aonan."
 
-#: kpackagetool/kpackagetool.cpp:597
+#: kpackagetool/kpackagetool.cpp:602
 #, kde-format
 msgid "Addon Name"
 msgstr "Ainm an tuilleadain"
 
-#: kpackagetool/kpackagetool.cpp:598
+#: kpackagetool/kpackagetool.cpp:603
 #, kde-format
 msgid "Service Type"
 msgstr "Seòrsa na seirbheise"
 
-#: kpackagetool/kpackagetool.cpp:599
+#: kpackagetool/kpackagetool.cpp:604
 #, kde-format
 msgid "Path"
 msgstr "Slighe"
 
-#: kpackagetool/kpackagetool.cpp:642
+#: kpackagetool/kpackagetool.cpp:647
 #, kde-format
 msgid "Package types that are installable with this tool:"
 msgstr "Seòrsaichean de phacaidean a ghabhas stàladh leis an inneal seo:"
 
-#: kpackagetool/kpackagetool.cpp:643
+#: kpackagetool/kpackagetool.cpp:648
 #, kde-format
 msgid "Built in:"
 msgstr "Chaidh a thogail ann an:"
 
-#: kpackagetool/kpackagetool.cpp:646
+#: kpackagetool/kpackagetool.cpp:651
 #, kde-format
 msgid "KPackage/Generic"
 msgstr "KPackage/Generic"
 
-#: kpackagetool/kpackagetool.cpp:647
+#: kpackagetool/kpackagetool.cpp:652
 #, kde-format
 msgid "KPackage/GenericQML"
 msgstr "KPackage/GenericQML"
 
-#: kpackagetool/kpackagetool.cpp:655
+#: kpackagetool/kpackagetool.cpp:660
 #, kde-format
 msgid "Provided by plugins:"
 msgstr "'Ga solar le plugain:"
 
-#: kpackagetool/kpackagetool.cpp:698
+#: kpackagetool/kpackagetool.cpp:703
 #, kde-format
 msgid "Generating %1%2"
 msgstr ""
 
-#: kpackagetool/kpackagetool.cpp:700
+#: kpackagetool/kpackagetool.cpp:705
 #, fuzzy, kde-format
 #| msgid "Generating %1/kpluginindex.json"
 msgid "Didn't write %1%2"
 msgstr "A' gintinn %1/kpluginindex.json"
 
-#: kpackagetool/kpackagetool.cpp:711
+#: kpackagetool/kpackagetool.cpp:716
 #, kde-format
 msgid "Generating %1/%2"
 msgstr ""
 
-#: kpackagetool/kpackagetool.cpp:713
+#: kpackagetool/kpackagetool.cpp:718
 #, fuzzy, kde-format
 #| msgid "Generating %1/kpluginindex.json"
 msgid "Cannot write %1/%2"
 msgstr "A' gintinn %1/kpluginindex.json"
 
-#: kpackagetool/kpackagetool.cpp:731 kpackagetool/kpackagetool.cpp:745
+#: kpackagetool/kpackagetool.cpp:736 kpackagetool/kpackagetool.cpp:750
 #, fuzzy, kde-format
 #| msgid "Could not open package file: %1"
 msgid "Could not remove index file %1"
 msgstr "Cha b' urrainn dhuinn faidhle na pacaid fhosgladh: %1"
 
-#: kpackagetool/kpackagetool.cpp:733 kpackagetool/kpackagetool.cpp:747
+#: kpackagetool/kpackagetool.cpp:738 kpackagetool/kpackagetool.cpp:752
 #, kde-format
 msgid "Removed %1"
 msgstr ""
 
-#: kpackagetool/kpackagetool.cpp:758
+#: kpackagetool/kpackagetool.cpp:763
 #, kde-format
 msgid "Successfully upgraded %1"
 msgstr "Chaidh %1 àrdachadh gu soirbheachail"
 
-#: kpackagetool/kpackagetool.cpp:760
+#: kpackagetool/kpackagetool.cpp:765
 #, kde-format
 msgid "Successfully installed %1"
 msgstr "Chaidh %1 a stàladh gu soirbheachail"
 
-#: kpackagetool/kpackagetool.cpp:763
+#: kpackagetool/kpackagetool.cpp:768
 #, kde-format
 msgid "Error: Installation of %1 failed: %2"
 msgstr "Mearachd: Dh'fhàillig le stàladh %1: %2"
 
-#: kpackagetool/kpackagetool.cpp:775
+#: kpackagetool/kpackagetool.cpp:780
 #, kde-format
 msgid "Upgrading package from file: %1"
 msgstr "Ag àrdachadh pacaid on fhaidhle: %1"
 
-#: kpackagetool/kpackagetool.cpp:780
+#: kpackagetool/kpackagetool.cpp:785
 #, kde-format
 msgid "Successfully uninstalled %1"
 msgstr "Chaidh %1 a dhì-stàladh gu soirbheachail"
 
-#: kpackagetool/kpackagetool.cpp:782
+#: kpackagetool/kpackagetool.cpp:787
 #, kde-format
 msgid "Error: Uninstallation of %1 failed: %2"
 msgstr "Mearachd: Dh'fhàillig le dì-stàladh %1: %2"
