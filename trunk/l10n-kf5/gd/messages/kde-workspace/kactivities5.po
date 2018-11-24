@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kactivities5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:14+0200\n"
+"POT-Creation-Date: 2018-11-24 03:20+0100\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -18,16 +18,6 @@ msgstr ""
 "(n > 2 && n < 20) ? 2 : 3;\n"
 "X-Generator: Poedit 1.8.4\n"
 "X-Project-Style: kde\n"
-
-#, kde-format
-msgctxt "NAME OF TRANSLATORS"
-msgid "Your names"
-msgstr "GunChleoc"
-
-#, kde-format
-msgctxt "EMAIL OF TRANSLATORS"
-msgid "Your emails"
-msgstr "fios@foramnagaidhlig.net"
 
 #: service/Activities.cpp:125
 #, kde-format
@@ -46,6 +36,14 @@ msgstr "Ainm na gnìomhachd"
 msgctxt "@action"
 msgid "Switch to activity \"%1\""
 msgstr "Gearr leum dhan ghnìomhachd \"%1\""
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "GunChleoc"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "fios@foramnagaidhlig.net"
 
 #~ msgctxt "Header title for activity data model"
 #~ msgid "Activity"
