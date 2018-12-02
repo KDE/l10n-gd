@@ -8105,31 +8105,31 @@ msgctxt "ActivityInfo|"
 msgid "Take care to avoid the Troggles."
 msgstr ""
 
-#: activities/gnumch-equality/TopPanel.qml:50
+#: activities/gnumch-equality/TopPanel.qml:52
 #, qt-format
 msgctxt "TopPanel|"
 msgid "Equal to %1"
 msgstr ""
 
-#: activities/gnumch-equality/TopPanel.qml:52
+#: activities/gnumch-equality/TopPanel.qml:54
 #, qt-format
 msgctxt "TopPanel|"
 msgid "Not equal to %1"
 msgstr ""
 
-#: activities/gnumch-equality/TopPanel.qml:54
+#: activities/gnumch-equality/TopPanel.qml:56
 #, qt-format
 msgctxt "TopPanel|"
 msgid "Factor of %1"
 msgstr ""
 
-#: activities/gnumch-equality/TopPanel.qml:56
+#: activities/gnumch-equality/TopPanel.qml:58
 #, qt-format
 msgctxt "TopPanel|"
 msgid "Multiple of %1"
 msgstr ""
 
-#: activities/gnumch-equality/TopPanel.qml:58
+#: activities/gnumch-equality/TopPanel.qml:60
 #, qt-format
 msgctxt "TopPanel|"
 msgid "Primes less than %1"
@@ -12353,44 +12353,44 @@ msgctxt "OptionsRow|"
 msgid "%1 BPM"
 msgstr ""
 
-#: activities/piano_composition/OptionsRow.qml:188
+#: activities/piano_composition/OptionsRow.qml:186
 msgctxt "OptionsRow|"
 msgid "Play melody"
 msgstr ""
 
 #. Treble clef and Bass clef are the notations to indicate the pitch of the sound written on it.
-#: activities/piano_composition/OptionsRow.qml:217
+#: activities/piano_composition/OptionsRow.qml:214
 msgctxt "OptionsRow|"
 msgid "Treble clef"
 msgstr ""
 
-#: activities/piano_composition/OptionsRow.qml:217
+#: activities/piano_composition/OptionsRow.qml:214
 msgctxt "OptionsRow|"
 msgid "Bass clef"
 msgstr ""
 
-#: activities/piano_composition/OptionsRow.qml:238
+#: activities/piano_composition/OptionsRow.qml:232
 msgctxt "OptionsRow|"
 msgid "Added Treble clef"
 msgstr ""
 
-#: activities/piano_composition/OptionsRow.qml:238
+#: activities/piano_composition/OptionsRow.qml:232
 msgctxt "OptionsRow|"
 msgid "Added Bass clef"
 msgstr ""
 
-#: activities/piano_composition/OptionsRow.qml:265
+#: activities/piano_composition/OptionsRow.qml:253
 msgctxt "OptionsRow|"
 msgid "Undo"
 msgstr ""
 
 #. Sharp notes and Flat notes represents the accidental style of the notes in the music.
-#: activities/piano_composition/OptionsRow.qml:305
+#: activities/piano_composition/OptionsRow.qml:284
 msgctxt "OptionsRow|"
 msgid "Sharp notes"
 msgstr ""
 
-#: activities/piano_composition/OptionsRow.qml:305
+#: activities/piano_composition/OptionsRow.qml:284
 msgctxt "OptionsRow|"
 msgid "Flat notes"
 msgstr ""
@@ -12447,22 +12447,22 @@ msgctxt "piano_composition|"
 msgid "Saved melody to your file (%1)"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:376
+#: activities/piano_composition/Piano_composition.qml:377
 msgctxt "Piano_composition|"
 msgid "You have not selected any note. Do you want to erase all the notes?"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:377
+#: activities/piano_composition/Piano_composition.qml:378
 msgctxt "Piano_composition|"
 msgid "Yes"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:383
+#: activities/piano_composition/Piano_composition.qml:384
 msgctxt "Piano_composition|"
 msgid "No"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:435
+#: activities/piano_composition/Piano_composition.qml:436
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Click on the correct color"
@@ -12470,12 +12470,12 @@ msgctxt "Piano_composition|"
 msgid "Select the type of melody to load."
 msgstr "Briog air an dath cheart"
 
-#: activities/piano_composition/Piano_composition.qml:440
+#: activities/piano_composition/Piano_composition.qml:441
 msgctxt "Piano_composition|"
 msgid "Pre-defined melodies"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:460
+#: activities/piano_composition/Piano_composition.qml:461
 msgctxt "Piano_composition|"
 msgid "Your saved melodies"
 msgstr ""
@@ -12691,7 +12691,7 @@ msgid ""
 "treble clef to practice and levels 6-10 will offer bass clef."
 msgstr ""
 
-#: activities/play_piano/PlayPiano.qml:201
+#: activities/play_piano/PlayPiano.qml:191
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Kick the ball into the goal"
@@ -12699,12 +12699,12 @@ msgctxt "PlayPiano|"
 msgid "Click on the piano keys that match the given notes."
 msgstr "Breab am bàla dhan tadhal"
 
-#: activities/play_piano/PlayPiano.qml:286
+#: activities/play_piano/PlayPiano.qml:271
 msgctxt "PlayPiano|"
 msgid "Display colored notes."
 msgstr ""
 
-#: activities/play_piano/PlayPiano.qml:299
+#: activities/play_piano/PlayPiano.qml:284
 msgctxt "PlayPiano|"
 msgid "Display colorless notes."
 msgstr ""
@@ -15611,88 +15611,88 @@ msgid ""
 "geo-country activity."
 msgstr ""
 
-#: core/ChangeLog.qml:40
+#: core/ChangeLog.qml:41
 msgctxt "ChangeLog|"
 msgid "Fix in braille activities where the cells start at 1, not 0."
 msgstr ""
 
-#: core/ChangeLog.qml:40
+#: core/ChangeLog.qml:42
 msgctxt "ChangeLog|"
-msgid "Translation added for Hungarian and Malayalam."
+msgid "Translation added for Basque, Hungarian and Malayalam."
 msgstr ""
 
-#: core/ChangeLog.qml:40
+#: core/ChangeLog.qml:43
 msgctxt "ChangeLog|"
 msgid ""
 "Loading/saving of creations (Baby Wordprocessor, Balance Box and Piano "
 "Composition)."
 msgstr ""
 
-#: core/ChangeLog.qml:41
+#: core/ChangeLog.qml:44
 msgctxt "ChangeLog|"
 msgid "Many little fixes and improvements."
 msgstr ""
 
-#: core/ChangeLog.qml:41
+#: core/ChangeLog.qml:44
 msgctxt "ChangeLog|"
 msgid "Translations added for Scottish Gaelic."
 msgstr ""
 
-#: core/ChangeLog.qml:42
+#: core/ChangeLog.qml:45
 msgctxt "ChangeLog|"
 msgid "License page added in configuration."
 msgstr ""
 
-#: core/ChangeLog.qml:42
+#: core/ChangeLog.qml:45
 msgctxt "ChangeLog|"
 msgid "Multiple changes on layouts to improve the ergonomy."
 msgstr ""
 
-#: core/ChangeLog.qml:43
+#: core/ChangeLog.qml:46
 msgctxt "ChangeLog|"
 msgid "Lang activity now available in Polish, Swedish and Ukrainian."
 msgstr ""
 
-#: core/ChangeLog.qml:44
+#: core/ChangeLog.qml:47
 msgctxt "ChangeLog|"
 msgid "Search feature."
 msgstr ""
 
-#: core/ChangeLog.qml:45
+#: core/ChangeLog.qml:48
 msgctxt "ChangeLog|"
 msgid "A Changelog."
 msgstr ""
 
-#: core/ChangeLog.qml:46
+#: core/ChangeLog.qml:49
 msgctxt "ChangeLog|"
 msgid "Many little fixes."
 msgstr ""
 
-#: core/ChangeLog.qml:46
+#: core/ChangeLog.qml:49
 msgctxt "ChangeLog|"
 msgid "Lang activity now available in French."
 msgstr ""
 
-#: core/ChangeLog.qml:47
+#: core/ChangeLog.qml:50
 msgctxt "ChangeLog|"
 msgid ""
 "Adding a loading overlay to let the user know that some actions are taking "
 "place (loading an activity for example) and can take some seconds."
 msgstr ""
 
-#: core/ChangeLog.qml:47
+#: core/ChangeLog.qml:50
 msgctxt "ChangeLog|"
 msgid ""
 "Translations added for: Catalan (Valencian), Chinese Traditional, Finnish "
 "(92% translated), Russian (98% translated), Slovak (92% translated), Turkish."
 msgstr ""
 
-#: core/ChangeLog.qml:48
+#: core/ChangeLog.qml:51
 msgctxt "ChangeLog|"
 msgid "Translations added for: Slovenian, German, Galician."
 msgstr ""
 
-#: core/ChangeLog.qml:67
+#: core/ChangeLog.qml:70
 #, qt-format
 msgctxt "ChangeLog|"
 msgid "Version %1:"
@@ -16192,7 +16192,7 @@ msgid ""
 "renderer mode that should solve the issue. "
 msgstr ""
 
-#: core/ReadyButton.qml:83
+#: core/ReadyButton.qml:78
 msgctxt "ReadyButton|"
 msgid "I am Ready"
 msgstr "Tha mi deiseil"
