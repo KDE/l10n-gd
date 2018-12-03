@@ -12117,6 +12117,34 @@ msgctxt "ActivityInfo|"
 msgid "The synthesizer original code is https://github.com/vsr83/miniSynth"
 msgstr ""
 
+#. BPM is the abbreviation for Beats Per Minute.
+#: activities/piano_composition/BpmMeter.qml:47
+#, qt-format
+msgctxt "BpmMeter|"
+msgid "%1 BPM"
+msgstr ""
+
+#. Treble clef and Bass clef are the notations to indicate the pitch of the sound written on it.
+#: activities/piano_composition/KeyOption.qml:58
+msgctxt "KeyOption|"
+msgid "Treble clef"
+msgstr ""
+
+#: activities/piano_composition/KeyOption.qml:58
+msgctxt "KeyOption|"
+msgid "Bass clef"
+msgstr ""
+
+#: activities/piano_composition/KeyOption.qml:75
+msgctxt "KeyOption|"
+msgid "Added Treble clef"
+msgstr ""
+
+#: activities/piano_composition/KeyOption.qml:75
+msgctxt "KeyOption|"
+msgid "Added Bass clef"
+msgstr ""
+
 #: activities/piano_composition/LyricsArea.qml:55
 #, qt-format
 msgctxt "LyricsArea|"
@@ -12269,22 +12297,22 @@ msgid "Melodies"
 msgstr ""
 
 #. Whole note, Half note, Quarter note and Eighth note are the different length notes in the musical notation.
-#: activities/piano_composition/OptionsRow.qml:33
+#: activities/piano_composition/OptionsRow.qml:34
 msgctxt "OptionsRow|"
 msgid "Whole note"
 msgstr ""
 
-#: activities/piano_composition/OptionsRow.qml:33
+#: activities/piano_composition/OptionsRow.qml:34
 msgctxt "OptionsRow|"
 msgid "Half note"
 msgstr ""
 
-#: activities/piano_composition/OptionsRow.qml:33
+#: activities/piano_composition/OptionsRow.qml:34
 msgctxt "OptionsRow|"
 msgid "Quarter note"
 msgstr ""
 
-#: activities/piano_composition/OptionsRow.qml:33
+#: activities/piano_composition/OptionsRow.qml:34
 #, fuzzy
 #| msgctxt "dataset|"
 #| msgid "eight"
@@ -12293,29 +12321,6 @@ msgid "Eighth note"
 msgstr "a h-ochd"
 
 #. Whole rest, Half rest, Quarter rest and Eighth rest are the different length rests (silences) in the musical notation.
-#: activities/piano_composition/OptionsRow.qml:36
-msgctxt "OptionsRow|"
-msgid "Whole rest"
-msgstr ""
-
-#: activities/piano_composition/OptionsRow.qml:36
-msgctxt "OptionsRow|"
-msgid "Half rest"
-msgstr ""
-
-#: activities/piano_composition/OptionsRow.qml:36
-msgctxt "OptionsRow|"
-msgid "Quarter rest"
-msgstr ""
-
-#: activities/piano_composition/OptionsRow.qml:36
-#, fuzzy
-#| msgctxt "dataset|"
-#| msgid "eight"
-msgctxt "OptionsRow|"
-msgid "Eighth rest"
-msgstr "a h-ochd"
-
 #: activities/piano_composition/OptionsRow.qml:37
 msgctxt "OptionsRow|"
 msgid "Added whole rest"
@@ -12338,59 +12343,54 @@ msgstr ""
 
 #: activities/piano_composition/OptionsRow.qml:38
 msgctxt "OptionsRow|"
-msgid "Piano"
+msgid "Whole rest"
 msgstr ""
 
 #: activities/piano_composition/OptionsRow.qml:38
 msgctxt "OptionsRow|"
+msgid "Half rest"
+msgstr ""
+
+#: activities/piano_composition/OptionsRow.qml:38
+msgctxt "OptionsRow|"
+msgid "Quarter rest"
+msgstr ""
+
+#: activities/piano_composition/OptionsRow.qml:38
+#, fuzzy
+#| msgctxt "dataset|"
+#| msgid "eight"
+msgctxt "OptionsRow|"
+msgid "Eighth rest"
+msgstr "a h-ochd"
+
+#: activities/piano_composition/OptionsRow.qml:39
+msgctxt "OptionsRow|"
+msgid "Piano"
+msgstr ""
+
+#: activities/piano_composition/OptionsRow.qml:39
+msgctxt "OptionsRow|"
 msgid "Lyrics"
 msgstr ""
 
-#. BPM is the abbreviation for Beats Per Minute.
-#: activities/piano_composition/OptionsRow.qml:133
-#, qt-format
-msgctxt "OptionsRow|"
-msgid "%1 BPM"
-msgstr ""
-
-#: activities/piano_composition/OptionsRow.qml:186
+#: activities/piano_composition/OptionsRow.qml:80
 msgctxt "OptionsRow|"
 msgid "Play melody"
 msgstr ""
 
-#. Treble clef and Bass clef are the notations to indicate the pitch of the sound written on it.
-#: activities/piano_composition/OptionsRow.qml:214
-msgctxt "OptionsRow|"
-msgid "Treble clef"
-msgstr ""
-
-#: activities/piano_composition/OptionsRow.qml:214
-msgctxt "OptionsRow|"
-msgid "Bass clef"
-msgstr ""
-
-#: activities/piano_composition/OptionsRow.qml:232
-msgctxt "OptionsRow|"
-msgid "Added Treble clef"
-msgstr ""
-
-#: activities/piano_composition/OptionsRow.qml:232
-msgctxt "OptionsRow|"
-msgid "Added Bass clef"
-msgstr ""
-
-#: activities/piano_composition/OptionsRow.qml:253
+#: activities/piano_composition/OptionsRow.qml:99
 msgctxt "OptionsRow|"
 msgid "Undo"
 msgstr ""
 
 #. Sharp notes and Flat notes represents the accidental style of the notes in the music.
-#: activities/piano_composition/OptionsRow.qml:284
+#: activities/piano_composition/OptionsRow.qml:170
 msgctxt "OptionsRow|"
 msgid "Sharp notes"
 msgstr ""
 
-#: activities/piano_composition/OptionsRow.qml:284
+#: activities/piano_composition/OptionsRow.qml:170
 msgctxt "OptionsRow|"
 msgid "Flat notes"
 msgstr ""
@@ -12447,22 +12447,22 @@ msgctxt "piano_composition|"
 msgid "Saved melody to your file (%1)"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:377
+#: activities/piano_composition/Piano_composition.qml:381
 msgctxt "Piano_composition|"
 msgid "You have not selected any note. Do you want to erase all the notes?"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:378
+#: activities/piano_composition/Piano_composition.qml:382
 msgctxt "Piano_composition|"
 msgid "Yes"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:384
+#: activities/piano_composition/Piano_composition.qml:388
 msgctxt "Piano_composition|"
 msgid "No"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:436
+#: activities/piano_composition/Piano_composition.qml:440
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Click on the correct color"
@@ -12470,12 +12470,12 @@ msgctxt "Piano_composition|"
 msgid "Select the type of melody to load."
 msgstr "Briog air an dath cheart"
 
-#: activities/piano_composition/Piano_composition.qml:441
+#: activities/piano_composition/Piano_composition.qml:445
 msgctxt "Piano_composition|"
 msgid "Pre-defined melodies"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:461
+#: activities/piano_composition/Piano_composition.qml:465
 msgctxt "Piano_composition|"
 msgid "Your saved melodies"
 msgstr ""
@@ -13142,7 +13142,7 @@ msgid ""
 "I and V (units, 1 and 5)\n"
 "X and L (tens, 10 and 50)\n"
 "C and D (hundreds, 100 and 500)\n"
-" and M (1000)\n"
+" and M (1000).\n"
 " An interesting observation here is that the roman numeric system lacks the "
 "number 0."
 msgstr ""
@@ -13172,19 +13172,11 @@ msgid "Convert the arabic number %1 in roman."
 msgstr ""
 
 #: activities/roman_numerals/RomanNumerals.qml:81
-msgctxt "RomanNumerals|"
-msgid ""
-"All the units except 4 and 9 are built using sums of I and V:\n"
-"I, II, III, V, VI, VII, VIII.\n"
-" The 4 and the 9 units are built using differences:\n"
-"IV (5 – 1) and IX (10 – 1)"
-msgstr ""
-
 #: activities/roman_numerals/RomanNumerals.qml:87
 msgctxt "RomanNumerals|"
 msgid ""
 "All the units except 4 and 9 are built using sums of I and V:\n"
-"I, II, III, V, VI, VII, VIII\n"
+"I, II, III, V, VI, VII, VIII.\n"
 " The 4 and the 9 units are built using differences:\n"
 "IV (5 – 1) and IX (10 – 1)"
 msgstr ""
@@ -13194,7 +13186,7 @@ msgstr ""
 msgctxt "RomanNumerals|"
 msgid ""
 "All the tens except 40 and 90 are built using sums of X and L:\n"
-"X, XX, XXX, L, LX, LXX, LXXX\n"
+"X, XX, XXX, L, LX, LXX, LXXX.\n"
 "The 40 and the 90 tens are built using differences:\n"
 "XL (10 taken from 50) and XC (10 taken from 100)\n"
 " "
@@ -13205,7 +13197,7 @@ msgstr ""
 msgctxt "RomanNumerals|"
 msgid ""
 "All the hundreds except 400 and 900 are built using sums of C and D:\n"
-"C, CC, CCC, D, DC, DCC, DCCC\n"
+"C, CC, CCC, D, DC, DCC, DCCC.\n"
 "The 400 and the 900 hundreds are built using differences:\n"
 "CD (100 taken from 500) and CM (100 taken from 1000)"
 msgstr ""
