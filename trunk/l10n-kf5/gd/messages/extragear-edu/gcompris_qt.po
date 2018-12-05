@@ -1352,9 +1352,9 @@ msgstr ""
 #: activities/binary_bulb/binary_bulb.js:35
 msgctxt "binary_bulb|"
 msgid ""
-"Computers use transistors to count and transistors have only 2 states, 0 and "
-"1. Mathematically they are represented by binary digits, a digit like a "
-"transistor has 2 states, 0 and 1."
+"Computers use transistors to count and transistors have only two states, 0 "
+"and 1. Mathematically, these states are represented by 0 and 1, which makes "
+"up the binary system of numeration."
 msgstr ""
 
 #: activities/binary_bulb/binary_bulb.js:39
@@ -1365,15 +1365,17 @@ msgstr ""
 #: activities/binary_bulb/binary_bulb.js:43
 msgctxt "binary_bulb|"
 msgid ""
-"Binary system uses these digits in a very efficient way, allowing with only "
-"8 bits to count from 0 to 255."
+"Binary system uses these numbers very efficiently, allowing to count from 0 "
+"to 255 with 8 bits only."
 msgstr ""
 
 #: activities/binary_bulb/binary_bulb.js:47
 msgctxt "binary_bulb|"
 msgid ""
-"Each bit has a weight, from right to left 1, 2, 4, 8, 16, 32 etc.. They "
-"correspond to 2e0, 2e1, 2e2, 2e3 etc."
+"Each bit had a progressive value, corresponding to the powers of 2, "
+"ascending from right to left: bit 1 → 2⁰=1 , bit 2 → 2¹=2 , bit 3 → 2²=4 , "
+"bit 4 → 2³=8 , bit 5 → 2⁴=16 , bit 6 → 2⁵=32 , bit 7 → 2⁶=64 , bit 8 → "
+"2⁷=128."
 msgstr ""
 
 #: activities/binary_bulb/binary_bulb.js:51
@@ -1393,7 +1395,7 @@ msgstr ""
 #| msgctxt "ActivityInfo|"
 #| msgid "The aim is to switch off all the lights."
 msgctxt "binary_bulb|"
-msgid "This image will help you to compute bits' weight."
+msgid "This image will help you to compute bits' value."
 msgstr "Is an t-amas gach solas a chur dheth."
 
 #: activities/binary_bulb/BinaryBulb.qml:132
@@ -6503,139 +6505,196 @@ msgstr ""
 #| msgctxt "advanced_colors|"
 #| msgid "Find the tea butterfly"
 msgctxt "find_the_day_dataset|"
-msgid "Find the date 13 days after 3 May."
+msgid "Find the date 13 days after May 3."
 msgstr "Lorg an dealan-dè dearg ròs na tì"
 
 #: activities/find_the_day/find_the_day_dataset.js:50
+#, fuzzy
+#| msgctxt "advanced_colors|"
+#| msgid "Find the tea butterfly"
 msgctxt "find_the_day_dataset|"
-msgid "Find the date 7 days after 1 October."
-msgstr ""
+msgid "Find the date 7 days after October 1."
+msgstr "Lorg an dealan-dè dearg ròs na tì"
 
 #: activities/find_the_day/find_the_day_dataset.js:54
 #, fuzzy
 #| msgctxt "advanced_colors|"
 #| msgid "Find the tea butterfly"
 msgctxt "find_the_day_dataset|"
-msgid "Find the date 31 days after 12 July."
+msgid "Find the date 31 days after July 12."
 msgstr "Lorg an dealan-dè dearg ròs na tì"
 
 #: activities/find_the_day/find_the_day_dataset.js:58
+#, fuzzy
+#| msgctxt "advanced_colors|"
+#| msgid "Find the tea butterfly"
 msgctxt "find_the_day_dataset|"
-msgid "Find the date two weeks after 27 November."
-msgstr ""
+msgid "Find the date two weeks after November 27."
+msgstr "Lorg an dealan-dè dearg ròs na tì"
 
 #: activities/find_the_day/find_the_day_dataset.js:62
+#, fuzzy
+#| msgctxt "advanced_colors|"
+#| msgid "Find the tea butterfly"
 msgctxt "find_the_day_dataset|"
-msgid "Find the date 19 days before 1 September."
-msgstr ""
+msgid "Find the date 19 days before September 1."
+msgstr "Lorg an dealan-dè dearg ròs na tì"
 
 #: activities/find_the_day/find_the_day_dataset.js:66
+#, fuzzy
+#| msgctxt "advanced_colors|"
+#| msgid "Find the tea butterfly"
 msgctxt "find_the_day_dataset|"
-msgid "Find the date 5 days before 8 December."
-msgstr ""
+msgid "Find the date 5 days before December 8."
+msgstr "Lorg an dealan-dè dearg ròs na tì"
 
 #: activities/find_the_day/find_the_day_dataset.js:86
+#, fuzzy
+#| msgctxt "advanced_colors|"
+#| msgid "Find the tea butterfly"
 msgctxt "find_the_day_dataset|"
-msgid "Find day of week 3 days after 5 December."
-msgstr ""
+msgid "Find day of week 3 days after December 5."
+msgstr "Lorg an dealan-dè dearg ròs na tì"
 
 #: activities/find_the_day/find_the_day_dataset.js:90
 msgctxt "find_the_day_dataset|"
-msgid "Find day of week 12 days before 12 November."
+msgid "Find day of week 12 days before November 12."
 msgstr ""
 
 #: activities/find_the_day/find_the_day_dataset.js:94
+#, fuzzy
+#| msgctxt "advanced_colors|"
+#| msgid "Find the tea butterfly"
 msgctxt "find_the_day_dataset|"
-msgid "Find day of week 32 days after 5 January."
-msgstr ""
+msgid "Find day of week 32 days after January 5."
+msgstr "Lorg an dealan-dè dearg ròs na tì"
 
 #: activities/find_the_day/find_the_day_dataset.js:98
+#, fuzzy
+#| msgctxt "advanced_colors|"
+#| msgid "Find the tea butterfly"
 msgctxt "find_the_day_dataset|"
-msgid "Find day of week 5 days after 23 February."
-msgstr ""
+msgid "Find day of week 5 days after February 23."
+msgstr "Lorg an dealan-dè dearg ròs na tì"
 
 #: activities/find_the_day/find_the_day_dataset.js:102
 msgctxt "find_the_day_dataset|"
-msgid "Find day of week 17 days before 16 August."
+msgid "Find day of week 17 days before August 16."
 msgstr ""
 
 #: activities/find_the_day/find_the_day_dataset.js:123
+#, fuzzy
+#| msgctxt "advanced_colors|"
+#| msgid "Find the tea butterfly"
 msgctxt "find_the_day_dataset|"
-msgid "Find the date 2 weeks and 3 days after 12 January."
-msgstr ""
+msgid "Find the date 2 weeks and 3 days after January 12."
+msgstr "Lorg an dealan-dè dearg ròs na tì"
 
 #: activities/find_the_day/find_the_day_dataset.js:127
+#, fuzzy
+#| msgctxt "advanced_colors|"
+#| msgid "Find the tea butterfly"
 msgctxt "find_the_day_dataset|"
-msgid "Find the date 3 weeks and 2 days after 22 March."
-msgstr ""
+msgid "Find the date 3 weeks and 2 days after March 22."
+msgstr "Lorg an dealan-dè dearg ròs na tì"
 
 #: activities/find_the_day/find_the_day_dataset.js:131
+#, fuzzy
+#| msgctxt "advanced_colors|"
+#| msgid "Find the tea butterfly"
 msgctxt "find_the_day_dataset|"
-msgid "Find the date 5 weeks and 6 days after 5 October."
-msgstr ""
+msgid "Find the date 5 weeks and 6 days after October 5."
+msgstr "Lorg an dealan-dè dearg ròs na tì"
 
 #: activities/find_the_day/find_the_day_dataset.js:135
+#, fuzzy
+#| msgctxt "advanced_colors|"
+#| msgid "Find the tea butterfly"
 msgctxt "find_the_day_dataset|"
-msgid "Find the date 1 week and 1 day before 8 August."
-msgstr ""
+msgid "Find the date 1 week and 1 day before August 8."
+msgstr "Lorg an dealan-dè dearg ròs na tì"
 
 #: activities/find_the_day/find_the_day_dataset.js:139
+#, fuzzy
+#| msgctxt "advanced_colors|"
+#| msgid "Find the tea butterfly"
 msgctxt "find_the_day_dataset|"
-msgid "Find the date 2 weeks and 5 days before 2 July."
-msgstr ""
+msgid "Find the date 2 weeks and 5 days before July 2."
+msgstr "Lorg an dealan-dè dearg ròs na tì"
 
 #: activities/find_the_day/find_the_day_dataset.js:159
+#, fuzzy
+#| msgctxt "advanced_colors|"
+#| msgid "Find the tea butterfly"
 msgctxt "find_the_day_dataset|"
-msgid "Find day of week 5 months and 2 days after 3 July."
-msgstr ""
+msgid "Find day of week 5 months and 2 days after July 3."
+msgstr "Lorg an dealan-dè dearg ròs na tì"
 
 #: activities/find_the_day/find_the_day_dataset.js:163
+#, fuzzy
+#| msgctxt "advanced_colors|"
+#| msgid "Find the tea butterfly"
 msgctxt "find_the_day_dataset|"
-msgid "Find day of week 2 months and 4 days after 8 October."
-msgstr ""
+msgid "Find day of week 2 months and 4 days after October 8."
+msgstr "Lorg an dealan-dè dearg ròs na tì"
 
 #: activities/find_the_day/find_the_day_dataset.js:167
 msgctxt "find_the_day_dataset|"
-msgid "Find day of week 1 month and 3 days before 28 December."
+msgid "Find day of week 1 month and 3 days before December 28."
 msgstr ""
 
 #: activities/find_the_day/find_the_day_dataset.js:171
+#, fuzzy
+#| msgctxt "advanced_colors|"
+#| msgid "Find the tea butterfly"
 msgctxt "find_the_day_dataset|"
-msgid "Find day of week 8 months and 7 days after 28 February."
-msgstr ""
+msgid "Find day of week 8 months and 7 days after February 28."
+msgstr "Lorg an dealan-dè dearg ròs na tì"
 
 #: activities/find_the_day/find_the_day_dataset.js:175
 msgctxt "find_the_day_dataset|"
-msgid "Find day of week 3 months and 3 days before 15 September."
+msgid "Find day of week 3 months and 3 days before September 15."
 msgstr ""
 
 #: activities/find_the_day/find_the_day_dataset.js:194
+#, fuzzy
+#| msgctxt "advanced_colors|"
+#| msgid "Find the tea butterfly"
 msgctxt "find_the_day_dataset|"
-msgid "Find the date 2 months, 1 week and 5 days after 12 January."
-msgstr ""
+msgid "Find the date 2 months, 1 week and 5 days after January 12."
+msgstr "Lorg an dealan-dè dearg ròs na tì"
 
 #: activities/find_the_day/find_the_day_dataset.js:198
+#, fuzzy
+#| msgctxt "advanced_colors|"
+#| msgid "Find the tea butterfly"
 msgctxt "find_the_day_dataset|"
-msgid "Find the date 3 months, 2 weeks and 1 day after 23 August."
-msgstr ""
+msgid "Find the date 3 months, 2 weeks and 1 day after August 23."
+msgstr "Lorg an dealan-dè dearg ròs na tì"
 
 #: activities/find_the_day/find_the_day_dataset.js:202
 #, fuzzy
 #| msgctxt "advanced_colors|"
 #| msgid "Find the tea butterfly"
 msgctxt "find_the_day_dataset|"
-msgid "Find the date 5 months, 3 weeks and 2 days after 20 March."
+msgid "Find the date 5 months, 3 weeks and 2 days after March 20."
 msgstr "Lorg an dealan-dè dearg ròs na tì"
 
 #: activities/find_the_day/find_the_day_dataset.js:206
+#, fuzzy
+#| msgctxt "advanced_colors|"
+#| msgid "Find the tea butterfly"
 msgctxt "find_the_day_dataset|"
-msgid "Find the date 1 month 1 week and 1 day before 10 September."
-msgstr ""
+msgid "Find the date 1 month 1 week and 1 day before September 10."
+msgstr "Lorg an dealan-dè dearg ròs na tì"
 
 #: activities/find_the_day/find_the_day_dataset.js:210
+#, fuzzy
+#| msgctxt "advanced_colors|"
+#| msgid "Find the tea butterfly"
 msgctxt "find_the_day_dataset|"
-msgid "Find the date 2 months, 1 week and 8 days before 7 April."
-msgstr ""
+msgid "Find the date 2 months, 1 week and 8 days before April 7."
+msgstr "Lorg an dealan-dè dearg ròs na tì"
 
 #. Activity title
 #: activities/followline/ActivityInfo.qml:27
@@ -9834,7 +9893,7 @@ msgid ""
 "you have motivation you can do incredible things."
 msgstr ""
 
-#: activities/louis-braille/ReorderList.qml:167
+#: activities/louis-braille/ReorderList.qml:168
 msgctxt "ReorderList|"
 msgid ""
 "Arrange the events in the order in which they happened. Select the line to "
@@ -11751,7 +11810,7 @@ msgstr ""
 msgctxt "dataset_01|"
 msgid ""
 "This activity will teach you to read notes from F1 in bass clef up to D6 in "
-"treble clef.<br>For each level you will learn new notes and train the one "
+"treble clef.<br>For each level you will learn new notes and train the ones "
 "you have already learned.<br>Reference notes are colored in red and will "
 "help you to read the notes placed around them."
 msgstr ""
