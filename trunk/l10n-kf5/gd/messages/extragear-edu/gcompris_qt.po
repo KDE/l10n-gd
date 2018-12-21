@@ -10036,7 +10036,7 @@ msgid ""
 "\t"
 msgstr ""
 
-#: activities/maze/Maze.qml:325
+#: activities/maze/Maze.qml:324
 msgctxt "Maze|"
 msgid ""
 "Look at your position, then switch back to invisible mode to continue your "
@@ -12712,7 +12712,7 @@ msgid ""
 "treble clef to practice and levels 6-10 will offer bass clef."
 msgstr ""
 
-#: activities/play_piano/PlayPiano.qml:187
+#: activities/play_piano/PlayPiano.qml:186
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Kick the ball into the goal"
@@ -12720,12 +12720,12 @@ msgctxt "PlayPiano|"
 msgid "Click on the piano keys that match the given notes."
 msgstr "Breab am bàla dhan tadhal"
 
-#: activities/play_piano/PlayPiano.qml:267
+#: activities/play_piano/PlayPiano.qml:266
 msgctxt "PlayPiano|"
 msgid "Display colored notes."
 msgstr ""
 
-#: activities/play_piano/PlayPiano.qml:280
+#: activities/play_piano/PlayPiano.qml:279
 msgctxt "PlayPiano|"
 msgid "Display colorless notes."
 msgstr ""
