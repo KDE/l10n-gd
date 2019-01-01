@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ktextwidgets5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-11-03 03:47+0100\n"
+"POT-Creation-Date: 2019-01-01 02:58+0100\n"
 "PO-Revision-Date: 2016-04-29 19:48+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -39,13 +39,13 @@ msgstr "URL a' cheangail:"
 msgid "Find Next"
 msgstr "Lorg an ath fhear"
 
-#: findreplace/kfind.cpp:65
+#: findreplace/kfind.cpp:64
 #, kde-format
 msgid "<qt>Find next occurrence of '<b>%1</b>'?</qt>"
 msgstr ""
 "<qt>A bheil thu airson ath sheise na h-abairt \"<b>%1</b>\" a lorg?</qt>"
 
-#: findreplace/kfind.cpp:624 findreplace/kfind.cpp:643
+#: findreplace/kfind.cpp:622 findreplace/kfind.cpp:641
 #, kde-format
 msgid "1 match found."
 msgid_plural "%1 matches found."
@@ -54,32 +54,32 @@ msgstr[1] "Chaidh %1 sheise a lorg."
 msgstr[2] "Chaidh %1 seisean a lorg."
 msgstr[3] "Chaidh %1 seise a lorg."
 
-#: findreplace/kfind.cpp:626
+#: findreplace/kfind.cpp:624
 #, kde-format
 msgid "<qt>No matches found for '<b>%1</b>'.</qt>"
 msgstr "<qt>Cha deach càil a lorg airson \"<b>%1</b>\".</qt>"
 
-#: findreplace/kfind.cpp:645
+#: findreplace/kfind.cpp:643
 #, kde-format
 msgid "No matches found for '<b>%1</b>'."
 msgstr "Cha deach càil a lorg airson \"<b>%1</b>\"."
 
-#: findreplace/kfind.cpp:649 findreplace/kreplace.cpp:387
+#: findreplace/kfind.cpp:647 findreplace/kreplace.cpp:387
 #, kde-format
 msgid "Beginning of document reached."
 msgstr "Ràinig sinn toiseach na sgrìobhainn."
 
-#: findreplace/kfind.cpp:651 findreplace/kreplace.cpp:389
+#: findreplace/kfind.cpp:649 findreplace/kreplace.cpp:389
 #, kde-format
 msgid "End of document reached."
 msgstr "Ràinig sinn deireadh na sgrìobhainn."
 
-#: findreplace/kfind.cpp:659
+#: findreplace/kfind.cpp:657
 #, kde-format
 msgid "Continue from the end?"
 msgstr "A bheil thu airson leantainn air adhart on deireadh?"
 
-#: findreplace/kfind.cpp:660
+#: findreplace/kfind.cpp:658
 #, kde-format
 msgid "Continue from the beginning?"
 msgstr "A bheil thu airson leantainn air adhart on toiseach?"
@@ -371,23 +371,23 @@ msgstr "Feumaidh tu teacsa a chur a-steach gus lorg air a shon."
 msgid "Invalid regular expression."
 msgstr "Eas-preisean riaghailteach mì-dhligheach."
 
-#: findreplace/kreplace.cpp:59 findreplace/kreplace.cpp:71
+#: findreplace/kreplace.cpp:60 findreplace/kreplace.cpp:72
 #, kde-format
 msgid "Replace"
 msgstr "Cuir 'na àite"
 
-#: findreplace/kreplace.cpp:67
+#: findreplace/kreplace.cpp:68
 #, kde-format
 msgctxt "@action:button Replace all occurrences"
 msgid "&All"
 msgstr "N&a h-uile"
 
-#: findreplace/kreplace.cpp:69
+#: findreplace/kreplace.cpp:70
 #, kde-format
 msgid "&Skip"
 msgstr "Gearr leum thairi&s air"
 
-#: findreplace/kreplace.cpp:88
+#: findreplace/kreplace.cpp:89
 #, kde-format
 msgid "Replace '%1' with '%2'?"
 msgstr "A bheil thu airson \"%2\" a chur an àite \"%1\"?"
