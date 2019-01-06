@@ -12437,7 +12437,7 @@ msgstr ""
 
 #: activities/piano_composition/piano_composition.js:42
 msgctxt "piano_composition|"
-msgid "The black keys are sharp and flat keys, have a ♯ sign."
+msgid "The black keys are sharp and flat keys. Sharp notes have a ♯ sign."
 msgstr ""
 
 #: activities/piano_composition/piano_composition.js:45
