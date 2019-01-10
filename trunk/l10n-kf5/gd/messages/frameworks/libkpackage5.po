@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-12-19 03:06+0100\n"
+"POT-Creation-Date: 2019-01-10 03:03+0100\n"
 "PO-Revision-Date: 2016-04-30 12:04+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -463,20 +463,20 @@ msgstr "Mearachd: Dh'fhàillig le dì-stàladh %1: %2"
 msgid "KPackage Manager"
 msgstr "Manaidsear KPackage"
 
-#: kpackagetool/options.h:9
+#: kpackagetool/options.h:10
 #, kde-format
 msgctxt "Do not translate <path>"
 msgid "Generate a SHA1 hash for the package at <path>"
 msgstr "Gin hais SHA1airson na pacaid air <path>"
 
-#: kpackagetool/options.h:13
+#: kpackagetool/options.h:17
 #, kde-format
 msgid "For install or remove, operates on packages installed for all users."
 msgstr ""
 "Airson stàladh no toirt air falbh, obraichidh e air pacaidean a chaidh a "
 "stàladh airson a h-uile cleachdaiche."
 
-#: kpackagetool/options.h:20
+#: kpackagetool/options.h:27
 #, kde-format
 msgctxt ""
 "theme, wallpaper, etc. are keywords, but they may be translated, as both "
@@ -488,41 +488,41 @@ msgid ""
 "Applet, etc."
 msgstr ""
 
-#: kpackagetool/options.h:25
+#: kpackagetool/options.h:35
 #, kde-format
 msgctxt "Do not translate <path>"
 msgid "Install the package at <path>"
 msgstr "Stàlaich a' phacaid air <path>"
 
-#: kpackagetool/options.h:30
+#: kpackagetool/options.h:43
 #, kde-format
 msgctxt "Do not translate <name>"
 msgid "Show information of package <name>"
 msgstr "Seall fiosrachadh na pacaid <name>"
 
-#: kpackagetool/options.h:35
+#: kpackagetool/options.h:51
 #, kde-format
 msgctxt "Do not translate <path>"
 msgid "Upgrade the package at <path>"
 msgstr "Àrdaich a' phacaid air <path>"
 
-#: kpackagetool/options.h:40
+#: kpackagetool/options.h:58
 #, kde-format
 msgid "List installed packages"
 msgstr "Seall na pacaidean air an stàladh"
 
-#: kpackagetool/options.h:44
+#: kpackagetool/options.h:65
 #, kde-format
 msgid "List all known package types that can be installed"
 msgstr "Seall a h-uile seòrsa de phacaid a ghabhas stàladh"
 
-#: kpackagetool/options.h:48
+#: kpackagetool/options.h:72
 #, kde-format
 msgctxt "Do not translate <name>"
 msgid "Remove the package named <name>"
 msgstr "Thoir air falbh a' phacaid air a tha <name>"
 
-#: kpackagetool/options.h:53
+#: kpackagetool/options.h:80
 #, kde-format
 msgid ""
 "Absolute path to the package root. If not supplied, then the standard data "
@@ -531,7 +531,7 @@ msgstr ""
 "Slighe absaloideach gu freumh na pacaid. Mura deach a sholar, thèid lorg sna "
 "pasganan dàta stannardach airson an t-seisein KDE seo 'na àite."
 
-#: kpackagetool/options.h:59
+#: kpackagetool/options.h:89
 #, fuzzy, kde-format
 #| msgid ""
 #| "Recreate the plugin index. To be used in conjunction with either the "
@@ -547,7 +547,7 @@ msgstr ""
 "freumh na pacaide. Obraichidh e ann am pasgan a' chleachdaiche mura deach -g "
 "a chleachdadh"
 
-#: kpackagetool/options.h:65
+#: kpackagetool/options.h:98
 #, fuzzy, kde-format
 #| msgid ""
 #| "Recreate the plugin index. To be used in conjunction with either the "
@@ -563,7 +563,7 @@ msgstr ""
 "freumh na pacaide. Obraichidh e ann am pasgan a' chleachdaiche mura deach -g "
 "a chleachdadh"
 
-#: kpackagetool/options.h:71
+#: kpackagetool/options.h:107
 #, fuzzy, kde-format
 #| msgctxt "Do not translate <path>"
 #| msgid "Generate a SHA1 hash for the package at <path>"
@@ -571,7 +571,7 @@ msgctxt "Do not translate <path>"
 msgid "Outputs the metadata for the package <path>"
 msgstr "Gin hais SHA1airson na pacaid air <path>"
 
-#: kpackagetool/options.h:76
+#: kpackagetool/options.h:115
 #, fuzzy, kde-format
 #| msgctxt "Do not translate <path>"
 #| msgid "Generate a SHA1 hash for the package at <path>"
