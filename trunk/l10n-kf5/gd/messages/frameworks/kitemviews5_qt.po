@@ -20,17 +20,24 @@ msgctxt "KFilterProxySearchLine|"
 msgid "Search"
 msgstr "Lorg"
 
-#: ktreewidgetsearchline.cpp:434
+#: ktreewidgetsearchline.cpp:226
+#, fuzzy
+#| msgctxt "KFilterProxySearchLine|"
+#| msgid "Search"
+msgctxt "KTreeWidgetSearchLine|"
+msgid "Search..."
+msgstr "Lorg"
+
+#: ktreewidgetsearchline.cpp:435
 msgctxt "KTreeWidgetSearchLine|"
 msgid "Search Columns"
 msgstr "Lorg sna colbhan"
 
-#: ktreewidgetsearchline.cpp:436
+#: ktreewidgetsearchline.cpp:437
 msgctxt "KTreeWidgetSearchLine|"
 msgid "All Visible Columns"
 msgstr "A h-uile colbhan ri am faicinn"
 
-#: ktreewidgetsearchlinewidget.cpp:63
-msgctxt "KTreeWidgetSearchLineWidget|"
-msgid "S&earch:"
-msgstr "&Lorg:"
+#~ msgctxt "KTreeWidgetSearchLineWidget|"
+#~ msgid "S&earch:"
+#~ msgstr "&Lorg:"

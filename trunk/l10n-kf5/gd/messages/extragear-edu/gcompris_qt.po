@@ -9667,6 +9667,14 @@ msgstr ""
 "Mur obraich sin, tadhail air www.iGaidhlig.net airson barrachd fiosrachaidh "
 "’s taic."
 
+#. Help manual
+#: activities/letter-in-word/ActivityInfo.qml:36
+msgctxt "ActivityInfo|"
+msgid ""
+"A letter is displayed on the flag attached to the plane, select all the "
+"words or the objects in which the letter appears and then press OK."
+msgstr ""
+
 #: activities/letter-in-word/LetterInWord.qml:130
 #, fuzzy
 #| msgctxt "ActivityInfo|"
