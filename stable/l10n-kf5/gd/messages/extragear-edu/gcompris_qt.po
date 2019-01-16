@@ -1338,22 +1338,22 @@ msgstr ""
 "aigesan ris am bàla mu dheireadh a chur. Ma tha thu airson ’s gun tòisich "
 "Tux, cha leig thu leas ach briogadh air."
 
-#: activities/bargame/Bargame.qml:377
+#: activities/bargame/Bargame.qml:380
 msgctxt "Bargame|"
 msgid "Easy"
 msgstr "Furasta"
 
-#: activities/bargame/Bargame.qml:378
+#: activities/bargame/Bargame.qml:381
 msgctxt "Bargame|"
 msgid "Medium"
 msgstr "Meadhanach"
 
-#: activities/bargame/Bargame.qml:379
+#: activities/bargame/Bargame.qml:382
 msgctxt "Bargame|"
 msgid "Difficult"
 msgstr "Doirbh"
 
-#: activities/bargame/Bargame.qml:390
+#: activities/bargame/Bargame.qml:393
 msgctxt "Bargame|"
 msgid "Select your difficulty"
 msgstr "Tagh ìre na duilghe"
