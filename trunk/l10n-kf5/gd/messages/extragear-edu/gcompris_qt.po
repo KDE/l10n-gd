@@ -8214,7 +8214,7 @@ msgstr ""
 
 #: activities/gnumch-equality/WarnMonster.qml:41
 msgctxt "WarnMonster|"
-msgid "Be careful, a troggle !"
+msgid "Be careful, a troggle!"
 msgstr ""
 
 #. Activity title
