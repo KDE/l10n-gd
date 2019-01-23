@@ -3,15 +3,46 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gcompris_qt\\n\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org/enter_bug.cgi?product=gcompris\n"
-"POT-Creation-Date: 2019-01-21 20:56+0000\n"
+"POT-Creation-Date: 2018-11-26 01:27+0000\n"
 "PO-Revision-Date: 2019-01-21 20:56+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
-"\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"\n"
+"\n"
+
+#. otherChapter / otherLesson / alphabet
+#. https://gcompris.net/incoming/lang/words_by_section.html#alphabet
+msgctxt "alphabet.ogg"
+msgid "alphabet"
+msgstr ""
+
+#. otherChapter / otherLesson / angel
+#. https://gcompris.net/incoming/lang/words_by_section.html#angel
+#, fuzzy
+#| msgctxt "orange.ogg"
+#| msgid "orange"
+msgctxt "angel.ogg"
+msgid "angel"
+msgstr "dath orains"
+
+#. otherChapter / otherLesson / behind
+#. https://gcompris.net/incoming/lang/words_by_section.html#behind
+msgctxt "behind.ogg"
+msgid "behind"
+msgstr ""
+
+#. otherChapter / otherLesson / bit
+#. https://gcompris.net/incoming/lang/words_by_section.html#bit
+#, fuzzy
+#| msgctxt "bait.ogg"
+#| msgid "bait"
+msgctxt "bit.ogg"
+msgid "bit"
+msgstr "baoit bheò"
 
 #. otherChapter / otherLesson / bone
 #. https://gcompris.net/incoming/lang/words_by_section.html#bone
@@ -42,6 +73,372 @@ msgstr ""
 msgctxt "chores.ogg"
 msgid "chores"
 msgstr ""
+
+#. otherChapter / otherLesson / christmas
+#. https://gcompris.net/incoming/lang/words_by_section.html#christmas
+msgctxt "christmas.ogg"
+msgid "christmas"
+msgstr ""
+
+#. otherChapter / otherLesson / craft
+#. https://gcompris.net/incoming/lang/words_by_section.html#craft
+msgctxt "craft.ogg"
+msgid "craft"
+msgstr ""
+
+#. otherChapter / otherLesson / dot
+#. https://gcompris.net/incoming/lang/words_by_section.html#dot
+#, fuzzy
+#| msgctxt "hot.ogg"
+#| msgid "hot"
+msgctxt "dot.ogg"
+msgid "dot"
+msgstr "teth"
+
+#. otherChapter / otherLesson / engine
+#. https://gcompris.net/incoming/lang/words_by_section.html#engine
+msgctxt "engine.ogg"
+msgid "engine"
+msgstr ""
+
+#. otherChapter / otherLesson / fairy
+#. https://gcompris.net/incoming/lang/words_by_section.html#fairy
+#, fuzzy
+#| msgctxt "fair.ogg"
+#| msgid "fair"
+msgctxt "fairy.ogg"
+msgid "fairy"
+msgstr "faidhir bheag"
+
+#. otherChapter / otherLesson / flat
+#. https://gcompris.net/incoming/lang/words_by_section.html#flat
+msgctxt "flat.ogg"
+msgid "flat"
+msgstr ""
+
+#. otherChapter / otherLesson / front
+#. https://gcompris.net/incoming/lang/words_by_section.html#front
+msgctxt "front.ogg"
+msgid "front"
+msgstr ""
+
+#. otherChapter / otherLesson / gnome
+#. https://gcompris.net/incoming/lang/words_by_section.html#gnome
+msgctxt "gnome.ogg"
+msgid "gnome"
+msgstr ""
+
+#. otherChapter / otherLesson / guignol
+#. https://gcompris.net/incoming/lang/words_by_section.html#guignol
+msgctxt "guignol.ogg"
+msgid "guignol"
+msgstr ""
+
+#. otherChapter / otherLesson / half
+#. https://gcompris.net/incoming/lang/words_by_section.html#half
+msgctxt "half.ogg"
+msgid "half"
+msgstr ""
+
+#. otherChapter / otherLesson / king
+#. https://gcompris.net/incoming/lang/words_by_section.html#king
+msgctxt "king.ogg"
+msgid "king"
+msgstr ""
+
+#. otherChapter / otherLesson / knight
+#. https://gcompris.net/incoming/lang/words_by_section.html#knight
+#, fuzzy
+#| msgctxt "night.ogg"
+#| msgid "night"
+msgctxt "knight.ogg"
+msgid "knight"
+msgstr "oidhche dhorch"
+
+#. otherChapter / otherLesson / lad
+#. https://gcompris.net/incoming/lang/words_by_section.html#lad
+#, fuzzy
+#| msgctxt "land.ogg"
+#| msgid "land"
+msgctxt "lad.ogg"
+msgid "lad"
+msgstr "talamh fliuch"
+
+#. otherChapter / otherLesson / left
+#. https://gcompris.net/incoming/lang/words_by_section.html#left
+msgctxt "left.ogg"
+msgid "left"
+msgstr ""
+
+#. otherChapter / otherLesson / light
+#. https://gcompris.net/incoming/lang/words_by_section.html#light
+#, fuzzy
+#| msgctxt "U0038.ogg"
+#| msgid "eight"
+msgctxt "light.ogg"
+msgid "light"
+msgstr "ochd"
+
+#. otherChapter / otherLesson / line
+#. https://gcompris.net/incoming/lang/words_by_section.html#line
+msgctxt "line.ogg"
+msgid "line"
+msgstr ""
+
+#. otherChapter / otherLesson / link
+#. https://gcompris.net/incoming/lang/words_by_section.html#link
+#, fuzzy
+#| msgctxt "blink.ogg"
+#| msgid "to blink"
+msgctxt "link.ogg"
+msgid "link"
+msgstr "priobadh na sùla"
+
+#. otherChapter / otherLesson / movie
+#. https://gcompris.net/incoming/lang/words_by_section.html#movie
+msgctxt "movie.ogg"
+msgid "movie"
+msgstr ""
+
+#. otherChapter / otherLesson / music
+#. https://gcompris.net/incoming/lang/words_by_section.html#music
+msgctxt "music.ogg"
+msgid "music"
+msgstr ""
+
+#. otherChapter / otherLesson / number
+#. https://gcompris.net/incoming/lang/words_by_section.html#number
+#, fuzzy
+#| msgctxt "cucumber.ogg"
+#| msgid "cucumber"
+msgctxt "number.ogg"
+msgid "number"
+msgstr "cularan beag"
+
+#. otherChapter / otherLesson / on
+#. https://gcompris.net/incoming/lang/words_by_section.html#on
+#, fuzzy
+#| msgctxt "U0031.ogg"
+#| msgid "one"
+msgctxt "on.ogg"
+msgid "on"
+msgstr "aon"
+
+#. otherChapter / otherLesson / pedal
+#. https://gcompris.net/incoming/lang/words_by_section.html#pedal
+msgctxt "pedal.ogg"
+msgid "pedal"
+msgstr ""
+
+#. otherChapter / otherLesson / pirate
+#. https://gcompris.net/incoming/lang/words_by_section.html#pirate
+msgctxt "pirate.ogg"
+msgid "pirate"
+msgstr ""
+
+#. otherChapter / otherLesson / pope
+#. https://gcompris.net/incoming/lang/words_by_section.html#pope
+msgctxt "pope.ogg"
+msgid "pope"
+msgstr ""
+
+#. otherChapter / otherLesson / porthole
+#. https://gcompris.net/incoming/lang/words_by_section.html#porthole
+#, fuzzy
+#| msgctxt "hole.ogg"
+#| msgid "hole"
+msgctxt "porthole.ogg"
+msgid "porthole"
+msgstr "toll beag"
+
+#. otherChapter / otherLesson / president
+#. https://gcompris.net/incoming/lang/words_by_section.html#president
+msgctxt "president.ogg"
+msgid "president"
+msgstr ""
+
+#. otherChapter / otherLesson / price
+#. https://gcompris.net/incoming/lang/words_by_section.html#price
+#, fuzzy
+#| msgctxt "rice.ogg"
+#| msgid "rice"
+msgctxt "price.ogg"
+msgid "price"
+msgstr "rìs geal"
+
+#. otherChapter / otherLesson / prince
+#. https://gcompris.net/incoming/lang/words_by_section.html#prince
+#, fuzzy
+#| msgctxt "sprinkle.ogg"
+#| msgid "sprinkle"
+msgctxt "prince.ogg"
+msgid "prince"
+msgstr "craiteachan beag"
+
+#. otherChapter / otherLesson / princess
+#. https://gcompris.net/incoming/lang/words_by_section.html#princess
+#, fuzzy
+#| msgctxt "sprinkle.ogg"
+#| msgid "sprinkle"
+msgctxt "princess.ogg"
+msgid "princess"
+msgstr "craiteachan beag"
+
+#. otherChapter / otherLesson / prisoner
+#. https://gcompris.net/incoming/lang/words_by_section.html#prisoner
+msgctxt "prisoner.ogg"
+msgid "prisoner"
+msgstr ""
+
+#. otherChapter / otherLesson / queen
+#. https://gcompris.net/incoming/lang/words_by_section.html#queen
+msgctxt "queen.ogg"
+msgid "queen"
+msgstr ""
+
+#. otherChapter / otherLesson / question
+#. https://gcompris.net/incoming/lang/words_by_section.html#question
+msgctxt "question.ogg"
+msgid "question"
+msgstr ""
+
+#. otherChapter / otherLesson / quiz
+#. https://gcompris.net/incoming/lang/words_by_section.html#quiz
+msgctxt "quiz.ogg"
+msgid "quiz"
+msgstr ""
+
+#. otherChapter / otherLesson / right
+#. https://gcompris.net/incoming/lang/words_by_section.html#right
+#, fuzzy
+#| msgctxt "bright.ogg"
+#| msgid "bright"
+msgctxt "right.ogg"
+msgid "right"
+msgstr "rionnag shoilleir"
+
+#. otherChapter / otherLesson / rocket
+#. https://gcompris.net/incoming/lang/words_by_section.html#rocket
+#, fuzzy
+#| msgctxt "rock.ogg"
+#| msgid "rock"
+msgctxt "rocket.ogg"
+msgid "rocket"
+msgstr "clach bheag"
+
+#. otherChapter / otherLesson / round
+#. https://gcompris.net/incoming/lang/words_by_section.html#round
+#, fuzzy
+#| msgctxt "ground.ogg"
+#| msgid "ground"
+msgctxt "round.ogg"
+msgid "round"
+msgstr "geadag bheag"
+
+#. otherChapter / otherLesson / science
+#. https://gcompris.net/incoming/lang/words_by_section.html#science
+msgctxt "science.ogg"
+msgid "science"
+msgstr ""
+
+#. otherChapter / otherLesson / splatter
+#. https://gcompris.net/incoming/lang/words_by_section.html#splatter
+#, fuzzy
+#| msgctxt "plate.ogg"
+#| msgid "plate"
+msgctxt "splatter.ogg"
+msgid "splatter"
+msgstr "truinnsear mòr"
+
+#. otherChapter / otherLesson / spot
+#. https://gcompris.net/incoming/lang/words_by_section.html#spot
+msgctxt "spot.ogg"
+msgid "spot"
+msgstr ""
+
+#. otherChapter / otherLesson / square
+#. https://gcompris.net/incoming/lang/words_by_section.html#square
+#, fuzzy
+#| msgctxt "squash.ogg"
+#| msgid "squash"
+msgctxt "square.ogg"
+msgid "square"
+msgstr "peapag chrom"
+
+#. otherChapter / otherLesson / stand
+#. https://gcompris.net/incoming/lang/words_by_section.html#stand
+msgctxt "stand.ogg"
+msgid "stand"
+msgstr ""
+
+#. otherChapter / otherLesson / stripe
+#. https://gcompris.net/incoming/lang/words_by_section.html#stripe
+#, fuzzy
+#| msgctxt "string.ogg"
+#| msgid "string"
+msgctxt "stripe.ogg"
+msgid "stripe"
+msgstr "sreang fhada"
+
+#. otherChapter / otherLesson / student
+#. https://gcompris.net/incoming/lang/words_by_section.html#student
+msgctxt "student.ogg"
+msgid "student"
+msgstr ""
+
+#. otherChapter / otherLesson / text
+#. https://gcompris.net/incoming/lang/words_by_section.html#text
+msgctxt "text.ogg"
+msgid "text"
+msgstr ""
+
+#. otherChapter / otherLesson / thief
+#. https://gcompris.net/incoming/lang/words_by_section.html#thief
+msgctxt "thief.ogg"
+msgid "thief"
+msgstr ""
+
+#. otherChapter / otherLesson / triangle
+#. https://gcompris.net/incoming/lang/words_by_section.html#triangle
+msgctxt "triangle.ogg"
+msgid "triangle"
+msgstr ""
+
+#. otherChapter / otherLesson / trip
+#. https://gcompris.net/incoming/lang/words_by_section.html#trip
+msgctxt "trip.ogg"
+msgid "trip"
+msgstr ""
+
+#. otherChapter / otherLesson / tune
+#. https://gcompris.net/incoming/lang/words_by_section.html#tune
+msgctxt "tune.ogg"
+msgid "tune"
+msgstr ""
+
+#. otherChapter / otherLesson / under
+#. https://gcompris.net/incoming/lang/words_by_section.html#under
+msgctxt "under.ogg"
+msgid "under"
+msgstr ""
+
+#. otherChapter / otherLesson / vowel
+#. https://gcompris.net/incoming/lang/words_by_section.html#vowel
+#, fuzzy
+#| msgctxt "towel.ogg"
+#| msgid "towel"
+msgctxt "vowel.ogg"
+msgid "vowel"
+msgstr "searbhadair buidhe"
+
+#. otherChapter / otherLesson / weight
+#. https://gcompris.net/incoming/lang/words_by_section.html#weight
+#, fuzzy
+#| msgctxt "U0038.ogg"
+#| msgid "eight"
+msgctxt "weight.ogg"
+msgid "weight"
+msgstr "ochd"
 
 #. otherChapter / otherLesson / word
 #. https://gcompris.net/incoming/lang/words_by_section.html#word
