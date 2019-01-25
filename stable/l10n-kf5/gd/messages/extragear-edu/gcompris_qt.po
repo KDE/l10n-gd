@@ -1390,7 +1390,7 @@ msgstr ""
 #. Help goal
 #: activities/binary_bulb/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
-msgid "To get familiar with binary number system"
+msgid "To get familiar with the binary number system"
 msgstr ""
 
 #. Help prerequisite
@@ -1435,7 +1435,7 @@ msgstr ""
 #: activities/binary_bulb/binary_bulb.js:47
 msgctxt "binary_bulb|"
 msgid ""
-"Each bit had a progressive value, corresponding to the powers of 2, "
+"Each bit adds a progressive value, corresponding to the powers of 2, "
 "ascending from right to left: bit 1 → 2⁰=1 , bit 2 → 2¹=2 , bit 3 → 2²=4 , "
 "bit 4 → 2³=8 , bit 5 → 2⁴=16 , bit 6 → 2⁵=32 , bit 7 → 2⁶=64 , bit 8 → "
 "2⁷=128."
@@ -2201,8 +2201,11 @@ msgid "Colors"
 msgstr "Dathan"
 
 #: activities/categorization/resource/board/category_fishes.qml:30
+#, fuzzy
+#| msgctxt "category_fishes|"
+#| msgid "fishes"
 msgctxt "category_fishes|"
-msgid "fishes"
+msgid "Fishes"
 msgstr "Èisg"
 
 #: activities/categorization/resource/board/category_fishes.qml:34
@@ -2380,8 +2383,11 @@ msgstr ""
 "Cuir na h-ÀIREAMHAN air an taobh deas agus gach rud eile air an taobh chlì"
 
 #: activities/categorization/resource/board/category_odd_even.qml:31
+#, fuzzy
+#| msgctxt "category_odd_even|"
+#| msgid "odd even numbers"
 msgctxt "category_odd_even|"
-msgid "odd even numbers"
+msgid "Odd even numbers"
 msgstr "Àireamhan corra ’s cothromach"
 
 #: activities/categorization/resource/board/category_odd_even.qml:35
@@ -2630,9 +2636,14 @@ msgstr ""
 #. Help goal
 #: activities/checkers/ActivityInfo.qml:32
 #: activities/checkers_2players/ActivityInfo.qml:32
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Capture all the pieces of your opponent before your opponent capture all "
+#| "of yours."
 msgctxt "ActivityInfo|"
 msgid ""
-"Capture all the pieces of your opponent before your opponent capture all of "
+"Capture all the pieces of your opponent before your opponent captures all of "
 "yours."
 msgstr "Glac gach pìos aig an duine eile mus glac iad na pìosan agad-sa."
 
@@ -5950,11 +5961,9 @@ msgstr "Deàguar"
 #: activities/explore_world_animals/resource/board/board1.qml:31
 msgctxt "board1|"
 msgid ""
-"Jaguars are named after the Native American word meaning 'he who kills with "
-"one leap' because they like to climb trees to attack their prey."
+"The jaguar's jaw is well developed. Because of this, it has the strongest "
+"bite of all the felines, being able to break even a tortoise shell!"
 msgstr ""
-"Chaidh deàguaran ainmeachadh a-rèir facal nan tùsanach Aimeireaganach sa "
-"bheil a’ chiall “am fear a mharbhas le aon leum”"
 
 #: activities/explore_world_animals/resource/board/board1.qml:41
 #: activities/explore_world_animals/resource/board/board1.qml:44
@@ -8280,7 +8289,7 @@ msgstr "Cleachdaich cur ris, iomadachadh, roinneadh is toirt air falbh."
 #: activities/gnumch-equality/ActivityInfo.qml:38
 #: activities/gnumch-factors/ActivityInfo.qml:39
 #: activities/gnumch-inequality/ActivityInfo.qml:37
-#: activities/gnumch-multiples/ActivityInfo.qml:39
+#: activities/gnumch-multiples/ActivityInfo.qml:38
 #: activities/gnumch-primes/ActivityInfo.qml:39
 msgctxt "ActivityInfo|"
 msgid ""
@@ -8300,7 +8309,7 @@ msgstr ""
 #: activities/gnumch-equality/ActivityInfo.qml:40
 #: activities/gnumch-factors/ActivityInfo.qml:41
 #: activities/gnumch-inequality/ActivityInfo.qml:39
-#: activities/gnumch-multiples/ActivityInfo.qml:41
+#: activities/gnumch-multiples/ActivityInfo.qml:40
 #: activities/gnumch-primes/ActivityInfo.qml:41
 msgctxt "ActivityInfo|"
 msgid "Take care to avoid the Troggles."
@@ -8386,8 +8395,11 @@ msgid "Press \"Return\" or click on me to continue."
 msgstr "Brùth “Return” no briog orm-sa a leantainn air adhart."
 
 #: activities/gnumch-equality/WarnMonster.qml:41
+#, fuzzy
+#| msgctxt "WarnMonster|"
+#| msgid "Be careful, a troggle !"
 msgctxt "WarnMonster|"
-msgid "Be careful, a troggle !"
+msgid "Be careful, a troggle!"
 msgstr "An aire, bòcan!"
 
 #. Activity title
@@ -8413,7 +8425,7 @@ msgstr ""
 
 #. Help goal
 #: activities/gnumch-factors/ActivityInfo.qml:33
-#: activities/gnumch-multiples/ActivityInfo.qml:33
+#: activities/gnumch-multiples/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
 msgid "Learn about multiples and factors."
 msgstr "Ionnsaich mu iomadan is factaran."
@@ -8454,8 +8466,8 @@ msgstr "Neo-ionnannachd Gnumch"
 #| "number at the top of the screen."
 msgctxt "ActivityInfo|"
 msgid ""
-"Guide the Number Muncher to the all the expressions that do not equal the "
-"number at the bottom of the screen."
+"Guide the Number Muncher to all the expressions that do not equal the number "
+"at the bottom of the screen."
 msgstr ""
 "Stiùirich itheadair nan àireamh dha na h-uile eas-preisean nach ionnan ris "
 "an àireamh air barr na sgrìn."
@@ -8467,13 +8479,13 @@ msgid "Practice addition, subtraction, multiplication and division."
 msgstr "Cleachdaich cur ris, toirt air falbh, iomadachadh is roinneadh."
 
 #. Activity title
-#: activities/gnumch-multiples/ActivityInfo.qml:28
+#: activities/gnumch-multiples/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Gnumch Multiples"
 msgstr "Iomadan Gnumch"
 
 #. Help title
-#: activities/gnumch-multiples/ActivityInfo.qml:30
+#: activities/gnumch-multiples/ActivityInfo.qml:29
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
@@ -8488,7 +8500,7 @@ msgstr ""
 "na sgrìn."
 
 #. Help manual
-#: activities/gnumch-multiples/ActivityInfo.qml:37
+#: activities/gnumch-multiples/ActivityInfo.qml:36
 msgctxt "ActivityInfo|"
 msgid ""
 "The multiples of a number are all the numbers that are equal to the original "
@@ -9914,6 +9926,22 @@ msgctxt "ActivityInfo|"
 msgid "spellings, letter recognition"
 msgstr "litreachadh, aithneachadh litrichean"
 
+#. Help manual
+#: activities/letter-in-word/ActivityInfo.qml:36
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "A letter is written and/or spoken. Some words are displayed, the children "
+#| "must find the word or the words in which this letter appears."
+msgctxt "ActivityInfo|"
+msgid ""
+"A letter is displayed on the flag attached to the plane, select all the "
+"words or the objects in which the letter appears and then press OK."
+msgstr ""
+"Thèid litir a sgrìobhadh no a ràdh. Thèid cuid a dh’fhaclan a thaisbeanadh "
+"agus feumaidh a’ chlann am facal no na faclan a lorg anns a bheil an litir "
+"ud."
+
 #: activities/letter-in-word/LetterInWord.qml:130
 msgctxt "LetterInWord|"
 msgid "All words"
@@ -10334,7 +10362,7 @@ msgstr ""
 "an ìomhaigheag “casruisgte / brògan spòrs” san oisean clì air barr na sgrìn "
 "gus am modh-ruith-gu-luath a thoglachadh."
 
-#: activities/maze/Maze.qml:325
+#: activities/maze/Maze.qml:324
 msgctxt "Maze|"
 msgid ""
 "Look at your position, then switch back to invisible mode to continue your "
@@ -10731,7 +10759,7 @@ msgstr "Geama cuimhne cuir ris an aghaidh Tux"
 msgctxt "ActivityInfo|"
 msgid ""
 "Turn the cards over to find two numbers which add up the same, until all the "
-"cards are gone. Tux will do the same. You have to beat it !"
+"cards are gone. Tux will do the same. You have to beat it!"
 msgstr ""
 "Thoir car air dà cairt gus an dèan na tha air an dàrna cairt na tha air a’ "
 "chairt eile ’s tu a’ cur àireamhan ri chèile. Nì Tux an aon rud is feumaidh "
@@ -12118,24 +12146,28 @@ msgstr ""
 "Cluich an aghaidh caraid. Cuir sìos naoidh pìosan an toiseach agus gluais "
 "pìosan an uairsin, neach mu seach."
 
-#: activities/note_names/ActivityInfo.qml:29
+#. Activity title
+#: activities/note_names/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Name that Note"
 msgstr ""
 
-#: activities/note_names/ActivityInfo.qml:30
+#. Help title
+#: activities/note_names/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
 msgid "Learn the names of the notes, in bass and treble clef."
 msgstr ""
 
-#: activities/note_names/ActivityInfo.qml:32
+#. Help goal
+#: activities/note_names/ActivityInfo.qml:35
 msgctxt "ActivityInfo|"
 msgid ""
 "To develop a good understanding of note position and naming convention. To "
 "prepare for the piano player and composition activity."
 msgstr ""
 
-#: activities/note_names/ActivityInfo.qml:34
+#. Help manual
+#: activities/note_names/ActivityInfo.qml:39
 msgctxt "ActivityInfo|"
 msgid "Identify the notes correctly and score a 100% to complete a level."
 msgstr ""
@@ -12312,8 +12344,11 @@ msgid "Wassily Kandinsky, Composition VIII - 1923"
 msgstr "Wassily Kandinsky, Aiste VIII – 1923"
 
 #: activities/paintings/resource/board/board1_0.qml:25
+#, fuzzy
+#| msgctxt "board1_0|"
+#| msgid " Pierre-Auguste Renoir, Le Moulin de la Galette - 1876"
 msgctxt "board1_0|"
-msgid " Pierre-Auguste Renoir, Le Moulin de la Galette - 1876"
+msgid "Pierre-Auguste Renoir, Bal du moulin de la Galette - 1876"
 msgstr "Pierre-Auguste Renoir, Muilleann Galette – 1876"
 
 #: activities/paintings/resource/board/board20_0.qml:25
@@ -12465,12 +12500,14 @@ msgctxt "PhotoHunter|"
 msgid "Click on the differences between the two images!"
 msgstr "Briog air na h-eadar-dhealachaidhean eadar an dà dhealbh!"
 
-#: activities/piano_composition/ActivityInfo.qml:27
+#. Activity title
+#: activities/piano_composition/ActivityInfo.qml:28
 msgctxt "ActivityInfo|"
 msgid "Piano Composition"
 msgstr ""
 
-#: activities/piano_composition/ActivityInfo.qml:28
+#. Help title
+#: activities/piano_composition/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid ""
 "An activity to learn how the piano keyboard works, how notes are written on "
@@ -12478,7 +12515,8 @@ msgid ""
 "work."
 msgstr ""
 
-#: activities/piano_composition/ActivityInfo.qml:29
+#. Help goal
+#: activities/piano_composition/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
 msgid ""
 "Develop an understanding of music composition, and increase interest in "
@@ -12490,14 +12528,16 @@ msgid ""
 "music notation tool."
 msgstr ""
 
-#: activities/piano_composition/ActivityInfo.qml:30
+#. Help prerequisite
+#: activities/piano_composition/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
 msgid ""
 "Familiarity with note naming conventions, note-names activity useful to "
 "learn this notation."
 msgstr ""
 
-#: activities/piano_composition/ActivityInfo.qml:31
+#. Help manual
+#: activities/piano_composition/ActivityInfo.qml:36
 msgctxt "ActivityInfo|"
 msgid ""
 "This activity has several levels, each level adds a new functionality to the "
@@ -12527,7 +12567,7 @@ msgid ""
 "octave.\n"
 msgstr ""
 
-#: activities/piano_composition/ActivityInfo.qml:50
+#: activities/piano_composition/ActivityInfo.qml:55
 #: activities/play_piano/ActivityInfo.qml:41
 msgctxt "ActivityInfo|"
 msgid "The synthesizer original code is https://github.com/vsr83/miniSynth"
@@ -12639,11 +12679,12 @@ msgid "Children's Song from Brazil"
 msgstr "Siorrachdan Bhraisil"
 
 #: activities/piano_composition/melodies.js:92
+#: activities/piano_composition/melodies.js:106
 #, fuzzy
 #| msgctxt "board5_0|"
 #| msgid "Germany"
 msgctxt "melodies|"
-msgid "German"
+msgid "Germany"
 msgstr "A’ Ghearmailt"
 
 #: activities/piano_composition/melodies.js:99
@@ -12656,14 +12697,6 @@ msgstr "A’ Ghearmailt"
 msgctxt "melodies|"
 msgid "France"
 msgstr "An Fhraing"
-
-#: activities/piano_composition/melodies.js:106
-#, fuzzy
-#| msgctxt "board5_0|"
-#| msgid "Germany"
-msgctxt "melodies|"
-msgid "Germany"
-msgstr "A’ Ghearmailt"
 
 #: activities/piano_composition/melodies.js:120
 #: activities/piano_composition/melodies.js:127
@@ -12858,12 +12891,12 @@ msgstr ""
 
 #: activities/piano_composition/piano_composition.js:42
 msgctxt "piano_composition|"
-msgid "The black keys are sharp and flat keys, have a # sign."
+msgid "The black keys are sharp and flat keys. Sharp notes have a ♯ sign."
 msgstr ""
 
 #: activities/piano_composition/piano_composition.js:45
 msgctxt "piano_composition|"
-msgid "Each black key has two names: flat and sharp. Flat notes have b sign."
+msgid "Each black key has two names: flat and sharp. Flat notes have ♭ sign."
 msgstr ""
 
 #: activities/piano_composition/piano_composition.js:48
@@ -13015,14 +13048,14 @@ msgctxt "PianoOctaveKeyboard|"
 msgid "E%1"
 msgstr ""
 
-#. Translators, C#, D#, F#, G#, and A# are the note notations in English musical notation system. The numbers in the arguments represents the octave number of the note. For instance, C#4 is a C# note in the 4th octave.
+#. Translators, C♯, D♯, F♯, G♯, and A♯ are the note notations in English musical notation system. The numbers in the arguments represents the octave number of the note. For instance, C♯4 is a C♯ note in the 4th octave.
 #: activities/piano_composition/PianoOctaveKeyboard.qml:92
 #: activities/piano_composition/PianoOctaveKeyboard.qml:97
 #: activities/piano_composition/PianoOctaveKeyboard.qml:102
 #: activities/piano_composition/PianoOctaveKeyboard.qml:107
 #, qt-format
 msgctxt "PianoOctaveKeyboard|"
-msgid "C#%1"
+msgid "C♯%1"
 msgstr ""
 
 #: activities/piano_composition/PianoOctaveKeyboard.qml:93
@@ -13031,7 +13064,7 @@ msgstr ""
 #: activities/piano_composition/PianoOctaveKeyboard.qml:108
 #, qt-format
 msgctxt "PianoOctaveKeyboard|"
-msgid "D#%1"
+msgid "D♯%1"
 msgstr ""
 
 #: activities/piano_composition/PianoOctaveKeyboard.qml:94
@@ -13039,7 +13072,7 @@ msgstr ""
 #: activities/piano_composition/PianoOctaveKeyboard.qml:104
 #, qt-format
 msgctxt "PianoOctaveKeyboard|"
-msgid "F#%1"
+msgid "F♯%1"
 msgstr ""
 
 #: activities/piano_composition/PianoOctaveKeyboard.qml:95
@@ -13047,7 +13080,7 @@ msgstr ""
 #: activities/piano_composition/PianoOctaveKeyboard.qml:105
 #, qt-format
 msgctxt "PianoOctaveKeyboard|"
-msgid "G#%1"
+msgid "G♯%1"
 msgstr ""
 
 #: activities/piano_composition/PianoOctaveKeyboard.qml:96
@@ -13055,17 +13088,17 @@ msgstr ""
 #: activities/piano_composition/PianoOctaveKeyboard.qml:106
 #, qt-format
 msgctxt "PianoOctaveKeyboard|"
-msgid "A#%1"
+msgid "A♯%1"
 msgstr ""
 
-#. Translators, Db, Eb, Gb, Ab, Bb are the note notations in English musical notation system. The numbers in the arguments represents the octave number of the note. For instance, Db4 is a Db note in the 4th octave.
+#. Translators, D♭, E♭, G♭, A♭, B♭ are the note notations in English musical notation system. The numbers in the arguments represents the octave number of the note. For instance, D♭4 is a D♭ note in the 4th octave.
 #: activities/piano_composition/PianoOctaveKeyboard.qml:113
 #: activities/piano_composition/PianoOctaveKeyboard.qml:118
 #: activities/piano_composition/PianoOctaveKeyboard.qml:123
 #: activities/piano_composition/PianoOctaveKeyboard.qml:128
 #, qt-format
 msgctxt "PianoOctaveKeyboard|"
-msgid "Db%1"
+msgid "D♭%1"
 msgstr ""
 
 #: activities/piano_composition/PianoOctaveKeyboard.qml:114
@@ -13074,7 +13107,7 @@ msgstr ""
 #: activities/piano_composition/PianoOctaveKeyboard.qml:129
 #, qt-format
 msgctxt "PianoOctaveKeyboard|"
-msgid "Eb%1"
+msgid "E♭%1"
 msgstr ""
 
 #: activities/piano_composition/PianoOctaveKeyboard.qml:115
@@ -13082,7 +13115,7 @@ msgstr ""
 #: activities/piano_composition/PianoOctaveKeyboard.qml:125
 #, qt-format
 msgctxt "PianoOctaveKeyboard|"
-msgid "Gb%1"
+msgid "G♭%1"
 msgstr ""
 
 #: activities/piano_composition/PianoOctaveKeyboard.qml:116
@@ -13090,7 +13123,7 @@ msgstr ""
 #: activities/piano_composition/PianoOctaveKeyboard.qml:126
 #, qt-format
 msgctxt "PianoOctaveKeyboard|"
-msgid "Ab%1"
+msgid "A♭%1"
 msgstr ""
 
 #: activities/piano_composition/PianoOctaveKeyboard.qml:117
@@ -13098,7 +13131,7 @@ msgstr ""
 #: activities/piano_composition/PianoOctaveKeyboard.qml:127
 #, qt-format
 msgctxt "PianoOctaveKeyboard|"
-msgid "Bb%1"
+msgid "B♭%1"
 msgstr ""
 
 #. Activity title
@@ -13159,7 +13192,7 @@ msgid ""
 "treble clef to practice and levels 6-10 will offer bass clef."
 msgstr ""
 
-#: activities/play_piano/PlayPiano.qml:187
+#: activities/play_piano/PlayPiano.qml:186
 #, fuzzy
 #| msgctxt "board1|"
 #| msgid "Click on the location that matches the text."
@@ -13167,7 +13200,7 @@ msgctxt "PlayPiano|"
 msgid "Click on the piano keys that match the given notes."
 msgstr "Briog air an àite a fhreagras ris an teacsa."
 
-#: activities/play_piano/PlayPiano.qml:267
+#: activities/play_piano/PlayPiano.qml:266
 #, fuzzy
 #| msgctxt "Share|"
 #| msgid "Display candy counter"
@@ -13175,7 +13208,7 @@ msgctxt "PlayPiano|"
 msgid "Display colored notes."
 msgstr "Seall cunntair nan siùcaran"
 
-#: activities/play_piano/PlayPiano.qml:280
+#: activities/play_piano/PlayPiano.qml:279
 msgctxt "PlayPiano|"
 msgid "Display colorless notes."
 msgstr ""
@@ -13229,7 +13262,8 @@ msgid ""
 "the rhythm correctly."
 msgstr ""
 
-#: activities/railroad/ActivityInfo.qml:27
+#. Activity title
+#: activities/railroad/ActivityInfo.qml:28
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Ear-training activity"
@@ -13237,14 +13271,16 @@ msgctxt "ActivityInfo|"
 msgid "Railroad activity"
 msgstr "Cleas trèanadh nan cluas"
 
-#: activities/railroad/ActivityInfo.qml:28
+#. Help title
+#: activities/railroad/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid ""
 "Rebuild the displayed train at the top of the screen by dragging the "
 "appropriate carriages and locomotive. Deselect an item by dragging it down."
 msgstr ""
 
-#: activities/railroad/ActivityInfo.qml:30
+#. Help goal
+#: activities/railroad/ActivityInfo.qml:33
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Keyboard training"
@@ -13252,7 +13288,8 @@ msgctxt "ActivityInfo|"
 msgid "Memory training"
 msgstr "Cleachdadh a' mheur-chlàir"
 
-#: activities/railroad/ActivityInfo.qml:32
+#. Help manual
+#: activities/railroad/ActivityInfo.qml:37
 msgctxt "ActivityInfo|"
 msgid ""
 "A train - a locomotive and carriage(s) - is displayed at the top of the main "
@@ -13261,34 +13298,34 @@ msgid ""
 "<br><br>"
 msgstr ""
 
-#: activities/railroad/ActivityInfo.qml:33
+#: activities/railroad/ActivityInfo.qml:38
 msgctxt "ActivityInfo|"
 msgid "<b>Keyboard Controls:</b><br><br>"
 msgstr ""
 
-#: activities/railroad/ActivityInfo.qml:34
+#: activities/railroad/ActivityInfo.qml:39
 msgctxt "ActivityInfo|"
 msgid "1. Use arrow keys to move in the answer or sample zone.<br>"
 msgstr ""
 
-#: activities/railroad/ActivityInfo.qml:35
+#: activities/railroad/ActivityInfo.qml:40
 msgctxt "ActivityInfo|"
 msgid "2. Use Enter or Return key to submit the answers.<br>"
 msgstr ""
 
-#: activities/railroad/ActivityInfo.qml:36
+#: activities/railroad/ActivityInfo.qml:41
 msgctxt "ActivityInfo|"
 msgid "3. Use Space key to swap two wagons or locomotives in answer zone.<br>"
 msgstr ""
 
-#: activities/railroad/ActivityInfo.qml:37
+#: activities/railroad/ActivityInfo.qml:42
 msgctxt "ActivityInfo|"
 msgid ""
 "4. Use Space key to add a wagon or locomotive from samples to answer list."
 "<br>"
 msgstr ""
 
-#: activities/railroad/ActivityInfo.qml:38
+#: activities/railroad/ActivityInfo.qml:43
 msgctxt "ActivityInfo|"
 msgid "5. Use Delete key to remove a wagon or locomotive from answer zone.<br>"
 msgstr ""
@@ -13466,9 +13503,17 @@ msgstr "Siostam dealain stèidhichte air lùths ath-nuadhachail"
 
 #. Help manual
 #: activities/renewable_energy/ActivityInfo.qml:34
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Click on different active elements : sun, cloud, dam, solar array, wind "
+#| "farm and transformers, in order to reactivate the entire electrical "
+#| "system. When the system is back up and Tux is in his home, push the light "
+#| "button for him. To win you must switch on all the consumers while all the "
+#| "producers are up. "
 msgctxt "ActivityInfo|"
 msgid ""
-"Click on different active elements : sun, cloud, dam, solar array, wind farm "
+"Click on different active elements: sun, cloud, dam, solar array, wind farm "
 "and transformers, in order to reactivate the entire electrical system. When "
 "the system is back up and Tux is in his home, push the light button for him. "
 "To win you must switch on all the consumers while all the producers are up. "
@@ -13494,9 +13539,15 @@ msgstr ""
 "air a-rithist ach am bi solas aige san taigh."
 
 #: activities/renewable_energy/RenewableEnergy.qml:165
+#, fuzzy
+#| msgctxt "RenewableEnergy|"
+#| msgid ""
+#| "Click on different active elements : sun, cloud, dam, solar array, wind "
+#| "farm and transformers, in order to reactivate the entire electrical "
+#| "system."
 msgctxt "RenewableEnergy|"
 msgid ""
-"Click on different active elements : sun, cloud, dam, solar array, wind farm "
+"Click on different active elements: sun, cloud, dam, solar array, wind farm "
 "and transformers, in order to reactivate the entire electrical system."
 msgstr ""
 "Briog air na nithean gnìomhach: a’ ghrian, neul, dama, arraigh-ghrèine, "
@@ -13522,9 +13573,20 @@ msgstr ""
 "iad riut!"
 
 #: activities/renewable_energy/RenewableEnergy.qml:192
+#, fuzzy
+#| msgctxt "RenewableEnergy|"
+#| msgid ""
+#| "It is not possible to consume more electricity than what is produced. "
+#| "This is a key limitation in the distribution of electricity, with minor "
+#| "exceptions, electrical energy cannot be stored, and therefore it must be "
+#| "generated as it is needed. A sophisticated system of control is therefore "
+#| "required to ensure electric generation very closely matches the demand. "
+#| "If supply and demand are not in balance, generation plants and "
+#| "transmission equipment can shut down which, in the worst cases, can lead "
+#| "to a major regional blackout."
 msgctxt "RenewableEnergy|"
 msgid ""
-"It is not possible to consume more electricity than what is produced. This "
+"It is not possible to consume more electricity than what is produced. There "
 "is a key limitation in the distribution of electricity, with minor "
 "exceptions, electrical energy cannot be stored, and therefore it must be "
 "generated as it is needed. A sophisticated system of control is therefore "
@@ -13598,19 +13660,19 @@ msgstr ""
 
 #: activities/reversecount/Reversecount.qml:231
 #, fuzzy
-#| msgctxt "category_numbers|"
-#| msgid "Numbers"
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw Numbers"
 msgctxt "Reversecount|"
-msgid "Numbers"
-msgstr "Àireamhan"
+msgid "Arabic numbers"
+msgstr "Tarraing àireamhan"
 
 #: activities/reversecount/Reversecount.qml:232
 #, fuzzy
-#| msgctxt "board6_0|"
-#| msgid "Romania"
+#| msgctxt "ActivityInfo|"
+#| msgid "Roman numerals"
 msgctxt "Reversecount|"
-msgid "Romans"
-msgstr "Romàinia"
+msgid "Roman numbers"
+msgstr "Àireamhan Ròmanach"
 
 #: activities/reversecount/Reversecount.qml:233
 #, fuzzy
@@ -13653,12 +13715,12 @@ msgid ""
 "\n"
 "  Examples:\n"
 "\n"
-"  2394: we got a sum of 2000 (MM), 300 (CCC), ninety (XC) and 4 units (IV), "
-"so we write this combined: MMCCCXCIV\n"
+"  2394: we got a sum of 2000 (MM), 300 (CCC), 90 (XC) and 4 units (IV), so "
+"we write this combined: MMCCCXCIV\n"
 "\n"
 "  MMMCMXLIX: we got first thousands (MMM=3000), then we got hundreds "
 "(CM=1000–100=900), then we got tens (XL=50–10=40), and at last we got units "
-"(IX=10–1=9), so we write this in the decimal system: 3949)."
+"(IX=10–1=9), so we write this in the decimal system: 3949."
 msgstr ""
 
 #: activities/roman_numerals/RomanNumerals.qml:69
@@ -13748,7 +13810,7 @@ msgstr ""
 #| "numerals."
 msgctxt "RomanNumerals|"
 msgid ""
-"Now you know the rules, you can read and write any number in roman numerals."
+"Now you know the rules, you can read and write numbers in roman numerals."
 msgstr ""
 "Tha thu eòlach air na riaghailtean a-nis agus is urrainn dhut àireamh sam "
 "bith a sgrìobhadh air nòs nan Ròmanach."
@@ -13929,8 +13991,11 @@ msgid "Enter the weight of the gift in gram: %1"
 msgstr "Cuir a-steach cuideam a’ phrèasaint ann an gramaichean: %1"
 
 #: activities/scalesboard_weight/ScalesboardWeight.qml:109
+#, fuzzy
+#| msgctxt "ScalesboardWeight|"
+#| msgid "Remember, one kilo ('kg') equals 1000 grams ('g')."
 msgctxt "ScalesboardWeight|"
-msgid "Remember, one kilo ('kg') equals 1000 grams ('g')."
+msgid "Remember, one kilogram ('kg') equals 1000 grams ('g')."
 msgstr "Cuimhnich, tha 1000 grama (“g”) ann an cileagram (“kg”)."
 
 #. Help title
@@ -14565,8 +14630,7 @@ msgstr ""
 #. Help title
 #: activities/solar_system/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
-msgid ""
-"Answer the questions presented and get a 100% correctness among the options."
+msgid "Answer the questions with a correctness of 100%."
 msgstr ""
 
 #. Help goal
@@ -14598,7 +14662,7 @@ msgstr "Sudàn"
 
 #: activities/solar_system/Dataset.js:29
 msgctxt "Dataset|"
-msgid "How large is the Sun compared to other planets in our Solar System?"
+msgid "How large is the Sun compared to the planets in our Solar System?"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:30 activities/solar_system/Dataset.js:113
@@ -14637,22 +14701,22 @@ msgstr ""
 
 #: activities/solar_system/Dataset.js:35
 msgctxt "Dataset|"
-msgid "1000 degrees celsius"
+msgid "1000 °C"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:35
 msgctxt "Dataset|"
-msgid "4500 degrees celsius"
+msgid "4500 °C"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:35
 msgctxt "Dataset|"
-msgid "5505 degrees celsius"
+msgid "5505 °C"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:35
 msgctxt "Dataset|"
-msgid "3638 degrees celsius"
+msgid "3638 °C"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:39
@@ -14754,7 +14818,7 @@ msgstr ""
 #: activities/solar_system/Dataset.js:59 activities/solar_system/Dataset.js:98
 #: activities/solar_system/Dataset.js:186
 msgctxt "Dataset|"
-msgid "The maximum temperature on Earth is 58 degrees celsius."
+msgid "The maximum temperature on Earth is 58 °C."
 msgstr ""
 
 #: activities/solar_system/Dataset.js:60 activities/solar_system/Dataset.js:143
@@ -14841,22 +14905,22 @@ msgstr ""
 
 #: activities/solar_system/Dataset.js:79 activities/solar_system/Dataset.js:245
 msgctxt "Dataset|"
-msgid "50 degrees celsius"
+msgid "50 °C"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:79 activities/solar_system/Dataset.js:196
 msgctxt "Dataset|"
-msgid "35 degrees celsius"
+msgid "35 °C"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:79
 msgctxt "Dataset|"
-msgid "427 degrees celsius"
+msgid "427 °C"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:79
 msgctxt "Dataset|"
-msgid "273 degrees celsius"
+msgid "273 °C"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:83
@@ -15039,24 +15103,24 @@ msgstr ""
 #: activities/solar_system/Dataset.js:338
 #: activities/solar_system/Dataset.js:372
 msgctxt "Dataset|"
-msgid "100 degrees celsius"
+msgid "100 °C"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:128
 #: activities/solar_system/Dataset.js:196
 msgctxt "Dataset|"
-msgid "20 degrees celsius"
+msgid "20 °C"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:128
 msgctxt "Dataset|"
-msgid "467 degrees celsius"
+msgid "467 °C"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:128
 #: activities/solar_system/Dataset.js:172
 msgctxt "Dataset|"
-msgid "45 degrees celsius"
+msgid "45 °C"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:132
@@ -15075,7 +15139,7 @@ msgstr "An talamh"
 #: activities/solar_system/Dataset.js:142
 #: activities/solar_system/Dataset.js:230
 msgctxt "Dataset|"
-msgid "The maximum temperature on Mars is 20 degrees celsius."
+msgid "The maximum temperature on Mars is 20 °C."
 msgstr ""
 
 #: activities/solar_system/Dataset.js:146
@@ -15189,13 +15253,13 @@ msgstr ""
 
 #: activities/solar_system/Dataset.js:172
 msgctxt "Dataset|"
-msgid "58 degrees celsius"
+msgid "58 °C"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:172
 #: activities/solar_system/Dataset.js:372
 msgctxt "Dataset|"
-msgid "30 degrees celsius"
+msgid "30 °C"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:176
@@ -15223,7 +15287,7 @@ msgstr ""
 
 #: activities/solar_system/Dataset.js:196
 msgctxt "Dataset|"
-msgid "60 degrees celsius"
+msgid "60 °C"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:200
@@ -15317,12 +15381,12 @@ msgstr ""
 
 #: activities/solar_system/Dataset.js:245
 msgctxt "Dataset|"
-msgid "-145 degrees celsius"
+msgid "-145 °C"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:245
 msgctxt "Dataset|"
-msgid "-180 degrees celsius"
+msgid "-180 °C"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:249
@@ -15381,7 +15445,7 @@ msgstr "DiSathairne"
 
 #: activities/solar_system/Dataset.js:269
 msgctxt "Dataset|"
-msgid "The minimum temperature on Jupiter is -145 degrees celsius."
+msgid "The minimum temperature on Jupiter is -145 °C."
 msgstr ""
 
 #: activities/solar_system/Dataset.js:270
@@ -15422,19 +15486,19 @@ msgstr ""
 #: activities/solar_system/Dataset.js:294
 #: activities/solar_system/Dataset.js:338
 msgctxt "Dataset|"
-msgid "0 degrees celsius"
+msgid "0 °C"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:294
 msgctxt "Dataset|"
-msgid "-178 degrees celsius"
+msgid "-178 °C"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:294
 #: activities/solar_system/Dataset.js:338
 #: activities/solar_system/Dataset.js:372
 msgctxt "Dataset|"
-msgid "-100 degrees celsius"
+msgid "-100 °C"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:298
@@ -15464,7 +15528,7 @@ msgstr ""
 
 #: activities/solar_system/Dataset.js:308
 msgctxt "Dataset|"
-msgid "The temperature on Saturn is -178 degrees celsius."
+msgid "The temperature on Saturn is -178 °C."
 msgstr ""
 
 #: activities/solar_system/Dataset.js:312
@@ -15549,7 +15613,7 @@ msgstr ""
 
 #: activities/solar_system/Dataset.js:338
 msgctxt "Dataset|"
-msgid "-216 degrees celsius"
+msgid "-216 °C"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:345
@@ -15559,7 +15623,7 @@ msgstr ""
 
 #: activities/solar_system/Dataset.js:347
 msgctxt "Dataset|"
-msgid "The maximum temperature on Saturn is -178 degrees celsius."
+msgid "The maximum temperature on Saturn is -178 °C."
 msgstr ""
 
 #: activities/solar_system/Dataset.js:348
@@ -15619,7 +15683,7 @@ msgstr ""
 
 #: activities/solar_system/Dataset.js:372
 msgctxt "Dataset|"
-msgid "-210 degrees celsius"
+msgid "-210 °C"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:376
@@ -15628,10 +15692,12 @@ msgid "How large is Neptune compared to other planets in the Solar System?"
 msgstr ""
 
 #: activities/solar_system/QuizScreen.qml:202
-#, qt-format
+#, fuzzy, qt-format
+#| msgctxt "LandSafe|"
+#| msgid "Acceleration: %1"
 msgctxt "QuizScreen|"
-msgid "Closeness: %1%"
-msgstr ""
+msgid "Accuracy: %1%"
+msgstr "Luathachadh: %1"
 
 #: activities/solar_system/QuizScreen.qml:242
 #, fuzzy, qt-format
@@ -15651,7 +15717,7 @@ msgstr ""
 msgctxt "QuizScreen|"
 msgid ""
 "You should score above 90% to become a Solar System expert!<br>Retry to test "
-"your skills more or train in normal mode to explore more about the Solar "
+"your skills again or train in normal mode to explore more about the Solar "
 "System."
 msgstr ""
 
@@ -16901,6 +16967,15 @@ msgctxt "GCCreationHandler|"
 msgid "%1 deleted successfully!"
 msgstr ""
 
+#: core/GCCreationHandler.qml:134 core/GCCreationHandler.qml:139
+#: core/GCCreationHandler.qml:172
+#, fuzzy
+#| msgctxt "Balancebox|"
+#| msgid "Ok"
+msgctxt "GCCreationHandler|"
+msgid "Ok"
+msgstr "Ceart ma-thà"
+
 #: core/GCCreationHandler.qml:138
 #, qt-format
 msgctxt "GCCreationHandler|"
@@ -17095,25 +17170,54 @@ msgctxt "ReadyButton|"
 msgid "I am Ready"
 msgstr "Tha mi deiseil"
 
-#: core/Tutorial.qml:119
+#: core/Tutorial.qml:118
 msgctxt "Tutorial|"
 msgid "Previous"
 msgstr "Air ais"
 
-#: core/Tutorial.qml:139
+#: core/Tutorial.qml:138
 msgctxt "Tutorial|"
 msgid "Next"
 msgstr "Air adhart"
 
-#: core/Tutorial.qml:158
+#: core/Tutorial.qml:157
 msgctxt "Tutorial|"
 msgid "Skip"
 msgstr "Gearr leum"
 
-#: core/Tutorial.qml:158
+#: core/Tutorial.qml:157
 msgctxt "Tutorial|"
 msgid "Start"
 msgstr ""
+
+#~ msgctxt "board1|"
+#~ msgid ""
+#~ "Jaguars are named after the Native American word meaning 'he who kills "
+#~ "with one leap' because they like to climb trees to attack their prey."
+#~ msgstr ""
+#~ "Chaidh deàguaran ainmeachadh a-rèir facal nan tùsanach Aimeireaganach sa "
+#~ "bheil a’ chiall “am fear a mharbhas le aon leum”"
+
+#, fuzzy
+#~| msgctxt "board5_0|"
+#~| msgid "Germany"
+#~ msgctxt "melodies|"
+#~ msgid "German"
+#~ msgstr "A’ Ghearmailt"
+
+#, fuzzy
+#~| msgctxt "category_numbers|"
+#~| msgid "Numbers"
+#~ msgctxt "Reversecount|"
+#~ msgid "Numbers"
+#~ msgstr "Àireamhan"
+
+#, fuzzy
+#~| msgctxt "board6_0|"
+#~| msgid "Romania"
+#~ msgctxt "Reversecount|"
+#~ msgid "Romans"
+#~ msgstr "Romàinia"
 
 #~ msgctxt "Checkers|"
 #~ msgid "Undo"
