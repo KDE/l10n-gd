@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-16 01:48+0000\n"
+"POT-Creation-Date: 2019-01-30 02:25+0000\n"
 "PO-Revision-Date: 2016-04-29 19:26+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -357,7 +357,7 @@ msgctxt "Name"
 msgid "Plasma QML/C++ Applet"
 msgstr "Aplaid Plasma"
 
-#: templates/cpp-plasmoid/cpp-plasmoid.kdevtemplate:38
+#: templates/cpp-plasmoid/cpp-plasmoid.kdevtemplate:39
 msgctxt "Comment"
 msgid ""
 "A Plasma Applet template written in an hybrid mix of QML and C++: a Plasma "
@@ -388,7 +388,7 @@ msgctxt "Name"
 msgid "Simple Plasma Wallpaper"
 msgstr "Pàipear-balla Plasma"
 
-#: templates/plasma-wallpaper/plasma-wallpaper.kdevtemplate:38
+#: templates/plasma-wallpaper/plasma-wallpaper.kdevtemplate:39
 msgctxt "Comment"
 msgid ""
 "Simple Plasma Wallpaper template: a Plasma wallpaper template displaying a "
@@ -403,7 +403,7 @@ msgctxt "Name"
 msgid "Simple Plasma Wallpaper with QML extension"
 msgstr "Aplaid Plasma"
 
-#: templates/plasma-wallpaper-with-qml-extension/plasma-wallpaper-with-qml-extension.kdevtemplate:29
+#: templates/plasma-wallpaper-with-qml-extension/plasma-wallpaper-with-qml-extension.kdevtemplate:30
 msgctxt "Comment"
 msgid ""
 "A Plasma wallpaper which uses custom API provided by an own QML extension "
@@ -433,7 +433,7 @@ msgctxt "Name"
 msgid "Plasma QML Applet with QML extension"
 msgstr "Aplaid Plasma"
 
-#: templates/qml-plasmoid-with-qml-extension/qml-plasmoid-with-qml-extension.kdevtemplate:36
+#: templates/qml-plasmoid-with-qml-extension/qml-plasmoid-with-qml-extension.kdevtemplate:37
 msgctxt "Comment"
 msgid ""
 "A template for a Plasma applet which uses custom API provided by an own QML "
