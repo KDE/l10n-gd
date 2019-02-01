@@ -3424,7 +3424,7 @@ msgid ""
 msgstr ""
 
 #: activities/color_mix/ActivityInfo.qml:41
-#: activities/color_mix_light/ActivityInfo.qml:41
+#: activities/color_mix_light/ActivityInfo.qml:40
 msgctxt "ActivityInfo|"
 msgid "Images from http://openclipart.org"
 msgstr ""
@@ -3527,8 +3527,7 @@ msgid ""
 "\n"
 "In case of light it is just the opposite of mixing color with paints! The "
 "more light you add the lighter the resultant color will get. Primary colors "
-"of light are red, green and blue.\n"
-"        "
+"of light are red, green and blue."
 msgstr ""
 
 #. Activity title
