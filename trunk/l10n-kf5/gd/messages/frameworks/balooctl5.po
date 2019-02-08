@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-09 03:54+0200\n"
+"POT-Creation-Date: 2019-02-08 02:58+0100\n"
 "PO-Revision-Date: 2016-04-29 13:11+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -139,9 +139,10 @@ msgstr ""
 "Stiùirichidh e an cuir Baloo faidhlichean is pasganan falaichte ris an "
 "inneacs gus nach cuir"
 
-#: configcommand.cpp:87
-#, kde-format
-msgid "Controls if baloo indexes file content."
+#: configcommand.cpp:87 configcommand.cpp:364
+#, fuzzy, kde-format
+#| msgid "Controls if baloo indexes file content."
+msgid "Controls if Baloo indexes file content"
 msgstr ""
 "Stiùirichidh e an cuir Baloo susbaint nam faidhlichean ris an inneacs gus "
 "nach cuir."
@@ -170,7 +171,7 @@ msgstr ""
 "dhùnadh"
 
 #: configcommand.cpp:143 configcommand.cpp:232 configcommand.cpp:355
-#: configcommand.cpp:424
+#: configcommand.cpp:425
 #, kde-format
 msgid "Config parameter could not be found"
 msgstr "Cha deach paramadair an rèiteachaidh a lorg"
@@ -251,12 +252,12 @@ msgstr "Tha a' chriathrag às-dhùnaidh air an liosta mar-thà"
 msgid "Exclude mimetype is already in the list"
 msgstr "Tha an seòrsa MIME às-dhùnaidh air an liosta mar-thà"
 
-#: configcommand.cpp:372 configcommand.cpp:399
+#: configcommand.cpp:373 configcommand.cpp:400
 #, kde-format
 msgid "A value must be provided"
 msgstr "Feumaidh tu luach a shònrachadh"
 
-#: configcommand.cpp:393 configcommand.cpp:420
+#: configcommand.cpp:394 configcommand.cpp:421
 #, kde-format
 msgid "Invalid value"
 msgstr "Luach mì-dhligheach"
