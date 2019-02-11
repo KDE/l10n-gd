@@ -11291,14 +11291,14 @@ msgctxt "ConfigurationItem|"
 msgid "All lowercase"
 msgstr ""
 
-#: activities/menu/Menu.qml:324
+#: activities/menu/Menu.qml:336
 msgctxt "Menu|"
 msgid ""
 "Put your favorite activities here by selecting the sun at the top right of "
 "that activity."
 msgstr ""
 
-#: activities/menu/Menu.qml:604
+#: activities/menu/Menu.qml:616
 msgctxt "Menu|"
 msgid "Search specific activities"
 msgstr ""
