@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-01-26 03:03+0100\n"
+"POT-Creation-Date: 2019-02-18 02:58+0100\n"
 "PO-Revision-Date: 2015-11-04 15:15+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -65,7 +65,7 @@ msgctxt "@info:credit"
 msgid "Waldo Bastian"
 msgstr "Waldo Bastian"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:75
+#: kbuildsycoca/kbuildsycoca_main.cpp:73
 #, kde-format
 msgctxt "@info:shell command-line option"
 msgid ""
@@ -75,13 +75,13 @@ msgstr ""
 "Na cuir siognail dha na h-aplacaidean gun ùraich iad (cha mholar seo "
 "tuilleadh is cha dèan e dad)"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:78
+#: kbuildsycoca/kbuildsycoca_main.cpp:76
 #, kde-format
 msgctxt "@info:shell command-line option"
 msgid "Disable incremental update, re-read everything"
 msgstr "Cuir an ùrachadh ioncramaideach à comas, leugh a h-uile rud às ùr"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:81
+#: kbuildsycoca/kbuildsycoca_main.cpp:79
 #, kde-format
 msgctxt "@info:shell command-line option"
 msgid "Check file timestamps (deprecated, no longer having any effect)"
@@ -89,7 +89,7 @@ msgstr ""
 "Dearbhaich stampaichean-tìde nam faidhlichean (cha mholar seo tuilleadh is "
 "cha dèan e dad)"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:84
+#: kbuildsycoca/kbuildsycoca_main.cpp:82
 #, kde-format
 msgctxt "@info:shell command-line option"
 msgid "Disable checking files (deprecated, no longer having any effect)"
@@ -97,25 +97,25 @@ msgstr ""
 "Cuir dearbhadh nam faidhlichean à comas (cha mholar seo tuilleadh is cha "
 "dèan e dad)"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:87
+#: kbuildsycoca/kbuildsycoca_main.cpp:85
 #, kde-format
 msgctxt "@info:shell command-line option"
 msgid "Create global database"
 msgstr "Cruthaich stòr-dàta uile-choitcheann"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:90
+#: kbuildsycoca/kbuildsycoca_main.cpp:88
 #, kde-format
 msgctxt "@info:shell command-line option"
 msgid "Perform menu generation test run only"
 msgstr "Na ruith ach deuchainn air gintinn nan clàran-taice"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:93
+#: kbuildsycoca/kbuildsycoca_main.cpp:91
 #, kde-format
 msgctxt "@info:shell command-line option"
 msgid "Track menu id for debug purposes"
 msgstr "Tracaich aithnichear a' chlàir-thaice a chum dì-bhugaidh"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:97
+#: kbuildsycoca/kbuildsycoca_main.cpp:95
 #, kde-format
 msgctxt "@info:shell command-line option"
 msgid "Switch QStandardPaths to test mode, for unit tests only"
