@@ -9630,12 +9630,12 @@ msgstr ""
 "Chì thu làmh: an e làmh chlì no làmh dheas a th’ ann? Briog air a’ phutan "
 "taobh clì no air a’ phutan taobh deas a-rèir dè an làmh a chì thu."
 
-#: activities/leftright/Leftright.qml:149
+#: activities/leftright/Leftright.qml:144
 msgctxt "Leftright|"
 msgid "Left hand"
 msgstr "An làmh chlì"
 
-#: activities/leftright/Leftright.qml:165
+#: activities/leftright/Leftright.qml:160
 msgctxt "Leftright|"
 msgid "Right hand"
 msgstr "An làmh dheas"
