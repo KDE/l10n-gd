@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GCompris-Unofficial\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-01-23 03:28+0100\n"
+"POT-Creation-Date: 2019-03-04 03:39+0100\n"
 "PO-Revision-Date: 2017-05-04 09:29+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,64 +21,128 @@ msgstr ""
 "Generated-By: Babel 0.9.6\n"
 
 # news title
-msgctxt "20190122.html"
-msgid "GCompris is back on Mac OSX"
+msgctxt "20190303.html"
+msgid "Release GCompris 0.96"
 msgstr ""
 
 # paragraph
-msgctxt "20190122.html"
+msgctxt "20190303.html"
 msgid ""
-"Hi,<br />\\nGood news for Mac users: we finally have a new version of "
-"GCompris for OSX !"
+"Hi,<br />\\nWe are pleased to announce the release of GCompris version 0.96."
 msgstr ""
 
 # paragraph
-msgctxt "20190122.html"
+msgctxt "20190303.html"
 msgid ""
-"The last version of GCompris for OSX was 0.52 from 3 years ago. Since then, "
-"no one in the team could update it because of the lack of hardware. Thanks "
-"to Boudewijn from the Krita Foundation, we have now a little mac mini, old "
-"but good enough to build our packages. It took me several days of dedicated "
-"work to learn this new platform and update the build system to produce a "
-"distributable package."
+"This new version includes updated translation for several languages, and a "
+"few bug fixes."
 msgstr ""
 
 # paragraph
-msgctxt "20190122.html"
+msgctxt "20190303.html"
+msgid "Translations that received a big update:"
+msgstr ""
+
+# list item
+msgctxt "20190303.html"
+msgid "Brazilian Portuguese (100%)"
+msgstr ""
+
+# list item
+msgctxt "20190303.html"
+msgid "Breton (100%)"
+msgstr ""
+
+# list item
+msgctxt "20190303.html"
+msgid "Finnish (90%)"
+msgstr ""
+
+# list item
+msgctxt "20190303.html"
+msgid "Indonesian (100%)"
+msgstr ""
+
+# list item
+msgctxt "20190303.html"
+msgid "Norwegian Nynorsk (97%)"
+msgstr ""
+
+# list item
+msgctxt "20190303.html"
+msgid "Polish (100%)"
+msgstr ""
+
+# paragraph
+msgctxt "20190303.html"
 msgid ""
-"This package was built and tested on OSX 10.13. If you can try it on a "
-"different OSX version, please let us know if it works."
+"This means we have now 19 languages fully supported: British English, "
+"Brazilian Portuguese, Breton, Catalan, Catalan (Valencian), Chinese "
+"Traditional, Dutch, French, Galician, Greek, Hungarian, Indonesian, Italian, "
+"Malayalam, Polish, Portuguese, Romanian, Swedish, Ukrainian."
 msgstr ""
 
 # paragraph
-msgctxt "20190122.html"
+msgctxt "20190303.html"
 msgid ""
-"The .dmg installer is available <a href=\\\"https://gcompris.net/"
-"downloads{{ suffix }}#osx.html\\\">on the download page</a>."
+"We still have 15 partially supported languages: Basque (78%), Belarusian "
+"(68%), Chinese Simplified (69%), Estonian (62%), Finnish (90%), German "
+"(84%), Hindi (76%), Irish Gaelic (82%), Norwegian Nynorsk (97%), Russian "
+"(77%), Scottish Gaelic (70%), Slovak (62%), Slovenian (56%), Spanish (93%), "
+"Turkish (73%)."
 msgstr ""
 
 # paragraph
-msgctxt "20190122.html"
+msgctxt "20190303.html"
 msgid ""
-"This time we decided to stop distributing it from the app-store. About the "
-"iOS version, it will take some more time before I can look at it, and we "
-"still don't have any device to test.\\n"
+"We decided again for this release to keep the translations that dropped "
+"below 80%. It would be sad to have to disable 10 languages from the "
+"application, but if no one updates the following translations, they will be "
+"disabled in next release: Basque, Belarusian, Chinese Simplified, Estonian, "
+"Hindi, Russian, Scottish Gaelic, Slovak, Slovenian and Turkish."
 msgstr ""
 
 # paragraph
-msgctxt "20190122.html"
+msgctxt "20190303.html"
 msgid ""
-"Notes: this package is based on GCompris version 0.95. It is built with the "
-"latest version of Qt (5.12.0) which introduced some regressions. We fixed "
-"all of those issues, but some of those fixes are only in the development "
-"version for now. A few activities are broken (checkers, braille, "
-"braille_alphabet, algorithm), but we will make a new release next month that "
-"will also address those little issues. \\n"
+"For the windows version, we added a new entry in the start menu called "
+"GCompris (Safe Mode) to launch it with software rendering mode. This was "
+"needed as the auto-detection of OpenGL support was not reliable. Now, users "
+"can easily choose between OpenGL and software rendering without changing the "
+"configuration file."
 msgstr ""
 
 # paragraph
-msgctxt "20190122.html"
-msgid "Thank you all, <br/>\\nTimothée - GCompris team"
+msgctxt "20190303.html"
+msgid "Known issues:"
+msgstr ""
+
+# list item
+msgctxt "20190303.html"
+msgid ""
+"The progress bar for downloads doesn't work anymore. This is a side effect "
+"from our switch to https for hosting the files. We are looking to improve "
+"this for next release.\\n"
+msgstr ""
+
+# paragraph
+msgctxt "20190303.html"
+msgid ""
+"As a side note dedicated to GNU/Linux distribution packagers, this new "
+"version now requires OpenSSL to can download voices and additional images."
+msgstr ""
+
+# paragraph
+msgctxt "20190303.html"
+msgid ""
+"As usual you can download this new version from our <a href=\\\"https://"
+"gcompris.net/downloads{{ suffix }}.html\\\">download page</a>. It will also "
+"be available soon on the Android and Windows store."
+msgstr ""
+
+# paragraph
+msgctxt "20190303.html"
+msgid "Thank you all, <br/>\\nTimothée & Johnny"
 msgstr ""
 
 #: template/base.html:59 template/downloads.html:4 template/downloads.html:9
@@ -130,7 +194,7 @@ msgstr ""
 #: template/buy.html:24
 #, python-format
 msgid ""
-"For Windows and MacOSX, you can get the demo from the <a href=downloads-"
+"For Windows and macOS, you can get the demo from the <a href=downloads-"
 "%(locale)s.html>download page</a>, and buy here the activation code to "
 "unlock the full version. The cost is 9€."
 msgstr ""
@@ -298,16 +362,10 @@ msgid "System requirements: Windows 7, 8 or 10 with OpenGL 2 support."
 msgstr ""
 
 #: template/downloads.html:28
-#, python-format
 msgid ""
 "Note: If your system doesn't have OpenGL 2 support or if it's not working "
-"properly, the software should automatically switch to software rendering "
-"mode. If the automatic switch doesn't work, you can manually select the "
-"software rendering mode by editing the configuration file (in ~/.config/"
-"gcompris/gcompris-qt.conf for Linux, %LocalAppData%/gcompris/GCompris.conf "
-"for Windows): find the line renderer=auto , replace auto with software and "
-"save the file. We are also interested to get some feedback to help us "
-"improve this auto-detection."
+"properly, please use the entry GCompris (Safe Mode) in the start menu to "
+"launch GCompris with the software rendering mode which doesn't use OpenGL."
 msgstr ""
 
 #: template/downloads.html:29
@@ -336,7 +394,7 @@ msgid ""
 msgstr ""
 
 #: template/downloads.html:61
-msgid "MacOSX"
+msgid "macOS"
 msgstr ""
 
 #: template/downloads.html:65
@@ -347,7 +405,7 @@ msgid ""
 msgstr ""
 
 #: template/downloads.html:66
-msgid "Built and tested on OSX 10.13."
+msgid "Built and tested on macOS 10.13."
 msgstr ""
 
 #: template/downloads.html:79

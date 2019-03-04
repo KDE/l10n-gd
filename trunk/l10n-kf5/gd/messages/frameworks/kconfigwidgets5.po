@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kconfigwidgets5\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-01-26 03:02+0100\n"
+"POT-Creation-Date: 2019-03-04 03:12+0100\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -47,7 +47,7 @@ msgctxt "Encodings menu"
 msgid "Default"
 msgstr "Tùsail"
 
-#: kcodecaction.cpp:98
+#: kcodecaction.cpp:99
 #, kde-format
 msgctxt "Encodings menu"
 msgid "Autodetect"
@@ -69,38 +69,38 @@ msgstr "Chan eil innteart ann"
 msgid "Clear List"
 msgstr "Falamhaich an liosta"
 
-#: kstandardaction.cpp:154
+#: kstandardaction.cpp:155
 #, kde-format
 msgctxt "go back"
 msgid "&Back"
 msgstr "&Air ais"
 
-#: kstandardaction.cpp:161
+#: kstandardaction.cpp:162
 #, kde-format
 msgctxt "go forward"
 msgid "&Forward"
 msgstr "Air a&dhart"
 
-#: kstandardaction.cpp:168
+#: kstandardaction.cpp:169
 #, kde-format
 msgctxt "home page"
 msgid "&Home"
 msgstr "Dha&chaigh"
 
-#: kstandardaction.cpp:171
+#: kstandardaction.cpp:172
 #, kde-format
 msgctxt "show help"
 msgid "&Help"
 msgstr "Cob&hair"
 
-#: kstandardaction.cpp:208
+#: kstandardaction.cpp:209
 #, kde-format
 msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
 msgstr ""
 "Seall bàr clàr-taice<p>Seallaidh seo am bàr clàr-taice a-rithist ma chaidh "
 "fhalach</p>"
 
-#: kstandardaction.cpp:227
+#: kstandardaction.cpp:229
 #, kde-format
 msgid ""
 "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of the "
