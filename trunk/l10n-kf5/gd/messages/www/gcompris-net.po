@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GCompris-Unofficial\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-05 03:35+0100\n"
+"POT-Creation-Date: 2019-03-10 03:31+0100\n"
 "PO-Revision-Date: 2017-05-04 09:29+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,17 +21,20 @@ msgstr ""
 "Generated-By: Babel 0.9.6\n"
 
 # news title
+#. news title
 msgctxt "20190303.html"
 msgid "Release GCompris 0.96"
 msgstr ""
 
 # paragraph
+#. paragraph
 msgctxt "20190303.html"
 msgid ""
 "Hi,<br />\\nWe are pleased to announce the release of GCompris version 0.96."
 msgstr ""
 
 # paragraph
+#. paragraph
 msgctxt "20190303.html"
 msgid ""
 "This new version includes updated translation for several languages, and a "
@@ -39,41 +42,49 @@ msgid ""
 msgstr ""
 
 # paragraph
+#. paragraph
 msgctxt "20190303.html"
 msgid "Translations that received a big update:"
 msgstr ""
 
 # list item
+#. list item
 msgctxt "20190303.html"
 msgid "Brazilian Portuguese (100%)"
 msgstr ""
 
 # list item
+#. list item
 msgctxt "20190303.html"
 msgid "Breton (100%)"
 msgstr ""
 
 # list item
+#. list item
 msgctxt "20190303.html"
 msgid "Finnish (90%)"
 msgstr ""
 
 # list item
+#. list item
 msgctxt "20190303.html"
 msgid "Indonesian (100%)"
 msgstr ""
 
 # list item
+#. list item
 msgctxt "20190303.html"
 msgid "Norwegian Nynorsk (97%)"
 msgstr ""
 
 # list item
+#. list item
 msgctxt "20190303.html"
 msgid "Polish (100%)"
 msgstr ""
 
 # paragraph
+#. paragraph
 msgctxt "20190303.html"
 msgid ""
 "This means we have now 19 languages fully supported: British English, "
@@ -83,6 +94,7 @@ msgid ""
 msgstr ""
 
 # paragraph
+#. paragraph
 msgctxt "20190303.html"
 msgid ""
 "We still have 15 partially supported languages: Basque (78%), Belarusian "
@@ -93,6 +105,7 @@ msgid ""
 msgstr ""
 
 # paragraph
+#. paragraph
 msgctxt "20190303.html"
 msgid ""
 "We decided again for this release to keep the translations that dropped "
@@ -103,6 +116,7 @@ msgid ""
 msgstr ""
 
 # paragraph
+#. paragraph
 msgctxt "20190303.html"
 msgid ""
 "For the windows version, we added a new entry in the start menu called "
@@ -113,11 +127,13 @@ msgid ""
 msgstr ""
 
 # paragraph
+#. paragraph
 msgctxt "20190303.html"
 msgid "Known issues:"
 msgstr ""
 
 # list item
+#. list item
 msgctxt "20190303.html"
 msgid ""
 "The progress bar for downloads doesn't work anymore. This is a side effect "
@@ -126,6 +142,7 @@ msgid ""
 msgstr ""
 
 # paragraph
+#. paragraph
 msgctxt "20190303.html"
 msgid ""
 "As a side note dedicated to GNU/Linux distribution packagers, this new "
@@ -134,6 +151,7 @@ msgid ""
 msgstr ""
 
 # paragraph
+#. paragraph
 msgctxt "20190303.html"
 msgid ""
 "As usual you can download this new version from our <a href=\\\"https://"
@@ -142,6 +160,7 @@ msgid ""
 msgstr ""
 
 # paragraph
+#. paragraph
 msgctxt "20190303.html"
 msgid "Thank you all, <br/>\\nTimothée & Johnny"
 msgstr ""
