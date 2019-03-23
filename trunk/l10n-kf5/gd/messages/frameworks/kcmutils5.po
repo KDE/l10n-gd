@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-03-22 03:10+0100\n"
+"POT-Creation-Date: 2019-03-23 03:21+0100\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -113,7 +113,7 @@ msgstr ""
 msgid "Apply Settings"
 msgstr "Cuir na roghainnean an sàs"
 
-#: kcmultidialog.cpp:261 kpluginselector.cpp:715
+#: kcmultidialog.cpp:261 kpluginselector.cpp:716
 #, kde-format
 msgid "Configure"
 msgstr "Rèitich"
@@ -456,7 +456,7 @@ msgstr ""
 "Chaidh atharraichean a dhèanamh gu fèin-obrachail gus eisimeileachdan "
 "plugain a choileanadh:\n"
 
-#: kpluginselector.cpp:211
+#: kpluginselector.cpp:212
 #, kde-format
 msgid ""
 "\n"
@@ -467,7 +467,7 @@ msgstr ""
 "    Chaidh cromag a chur ris a' phlugan %1 gu fèin-obrachail ri linn "
 "eisimeileachd aig a' phlugan %2"
 
-#: kpluginselector.cpp:213
+#: kpluginselector.cpp:214
 #, kde-format
 msgid ""
 "\n"
@@ -478,12 +478,12 @@ msgstr ""
 "    Chaidh cromag a thoirt air falbh on phlugan %1 on a tha e an eisimeil "
 "air a' phlugan %2"
 
-#: kpluginselector.cpp:216
+#: kpluginselector.cpp:217
 #, kde-format
 msgid "Dependency Check"
 msgstr "Dearbhadh nan eisimeileachdan"
 
-#: kpluginselector.cpp:233
+#: kpluginselector.cpp:234
 #, kde-format
 msgid "%1 plugin automatically added due to plugin dependencies"
 msgid_plural "%1 plugins automatically added due to plugin dependencies"
@@ -499,12 +499,12 @@ msgstr[2] ""
 msgstr[3] ""
 "Chaidh %1 plugan a chur ris gu fèin-obrachail ri linn eisimeileachdan plugain"
 
-#: kpluginselector.cpp:237
+#: kpluginselector.cpp:238
 #, kde-format
 msgid ", "
 msgstr ", "
 
-#: kpluginselector.cpp:241
+#: kpluginselector.cpp:242
 #, kde-format
 msgid "%1 plugin automatically removed due to plugin dependencies"
 msgid_plural "%1 plugins automatically removed due to plugin dependencies"
@@ -521,19 +521,19 @@ msgstr[3] ""
 "Chaidh %1 plugan a thoirt air falbh gu fèin-obrachail ri linn "
 "eisimeileachdan plugain"
 
-#: kpluginselector.cpp:261
+#: kpluginselector.cpp:262
 #, kde-format
 msgid "Search..."
 msgstr ""
 
-#: kpluginselector.cpp:710
+#: kpluginselector.cpp:711
 #, fuzzy, kde-format
 #| msgctxt "Used only for plugins"
 #| msgid "About %1"
 msgid "About"
 msgstr "Mu %1"
 
-#: kpluginselector.cpp:813
+#: kpluginselector.cpp:814
 #, kde-format
 msgctxt "Used only for plugins"
 msgid "About %1"
@@ -544,7 +544,7 @@ msgstr "Mu %1"
 msgid "Select Components"
 msgstr "Tagh co-phàirtean"
 
-#: ksettings/dialog.cpp:231
+#: ksettings/dialog.cpp:232
 #, kde-format
 msgid "Enable component"
 msgstr "Cuir a' cho-phàirt an comas"
