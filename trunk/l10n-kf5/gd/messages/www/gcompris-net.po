@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GCompris-Unofficial\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-03-19 03:38+0100\n"
+"POT-Creation-Date: 2019-04-01 03:38+0200\n"
 "PO-Revision-Date: 2017-05-04 09:29+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -220,18 +220,6 @@ msgid ""
 msgstr ""
 
 #: template/buy.html:37
-msgid "Notes:"
-msgstr ""
-
-#: template/buy.html:38
-msgid ""
-"For personal use, it is possible to use this code on several computers.</"
-"br>\n"
-"          For schools and other institutions, please contact us to get a "
-"quote."
-msgstr ""
-
-#: template/buy.html:40
 #, fuzzy
 #| msgid ""
 #| "Click on the button below let you pay 9&euro; for the activation code. "
@@ -248,7 +236,7 @@ msgstr ""
 "mìneachaidhean ann (thoir sùil air a' phasgan truilleis agad). Mur faigh thu "
 "am post-d seo, cuir fios thugam aig sales@gcompris.net"
 
-#: template/buy.html:41
+#: template/buy.html:38
 #, fuzzy
 #| msgid ""
 #| "The registration gives you the right to update to any new release of "
@@ -263,21 +251,41 @@ msgstr ""
 "seo, faodaidh tu an sgaoileadh mu dheireadh a fhuair thu a chleachdadh cho "
 "fad a thogras tu."
 
-#: template/buy.html:43
+#: template/buy.html:40
 msgid ""
 "Alternatively, you can also buy the full version of GCompris directly <a "
 "href=\"https://www.microsoft.com/en-us/store/p/gcompris/9pgxjtcxn8qm\">from "
 "the Windows Store.</a>"
 msgstr ""
 
-#: template/buy.html:46
+#: template/buy.html:42
+msgid "Notes:"
+msgstr ""
+
+#: template/buy.html:43
+msgid "You can use this code on several computers."
+msgstr ""
+
+#: template/buy.html:44
+msgid ""
+"Schools and other institutions can buy a site activation key to support the "
+"project."
+msgstr ""
+
+#: template/buy.html:45
+msgid ""
+"Please contact us at <a href=\"mailto:sales@gcompris.net?subject=GCompris - "
+"Quote for school\">sales@gcompris.net</a> to request a quote."
+msgstr ""
+
+#: template/buy.html:48
 msgid ""
 "For Android, the recommended way is to directly buy the full version <a href="
 "\"https://play.google.com/store/apps/details?id=net.gcompris.full\">from "
 "Google Play store</a>."
 msgstr ""
 
-#: template/buy.html:47
+#: template/buy.html:49
 msgid ""
 "You can also install <a href=\"https://play.google.com/store/apps/details?"
 "id=net.gcompris\">the demo</a> available in the store, and use the in-app "
@@ -286,7 +294,7 @@ msgid ""
 "it with your family. Also, a few users reported issues to unlock the demo."
 msgstr ""
 
-#: template/buy.html:50
+#: template/buy.html:52
 msgid ""
 "For users of Free-Software operating systems, the full version is always "
 "free.</br>\n"
@@ -295,43 +303,25 @@ msgid ""
 "activation code."
 msgstr ""
 
-#: template/buy.html:52
+#: template/buy.html:54
 msgid "However, you can still support us with a donation, see below."
 msgstr ""
 
-#: template/buy.html:54 template/buy.html:99
+#: template/buy.html:56 template/buy.html:85
 #, fuzzy
 #| msgid "Thanks for your support of free software in education."
 msgid "Thanks for supporting Free Software in education."
 msgstr "Tapadh leat airson taic a thoirt do bhathar-bog saor san fhoghlam."
 
-#: template/buy.html:56
+#: template/buy.html:58
 msgid "Legal reference: Company"
 msgstr ""
 
-#: template/buy.html:66
-msgid "Schools"
-msgstr ""
-
-#: template/buy.html:70
-msgid "For schools and other institutions, you need a site license."
-msgstr ""
-
-#: template/buy.html:71
-msgid "The price of a site license depends on the number of installations."
-msgstr ""
-
-#: template/buy.html:72
-msgid ""
-"Please contact us at <a href=\"mailto:sales@gcompris.net?subject=GCompris - "
-"Quote for school\">sales@gcompris.net</a> to request a quote."
-msgstr ""
-
-#: template/buy.html:82
+#: template/buy.html:68
 msgid "Donate"
 msgstr "Thoir tìodhlac dhuinn"
 
-#: template/buy.html:86
+#: template/buy.html:72
 #, fuzzy
 #| msgid ""
 #| "You, your children, your classroom love GCompris. You have now the "
@@ -343,7 +333,7 @@ msgstr ""
 "'S toil leat fhèin is le do chlann is leis an sgoil agad GCompris. Tha "
 "cothrom agad a-nis gus taic a thoirt dhan phròiseact seo."
 
-#: template/buy.html:87
+#: template/buy.html:73
 msgid ""
 "Developing software takes a lot of time, it needs hardware, and other "
 "requirements that have a cost. Currently all sales and donations are used to "
@@ -352,7 +342,7 @@ msgid ""
 "application."
 msgstr ""
 
-#: template/buy.html:88
+#: template/buy.html:74
 msgid ""
 "You can donate the amount of your choice by clicking on the button below:"
 msgstr ""
