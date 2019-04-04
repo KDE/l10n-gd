@@ -13769,13 +13769,13 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-#: activities/share/Share.qml:346
+#: activities/share/Share.qml:340
 #, qt-format
 msgctxt "Share|"
 msgid "You can't put more than %1 pieces of candy in the same rectangle"
 msgstr ""
 
-#: activities/share/Share.qml:365
+#: activities/share/Share.qml:359
 msgctxt "Share|"
 msgid "Display candy counter"
 msgstr ""
