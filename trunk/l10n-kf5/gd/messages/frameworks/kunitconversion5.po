@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-11-08 03:50+0100\n"
+"POT-Creation-Date: 2019-04-15 03:12+0200\n"
 "PO-Revision-Date: 2016-05-05 13:20+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -7489,30 +7489,30 @@ msgstr[1] "%1 chuairt sa mhionaid"
 msgstr[2] "%1 cuairt sa mhionaid"
 msgstr[3] "%1 cuairtean sa mhionaid"
 
-#: fuel_efficiency.cpp:53
+#: fuel_efficiency.cpp:64
 #, kde-format
 msgid "Fuel Efficiency"
 msgstr "Èifeachdas connaidh"
 
-#: fuel_efficiency.cpp:55
+#: fuel_efficiency.cpp:66
 #, kde-format
 msgctxt "%1 value, %2 unit symbol (fuel efficiency)"
 msgid "%1 %2"
 msgstr "%1 %2"
 
-#: fuel_efficiency.cpp:58
+#: fuel_efficiency.cpp:69
 #, kde-format
 msgctxt "fuelefficiency unit symbol"
 msgid "l/100 km"
 msgstr "l/100 km"
 
-#: fuel_efficiency.cpp:59
+#: fuel_efficiency.cpp:70
 #, kde-format
 msgctxt "unit description in lists"
 msgid "liters per 100 kilometers"
 msgstr "liotair gach 100 cilemeatair"
 
-#: fuel_efficiency.cpp:61
+#: fuel_efficiency.cpp:72
 #, kde-format
 msgctxt "unit synonyms for matching user input"
 msgid "liters per 100 kilometers;liters per 100 kilometers;l/100 km;L/100 km"
@@ -7520,13 +7520,13 @@ msgstr ""
 "liters per 100 kilometers;liters per 100 kilometers;liotair gach 100 "
 "cilemeatair;l/100 km;L/100 km"
 
-#: fuel_efficiency.cpp:63
+#: fuel_efficiency.cpp:74
 #, kde-format
 msgctxt "amount in units (real)"
 msgid "%1 liters per 100 kilometers"
 msgstr "%1 liotair gach 100 cilemeatair"
 
-#: fuel_efficiency.cpp:64
+#: fuel_efficiency.cpp:75
 #, kde-format
 msgctxt "amount in units (integer)"
 msgid "%1 liters per 100 kilometers"
@@ -7536,31 +7536,31 @@ msgstr[1] "%1 liotair gach 100 cilemeatair"
 msgstr[2] "%1 liotairean gach 100 cilemeatair"
 msgstr[3] "%1 liotair gach 100 cilemeatair"
 
-#: fuel_efficiency.cpp:68
+#: fuel_efficiency.cpp:79
 #, kde-format
 msgctxt "fuelefficiency unit symbol"
 msgid "mpg"
 msgstr "mpg"
 
-#: fuel_efficiency.cpp:69
+#: fuel_efficiency.cpp:80
 #, kde-format
 msgctxt "unit description in lists"
 msgid "miles per US gallon"
 msgstr "mìle gach galain SA"
 
-#: fuel_efficiency.cpp:71
+#: fuel_efficiency.cpp:82
 #, kde-format
 msgctxt "unit synonyms for matching user input"
 msgid "mile per US gallon;miles per US gallon;mpg"
 msgstr "mile per US gallon;miles per US gallon;mìle gach galain SA;mpg"
 
-#: fuel_efficiency.cpp:73
+#: fuel_efficiency.cpp:84
 #, kde-format
 msgctxt "amount in units (real)"
 msgid "%1 miles per US gallon"
 msgstr "%1 mìle gach galain SA"
 
-#: fuel_efficiency.cpp:74
+#: fuel_efficiency.cpp:85
 #, kde-format
 msgctxt "amount in units (integer)"
 msgid "%1 mile per US gallon"
@@ -7570,19 +7570,19 @@ msgstr[1] "%1 mhìle gach galain SA"
 msgstr[2] "%1 mìltean gach galain SA"
 msgstr[3] "%1 mìle gach galain SA"
 
-#: fuel_efficiency.cpp:78
+#: fuel_efficiency.cpp:90
 #, kde-format
 msgctxt "fuelefficiency unit symbol"
 msgid "mpg (imperial)"
 msgstr "mpg (impireil)"
 
-#: fuel_efficiency.cpp:79
+#: fuel_efficiency.cpp:91
 #, kde-format
 msgctxt "unit description in lists"
 msgid "miles per imperial gallon"
 msgstr "mìle gach galain impireil"
 
-#: fuel_efficiency.cpp:81
+#: fuel_efficiency.cpp:93
 #, kde-format
 msgctxt "unit synonyms for matching user input"
 msgid "mile per imperial gallon;miles per imperial gallon;mpg (imperial)"
@@ -7590,13 +7590,13 @@ msgstr ""
 "mile per imperial gallon;miles per imperial gallon;mìle gach galain impireil;"
 "mpg (imperial)"
 
-#: fuel_efficiency.cpp:83
+#: fuel_efficiency.cpp:95
 #, kde-format
 msgctxt "amount in units (real)"
 msgid "%1 miles per imperial gallon"
 msgstr "%1 mìle gach galain impireil"
 
-#: fuel_efficiency.cpp:84
+#: fuel_efficiency.cpp:96
 #, kde-format
 msgctxt "amount in units (integer)"
 msgid "%1 mile per imperial gallon"
@@ -7606,32 +7606,32 @@ msgstr[1] "%1 mhìle gach galain impireil"
 msgstr[2] "%1 mìltean gach galain impireil"
 msgstr[3] "%1 mìle gach galain impireil"
 
-#: fuel_efficiency.cpp:88
+#: fuel_efficiency.cpp:101
 #, kde-format
 msgctxt "fuelefficiency unit symbol"
 msgid "kmpl"
 msgstr "kmpl"
 
-#: fuel_efficiency.cpp:89
+#: fuel_efficiency.cpp:102
 #, kde-format
 msgctxt "unit description in lists"
 msgid "kilometers per liter"
 msgstr "cilemeatair gach liotair"
 
-#: fuel_efficiency.cpp:91
+#: fuel_efficiency.cpp:104
 #, kde-format
 msgctxt "unit synonyms for matching user input"
 msgid "kilometer per liter;kilometers per liter;kmpl;km/l"
 msgstr ""
 "kilometer per liter;kilometers per liter;cilemeatair gach liotair;kmpl;km/l"
 
-#: fuel_efficiency.cpp:93
+#: fuel_efficiency.cpp:106
 #, kde-format
 msgctxt "amount in units (real)"
 msgid "%1 kilometers per liter"
 msgstr "%1 cilemeatair gach liotair"
 
-#: fuel_efficiency.cpp:94
+#: fuel_efficiency.cpp:107
 #, kde-format
 msgctxt "amount in units (integer)"
 msgid "%1 kilometer per liter"
