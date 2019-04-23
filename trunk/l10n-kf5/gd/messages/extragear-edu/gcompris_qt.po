@@ -12846,7 +12846,7 @@ msgstr ""
 msgctxt "ActivityInfo|"
 msgid ""
 "Choose the instructions from given menu. Arrange the instruction in an\n"
-"                order so that they can make the tux reach to its goal."
+"                order so that they can make the Tux reach to his goal."
 "<br><br>"
 msgstr ""
 
@@ -13003,9 +13003,12 @@ msgid "Reach the fish in less than %1 instructions."
 msgstr ""
 
 #: activities/programmingMaze/ProgrammingMaze.qml:266
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Addition"
 msgctxt "ProgrammingMaze|"
-msgid "Main"
-msgstr ""
+msgid "Main function"
+msgstr "Cur ris"
 
 #: activities/programmingMaze/ProgrammingMaze.qml:294
 msgctxt "ProgrammingMaze|"
