@@ -2108,6 +2108,78 @@ msgctxt "category_colors|"
 msgid "Colors"
 msgstr "Dathan"
 
+#: activities/categorization/resource/board/category_colors.qml:34
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "category_colors|"
+msgid "Place the objects matching GREEN color to right and others to the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/categorization/resource/board/category_colors.qml:43
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "category_colors|"
+msgid "Place the objects matching WHITE color to right and others to the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/categorization/resource/board/category_colors.qml:52
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "category_colors|"
+msgid "Place the objects matching PINK color to right and others to the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/categorization/resource/board/category_colors.qml:62
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "category_colors|"
+msgid "Place the objects matching RED color to right and others to the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/categorization/resource/board/category_colors.qml:71
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "category_colors|"
+msgid "Place the objects matching BROWN color to right and others to the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/categorization/resource/board/category_colors.qml:80
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "category_colors|"
+msgid "Place the objects matching PURPLE color to right and others to the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/categorization/resource/board/category_colors.qml:90
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "category_colors|"
+msgid "Place the objects matching GREY color to right and others to the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/categorization/resource/board/category_colors.qml:99
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "category_colors|"
+msgid "Place the objects matching ORANGE color to right and others to the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/categorization/resource/board/category_colors.qml:108
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "category_colors|"
+msgid "Place the objects matching YELLOW color to right and others to the left"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
 #: activities/categorization/resource/board/category_fishes.qml:30
 msgctxt "category_fishes|"
 msgid "Fishes"
@@ -16585,13 +16657,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Dèan briogadh dùbailte leis an luchag air a’ bhàla gus an tadhal a "
 #~ "bhualadh."
-
-#, fuzzy
-#~| msgctxt "ActivityInfo|"
-#~| msgid "Draw the picture by clicking on each numbers in the right order."
-#~ msgctxt "category_shapes|"
-#~ msgid "Place the objects matching BALL to right and others to the left"
-#~ msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
 
 #, fuzzy
 #~| msgctxt "ActivityInfo|"
