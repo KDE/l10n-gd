@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kconfigwidgets5\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:55+0200\n"
+"POT-Creation-Date: 2019-05-24 02:55+0200\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -93,14 +93,14 @@ msgctxt "show help"
 msgid "&Help"
 msgstr "Cob&hair"
 
-#: kstandardaction.cpp:209
+#: kstandardaction.cpp:216
 #, kde-format
 msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
 msgstr ""
 "Seall bàr clàr-taice<p>Seallaidh seo am bàr clàr-taice a-rithist ma chaidh "
 "fhalach</p>"
 
-#: kstandardaction.cpp:229
+#: kstandardaction.cpp:236
 #, kde-format
 msgid ""
 "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of the "
