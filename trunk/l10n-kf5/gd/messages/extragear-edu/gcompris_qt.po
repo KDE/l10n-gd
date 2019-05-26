@@ -8211,10 +8211,10 @@ msgstr "Cleachdaich cur ris, iomadachadh, roinneadh is toirt air falbh."
 
 #. Help manual
 #: activities/gnumch-equality/ActivityInfo.qml:38
-#: activities/gnumch-factors/ActivityInfo.qml:39
+#: activities/gnumch-factors/ActivityInfo.qml:38
 #: activities/gnumch-inequality/ActivityInfo.qml:37
 #: activities/gnumch-multiples/ActivityInfo.qml:38
-#: activities/gnumch-primes/ActivityInfo.qml:39
+#: activities/gnumch-primes/ActivityInfo.qml:38
 msgctxt "ActivityInfo|"
 msgid ""
 "If you have a keyboard you can use the arrow keys to move and hit space to "
@@ -8225,10 +8225,10 @@ msgid ""
 msgstr ""
 
 #: activities/gnumch-equality/ActivityInfo.qml:40
-#: activities/gnumch-factors/ActivityInfo.qml:41
+#: activities/gnumch-factors/ActivityInfo.qml:40
 #: activities/gnumch-inequality/ActivityInfo.qml:39
 #: activities/gnumch-multiples/ActivityInfo.qml:40
-#: activities/gnumch-primes/ActivityInfo.qml:41
+#: activities/gnumch-primes/ActivityInfo.qml:40
 msgctxt "ActivityInfo|"
 msgid "Take care to avoid the Troggles."
 msgstr ""
@@ -8318,13 +8318,13 @@ msgid "Be careful, a troggle!"
 msgstr ""
 
 #. Activity title
-#: activities/gnumch-factors/ActivityInfo.qml:28
+#: activities/gnumch-factors/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Gnumch Factors"
 msgstr ""
 
 #. Help title
-#: activities/gnumch-factors/ActivityInfo.qml:30
+#: activities/gnumch-factors/ActivityInfo.qml:29
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
@@ -8339,14 +8339,14 @@ msgstr ""
 "na sgrìn."
 
 #. Help goal
-#: activities/gnumch-factors/ActivityInfo.qml:33
+#: activities/gnumch-factors/ActivityInfo.qml:32
 #: activities/gnumch-multiples/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
 msgid "Learn about multiples and factors."
 msgstr "Ionnsaich mu iomadan is factaran."
 
 #. Help manual
-#: activities/gnumch-factors/ActivityInfo.qml:37
+#: activities/gnumch-factors/ActivityInfo.qml:36
 msgctxt "ActivityInfo|"
 msgid ""
 "The factors of a number are all the numbers that divide that number evenly. "
@@ -8425,19 +8425,19 @@ msgid ""
 msgstr ""
 
 #. Activity title
-#: activities/gnumch-primes/ActivityInfo.qml:28
+#: activities/gnumch-primes/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Gnumch Primes"
 msgstr ""
 
 #. Help title
-#: activities/gnumch-primes/ActivityInfo.qml:30
+#: activities/gnumch-primes/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Guide the Number Muncher to all the prime numbers."
 msgstr "Stiùirich itheadair nan àireamh dha na h-uile prìomh-àireamh."
 
 #. Help goal
-#: activities/gnumch-primes/ActivityInfo.qml:33
+#: activities/gnumch-primes/ActivityInfo.qml:32
 #, fuzzy
 #| msgctxt "Warning|"
 #| msgid "1 is not a prime number."
@@ -8446,7 +8446,7 @@ msgid "Learn about prime numbers."
 msgstr "Chan eil 1 na prìomh-àireamh."
 
 #. Help manual
-#: activities/gnumch-primes/ActivityInfo.qml:37
+#: activities/gnumch-primes/ActivityInfo.qml:36
 msgctxt "ActivityInfo|"
 msgid ""
 "Prime numbers are numbers that are only divisible by themselves and 1. For "
@@ -11395,14 +11395,83 @@ msgctxt "ConfigurationItem|"
 msgid "All lowercase"
 msgstr ""
 
-#: activities/menu/Menu.qml:336
+#: activities/menu/Menu.qml:105
+msgctxt "Menu|"
+msgid "Logic"
+msgstr ""
+
+#: activities/menu/Menu.qml:106
+msgctxt "Menu|"
+msgid "Fine Arts"
+msgstr ""
+
+#: activities/menu/Menu.qml:107
+msgctxt "Menu|"
+msgid "Music"
+msgstr ""
+
+#: activities/menu/Menu.qml:113
+msgctxt "Menu|"
+msgid "Sciences"
+msgstr ""
+
+#: activities/menu/Menu.qml:114
+msgctxt "Menu|"
+msgid "History"
+msgstr ""
+
+#: activities/menu/Menu.qml:115
+msgctxt "Menu|"
+msgid "Geography"
+msgstr ""
+
+#: activities/menu/Menu.qml:125
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Numeration training"
+msgctxt "Menu|"
+msgid "Numeration"
+msgstr "Trèanadh nan àireamhan"
+
+#: activities/menu/Menu.qml:126
+msgctxt "Menu|"
+msgid "Arithmetic"
+msgstr ""
+
+#: activities/menu/Menu.qml:127
+msgctxt "Menu|"
+msgid "Measures"
+msgstr ""
+
+#: activities/menu/Menu.qml:137
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Simple Letters"
+msgctxt "Menu|"
+msgid "Letters"
+msgstr "Litrichean simplidh"
+
+#: activities/menu/Menu.qml:138
+msgctxt "Menu|"
+msgid "Words"
+msgstr ""
+
+#: activities/menu/Menu.qml:139
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Word reading"
+msgctxt "Menu|"
+msgid "Vocabulary"
+msgstr "Leughadh nam faclan"
+
+#: activities/menu/Menu.qml:375
 msgctxt "Menu|"
 msgid ""
 "Put your favorite activities here by selecting the sun at the top right of "
 "that activity."
 msgstr ""
 
-#: activities/menu/Menu.qml:616
+#: activities/menu/Menu.qml:725
 msgctxt "Menu|"
 msgid "Search specific activities"
 msgstr ""
