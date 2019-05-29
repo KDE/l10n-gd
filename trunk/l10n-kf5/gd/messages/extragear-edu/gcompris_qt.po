@@ -16738,13 +16738,6 @@ msgctxt "main|"
 msgid "GCompris has been updated! Here are the new changes:<br/>"
 msgstr ""
 
-#: core/main.qml:355 core/main.qml:366
-msgctxt "main|"
-msgid ""
-"There is an issue while running GCompris. We have fallbacken to software "
-"renderer mode that should solve the issue. "
-msgstr ""
-
 #: core/ReadyButton.qml:78
 msgctxt "ReadyButton|"
 msgid "I am Ready"
