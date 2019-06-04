@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:54+0200\n"
+"POT-Creation-Date: 2019-06-04 02:58+0200\n"
 "PO-Revision-Date: 2016-04-29 13:11+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -29,56 +29,61 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "fios@foramnagaidhlig.net"
 
-#: ../../file/indexerstate.h:43
+#: ../../file/indexerstate.h:44
 #, kde-format
 msgid "Unknown"
 msgstr "Chan eil fhios"
 
-#: ../../file/indexerstate.h:46
+#: ../../file/indexerstate.h:47
 #, kde-format
 msgid "Idle"
 msgstr "'Na thàmh"
 
-#: ../../file/indexerstate.h:49
+#: ../../file/indexerstate.h:50
 #, kde-format
 msgid "Suspended"
 msgstr "'Na dhàil"
 
-#: ../../file/indexerstate.h:52
+#: ../../file/indexerstate.h:53
 #, kde-format
 msgid "Initial Indexing"
 msgstr "Inneacsadh tòiseachaidh"
 
-#: ../../file/indexerstate.h:55
+#: ../../file/indexerstate.h:56
 #, kde-format
 msgid "Indexing new files"
 msgstr "Ag inneacsadh nam faidhlichean ùra"
 
-#: ../../file/indexerstate.h:58
+#: ../../file/indexerstate.h:59
 #, kde-format
 msgid "Indexing modified files"
 msgstr "Ag inneacsadh nam faidhlichean a chaidh atharrachadh"
 
-#: ../../file/indexerstate.h:61
+#: ../../file/indexerstate.h:62
 #, kde-format
 msgid "Indexing Extended Attributes"
 msgstr "Ag inneacsadh nam buadhan leudaichte"
 
-#: ../../file/indexerstate.h:64
+#: ../../file/indexerstate.h:65
 #, kde-format
 msgid "Indexing file content"
 msgstr "Ag inneacsadh susbaint nam faidhlichean"
 
-#: ../../file/indexerstate.h:67
+#: ../../file/indexerstate.h:68
 #, kde-format
 msgid "Checking for unindexed files"
 msgstr "A' toirt sùil airson faidhlichean gun inneacsadh"
 
-#: ../../file/indexerstate.h:70
+#: ../../file/indexerstate.h:71
 #, fuzzy, kde-format
 #| msgid "Checking for unindexed files"
 msgid "Checking for stale index entries"
 msgstr "A' toirt sùil airson faidhlichean gun inneacsadh"
+
+#: ../../file/indexerstate.h:74
+#, kde-format
+msgid "Idle (Powersave)"
+msgstr ""
 
 #: configcommand.cpp:58
 #, kde-format
@@ -492,21 +497,35 @@ msgstr "Staid an inneil-inneacsaidh: %1"
 msgid "Baloo File Indexer is not running"
 msgstr "Chan eil inneal-inneacsaidh Baloo 'ga ruith"
 
-#: statuscommand.cpp:318
-#, kde-format
-msgid "Indexed %1 / %2 files"
-msgstr "Chaidh %1 / %2 faidhle inneacsadh"
+#: statuscommand.cpp:319
+#, fuzzy, kde-format
+#| msgid "Stop the file indexer"
+msgid "Total files indexed: %1"
+msgstr "Cuir stad air inneal-inneacsaidh nam faidhlichean"
 
-#: statuscommand.cpp:326
+#: statuscommand.cpp:320
+#, kde-format
+msgid "Files waiting for content indexing: %1"
+msgstr ""
+
+#: statuscommand.cpp:321
+#, kde-format
+msgid "Files failed to index: %1"
+msgstr ""
+
+#: statuscommand.cpp:329
 #, kde-format
 msgid "Current size of index is %1"
 msgstr ""
 
-#: statuscommand.cpp:328
+#: statuscommand.cpp:331
 #, fuzzy, kde-format
 #| msgid "Path does not exist"
 msgid "Index does not exist yet"
 msgstr "Chan eil an t-slighe ann"
+
+#~ msgid "Indexed %1 / %2 files"
+#~ msgstr "Chaidh %1 / %2 faidhle inneacsadh"
 
 #~ msgid "Parent folder %1 is already in the list of include folders"
 #~ msgstr ""
