@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-31 02:52+0200\n"
+"POT-Creation-Date: 2019-06-06 02:54+0200\n"
 "PO-Revision-Date: 2016-04-29 19:43+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -262,6 +262,12 @@ msgctxt "Aspect ratio, normalized to one"
 msgid "%1:1"
 msgstr ""
 
+#: src/formatstrings.cpp:168
+#, kde-format
+msgctxt "F number for photographs"
+msgid "f/%1"
+msgstr ""
+
 #: src/propertyinfo.cpp:62
 #, kde-format
 msgctxt "@label music album"
@@ -456,121 +462,121 @@ msgctxt "@label EXIF"
 msgid "Photo F Number"
 msgstr "Àireamh F an deilbh"
 
-#: src/propertyinfo.cpp:279
+#: src/propertyinfo.cpp:280
 #, kde-format
 msgctxt "@label EXIF"
 msgid "Photo Focal Length"
 msgstr "Faid fòcas an deilbh"
 
-#: src/propertyinfo.cpp:286
+#: src/propertyinfo.cpp:287
 #, kde-format
 msgctxt "@label EXIF"
 msgid "Photo Focal Length 35mm"
 msgstr "Faid fòcas 35mm an deilbh"
 
-#: src/propertyinfo.cpp:293
+#: src/propertyinfo.cpp:294
 #, kde-format
 msgctxt "@label EXIF"
 msgid "Photo GPS Latitude"
 msgstr "Domhan-leud GPS an deilbh"
 
-#: src/propertyinfo.cpp:300
+#: src/propertyinfo.cpp:301
 #, kde-format
 msgctxt "@label EXIF"
 msgid "Photo GPS Longitude"
 msgstr "Domhan-fhad GPS an deilbh"
 
-#: src/propertyinfo.cpp:307
+#: src/propertyinfo.cpp:308
 #, kde-format
 msgctxt "@label EXIF"
 msgid "Photo GPS Altitude"
 msgstr "Àirde GPS an deilbh"
 
-#: src/propertyinfo.cpp:314
+#: src/propertyinfo.cpp:315
 #, kde-format
 msgctxt "@label EXIF"
 msgid "Photo ISO Speed Rating"
 msgstr "Rangachadh astar ISO an deilbh"
 
-#: src/propertyinfo.cpp:320
+#: src/propertyinfo.cpp:321
 #, kde-format
 msgctxt "@label EXIF"
 msgid "Photo Metering Mode"
 msgstr "Modh meatairigeadh an deilbh"
 
-#: src/propertyinfo.cpp:326
+#: src/propertyinfo.cpp:327
 #, kde-format
 msgctxt "@label EXIF"
 msgid "Photo X Dimension"
 msgstr "Dimeinsean X an deilbh"
 
-#: src/propertyinfo.cpp:332
+#: src/propertyinfo.cpp:333
 #, kde-format
 msgctxt "@label EXIF"
 msgid "Photo Y Dimension"
 msgstr "Dimeinsean Y an deilbh"
 
-#: src/propertyinfo.cpp:338
+#: src/propertyinfo.cpp:339
 #, kde-format
 msgctxt "@label EXIF"
 msgid "Photo Saturation"
 msgstr "Sàthachd an deilbh"
 
-#: src/propertyinfo.cpp:344
+#: src/propertyinfo.cpp:345
 #, kde-format
 msgctxt "@label EXIF"
 msgid "Photo Sharpness"
 msgstr "Geurad an deilbh"
 
-#: src/propertyinfo.cpp:350
+#: src/propertyinfo.cpp:351
 #, kde-format
 msgctxt "@label EXIF"
 msgid "Photo White Balance"
 msgstr "Cothromachadh gile an deilbh"
 
-#: src/propertyinfo.cpp:356
+#: src/propertyinfo.cpp:357
 #, kde-format
 msgctxt "@label"
 msgid "Publisher"
 msgstr "Foillsichear"
 
-#: src/propertyinfo.cpp:362
+#: src/propertyinfo.cpp:363
 #, kde-format
 msgctxt "@label"
 msgid "Label"
 msgstr ""
 
-#: src/propertyinfo.cpp:368
+#: src/propertyinfo.cpp:369
 #, kde-format
 msgctxt "@label"
 msgid "Release Year"
 msgstr "Bliadhna an sgaoilidh"
 
-#: src/propertyinfo.cpp:374
+#: src/propertyinfo.cpp:375
 #, kde-format
 msgctxt "@label"
 msgid "Sample Rate"
 msgstr "Reat shampallan"
 
-#: src/propertyinfo.cpp:381
+#: src/propertyinfo.cpp:382
 #, kde-format
 msgctxt "@label"
 msgid "Subject"
 msgstr "Cuspair"
 
-#: src/propertyinfo.cpp:388
+#: src/propertyinfo.cpp:389
 #, kde-format
 msgctxt "@label"
 msgid "Title"
 msgstr "Tiotal"
 
-#: src/propertyinfo.cpp:394
+#: src/propertyinfo.cpp:395
 #, kde-format
 msgctxt "@label music track number"
 msgid "Track Number"
 msgstr "Àireamh an traca"
 
-#: src/propertyinfo.cpp:400
+#: src/propertyinfo.cpp:401
 #, fuzzy, kde-format
 #| msgctxt "@label music track number"
 #| msgid "Track Number"
@@ -578,7 +584,7 @@ msgctxt "@label music disc number"
 msgid "Disc Number"
 msgstr "Àireamh an traca"
 
-#: src/propertyinfo.cpp:406
+#: src/propertyinfo.cpp:407
 #, fuzzy, kde-format
 #| msgctxt "@label"
 #| msgid "Duration"
@@ -586,43 +592,43 @@ msgctxt "@label"
 msgid "Location"
 msgstr "Faid"
 
-#: src/propertyinfo.cpp:412
+#: src/propertyinfo.cpp:413
 #, kde-format
 msgctxt "@label"
 msgid "Performer"
 msgstr ""
 
-#: src/propertyinfo.cpp:418
+#: src/propertyinfo.cpp:419
 #, kde-format
 msgctxt "@label"
 msgid "Ensemble"
 msgstr ""
 
-#: src/propertyinfo.cpp:424
+#: src/propertyinfo.cpp:425
 #, kde-format
 msgctxt "@label"
 msgid "Arranger"
 msgstr ""
 
-#: src/propertyinfo.cpp:430
+#: src/propertyinfo.cpp:431
 #, kde-format
 msgctxt "@label"
 msgid "Conductor"
 msgstr ""
 
-#: src/propertyinfo.cpp:436
+#: src/propertyinfo.cpp:437
 #, kde-format
 msgctxt "@label"
 msgid "Compilation"
 msgstr ""
 
-#: src/propertyinfo.cpp:442
+#: src/propertyinfo.cpp:443
 #, kde-format
 msgctxt "@label"
 msgid "License"
 msgstr ""
 
-#: src/propertyinfo.cpp:448
+#: src/propertyinfo.cpp:449
 #, fuzzy, kde-format
 #| msgctxt "@label"
 #| msgid "Lyricist"
@@ -630,91 +636,91 @@ msgctxt "@label"
 msgid "Lyrics"
 msgstr "Sgrìobhaiche fhaclan"
 
-#: src/propertyinfo.cpp:454
+#: src/propertyinfo.cpp:455
 #, kde-format
 msgctxt "@label"
 msgid "Opus"
 msgstr ""
 
-#: src/propertyinfo.cpp:460
+#: src/propertyinfo.cpp:461
 #, kde-format
 msgctxt "@label"
 msgid "Rating"
 msgstr ""
 
-#: src/propertyinfo.cpp:466
+#: src/propertyinfo.cpp:467
 #, kde-format
 msgctxt "@label"
 msgid "Replay Gain Album Peak"
 msgstr ""
 
-#: src/propertyinfo.cpp:473
+#: src/propertyinfo.cpp:474
 #, kde-format
 msgctxt "@label"
 msgid "Replay Gain Album Gain"
 msgstr ""
 
-#: src/propertyinfo.cpp:480
+#: src/propertyinfo.cpp:481
 #, kde-format
 msgctxt "@label"
 msgid "Replay Gain Track Peak"
 msgstr ""
 
-#: src/propertyinfo.cpp:487
+#: src/propertyinfo.cpp:488
 #, kde-format
 msgctxt "@label"
 msgid "Replay Gain Track Gain"
 msgstr ""
 
-#: src/propertyinfo.cpp:494
+#: src/propertyinfo.cpp:495
 #, kde-format
 msgctxt "@label"
 msgid "Width"
 msgstr "Leud"
 
-#: src/propertyinfo.cpp:500
+#: src/propertyinfo.cpp:501
 #, kde-format
 msgctxt "@label number of words"
 msgid "Word Count"
 msgstr "Cunntadh fhaclan"
 
-#: src/propertyinfo.cpp:507
+#: src/propertyinfo.cpp:508
 #, kde-format
 msgctxt "@label number of translatable strings"
 msgid "Translatable Units"
 msgstr "Aonadan a ghabhas eadar-theangachadh"
 
-#: src/propertyinfo.cpp:514
+#: src/propertyinfo.cpp:515
 #, kde-format
 msgctxt "@label number of translated strings"
 msgid "Translations"
 msgstr "Eadar-theangachaidhean"
 
-#: src/propertyinfo.cpp:522
+#: src/propertyinfo.cpp:523
 #, kde-format
 msgctxt "@label number of fuzzy translated strings"
 msgid "Draft Translations"
 msgstr "Dreachdan eadar-theangachaidhean"
 
-#: src/propertyinfo.cpp:529
+#: src/propertyinfo.cpp:530
 #, kde-format
 msgctxt "@label translation author"
 msgid "Author"
 msgstr "Ùghdar"
 
-#: src/propertyinfo.cpp:536
+#: src/propertyinfo.cpp:537
 #, kde-format
 msgctxt "@label translations last update"
 msgid "Last Update"
 msgstr "An t-ùrachadh mu dheireadh"
 
-#: src/propertyinfo.cpp:544
+#: src/propertyinfo.cpp:545
 #, kde-format
 msgctxt "@label date of template creation8"
 msgid "Template Creation"
 msgstr "Cruthachadh teamplaide"
 
-#: src/propertyinfo.cpp:552
+#: src/propertyinfo.cpp:553
 #, fuzzy, kde-format
 #| msgctxt "@label the URL a file was originally downloded from"
 #| msgid "Downloaded From"
@@ -722,19 +728,19 @@ msgctxt "@label the URL a file was originally downloaded from"
 msgid "Downloaded From"
 msgstr "Air a luchdadh a-nuas o"
 
-#: src/propertyinfo.cpp:559
+#: src/propertyinfo.cpp:560
 #, kde-format
 msgctxt "@label the subject of an email this file was attached to"
 msgid "E-Mail Attachment Subject"
 msgstr "Cuspair a' cheanglachain puist-d"
 
-#: src/propertyinfo.cpp:566
+#: src/propertyinfo.cpp:567
 #, kde-format
 msgctxt "@label the sender of an email this file was attached to"
 msgid "E-Mail Attachment Sender"
 msgstr "Seòladair a' cheanglachain puist-d"
 
-#: src/propertyinfo.cpp:573
+#: src/propertyinfo.cpp:574
 #, kde-format
 msgctxt "@label the message ID of an email this file was attached to"
 msgid "E-Mail Attachment Message ID"
