@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-06-13 03:01+0200\n"
+"POT-Creation-Date: 2019-06-15 02:53+0200\n"
 "PO-Revision-Date: 2016-04-29 19:43+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -399,13 +399,15 @@ msgstr "Ceann-là 's àm an deilbh"
 #: src/propertyinfo.cpp:185
 #, kde-format
 msgctxt "@label EXIF"
-msgid "Image Make"
-msgstr "Tionndadh an deilbh"
+msgid "Manufacturer"
+msgstr ""
 
 #: src/propertyinfo.cpp:192
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "@label EXIF"
+#| msgid "Image Model"
 msgctxt "@label EXIF"
-msgid "Image Model"
+msgid "Model"
 msgstr "Modail an deilbh"
 
 #: src/propertyinfo.cpp:199
@@ -445,111 +447,147 @@ msgid "Page Count"
 msgstr "Cunntadh dhuilleagan"
 
 #: src/propertyinfo.cpp:238
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "@label EXIF"
+#| msgid "Photo Aperture Value"
 msgctxt "@label EXIF"
-msgid "Photo Aperture Value"
+msgid "Aperture Value"
 msgstr "Luach fosgladh an deilbh"
 
 #: src/propertyinfo.cpp:245
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "@label EXIF"
+#| msgid "Photo Original Date Time"
 msgctxt "@label EXIF"
-msgid "Photo Original Date Time"
+msgid "Original Date Time"
 msgstr "Ceann-là 's àm tùsail an deilbh"
 
 #: src/propertyinfo.cpp:252
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "@label EXIF"
+#| msgid "Photo Exposure Bias"
 msgctxt "@label EXIF"
-msgid "Photo Exposure Bias"
+msgid "Exposure Bias"
 msgstr "Leasachadh deisearas an deilbh"
 
 #: src/propertyinfo.cpp:259
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "@label EXIF"
+#| msgid "Photo Exposure Time"
 msgctxt "@label EXIF"
-msgid "Photo Exposure Time"
+msgid "Exposure Time"
 msgstr "Ùine deisearas an deilbh"
 
 #: src/propertyinfo.cpp:266
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "@label EXIF"
+#| msgid "Photo Flash"
 msgctxt "@label EXIF"
-msgid "Photo Flash"
+msgid "Flash"
 msgstr "Solas-boillsgidh an deilbh"
 
 #: src/propertyinfo.cpp:273
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "@label music track number"
+#| msgid "Track Number"
 msgctxt "@label EXIF"
-msgid "Photo F Number"
-msgstr "Àireamh F an deilbh"
+msgid "F Number"
+msgstr "Àireamh an traca"
 
 #: src/propertyinfo.cpp:280
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "@label EXIF"
+#| msgid "Photo Focal Length"
 msgctxt "@label EXIF"
-msgid "Photo Focal Length"
+msgid "Focal Length"
 msgstr "Faid fòcas an deilbh"
 
 #: src/propertyinfo.cpp:287
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "@label EXIF"
+#| msgid "Photo Focal Length 35mm"
 msgctxt "@label EXIF"
-msgid "Photo Focal Length 35mm"
+msgid "Focal Length 35mm"
 msgstr "Faid fòcas 35mm an deilbh"
 
 #: src/propertyinfo.cpp:294
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "@label EXIF"
+#| msgid "Photo GPS Latitude"
 msgctxt "@label EXIF"
-msgid "Photo GPS Latitude"
+msgid "GPS Latitude"
 msgstr "Domhan-leud GPS an deilbh"
 
 #: src/propertyinfo.cpp:301
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "@label EXIF"
+#| msgid "Photo GPS Longitude"
 msgctxt "@label EXIF"
-msgid "Photo GPS Longitude"
+msgid "GPS Longitude"
 msgstr "Domhan-fhad GPS an deilbh"
 
 #: src/propertyinfo.cpp:308
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "@label EXIF"
+#| msgid "Photo GPS Altitude"
 msgctxt "@label EXIF"
-msgid "Photo GPS Altitude"
+msgid "GPS Altitude"
 msgstr "Àirde GPS an deilbh"
 
 #: src/propertyinfo.cpp:315
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "@label EXIF"
+#| msgid "Photo ISO Speed Rating"
 msgctxt "@label EXIF"
-msgid "Photo ISO Speed Rating"
+msgid "ISO Speed Rating"
 msgstr "Rangachadh astar ISO an deilbh"
 
 #: src/propertyinfo.cpp:321
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "@label EXIF"
+#| msgid "Photo Metering Mode"
 msgctxt "@label EXIF"
-msgid "Photo Metering Mode"
+msgid "Metering Mode"
 msgstr "Modh meatairigeadh an deilbh"
 
 #: src/propertyinfo.cpp:327
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "@label EXIF"
+#| msgid "Photo X Dimension"
 msgctxt "@label EXIF"
-msgid "Photo X Dimension"
+msgid "X Dimension"
 msgstr "Dimeinsean X an deilbh"
 
 #: src/propertyinfo.cpp:333
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "@label EXIF"
+#| msgid "Photo Y Dimension"
 msgctxt "@label EXIF"
-msgid "Photo Y Dimension"
+msgid "Y Dimension"
 msgstr "Dimeinsean Y an deilbh"
 
 #: src/propertyinfo.cpp:339
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "@label"
+#| msgid "Duration"
 msgctxt "@label EXIF"
-msgid "Photo Saturation"
-msgstr "Sàthachd an deilbh"
+msgid "Saturation"
+msgstr "Faid"
 
 #: src/propertyinfo.cpp:345
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "@label EXIF"
+#| msgid "Photo Sharpness"
 msgctxt "@label EXIF"
-msgid "Photo Sharpness"
+msgid "Sharpness"
 msgstr "Geurad an deilbh"
 
 #: src/propertyinfo.cpp:351
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "@label EXIF"
+#| msgid "Photo White Balance"
 msgctxt "@label EXIF"
-msgid "Photo White Balance"
+msgid "White Balance"
 msgstr "Cothromachadh gile an deilbh"
 
 #: src/propertyinfo.cpp:357
@@ -817,6 +855,18 @@ msgstr "Video"
 msgctxt "@label"
 msgid "Folder"
 msgstr "Pasgan"
+
+#~ msgctxt "@label EXIF"
+#~ msgid "Image Make"
+#~ msgstr "Tionndadh an deilbh"
+
+#~ msgctxt "@label EXIF"
+#~ msgid "Photo F Number"
+#~ msgstr "Àireamh F an deilbh"
+
+#~ msgctxt "@label EXIF"
+#~ msgid "Photo Saturation"
+#~ msgstr "Sàthachd an deilbh"
 
 #~ msgctxt "@label"
 #~ msgid "Software used to Generate the document"
