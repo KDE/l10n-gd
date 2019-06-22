@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-06-13 03:05+0200\n"
+"POT-Creation-Date: 2019-06-22 02:56+0200\n"
 "PO-Revision-Date: 2016-04-30 12:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -54,32 +54,32 @@ msgstr "An-diugh"
 msgid "Reset calendar to today"
 msgstr "Ath-suidhich am mìosachan air an-diugh"
 
-#: declarativeimports/calendar/qml/MonthView.qml:237
+#: declarativeimports/calendar/qml/MonthView.qml:247
 #, kde-format
 msgid "Previous Month"
 msgstr "Am mìos roimhe"
 
-#: declarativeimports/calendar/qml/MonthView.qml:238
+#: declarativeimports/calendar/qml/MonthView.qml:248
 #, kde-format
 msgid "Next Month"
 msgstr "An ath-mhìos"
 
-#: declarativeimports/calendar/qml/MonthView.qml:265
+#: declarativeimports/calendar/qml/MonthView.qml:275
 #, kde-format
 msgid "Previous Year"
 msgstr "Am bliadhna roimhe"
 
-#: declarativeimports/calendar/qml/MonthView.qml:266
+#: declarativeimports/calendar/qml/MonthView.qml:276
 #, kde-format
 msgid "Next Year"
 msgstr "An ath-bhliadhna"
 
-#: declarativeimports/calendar/qml/MonthView.qml:298
+#: declarativeimports/calendar/qml/MonthView.qml:308
 #, kde-format
 msgid "Previous Decade"
 msgstr "An deichead roimhe"
 
-#: declarativeimports/calendar/qml/MonthView.qml:299
+#: declarativeimports/calendar/qml/MonthView.qml:309
 #, kde-format
 msgid "Next Decade"
 msgstr "An ath-dheichead"

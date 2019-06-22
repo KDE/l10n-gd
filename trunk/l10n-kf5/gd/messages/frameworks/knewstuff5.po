@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:57+0200\n"
+"POT-Creation-Date: 2019-06-22 02:54+0200\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -450,14 +450,14 @@ msgctxt "@action:inmenu"
 msgid "Visit homepage"
 msgstr "Tadhail air an duilleag-dhachaigh"
 
-#: kmoretools/kmoretools_p.h:397
+#: kmoretools/kmoretools_p.h:398
 #, fuzzy, kde-format
 #| msgid "Install"
 msgctxt "@action:inmenu"
 msgid "Install"
 msgstr "Stàlaich"
 
-#: kmoretools/kmoretools_p.h:404
+#: kmoretools/kmoretools_p.h:406
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "No further information available."
