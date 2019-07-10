@@ -11464,14 +11464,14 @@ msgctxt "Menu|"
 msgid "Vocabulary"
 msgstr "Leughadh nam faclan"
 
-#: activities/menu/Menu.qml:375
+#: activities/menu/Menu.qml:376
 msgctxt "Menu|"
 msgid ""
 "Put your favorite activities here by selecting the sun at the top right of "
 "that activity."
 msgstr ""
 
-#: activities/menu/Menu.qml:725
+#: activities/menu/Menu.qml:733
 msgctxt "Menu|"
 msgid "Search specific activities"
 msgstr ""
