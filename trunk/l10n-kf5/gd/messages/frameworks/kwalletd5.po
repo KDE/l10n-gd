@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwalletd5\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:58+0200\n"
+"POT-Creation-Date: 2019-07-18 02:53+0200\n"
 "PO-Revision-Date: 2016-05-04 18:07+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -300,9 +300,7 @@ msgid "Key-ID"
 msgstr "ID na h-iuchrach"
 
 #. i18n: ectx: property (comment), widget (KTitleWidget, ktitlewidget)
-#. i18n: ectx: property (text), widget (KTitleWidget, title)
 #: knewwalletdialogintro.ui:17 kwalletwizardpageintro.ui:17
-#: migrationwizard1.ui:17 migrationwizard2.ui:17
 #, kde-format
 msgid "The KDE Wallet System"
 msgstr "Siostam sporain KDE"
@@ -357,7 +355,7 @@ msgstr ""
 #. i18n( "&Open" ), "wallet-open"));
 #: kwalletd.cpp:636 kwalletd.cpp:781 kwalletd.cpp:899 kwalletd.cpp:1028
 #: kwalletd.cpp:1055 kwalletd.cpp:1069 kwalletd.cpp:1078 kwalletd.cpp:1629
-#: main.cpp:177 main.cpp:182 main.cpp:184
+#: main.cpp:176 main.cpp:181 main.cpp:183
 #, kde-format
 msgid "KDE Wallet Service"
 msgstr "Seirbheis sporain KDE"
@@ -722,178 +720,140 @@ msgstr ""
 msgid "What kind of encryption do you wish?"
 msgstr "Dè an seòrsa crioptachaidh a thogras tu?"
 
-#: main.cpp:181
+#: main.cpp:180
 #, kde-format
 msgid "kwalletd"
 msgstr "kwalletd"
 
-#: main.cpp:186
+#: main.cpp:185
 #, kde-format
 msgid "(C) 2002-2013, The KDE Developers"
 msgstr "(C) 2002-2013, The KDE Developers"
 
-#: main.cpp:187
+#: main.cpp:186
 #, kde-format
 msgid "Valentin Rusu"
 msgstr "Valentin Rusu"
 
-#: main.cpp:187
+#: main.cpp:186
 #, kde-format
 msgid "Maintainer, GPG backend support"
 msgstr "Neach-glèidhidh, taic dha backend GPG"
 
-#: main.cpp:188
+#: main.cpp:187
 #, kde-format
 msgid "Michael Leupold"
 msgstr "Michael Leupold"
 
-#: main.cpp:188
+#: main.cpp:187
 #, kde-format
 msgid "Former Maintainer"
 msgstr "Neach-glèidhidh roimhe"
 
-#: main.cpp:189
+#: main.cpp:188
 #, kde-format
 msgid "George Staikos"
 msgstr "George Staikos"
 
-#: main.cpp:189
+#: main.cpp:188
 #, kde-format
 msgid "Former maintainer"
 msgstr "Neach-glèidhidh roimhe"
 
-#: main.cpp:190
+#: main.cpp:189
 #, kde-format
 msgid "Thiago Maceira"
 msgstr "Thiago Maceira"
 
-#: main.cpp:190
+#: main.cpp:189
 #, kde-format
 msgid "D-Bus Interface"
 msgstr "Eadar-aghaidh D-Bus"
 
-#: migrationagent.cpp:183 migrationagent.cpp:197
-#, kde-format
-msgid "Cannot read old wallet list. Aborting."
-msgstr ""
-"Chan urrainn dhuinn seann-liosta nan sporan a leughadh. 'Ga leigeil seachad."
+#~ msgid "Cannot read old wallet list. Aborting."
+#~ msgstr ""
+#~ "Chan urrainn dhuinn seann-liosta nan sporan a leughadh. 'Ga leigeil "
+#~ "seachad."
 
-#: migrationagent.cpp:193
-#, kde-format
-msgid "KDE Wallet Migration Agent"
-msgstr "Àidseant imrich airson sporan KDE"
+#~ msgid "KDE Wallet Migration Agent"
+#~ msgstr "Àidseant imrich airson sporan KDE"
 
-#: migrationagent.cpp:200
-#, kde-format
-msgid "Migrating wallet: %1"
-msgstr "Ag imrich sporain: %1"
+#~ msgid "Migrating wallet: %1"
+#~ msgstr "Ag imrich sporain: %1"
 
-#: migrationagent.cpp:201
-#, kde-format
-msgid "* Creating KF5 wallet: %1"
-msgstr "* A' cruthachadh sporan KF: %1"
+#~ msgid "* Creating KF5 wallet: %1"
+#~ msgstr "* A' cruthachadh sporan KF: %1"
 
-#: migrationagent.cpp:213
-#, kde-format
-msgid "ERROR when attempting new wallet creation. Aborting."
-msgstr "MEARACHD le cruthachadh sporain ùir. 'Ga leigeil seachad."
+#~ msgid "ERROR when attempting new wallet creation. Aborting."
+#~ msgstr "MEARACHD le cruthachadh sporain ùir. 'Ga leigeil seachad."
 
-#: migrationagent.cpp:219
-#, kde-format
-msgid "Cannot open KDE4 wallet named: %1"
-msgstr "Chan urrainn dhuinn an sporan KDE4 fhosgladh air a bheil %1"
+#~ msgid "Cannot open KDE4 wallet named: %1"
+#~ msgstr "Chan urrainn dhuinn an sporan KDE4 fhosgladh air a bheil %1"
 
-#: migrationagent.cpp:220
-#, kde-format
-msgid "* Opened KDE4 wallet: %1"
-msgstr "* Chaidh sporan KDE4 fhosgladh: %1"
+#~ msgid "* Opened KDE4 wallet: %1"
+#~ msgstr "* Chaidh sporan KDE4 fhosgladh: %1"
 
-#: migrationagent.cpp:224
-#, kde-format
-msgid "Cannot retrieve folder list. Aborting."
-msgstr "Chan urrainn dhuinn liosta nam pasgan fhaighinn. 'Ga leigeil seachad."
+#~ msgid "Cannot retrieve folder list. Aborting."
+#~ msgstr ""
+#~ "Chan urrainn dhuinn liosta nam pasgan fhaighinn. 'Ga leigeil seachad."
 
-#: migrationagent.cpp:227
-#, kde-format
-msgid "* Migrating folder %1"
-msgstr "* Ag imrich pasgan %1"
+#~ msgid "* Migrating folder %1"
+#~ msgstr "* Ag imrich pasgan %1"
 
-#: migrationagent.cpp:231
-#, kde-format
-msgid "Cannot retrieve folder %1 entries. Aborting."
-msgstr ""
-"Chan urrainn dhuinn innteartan a' phasgain %1 fhaighinn. 'Ga leigeil seachad."
+#~ msgid "Cannot retrieve folder %1 entries. Aborting."
+#~ msgstr ""
+#~ "Chan urrainn dhuinn innteartan a' phasgain %1 fhaighinn. 'Ga leigeil "
+#~ "seachad."
 
-#: migrationagent.cpp:237
-#, kde-format
-msgid "Cannot retrieve key %1 info. Aborting."
-msgstr ""
-"Chan urrainn dhuinn fiosrachadh na h-iuchrach %1 fhaighinn. 'Ga leigeil "
-"seachad."
+#~ msgid "Cannot retrieve key %1 info. Aborting."
+#~ msgstr ""
+#~ "Chan urrainn dhuinn fiosrachadh na h-iuchrach %1 fhaighinn. 'Ga leigeil "
+#~ "seachad."
 
-#: migrationagent.cpp:241
-#, kde-format
-msgid "* SKIPPING entry %1 in folder %2 as it seems already migrated"
-msgstr ""
-"* A' gearradh LEUM thairis air an innteart \"%1\" sa phasgan \"%2\" on a tha "
-"coltas air gun deach imrich mar-thà"
+#~ msgid "* SKIPPING entry %1 in folder %2 as it seems already migrated"
+#~ msgstr ""
+#~ "* A' gearradh LEUM thairis air an innteart \"%1\" sa phasgan \"%2\" on a "
+#~ "tha coltas air gun deach imrich mar-thà"
 
-#: migrationagent.cpp:245
-#, kde-format
-msgid "Cannot retrieve key %1 data. Aborting."
-msgstr ""
-"Chan urrainn dhuinn dàta na h-iuchrach %1 fhaighinn. 'Ga leigeil seachad."
+#~ msgid "Cannot retrieve key %1 data. Aborting."
+#~ msgstr ""
+#~ "Chan urrainn dhuinn dàta na h-iuchrach %1 fhaighinn. 'Ga leigeil seachad."
 
-#: migrationagent.cpp:247
-#, kde-format
-msgid "Cannot write entry %1 in the new wallet. Aborting."
-msgstr ""
-"Chan urrainn dhuinn an t-innteart \"%1\" a sgrìobhadh san sporan ùr. 'Ga "
-"leigeil seachad."
+#~ msgid "Cannot write entry %1 in the new wallet. Aborting."
+#~ msgstr ""
+#~ "Chan urrainn dhuinn an t-innteart \"%1\" a sgrìobhadh san sporan ùr. 'Ga "
+#~ "leigeil seachad."
 
-#: migrationagent.cpp:258
-#, kde-format
-msgid "DONE migrating wallet\n"
-msgstr "Tha imrich an sporain DEISEIL\n"
+#~ msgid "DONE migrating wallet\n"
+#~ msgstr "Tha imrich an sporain DEISEIL\n"
 
-#. i18n: ectx: property (text), widget (QLabel, label)
-#: migrationwizard1.ui:29
-#, kde-format
-msgid ""
-"Congratulations! The system detected that you're running the latest version "
-"of the KWallet, using KDE Frameworks 5.\n"
-"\n"
-"It seems that you also have KDE4 wallet(s) on your system.\n"
-"\n"
-"Would you like them to be migrated to this new KWallet version? The "
-"operation will only take one minute to be performed.\n"
-msgstr ""
-"Meal do naidheachd! Mhothaich an siostam gu bheil thu a' ruith an tionndadh "
-"as ùire dhe KWallet le KDE Frameworks 5.\n"
-"\n"
-"Tha coltas gu bheil sporan(an) KDE4 air an t-siostam agad cuideachd.\n"
-"\n"
-"Am bu toigh leat an imrich gun tionndadh ùr seo dhe KWallet? Tha doir sin "
-"ach mionaid.\n"
+#~ msgid ""
+#~ "Congratulations! The system detected that you're running the latest "
+#~ "version of the KWallet, using KDE Frameworks 5.\n"
+#~ "\n"
+#~ "It seems that you also have KDE4 wallet(s) on your system.\n"
+#~ "\n"
+#~ "Would you like them to be migrated to this new KWallet version? The "
+#~ "operation will only take one minute to be performed.\n"
+#~ msgstr ""
+#~ "Meal do naidheachd! Mhothaich an siostam gu bheil thu a' ruith an "
+#~ "tionndadh as ùire dhe KWallet le KDE Frameworks 5.\n"
+#~ "\n"
+#~ "Tha coltas gu bheil sporan(an) KDE4 air an t-siostam agad cuideachd.\n"
+#~ "\n"
+#~ "Am bu toigh leat an imrich gun tionndadh ùr seo dhe KWallet? Tha doir sin "
+#~ "ach mionaid.\n"
 
-#. i18n: ectx: property (text), widget (QRadioButton, _optionYes)
-#: migrationwizard1.ui:59
-#, kde-format
-msgid "&Yes, migrate my wallets now."
-msgstr "&Bu toigh, imrich na sporanan agam an-dràsta."
+#~ msgid "&Yes, migrate my wallets now."
+#~ msgstr "&Bu toigh, imrich na sporanan agam an-dràsta."
 
-#. i18n: ectx: property (text), widget (QRadioButton, _optionNo)
-#: migrationwizard1.ui:70
-#, kde-format
-msgid ""
-"No, I'd rather do this upon ne&xt session start,\n"
-"and I'll cancel this wizard for now."
-msgstr ""
-"Cha bu toigh, b' fhearr leam seo a dhèanamh air toiseach an ath-&sheisein\n"
-"agus sguiridh mi dhen draoidh seo an-dràsta."
+#~ msgid ""
+#~ "No, I'd rather do this upon ne&xt session start,\n"
+#~ "and I'll cancel this wizard for now."
+#~ msgstr ""
+#~ "Cha bu toigh, b' fhearr leam seo a dhèanamh air toiseach an ath-"
+#~ "&sheisein\n"
+#~ "agus sguiridh mi dhen draoidh seo an-dràsta."
 
-#. i18n: ectx: property (text), widget (QRadioButton, _optionNotInterested)
-#: migrationwizard1.ui:77
-#, kde-format
-msgid "No, and p&lease do not prompt me again."
-msgstr "Cha bu toigh is na &faighnich dhìom a-rithist."
+#~ msgid "No, and p&lease do not prompt me again."
+#~ msgstr "Cha bu toigh is na &faighnich dhìom a-rithist."
