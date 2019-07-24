@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-07-18 02:54+0200\n"
+"POT-Creation-Date: 2019-07-24 02:49+0200\n"
 "PO-Revision-Date: 2016-04-30 12:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -432,7 +432,7 @@ msgstr "Stòr-bhòrd"
 msgid "Tasks"
 msgstr "Saothraichean"
 
-#: plasma/pluginloader.cpp:584 plasma/pluginloader.cpp:585
+#: plasma/pluginloader.cpp:592 plasma/pluginloader.cpp:593
 #, kde-format
 msgctxt "misc category"
 msgid "Miscellaneous"
