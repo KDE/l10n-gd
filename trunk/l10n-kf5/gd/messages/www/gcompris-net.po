@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GCompris-Unofficial\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-31 03:23+0200\n"
+"POT-Creation-Date: 2019-08-15 03:04+0200\n"
 "PO-Revision-Date: 2017-05-04 09:29+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -488,7 +488,9 @@ msgid "Raspberry Pi"
 msgstr ""
 
 #: template/downloads.html:118
-msgid "We provide a standalone package for Raspberry Pi."
+msgid ""
+"We provide a standalone package for Raspberry Pi. This package is a beta "
+"version. It was tested only on Raspberry Pi 3."
 msgstr ""
 
 #: template/downloads.html:138
