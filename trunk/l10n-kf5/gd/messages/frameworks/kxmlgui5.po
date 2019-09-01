@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-25 02:37+0200\n"
+"POT-Creation-Date: 2019-09-01 02:49+0200\n"
 "PO-Revision-Date: 2016-04-30 17:56+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -347,12 +347,12 @@ msgstr ""
 msgid "Ambiguous shortcut detected"
 msgstr "Mhothaich sinn dha dh'ath-ghoirid ioma-sheaghach"
 
-#: kbugreport.cpp:104 kbugreport.cpp:133
+#: kbugreport.cpp:106 kbugreport.cpp:135
 #, kde-format
 msgid "Submit Bug Report"
 msgstr "Cuir a-null aithris air buga"
 
-#: kbugreport.cpp:144
+#: kbugreport.cpp:146
 #, kde-format
 msgid ""
 "Your email address. If incorrect, use the Configure Email button to change it"
@@ -360,44 +360,44 @@ msgstr ""
 "An seòladh puist-d agad. Mur eil e mar bu chòir, Cleachd am putan \"Rèitich "
 "am post-d\" gus atharrachadh"
 
-#: kbugreport.cpp:145
+#: kbugreport.cpp:147
 #, kde-format
 msgctxt "Email sender address"
 msgid "From:"
 msgstr "O:"
 
-#: kbugreport.cpp:153
+#: kbugreport.cpp:155
 #, kde-format
 msgid "Configure Email..."
 msgstr "Rèitich am post-d..."
 
-#: kbugreport.cpp:160
+#: kbugreport.cpp:162
 #, kde-format
 msgid "The email address this bug report is sent to."
 msgstr "Am post-d dhan a thèid aithris air a' bhuga a chur."
 
-#: kbugreport.cpp:161
+#: kbugreport.cpp:163
 #, kde-format
 msgctxt "Email receiver address"
 msgid "To:"
 msgstr "Gu:"
 
-#: kbugreport.cpp:170
+#: kbugreport.cpp:172
 #, kde-format
 msgid "&Send"
 msgstr "&Cuir"
 
-#: kbugreport.cpp:170
+#: kbugreport.cpp:172
 #, kde-format
 msgid "Send bug report."
 msgstr "Cuir aithris air buga."
 
-#: kbugreport.cpp:171
+#: kbugreport.cpp:173
 #, kde-format
 msgid "Send this bug report to %1."
 msgstr "Cuir aithris air a' bhuga seo gu %1."
 
-#: kbugreport.cpp:179
+#: kbugreport.cpp:181
 #, kde-format
 msgid ""
 "The application for which you wish to submit a bug report - if incorrect, "
@@ -406,12 +406,12 @@ msgstr ""
 "An aplacaid sa bheil am buga - mur eil i mar bu chòir, cleachd an nì clàir-"
 "thaice \"Dèan aithris air buga\" aig an aplacaid cheart"
 
-#: kbugreport.cpp:180
+#: kbugreport.cpp:182
 #, kde-format
 msgid "Application: "
 msgstr "Aplacaid: "
 
-#: kbugreport.cpp:207
+#: kbugreport.cpp:209
 #, kde-format
 msgid ""
 "The version of this application - please make sure that no newer version is "
@@ -420,63 +420,63 @@ msgstr ""
 "Tionndadh na h-aplacaid seo - dèan cinnteach nach eil tionndadh nas ùire ri "
 "fhaighinn mus cuir thu aithris air buga a-null"
 
-#: kbugreport.cpp:208
+#: kbugreport.cpp:210
 #, kde-format
 msgid "Version:"
 msgstr "Tionndadh:"
 
-#: kbugreport.cpp:213
+#: kbugreport.cpp:215
 #, kde-format
 msgid "no version set (programmer error)"
 msgstr "cha deach tionndadh a shuidheachadh (seo mearachd prògramachaidh)"
 
-#: kbugreport.cpp:225
+#: kbugreport.cpp:227
 #, kde-format
 msgid "OS:"
 msgstr "Siostam-obrachaidh:"
 
-#: kbugreport.cpp:233
+#: kbugreport.cpp:235
 #, kde-format
 msgid "Compiler:"
 msgstr "Trusaiche:"
 
-#: kbugreport.cpp:241
+#: kbugreport.cpp:243
 #, kde-format
 msgid "Se&verity"
 msgstr "&Cudromachd"
 
-#: kbugreport.cpp:243
+#: kbugreport.cpp:247
 #, kde-format
 msgid "Critical"
 msgstr "Èiginneach"
 
-#: kbugreport.cpp:243
+#: kbugreport.cpp:248
 #, kde-format
 msgid "Grave"
 msgstr "Cudromach"
 
-#: kbugreport.cpp:243
+#: kbugreport.cpp:249
 #, kde-format
 msgctxt "normal severity"
 msgid "Normal"
 msgstr "Àbhaisteach"
 
-#: kbugreport.cpp:243
+#: kbugreport.cpp:250
 #, kde-format
 msgid "Wishlist"
 msgstr "Miann"
 
-#: kbugreport.cpp:243
+#: kbugreport.cpp:251
 #, kde-format
 msgid "Translation"
 msgstr "Eadar-theangachadh"
 
-#: kbugreport.cpp:261
+#: kbugreport.cpp:269
 #, kde-format
 msgid "S&ubject: "
 msgstr "C&uspair: "
 
-#: kbugreport.cpp:269
+#: kbugreport.cpp:277
 #, kde-format
 msgid ""
 "Enter the text (in English if possible) that you wish to submit for the bug "
@@ -489,7 +489,7 @@ msgstr ""
 "Nuair a nì thu briogadh air \"Cuir a-null\", thèid teachdaireachd puist-d a "
 "chur gu neach-glèidhidh a' phrògraim seo.\n"
 
-#: kbugreport.cpp:293
+#: kbugreport.cpp:301
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt>To submit a bug report, click on the button below. This will open a "
@@ -507,7 +507,7 @@ msgstr ""
 "\">http://bugs.kde.org</a> far am faic thu foirm ri lìonadh. Thèid am "
 "fiosrachadh a chì thu gu h-àrd a chur a-null dhan fhrithealaiche ud.</qt>"
 
-#: kbugreport.cpp:298
+#: kbugreport.cpp:306
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt>To submit a bug report, click on the button below. This will open a "
@@ -523,24 +523,24 @@ msgstr ""
 "\">http://bugs.kde.org</a> far am faic thu foirm ri lìonadh. Thèid am "
 "fiosrachadh a chì thu gu h-àrd a chur a-null dhan fhrithealaiche ud.</qt>"
 
-#: kbugreport.cpp:315
+#: kbugreport.cpp:323
 #, kde-format
 msgid "&Launch Bug Report Wizard"
 msgstr "&Tòisich draoidh airson aithris air buga"
 
-#: kbugreport.cpp:317
+#: kbugreport.cpp:325
 #, fuzzy, kde-format
 #| msgid "Submit Bug Report"
 msgid "&Submit Bug Report"
 msgstr "Cuir a-null aithris air buga"
 
-#: kbugreport.cpp:381
+#: kbugreport.cpp:389
 #, kde-format
 msgctxt "unknown program name"
 msgid "unknown"
 msgstr "chan eil fhios"
 
-#: kbugreport.cpp:440
+#: kbugreport.cpp:448
 #, kde-format
 msgid ""
 "You must specify both a subject and a description before the report can be "
@@ -549,7 +549,7 @@ msgstr ""
 "Feumaidh tu an dà chuid cuspair is tuairisgeul a thoirt seachad mus gabh an "
 "aithris a chur a-null."
 
-#: kbugreport.cpp:449
+#: kbugreport.cpp:457
 #, kde-format
 msgid ""
 "<p>You chose the severity <b>Critical</b>. Please note that this severity is "
@@ -569,7 +569,7 @@ msgstr ""
 "<p>An adhbharaich am buga a tha thu ag aithris gin dhen dochann gu h-àrd? "
 "Mur adhbharaich, tagh cudromachd nas ìsle. Mòran taing.</p>"
 
-#: kbugreport.cpp:461
+#: kbugreport.cpp:469
 #, kde-format
 msgid ""
 "<p>You chose the severity <b>Grave</b>. Please note that this severity is "
@@ -589,7 +589,7 @@ msgstr ""
 "<p>An adhbharaich am buga a tha thu ag aithris gin dhen dochann gu h-àrd? "
 "Mur adhbharaich, tagh cudromachd nas ìsle. Mòran taing.</p>"
 
-#: kbugreport.cpp:475
+#: kbugreport.cpp:483
 #, fuzzy, kde-format
 #| msgid ""
 #| "Unable to send the bug report.\n"
@@ -604,12 +604,12 @@ msgstr ""
 "An cuir thu aithris air buga dhuinn a làimh?\n"
 "Faic http://bugs.kde.org/ airson stiùireadh."
 
-#: kbugreport.cpp:483
+#: kbugreport.cpp:491
 #, kde-format
 msgid "Bug report sent, thank you for your input."
 msgstr "Chaidh an aithris a chur. Mòran taing airson an fhiosrachaidh."
 
-#: kbugreport.cpp:492
+#: kbugreport.cpp:500
 #, kde-format
 msgid ""
 "Close and discard\n"
@@ -618,7 +618,7 @@ msgstr ""
 "A bheil thu airson an teachdaireachd a dheasaich\n"
 "thu a dhùnadh 's a leigeil seachad?"
 
-#: kbugreport.cpp:493
+#: kbugreport.cpp:501
 #, kde-format
 msgid "Close Message"
 msgstr "Dùin an teachdaireachd"
