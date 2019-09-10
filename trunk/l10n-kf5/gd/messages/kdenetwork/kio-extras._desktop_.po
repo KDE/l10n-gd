@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:32+0000\n"
+"POT-Creation-Date: 2019-09-10 01:19+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -37,16 +37,6 @@ msgstr ""
 #: fish/fish.protocol:16
 msgctxt "Description"
 msgid "A kioslave for the FISH protocol"
-msgstr ""
-
-#: man/kmanpart.desktop:3
-msgctxt "Comment"
-msgid "Embeddable Troff Viewer"
-msgstr ""
-
-#: man/kmanpart.desktop:93
-msgctxt "Name"
-msgid "KManPart"
 msgstr ""
 
 #: mtp/mtp-network.desktop:3
