@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-01 02:49+0200\n"
+"POT-Creation-Date: 2019-09-11 02:54+0200\n"
 "PO-Revision-Date: 2016-04-30 17:56+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -713,7 +713,7 @@ msgstr "Ath-shuidhich na bàraichean-inneal"
 msgid "Reset"
 msgstr "Ath-shuidhich"
 
-#: kedittoolbar.cpp:1003
+#: kedittoolbar.cpp:1006
 #, kde-format
 msgid "&Toolbar:"
 msgstr "&Bàr-inneal:"
@@ -725,38 +725,38 @@ msgstr "&Bàr-inneal:"
 #. del_toolbar->setPixmap(BarIcon("edit-delete", KIconLoader::SizeSmall));
 #. del_toolbar->setEnabled(false); // disabled until implemented
 #. our list of inactive actions
-#: kedittoolbar.cpp:1018
+#: kedittoolbar.cpp:1021
 #, kde-format
 msgid "A&vailable actions:"
 msgstr "&Gnìomhan ri am faighinn:"
 
-#: kedittoolbar.cpp:1033 kedittoolbar.cpp:1052
+#: kedittoolbar.cpp:1036 kedittoolbar.cpp:1055
 #, kde-format
 msgid "Filter"
 msgstr "Criathrag"
 
-#: kedittoolbar.cpp:1036
+#: kedittoolbar.cpp:1039
 #, kde-format
 msgid "Curr&ent actions:"
 msgstr "Gnìomhan làithr&each:"
 
-#: kedittoolbar.cpp:1055
+#: kedittoolbar.cpp:1058
 #, kde-format
 msgid "Change &Icon..."
 msgstr "Atharraich an ìomha&igheag..."
 
-#: kedittoolbar.cpp:1063
+#: kedittoolbar.cpp:1066
 #, kde-format
 msgid "Change Te&xt..."
 msgstr "Atharraich an &teacsa..."
 
-#: kedittoolbar.cpp:1218
+#: kedittoolbar.cpp:1221
 #, kde-format
 msgctxt "@item:intable Action name in toolbar editor"
 msgid "%1"
 msgstr "%1"
 
-#: kedittoolbar.cpp:1245
+#: kedittoolbar.cpp:1248
 #, kde-format
 msgid ""
 "This element will be replaced with all the elements of an embedded component."
@@ -764,17 +764,17 @@ msgstr ""
 "Thèid a h-uile eileamaid aig co-pàirt leabaichte a chur an àite na h-"
 "eileamaid seo."
 
-#: kedittoolbar.cpp:1247
+#: kedittoolbar.cpp:1250
 #, kde-format
 msgid "<Merge>"
 msgstr "<Co-aonaich>"
 
-#: kedittoolbar.cpp:1249
+#: kedittoolbar.cpp:1252
 #, kde-format
 msgid "<Merge %1>"
 msgstr "<Co-aonaich %1>"
 
-#: kedittoolbar.cpp:1255
+#: kedittoolbar.cpp:1258
 #, kde-format
 msgid ""
 "This is a dynamic list of actions. You can move it, but if you remove it you "
@@ -783,18 +783,18 @@ msgstr ""
 "Seo liosta innsginneach dhe ghnìomhan. 'S urrainn dhut a gluasad ach ma "
 "bheir thu air falbh i chan urrainn dhut a cur ris a-rithist."
 
-#: kedittoolbar.cpp:1256
+#: kedittoolbar.cpp:1259
 #, kde-format
 msgid "ActionList: %1"
 msgstr "Liosta ghnìomhan: %1"
 
-#: kedittoolbar.cpp:1360 kedittoolbar.cpp:1387
+#: kedittoolbar.cpp:1365 kedittoolbar.cpp:1392
 #, kde-format
 msgctxt "@label Action tooltip in toolbar editor, below the action list"
 msgid "%1"
 msgstr "%1"
 
-#: kedittoolbar.cpp:1616
+#: kedittoolbar.cpp:1621
 #, kde-format
 msgid "Change Icon"
 msgstr "Atharraich an ìomhaigheag"
@@ -837,12 +837,12 @@ msgstr "Cum %1 sìos is an uairsin brùth air %2"
 msgid "&Help"
 msgstr "Cob&hair"
 
-#: kkeysequencewidget.cpp:128
+#: kkeysequencewidget.cpp:129
 #, kde-format
 msgid "Shortcut '%1' in Application %2 for action %3\n"
 msgstr "Ath-ghoirid \"%1\" ann an aplacaid %2 airson gnìomh %3\n"
 
-#: kkeysequencewidget.cpp:138
+#: kkeysequencewidget.cpp:139
 #, kde-format
 msgctxt ""
 "%1 is the number of conflicts (hidden), %2 is the key sequence of the "
@@ -859,7 +859,7 @@ msgstr[2] ""
 msgstr[3] ""
 "Tha còmhstri eadar an ath-ghoirid \"%2\" agus na co-iuchraichean seo:\n"
 
-#: kkeysequencewidget.cpp:144
+#: kkeysequencewidget.cpp:145
 #, kde-format
 msgctxt "%1 is the number of shortcuts with which there is a conflict"
 msgid "Conflict with Registered Global Shortcut"
@@ -869,13 +869,13 @@ msgstr[1] "Còmhstri le ath-ghoiridean uile-choitcheann clàraichte"
 msgstr[2] "Còmhstri le ath-ghoiridean uile-choitcheann clàraichte"
 msgstr[3] "Còmhstri le ath-ghoiridean uile-choitcheann clàraichte"
 
-#: kkeysequencewidget.cpp:146 kkeysequencewidget.cpp:234
-#: kkeysequencewidget.cpp:625 kshortcutseditor.cpp:635 kshortcutseditor.cpp:653
+#: kkeysequencewidget.cpp:147 kkeysequencewidget.cpp:235
+#: kkeysequencewidget.cpp:626 kshortcutseditor.cpp:637 kshortcutseditor.cpp:655
 #, kde-format
 msgid "Reassign"
 msgstr "Ath-shònraich"
 
-#: kkeysequencewidget.cpp:215
+#: kkeysequencewidget.cpp:216
 #, kde-format
 msgctxt "%1 is the number of conflicts"
 msgid "Shortcut Conflict"
@@ -885,12 +885,12 @@ msgstr[1] "Còmhstrithean ath-ghoiridean"
 msgstr[2] "Còmhstrithean ath-ghoiridean"
 msgstr[3] "Còmhstrithean ath-ghoiridean"
 
-#: kkeysequencewidget.cpp:219
+#: kkeysequencewidget.cpp:220
 #, kde-format
 msgid "Shortcut '%1' for action '%2'\n"
 msgstr "Ath-ghoirid \"%1\" airson gnìomh \"%2\"\n"
 
-#: kkeysequencewidget.cpp:224
+#: kkeysequencewidget.cpp:225
 #, kde-format
 msgctxt "%1 is the number of ambigious shortcut clashes (hidden)"
 msgid ""
@@ -918,12 +918,12 @@ msgstr[3] ""
 "A bheil thu airson ath-ghoirid falamh a shònrachadh dha na gnìomhan seo?\n"
 "%3"
 
-#: kkeysequencewidget.cpp:243
+#: kkeysequencewidget.cpp:244
 #, kde-format
 msgid "Shortcut conflict"
 msgstr "Còmhstri ath-ghoiridean"
 
-#: kkeysequencewidget.cpp:244
+#: kkeysequencewidget.cpp:245
 #, kde-format
 msgid ""
 "<qt>The '%1' key combination is already used by the <b>%2</b> action."
@@ -932,7 +932,7 @@ msgstr ""
 "<qt>Tha na co-iuchraichean \"%1\" 'gan cleachdadh le gnìomh <b>%2</b> mar-"
 "thà.<br>Tagh feadhainn eile.</qt>"
 
-#: kkeysequencewidget.cpp:274
+#: kkeysequencewidget.cpp:275
 #, kde-format
 msgid ""
 "Click on the button, then enter the shortcut like you would in the program.\n"
@@ -943,12 +943,12 @@ msgstr ""
 "Ball-eisimpleir airson \"Ctrl+A\": cum an iuchair \"Ctrl\" sìos agus brùth "
 "air \"A\"."
 
-#: kkeysequencewidget.cpp:466
+#: kkeysequencewidget.cpp:467
 #, kde-format
 msgid "Reserved Shortcut"
 msgstr "Ath-ghoirid ghlèidhte"
 
-#: kkeysequencewidget.cpp:467
+#: kkeysequencewidget.cpp:468
 #, kde-format
 msgid ""
 "The F12 key is reserved on Windows, so cannot be used for a global "
@@ -959,12 +959,12 @@ msgstr ""
 "ath-ghoirid uile-choitcheann ri linn seo.\n"
 "Feuch an tagh thu tè eile."
 
-#: kkeysequencewidget.cpp:619
+#: kkeysequencewidget.cpp:620
 #, kde-format
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Còmhstri le ath-ghoirid thùsail na h-aplacaid"
 
-#: kkeysequencewidget.cpp:620
+#: kkeysequencewidget.cpp:621
 #, kde-format
 msgid ""
 "The '%1' key combination is also used for the standard action \"%2\" that "
@@ -976,36 +976,36 @@ msgstr ""
 "A bheil thu cinnteach gu bheil thu airson a chleachdadh na ath-ghoirid uile-"
 "choitcheann cuideachd?"
 
-#: kkeysequencewidget.cpp:668
+#: kkeysequencewidget.cpp:669
 #, kde-format
 msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
 msgstr "Ion-chur"
 
-#: kkeysequencewidget.cpp:675 kshortcuteditwidget.cpp:67
+#: kkeysequencewidget.cpp:676 kshortcuteditwidget.cpp:67
 #: kshortcuteditwidget.cpp:70
 #, kde-format
 msgctxt "No shortcut defined"
 msgid "None"
 msgstr "Gun ath-ghoirid"
 
-#: kkeysequencewidget.cpp:720
+#: kkeysequencewidget.cpp:721
 #, kde-format
 msgid "The key you just pressed is not supported by Qt."
 msgstr "Cha chuir Qt taic ris an iuchair a tha thu air a bhrùthadh."
 
-#: kkeysequencewidget.cpp:721
+#: kkeysequencewidget.cpp:722
 #, kde-format
 msgid "Unsupported Key"
 msgstr "Iuchair ris nach eil taic"
 
-#: kmainwindow.cpp:247
+#: kmainwindow.cpp:249
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "GunChleoc"
 
-#: kmainwindow.cpp:248
+#: kmainwindow.cpp:250
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
@@ -1016,7 +1016,7 @@ msgstr "fios@foramnagaidhlig.net"
 msgid "Add to Toolbar"
 msgstr "Cuir ris a' bhàr-inneal"
 
-#: kmenumenuhandler_p.cpp:232
+#: kmenumenuhandler_p.cpp:235
 #, kde-format
 msgid "Configure Shortcut..."
 msgstr "Rèitich an ath-ghoirid..."
@@ -1076,62 +1076,62 @@ msgstr "Gnàthaichte:"
 msgid "Shortcut Schemes"
 msgstr "Sgeamaichean ath-ghoiridean"
 
-#: kshortcutschemeseditor.cpp:65
+#: kshortcutschemeseditor.cpp:66
 #, kde-format
 msgid "Current scheme:"
 msgstr "An sgeama làithreach:"
 
-#: kshortcutschemeseditor.cpp:81
+#: kshortcutschemeseditor.cpp:82
 #, kde-format
 msgid "New..."
 msgstr "Ùr..."
 
-#: kshortcutschemeseditor.cpp:84
+#: kshortcutschemeseditor.cpp:85
 #, kde-format
 msgid "Delete"
 msgstr "Sguab às"
 
-#: kshortcutschemeseditor.cpp:87
+#: kshortcutschemeseditor.cpp:88
 #, kde-format
 msgid "More Actions"
 msgstr "Barrachd ghnìomhan"
 
-#: kshortcutschemeseditor.cpp:91
+#: kshortcutschemeseditor.cpp:92
 #, kde-format
 msgid "Save shortcuts to scheme"
 msgstr "Sàbhail na h-ath-ghoiridean gu sgeama"
 
-#: kshortcutschemeseditor.cpp:93
+#: kshortcutschemeseditor.cpp:94
 #, kde-format
 msgid "Export Scheme..."
 msgstr "Às-phortaich an sgeama..."
 
-#: kshortcutschemeseditor.cpp:95
+#: kshortcutschemeseditor.cpp:96
 #, kde-format
 msgid "Import Scheme..."
 msgstr "Ion-phortaich sgeama..."
 
-#: kshortcutschemeseditor.cpp:111
+#: kshortcutschemeseditor.cpp:117
 #, kde-format
 msgid "Name for New Scheme"
 msgstr "Ainm an sgeama ùir"
 
-#: kshortcutschemeseditor.cpp:112
+#: kshortcutschemeseditor.cpp:118
 #, kde-format
 msgid "Name for new scheme:"
 msgstr "Ainm an sgeama ùir:"
 
-#: kshortcutschemeseditor.cpp:112
+#: kshortcutschemeseditor.cpp:118
 #, kde-format
 msgid "New Scheme"
 msgstr "Sgeama ùr"
 
-#: kshortcutschemeseditor.cpp:118
+#: kshortcutschemeseditor.cpp:124
 #, kde-format
 msgid "A scheme with this name already exists."
 msgstr "Tha sgeama air a bheil an t-ainm seo ann mar-thà."
 
-#: kshortcutschemeseditor.cpp:148
+#: kshortcutschemeseditor.cpp:154
 #, kde-format
 msgid ""
 "Do you really want to delete the scheme %1?\n"
@@ -1141,27 +1141,27 @@ msgstr ""
 "Thoir an aire nach doir seo air falbh sgeamannan ath-ghoiridean an t-"
 "siostaim."
 
-#: kshortcutschemeseditor.cpp:178
+#: kshortcutschemeseditor.cpp:185
 #, kde-format
 msgid "Export Shortcuts"
 msgstr "Às-phortaich na h-ath-ghoiridean"
 
-#: kshortcutschemeseditor.cpp:178 kshortcutschemeseditor.cpp:189
+#: kshortcutschemeseditor.cpp:185 kshortcutschemeseditor.cpp:196
 #, kde-format
 msgid "Shortcuts (*.shortcuts)"
 msgstr "Ath-ghoiridean (*.shortcuts)"
 
-#: kshortcutschemeseditor.cpp:189
+#: kshortcutschemeseditor.cpp:196
 #, kde-format
 msgid "Import Shortcuts"
 msgstr "Ion-phortaich ath-ghoiridean"
 
-#: kshortcutschemeseditor.cpp:200
+#: kshortcutschemeseditor.cpp:207
 #, kde-format
 msgid "Shortcut scheme successfully saved."
 msgstr "Chaidh sgeama nan ath-ghoiridean a shàbhaladh."
 
-#: kshortcutschemeseditor.cpp:203
+#: kshortcutschemeseditor.cpp:210
 #, kde-format
 msgid "Error saving the shortcut scheme."
 msgstr "Mearachd le sàbhaladh an sgeama ath-ghoiridean."
@@ -1249,12 +1249,12 @@ msgstr "Gluasad putan luchaige"
 msgid "Mouse Shape Gesture"
 msgstr "Gluasad cruth luchaige"
 
-#: kshortcutseditor.cpp:630 kshortcutseditor.cpp:648
+#: kshortcutseditor.cpp:632 kshortcutseditor.cpp:650
 #, kde-format
 msgid "Key Conflict"
 msgstr "Còmhstri iuchraichean"
 
-#: kshortcutseditor.cpp:631
+#: kshortcutseditor.cpp:633
 #, kde-format
 msgid ""
 "The '%1' shape gesture has already been allocated to the \"%2\" action.\n"
@@ -1263,7 +1263,7 @@ msgstr ""
 "Chaidh gluasad cruth \"%1\" a riarachadh dha ghnìomh \"%2\" mar-thà.\n"
 "A bheil thu airson an riarachadh atharrachadh on ghnìomh ud dhan ghnìomh seo?"
 
-#: kshortcutseditor.cpp:649
+#: kshortcutseditor.cpp:651
 #, kde-format
 msgid ""
 "The '%1' rocker gesture has already been allocated to the \"%2\" action.\n"
@@ -1272,45 +1272,45 @@ msgstr ""
 "Chaidh gluasad turramain \"%1\" a riarachadh dha ghnìomh \"%2\" mar-thà.\n"
 "A bheil thu airson an riarachadh atharrachadh on ghnìomh ud dhan ghnìomh seo?"
 
-#: kshortcutseditor.cpp:696
+#: kshortcutseditor.cpp:698
 #, kde-format
 msgctxt "header for an applications shortcut list"
 msgid "Shortcuts for %1"
 msgstr "Ath-ghoiridean airson %1"
 
 #. i18n: ectx: property (text), widget (QLabel, priLabel)
-#: kshortcutseditor.cpp:714 kshortcutwidget.ui:22
+#: kshortcutseditor.cpp:716 kshortcutwidget.ui:22
 #, kde-format
 msgid "Main:"
 msgstr "Prìomh-fhear:"
 
 #. i18n: ectx: property (text), widget (QLabel, altLabel)
-#: kshortcutseditor.cpp:715 kshortcutwidget.ui:52
+#: kshortcutseditor.cpp:717 kshortcutwidget.ui:52
 #, kde-format
 msgid "Alternate:"
 msgstr "Caochladh:"
 
-#: kshortcutseditor.cpp:716
+#: kshortcutseditor.cpp:718
 #, kde-format
 msgid "Global:"
 msgstr "Uile-choitcheann:"
 
-#: kshortcutseditor.cpp:717
+#: kshortcutseditor.cpp:719
 #, kde-format
 msgid "Global alternate:"
 msgstr "Caochladh uile-choitcheann:"
 
-#: kshortcutseditor.cpp:732
+#: kshortcutseditor.cpp:734
 #, kde-format
 msgid "Action Name"
 msgstr "Ainm a' ghnìomha"
 
-#: kshortcutseditor.cpp:736
+#: kshortcutseditor.cpp:738
 #, kde-format
 msgid "Shortcuts"
 msgstr "Ath-ghoiridean"
 
-#: kshortcutseditor.cpp:740
+#: kshortcutseditor.cpp:742
 #, kde-format
 msgid "Description"
 msgstr "Tuairisgeul"
@@ -1434,63 +1434,63 @@ msgctxt "toolbar position string"
 msgid "Bottom"
 msgstr "Bonn"
 
-#: ktoolbar.cpp:328
+#: ktoolbar.cpp:329
 #, kde-format
 msgid "Text Position"
 msgstr "Ionad an teacsa"
 
-#: ktoolbar.cpp:330
+#: ktoolbar.cpp:331
 #, kde-format
 msgid "Icons Only"
 msgstr "Ìomhaigheagan a-mhàin"
 
-#: ktoolbar.cpp:331
+#: ktoolbar.cpp:332
 #, kde-format
 msgid "Text Only"
 msgstr "Teacsa a-mhàin"
 
-#: ktoolbar.cpp:332
+#: ktoolbar.cpp:333
 #, kde-format
 msgid "Text Alongside Icons"
 msgstr "Teacsa ri taobh ìomhaigheagan"
 
-#: ktoolbar.cpp:333
+#: ktoolbar.cpp:334
 #, kde-format
 msgid "Text Under Icons"
 msgstr "Teacsa fo ìomhaigheagan"
 
-#: ktoolbar.cpp:341
+#: ktoolbar.cpp:343
 #, kde-format
 msgid "Icon Size"
 msgstr "Meud nan ìomhaigheagan"
 
-#: ktoolbar.cpp:343
+#: ktoolbar.cpp:345
 #, kde-format
 msgctxt "@item:inmenu Icon size"
 msgid "Default"
 msgstr "Bun-roghainn"
 
-#: ktoolbar.cpp:360 ktoolbar.cpp:381
+#: ktoolbar.cpp:362 ktoolbar.cpp:383
 #, kde-format
 msgid "Small (%1x%2)"
 msgstr "Beag (%1x%2)"
 
-#: ktoolbar.cpp:362 ktoolbar.cpp:383
+#: ktoolbar.cpp:364 ktoolbar.cpp:385
 #, kde-format
 msgid "Medium (%1x%2)"
 msgstr "Meadhanach (%1x%2)"
 
-#: ktoolbar.cpp:364 ktoolbar.cpp:385
+#: ktoolbar.cpp:366 ktoolbar.cpp:387
 #, kde-format
 msgid "Large (%1x%2)"
 msgstr "Mòr (%1x%2)"
 
-#: ktoolbar.cpp:366 ktoolbar.cpp:387
+#: ktoolbar.cpp:368 ktoolbar.cpp:389
 #, kde-format
 msgid "Huge (%1x%2)"
 msgstr "Glè mhòr (%1x%2)"
 
-#: ktoolbar.cpp:409
+#: ktoolbar.cpp:412
 #, kde-format
 msgid "Lock Toolbar Positions"
 msgstr "Glais ionadan bàir-inneal"
@@ -1515,7 +1515,7 @@ msgstr "Neo-dhèan"
 msgid "No text"
 msgstr "Chan eil teacsa ann"
 
-#: kxmlguiwindow.cpp:437
+#: kxmlguiwindow.cpp:439
 #, kde-format
 msgid ""
 "There are two actions (%1, %2) that want to use the same shortcut (%3). This "
@@ -1523,7 +1523,7 @@ msgid ""
 "org'>bugs.kde.org</a>"
 msgstr ""
 
-#: kxmlguiwindow.cpp:437
+#: kxmlguiwindow.cpp:439
 #, fuzzy, kde-format
 #| msgid "Ambiguous shortcut detected"
 msgid "Ambiguous Shortcuts"
