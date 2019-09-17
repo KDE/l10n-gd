@@ -8164,19 +8164,24 @@ msgctxt "ActivityInfo|"
 msgid "Letter association between the screen and the keyboard"
 msgstr "Co-cheangladh nan litrichean eadar an sgrìn is am meur-chlàr"
 
-#: activities/gletters/Gletters.qml:169
+#: activities/gletters/Gletters.qml:172
 msgctxt "Gletters|"
 msgid "Select your locale"
 msgstr ""
 
-#: activities/gletters/Gletters.qml:176
+#: activities/gletters/Gletters.qml:179
 msgctxt "Gletters|"
 msgid "Select Domino mode"
 msgstr ""
 
-#: activities/gletters/Gletters.qml:183
+#: activities/gletters/Gletters.qml:186
 msgctxt "Gletters|"
 msgid "Uppercase only mode"
+msgstr ""
+
+#: activities/gletters/Gletters.qml:202
+msgctxt "Gletters|"
+msgid "Speed"
 msgstr ""
 
 #. Activity title

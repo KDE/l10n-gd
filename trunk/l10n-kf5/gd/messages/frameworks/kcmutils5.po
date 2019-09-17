@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-10 02:42+0200\n"
+"POT-Creation-Date: 2019-09-17 02:49+0200\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -99,7 +99,7 @@ msgctxt "Argument is application name"
 msgid "This configuration section is already opened in %1"
 msgstr "Chaidh an earran seo dhen rèiteachadh fhosgladh mar-thà le %1"
 
-#: kcmultidialog.cpp:62
+#: kcmultidialog.cpp:63
 #, kde-format
 msgid ""
 "The settings of the current module have changed.\n"
@@ -108,12 +108,12 @@ msgstr ""
 "Dh'atharraich roghainnean a' mhòideil làithirich.\n"
 "A bheil thu airson na h-atharraichean a chur an sàs no an tilgeil air falbh?"
 
-#: kcmultidialog.cpp:64
+#: kcmultidialog.cpp:65
 #, kde-format
 msgid "Apply Settings"
 msgstr "Cuir na roghainnean an sàs"
 
-#: kcmultidialog.cpp:240 kpluginselector.cpp:720
+#: kcmultidialog.cpp:241 kpluginselector.cpp:723
 #, kde-format
 msgid "Configure"
 msgstr "Rèitich"
@@ -526,14 +526,14 @@ msgstr[3] ""
 msgid "Search..."
 msgstr ""
 
-#: kpluginselector.cpp:715
+#: kpluginselector.cpp:718
 #, fuzzy, kde-format
 #| msgctxt "Used only for plugins"
 #| msgid "About %1"
 msgid "About"
 msgstr "Mu %1"
 
-#: kpluginselector.cpp:818
+#: kpluginselector.cpp:821
 #, kde-format
 msgctxt "Used only for plugins"
 msgid "About %1"
