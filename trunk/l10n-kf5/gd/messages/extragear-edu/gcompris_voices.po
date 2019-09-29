@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gcompris voices\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-07-06 02:41+0200\n"
+"POT-Creation-Date: 2019-09-29 02:32+0200\n"
 "PO-Revision-Date: 2017-05-27 14:21+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: gd <kde-i18n-doc@kde.org>\n"
@@ -874,6 +874,14 @@ msgstr "Dèan briogadh dùbailte air a' bhàla gus a bhreabadh."
 #, kde-format
 msgid "look at the two pictures carefully and click where you see a difference"
 msgstr "Seall air an dà dhealbh gu cùramach agus briog far am faic thu diofar."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "piano_composition"
+#: activities/piano_composition/ActivityInfo.qml:31
+#, kde-format
+msgid ""
+"Learn to compose piano music using the octaves and the tools presented above "
+"the staff."
+msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "planegame"
 #: activities/planegame/ActivityInfo.qml:30
