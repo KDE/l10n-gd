@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeclarative5\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-09 02:54+0200\n"
+"POT-Creation-Date: 2019-10-09 02:44+0200\n"
 "PO-Revision-Date: 2016-04-30 12:50+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -109,6 +109,16 @@ msgstr "Cha chuir Qt taic ris an iuchair a tha thu air a bhrùthadh."
 #, kde-format
 msgid "Unsupported Key"
 msgstr "Iuchair ris nach eil taic"
+
+#: quickaddons/configmodule.cpp:173
+#, kde-format
+msgid "Invalid KPackage"
+msgstr ""
+
+#: quickaddons/configmodule.cpp:179
+#, kde-format
+msgid "No QML file provided"
+msgstr ""
 
 #, fuzzy
 #~| msgctxt "No shortcut defined"
