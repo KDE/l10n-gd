@@ -15,7 +15,7 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 "X-Qt-Contexts: true\n"
 
-#: kfilterproxysearchline.cpp:73
+#: kfilterproxysearchline.cpp:75
 msgctxt "KFilterProxySearchLine|"
 msgid "Search"
 msgstr "Lorg"
