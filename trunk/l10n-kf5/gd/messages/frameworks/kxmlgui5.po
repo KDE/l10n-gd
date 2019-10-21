@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-21 02:56+0200\n"
+"POT-Creation-Date: 2019-10-21 02:51+0200\n"
 "PO-Revision-Date: 2016-04-30 17:56+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -165,25 +165,25 @@ msgctxt "@item Contributor name in about dialog."
 msgid "%1"
 msgstr "%1"
 
-#: kaboutapplicationpersonmodel_p.cpp:206
+#: kaboutapplicationpersonmodel_p.cpp:202
 #, kde-format
 msgctxt "City, Country"
 msgid "%1, %2"
 msgstr "%1, %2"
 
-#: kaboutapplicationpersonmodel_p.cpp:309
+#: kaboutapplicationpersonmodel_p.cpp:305
 #, kde-format
 msgctxt "A generic social network or homepage link of an unlisted type."
 msgid "Other"
 msgstr "Eile"
 
-#: kaboutapplicationpersonmodel_p.cpp:311
+#: kaboutapplicationpersonmodel_p.cpp:307
 #, kde-format
 msgctxt "A type of link."
 msgid "Blog"
 msgstr "Bloga"
 
-#: kaboutapplicationpersonmodel_p.cpp:319
+#: kaboutapplicationpersonmodel_p.cpp:315
 #, kde-format
 msgctxt "A type of link."
 msgid "Homepage"
@@ -688,12 +688,12 @@ msgstr ""
 "Cuir an teacsa am &falach nuair a sheallas am bàr-inneal teacsa ri taobh nan "
 "ìomhaigheagan"
 
-#: kedittoolbar.cpp:617
+#: kedittoolbar.cpp:616
 #, kde-format
 msgid "Configure Toolbars"
 msgstr "Rèitich na bàraichean-inneal"
 
-#: kedittoolbar.cpp:680
+#: kedittoolbar.cpp:679
 #, kde-format
 msgid ""
 "Do you really want to reset all toolbars of this application to their "
@@ -703,17 +703,17 @@ msgstr ""
 "ath-shuidheachadh air a' bhun-roghainn? Thèid na h-atharraichean a chur an "
 "sàs sa bhad."
 
-#: kedittoolbar.cpp:680
+#: kedittoolbar.cpp:679
 #, kde-format
 msgid "Reset Toolbars"
 msgstr "Ath-shuidhich na bàraichean-inneal"
 
-#: kedittoolbar.cpp:680
+#: kedittoolbar.cpp:679
 #, kde-format
 msgid "Reset"
 msgstr "Ath-shuidhich"
 
-#: kedittoolbar.cpp:1006
+#: kedittoolbar.cpp:1004
 #, kde-format
 msgid "&Toolbar:"
 msgstr "&Bàr-inneal:"
@@ -725,38 +725,38 @@ msgstr "&Bàr-inneal:"
 #. del_toolbar->setPixmap(BarIcon("edit-delete", KIconLoader::SizeSmall));
 #. del_toolbar->setEnabled(false); // disabled until implemented
 #. our list of inactive actions
-#: kedittoolbar.cpp:1021
+#: kedittoolbar.cpp:1019
 #, kde-format
 msgid "A&vailable actions:"
 msgstr "&Gnìomhan ri am faighinn:"
 
-#: kedittoolbar.cpp:1036 kedittoolbar.cpp:1055
+#: kedittoolbar.cpp:1034 kedittoolbar.cpp:1053
 #, kde-format
 msgid "Filter"
 msgstr "Criathrag"
 
-#: kedittoolbar.cpp:1039
+#: kedittoolbar.cpp:1037
 #, kde-format
 msgid "Curr&ent actions:"
 msgstr "Gnìomhan làithr&each:"
 
-#: kedittoolbar.cpp:1058
+#: kedittoolbar.cpp:1056
 #, kde-format
 msgid "Change &Icon..."
 msgstr "Atharraich an ìomha&igheag..."
 
-#: kedittoolbar.cpp:1066
+#: kedittoolbar.cpp:1064
 #, kde-format
 msgid "Change Te&xt..."
 msgstr "Atharraich an &teacsa..."
 
-#: kedittoolbar.cpp:1221
+#: kedittoolbar.cpp:1217
 #, kde-format
 msgctxt "@item:intable Action name in toolbar editor"
 msgid "%1"
 msgstr "%1"
 
-#: kedittoolbar.cpp:1248
+#: kedittoolbar.cpp:1244
 #, kde-format
 msgid ""
 "This element will be replaced with all the elements of an embedded component."
@@ -764,17 +764,17 @@ msgstr ""
 "Thèid a h-uile eileamaid aig co-pàirt leabaichte a chur an àite na h-"
 "eileamaid seo."
 
-#: kedittoolbar.cpp:1250
+#: kedittoolbar.cpp:1246
 #, kde-format
 msgid "<Merge>"
 msgstr "<Co-aonaich>"
 
-#: kedittoolbar.cpp:1252
+#: kedittoolbar.cpp:1248
 #, kde-format
 msgid "<Merge %1>"
 msgstr "<Co-aonaich %1>"
 
-#: kedittoolbar.cpp:1258
+#: kedittoolbar.cpp:1254
 #, kde-format
 msgid ""
 "This is a dynamic list of actions. You can move it, but if you remove it you "
@@ -783,47 +783,47 @@ msgstr ""
 "Seo liosta innsginneach dhe ghnìomhan. 'S urrainn dhut a gluasad ach ma "
 "bheir thu air falbh i chan urrainn dhut a cur ris a-rithist."
 
-#: kedittoolbar.cpp:1259
+#: kedittoolbar.cpp:1255
 #, kde-format
 msgid "ActionList: %1"
 msgstr "Liosta ghnìomhan: %1"
 
-#: kedittoolbar.cpp:1365 kedittoolbar.cpp:1392
+#: kedittoolbar.cpp:1357 kedittoolbar.cpp:1384
 #, kde-format
 msgctxt "@label Action tooltip in toolbar editor, below the action list"
 msgid "%1"
 msgstr "%1"
 
-#: kedittoolbar.cpp:1621
+#: kedittoolbar.cpp:1611
 #, kde-format
 msgid "Change Icon"
 msgstr "Atharraich an ìomhaigheag"
 
-#: kgesture.cpp:503
+#: kgesture.cpp:502
 #, kde-format
 msgctxt "left mouse button"
 msgid "left button"
 msgstr "putan clì"
 
-#: kgesture.cpp:505
+#: kgesture.cpp:504
 #, kde-format
 msgctxt "middle mouse button"
 msgid "middle button"
 msgstr "putan meadhain"
 
-#: kgesture.cpp:507
+#: kgesture.cpp:506
 #, kde-format
 msgctxt "right mouse button"
 msgid "right button"
 msgstr "putan deas"
 
-#: kgesture.cpp:509
+#: kgesture.cpp:508
 #, kde-format
 msgctxt "a nonexistent value of mouse button"
 msgid "invalid button"
 msgstr "putan mì-dhligheach"
 
-#: kgesture.cpp:522
+#: kgesture.cpp:521
 #, kde-format
 msgctxt ""
 "a kind of mouse gesture: hold down one mouse button, then press another "
@@ -1300,17 +1300,17 @@ msgstr "Uile-choitcheann:"
 msgid "Global alternate:"
 msgstr "Caochladh uile-choitcheann:"
 
-#: kshortcutseditor.cpp:734
+#: kshortcutseditor.cpp:735
 #, kde-format
 msgid "Action Name"
 msgstr "Ainm a' ghnìomha"
 
-#: kshortcutseditor.cpp:738
+#: kshortcutseditor.cpp:739
 #, kde-format
 msgid "Shortcuts"
 msgstr "Ath-ghoiridean"
 
-#: kshortcutseditor.cpp:742
+#: kshortcutseditor.cpp:743
 #, kde-format
 msgid "Description"
 msgstr "Tuairisgeul"
@@ -1345,7 +1345,7 @@ msgstr ""
 "Cuiridh seo cànan a bharrachd ris a thèid a chleachdadh mur eil eadar-"
 "theangachadh am broinn nan eadar-theangachaidhean eile."
 
-#: kswitchlanguagedialog_p.cpp:289 kswitchlanguagedialog_p.cpp:311
+#: kswitchlanguagedialog_p.cpp:288 kswitchlanguagedialog_p.cpp:310
 #, kde-format
 msgid ""
 "The language for this application has been changed. The change will take "
@@ -1354,27 +1354,27 @@ msgstr ""
 "Tha cànan na h-aplacaid seo air atharrachadh. Thèid an t-atharrachadh a chur "
 "an sàs an ath-thuras a thòisicheas tu an aplacaid."
 
-#: kswitchlanguagedialog_p.cpp:290 kswitchlanguagedialog_p.cpp:312
+#: kswitchlanguagedialog_p.cpp:289 kswitchlanguagedialog_p.cpp:311
 #, kde-format
 msgid "Application Language Changed"
 msgstr "Tha cànan na h-aplacaid air atharrachadh"
 
-#: kswitchlanguagedialog_p.cpp:400
+#: kswitchlanguagedialog_p.cpp:399
 #, kde-format
 msgid "Primary language:"
 msgstr "Am prìomh-chànan:"
 
-#: kswitchlanguagedialog_p.cpp:400
+#: kswitchlanguagedialog_p.cpp:399
 #, kde-format
 msgid "Fallback language:"
 msgstr "An cànan èiginneach:"
 
-#: kswitchlanguagedialog_p.cpp:415
+#: kswitchlanguagedialog_p.cpp:414
 #, kde-format
 msgid "Remove"
 msgstr "Thoir air falbh"
 
-#: kswitchlanguagedialog_p.cpp:422
+#: kswitchlanguagedialog_p.cpp:421
 #, kde-format
 msgid ""
 "This is the main application language which will be used first, before any "
@@ -1383,7 +1383,7 @@ msgstr ""
 "Seo prìomh-chànan na h-aplacaid a thèid a chleachdadh an toiseach ro chànan "
 "sam bith eile."
 
-#: kswitchlanguagedialog_p.cpp:423
+#: kswitchlanguagedialog_p.cpp:422
 #, kde-format
 msgid ""
 "This is the language which will be used if any previous languages do not "
