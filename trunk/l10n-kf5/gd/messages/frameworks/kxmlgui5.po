@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-21 02:51+0200\n"
+"POT-Creation-Date: 2019-10-26 02:44+0200\n"
 "PO-Revision-Date: 2016-04-30 17:56+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -982,8 +982,7 @@ msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
 msgstr "Ion-chur"
 
-#: kkeysequencewidget.cpp:676 kshortcuteditwidget.cpp:67
-#: kshortcuteditwidget.cpp:70
+#: kkeysequencewidget.cpp:676 kshortcuteditwidget.cpp:63
 #, kde-format
 msgctxt "No shortcut defined"
 msgid "None"
@@ -1061,7 +1060,7 @@ msgstr "Cuspair a' phuist-d."
 msgid "The email address to send the bug report to."
 msgstr "An seòladh puist-d dhan dèid aithris air a' bhuga a chur."
 
-#: kshortcuteditwidget.cpp:66
+#: kshortcuteditwidget.cpp:67
 #, kde-format
 msgid "Default:"
 msgstr "Bun-roghainn:"
