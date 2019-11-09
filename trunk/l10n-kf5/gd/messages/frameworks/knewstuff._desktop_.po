@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-02 02:38+0000\n"
+"POT-Creation-Date: 2019-11-09 02:45+0000\n"
 "PO-Revision-Date: 2016-04-29 13:18+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -143,12 +143,12 @@ msgctxt "GenericName"
 msgid "Git repository viewer"
 msgstr "Sealladair ionadan-tasgaidh Git"
 
-#: data/kmoretools-desktopfiles/giggle.desktop:46
+#: data/kmoretools-desktopfiles/giggle.desktop:47
 msgctxt "Name"
 msgid "Giggle"
 msgstr "Giggle"
 
-#: data/kmoretools-desktopfiles/giggle.desktop:87
+#: data/kmoretools-desktopfiles/giggle.desktop:88
 msgctxt "Comment"
 msgid "Git repository viewer"
 msgstr "Sealladair ionadan-tasgaidh Git"
@@ -169,12 +169,12 @@ msgctxt "Name"
 msgid "Git Cola (View History)"
 msgstr "Git Cola (Seall an eachdraidh)"
 
-#: data/kmoretools-desktopfiles/gitg.desktop:44
+#: data/kmoretools-desktopfiles/gitg.desktop:45
 msgctxt "Name"
 msgid "gitg"
 msgstr "gitg"
 
-#: data/kmoretools-desktopfiles/gitg.desktop:86
+#: data/kmoretools-desktopfiles/gitg.desktop:87
 msgctxt "Comment"
 msgid "Git repository browser"
 msgstr "Brabhsair ionadan-tasgaidh Git"
@@ -255,7 +255,7 @@ msgctxt "Comment"
 msgid "Screenshot manager"
 msgstr "Stiùiriche ghlacaidhean-sgrìn"
 
-#: data/kmoretools-desktopfiles/hotshots.desktop:87
+#: data/kmoretools-desktopfiles/hotshots.desktop:88
 msgctxt "GenericName"
 msgid "Screenshot manager"
 msgstr "Stiùiriche ghlacaidhean-sgrìn"
