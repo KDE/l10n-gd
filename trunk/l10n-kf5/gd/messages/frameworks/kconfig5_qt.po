@@ -527,6 +527,11 @@ msgstr ""
 
 #: kreadconfig/kwriteconfig.cpp:39
 msgctxt "main|"
+msgid "Delete the designated key if enabled"
+msgstr ""
+
+#: kreadconfig/kwriteconfig.cpp:40
+msgctxt "main|"
 msgid "The value to write. Mandatory, on a shell use '' for empty"
 msgstr ""
 "An luach a thèid a sgrìobhadh. Tha seo riatanach, cleachd '' air shell "
