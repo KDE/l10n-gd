@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kross5\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:58+0200\n"
+"POT-Creation-Date: 2019-11-18 02:47+0100\n"
 "PO-Revision-Date: 2015-11-04 15:15+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -97,7 +97,7 @@ msgstr "Chan eil an t-interpreter \"%1\" ann"
 msgid "Failed to create script for interpreter \"%1\""
 msgstr "Cha deach leinn sgriobt a chruthachadh airson an interpreter \"%1\""
 
-#: core/manager.cpp:145
+#: core/manager.cpp:152
 #, kde-format
 msgid "Level of safety of the Ruby interpreter"
 msgstr "Leibheil na tèarainteachd airson an interpreter Ruby"
