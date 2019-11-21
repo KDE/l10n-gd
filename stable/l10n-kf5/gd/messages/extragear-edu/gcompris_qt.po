@@ -12024,7 +12024,7 @@ msgstr ""
 "Cuir na cleasan as fhearr leat an-seo le bhith a’ taghadh na grèine gu h-àrd "
 "sa chleas ud."
 
-#: activities/menu/Menu.qml:746
+#: activities/menu/Menu.qml:730
 msgctxt "Menu|"
 msgid "Search specific activities"
 msgstr "Lorg gnìomhachdan sònraichte"
@@ -16407,13 +16407,13 @@ msgctxt "QuizScreen|"
 msgid "%1%"
 msgstr "%1/%2"
 
-#: activities/solar_system/QuizScreen.qml:278
+#: activities/solar_system/QuizScreen.qml:286
 #, qt-format
 msgctxt "QuizScreen|"
 msgid "Your final score is: <font color=\"#3bb0de\">%1%</font>.<br><br>%2"
 msgstr ""
 
-#: activities/solar_system/QuizScreen.qml:278
+#: activities/solar_system/QuizScreen.qml:286
 msgctxt "QuizScreen|"
 msgid ""
 "You should score above 90% to become a Solar System expert!<br>Retry to test "
@@ -16421,7 +16421,7 @@ msgid ""
 "System."
 msgstr ""
 
-#: activities/solar_system/QuizScreen.qml:278
+#: activities/solar_system/QuizScreen.qml:286
 msgctxt "QuizScreen|"
 msgid ""
 "Great! You can replay the assessment to test your knowledge on more "
