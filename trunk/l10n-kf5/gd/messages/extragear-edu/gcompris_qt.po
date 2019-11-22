@@ -13737,12 +13737,12 @@ msgstr ""
 "an iasg. Briog air an dìsinn leis a’ phutan deas gus cunntadh sìos. Nuair a "
 "bhios tu deiseil, briog air a’ phutan “OK” no brùth air an iuchair “Enter”."
 
-#: activities/reversecount/Reversecount.qml:230
+#: activities/reversecount/Reversecount.qml:221
 msgctxt "Reversecount|"
 msgid "Dots"
 msgstr ""
 
-#: activities/reversecount/Reversecount.qml:231
+#: activities/reversecount/Reversecount.qml:222
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Simple Letters"
@@ -13750,7 +13750,7 @@ msgctxt "Reversecount|"
 msgid "Arabic numbers"
 msgstr "Litrichean simplidh"
 
-#: activities/reversecount/Reversecount.qml:232
+#: activities/reversecount/Reversecount.qml:223
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Subtraction memory game"
@@ -13758,12 +13758,12 @@ msgctxt "Reversecount|"
 msgid "Roman numbers"
 msgstr "Geama cuimhne toirt air falbh"
 
-#: activities/reversecount/Reversecount.qml:233
+#: activities/reversecount/Reversecount.qml:224
 msgctxt "Reversecount|"
 msgid "Images"
 msgstr ""
 
-#: activities/reversecount/Reversecount.qml:243
+#: activities/reversecount/Reversecount.qml:234
 msgctxt "Reversecount|"
 msgid "Select Domino Representation"
 msgstr ""
