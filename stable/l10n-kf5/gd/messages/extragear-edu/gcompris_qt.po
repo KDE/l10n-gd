@@ -14352,12 +14352,12 @@ msgstr ""
 "an iasg. Briog air an dìsinn leis a’ phutan deas gus cunntadh sìos. Nuair a "
 "bhios tu deiseil, briog air a’ phutan “OK” no brùth air an iuchair “Enter”."
 
-#: activities/reversecount/Reversecount.qml:230
+#: activities/reversecount/Reversecount.qml:221
 msgctxt "Reversecount|"
 msgid "Dots"
 msgstr ""
 
-#: activities/reversecount/Reversecount.qml:231
+#: activities/reversecount/Reversecount.qml:222
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Draw Numbers"
@@ -14365,7 +14365,7 @@ msgctxt "Reversecount|"
 msgid "Arabic numbers"
 msgstr "Tarraing àireamhan"
 
-#: activities/reversecount/Reversecount.qml:232
+#: activities/reversecount/Reversecount.qml:223
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Roman numerals"
@@ -14373,7 +14373,7 @@ msgctxt "Reversecount|"
 msgid "Roman numbers"
 msgstr "Àireamhan Ròmanach"
 
-#: activities/reversecount/Reversecount.qml:233
+#: activities/reversecount/Reversecount.qml:224
 #, fuzzy
 #| msgctxt "Traffic|"
 #| msgid "Images"
@@ -14381,7 +14381,7 @@ msgctxt "Reversecount|"
 msgid "Images"
 msgstr "Dealbhan"
 
-#: activities/reversecount/Reversecount.qml:243
+#: activities/reversecount/Reversecount.qml:234
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Spatial representation"
