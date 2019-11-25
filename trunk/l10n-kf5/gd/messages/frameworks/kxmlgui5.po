@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-03 02:50+0100\n"
+"POT-Creation-Date: 2019-11-25 02:54+0100\n"
 "PO-Revision-Date: 2016-04-30 17:56+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -19,28 +19,18 @@ msgstr ""
 "X-Generator: Virtaal 0.7.1\n"
 "X-Project-Style: kde\n"
 
-#: kaboutapplicationdialog.cpp:81 khelpmenu.cpp:280
+#: kaboutapplicationdialog.cpp:70 kaboutplugindialog.cpp:75 khelpmenu.cpp:280
 #, kde-format
 msgid "About %1"
 msgstr "Mu %1"
 
-#: kaboutapplicationdialog.cpp:98
+#: kaboutapplicationdialog.cpp:102 kaboutplugindialog.cpp:92
 #, fuzzy, kde-format
-#| msgid "<html><font size=\"5\">%1</font></html>"
-msgid "<html><font size=\"5\">%1</font><br />Version %2</html>"
-msgstr "<html><font size=\"5\">%1</font></html>"
-
-#: kaboutapplicationdialog.cpp:136
-#, kde-format
-msgid "License: %1"
-msgstr "Ceadachas: %1"
-
-#: kaboutapplicationdialog.cpp:148
-#, kde-format
-msgid "&About"
+#| msgid "&About"
+msgid "About"
 msgstr "&Mu dhèidhinn"
 
-#: kaboutapplicationdialog.cpp:155
+#: kaboutapplicationdialog.cpp:109
 #, fuzzy, kde-format
 #| msgid ""
 #| "Using:<ul><li>KDE Frameworks %1</li><li>Qt %2 (built against %3)</"
@@ -52,53 +42,32 @@ msgstr ""
 "A' cleachdadh:<ul><li>KDE Frameworks %1</li><li>Qt %2 (air a thogail ri %3)</"
 "li><li>Siostam uinneagan <em>%4</em></li></ul>"
 
-#: kaboutapplicationdialog.cpp:165
+#: kaboutapplicationdialog.cpp:119
 #, kde-format
-msgid "&Libraries"
+msgid "Libraries"
 msgstr ""
 
-#: kaboutapplicationdialog.cpp:186
+#: kaboutapplicationdialog.cpp:129 kaboutplugindialog.cpp:103
 #, fuzzy, kde-format
-#| msgid ""
-#| "Please use <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> to "
-#| "report bugs.\n"
-msgid ""
-"Please use <a href=\"https://bugs.kde.org\">https://bugs.kde.org</a> to "
-"report bugs.\n"
-msgstr ""
-"Cleachd <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> gus innse "
-"dhuinn mu bhugaichean.\n"
+#| msgid "A&uthor"
+msgid "Author"
+msgid_plural "Authors"
+msgstr[0] "Ù&ghdar"
+msgstr[1] "Ù&ghdar"
+msgstr[2] "Ù&ghdar"
+msgstr[3] "Ù&ghdar"
 
-#: kaboutapplicationdialog.cpp:192
+#: kaboutapplicationdialog.cpp:136 kaboutplugindialog.cpp:110
 #, fuzzy, kde-format
-#| msgid "Please report bugs to <a href=\"mailto:%1\">%2</a>.\n"
-msgid "Please report bugs to <a href=\"%1\">%2</a>.\n"
-msgstr "Dèan aithris air bugaichean gu <a href=\"mailto:%1\">%2</a>.\n"
-
-#: kaboutapplicationdialog.cpp:218
-#, kde-format
-msgid "A&uthor"
-msgstr "Ù&ghdar"
-
-#: kaboutapplicationdialog.cpp:218
-#, kde-format
-msgid "A&uthors"
-msgstr "Ù&ghdaran"
-
-#: kaboutapplicationdialog.cpp:245
-#, kde-format
-msgid "&Thanks To"
+#| msgid "&Thanks To"
+msgid "Thanks To"
 msgstr "&Taing do"
 
-#: kaboutapplicationdialog.cpp:284
+#: kaboutapplicationdialog.cpp:143 kaboutplugindialog.cpp:116
+#: kbugreport.cpp:251
 #, kde-format
-msgid "T&ranslation"
-msgstr "Eada&r-theangachadh"
-
-#: kaboutapplicationdialog.cpp:316
-#, kde-format
-msgid "License Agreement"
-msgstr "Aonta a' cheadachais"
+msgid "Translation"
+msgstr "Eadar-theangachadh"
 
 #: kaboutapplicationpersonlistdelegate_p.cpp:62
 #, kde-format
@@ -330,6 +299,35 @@ msgstr "Faigh &ballrachd ann an KDE"
 msgid "&Support KDE"
 msgstr "&Cuir taic ri KDE"
 
+#: kabstractaboutdialog_p.cpp:47
+#, fuzzy, kde-format
+#| msgid "<html><font size=\"5\">%1</font></html>"
+msgid "<html><font size=\"5\">%1</font><br />Version %2</html>"
+msgstr "<html><font size=\"5\">%1</font></html>"
+
+#: kabstractaboutdialog_p.cpp:92
+#, kde-format
+msgid "License: %1"
+msgstr "Ceadachas: %1"
+
+#: kabstractaboutdialog_p.cpp:124
+#, fuzzy, kde-format
+#| msgid ""
+#| "Please use <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> to "
+#| "report bugs.\n"
+msgid ""
+"Please use <a href=\"https://bugs.kde.org\">https://bugs.kde.org</a> to "
+"report bugs.\n"
+msgstr ""
+"Cleachd <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> gus innse "
+"dhuinn mu bhugaichean.\n"
+
+#: kabstractaboutdialog_p.cpp:130
+#, fuzzy, kde-format
+#| msgid "Please report bugs to <a href=\"mailto:%1\">%2</a>.\n"
+msgid "Please report bugs to <a href=\"%1\">%2</a>.\n"
+msgstr "Dèan aithris air bugaichean gu <a href=\"mailto:%1\">%2</a>.\n"
+
 #: kactionconflictdetector.cpp:50
 #, kde-format
 msgid ""
@@ -465,11 +463,6 @@ msgstr "Àbhaisteach"
 #, kde-format
 msgid "Wishlist"
 msgstr "Miann"
-
-#: kbugreport.cpp:251
-#, kde-format
-msgid "Translation"
-msgstr "Eadar-theangachadh"
 
 #: kbugreport.cpp:269
 #, kde-format
@@ -997,6 +990,11 @@ msgstr "Cha chuir Qt taic ris an iuchair a tha thu air a bhrùthadh."
 #, kde-format
 msgid "Unsupported Key"
 msgstr "Iuchair ris nach eil taic"
+
+#: klicensedialog_p.cpp:44
+#, kde-format
+msgid "License Agreement"
+msgstr "Aonta a' cheadachais"
 
 #: kmainwindow.cpp:249
 #, kde-format
@@ -1588,6 +1586,12 @@ msgstr "&Roghainnean"
 #, kde-format
 msgid "Main Toolbar"
 msgstr "Am prìomh bhàr-inneal"
+
+#~ msgid "A&uthors"
+#~ msgstr "Ù&ghdaran"
+
+#~ msgid "T&ranslation"
+#~ msgstr "Eada&r-theangachadh"
 
 #~ msgctxt "@action:intoolbar Text label of toolbar button"
 #~ msgid "%1"
