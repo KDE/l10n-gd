@@ -13897,7 +13897,7 @@ msgctxt "ActivityInfo|"
 msgid "<ul><li><b>ENTER</b> or <b>RETURN</b>.</li></ul>"
 msgstr ""
 
-#: activities/programmingMaze/InstructionArea.qml:45
+#: activities/programmingMaze/InstructionArea.qml:46
 #, fuzzy
 #| msgctxt "Lang|"
 #| msgid "construction"
@@ -13905,7 +13905,7 @@ msgctxt "InstructionArea|"
 msgid "Choose the instructions"
 msgstr "togail"
 
-#: activities/programmingMaze/programmingMaze.js:97
+#: activities/programmingMaze/programmingMaze.js:95
 msgctxt "programmingMaze|"
 msgid ""
 "<b><h7>Instruction Area:</b></h7>There are 3 instructions which you have to "
@@ -13916,7 +13916,7 @@ msgid ""
 "li>"
 msgstr ""
 
-#: activities/programmingMaze/programmingMaze.js:105
+#: activities/programmingMaze/programmingMaze.js:103
 msgctxt "programmingMaze|"
 msgid ""
 "<b><h7>Main Function:</b></h7><li>-The execution of code starts here on "
@@ -13925,7 +13925,7 @@ msgid ""
 "in order until there's none left, dead-end or Tux reaches the fish.</li>"
 msgstr ""
 
-#: activities/programmingMaze/programmingMaze.js:115
+#: activities/programmingMaze/programmingMaze.js:113
 msgctxt "programmingMaze|"
 msgid ""
 "<b><h7>Procedure:</b></h7><li>-<b>Procedure</b> is a reusable set of "
@@ -13935,20 +13935,20 @@ msgid ""
 "<b>Main Function</b>.</li>"
 msgstr ""
 
-#: activities/programmingMaze/ProgrammingMaze.qml:197
+#: activities/programmingMaze/ProgrammingMaze.qml:199
 msgctxt "ProgrammingMaze|"
 msgid ""
 "Click on Tux or press Enter key to reset it or RELOAD button to reload the "
 "level."
 msgstr ""
 
-#: activities/programmingMaze/ProgrammingMaze.qml:198
+#: activities/programmingMaze/ProgrammingMaze.qml:200
 #, qt-format
 msgctxt "ProgrammingMaze|"
 msgid "Reach the fish in less than %1 instructions."
 msgstr ""
 
-#: activities/programmingMaze/ProgrammingMaze.qml:266
+#: activities/programmingMaze/ProgrammingMaze.qml:273
 #, fuzzy
 #| msgctxt "Lang|"
 #| msgid "action"
@@ -13956,7 +13956,7 @@ msgctxt "ProgrammingMaze|"
 msgid "Main function"
 msgstr "gnìomh"
 
-#: activities/programmingMaze/ProgrammingMaze.qml:294
+#: activities/programmingMaze/ProgrammingMaze.qml:301
 msgctxt "ProgrammingMaze|"
 msgid "Procedure"
 msgstr ""
