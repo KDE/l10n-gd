@@ -1227,32 +1227,32 @@ msgctxt "balancebox|"
 msgid "The file '%1' is missing!<br>Falling back to builtin levels."
 msgstr ""
 
-#: activities/balancebox/Balancebox.qml:519
+#: activities/balancebox/Balancebox.qml:525
 msgctxt "Balancebox|"
 msgid "Built-in"
 msgstr "Na bhroinn o thùs"
 
-#: activities/balancebox/Balancebox.qml:520
+#: activities/balancebox/Balancebox.qml:526
 msgctxt "Balancebox|"
 msgid "User"
 msgstr "Cleachdaiche"
 
-#: activities/balancebox/Balancebox.qml:531
+#: activities/balancebox/Balancebox.qml:537
 msgctxt "Balancebox|"
 msgid "Select your level set"
 msgstr "Suidhich seata leibheilean"
 
-#: activities/balancebox/Balancebox.qml:540
+#: activities/balancebox/Balancebox.qml:546
 msgctxt "Balancebox|"
 msgid "Start Editor"
 msgstr "Tòisich an deasaiche"
 
-#: activities/balancebox/Balancebox.qml:549
+#: activities/balancebox/Balancebox.qml:555
 msgctxt "Balancebox|"
 msgid "Load saved levels"
 msgstr ""
 
-#: activities/balancebox/Balancebox.qml:586
+#: activities/balancebox/Balancebox.qml:592
 msgctxt "Balancebox|"
 msgid ""
 "You selected the user-defined level set, but you have not yet defined any "
@@ -1263,7 +1263,7 @@ msgstr ""
 "gnàthaichte sam bith fhathast!<br/>Cruthaich leibheilean le deasaiche nan "
 "leibheilean no tagh seata a thàinig leis a’ gheama."
 
-#: activities/balancebox/Balancebox.qml:588
+#: activities/balancebox/Balancebox.qml:594
 msgctxt "Balancebox|"
 msgid "Ok"
 msgstr "Ceart ma-thà"
