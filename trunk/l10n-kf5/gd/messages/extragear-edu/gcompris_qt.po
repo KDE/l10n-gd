@@ -14801,7 +14801,7 @@ msgstr ""
 
 #: activities/solar_system/Dataset.js:88
 msgctxt "Dataset|"
-msgid "How long is a day on Mercury?"
+msgid "How long is one rotation on Mercury?"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:89
@@ -14911,7 +14911,7 @@ msgstr ""
 
 #: activities/solar_system/Dataset.js:122
 msgctxt "Dataset|"
-msgid "How long is a day on Venus?"
+msgid "How long is a rotation on Venus?"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:123
@@ -15022,7 +15022,7 @@ msgstr ""
 
 #: activities/solar_system/Dataset.js:161
 msgctxt "Dataset|"
-msgid "How long is a day on Earth?"
+msgid "How long is a rotation on Earth?"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:162
@@ -15134,7 +15134,7 @@ msgstr ""
 
 #: activities/solar_system/Dataset.js:210
 msgctxt "Dataset|"
-msgid "How long is a day on Mars?"
+msgid "How long is a rotation on Mars?"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:211
@@ -15208,7 +15208,7 @@ msgstr ""
 
 #: activities/solar_system/Dataset.js:254
 msgctxt "Dataset|"
-msgid "How long is one day on Jupiter?"
+msgid "How long is one rotation on Jupiter?"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:255
@@ -15276,7 +15276,7 @@ msgstr ""
 
 #: activities/solar_system/Dataset.js:288
 msgctxt "Dataset|"
-msgid "How long is one day on Saturn?"
+msgid "How long is one rotation on Saturn?"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:289
@@ -15384,7 +15384,7 @@ msgstr ""
 
 #: activities/solar_system/Dataset.js:327
 msgctxt "Dataset|"
-msgid "How long is one day on Uranus?"
+msgid "How long is one rotation on Uranus?"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:328
@@ -15462,7 +15462,7 @@ msgstr ""
 
 #: activities/solar_system/Dataset.js:366
 msgctxt "Dataset|"
-msgid "How long is one day on Neptune?"
+msgid "How long is one rotation on Neptune?"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:367

@@ -15,7 +15,7 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 "X-Qt-Contexts: true\n"
 
-#: khistorycombobox.cpp:206
+#: khistorycombobox.cpp:208
 msgctxt "KHistoryComboBox|"
 msgid "Clear &History"
 msgstr "Falam&haich an eachdraidh"
