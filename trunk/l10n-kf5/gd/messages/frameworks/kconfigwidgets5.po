@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kconfigwidgets5\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-26 02:51+0100\n"
+"POT-Creation-Date: 2019-12-11 02:50+0100\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -521,8 +521,9 @@ msgid "&Save Settings"
 msgstr "&Sàbhail na roghainnean"
 
 #: kstandardaction_p.h:105
-#, kde-format
-msgid "Configure S&hortcuts..."
+#, fuzzy, kde-format
+#| msgid "Configure S&hortcuts..."
+msgid "Configure Keyboard S&hortcuts..."
 msgstr "Rèitich na h-ath-g&hoiridean..."
 
 #: kstandardaction_p.h:106
