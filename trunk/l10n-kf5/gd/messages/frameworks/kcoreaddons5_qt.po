@@ -728,92 +728,36 @@ msgid "Invalid date"
 msgstr ""
 
 #: lib/util/kformatprivate.cpp:519
+#, fuzzy
+#| msgctxt "KFormat|"
+#| msgid "%n day(s)"
+#| msgid_plural "%n day(s)"
+msgctxt "KFormat|"
+msgid "In two days"
+msgstr "%n latha"
+
+#: lib/util/kformatprivate.cpp:521
 msgctxt "KFormat|"
 msgid "Tomorrow"
 msgstr "A-màireach"
 
-#: lib/util/kformatprivate.cpp:521
+#: lib/util/kformatprivate.cpp:523
 msgctxt "KFormat|"
 msgid "Today"
 msgstr "An-diugh"
 
-#: lib/util/kformatprivate.cpp:523
+#: lib/util/kformatprivate.cpp:525
 msgctxt "KFormat|"
 msgid "Yesterday"
 msgstr "An-dè"
 
-#: lib/util/kformatprivate.cpp:529
-msgctxt "KFormat|most recent such day before today"
-msgid "Last Monday"
-msgstr ""
-
-#: lib/util/kformatprivate.cpp:531
-msgctxt "KFormat|most recent such day before today"
-msgid "Last Tuesday"
-msgstr ""
-
-#: lib/util/kformatprivate.cpp:533
-msgctxt "KFormat|most recent such day before today"
-msgid "Last Wednesday"
-msgstr ""
-
-#: lib/util/kformatprivate.cpp:535
-msgctxt "KFormat|most recent such day before today"
-msgid "Last Thursday"
-msgstr ""
-
-#: lib/util/kformatprivate.cpp:537
-msgctxt "KFormat|most recent such day before today"
-msgid "Last Friday"
-msgstr ""
-
-#: lib/util/kformatprivate.cpp:539
-msgctxt "KFormat|most recent such day before today"
-msgid "Last Saturday"
-msgstr ""
-
-#: lib/util/kformatprivate.cpp:541
-msgctxt "KFormat|most recent such day before today"
-msgid "Last Sunday"
-msgstr ""
-
-#: lib/util/kformatprivate.cpp:546
-msgctxt "KFormat|the next such day after today"
-msgid "Next Monday"
-msgstr ""
-
-#: lib/util/kformatprivate.cpp:548
-msgctxt "KFormat|the next such day after today"
-msgid "Next Tuesday"
-msgstr ""
-
-#: lib/util/kformatprivate.cpp:550
-msgctxt "KFormat|the next such day after today"
-msgid "Next Wednesday"
-msgstr ""
-
-#: lib/util/kformatprivate.cpp:552
-msgctxt "KFormat|the next such day after today"
-msgid "Next Thursday"
-msgstr ""
-
-#: lib/util/kformatprivate.cpp:554
-msgctxt "KFormat|the next such day after today"
-msgid "Next Friday"
-msgstr ""
-
-#: lib/util/kformatprivate.cpp:556
-msgctxt "KFormat|the next such day after today"
-msgid "Next Saturday"
-msgstr ""
-
-#: lib/util/kformatprivate.cpp:558
-msgctxt "KFormat|the next such day after today"
-msgid "Next Sunday"
+#: lib/util/kformatprivate.cpp:527
+msgctxt "KFormat|"
+msgid "Two days ago"
 msgstr ""
 
 #. relative datetime with %1 result of formatReleativeDate() and %2 the formatted time If this does not fit the grammar of your language please contact the i18n team to solve the problem
-#: lib/util/kformatprivate.cpp:573
+#: lib/util/kformatprivate.cpp:541
 #, qt-format
 msgctxt "KFormat|"
 msgid "%1, %2"
