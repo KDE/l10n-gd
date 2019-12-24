@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-20 02:45+0000\n"
+"POT-Creation-Date: 2019-12-24 02:36+0000\n"
 "PO-Revision-Date: 2016-04-29 13:18+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -34,7 +34,7 @@ msgctxt "Name"
 msgid "Catfish File Search"
 msgstr "Lorg fhaidhlichean"
 
-#: data/kmoretools-desktopfiles/catfish.desktop:40
+#: data/kmoretools-desktopfiles/catfish.desktop:41
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "File search"
@@ -42,7 +42,7 @@ msgctxt "GenericName"
 msgid "File search"
 msgstr "Lorg fhaidhlichean"
 
-#: data/kmoretools-desktopfiles/catfish.desktop:78
+#: data/kmoretools-desktopfiles/catfish.desktop:80
 msgctxt "Comment"
 msgid "Search the file system"
 msgstr ""
@@ -102,12 +102,12 @@ msgctxt "Name"
 msgid "Font Management"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/fontinst.desktop:53
+#: data/kmoretools-desktopfiles/fontinst.desktop:54
 msgctxt "Comment"
 msgid "Font Installation, Preview and Removal"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/fontinst.desktop:93
+#: data/kmoretools-desktopfiles/fontinst.desktop:94
 msgctxt "X-KDE-Keywords"
 msgid "font,fonts,installer,truetype,type1,bitmap"
 msgstr ""
@@ -125,7 +125,7 @@ msgctxt "Comment"
 msgid "A font manager"
 msgstr "Stiùiriche ghlacaidhean-sgrìn"
 
-#: data/kmoretools-desktopfiles/fontmatrix.desktop:85
+#: data/kmoretools-desktopfiles/fontmatrix.desktop:86
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Task Manager"
@@ -141,12 +141,12 @@ msgctxt "Name"
 msgid "FSearch"
 msgstr "Lorg fhaidhlichean"
 
-#: data/kmoretools-desktopfiles/fsearch.desktop:42
+#: data/kmoretools-desktopfiles/fsearch.desktop:43
 msgctxt "Comment"
 msgid "A file search application focusing on performance and advanced features"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/fsearch.desktop:83
+#: data/kmoretools-desktopfiles/fsearch.desktop:84
 msgctxt "Keywords"
 msgid ""
 "search;fsearch;files;folders;music;video;documents;find;tool;everything;"
@@ -364,7 +364,7 @@ msgctxt "GenericName"
 msgid "Character Selector"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/org.kde.kcharselect.desktop:46
+#: data/kmoretools-desktopfiles/org.kde.kcharselect.desktop:47
 msgctxt "Name"
 msgid "KCharSelect"
 msgstr ""
@@ -384,7 +384,7 @@ msgctxt "Name"
 msgid "KFind"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/org.kde.kfind.desktop:45
+#: data/kmoretools-desktopfiles/org.kde.kfind.desktop:46
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Find Files/Folders"
@@ -482,22 +482,22 @@ msgctxt "Name"
 msgid "Spectacle"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/org.kde.spectacle.desktop:94
+#: data/kmoretools-desktopfiles/org.kde.spectacle.desktop:95
 msgctxt "Name"
 msgid "Capture Entire Desktop"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/org.kde.spectacle.desktop:134
+#: data/kmoretools-desktopfiles/org.kde.spectacle.desktop:135
 msgctxt "Name"
 msgid "Capture Current Monitor"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/org.kde.spectacle.desktop:174
+#: data/kmoretools-desktopfiles/org.kde.spectacle.desktop:175
 msgctxt "Name"
 msgid "Capture Active Window"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/org.kde.spectacle.desktop:214
+#: data/kmoretools-desktopfiles/org.kde.spectacle.desktop:216
 msgctxt "Name"
 msgid "Capture Rectangular Region"
 msgstr ""
