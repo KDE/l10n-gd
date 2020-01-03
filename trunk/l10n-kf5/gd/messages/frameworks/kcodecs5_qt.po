@@ -224,7 +224,7 @@ msgstr ""
 "Chan eil an seòladh puist-d a chuir thu a-steach dligheach air sgàth 's gu "
 "bheil teacsa le comharran-iomraidh 'na bhroinn nach dig gu crìoch."
 
-#: kemailaddress.cpp:569 kemailaddress.cpp:650
+#: kemailaddress.cpp:569 kemailaddress.cpp:646
 msgctxt "QObject|"
 msgid ""
 "The email address you entered is not valid because it does not seem to "
