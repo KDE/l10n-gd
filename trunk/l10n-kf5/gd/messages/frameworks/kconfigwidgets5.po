@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kconfigwidgets5\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-06 03:03+0100\n"
+"POT-Creation-Date: 2020-01-17 02:55+0100\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -52,6 +52,18 @@ msgstr "Tùsail"
 msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "Mothaich gu fèin-obrachail"
+
+#: kcolorschememanager.cpp:109
+#, fuzzy, kde-format
+#| msgctxt "Encodings menu"
+#| msgid "Default"
+msgid "Default"
+msgstr "Tùsail"
+
+#: kcolorschememanager.cpp:215 kcolorschememanager.cpp:220
+#, kde-format
+msgid "Color Scheme"
+msgstr ""
 
 #: kconfigdialog.cpp:44
 #, kde-format
