@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-21 02:58+0100\n"
+"POT-Creation-Date: 2020-01-18 02:52+0100\n"
 "PO-Revision-Date: 2016-04-29 13:11+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -96,20 +96,25 @@ msgid "Manipulate the Baloo configuration"
 msgstr "Gleus rèiteachadh Baloo"
 
 #: configcommand.cpp:81
-#, kde-format
-msgid "The config command can be used to manipulate the Baloo Configuration"
+#, fuzzy, kde-format
+#| msgid "The config command can be used to manipulate the Baloo Configuration"
+msgid "The config command can be used to manipulate the Baloo Configuration\n"
 msgstr ""
 "Gabhaidh an àithne config a chleachdadh gus rèiteachadh Baloo atharrachadh a "
 "làimh"
 
 #: configcommand.cpp:82
-#, kde-format
-msgid "Usage: balooctl config <command>"
+#, fuzzy, kde-format
+#| msgid "Usage: balooctl config <command>"
+msgid ""
+"Usage: balooctl config <command>\n"
+"\n"
 msgstr "Cleachdadh: balooctl config <command>"
 
 #: configcommand.cpp:83
-#, kde-format
-msgid "Possible Commands:"
+#, fuzzy, kde-format
+#| msgid "Possible Commands:"
+msgid "Possible Commands:\n"
 msgstr "Àitheantan as urrainn dhut cleachdadh:"
 
 #: configcommand.cpp:86
@@ -138,8 +143,11 @@ msgid "Display this help menu"
 msgstr "Seall clàr-taice na cobharach seo"
 
 #: configcommand.cpp:96
-#, kde-format
-msgid "The following configuration options may be listed:"
+#, fuzzy, kde-format
+#| msgid "The following configuration options may be listed:"
+msgid ""
+"The following configuration options may be listed:\n"
+"\n"
 msgstr "Faodaidh tu na roghainnean seo aig an rèiteachadh a shealltainn:"
 
 #: configcommand.cpp:98 configcommand.cpp:377
@@ -182,19 +190,24 @@ msgstr ""
 
 #: configcommand.cpp:155 configcommand.cpp:246 configcommand.cpp:369
 #: configcommand.cpp:439
-#, kde-format
-msgid "Config parameter could not be found"
+#, fuzzy, kde-format
+#| msgid "Config parameter could not be found"
+msgid "Config parameter could not be found\n"
 msgstr "Cha deach paramadair an rèiteachaidh a lorg"
 
 #: configcommand.cpp:161 configcommand.cpp:252 configcommand.cpp:375
-#, kde-format
-msgid "The following configuration options may be modified:"
+#, fuzzy, kde-format
+#| msgid "The following configuration options may be modified:"
+msgid ""
+"The following configuration options may be modified:\n"
+"\n"
 msgstr "Faodaidh tu na roghainnean seo aig an rèiteachadh atharrachadh:"
 
 #: configcommand.cpp:174 configcommand.cpp:194 configcommand.cpp:265
 #: configcommand.cpp:300
-#, kde-format
-msgid "A folder must be provided"
+#, fuzzy, kde-format
+#| msgid "A folder must be provided"
+msgid "A folder must be provided\n"
 msgstr "Feumaidh tu pasgan a shònrachadh"
 
 #: configcommand.cpp:182
@@ -208,8 +221,9 @@ msgid "%1 is not in the list of exclude folders"
 msgstr "chan eil %1 air liosta nam pasgan às-dhùnaidh"
 
 #: configcommand.cpp:214 configcommand.cpp:335
-#, kde-format
-msgid "A filter must be provided"
+#, fuzzy, kde-format
+#| msgid "A filter must be provided"
+msgid "A filter must be provided\n"
 msgstr "Feumaidh tu criathrag a shònrachadh"
 
 #: configcommand.cpp:220
@@ -218,8 +232,9 @@ msgid "%1 is not in list of exclude filters"
 msgstr "chan eil %1 air liosta nan criathragan às-dhùnaidh"
 
 #: configcommand.cpp:231 configcommand.cpp:353
-#, kde-format
-msgid "A mimetype must be provided"
+#, fuzzy, kde-format
+#| msgid "A mimetype must be provided"
+msgid "A mimetype must be provided\n"
 msgstr "Feumaidh tu seòrsa MIME a shònrachadh"
 
 #: configcommand.cpp:237
@@ -228,13 +243,15 @@ msgid "%1 is not in list of exclude mimetypes"
 msgstr "chan eil %1 air liosta nan seòrsaichean MIME às-dhùnaidh"
 
 #: configcommand.cpp:271 configcommand.cpp:306
-#, kde-format
-msgid "Path does not exist"
+#, fuzzy, kde-format
+#| msgid "Path does not exist"
+msgid "Path does not exist\n"
 msgstr "Chan eil an t-slighe ann"
 
 #: configcommand.cpp:276 configcommand.cpp:311
-#, kde-format
-msgid "Path is not a directory"
+#, fuzzy, kde-format
+#| msgid "Path is not a directory"
+msgid "Path is not a directory\n"
 msgstr "Chan eil an t-slighe 'na pasgan"
 
 #: configcommand.cpp:283
@@ -253,23 +270,27 @@ msgid "%1 is already in the list of exclude folders"
 msgstr "tha %1 air liosta nam pasgan às-dhùnaidh mar-thà"
 
 #: configcommand.cpp:341
-#, kde-format
-msgid "Exclude filter is already in the list"
+#, fuzzy, kde-format
+#| msgid "Exclude filter is already in the list"
+msgid "Exclude filter is already in the list\n"
 msgstr "Tha a' chriathrag às-dhùnaidh air an liosta mar-thà"
 
 #: configcommand.cpp:359
-#, kde-format
-msgid "Exclude mimetype is already in the list"
+#, fuzzy, kde-format
+#| msgid "Exclude mimetype is already in the list"
+msgid "Exclude mimetype is already in the list\n"
 msgstr "Tha an seòrsa MIME às-dhùnaidh air an liosta mar-thà"
 
 #: configcommand.cpp:387 configcommand.cpp:414
-#, kde-format
-msgid "A value must be provided"
+#, fuzzy, kde-format
+#| msgid "A value must be provided"
+msgid "A value must be provided\n"
 msgstr "Feumaidh tu luach a shònrachadh"
 
 #: configcommand.cpp:408 configcommand.cpp:435
-#, kde-format
-msgid "Invalid value"
+#, fuzzy, kde-format
+#| msgid "Invalid value"
+msgid "Invalid value\n"
 msgstr "Luach mì-dhligheach"
 
 #: main.cpp:66
@@ -376,32 +397,32 @@ msgstr ""
 msgid "format"
 msgstr ""
 
-#: monitorcommand.cpp:68 monitorcommand.cpp:86
+#: monitorcommand.cpp:68 monitorcommand.cpp:87
 #, kde-format
-msgid "Press ctrl+c to stop monitoring"
+msgid "Press ctrl+c to stop monitoring\n"
 msgstr ""
 
-#: monitorcommand.cpp:85
+#: monitorcommand.cpp:86
 #, kde-format
-msgid "Waiting for file indexer to start"
+msgid "Waiting for file indexer to start_n"
 msgstr ""
 
-#: monitorcommand.cpp:92
+#: monitorcommand.cpp:94
 #, fuzzy, kde-format
 #| msgid "Baloo File Indexer is running"
-msgid "File indexer is running"
+msgid "File indexer is running\n"
 msgstr "Tha inneal-inneacsaidh Baloo 'ga ruith"
 
-#: monitorcommand.cpp:104
+#: monitorcommand.cpp:107
 #, fuzzy, kde-format
 #| msgid "Indexer state: %1"
 msgctxt "currently indexed file"
 msgid "Indexing: %1"
 msgstr "Staid an inneil-inneacsaidh: %1"
 
-#: monitorcommand.cpp:112
+#: monitorcommand.cpp:120
 #, kde-format
-msgid ": Ok"
+msgid ": Ok\n"
 msgstr ""
 
 #: statuscommand.cpp:45
@@ -474,13 +495,15 @@ msgstr ""
 "Tha Baloo à comas an-dràsta. Gus a chur an comas, ruith \"balooctl enable\""
 
 #: statuscommand.cpp:287
-#, kde-format
-msgid "Baloo Index could not be opened"
+#, fuzzy, kde-format
+#| msgid "Baloo Index could not be opened"
+msgid "Baloo Index could not be opened\n"
 msgstr "Cha b' urrainn dhuinn inneacs Baloo fhosgladh"
 
 #: statuscommand.cpp:308
-#, kde-format
-msgid "Baloo File Indexer is running"
+#, fuzzy, kde-format
+#| msgid "Baloo File Indexer is running"
+msgid "Baloo File Indexer is running\n"
 msgstr "Tha inneal-inneacsaidh Baloo 'ga ruith"
 
 #: statuscommand.cpp:309
@@ -489,8 +512,9 @@ msgid "Indexer state: %1"
 msgstr "Staid an inneil-inneacsaidh: %1"
 
 #: statuscommand.cpp:312
-#, kde-format
-msgid "Baloo File Indexer is not running"
+#, fuzzy, kde-format
+#| msgid "Baloo File Indexer is not running"
+msgid "Baloo File Indexer is not running\n"
 msgstr "Chan eil inneal-inneacsaidh Baloo 'ga ruith"
 
 #: statuscommand.cpp:319
@@ -517,7 +541,7 @@ msgstr ""
 #: statuscommand.cpp:331
 #, fuzzy, kde-format
 #| msgid "Path does not exist"
-msgid "Index does not exist yet"
+msgid "Index does not exist yet\n"
 msgstr "Chan eil an t-slighe ann"
 
 #~ msgid "Start the file indexer"
