@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: knotifyconfig5\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-02 02:51+0100\n"
+"POT-Creation-Date: 2020-01-24 02:58+0100\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -67,7 +67,7 @@ msgstr "Tagh an t-àithne ri ruith"
 msgid "Sp&eech"
 msgstr "Cai&nnt"
 
-#. i18n: ectx: property (whatsThis), widget (KComboBox, TTS_combo)
+#. i18n: ectx: property (whatsThis), widget (QComboBox, TTS_combo)
 #: knotifyconfigactionswidgetbase.ui:119
 #, no-c-format, kde-format
 msgid ""
@@ -84,25 +84,25 @@ msgstr ""
 "aplacaid a chuir an tachartas</dd><dt>%m</dt><dd>An teachdaireachd a chuir "
 "an aplacaid</dd></dl></qt>"
 
-#. i18n: ectx: property (text), item, widget (KComboBox, TTS_combo)
+#. i18n: ectx: property (text), item, widget (QComboBox, TTS_combo)
 #: knotifyconfigactionswidgetbase.ui:123
 #, kde-format
 msgid "Speak Event Message"
 msgstr "Can teachdaireachd an tachartais"
 
-#. i18n: ectx: property (text), item, widget (KComboBox, TTS_combo)
+#. i18n: ectx: property (text), item, widget (QComboBox, TTS_combo)
 #: knotifyconfigactionswidgetbase.ui:128
 #, kde-format
 msgid "Speak Event Name"
 msgstr "Can ainm an tachartais"
 
-#. i18n: ectx: property (text), item, widget (KComboBox, TTS_combo)
+#. i18n: ectx: property (text), item, widget (QComboBox, TTS_combo)
 #: knotifyconfigactionswidgetbase.ui:133
 #, kde-format
 msgid "Speak Custom Text"
 msgstr "Can teacsa gnàthaichte"
 
-#. i18n: ectx: property (whatsThis), widget (KLineEdit, TTS_select)
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, TTS_select)
 #: knotifyconfigactionswidgetbase.ui:141
 #, no-c-format, kde-format
 msgid ""
