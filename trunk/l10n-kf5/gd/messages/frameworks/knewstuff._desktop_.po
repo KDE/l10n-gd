@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-24 02:36+0000\n"
+"POT-Creation-Date: 2020-01-29 02:28+0000\n"
 "PO-Revision-Date: 2016-04-29 13:18+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -52,12 +52,12 @@ msgctxt "Name"
 msgid "OBS Studio"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/com.obsproject.Studio.desktop:27
+#: data/kmoretools-desktopfiles/com.obsproject.Studio.desktop:28
 msgctxt "GenericName"
 msgid "Streaming/Recording Software"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/com.obsproject.Studio.desktop:52
+#: data/kmoretools-desktopfiles/com.obsproject.Studio.desktop:54
 msgctxt "Comment"
 msgid "Free and Open Source Streaming/Recording Software"
 msgstr ""
