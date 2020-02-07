@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kconfigwidgets5\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-30 02:51+0100\n"
+"POT-Creation-Date: 2020-02-07 03:03+0100\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -379,12 +379,13 @@ msgstr "Tagh leibheil an t-sùmaidh"
 
 #: kstandardaction_p.h:76
 #, kde-format
-msgid "&Redisplay"
-msgstr "Seall às ù&r"
+msgid "&Refresh"
+msgstr ""
 
 #: kstandardaction_p.h:76
-#, kde-format
-msgid "Redisplay document"
+#, fuzzy, kde-format
+#| msgid "Redisplay document"
+msgid "Refresh document"
 msgstr "Seall an sgrìobhainn às ùr"
 
 #: kstandardaction_p.h:78
@@ -638,6 +639,9 @@ msgstr "Ai&r ais"
 msgctxt "@action:button Goes to next tip, opposite to previous"
 msgid "&Next"
 msgstr "Air &adhart"
+
+#~ msgid "&Redisplay"
+#~ msgstr "Seall às ù&r"
 
 #~ msgid "without name"
 #~ msgstr "gun ainm"
