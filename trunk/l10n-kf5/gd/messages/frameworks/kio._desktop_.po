@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-02-03 02:24+0000\n"
+"POT-Creation-Date: 2020-02-17 02:49+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -491,8 +491,11 @@ msgid "Enter HTML filename:"
 msgstr "Cuir a-steach ainm an fhaidhle HTML:"
 
 #: src/new_file_templates/linkPath.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Basic link to file or directory..."
 msgctxt "Name"
-msgid "Basic link to file or directory..."
+msgid "Basic Link to File or Directory..."
 msgstr "Ceangal bunasach gun fhaidhle no pasgan..."
 
 #: src/new_file_templates/linkPath.desktop:64
