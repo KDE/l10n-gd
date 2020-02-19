@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GCompris-Unofficial\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-02-15 03:46+0100\n"
+"POT-Creation-Date: 2020-02-19 03:35+0100\n"
 "PO-Revision-Date: 2017-05-04 09:29+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -65,6 +65,12 @@ msgstr "Thoir tìodhlac dhuinn"
 #: template/base.html:60
 msgid "Screenshots"
 msgstr "Glacaidhean-sgrìn"
+
+#: template/base.html:61
+#, fuzzy
+#| msgid "Manual:"
+msgid "Manual"
+msgstr "Leabhar-mhìneachaidh:"
 
 #: template/base.html:62
 msgid "Contribute"
