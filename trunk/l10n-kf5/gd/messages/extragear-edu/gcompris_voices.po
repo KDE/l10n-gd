@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gcompris voices\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-29 02:32+0200\n"
+"POT-Creation-Date: 2020-02-24 02:36+0100\n"
 "PO-Revision-Date: 2017-05-27 14:21+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: gd <kde-i18n-doc@kde.org>\n"
@@ -115,12 +115,13 @@ msgid ""
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "baby_tangram"
-#. i18n: intro voices, see GCompris-voices/README.md - activity: "tangram"
 #: activities/baby_tangram/ActivityInfo.qml:30
-#: activities/tangram/ActivityInfo.qml:30
-#, kde-format
+#, fuzzy, kde-format
+#| msgid ""
+#| "Click on each object to obtain the same figure. You can change their "
+#| "orientation by clicking on the arrows."
 msgid ""
-"Click on each object to obtain the same figure. You can change their "
+"Move each puzzle piece, to obtain the completed puzzle. You can change their "
 "orientation by clicking on the arrows."
 msgstr ""
 "Briog air gach ball gus an cruth ath-thogail. 'S urrainn dhut car a thoirt "
@@ -1067,6 +1068,16 @@ msgstr ""
 "sgrìn. Innsidh prìne dhubh dhut gun do lorg thu an dath a tha a dhìth san "
 "àite cheart. Innsidh prìne gheal dhut gun do lorg thu an dath cheart ach gu "
 "bheil e san àite chearr."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "tangram"
+#: activities/tangram/ActivityInfo.qml:30
+#, kde-format
+msgid ""
+"Click on each object to obtain the same figure. You can change their "
+"orientation by clicking on the arrows."
+msgstr ""
+"Briog air gach ball gus an cruth ath-thogail. 'S urrainn dhut car a thoirt "
+"de bhall is tu a' briogadh air na saighdean."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "target"
 #: activities/target/ActivityInfo.qml:30
