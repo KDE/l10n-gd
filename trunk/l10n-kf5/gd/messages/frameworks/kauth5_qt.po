@@ -33,7 +33,7 @@ msgid ""
 "(application: %2 helper: %3)"
 msgstr "Mearachd a' backend DBus: dh'fhàillig le ceangal ris an inneal-taic. "
 
-#: backends/dbus/DBusHelperProxy.cpp:121
+#: backends/dbus/DBusHelperProxy.cpp:130
 #, fuzzy, qt-format
 #| msgctxt "KAuth::DBusHelperProxy|"
 #| msgid "DBus Backend error: could not contact the helper. Connection error: "
