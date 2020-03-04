@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-02-19 02:53+0100\n"
+"POT-Creation-Date: 2020-03-04 03:02+0100\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -233,7 +233,7 @@ msgstr ""
 "faighinn a luchdadh. Dèan cinnteach gun dèid <i>gpg</i> a stàladh air neo "
 "chan urrainn dhuinn na goireasan air an luchdadh a-nuas a dhearbhadh.</qt>"
 
-#: core/security.cpp:207
+#: core/security.cpp:211
 #, kde-format
 msgid ""
 "<qt>Enter passphrase for key <b>0x%1</b>, belonging to<br /><i>%2&lt;%3&gt;</"
@@ -242,7 +242,7 @@ msgstr ""
 "<qt>Cuir a-steach an abairt-fhaire airson na h-iuchrach <b>0x%1</b> a tha "
 "le<br /><i>%2&lt;%3&gt;</i><br />:</qt>"
 
-#: core/security.cpp:285
+#: core/security.cpp:289
 #, kde-format
 msgid ""
 "<qt>Cannot start <i>gpg</i> and check the validity of the file. Make sure "
@@ -253,17 +253,17 @@ msgstr ""
 "fhaidhle a dhearbhadh. Dèan cinnteach gun dèid <i>gpg</i> a stàladh air neo "
 "chan urrainn dhuinn na goireasan air an luchdadh a-nuas a dhearbhadh.</qt>"
 
-#: core/security.cpp:340
+#: core/security.cpp:344
 #, kde-format
 msgid "Key used for signing:"
 msgstr "Iuchair airson an t-soidhnidh:"
 
-#: core/security.cpp:341
+#: core/security.cpp:345
 #, kde-format
 msgid "Select Signing Key"
 msgstr "Tagh iuchair soidhnidh"
 
-#: core/security.cpp:376
+#: core/security.cpp:380
 #, kde-format
 msgid ""
 "<qt>Cannot start <i>gpg</i> and sign the file. Make sure that <i>gpg</i> is "
