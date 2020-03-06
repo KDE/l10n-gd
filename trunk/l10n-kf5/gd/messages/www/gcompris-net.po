@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GCompris-Unofficial\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-02-23 03:30+0100\n"
+"POT-Creation-Date: 2020-03-06 03:48+0100\n"
 "PO-Revision-Date: 2017-05-04 09:29+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -76,7 +76,7 @@ msgstr "Leabhar-mhìneachaidh:"
 msgid "Contribute"
 msgstr "Thoir taic dhuinn"
 
-#: template/donate.html:16
+#: template/donate.html:15
 #, fuzzy
 #| msgid ""
 #| "You, your children, your classroom love GCompris. You have now the "
@@ -88,7 +88,7 @@ msgstr ""
 "'S toil leat fhèin is le do chlann is leis an sgoil agad GCompris. Tha "
 "cothrom agad a-nis gus taic a thoirt dhan phròiseact seo."
 
-#: template/donate.html:17
+#: template/donate.html:16
 #, fuzzy
 #| msgid ""
 #| "Developing software takes a lot of time, it needs hardware, it implies "
@@ -103,18 +103,44 @@ msgstr ""
 "feumach air taic gus leantainn air adhart leis a' phròiseact seo."
 
 #: template/donate.html:18
+msgid ""
+"If you want to support the development of GCompris in a sustainable way, "
+"please become a patron of GCompris on Patreon :"
+msgstr ""
+
+#: template/donate.html:19
+msgid "Support GCompris on Patreon"
+msgstr ""
+
+#: template/donate.html:21
 #, fuzzy
 #| msgid ""
 #| "You can donate the amount of your choice by clicking on the button below:"
-msgid "You can donate the amount of your choice to KDE :"
+msgid "Also, you can donate the amount of your choice to KDE :"
 msgstr ""
 "'S urrainn dhut taghadh na bheir thu dhuinn de dh'airgead 's tu a' briogadh "
 "air a' phutan gu h-ìosal:"
 
-#: template/donate.html:20
+#: template/donate.html:22
+#, fuzzy
+#| msgid "Donate"
+msgid "Donate to KDE"
+msgstr "Thoir tìodhlac dhuinn"
+
+#: template/donate.html:24
 #, fuzzy
 #| msgid "Thanks for your support of free software in education."
 msgid "Thanks for supporting Free Software in education."
+msgstr "Tapadh leat airson taic a thoirt do bhathar-bog saor san fhoghlam."
+
+#: template/donate.html:27
+msgid "Patreon"
+msgstr ""
+
+#: template/donate.html:30
+#, fuzzy
+#| msgid "Thanks for your support of free software in education."
+msgid "Thanks to everyone supporting GCompris on Patreon!"
 msgstr "Tapadh leat airson taic a thoirt do bhathar-bog saor san fhoghlam."
 
 #: template/downloads.html:14
