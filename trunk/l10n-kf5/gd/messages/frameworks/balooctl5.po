@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-02-17 02:54+0100\n"
+"POT-Creation-Date: 2020-03-16 02:57+0100\n"
 "PO-Revision-Date: 2016-04-29 13:11+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -29,65 +29,70 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "fios@foramnagaidhlig.net"
 
-#: ../../file/indexerstate.h:45
+#: ../../file/indexerstate.h:46
 #, kde-format
 msgid "Unknown"
 msgstr "Chan eil fhios"
 
-#: ../../file/indexerstate.h:48
+#: ../../file/indexerstate.h:49
 #, kde-format
 msgid "Idle"
 msgstr "'Na thàmh"
 
-#: ../../file/indexerstate.h:51
+#: ../../file/indexerstate.h:52
 #, kde-format
 msgid "Suspended"
 msgstr "'Na dhàil"
 
-#: ../../file/indexerstate.h:54
+#: ../../file/indexerstate.h:55
 #, kde-format
 msgid "Initial Indexing"
 msgstr "Inneacsadh tòiseachaidh"
 
-#: ../../file/indexerstate.h:57
+#: ../../file/indexerstate.h:58
 #, kde-format
 msgid "Indexing new files"
 msgstr "Ag inneacsadh nam faidhlichean ùra"
 
-#: ../../file/indexerstate.h:60
+#: ../../file/indexerstate.h:61
 #, kde-format
 msgid "Indexing modified files"
 msgstr "Ag inneacsadh nam faidhlichean a chaidh atharrachadh"
 
-#: ../../file/indexerstate.h:63
+#: ../../file/indexerstate.h:64
 #, kde-format
 msgid "Indexing Extended Attributes"
 msgstr "Ag inneacsadh nam buadhan leudaichte"
 
-#: ../../file/indexerstate.h:66
+#: ../../file/indexerstate.h:67
 #, kde-format
 msgid "Indexing file content"
 msgstr "Ag inneacsadh susbaint nam faidhlichean"
 
-#: ../../file/indexerstate.h:69
+#: ../../file/indexerstate.h:70
 #, kde-format
 msgid "Checking for unindexed files"
 msgstr "A' toirt sùil airson faidhlichean gun inneacsadh"
 
-#: ../../file/indexerstate.h:72
+#: ../../file/indexerstate.h:73
 #, fuzzy, kde-format
 #| msgid "Checking for unindexed files"
 msgid "Checking for stale index entries"
 msgstr "A' toirt sùil airson faidhlichean gun inneacsadh"
 
-#: ../../file/indexerstate.h:75
+#: ../../file/indexerstate.h:76
 #, kde-format
 msgid "Idle (Powersave)"
 msgstr ""
 
-#: ../../file/indexerstate.h:78
+#: ../../file/indexerstate.h:79
 #, kde-format
 msgid "Not Running"
+msgstr ""
+
+#: ../../file/indexerstate.h:82
+#, kde-format
+msgid "Starting"
 msgstr ""
 
 #: configcommand.cpp:58
