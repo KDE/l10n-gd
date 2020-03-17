@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GCompris-Unofficial\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-03-07 03:44+0100\n"
+"POT-Creation-Date: 2020-03-17 03:39+0100\n"
 "PO-Revision-Date: 2020-03-16 23:58+0100\n"
 "Last-Translator: Timo <animtim@gmail.com>\n"
 "Language-Team: French <kde-i18n-doc@kde.org>\n"
@@ -16,8 +16,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 :"
-" (n > 2 && n < 20) ? 2 : 3;\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
+"(n > 2 && n < 20) ? 2 : 3;\n"
 "X-Generator: Lokalize 19.04.0\n"
 "Generated-By: Babel 0.9.6\n"
 
@@ -68,7 +68,6 @@ msgid "Screenshots"
 msgstr "Glacaidhean-sgrìn"
 
 #: template/base.html:61
-#| msgid "Manual:"
 msgid "Manual"
 msgstr "Leabhar-mhìneachaidh"
 
@@ -108,11 +107,11 @@ msgid ""
 "please become a patron of GCompris on Patreon:"
 msgstr ""
 
-#: template/donate.html:19
-msgid "Support GCompris on Patreon"
+#: template/donate.html:20 template/downloads.html:10 template/index.html:187
+msgid "Become a Patron"
 msgstr ""
 
-#: template/donate.html:21
+#: template/donate.html:23
 #, fuzzy
 #| msgid ""
 #| "You can donate the amount of your choice by clicking on the button below:"
@@ -121,133 +120,133 @@ msgstr ""
 "'S urrainn dhut taghadh na bheir thu dhuinn de dh'airgead 's tu a' briogadh "
 "air a' phutan gu h-ìosal:"
 
-#: template/donate.html:22
+#: template/donate.html:24
 #, fuzzy
 #| msgid "Donate"
 msgid "Donate to KDE"
 msgstr "Thoir tìodhlac dhuinn"
 
-#: template/donate.html:24
+#: template/donate.html:26
 #, fuzzy
 #| msgid "Thanks for your support of free software in education."
 msgid "Thanks for supporting Free Software in education."
 msgstr "Tapadh leat airson taic a thoirt do bhathar-bog saor san fhoghlam."
 
-#: template/donate.html:27
+#: template/donate.html:29
 msgid "Patreon"
 msgstr ""
 
-#: template/donate.html:30
+#: template/donate.html:32
 #, fuzzy
 #| msgid "Thanks for your support of free software in education."
 msgid "Thanks to everyone supporting GCompris on Patreon!"
 msgstr "Tapadh leat airson taic a thoirt do bhathar-bog saor san fhoghlam."
 
-#: template/downloads.html:14
+#: template/downloads.html:16
 msgid "Windows"
 msgstr ""
 
-#: template/downloads.html:18
+#: template/downloads.html:20
 msgid ""
 "You can install GCompris <a href=\"https://www.microsoft.com/en-us/store/p/"
 "gcompris/9pgxjtcxn8qm\">from the Windows Store</a>."
 msgstr ""
 
-#: template/downloads.html:19
+#: template/downloads.html:21
 msgid "Note: the Windows Store requires Windows 10."
 msgstr ""
 
-#: template/downloads.html:21
+#: template/downloads.html:23
 msgid "Else, you can download the installer from the links below."
 msgstr ""
 
-#: template/downloads.html:22
+#: template/downloads.html:24
 msgid "System requirements: Windows 7, 8 or 10 with OpenGL 2 support."
 msgstr ""
 
-#: template/downloads.html:27
+#: template/downloads.html:29
 msgid ""
 "Note: If your system doesn't have OpenGL 2 support or if it's not working "
 "properly, please use the entry GCompris (Safe Mode) in the start menu to "
 "launch GCompris with the software rendering mode which doesn't use OpenGL."
 msgstr ""
 
-#: template/downloads.html:28
+#: template/downloads.html:30
 msgid ""
 "If you really need a version that runs on Windows XP, or if your system "
 "doesn't support the new version, you can use the last installer from the old "
 "GCompris 15.10."
 msgstr ""
 
-#: template/downloads.html:32
+#: template/downloads.html:34
 msgid ""
 "To enable all the activities in this old version, you can use the code "
 "200202 in the entry box that contains the word CODE when you start the "
 "application."
 msgstr ""
 
-#: template/downloads.html:42
+#: template/downloads.html:44
 msgid "Android"
 msgstr ""
 
-#: template/downloads.html:46
+#: template/downloads.html:48
 msgid "The version for Android is distributed in the Play Store."
 msgstr ""
 
-#: template/downloads.html:50
+#: template/downloads.html:52
 msgid ""
 "We support both android 32bit and 64bit from the Play Store. The appropriate "
 "version is downloaded automatically depending on your Android operating "
 "system."
 msgstr ""
 
-#: template/downloads.html:52
+#: template/downloads.html:54
 msgid ""
 "GCompris is also available from F-Droid, the Free and Open Source Android "
 "app repository."
 msgstr ""
 
-#: template/downloads.html:65
+#: template/downloads.html:67
 msgid "macOS"
 msgstr ""
 
-#: template/downloads.html:69
+#: template/downloads.html:71
 msgid "You can get the macOS version from the link below."
 msgstr ""
 
-#: template/downloads.html:70
+#: template/downloads.html:72
 msgid "Built and tested on macOS 10.13."
 msgstr ""
 
-#: template/downloads.html:83
+#: template/downloads.html:85
 msgid "GNU/Linux"
 msgstr ""
 
-#: template/downloads.html:87
+#: template/downloads.html:89
 msgid ""
 "We provide standalone packages for GNU/Linux. They should work on any "
 "distribution (requires at least linux kernel 3.10, and gstreamer 1.0)."
 msgstr ""
 
-#: template/downloads.html:92 template/downloads.html:118
+#: template/downloads.html:94 template/downloads.html:120
 msgid ""
 "To use it, open a terminal in the folder where you downloaded the installer "
 "and run these commands:"
 msgstr ""
 
-#: template/downloads.html:97 template/downloads.html:123
+#: template/downloads.html:99 template/downloads.html:125
 msgid ""
 "Then read the license or press q to skip it, answer yes to the questions, "
 "and the software will be installed in a new folder next to the installer."
 msgstr ""
 
-#: template/downloads.html:98 template/downloads.html:124
+#: template/downloads.html:100 template/downloads.html:126
 msgid ""
 "Finally, to launch gcompris, go in the new folder, in bin, and double-click "
 "on gcompris-qt.sh."
 msgstr ""
 
-#: template/downloads.html:99
+#: template/downloads.html:101
 msgid ""
 "Note: If your system doesn't have OpenGL 2 support or if it's not working "
 "properly, please add the option \"--software-renderer\" at the end of the "
@@ -256,35 +255,35 @@ msgid ""
 "line renderer=auto , replace auto with software and save the file."
 msgstr ""
 
-#: template/downloads.html:110
+#: template/downloads.html:112
 msgid "Raspberry Pi"
 msgstr ""
 
-#: template/downloads.html:114
+#: template/downloads.html:116
 msgid "We provide a standalone package for Raspberry Pi."
 msgstr ""
 
-#: template/downloads.html:114
+#: template/downloads.html:116
 msgid "This package is a beta version."
 msgstr ""
 
-#: template/downloads.html:114
+#: template/downloads.html:116
 msgid "It was tested only on Raspberry Pi 3."
 msgstr ""
 
-#: template/downloads.html:134
+#: template/downloads.html:136
 msgid "Source code"
 msgstr ""
 
-#: template/downloads.html:138
+#: template/downloads.html:140
 msgid "The source code is available under the GPLv3 license."
 msgstr ""
 
-#: template/downloads.html:151
+#: template/downloads.html:153
 msgid "MD5 and GPG"
 msgstr ""
 
-#: template/downloads.html:155
+#: template/downloads.html:157
 #, python-format
 msgid ""
 "To check the integrity of your downloads, you can compare the md5sums with "
@@ -292,13 +291,13 @@ msgid ""
 "%(version)s.txt\">MD5SUMS</a>"
 msgstr ""
 
-#: template/downloads.html:156
+#: template/downloads.html:158
 msgid ""
 "The source tarball and the Linux installers are signed with the GPG key from "
 "Timothée Giet (public key: "
 msgstr ""
 
-#: template/downloads.html:158
+#: template/downloads.html:160
 msgid "sig files:"
 msgstr ""
 
@@ -324,7 +323,7 @@ msgstr ""
 msgid "View all screenshots"
 msgstr "Seall na h-uile glacadh-sgrìn"
 
-#: template/index.html:190
+#: template/index.html:193
 #, fuzzy
 #| msgid ""
 #| "GCompris is a high quality educational software suite comprising of "
@@ -336,7 +335,7 @@ msgstr ""
 "'S e sreath de phrògraman foghlaim a th' ann an GCompris le deagh chàileachd "
 "is tha iomadh cleas na bhroinn airson clann aois 2 gu 10."
 
-#: template/index.html:191
+#: template/index.html:194
 msgid ""
 "Some of the activities are game orientated, but nonetheless still "
 "educational."
@@ -344,11 +343,11 @@ msgstr ""
 "'S e geamannan a th' ann an cuid dhe na cleasan ach tha iad math airson "
 "foghlam co-dhiù."
 
-#: template/index.html:192
+#: template/index.html:195
 msgid "Here is the list of activity categories with some examples:"
 msgstr ""
 
-#: template/index.html:194
+#: template/index.html:197
 #, fuzzy
 #| msgid "computer discovery: keyboard, mouse, different mouse gestures, ..."
 msgid "computer discovery: keyboard, mouse, touchscreen ..."
@@ -356,13 +355,13 @@ msgstr ""
 "Faigh a-mach mun choimpiutair: am meur-chlàr, an luchag, gluasadan na "
 "luchaige, ..."
 
-#: template/index.html:195
+#: template/index.html:198
 #, fuzzy
 #| msgid "reading: reading practice"
 msgid "reading: letters, words, reading practice, typing text ..."
 msgstr "leughadh: cleachd do sgilean leughaidh"
 
-#: template/index.html:196
+#: template/index.html:199
 #, fuzzy
 #| msgid ""
 #| "arithmetic: table memory, enumeration, double entry table, mirror "
@@ -374,7 +373,7 @@ msgstr ""
 "àireamhachd: cuimhnich na clàran, àireamhachadh, an griod, sgàthanaich "
 "dealbh, ..."
 
-#: template/index.html:197
+#: template/index.html:200
 #, fuzzy
 #| msgid ""
 #| "science: the canal lock, the water cycle, the submarine, electric "
@@ -384,21 +383,21 @@ msgstr ""
 "saidheans: loc canail, cearcall an uisge, bàta-tumaidh, atharrais sgeama "
 "dealain, ..."
 
-#: template/index.html:198
+#: template/index.html:201
 msgid "geography: countries, regions, culture ..."
 msgstr ""
 
-#: template/index.html:199
+#: template/index.html:202
 #, fuzzy
 #| msgid "games: chess, memory, connect 4, oware, sudoku ..."
 msgid "games: chess, memory, align 4, hangman, tic-tac-toe ..."
 msgstr "geamannan: tàileasg, cuimhne, ceangail 4, oware, sudoku, ..."
 
-#: template/index.html:200
+#: template/index.html:203
 msgid "other: colors, shapes, Braille, learn to tell time ..."
 msgstr ""
 
-#: template/index.html:202
+#: template/index.html:205
 #, fuzzy
 #| msgid ""
 #| "Currently GCompris offers in excess of 100 activities and more are being "
@@ -416,17 +415,17 @@ msgstr ""
 "thu gleus a chur air a-rèir nam feumalachdan agad fhèin, a leasachadh is gu "
 "h-àraidh a cho-roinn leis a' chlann air fheadh an t-saoghail."
 
-#: template/index.html:203
+#: template/index.html:206
 msgid ""
 "The GCompris project is hosted and developed by <a target=\"_blank\" rel="
 "\"noopener\" href=\"https://www.kde.org/\">the KDE community</a>."
 msgstr ""
 
-#: template/index.html:210
+#: template/index.html:213
 msgid "Latest news"
 msgstr "Na naidheachdan as ùire"
 
-#: template/index.html:214
+#: template/index.html:217
 msgid "All the news"
 msgstr "A h-uile naidheachd"
 
