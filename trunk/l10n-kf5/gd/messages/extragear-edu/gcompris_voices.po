@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gcompris voices\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-02-24 02:36+0100\n"
+"POT-Creation-Date: 2020-03-28 02:44+0100\n"
 "PO-Revision-Date: 2017-05-27 14:21+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: gd <kde-i18n-doc@kde.org>\n"
@@ -526,6 +526,13 @@ msgstr ""
 msgid "Color the graph so that no two adjacent nodes have the same color."
 msgstr ""
 
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "gravity"
+#: activities/gravity/ActivityInfo.qml:34
+#, kde-format
+msgid ""
+"Move the spaceship to avoid hitting the planets and reach the space station."
+msgstr ""
+
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "guesscount"
 #: activities/guesscount/ActivityInfo.qml:34
 #, kde-format
@@ -589,17 +596,6 @@ msgstr "Slaod gach pìos agus leig às e air dotag."
 #, kde-format
 msgid "Click on the correct musical instrument."
 msgstr "Briog air an inneal-chiùil cheart."
-
-#. i18n: intro voices, see GCompris-voices/README.md - activity: "intro_gravity"
-#: activities/intro_gravity/ActivityInfo.qml:30
-#, kde-format
-msgid ""
-"Change the planets' gravitational force by moving the sliders up and down. "
-"Be careful not to crash Tux's spaceship."
-msgstr ""
-"Atharraich iom-tharraing an dà planaid is tu a' gluasad an dà shleamhnachan "
-"suas no sìos. Bi cùramach ach nach bi tubaist aig an t-soitheach-fhànais aig "
-"Tux."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "land_safe"
 #: activities/land_safe/ActivityInfo.qml:30
@@ -1123,6 +1119,14 @@ msgstr ""
 #, kde-format
 msgid "Type the words on your keyboard before they reach the ground."
 msgstr "Sgrìobh na faclan air a' mheur-chlàr agad mus ruig iad an làr."
+
+#~ msgid ""
+#~ "Change the planets' gravitational force by moving the sliders up and "
+#~ "down. Be careful not to crash Tux's spaceship."
+#~ msgstr ""
+#~ "Atharraich iom-tharraing an dà planaid is tu a' gluasad an dà "
+#~ "shleamhnachan suas no sìos. Bi cùramach ach nach bi tubaist aig an t-"
+#~ "soitheach-fhànais aig Tux."
 
 #~ msgid ""
 #~ "Use the drawing tools to reproduce the right-hand side symmetrical figure."

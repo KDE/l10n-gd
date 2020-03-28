@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-03-17 03:00+0000\n"
+"POT-Creation-Date: 2020-03-28 03:05+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -498,7 +498,7 @@ msgctxt "Name"
 msgid "Basic Link to File or Directory..."
 msgstr "Ceangal bunasach gun fhaidhle no pasgan..."
 
-#: src/new_file_templates/linkPath.desktop:24
+#: src/new_file_templates/linkPath.desktop:25
 msgctxt "Comment"
 msgid "Enter path of file or directory:"
 msgstr "Cuir a-steach slighe an fhaidhle no a' phasgain:"
@@ -1128,7 +1128,7 @@ msgctxt "Name"
 msgid "GitLab"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/gitlab.desktop:38
+#: src/urifilters/ikws/searchproviders/gitlab.desktop:39
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"
