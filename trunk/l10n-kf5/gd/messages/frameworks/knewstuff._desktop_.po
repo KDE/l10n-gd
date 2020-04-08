@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-03-28 03:05+0000\n"
+"POT-Creation-Date: 2020-04-08 02:11+0000\n"
 "PO-Revision-Date: 2016-04-29 13:18+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -547,17 +547,17 @@ msgctxt "Keywords"
 msgid "screen recorder;screencast;live streaming;"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/vokoscreen.desktop:2
+#: data/kmoretools-desktopfiles/vokoscreenNG.desktop:2
 msgctxt "Comment"
 msgid "screencast"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/vokoscreen.desktop:35
+#: data/kmoretools-desktopfiles/vokoscreenNG.desktop:35
 msgctxt "Name"
-msgid "vokoscreen"
+msgid "VokoscreenNG"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/vokoscreen.desktop:71
+#: data/kmoretools-desktopfiles/vokoscreenNG.desktop:71
 msgctxt "Keywords"
 msgid "Audio;Video;Recorder;Screencast;"
 msgstr ""
