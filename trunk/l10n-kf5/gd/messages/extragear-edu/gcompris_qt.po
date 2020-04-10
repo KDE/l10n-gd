@@ -555,6 +555,21 @@ msgctxt "advanced_colors|"
 msgid "Find the dark purple butterfly"
 msgstr "Lorg an dealan-dè dorch-phurpaidh"
 
+#: activities/algebra_by/ActivityConfig.qml:38
+#: activities/algebra_div/ActivityConfig.qml:38
+#: activities/algebra_minus/ActivityConfig.qml:39
+#: activities/algebra_plus/ActivityConfig.qml:39
+#: activities/gletters/ActivityConfig.qml:62
+#: activities/note_names/ActivityConfig.qml:40
+#: activities/readingh/ActivityConfig.qml:54
+#: activities/readingv/ActivityConfig.qml:54
+#: activities/smallnumbers/ActivityConfig.qml:39
+#: activities/smallnumbers2/ActivityConfig.qml:55
+#: activities/wordsgame/ActivityConfig.qml:62
+msgctxt "ActivityConfig|"
+msgid "Speed"
+msgstr ""
+
 #. Activity title
 #: activities/algebra_by/ActivityInfo.qml:27
 #, fuzzy
@@ -595,10 +610,85 @@ msgid ""
 "their balloon land!"
 msgstr ""
 
-#: activities/algebra_by/Algebra.qml:77
-msgctxt "Algebra|"
-msgid "Speed"
-msgstr ""
+#: activities/algebra_by/resource/1/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Multiplication table"
+msgctxt "Data|"
+msgid "Learn multiplication table of 1"
+msgstr "Clàr iomadachaidh"
+
+#: activities/algebra_by/resource/10/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Multiplication table"
+msgctxt "Data|"
+msgid "Learn multiplication table of 10"
+msgstr "Clàr iomadachaidh"
+
+#: activities/algebra_by/resource/2/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Multiplication table"
+msgctxt "Data|"
+msgid "Learn multiplication table of 2"
+msgstr "Clàr iomadachaidh"
+
+#: activities/algebra_by/resource/3/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Multiplication table"
+msgctxt "Data|"
+msgid "Learn multiplication table of 3"
+msgstr "Clàr iomadachaidh"
+
+#: activities/algebra_by/resource/4/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Multiplication table"
+msgctxt "Data|"
+msgid "Learn multiplication table of 4"
+msgstr "Clàr iomadachaidh"
+
+#: activities/algebra_by/resource/5/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Multiplication table"
+msgctxt "Data|"
+msgid "Learn multiplication table of 5"
+msgstr "Clàr iomadachaidh"
+
+#: activities/algebra_by/resource/6/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Multiplication table"
+msgctxt "Data|"
+msgid "Learn multiplication table of 6"
+msgstr "Clàr iomadachaidh"
+
+#: activities/algebra_by/resource/7/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Multiplication table"
+msgctxt "Data|"
+msgid "Learn multiplication table of 7"
+msgstr "Clàr iomadachaidh"
+
+#: activities/algebra_by/resource/8/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Multiplication table"
+msgctxt "Data|"
+msgid "Learn multiplication table of 8"
+msgstr "Clàr iomadachaidh"
+
+#: activities/algebra_by/resource/9/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Multiplication table"
+msgctxt "Data|"
+msgid "Learn multiplication table of 9"
+msgstr "Clàr iomadachaidh"
 
 #. Activity title
 #: activities/algebra_div/ActivityInfo.qml:27
@@ -645,6 +735,86 @@ msgid ""
 "and submit the answer before the penguins in their balloon land!"
 msgstr ""
 
+#: activities/algebra_div/resource/1/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Subtraction memory game"
+msgctxt "Data|"
+msgid "Learn division table of 1"
+msgstr "Geama cuimhne toirt air falbh"
+
+#: activities/algebra_div/resource/10/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Subtraction memory game"
+msgctxt "Data|"
+msgid "Learn division table of 10"
+msgstr "Geama cuimhne toirt air falbh"
+
+#: activities/algebra_div/resource/2/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Subtraction memory game"
+msgctxt "Data|"
+msgid "Learn division table of 2"
+msgstr "Geama cuimhne toirt air falbh"
+
+#: activities/algebra_div/resource/3/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Subtraction memory game"
+msgctxt "Data|"
+msgid "Learn division table of 3"
+msgstr "Geama cuimhne toirt air falbh"
+
+#: activities/algebra_div/resource/4/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Subtraction memory game"
+msgctxt "Data|"
+msgid "Learn division table of 4"
+msgstr "Geama cuimhne toirt air falbh"
+
+#: activities/algebra_div/resource/5/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Subtraction memory game"
+msgctxt "Data|"
+msgid "Learn division table of 5"
+msgstr "Geama cuimhne toirt air falbh"
+
+#: activities/algebra_div/resource/6/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Subtraction memory game"
+msgctxt "Data|"
+msgid "Learn division table of 6"
+msgstr "Geama cuimhne toirt air falbh"
+
+#: activities/algebra_div/resource/7/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Subtraction memory game"
+msgctxt "Data|"
+msgid "Learn division table of 7"
+msgstr "Geama cuimhne toirt air falbh"
+
+#: activities/algebra_div/resource/8/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Subtraction memory game"
+msgctxt "Data|"
+msgid "Learn division table of 8"
+msgstr "Geama cuimhne toirt air falbh"
+
+#: activities/algebra_div/resource/9/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Subtraction memory game"
+msgctxt "Data|"
+msgid "Learn division table of 9"
+msgstr "Geama cuimhne toirt air falbh"
+
 #. Activity title
 #: activities/algebra_minus/ActivityInfo.qml:27
 #, fuzzy
@@ -689,6 +859,86 @@ msgid ""
 "fast and submit the answer before the penguins in their balloon land!"
 msgstr ""
 
+#: activities/algebra_minus/resource/1/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn subtraction"
+msgctxt "Data|"
+msgid "Learn subtraction table of 1"
+msgstr "Ionnsaich toirt air falbh"
+
+#: activities/algebra_minus/resource/10/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn subtraction"
+msgctxt "Data|"
+msgid "Learn subtraction table of 10"
+msgstr "Ionnsaich toirt air falbh"
+
+#: activities/algebra_minus/resource/2/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn subtraction"
+msgctxt "Data|"
+msgid "Learn subtraction table of 2"
+msgstr "Ionnsaich toirt air falbh"
+
+#: activities/algebra_minus/resource/3/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn subtraction"
+msgctxt "Data|"
+msgid "Learn subtraction table of 3"
+msgstr "Ionnsaich toirt air falbh"
+
+#: activities/algebra_minus/resource/4/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn subtraction"
+msgctxt "Data|"
+msgid "Learn subtraction table of 4"
+msgstr "Ionnsaich toirt air falbh"
+
+#: activities/algebra_minus/resource/5/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn subtraction"
+msgctxt "Data|"
+msgid "Learn subtraction table of 5"
+msgstr "Ionnsaich toirt air falbh"
+
+#: activities/algebra_minus/resource/6/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn subtraction"
+msgctxt "Data|"
+msgid "Learn subtraction table of 6"
+msgstr "Ionnsaich toirt air falbh"
+
+#: activities/algebra_minus/resource/7/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn subtraction"
+msgctxt "Data|"
+msgid "Learn subtraction table of 7"
+msgstr "Ionnsaich toirt air falbh"
+
+#: activities/algebra_minus/resource/8/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn subtraction"
+msgctxt "Data|"
+msgid "Learn subtraction table of 8"
+msgstr "Ionnsaich toirt air falbh"
+
+#: activities/algebra_minus/resource/9/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn subtraction"
+msgctxt "Data|"
+msgid "Learn subtraction table of 9"
+msgstr "Ionnsaich toirt air falbh"
+
 #. Activity title
 #: activities/algebra_plus/ActivityInfo.qml:27
 #, fuzzy
@@ -730,6 +980,86 @@ msgid ""
 "computer's keyboard or the on-screen keypad to type it. You have to be fast "
 "and submit the answer before the penguins land in their balloon!"
 msgstr ""
+
+#: activities/algebra_plus/resource/1/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn addition"
+msgctxt "Data|"
+msgid "Learn addition table of 1"
+msgstr "Ionnsaich cur ris"
+
+#: activities/algebra_plus/resource/10/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn addition"
+msgctxt "Data|"
+msgid "Learn addition table of 10"
+msgstr "Ionnsaich cur ris"
+
+#: activities/algebra_plus/resource/2/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn addition"
+msgctxt "Data|"
+msgid "Learn addition table of 2"
+msgstr "Ionnsaich cur ris"
+
+#: activities/algebra_plus/resource/3/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn addition"
+msgctxt "Data|"
+msgid "Learn addition table of 3"
+msgstr "Ionnsaich cur ris"
+
+#: activities/algebra_plus/resource/4/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn addition"
+msgctxt "Data|"
+msgid "Learn addition table of 4"
+msgstr "Ionnsaich cur ris"
+
+#: activities/algebra_plus/resource/5/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn addition"
+msgctxt "Data|"
+msgid "Learn addition table of 5"
+msgstr "Ionnsaich cur ris"
+
+#: activities/algebra_plus/resource/6/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn addition"
+msgctxt "Data|"
+msgid "Learn addition table of 6"
+msgstr "Ionnsaich cur ris"
+
+#: activities/algebra_plus/resource/7/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn addition"
+msgctxt "Data|"
+msgid "Learn addition table of 7"
+msgstr "Ionnsaich cur ris"
+
+#: activities/algebra_plus/resource/8/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn addition"
+msgctxt "Data|"
+msgid "Learn addition table of 8"
+msgstr "Ionnsaich cur ris"
+
+#: activities/algebra_plus/resource/9/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn addition"
+msgctxt "Data|"
+msgid "Learn addition table of 9"
+msgstr "Ionnsaich cur ris"
 
 #. Activity title
 #: activities/algorithm/ActivityInfo.qml:27
@@ -2948,6 +3278,16 @@ msgid ""
 "those found in &lt;https://www.wikipedia.org&gt;."
 msgstr ""
 
+#: activities/chronos/resource/1/Data.qml:24
+msgctxt "Data|"
+msgid "For children who can read numbers"
+msgstr ""
+
+#: activities/chronos/resource/2/Data.qml:24
+msgctxt "Data|"
+msgid "For children who can read words"
+msgstr ""
+
 #: activities/chronos/resource/board/board1_0.qml:25
 msgctxt "board1_0|"
 msgid "Moonwalker"
@@ -3234,6 +3574,17 @@ msgctxt "board6_3|"
 msgid "1955 Citroën DS 19"
 msgstr ""
 
+#: activities/click_on_letter/ActivityConfig.qml:48
+#: activities/click_on_letter_up/ActivityConfig.qml:48
+#: activities/gletters/ActivityConfig.qml:52
+#: activities/hangman/ActivityConfig.qml:50
+#: activities/readingh/ActivityConfig.qml:50
+#: activities/readingv/ActivityConfig.qml:50
+#: activities/wordsgame/ActivityConfig.qml:52
+msgctxt "ActivityConfig|"
+msgid "Select your locale"
+msgstr ""
+
 #. Activity title
 #: activities/click_on_letter/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -3291,11 +3642,6 @@ msgstr ""
 "tu èisteachd ris an litir a-rithist ’s tu a’ briogadh air ìomhaigheag beòil "
 "sa bhogsa aig a’ bharr."
 
-#: activities/click_on_letter/ClickOnLetter.qml:112
-msgctxt "ClickOnLetter|"
-msgid "Select your locale"
-msgstr ""
-
 #. Activity title
 #: activities/click_on_letter_up/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -3312,6 +3658,33 @@ msgstr ""
 "Cluinnidh tu litir. Briog air an litir co-ionnan sa phrìomh raon. Faodaidh "
 "tu èisteachd ris an litir a-rithist ’s tu a’ briogadh air ìomhaigheag beòil "
 "sa bhogsa aig a’ bharr."
+
+#: activities/clickanddraw/ActivityConfig.qml:30
+#: activities/drawletters/ActivityConfig.qml:30
+#: activities/drawnumbers/ActivityConfig.qml:30
+#: activities/number_sequence/ActivityConfig.qml:30
+msgctxt "ActivityConfig|"
+msgid "Automatic"
+msgstr ""
+
+#: activities/clickanddraw/ActivityConfig.qml:31
+#: activities/drawletters/ActivityConfig.qml:31
+#: activities/drawnumbers/ActivityConfig.qml:31
+#: activities/number_sequence/ActivityConfig.qml:31
+#, fuzzy
+#| msgctxt "DialogHelp|"
+#| msgid "Manual"
+msgctxt "ActivityConfig|"
+msgid "Manual"
+msgstr "Stiùireadh"
+
+#: activities/clickanddraw/ActivityConfig.qml:41
+#: activities/drawletters/ActivityConfig.qml:41
+#: activities/drawnumbers/ActivityConfig.qml:41
+#: activities/number_sequence/ActivityConfig.qml:41
+msgctxt "ActivityConfig|"
+msgid "Go to next level"
+msgstr ""
 
 #. Activity title
 #: activities/clickanddraw/ActivityInfo.qml:27
@@ -3458,12 +3831,12 @@ msgstr ""
 "diogan). Briog air na saighdean is gluais an luchag gus na h-àireamhan a "
 "dhèanamh nas motha no nas lugha."
 
-#: activities/clockgame/Clockgame.qml:106
+#: activities/clockgame/Clockgame.qml:114
 msgctxt "Clockgame|"
 msgid "Set the watch to:"
 msgstr "Suidhich an t-uaireadair aig:"
 
-#: activities/clockgame/Clockgame.qml:109
+#: activities/clockgame/Clockgame.qml:117
 #, qt-format
 msgctxt "Clockgame|"
 msgid "%n hour(s)"
@@ -3473,7 +3846,7 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-#: activities/clockgame/Clockgame.qml:112
+#: activities/clockgame/Clockgame.qml:120
 #, qt-format
 msgctxt "Clockgame|"
 msgid "%n minute(s)"
@@ -3483,7 +3856,7 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-#: activities/clockgame/Clockgame.qml:115
+#: activities/clockgame/Clockgame.qml:123
 #, qt-format
 msgctxt "Clockgame|"
 msgid "%n second(s)"
@@ -3492,6 +3865,36 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
+
+#: activities/clockgame/resource/1/Data.qml:24
+msgctxt "Data|"
+msgid "Full hours."
+msgstr ""
+
+#: activities/clockgame/resource/2/Data.qml:24
+msgctxt "Data|"
+msgid "Half hours."
+msgstr ""
+
+#: activities/clockgame/resource/3/Data.qml:24
+msgctxt "Data|"
+msgid "Quarters of an hour."
+msgstr ""
+
+#: activities/clockgame/resource/4/Data.qml:24
+msgctxt "Data|"
+msgid "Time containing minutes."
+msgstr ""
+
+#: activities/clockgame/resource/5/Data.qml:24
+msgctxt "Data|"
+msgid "Time containing minutes and seconds."
+msgstr ""
+
+#: activities/clockgame/resource/6/Data.qml:24
+msgctxt "Data|"
+msgid "No hints."
+msgstr ""
 
 #. Activity title
 #: activities/color_mix/ActivityInfo.qml:27
@@ -3939,6 +4342,24 @@ msgid ""
 "Notre Dame de Paris cathedral on the Île de la Cité island in Paris, France."
 msgstr ""
 
+#: activities/digital_electricity/ActivityConfig.qml:32
+msgctxt "ActivityConfig|"
+msgid "Tutorial Mode"
+msgstr ""
+
+#: activities/digital_electricity/ActivityConfig.qml:33
+msgctxt "ActivityConfig|"
+msgid "Free Mode"
+msgstr ""
+
+#: activities/digital_electricity/ActivityConfig.qml:43
+#: activities/graph-coloring/ActivityConfig.qml:42
+#: activities/superbrain/ActivityConfig.qml:42
+#: activities/traffic/ActivityConfig.qml:42
+msgctxt "ActivityConfig|"
+msgid "Select your mode"
+msgstr ""
+
 #. Activity title
 #: activities/digital_electricity/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -4134,159 +4555,169 @@ msgid ""
 "supply voltage of a circuit."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:30
-msgctxt "Dataset|"
+#: activities/digital_electricity/DigitalElectricity.qml:256
+msgctxt "DigitalElectricity|"
+msgid "Input"
+msgstr ""
+
+#: activities/digital_electricity/DigitalElectricity.qml:274
+msgctxt "DigitalElectricity|"
+msgid "Output"
+msgstr ""
+
+#: activities/digital_electricity/TutorialDataset.qml:30
+msgctxt "TutorialDataset|"
 msgid "Zero input"
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:37
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:37
+msgctxt "TutorialDataset|"
 msgid "One input"
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:44
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:44
+msgctxt "TutorialDataset|"
 msgid "Digital light"
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:51
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:51
+msgctxt "TutorialDataset|"
 msgid "AND gate"
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:58
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:58
+msgctxt "TutorialDataset|"
 msgid "OR gate"
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:65
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:65
+msgctxt "TutorialDataset|"
 msgid "NOT gate"
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:72
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:72
+msgctxt "TutorialDataset|"
 msgid "XOR gate"
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:79
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:79
+msgctxt "TutorialDataset|"
 msgid "NAND gate"
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:86
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:86
+msgctxt "TutorialDataset|"
 msgid "NOR gate"
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:93
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:93
+msgctxt "TutorialDataset|"
 msgid "Switch"
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:100
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:100
+msgctxt "TutorialDataset|"
 msgid "Comparator"
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:107
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:107
+msgctxt "TutorialDataset|"
 msgid "BCD to 7 segment"
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:114
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:114
+msgctxt "TutorialDataset|"
 msgid "7 segment display"
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:121
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:121
+msgctxt "TutorialDataset|"
 msgid "Signal generator"
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:128
+#: activities/digital_electricity/TutorialDataset.qml:128
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Can count"
-msgctxt "Dataset|"
+msgctxt "TutorialDataset|"
 msgid "BCD counter"
 msgstr "Tha cunntadh agad"
 
-#: activities/digital_electricity/Dataset.qml:155
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:155
+msgctxt "TutorialDataset|"
 msgid ""
 "The digital light will glow when its terminal is connected with an input of "
 "1."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:156
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:156
+msgctxt "TutorialDataset|"
 msgid "Turn the digital light on using the inputs provided."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:169
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:169
+msgctxt "TutorialDataset|"
 msgid ""
 "The AND gate produces an output of one when both of its input terminals are "
 "of value 1."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:170
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:170
+msgctxt "TutorialDataset|"
 msgid "Turn the digital light on using an AND gate and the inputs provided."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:183
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:183
+msgctxt "TutorialDataset|"
 msgid ""
 "The OR gate produces an output of 1 when at least one of its input terminals "
 "is of value 1."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:184
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:184
+msgctxt "TutorialDataset|"
 msgid "Turn the digital light on using an OR gate and the inputs provided."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:197
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:197
+msgctxt "TutorialDataset|"
 msgid ""
 "Note: You can draw multiple wires from the output terminal of a component."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:210
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:210
+msgctxt "TutorialDataset|"
 msgid ""
 "The NOT gate takes a single binary input and flips the value in the output."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:223
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:223
+msgctxt "TutorialDataset|"
 msgid "The NAND gate takes two binary inputs and produces one binary output."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:224
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:224
+msgctxt "TutorialDataset|"
 msgid ""
 "The output of the NAND gate will be zero if both of its inputs are \"1\". "
 "Else, the output will be one."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:225
-#: activities/digital_electricity/Dataset.qml:289
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:225
+#: activities/digital_electricity/TutorialDataset.qml:289
+msgctxt "TutorialDataset|"
 msgid ""
 "For a more detailed description about the gate, select it and click on the "
 "info button."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:226
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:226
+msgctxt "TutorialDataset|"
 msgid "Light the bulb using the NAND gate provided."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:242
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:242
+msgctxt "TutorialDataset|"
 msgid ""
 "Light the bulb using the components provided such that the bulb will glow "
 "under the following two circumstances:\n"
@@ -4294,173 +4725,148 @@ msgid ""
 "2. Both of the second and the third switches are turned on."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:257
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:257
+msgctxt "TutorialDataset|"
 msgid "The XOR Gate takes two binary inputs and produces one binary output."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:258
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:258
+msgctxt "TutorialDataset|"
 msgid ""
 "The output of the XOR gate will be one if the number of \"1\" in the input "
 "is odd. Else, the output will be zero."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:259
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:259
+msgctxt "TutorialDataset|"
 msgid "Light the bulb using the XOR gate provided."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:275
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:275
+msgctxt "TutorialDataset|"
 msgid ""
 "Light the bulb using the three switches such that the bulb glows when odd "
 "number of the switches are turned on."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:288
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:288
+msgctxt "TutorialDataset|"
 msgid ""
 "A NOR gate takes 2 binary input and outputs 1 if both of them are 0, "
 "otherwise produces an output of 0."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:290
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:290
+msgctxt "TutorialDataset|"
 msgid "Light the bulb using the NOR gate provided."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:303
-#: activities/digital_electricity/Dataset.qml:364
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:303
+#: activities/digital_electricity/TutorialDataset.qml:364
+msgctxt "TutorialDataset|"
 msgid ""
 "Use the gates such that the bulb will glow only when the switch is turned "
 "off and remain off when the switch is turned on."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:319
-#: activities/digital_electricity/Dataset.qml:380
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:319
+#: activities/digital_electricity/TutorialDataset.qml:380
+msgctxt "TutorialDataset|"
 msgid ""
 "Create a circuit using the components provided such that the bulb glows only "
 "when both of the switches are turned on."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:335
-#: activities/digital_electricity/Dataset.qml:396
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:335
+#: activities/digital_electricity/TutorialDataset.qml:396
+msgctxt "TutorialDataset|"
 msgid ""
 "Create a circuit using the components provided such that the bulb glows when "
 "either of the switches are turned on."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:351
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:351
+msgctxt "TutorialDataset|"
 msgid ""
 "Create a circuit using the components provided such that the bulb glows only "
 "when both of the switches are turned off."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:412
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:412
+msgctxt "TutorialDataset|"
 msgid ""
 "Create a circuit using the components provided such that the bulb will glow "
 "when at least one of the switches are turned off."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:428
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:428
+msgctxt "TutorialDataset|"
 msgid ""
 "A comparator takes two numbers (A and B) as input and produces 3 values as "
 "output. First value is 1 if A < B, second value is 1 for A = B and third "
 "value is 1 for A > B."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:429
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:429
+msgctxt "TutorialDataset|"
 msgid ""
 "Create a circuit using the components provided such that the bulb will glow "
 "when the value of the current flowing through the first switch is less than "
 "or equal to that of the second switch."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:442
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:442
+msgctxt "TutorialDataset|"
 msgid "The component in the middle is a BCD to seven segment converter."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:443
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:443
+msgctxt "TutorialDataset|"
 msgid ""
 "It takes 4 bits as input represented in the binary coded decimal (BCD) "
 "format and converts the BCD number into a seven segment code."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:444
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:444
+msgctxt "TutorialDataset|"
 msgid ""
 "The output of the converter is connected to the seven segment display, to "
 "view the value of the input provided."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:445
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:445
+msgctxt "TutorialDataset|"
 msgid "Display the number \"6\" in the seven segment display."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:458
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:458
+msgctxt "TutorialDataset|"
 msgid ""
 "The signal generator on the left is used to generate alternating signals "
 "between 0 and 1 in a given time period taken as input. The time period by "
 "default is 1 second, but it can be changed between 0.25 and 2s."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:459
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:459
+msgctxt "TutorialDataset|"
 msgid ""
 "The BCD counter placed under it is a special type of counter which can count "
 "from 0 to 9 and back to 0 on application of a clock signal."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:460
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:460
+msgctxt "TutorialDataset|"
 msgid ""
 "Connect the components to make sure that the count of 0 to 9 is visible in "
 "the seven segment display provided."
 msgstr ""
 
-#: activities/digital_electricity/Dataset.qml:476
-msgctxt "Dataset|"
+#: activities/digital_electricity/TutorialDataset.qml:476
+msgctxt "TutorialDataset|"
 msgid ""
 "Light the bulb using both the switches such that the bulb will glow only "
 "when either the first switch is on and the second switch is off or the first "
 "switch is off and the second switch is on."
-msgstr ""
-
-#: activities/digital_electricity/DigitalElectricity.qml:258
-msgctxt "DigitalElectricity|"
-msgid "Input"
-msgstr ""
-
-#: activities/digital_electricity/DigitalElectricity.qml:276
-msgctxt "DigitalElectricity|"
-msgid "Output"
-msgstr ""
-
-#: activities/digital_electricity/DigitalElectricity.qml:443
-msgctxt "DigitalElectricity|"
-msgid "Tutorial Mode"
-msgstr ""
-
-#: activities/digital_electricity/DigitalElectricity.qml:444
-msgctxt "DigitalElectricity|"
-msgid "Free Mode"
-msgstr ""
-
-#: activities/digital_electricity/DigitalElectricity.qml:455
-msgctxt "DigitalElectricity|"
-msgid "Select your Mode"
 msgstr ""
 
 #. Activity title
@@ -4567,6 +4973,126 @@ msgstr ""
 "uair sin, tagh an nì a tha thu airson freagairt san raon taobh deas air a’ "
 "bhonn. Cuir an fhreagairt a-steach leis a’ mheur-chlàr is briog air a’ "
 "phutan “OK” no brùth air an iuchair “Enter”."
+
+#: activities/enumerate/resource/1/Data.qml:24
+#: activities/enumerate/resource/1/Data.qml:46
+#: activities/enumerate/resource/2/Data.qml:28
+msgctxt "Data|"
+msgid "Enumerate up to 4 fruits"
+msgstr ""
+
+#: activities/enumerate/resource/1/Data.qml:28
+msgctxt "Data|"
+msgid "Enumerate 1 fruit"
+msgstr ""
+
+#: activities/enumerate/resource/1/Data.qml:34
+msgctxt "Data|"
+msgid "Enumerate up to 2 fruits"
+msgstr ""
+
+#: activities/enumerate/resource/1/Data.qml:40
+msgctxt "Data|"
+msgid "Enumerate up to 3 fruits"
+msgstr ""
+
+#: activities/enumerate/resource/2/Data.qml:24
+msgctxt "Data|"
+msgid "Group 2 types of fruits and Enumerate each group (6 fruits max)"
+msgstr ""
+
+#: activities/enumerate/resource/2/Data.qml:34
+#: activities/enumerate/resource/3/Data.qml:28
+msgctxt "Data|"
+msgid "Group 2 types of fruits and enumerate each group (4 fruits max)"
+msgstr ""
+
+#: activities/enumerate/resource/2/Data.qml:40
+msgctxt "Data|"
+msgid "Enumerate up to 5 fruits"
+msgstr ""
+
+#: activities/enumerate/resource/2/Data.qml:46
+#: activities/enumerate/resource/3/Data.qml:40
+msgctxt "Data|"
+msgid "Group 2 types of fruits and enumerate each group (5 fruits max)"
+msgstr ""
+
+#: activities/enumerate/resource/2/Data.qml:52
+msgctxt "Data|"
+msgid "Enumerate up to 6 fruits"
+msgstr ""
+
+#: activities/enumerate/resource/2/Data.qml:58
+#: activities/enumerate/resource/3/Data.qml:52
+msgctxt "Data|"
+msgid "Group 2 types of fruits and enumerate each group (6 fruits max)"
+msgstr ""
+
+#: activities/enumerate/resource/3/Data.qml:24
+#: activities/enumerate/resource/3/Data.qml:58
+#: activities/enumerate/resource/4/Data.qml:52
+msgctxt "Data|"
+msgid "Group 3 types of fruits and enumerate each group (6 fruits max)"
+msgstr ""
+
+#: activities/enumerate/resource/3/Data.qml:34
+#: activities/enumerate/resource/4/Data.qml:28
+msgctxt "Data|"
+msgid "Group 3 types of fruits and enumerate each group (4 fruits max)"
+msgstr ""
+
+#: activities/enumerate/resource/3/Data.qml:46
+#: activities/enumerate/resource/4/Data.qml:40
+msgctxt "Data|"
+msgid "Group 3 types of fruits and enumerate each group (5 fruits max)"
+msgstr ""
+
+#: activities/enumerate/resource/4/Data.qml:24
+#: activities/enumerate/resource/4/Data.qml:94
+msgctxt "Data|"
+msgid "Group 4 types of fruits and enumerate each group (9 fruits max)"
+msgstr ""
+
+#: activities/enumerate/resource/4/Data.qml:34
+msgctxt "Data|"
+msgid "Group 4 types of fruits and enumerate each group (4 fruits max)"
+msgstr ""
+
+#: activities/enumerate/resource/4/Data.qml:46
+msgctxt "Data|"
+msgid "Group 4 types of fruits and enumerate each group (5 fruits max)"
+msgstr ""
+
+#: activities/enumerate/resource/4/Data.qml:58
+msgctxt "Data|"
+msgid "Group 4 types of fruits and enumerate each group (6 fruits max)"
+msgstr ""
+
+#: activities/enumerate/resource/4/Data.qml:64
+msgctxt "Data|"
+msgid "Group 3 types of fruits and enumerate each group (7 fruits max)"
+msgstr ""
+
+#: activities/enumerate/resource/4/Data.qml:70
+msgctxt "Data|"
+msgid "Group 4 types of fruits and enumerate each group (7 fruits max)"
+msgstr ""
+
+#: activities/enumerate/resource/4/Data.qml:76
+msgctxt "Data|"
+msgid "Group 3 types of fruits and enumerate each group (8 fruits max)"
+msgstr ""
+
+#: activities/enumerate/resource/4/Data.qml:82
+msgctxt "Data|"
+msgid "Group 4 types of fruits and enumerate each group (8 fruits max)"
+msgstr ""
+
+#: activities/enumerate/resource/4/Data.qml:88
+msgctxt "Data|"
+msgid "Group 3 types of fruits and enumerate each group (9 fruits max)"
+msgstr ""
 
 #. Activity title
 #: activities/erase/ActivityInfo.qml:27
@@ -6334,130 +6860,6 @@ msgid ""
 "person in the orange circle.\n"
 msgstr ""
 
-#: activities/family/Dataset.qml:136 activities/family/Dataset.qml:137
-msgctxt "Dataset|"
-msgid "Father"
-msgstr ""
-
-#: activities/family/Dataset.qml:137 activities/family/Dataset.qml:248
-#: activities/family/Dataset.qml:249 activities/family/Dataset.qml:282
-#: activities/family/Dataset.qml:315 activities/family/Dataset.qml:348
-msgctxt "Dataset|"
-msgid "Grandfather"
-msgstr ""
-
-#: activities/family/Dataset.qml:137 activities/family/Dataset.qml:399
-#: activities/family/Dataset.qml:400 activities/family/Dataset.qml:425
-#: activities/family/Dataset.qml:452 activities/family/Dataset.qml:479
-msgctxt "Dataset|"
-msgid "Uncle"
-msgstr ""
-
-#: activities/family/Dataset.qml:159 activities/family/Dataset.qml:160
-msgctxt "Dataset|"
-msgid "Mother"
-msgstr ""
-
-#: activities/family/Dataset.qml:160 activities/family/Dataset.qml:249
-#: activities/family/Dataset.qml:281 activities/family/Dataset.qml:282
-#: activities/family/Dataset.qml:315 activities/family/Dataset.qml:348
-msgctxt "Dataset|"
-msgid "Grandmother"
-msgstr ""
-
-#: activities/family/Dataset.qml:160 activities/family/Dataset.qml:400
-#: activities/family/Dataset.qml:425 activities/family/Dataset.qml:451
-#: activities/family/Dataset.qml:452 activities/family/Dataset.qml:479
-msgctxt "Dataset|"
-msgid "Aunt"
-msgstr ""
-
-#: activities/family/Dataset.qml:186 activities/family/Dataset.qml:187
-#: activities/family/Dataset.qml:216 activities/family/Dataset.qml:375
-msgctxt "Dataset|"
-msgid "Brother"
-msgstr ""
-
-#: activities/family/Dataset.qml:187 activities/family/Dataset.qml:216
-#: activities/family/Dataset.qml:374 activities/family/Dataset.qml:375
-msgctxt "Dataset|"
-msgid "Cousin"
-msgstr ""
-
-#: activities/family/Dataset.qml:187 activities/family/Dataset.qml:215
-#: activities/family/Dataset.qml:216 activities/family/Dataset.qml:375
-msgctxt "Dataset|"
-msgid "Sister"
-msgstr ""
-
-#: activities/family/Dataset.qml:249 activities/family/Dataset.qml:282
-#: activities/family/Dataset.qml:314 activities/family/Dataset.qml:315
-#: activities/family/Dataset.qml:348
-msgctxt "Dataset|"
-msgid "Granddaughter"
-msgstr ""
-
-#: activities/family/Dataset.qml:249 activities/family/Dataset.qml:282
-#: activities/family/Dataset.qml:315 activities/family/Dataset.qml:347
-#: activities/family/Dataset.qml:348
-msgctxt "Dataset|"
-msgid "Grandson"
-msgstr ""
-
-#: activities/family/Dataset.qml:400 activities/family/Dataset.qml:424
-#: activities/family/Dataset.qml:425 activities/family/Dataset.qml:452
-#: activities/family/Dataset.qml:479
-msgctxt "Dataset|"
-msgid "Nephew"
-msgstr ""
-
-#: activities/family/Dataset.qml:400 activities/family/Dataset.qml:425
-#: activities/family/Dataset.qml:452 activities/family/Dataset.qml:478
-#: activities/family/Dataset.qml:479
-msgctxt "Dataset|"
-msgid "Niece"
-msgstr ""
-
-#: activities/family/Dataset.qml:505 activities/family/Dataset.qml:506
-#: activities/family/Dataset.qml:533 activities/family/Dataset.qml:560
-#: activities/family/Dataset.qml:589
-msgctxt "Dataset|"
-msgid "Father-in-law"
-msgstr ""
-
-#: activities/family/Dataset.qml:506 activities/family/Dataset.qml:532
-#: activities/family/Dataset.qml:533 activities/family/Dataset.qml:560
-#: activities/family/Dataset.qml:589 activities/family/Dataset.qml:616
-msgctxt "Dataset|"
-msgid "Mother-in-law"
-msgstr ""
-
-#: activities/family/Dataset.qml:506 activities/family/Dataset.qml:533
-#: activities/family/Dataset.qml:560 activities/family/Dataset.qml:588
-#: activities/family/Dataset.qml:589 activities/family/Dataset.qml:616
-msgctxt "Dataset|"
-msgid "Sister-in-law"
-msgstr ""
-
-#: activities/family/Dataset.qml:506 activities/family/Dataset.qml:533
-#: activities/family/Dataset.qml:559 activities/family/Dataset.qml:560
-#: activities/family/Dataset.qml:589 activities/family/Dataset.qml:616
-msgctxt "Dataset|"
-msgid "Brother-in-law"
-msgstr ""
-
-#: activities/family/Dataset.qml:506 activities/family/Dataset.qml:533
-#: activities/family/Dataset.qml:560 activities/family/Dataset.qml:589
-#: activities/family/Dataset.qml:616
-msgctxt "Dataset|"
-msgid "Daughter-in-law"
-msgstr ""
-
-#: activities/family/Dataset.qml:615 activities/family/Dataset.qml:616
-msgctxt "Dataset|"
-msgid "Son-in-law"
-msgstr ""
-
 #: activities/family/Family.qml:238
 #, fuzzy
 #| msgctxt "ActivityInfo|"
@@ -6475,6 +6877,172 @@ msgstr ""
 #, qt-format
 msgctxt "Family|"
 msgid "Select one of the pairs denoting: %1"
+msgstr ""
+
+#: activities/family/FamilyDataset.qml:136
+#: activities/family/FamilyDataset.qml:137
+msgctxt "FamilyDataset|"
+msgid "Father"
+msgstr ""
+
+#: activities/family/FamilyDataset.qml:137
+#: activities/family/FamilyDataset.qml:248
+#: activities/family/FamilyDataset.qml:249
+#: activities/family/FamilyDataset.qml:282
+#: activities/family/FamilyDataset.qml:315
+#: activities/family/FamilyDataset.qml:348
+msgctxt "FamilyDataset|"
+msgid "Grandfather"
+msgstr ""
+
+#: activities/family/FamilyDataset.qml:137
+#: activities/family/FamilyDataset.qml:399
+#: activities/family/FamilyDataset.qml:400
+#: activities/family/FamilyDataset.qml:425
+#: activities/family/FamilyDataset.qml:452
+#: activities/family/FamilyDataset.qml:479
+msgctxt "FamilyDataset|"
+msgid "Uncle"
+msgstr ""
+
+#: activities/family/FamilyDataset.qml:159
+#: activities/family/FamilyDataset.qml:160
+msgctxt "FamilyDataset|"
+msgid "Mother"
+msgstr ""
+
+#: activities/family/FamilyDataset.qml:160
+#: activities/family/FamilyDataset.qml:249
+#: activities/family/FamilyDataset.qml:281
+#: activities/family/FamilyDataset.qml:282
+#: activities/family/FamilyDataset.qml:315
+#: activities/family/FamilyDataset.qml:348
+msgctxt "FamilyDataset|"
+msgid "Grandmother"
+msgstr ""
+
+#: activities/family/FamilyDataset.qml:160
+#: activities/family/FamilyDataset.qml:400
+#: activities/family/FamilyDataset.qml:425
+#: activities/family/FamilyDataset.qml:451
+#: activities/family/FamilyDataset.qml:452
+#: activities/family/FamilyDataset.qml:479
+msgctxt "FamilyDataset|"
+msgid "Aunt"
+msgstr ""
+
+#: activities/family/FamilyDataset.qml:186
+#: activities/family/FamilyDataset.qml:187
+#: activities/family/FamilyDataset.qml:216
+#: activities/family/FamilyDataset.qml:375
+msgctxt "FamilyDataset|"
+msgid "Brother"
+msgstr ""
+
+#: activities/family/FamilyDataset.qml:187
+#: activities/family/FamilyDataset.qml:216
+#: activities/family/FamilyDataset.qml:374
+#: activities/family/FamilyDataset.qml:375
+msgctxt "FamilyDataset|"
+msgid "Cousin"
+msgstr ""
+
+#: activities/family/FamilyDataset.qml:187
+#: activities/family/FamilyDataset.qml:215
+#: activities/family/FamilyDataset.qml:216
+#: activities/family/FamilyDataset.qml:375
+msgctxt "FamilyDataset|"
+msgid "Sister"
+msgstr ""
+
+#: activities/family/FamilyDataset.qml:249
+#: activities/family/FamilyDataset.qml:282
+#: activities/family/FamilyDataset.qml:314
+#: activities/family/FamilyDataset.qml:315
+#: activities/family/FamilyDataset.qml:348
+msgctxt "FamilyDataset|"
+msgid "Granddaughter"
+msgstr ""
+
+#: activities/family/FamilyDataset.qml:249
+#: activities/family/FamilyDataset.qml:282
+#: activities/family/FamilyDataset.qml:315
+#: activities/family/FamilyDataset.qml:347
+#: activities/family/FamilyDataset.qml:348
+msgctxt "FamilyDataset|"
+msgid "Grandson"
+msgstr ""
+
+#: activities/family/FamilyDataset.qml:400
+#: activities/family/FamilyDataset.qml:424
+#: activities/family/FamilyDataset.qml:425
+#: activities/family/FamilyDataset.qml:452
+#: activities/family/FamilyDataset.qml:479
+msgctxt "FamilyDataset|"
+msgid "Nephew"
+msgstr ""
+
+#: activities/family/FamilyDataset.qml:400
+#: activities/family/FamilyDataset.qml:425
+#: activities/family/FamilyDataset.qml:452
+#: activities/family/FamilyDataset.qml:478
+#: activities/family/FamilyDataset.qml:479
+msgctxt "FamilyDataset|"
+msgid "Niece"
+msgstr ""
+
+#: activities/family/FamilyDataset.qml:505
+#: activities/family/FamilyDataset.qml:506
+#: activities/family/FamilyDataset.qml:533
+#: activities/family/FamilyDataset.qml:560
+#: activities/family/FamilyDataset.qml:589
+msgctxt "FamilyDataset|"
+msgid "Father-in-law"
+msgstr ""
+
+#: activities/family/FamilyDataset.qml:506
+#: activities/family/FamilyDataset.qml:532
+#: activities/family/FamilyDataset.qml:533
+#: activities/family/FamilyDataset.qml:560
+#: activities/family/FamilyDataset.qml:589
+#: activities/family/FamilyDataset.qml:616
+msgctxt "FamilyDataset|"
+msgid "Mother-in-law"
+msgstr ""
+
+#: activities/family/FamilyDataset.qml:506
+#: activities/family/FamilyDataset.qml:533
+#: activities/family/FamilyDataset.qml:560
+#: activities/family/FamilyDataset.qml:588
+#: activities/family/FamilyDataset.qml:589
+#: activities/family/FamilyDataset.qml:616
+msgctxt "FamilyDataset|"
+msgid "Sister-in-law"
+msgstr ""
+
+#: activities/family/FamilyDataset.qml:506
+#: activities/family/FamilyDataset.qml:533
+#: activities/family/FamilyDataset.qml:559
+#: activities/family/FamilyDataset.qml:560
+#: activities/family/FamilyDataset.qml:589
+#: activities/family/FamilyDataset.qml:616
+msgctxt "FamilyDataset|"
+msgid "Brother-in-law"
+msgstr ""
+
+#: activities/family/FamilyDataset.qml:506
+#: activities/family/FamilyDataset.qml:533
+#: activities/family/FamilyDataset.qml:560
+#: activities/family/FamilyDataset.qml:589
+#: activities/family/FamilyDataset.qml:616
+msgctxt "FamilyDataset|"
+msgid "Daughter-in-law"
+msgstr ""
+
+#: activities/family/FamilyDataset.qml:615
+#: activities/family/FamilyDataset.qml:616
+msgctxt "FamilyDataset|"
+msgid "Son-in-law"
 msgstr ""
 
 #. Activity title
@@ -8151,6 +8719,12 @@ msgctxt "board9_0|"
 msgid "Oman"
 msgstr ""
 
+#: activities/gletters/ActivityConfig.qml:57
+#: activities/wordsgame/ActivityConfig.qml:57
+msgctxt "ActivityConfig|"
+msgid "Uppercase only mode"
+msgstr ""
+
 #. Activity title
 #: activities/gletters/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -8171,26 +8745,6 @@ msgstr "Sgrìobh na litrichean a thuiteas mus ruig iad an làr"
 msgctxt "ActivityInfo|"
 msgid "Letter association between the screen and the keyboard"
 msgstr "Co-cheangladh nan litrichean eadar an sgrìn is am meur-chlàr"
-
-#: activities/gletters/Gletters.qml:170
-msgctxt "Gletters|"
-msgid "Select your locale"
-msgstr ""
-
-#: activities/gletters/Gletters.qml:177
-msgctxt "Gletters|"
-msgid "Select Domino mode"
-msgstr ""
-
-#: activities/gletters/Gletters.qml:184
-msgctxt "Gletters|"
-msgid "Uppercase only mode"
-msgstr ""
-
-#: activities/gletters/Gletters.qml:189
-msgctxt "Gletters|"
-msgid "Speed"
-msgstr ""
 
 #. Activity title
 #: activities/gnumch-equality/ActivityInfo.qml:27
@@ -8471,6 +9025,22 @@ msgid ""
 "3 = 6). So 6 is not a prime number."
 msgstr ""
 
+#: activities/graph-coloring/ActivityConfig.qml:31
+#: activities/superbrain/ActivityConfig.qml:31
+#: activities/traffic/ActivityConfig.qml:31
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Colors"
+msgctxt "ActivityConfig|"
+msgid "Colors"
+msgstr "Dathan"
+
+#: activities/graph-coloring/ActivityConfig.qml:32
+#: activities/superbrain/ActivityConfig.qml:32
+msgctxt "ActivityConfig|"
+msgid "Shapes"
+msgstr ""
+
 #. Activity title
 #: activities/graph-coloring/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -8495,24 +9065,6 @@ msgstr ""
 #: activities/graph-coloring/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
 msgid "Ability to distinguish different colors/shapes, sense of positions"
-msgstr ""
-
-#: activities/graph-coloring/GraphColoring.qml:328
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Colors"
-msgctxt "GraphColoring|"
-msgid "Colors"
-msgstr "Dathan"
-
-#: activities/graph-coloring/GraphColoring.qml:329
-msgctxt "GraphColoring|"
-msgid "Shapes"
-msgstr ""
-
-#: activities/graph-coloring/GraphColoring.qml:340
-msgctxt "GraphColoring|"
-msgid "Select your mode"
 msgstr ""
 
 #. Activity title
@@ -8737,16 +9289,8 @@ msgstr ""
 "dhìth. Ma tha Tux os cionn no fon t-slighe a-mach, is ciall dha sin gu bheil "
 "an àireamh agad nas motha no nas lugha na an àireamh a tha a dhìth."
 
-#: activities/guessnumber/guessnumber.js:74
-#, fuzzy, qt-format
-#| msgctxt "ActivityInfo|"
-#| msgid "Guess a number"
-msgctxt "guessnumber|"
-msgid "Guess a number between 1 and %1"
-msgstr "Dèan tuairmse air àireamh"
-
-#: activities/guessnumber/guessnumber.js:99
-#: activities/guessnumber/guessnumber.js:103
+#: activities/guessnumber/guessnumber.js:73
+#: activities/guessnumber/guessnumber.js:77
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Numbers With Dice"
@@ -8754,18 +9298,52 @@ msgctxt "guessnumber|"
 msgid "Number too high"
 msgstr "Àireamhan le dìsnean"
 
-#: activities/guessnumber/guessnumber.js:106
+#: activities/guessnumber/guessnumber.js:80
 msgctxt "guessnumber|"
 msgid "Number too low"
 msgstr ""
 
-#: activities/guessnumber/guessnumber.js:110
+#: activities/guessnumber/guessnumber.js:84
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Number"
 msgctxt "guessnumber|"
 msgid "Number found!"
 msgstr "Àireamh"
+
+#: activities/guessnumber/resource/1/Data.qml:25
+#: activities/guessnumber/resource/1/Data.qml:30
+#: activities/guessnumber/resource/1/Data.qml:34
+#: activities/guessnumber/resource/1/Data.qml:38
+#: activities/guessnumber/resource/2/Data.qml:25
+#: activities/guessnumber/resource/2/Data.qml:30
+#: activities/guessnumber/resource/2/Data.qml:34
+#: activities/guessnumber/resource/3/Data.qml:27
+#: activities/guessnumber/resource/3/Data.qml:32
+#: activities/guessnumber/resource/3/Data.qml:36
+#: activities/guessnumber/resource/3/Data.qml:40
+#: activities/guessnumber/resource/4/Data.qml:27
+#: activities/guessnumber/resource/4/Data.qml:32
+#: activities/guessnumber/resource/4/Data.qml:36
+#: activities/guessnumber/resource/4/Data.qml:40
+#: activities/guessnumber/resource/4/Data.qml:44
+#: activities/guessnumber/resource/5/Data.qml:27
+#: activities/guessnumber/resource/5/Data.qml:32
+#: activities/guessnumber/resource/5/Data.qml:36
+#: activities/guessnumber/resource/5/Data.qml:40
+#: activities/guessnumber/resource/5/Data.qml:44
+#: activities/guessnumber/resource/5/Data.qml:48
+#, fuzzy, qt-format
+#| msgctxt "ActivityInfo|"
+#| msgid "Guess a number"
+msgctxt "Data|"
+msgid "Guess a number between 1 and %1"
+msgstr "Dèan tuairmse air àireamh"
+
+#: activities/hangman/ActivityConfig.qml:55
+msgctxt "ActivityConfig|"
+msgid "Display image to find as hint"
+msgstr ""
 
 #. Activity title
 #: activities/hangman/ActivityInfo.qml:27
@@ -8801,22 +9379,12 @@ msgctxt "hangman|"
 msgid "Attempted: %1"
 msgstr ""
 
-#: activities/hangman/Hangman.qml:270
-msgctxt "Hangman|"
-msgid "Select your locale"
-msgstr ""
-
-#: activities/hangman/Hangman.qml:276
-msgctxt "Hangman|"
-msgid "Display image to find as hint"
-msgstr ""
-
-#: activities/hangman/Hangman.qml:445
+#: activities/hangman/Hangman.qml:386
 msgctxt "Hangman|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 
-#: activities/hangman/Hangman.qml:446
+#: activities/hangman/Hangman.qml:387
 #, qt-format
 msgctxt "Hangman|"
 msgid ""
@@ -8824,7 +9392,7 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 
-#: activities/hangman/Hangman.qml:448
+#: activities/hangman/Hangman.qml:389
 msgctxt "Hangman|"
 msgid ""
 "We switched to English for this activity but you can select another language "
@@ -9585,17 +10153,17 @@ msgid ""
 "in the configuration dialog."
 msgstr ""
 
-#: activities/lang/Lang.qml:181
+#: activities/lang/Lang.qml:183
 msgctxt "Lang|"
 msgid "Select your locale"
 msgstr ""
 
-#: activities/lang/Lang.qml:240 activities/lang/Lang.qml:241
+#: activities/lang/Lang.qml:251 activities/lang/Lang.qml:252
 msgctxt "Lang|"
 msgid "other"
 msgstr ""
 
-#: activities/lang/Lang.qml:242
+#: activities/lang/Lang.qml:253
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Addition"
@@ -9603,12 +10171,12 @@ msgctxt "Lang|"
 msgid "action"
 msgstr "Cur ris"
 
-#: activities/lang/Lang.qml:242
+#: activities/lang/Lang.qml:253
 msgctxt "Lang|"
 msgid "adjective"
 msgstr ""
 
-#: activities/lang/Lang.qml:243
+#: activities/lang/Lang.qml:254
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Colors"
@@ -9616,72 +10184,72 @@ msgctxt "Lang|"
 msgid "color"
 msgstr "Dathan"
 
-#: activities/lang/Lang.qml:243
+#: activities/lang/Lang.qml:254
 msgctxt "Lang|"
 msgid "number"
 msgstr ""
 
-#: activities/lang/Lang.qml:244
+#: activities/lang/Lang.qml:255
 msgctxt "Lang|"
 msgid "people"
 msgstr ""
 
-#: activities/lang/Lang.qml:244
+#: activities/lang/Lang.qml:255
 msgctxt "Lang|"
 msgid "bodyparts"
 msgstr ""
 
-#: activities/lang/Lang.qml:245
+#: activities/lang/Lang.qml:256
 msgctxt "Lang|"
 msgid "clothes"
 msgstr ""
 
-#: activities/lang/Lang.qml:245
+#: activities/lang/Lang.qml:256
 msgctxt "Lang|"
 msgid "emotion"
 msgstr ""
 
-#: activities/lang/Lang.qml:246
+#: activities/lang/Lang.qml:257
 msgctxt "Lang|"
 msgid "job"
 msgstr ""
 
-#: activities/lang/Lang.qml:246
+#: activities/lang/Lang.qml:257
 msgctxt "Lang|"
 msgid "sport"
 msgstr ""
 
-#: activities/lang/Lang.qml:247
+#: activities/lang/Lang.qml:258
 msgctxt "Lang|"
 msgid "nature"
 msgstr ""
 
-#: activities/lang/Lang.qml:247
+#: activities/lang/Lang.qml:258
 msgctxt "Lang|"
 msgid "animal"
 msgstr ""
 
-#: activities/lang/Lang.qml:248
+#: activities/lang/Lang.qml:259
 msgctxt "Lang|"
 msgid "fruit"
 msgstr ""
 
-#: activities/lang/Lang.qml:248
+#: activities/lang/Lang.qml:259
 msgctxt "Lang|"
 msgid "plant"
 msgstr ""
 
-#: activities/lang/Lang.qml:249
+#: activities/lang/Lang.qml:260
 msgctxt "Lang|"
 msgid "vegetables"
 msgstr ""
 
-#: activities/lang/Lang.qml:249
+#: activities/lang/Lang.qml:260
 msgctxt "Lang|"
 msgid "object"
 msgstr ""
 
-#: activities/lang/Lang.qml:250
+#: activities/lang/Lang.qml:261
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Simple subtraction"
@@ -9689,27 +10257,27 @@ msgctxt "Lang|"
 msgid "construction"
 msgstr "Toirt air falbh simplidh"
 
-#: activities/lang/Lang.qml:251
+#: activities/lang/Lang.qml:262
 msgctxt "Lang|"
 msgid "furniture"
 msgstr ""
 
-#: activities/lang/Lang.qml:251
+#: activities/lang/Lang.qml:262
 msgctxt "Lang|"
 msgid "houseware"
 msgstr ""
 
-#: activities/lang/Lang.qml:252
+#: activities/lang/Lang.qml:263
 msgctxt "Lang|"
 msgid "tool"
 msgstr ""
 
-#: activities/lang/Lang.qml:252
+#: activities/lang/Lang.qml:263
 msgctxt "Lang|"
 msgid "food"
 msgstr ""
 
-#: activities/lang/Lang.qml:253
+#: activities/lang/Lang.qml:264
 msgctxt "Lang|"
 msgid "transport"
 msgstr ""
@@ -9803,7 +10371,7 @@ msgid ""
 "words or the objects in which the letter appears and then press OK."
 msgstr ""
 
-#: activities/letter-in-word/LetterInWord.qml:130
+#: activities/letter-in-word/LetterInWord.qml:132
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Falling Words"
@@ -9811,42 +10379,42 @@ msgctxt "LetterInWord|"
 msgid "All words"
 msgstr "Faclan a' tuiteam"
 
-#: activities/letter-in-word/LetterInWord.qml:138
+#: activities/letter-in-word/LetterInWord.qml:140
 msgctxt "LetterInWord|"
 msgid "Only 5 words"
 msgstr ""
 
-#: activities/letter-in-word/LetterInWord.qml:148
+#: activities/letter-in-word/LetterInWord.qml:150
 msgctxt "LetterInWord|"
 msgid "Select case for letter to be searched"
 msgstr ""
 
-#: activities/letter-in-word/LetterInWord.qml:151
+#: activities/letter-in-word/LetterInWord.qml:153
 msgctxt "LetterInWord|"
 msgid "Mixed Case"
 msgstr ""
 
-#: activities/letter-in-word/LetterInWord.qml:152
+#: activities/letter-in-word/LetterInWord.qml:154
 msgctxt "LetterInWord|"
 msgid "Upper Case"
 msgstr ""
 
-#: activities/letter-in-word/LetterInWord.qml:153
+#: activities/letter-in-word/LetterInWord.qml:155
 msgctxt "LetterInWord|"
 msgid "Lower Case"
 msgstr ""
 
-#: activities/letter-in-word/LetterInWord.qml:167
+#: activities/letter-in-word/LetterInWord.qml:169
 msgctxt "LetterInWord|"
 msgid "Select your locale"
 msgstr ""
 
-#: activities/letter-in-word/LetterInWord.qml:422
+#: activities/letter-in-word/LetterInWord.qml:434
 msgctxt "LetterInWord|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 
-#: activities/letter-in-word/LetterInWord.qml:423
+#: activities/letter-in-word/LetterInWord.qml:435
 #, qt-format
 msgctxt "LetterInWord|"
 msgid ""
@@ -9854,7 +10422,7 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 
-#: activities/letter-in-word/LetterInWord.qml:425
+#: activities/letter-in-word/LetterInWord.qml:437
 msgctxt "LetterInWord|"
 msgid ""
 "We switched to English for this activity but you can select another language "
@@ -10064,7 +10632,7 @@ msgstr ""
 "gluasad fon ad? Cunnt iad gu cùramach. :) Briog air an raon air a’ bhonn gu "
 "deas gus freagairt a thoirt."
 
-#: activities/magic-hat-minus/MagicHat.qml:101
+#: activities/magic-hat-minus/MagicHat.qml:103
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Kick the ball into the goal"
@@ -10073,14 +10641,51 @@ msgid "Click on the hat to begin the game"
 msgstr "Breab am bàla dhan tadhal"
 
 #. The math operation
-#: activities/magic-hat-minus/MagicHat.qml:106
+#: activities/magic-hat-minus/MagicHat.qml:108
 msgctxt "MagicHat|"
 msgid "−"
 msgstr ""
 
-#: activities/magic-hat-minus/MagicHat.qml:106
+#: activities/magic-hat-minus/MagicHat.qml:108
 msgctxt "MagicHat|"
 msgid "+"
+msgstr ""
+
+#: activities/magic-hat-minus/resource/1/Data.qml:24
+msgctxt "Data|"
+msgid "Learn to calculate remaining stars up to 5"
+msgstr ""
+
+#: activities/magic-hat-minus/resource/2/Data.qml:24
+msgctxt "Data|"
+msgid "Learn to calculate remaining stars up to 10"
+msgstr ""
+
+#: activities/magic-hat-minus/resource/3/Data.qml:24
+msgctxt "Data|"
+msgid "Learn to calculate remaining stars up to 30"
+msgstr ""
+
+#: activities/magic-hat-minus/resource/4/Data.qml:24
+msgctxt "Data|"
+msgid "Learn to calculate remaining stars up to 100 with coefficients"
+msgstr ""
+
+#: activities/magic-hat-minus/resource/5/Data.qml:24
+msgctxt "Data|"
+msgid "Learn to calculate remaining stars up to 1000 with coefficients"
+msgstr ""
+
+#: activities/magic-hat-minus/resource/6/Data.qml:24
+msgctxt "Data|"
+msgid "Learn to calculate remaining stars up to 10000 with coefficients"
+msgstr ""
+
+#. text displaying coefficient with which the set of stars is to be multiplied along with multiplication symbol.
+#: activities/magic-hat-minus/StarsBar.qml:49
+#, qt-format
+msgctxt "StarsBar|"
+msgid "%1x"
 msgstr ""
 
 #. Help title
@@ -10120,6 +10725,36 @@ msgstr ""
 "Briog air an ad gus a fosgladh no dùnadh. Co mheud rionnag a chì thu a’ "
 "gluasad fon ad? Cunnt iad gu cùramach. :) Briog air an raon air a’ bhonn gu "
 "deas gus freagairt a thoirt."
+
+#: activities/magic-hat-plus/resource/1/Data.qml:24
+msgctxt "Data|"
+msgid "Learn to calculate total stars up to 5"
+msgstr ""
+
+#: activities/magic-hat-plus/resource/2/Data.qml:24
+msgctxt "Data|"
+msgid "Learn to calculate total stars up to 10"
+msgstr ""
+
+#: activities/magic-hat-plus/resource/3/Data.qml:24
+msgctxt "Data|"
+msgid "Learn to calculate total stars up to 30"
+msgstr ""
+
+#: activities/magic-hat-plus/resource/4/Data.qml:24
+msgctxt "Data|"
+msgid "Learn to calculate total stars up to 100 with coefficients"
+msgstr ""
+
+#: activities/magic-hat-plus/resource/5/Data.qml:24
+msgctxt "Data|"
+msgid "Learn to calculate total stars up to 1000 with coefficients"
+msgstr ""
+
+#: activities/magic-hat-plus/resource/6/Data.qml:24
+msgctxt "Data|"
+msgid "Learn to calculate total stars up to 10000 with coefficients"
+msgstr ""
 
 #. Activity title
 #: activities/maze/ActivityInfo.qml:27
@@ -11294,90 +11929,90 @@ msgctxt "BackgroundMusicList|"
 msgid "Copyright: %1"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:78
+#: activities/menu/ConfigurationItem.qml:80
 msgctxt "ConfigurationItem|"
 msgid "You have the full version"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:79
+#: activities/menu/ConfigurationItem.qml:81
 msgctxt "ConfigurationItem|"
 msgid "Buy the full version"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:142
+#: activities/menu/ConfigurationItem.qml:144
 msgctxt "ConfigurationItem|"
 msgid ""
 "On <a href='https://gcompris.net'>https://gcompris.net</a> you will find the "
 "instructions to obtain an activation code."
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:164
+#: activities/menu/ConfigurationItem.qml:166
 msgctxt "ConfigurationItem|"
 msgid "Enter your activation code"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:167
+#: activities/menu/ConfigurationItem.qml:169
 msgctxt "ConfigurationItem|"
 msgid "Sorry, your code is too old for this version of GCompris"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:170
+#: activities/menu/ConfigurationItem.qml:172
 msgctxt "ConfigurationItem|"
 msgid "Your code is valid, thanks a lot for your support"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:190
+#: activities/menu/ConfigurationItem.qml:192
 msgctxt "ConfigurationItem|"
 msgid "Show locked activities"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:200
+#: activities/menu/ConfigurationItem.qml:202
 msgctxt "ConfigurationItem|"
 msgid "Enable audio voices"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:209
+#: activities/menu/ConfigurationItem.qml:211
 msgctxt "ConfigurationItem|"
 msgid "Enable audio effects"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:221
+#: activities/menu/ConfigurationItem.qml:220
 msgctxt "ConfigurationItem|"
 msgid "Audio effects volume"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:243
+#: activities/menu/ConfigurationItem.qml:238
 msgctxt "ConfigurationItem|"
 msgid "Enable background music"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:254
+#: activities/menu/ConfigurationItem.qml:249
 msgctxt "ConfigurationItem|"
 msgid "Background Music"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:281
+#: activities/menu/ConfigurationItem.qml:271
 msgctxt "ConfigurationItem|"
 msgid "Not playing"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:283
+#: activities/menu/ConfigurationItem.qml:273
 #, qt-format
 msgctxt "ConfigurationItem|"
 msgid "Title: %1  Artist: %2"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:285
+#: activities/menu/ConfigurationItem.qml:275
 msgctxt "ConfigurationItem|"
 msgid "Introduction music"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:301
+#: activities/menu/ConfigurationItem.qml:287
 msgctxt "ConfigurationItem|"
 msgid "Background music volume"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:319
+#: activities/menu/ConfigurationItem.qml:304
 #, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Fullscreen"
@@ -11385,22 +12020,22 @@ msgctxt "ConfigurationItem|"
 msgid "Fullscreen"
 msgstr "Làn-sgrìn"
 
-#: activities/menu/ConfigurationItem.qml:329
+#: activities/menu/ConfigurationItem.qml:314
 msgctxt "ConfigurationItem|"
 msgid "Virtual Keyboard"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:339
+#: activities/menu/ConfigurationItem.qml:324
 msgctxt "ConfigurationItem|"
 msgid "Enable automatic downloads/updates of sound files"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:353
+#: activities/menu/ConfigurationItem.qml:338
 msgctxt "ConfigurationItem|"
 msgid "Use full word image set"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:353
+#: activities/menu/ConfigurationItem.qml:338
 #, fuzzy
 #| msgctxt "instruments|"
 #| msgid "Find the triangle"
@@ -11408,114 +12043,114 @@ msgctxt "ConfigurationItem|"
 msgid "Download full word image set"
 msgstr "Lorg an triantan"
 
-#: activities/menu/ConfigurationItem.qml:364
+#: activities/menu/ConfigurationItem.qml:349
 msgctxt "ConfigurationItem|"
 msgid "The activity section menu is visible"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:377
+#: activities/menu/ConfigurationItem.qml:359
 msgctxt "ConfigurationItem|"
 msgid "Font selector"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:382
+#: activities/menu/ConfigurationItem.qml:364
 msgctxt "ConfigurationItem|"
 msgid "Font size"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:400
-#: activities/menu/ConfigurationItem.qml:435
+#: activities/menu/ConfigurationItem.qml:384
+#: activities/menu/ConfigurationItem.qml:419
 msgctxt "ConfigurationItem|"
 msgid "Default"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:412
+#: activities/menu/ConfigurationItem.qml:394
 msgctxt "ConfigurationItem|"
 msgid "Font Capitalization"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:417
+#: activities/menu/ConfigurationItem.qml:399
 msgctxt "ConfigurationItem|"
 msgid "Font letter spacing"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:448
+#: activities/menu/ConfigurationItem.qml:430
 msgctxt "ConfigurationItem|"
 msgid "Language selector"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:475
+#: activities/menu/ConfigurationItem.qml:456
 msgctxt "ConfigurationItem|"
 msgid "Localized voices"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:491
+#: activities/menu/ConfigurationItem.qml:472
 msgctxt "ConfigurationItem|"
 msgid "Check for updates"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:492
+#: activities/menu/ConfigurationItem.qml:473
 msgctxt "ConfigurationItem|"
 msgid "Download"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:510
+#: activities/menu/ConfigurationItem.qml:487
 msgctxt "ConfigurationItem|"
 msgid "Difficulty filter:"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:721
+#: activities/menu/ConfigurationItem.qml:724
 msgctxt "ConfigurationItem|"
 msgid ""
 "You selected a new locale. You need to restart GCompris to play in your new "
 "locale.<br/>Do you want to download the corresponding sound files now?"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:722
-#: activities/menu/ConfigurationItem.qml:759
-#: activities/menu/ConfigurationItem.qml:790
+#: activities/menu/ConfigurationItem.qml:725
+#: activities/menu/ConfigurationItem.qml:762
+#: activities/menu/ConfigurationItem.qml:793
 msgctxt "ConfigurationItem|"
 msgid "Yes"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:728
-#: activities/menu/ConfigurationItem.qml:764
-#: activities/menu/ConfigurationItem.qml:795
+#: activities/menu/ConfigurationItem.qml:731
+#: activities/menu/ConfigurationItem.qml:767
+#: activities/menu/ConfigurationItem.qml:798
 msgctxt "ConfigurationItem|"
 msgid "No"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:757
+#: activities/menu/ConfigurationItem.qml:760
 msgctxt "ConfigurationItem|"
 msgid "The images for several activities are not yet installed. "
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:758
+#: activities/menu/ConfigurationItem.qml:761
 msgctxt "ConfigurationItem|"
 msgid "Do you want to download them now?"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:788
+#: activities/menu/ConfigurationItem.qml:791
 msgctxt "ConfigurationItem|"
 msgid "The background music is not yet installed. "
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:789
+#: activities/menu/ConfigurationItem.qml:792
 msgctxt "ConfigurationItem|"
 msgid "Do you want to download it now?"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:846
+#: activities/menu/ConfigurationItem.qml:849
 msgctxt "ConfigurationItem|"
 msgid "Mixed case (default)"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:847
+#: activities/menu/ConfigurationItem.qml:850
 msgctxt "ConfigurationItem|"
 msgid "All uppercase"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:848
+#: activities/menu/ConfigurationItem.qml:851
 msgctxt "ConfigurationItem|"
 msgid "All lowercase"
 msgstr ""
@@ -11589,16 +12224,21 @@ msgctxt "Menu|"
 msgid "Vocabulary"
 msgstr "Leughadh nam faclan"
 
-#: activities/menu/Menu.qml:376
+#: activities/menu/Menu.qml:356
 msgctxt "Menu|"
 msgid ""
 "Put your favorite activities here by selecting the sun at the top right of "
 "that activity."
 msgstr ""
 
-#: activities/menu/Menu.qml:730
+#: activities/menu/Menu.qml:728
 msgctxt "Menu|"
 msgid "Search specific activities"
+msgstr ""
+
+#: activities/menu/Menu.qml:755
+msgctxt "Menu|"
+msgid "Activity Settings"
 msgstr ""
 
 #. Activity title
@@ -11739,17 +12379,17 @@ msgstr ""
 "Chì thu nì air a’ phrìomh raon is facal neo-choileanta fon dealbh. Tagh an "
 "litir a tha a dhìth gus am facal a dhèanamh coileanta."
 
-#: activities/missing-letter/MissingLetter.qml:278
+#: activities/missing-letter/MissingLetter.qml:281
 msgctxt "MissingLetter|"
 msgid "Select your locale"
 msgstr ""
 
-#: activities/missing-letter/MissingLetter.qml:362
+#: activities/missing-letter/MissingLetter.qml:374
 msgctxt "MissingLetter|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 
-#: activities/missing-letter/MissingLetter.qml:363
+#: activities/missing-letter/MissingLetter.qml:375
 #, qt-format
 msgctxt "MissingLetter|"
 msgid ""
@@ -11757,7 +12397,7 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 
-#: activities/missing-letter/MissingLetter.qml:365
+#: activities/missing-letter/MissingLetter.qml:377
 msgctxt "MissingLetter|"
 msgid ""
 "We switched to English for this activity but you can select another language "
@@ -11814,7 +12454,7 @@ msgstr ""
 "pàigheadh. Ma tha thu airson bonn no nòta a chur air falbh, briog air aig "
 "barr na sgrìn."
 
-#: activities/money/money.js:665
+#: activities/money/money.js:136
 msgctxt "money|"
 msgid ""
 "Click on the coins or paper money at the bottom of the screen to pay. If you "
@@ -11824,12 +12464,27 @@ msgstr ""
 "pàigheadh. Ma tha thu airson bonn no nòta a chur air falbh, briog air aig "
 "barr na sgrìn."
 
-#: activities/money/money.js:709
+#: activities/money/money.js:171
 #, qt-format
 msgctxt "money|"
 msgid ""
 "Tux just bought some items in your shop.\n"
 "He gives you %1, please give back his change."
+msgstr ""
+
+#: activities/money/resource/1/Data.qml:25
+msgctxt "Data|"
+msgid "Learn how to pay up to 10 units"
+msgstr ""
+
+#: activities/money/resource/2/Data.qml:25
+msgctxt "Data|"
+msgid "Learn how to pay up to 100 units"
+msgstr ""
+
+#: activities/money/resource/3/Data.qml:25
+msgctxt "Data|"
+msgid "Learn how to pay up to 1000 units"
 msgstr ""
 
 #. Activity title
@@ -11880,6 +12535,21 @@ msgstr ""
 "pàigheadh. Ma tha thu airson bonn no nòta a chur air falbh, briog air aig "
 "barr na sgrìn."
 
+#: activities/money_back/resource/1/Data.qml:25
+msgctxt "Data|"
+msgid "Learn how to calculate change when amount paid is up to 10 units"
+msgstr ""
+
+#: activities/money_back/resource/2/Data.qml:25
+msgctxt "Data|"
+msgid "Learn how to calculate change when amount paid is up to 100 units"
+msgstr ""
+
+#: activities/money_back/resource/3/Data.qml:25
+msgctxt "Data|"
+msgid "Learn how to calculate change when amount paid is up to 1000 units"
+msgstr ""
+
 #. Activity title
 #: activities/money_back_cents/ActivityInfo.qml:27
 #, fuzzy
@@ -11888,6 +12558,27 @@ msgstr ""
 msgctxt "ActivityInfo|"
 msgid "Give Tux his change, including cents"
 msgstr "Thoir iomlaid do Tux, a’ gabhail a-steach sgillinnean"
+
+#: activities/money_back_cents/resource/1/Data.qml:25
+msgctxt "Data|"
+msgid ""
+"Learn how to calculate change including cents when amount paid is up to 10 "
+"units"
+msgstr ""
+
+#: activities/money_back_cents/resource/2/Data.qml:25
+msgctxt "Data|"
+msgid ""
+"Learn how to calculate change including cents when amount paid is up to 100 "
+"units"
+msgstr ""
+
+#: activities/money_back_cents/resource/3/Data.qml:25
+msgctxt "Data|"
+msgid ""
+"Learn how to calculate change including cents when amount paid is up to 1000 "
+"units"
+msgstr ""
 
 #. Activity title
 #: activities/money_cents/ActivityInfo.qml:27
@@ -11901,6 +12592,21 @@ msgctxt "ActivityInfo|"
 msgid "Practice money usage including cents"
 msgstr ""
 "Cleachdaich mar a dh’obraicheas airgead, a’ ghabhail a-steach sgillinnean"
+
+#: activities/money_cents/resource/1/Data.qml:26
+msgctxt "Data|"
+msgid "Learn how to pay up to 10 units including cents"
+msgstr ""
+
+#: activities/money_cents/resource/2/Data.qml:26
+msgctxt "Data|"
+msgid "Learn how to pay up to 100 units including cents"
+msgstr ""
+
+#: activities/money_cents/resource/3/Data.qml:26
+msgctxt "Data|"
+msgid "Learn how to pay up to 1000 units including cents"
+msgstr ""
 
 #. Activity title
 #: activities/mosaic/ActivityInfo.qml:27
@@ -12076,19 +12782,14 @@ msgctxt "ActivityInfo|"
 msgid "Identify the notes correctly and score a 100% to complete a level."
 msgstr ""
 
-#: activities/note_names/NoteNames.qml:130
-msgctxt "NoteNames|"
-msgid "Speed"
-msgstr ""
-
-#: activities/note_names/NoteNames.qml:222
+#: activities/note_names/NoteNames.qml:177
 #, qt-format
 msgctxt "NoteNames|"
 msgid "New note: %1"
 msgstr ""
 
 #. The following translation represents percentage.
-#: activities/note_names/NoteNames.qml:316
+#: activities/note_names/NoteNames.qml:271
 #, qt-format
 msgctxt "NoteNames|"
 msgid "%1%"
@@ -12131,24 +12832,6 @@ msgid ""
 "Draw the picture by touching each number in the right sequence, or sliding "
 "your finger or dragging the mouse through the numbers in the correct "
 "sequence."
-msgstr ""
-
-#: activities/number_sequence/NumberSequence.qml:257
-msgctxt "NumberSequence|"
-msgid "Automatic"
-msgstr ""
-
-#: activities/number_sequence/NumberSequence.qml:258
-#, fuzzy
-#| msgctxt "DialogHelp|"
-#| msgid "Manual"
-msgctxt "NumberSequence|"
-msgid "Manual"
-msgstr "Stiùireadh"
-
-#: activities/number_sequence/NumberSequence.qml:269
-msgctxt "NumberSequence|"
-msgid "Go to next level"
 msgstr ""
 
 #. Activity title
@@ -13114,6 +13797,16 @@ msgid ""
 "remember it or check the bottom right corner."
 msgstr ""
 
+#: activities/play_piano/ActivityConfig.qml:46
+msgctxt "ActivityConfig|"
+msgid "Display colored notes."
+msgstr ""
+
+#: activities/play_piano/ActivityConfig.qml:59
+msgctxt "ActivityConfig|"
+msgid "Display colorless notes."
+msgstr ""
+
 #. Activity title
 #: activities/play_piano/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -13145,23 +13838,13 @@ msgid ""
 "treble clef to practice and levels 6-10 will offer bass clef."
 msgstr ""
 
-#: activities/play_piano/PlayPiano.qml:186
+#: activities/play_piano/PlayPiano.qml:185
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Kick the ball into the goal"
 msgctxt "PlayPiano|"
 msgid "Click on the piano keys that match the given notes."
 msgstr "Breab am bàla dhan tadhal"
-
-#: activities/play_piano/PlayPiano.qml:266
-msgctxt "PlayPiano|"
-msgid "Display colored notes."
-msgstr ""
-
-#: activities/play_piano/PlayPiano.qml:279
-msgctxt "PlayPiano|"
-msgid "Display colorless notes."
-msgstr ""
 
 #. Activity title
 #: activities/play_rhythm/ActivityInfo.qml:31
@@ -13526,17 +14209,7 @@ msgid ""
 "appear and disappear. Does the given word belong to the list?"
 msgstr ""
 
-#: activities/readingh/Readingh.qml:107
-msgctxt "Readingh|"
-msgid "Select your locale"
-msgstr ""
-
-#: activities/readingh/Readingh.qml:112
-msgctxt "Readingh|"
-msgid "Speed"
-msgstr ""
-
-#: activities/readingh/Readingh.qml:263
+#: activities/readingh/Readingh.qml:182
 #, qt-format
 msgctxt "Readingh|"
 msgid ""
@@ -13544,12 +14217,12 @@ msgid ""
 "\">%1</font></b><br/><font color=\"#373737\">is displayed</font>"
 msgstr ""
 
-#: activities/readingh/Readingh.qml:289
+#: activities/readingh/Readingh.qml:208
 msgctxt "Readingh|"
 msgid "Yes, I saw it!"
 msgstr ""
 
-#: activities/readingh/Readingh.qml:303
+#: activities/readingh/Readingh.qml:222
 msgctxt "Readingh|"
 msgid "No, it was not there!"
 msgstr ""
@@ -13596,6 +14269,24 @@ msgctxt "ActivityInfo|"
 msgid ""
 "First, select the proper color from the toolbar. Then click on the grid and "
 "drag to paint, then release the click to stop painting."
+msgstr ""
+
+#: activities/redraw/resource/1/Data.qml:25
+#: activities/redraw_symmetrical/resource/1/Data.qml:25
+msgctxt "Data|"
+msgid "Small grids"
+msgstr ""
+
+#: activities/redraw/resource/2/Data.qml:24
+#: activities/redraw_symmetrical/resource/2/Data.qml:24
+msgctxt "Data|"
+msgid "Medium grids"
+msgstr ""
+
+#: activities/redraw/resource/3/Data.qml:24
+#: activities/redraw_symmetrical/resource/3/Data.qml:24
+msgctxt "Data|"
+msgid "Large grids"
 msgstr ""
 
 #. Activity title
@@ -13688,6 +14379,43 @@ msgid ""
 "regional blackout."
 msgstr ""
 
+#: activities/reversecount/ActivityConfig.qml:31
+#: activities/smallnumbers2/ActivityConfig.qml:31
+msgctxt "ActivityConfig|"
+msgid "Dots"
+msgstr ""
+
+#: activities/reversecount/ActivityConfig.qml:32
+#: activities/smallnumbers2/ActivityConfig.qml:32
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Simple Letters"
+msgctxt "ActivityConfig|"
+msgid "Arabic numbers"
+msgstr "Litrichean simplidh"
+
+#: activities/reversecount/ActivityConfig.qml:33
+#: activities/smallnumbers2/ActivityConfig.qml:33
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Subtraction memory game"
+msgctxt "ActivityConfig|"
+msgid "Roman numbers"
+msgstr "Geama cuimhne toirt air falbh"
+
+#: activities/reversecount/ActivityConfig.qml:34
+#: activities/smallnumbers2/ActivityConfig.qml:34
+#: activities/traffic/ActivityConfig.qml:32
+msgctxt "ActivityConfig|"
+msgid "Images"
+msgstr ""
+
+#: activities/reversecount/ActivityConfig.qml:44
+#: activities/smallnumbers2/ActivityConfig.qml:51
+msgctxt "ActivityConfig|"
+msgid "Select Domino Representation"
+msgstr ""
+
 #. Activity title
 #: activities/reversecount/ActivityInfo.qml:27
 #, fuzzy
@@ -13741,36 +14469,21 @@ msgstr ""
 "an iasg. Briog air an dìsinn leis a’ phutan deas gus cunntadh sìos. Nuair a "
 "bhios tu deiseil, briog air a’ phutan “OK” no brùth air an iuchair “Enter”."
 
-#: activities/reversecount/Reversecount.qml:221
-msgctxt "Reversecount|"
-msgid "Dots"
-msgstr ""
-
-#: activities/reversecount/Reversecount.qml:222
+#: activities/reversecount/resource/1/Data.qml:24
 #, fuzzy
 #| msgctxt "ActivityInfo|"
-#| msgid "Simple Letters"
-msgctxt "Reversecount|"
-msgid "Arabic numbers"
-msgstr "Litrichean simplidh"
+#| msgid "Guess a number"
+msgctxt "Data|"
+msgid "Numbers between 1 and 8"
+msgstr "Dèan tuairmse air àireamh"
 
-#: activities/reversecount/Reversecount.qml:223
+#: activities/reversecount/resource/2/Data.qml:24
 #, fuzzy
 #| msgctxt "ActivityInfo|"
-#| msgid "Subtraction memory game"
-msgctxt "Reversecount|"
-msgid "Roman numbers"
-msgstr "Geama cuimhne toirt air falbh"
-
-#: activities/reversecount/Reversecount.qml:224
-msgctxt "Reversecount|"
-msgid "Images"
-msgstr ""
-
-#: activities/reversecount/Reversecount.qml:234
-msgctxt "Reversecount|"
-msgid "Select Domino Representation"
-msgstr ""
+#| msgid "Guess a number"
+msgctxt "Data|"
+msgid "Numbers between 2 and 18"
+msgstr "Dèan tuairmse air àireamh"
 
 #. Activity title
 #: activities/roman_numerals/ActivityInfo.qml:27
@@ -13937,27 +14650,197 @@ msgstr ""
 "Gus am meidh a dhèanamh cothromaichte, gluais na clachan-tomhais dhan taobh "
 "chlì no deas. Faodaidh tu òrdugh sam bith a chur air na clachan-tomhais."
 
-#: activities/scalesboard/ScaleNumber.qml:44
-#: activities/scalesboard/ScaleNumber.qml:73
-msgctxt "ScaleNumber|"
+#: activities/scalesboard/resource/1/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Balance the scales properly"
+msgctxt "Data|"
+msgid "Balance the scales until 5."
+msgstr "Cuir cuideam co-ionnan air a’ mheidh"
+
+#: activities/scalesboard/resource/1/Data.qml:31
+#: activities/scalesboard/resource/2/Data.qml:31
+#: activities/scalesboard/resource/2/Data.qml:37
+#: activities/scalesboard/resource/2/Data.qml:43
+#: activities/scalesboard/resource/3/Data.qml:31
+#: activities/scalesboard/resource/3/Data.qml:37
+#: activities/scalesboard/resource/3/Data.qml:43
+#: activities/scalesboard/resource/4/Data.qml:31
+#: activities/scalesboard/resource/4/Data.qml:37
+#: activities/scalesboard/resource/4/Data.qml:43
+#: activities/scalesboard/resource/5/Data.qml:31
+#: activities/scalesboard/resource/5/Data.qml:37
+#: activities/scalesboard/resource/5/Data.qml:43
+#: activities/scalesboard/resource/5/Data.qml:49
+#: activities/scalesboard_weight/resource/2/Data.qml:43
+#: activities/scalesboard_weight/resource/3/Data.qml:44
+#: activities/scalesboard_weight/resource/4/Data.qml:45
+#: activities/scalesboard_weight/resource/4/Data.qml:51
+#: activities/scalesboard_weight/resource/4/Data.qml:57
+#: activities/scalesboard_weight/resource/5/Data.qml:42
+#: activities/scalesboard_weight/resource/5/Data.qml:48
+#: activities/scalesboard_weight/resource/5/Data.qml:54
+#: activities/scalesboard_weight/resource/6/Data.qml:49
+#: activities/scalesboard_weight_avoirdupois/resource/2/Data.qml:43
+#: activities/scalesboard_weight_avoirdupois/resource/3/Data.qml:44
+#: activities/scalesboard_weight_avoirdupois/resource/4/Data.qml:45
+#: activities/scalesboard_weight_avoirdupois/resource/4/Data.qml:51
+#: activities/scalesboard_weight_avoirdupois/resource/4/Data.qml:57
+#: activities/scalesboard_weight_avoirdupois/resource/5/Data.qml:43
+#: activities/scalesboard_weight_avoirdupois/resource/5/Data.qml:49
+#: activities/scalesboard_weight_avoirdupois/resource/5/Data.qml:55
+#: activities/scalesboard_weight_avoirdupois/resource/6/Data.qml:52
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Drag and Drop weights to balance the scales"
+msgctxt "Data|"
+msgid "Drop weights on the left side to balance the scale."
+msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
+
+#: activities/scalesboard/resource/1/Data.qml:37
+#: activities/scalesboard/resource/2/Data.qml:49
+#: activities/scalesboard/resource/2/Data.qml:54
+#: activities/scalesboard/resource/3/Data.qml:49
+#: activities/scalesboard/resource/3/Data.qml:54
+#: activities/scalesboard/resource/3/Data.qml:60
+#: activities/scalesboard/resource/4/Data.qml:48
+#: activities/scalesboard/resource/4/Data.qml:54
+#: activities/scalesboard/resource/4/Data.qml:60
+#: activities/scalesboard/resource/5/Data.qml:54
+#: activities/scalesboard/resource/5/Data.qml:60
+#: activities/scalesboard/resource/5/Data.qml:66
+#: activities/scalesboard_weight/resource/1/Data.qml:43
+#: activities/scalesboard_weight/resource/2/Data.qml:48
+#: activities/scalesboard_weight/resource/3/Data.qml:50
+#: activities/scalesboard_weight/resource/4/Data.qml:63
+#: activities/scalesboard_weight/resource/4/Data.qml:70
+#: activities/scalesboard_weight/resource/4/Data.qml:77
+#: activities/scalesboard_weight/resource/4/Data.qml:83
+#: activities/scalesboard_weight/resource/5/Data.qml:59
+#: activities/scalesboard_weight/resource/5/Data.qml:65
+#: activities/scalesboard_weight/resource/5/Data.qml:72
+#: activities/scalesboard_weight_avoirdupois/resource/1/Data.qml:43
+#: activities/scalesboard_weight_avoirdupois/resource/2/Data.qml:48
+#: activities/scalesboard_weight_avoirdupois/resource/3/Data.qml:50
+#: activities/scalesboard_weight_avoirdupois/resource/4/Data.qml:63
+#: activities/scalesboard_weight_avoirdupois/resource/4/Data.qml:70
+#: activities/scalesboard_weight_avoirdupois/resource/4/Data.qml:77
+#: activities/scalesboard_weight_avoirdupois/resource/4/Data.qml:83
+#: activities/scalesboard_weight_avoirdupois/resource/5/Data.qml:60
+#: activities/scalesboard_weight_avoirdupois/resource/5/Data.qml:66
+#: activities/scalesboard_weight_avoirdupois/resource/5/Data.qml:72
+#, fuzzy
+#| msgctxt "ScaleNumber|"
+#| msgid "Take care, you can drop weights on both sides of the scale."
+msgctxt "Data|"
 msgid "Take care, you can drop weights on both sides of the scale."
 msgstr ""
 "Thoir an aire gur urrainn dhut cuideaman a chur air an dà thaobh na meidhe."
 
-#: activities/scalesboard/ScaleNumber.qml:66
-msgctxt "ScaleNumber|"
+#: activities/scalesboard/resource/1/Data.qml:43
+#: activities/scalesboard/resource/2/Data.qml:61
+#: activities/scalesboard/resource/2/Data.qml:68
+#: activities/scalesboard/resource/3/Data.qml:67
+#: activities/scalesboard/resource/3/Data.qml:74
+#: activities/scalesboard/resource/3/Data.qml:81
+#: activities/scalesboard/resource/4/Data.qml:67
+#: activities/scalesboard/resource/4/Data.qml:74
+#: activities/scalesboard/resource/4/Data.qml:81
+#: activities/scalesboard/resource/5/Data.qml:73
+#: activities/scalesboard/resource/5/Data.qml:80
+#: activities/scalesboard/resource/5/Data.qml:87
+#: activities/scalesboard/resource/5/Data.qml:94
+#: activities/scalesboard/resource/5/Data.qml:101
+#: activities/scalesboard_weight/resource/1/Data.qml:49
+#: activities/scalesboard_weight/resource/2/Data.qml:55
+#: activities/scalesboard_weight/resource/2/Data.qml:62
+#: activities/scalesboard_weight/resource/3/Data.qml:57
+#: activities/scalesboard_weight/resource/3/Data.qml:64
+#: activities/scalesboard_weight/resource/4/Data.qml:90
+#: activities/scalesboard_weight/resource/4/Data.qml:97
+#: activities/scalesboard_weight/resource/4/Data.qml:104
+#: activities/scalesboard_weight/resource/4/Data.qml:111
+#: activities/scalesboard_weight/resource/5/Data.qml:79
+#: activities/scalesboard_weight/resource/5/Data.qml:86
+#: activities/scalesboard_weight/resource/5/Data.qml:93
+#: activities/scalesboard_weight/resource/5/Data.qml:100
+#: activities/scalesboard_weight/resource/5/Data.qml:107
+#: activities/scalesboard_weight/resource/6/Data.qml:67
+#: activities/scalesboard_weight/resource/6/Data.qml:74
+#: activities/scalesboard_weight/resource/6/Data.qml:81
+#: activities/scalesboard_weight/resource/6/Data.qml:88
+#: activities/scalesboard_weight_avoirdupois/resource/1/Data.qml:49
+#: activities/scalesboard_weight_avoirdupois/resource/2/Data.qml:55
+#: activities/scalesboard_weight_avoirdupois/resource/2/Data.qml:62
+#: activities/scalesboard_weight_avoirdupois/resource/3/Data.qml:57
+#: activities/scalesboard_weight_avoirdupois/resource/3/Data.qml:64
+#: activities/scalesboard_weight_avoirdupois/resource/4/Data.qml:90
+#: activities/scalesboard_weight_avoirdupois/resource/4/Data.qml:97
+#: activities/scalesboard_weight_avoirdupois/resource/4/Data.qml:104
+#: activities/scalesboard_weight_avoirdupois/resource/4/Data.qml:111
+#: activities/scalesboard_weight_avoirdupois/resource/5/Data.qml:79
+#: activities/scalesboard_weight_avoirdupois/resource/5/Data.qml:86
+#: activities/scalesboard_weight_avoirdupois/resource/5/Data.qml:93
+#: activities/scalesboard_weight_avoirdupois/resource/5/Data.qml:100
+#: activities/scalesboard_weight_avoirdupois/resource/5/Data.qml:107
+#: activities/scalesboard_weight_avoirdupois/resource/6/Data.qml:71
+#: activities/scalesboard_weight_avoirdupois/resource/6/Data.qml:78
+#: activities/scalesboard_weight_avoirdupois/resource/6/Data.qml:85
+#: activities/scalesboard_weight_avoirdupois/resource/6/Data.qml:92
+msgctxt "Data|"
 msgid "Now you have to guess the weight of the gift."
 msgstr ""
 
-#: activities/scalesboard/ScaleNumber.qml:67
-#: activities/scalesboard/ScaleNumber.qml:74
-#: activities/scalesboard/ScaleNumber.qml:80
-#: activities/scalesboard/ScaleNumber.qml:86
-#: activities/scalesboard/ScaleNumber.qml:93
+#: activities/scalesboard/resource/1/Data.qml:44
+#: activities/scalesboard/resource/2/Data.qml:62
+#: activities/scalesboard/resource/2/Data.qml:69
+#: activities/scalesboard/resource/3/Data.qml:68
+#: activities/scalesboard/resource/3/Data.qml:75
+#: activities/scalesboard/resource/3/Data.qml:82
+#: activities/scalesboard/resource/4/Data.qml:68
+#: activities/scalesboard/resource/4/Data.qml:75
+#: activities/scalesboard/resource/4/Data.qml:82
+#: activities/scalesboard/resource/5/Data.qml:74
+#: activities/scalesboard/resource/5/Data.qml:81
+#: activities/scalesboard/resource/5/Data.qml:88
+#: activities/scalesboard/resource/5/Data.qml:95
+#: activities/scalesboard/resource/5/Data.qml:102
 #, qt-format
-msgctxt "ScaleNumber|"
+msgctxt "Data|"
 msgid "Enter the weight of the gift: %1"
 msgstr ""
+
+#: activities/scalesboard/resource/2/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Balance the scales properly"
+msgctxt "Data|"
+msgid "Balance the scales until 10."
+msgstr "Cuir cuideam co-ionnan air a’ mheidh"
+
+#: activities/scalesboard/resource/3/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Balance the scales properly"
+msgctxt "Data|"
+msgid "Balance the scales until 20."
+msgstr "Cuir cuideam co-ionnan air a’ mheidh"
+
+#: activities/scalesboard/resource/4/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Balance the scales properly"
+msgctxt "Data|"
+msgid "Balance the scales until 50."
+msgstr "Cuir cuideam co-ionnan air a’ mheidh"
+
+#: activities/scalesboard/resource/5/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Balance the scales properly"
+msgctxt "Data|"
+msgid "Balance the scales until 100."
+msgstr "Cuir cuideam co-ionnan air a’ mheidh"
 
 #. Help title
 #: activities/scalesboard_weight/ActivityInfo.qml:29
@@ -13993,77 +14876,143 @@ msgstr ""
 "gramaichean (g) a th’ anns a’ chileagram (kg). Faodaidh tu òrdugh sam bith a "
 "chur orra."
 
-#: activities/scalesboard_weight/ScalesboardWeight.qml:28
+#: activities/scalesboard_weight/resource/1/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Balance the scales properly"
+msgctxt "Data|"
+msgid "Balance the scales until 5 grams."
+msgstr "Cuir cuideam co-ionnan air a’ mheidh"
+
+#: activities/scalesboard_weight/resource/1/Data.qml:29
+#: activities/scalesboard_weight/resource/2/Data.qml:29
+#: activities/scalesboard_weight/resource/3/Data.qml:29
+#: activities/scalesboard_weight/resource/5/Data.qml:29
+#: activities/scalesboard_weight/resource/6/Data.qml:29
 #, qt-format
-msgctxt "ScalesboardWeight|"
+msgctxt "Data|"
 msgid "%1 g"
 msgstr ""
 
-#: activities/scalesboard_weight/ScalesboardWeight.qml:33
+#: activities/scalesboard_weight/resource/1/Data.qml:37
+msgctxt "Data|"
+msgid "The \"g\" symbol at the end of a number means gram."
+msgstr ""
+
+#: activities/scalesboard_weight/resource/1/Data.qml:50
 #, qt-format
-msgctxt "ScalesboardWeight|"
-msgid "%1 kg"
+msgctxt "Data|"
+msgid "Enter the weight of the gift in grams: %1"
 msgstr ""
 
-#: activities/scalesboard_weight/ScalesboardWeight.qml:42
-msgctxt "ScalesboardWeight|"
-msgid "The \"kg\" symbol at the end of a number means kilogram."
-msgstr ""
+#: activities/scalesboard_weight/resource/2/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Balance the scales properly"
+msgctxt "Data|"
+msgid "Balance the scales until 10 grams."
+msgstr "Cuir cuideam co-ionnan air a’ mheidh"
 
-#: activities/scalesboard_weight/ScalesboardWeight.qml:43
-msgctxt "ScalesboardWeight|"
+#: activities/scalesboard_weight/resource/2/Data.qml:37
+#: activities/scalesboard_weight/resource/3/Data.qml:37
+#: activities/scalesboard_weight/resource/5/Data.qml:36
+msgctxt "Data|"
 msgid ""
-"The kilogram is a unit of mass, a property which corresponds to the common "
-"perception of how \"heavy\" an object is."
+"The \"g\" symbol at the end of a number means gram. \n"
+" Drop weights on the left side to balance the scale."
 msgstr ""
 
-#: activities/scalesboard_weight/ScalesboardWeight.qml:52
-msgctxt "ScalesboardWeight|"
-msgid ""
-"The \"g\" symbol at the end of a number means gram. One kilogram equals 1000 "
-"grams"
-msgstr ""
-
-#: activities/scalesboard_weight/ScalesboardWeight.qml:60
-msgctxt "ScalesboardWeight|"
-msgid "Remember, one kilogram (\"kg\") equals 1000 grams (\"g\")."
-msgstr ""
-
-#: activities/scalesboard_weight/ScalesboardWeight.qml:66
-#: activities/scalesboard_weight/ScalesboardWeight.qml:100
-#: activities/scalesboard_weight_avoirdupois/ScalesboardWeight.qml:66
-#: activities/scalesboard_weight_avoirdupois/ScalesboardWeight.qml:82
-msgctxt "ScalesboardWeight|"
-msgid "Take care, you can drop weights on both sides of the scale."
-msgstr ""
-"Thoir an aire gur urrainn dhut cuideaman a chur air an dà thaobh na meidhe."
-
-#: activities/scalesboard_weight/ScalesboardWeight.qml:85
-#: activities/scalesboard_weight_avoirdupois/ScalesboardWeight.qml:74
-msgctxt "ScalesboardWeight|"
-msgid "Now you have to guess the weight of the gift."
-msgstr ""
-
-#: activities/scalesboard_weight/ScalesboardWeight.qml:86
+#: activities/scalesboard_weight/resource/2/Data.qml:56
+#: activities/scalesboard_weight/resource/2/Data.qml:63
+#: activities/scalesboard_weight/resource/3/Data.qml:58
+#: activities/scalesboard_weight/resource/3/Data.qml:65
+#: activities/scalesboard_weight/resource/5/Data.qml:80
+#: activities/scalesboard_weight/resource/5/Data.qml:87
+#: activities/scalesboard_weight/resource/5/Data.qml:94
+#: activities/scalesboard_weight/resource/5/Data.qml:101
+#: activities/scalesboard_weight/resource/5/Data.qml:108
+#: activities/scalesboard_weight/resource/6/Data.qml:82
+#: activities/scalesboard_weight/resource/6/Data.qml:89
 #, qt-format
-msgctxt "ScalesboardWeight|"
-msgid "Enter the weight of the gift in kilogram: %1"
-msgstr ""
-
-#: activities/scalesboard_weight/ScalesboardWeight.qml:94
-#: activities/scalesboard_weight/ScalesboardWeight.qml:101
-#: activities/scalesboard_weight/ScalesboardWeight.qml:110
-#: activities/scalesboard_weight/ScalesboardWeight.qml:116
-#: activities/scalesboard_weight/ScalesboardWeight.qml:122
-#: activities/scalesboard_weight/ScalesboardWeight.qml:130
-#, qt-format
-msgctxt "ScalesboardWeight|"
+msgctxt "Data|"
 msgid "Enter the weight of the gift in gram: %1"
 msgstr ""
 
-#: activities/scalesboard_weight/ScalesboardWeight.qml:109
-msgctxt "ScalesboardWeight|"
-msgid "Remember, one kilogram ('kg') equals 1000 grams ('g')."
+#: activities/scalesboard_weight/resource/3/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Balance the scales properly"
+msgctxt "Data|"
+msgid "Balance the scales until 20 grams."
+msgstr "Cuir cuideam co-ionnan air a’ mheidh"
+
+#: activities/scalesboard_weight/resource/4/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Balance the scales properly"
+msgctxt "Data|"
+msgid "Balance the scales until 10 kilograms."
+msgstr "Cuir cuideam co-ionnan air a’ mheidh"
+
+#: activities/scalesboard_weight/resource/4/Data.qml:29
+#: activities/scalesboard_weight/resource/6/Data.qml:34
+#, qt-format
+msgctxt "Data|"
+msgid "%1 kg"
+msgstr ""
+
+#: activities/scalesboard_weight/resource/4/Data.qml:37
+msgctxt "Data|"
+msgid "The \"kg\" symbol at the end of a number means kilogram."
+msgstr ""
+
+#: activities/scalesboard_weight/resource/4/Data.qml:38
+msgctxt "Data|"
+msgid ""
+"The kilogram is a unit of mass, a property which corresponds to the common "
+"perception of how \"heavy\" an object is. \n"
+" Drop weights on the left side to balance the scale."
+msgstr ""
+
+#: activities/scalesboard_weight/resource/4/Data.qml:91
+#: activities/scalesboard_weight/resource/4/Data.qml:98
+#: activities/scalesboard_weight/resource/4/Data.qml:105
+#: activities/scalesboard_weight/resource/4/Data.qml:112
+#: activities/scalesboard_weight/resource/6/Data.qml:68
+#: activities/scalesboard_weight/resource/6/Data.qml:75
+#, qt-format
+msgctxt "Data|"
+msgid "Enter the weight of the gift in kilogram: %1"
+msgstr ""
+
+#: activities/scalesboard_weight/resource/5/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Balance the scales properly"
+msgctxt "Data|"
+msgid "Balance the scales until 100 grams."
+msgstr "Cuir cuideam co-ionnan air a’ mheidh"
+
+#: activities/scalesboard_weight/resource/6/Data.qml:24
+msgctxt "Data|"
+msgid "Balance the scales until 10 kilograms including grams."
+msgstr ""
+
+#: activities/scalesboard_weight/resource/6/Data.qml:43
+msgctxt "Data|"
+msgid ""
+"The \"kg\" symbol at the end of a number means kilogram. The kilogram is a "
+"unit of mass, a property which corresponds to the common perception of how "
+"\"heavy\" an object is. \n"
+" Drop weights on the left side to balance the scale."
+msgstr ""
+
+#: activities/scalesboard_weight/resource/6/Data.qml:55
+#: activities/scalesboard_weight/resource/6/Data.qml:61
+msgctxt "Data|"
+msgid ""
+"Remember, one kilogram (\"kg\") equals 1000 grams (\"g\"). \n"
+" Drop weights on the left side to balance the scale."
 msgstr ""
 
 #. Help title
@@ -14093,47 +15042,128 @@ msgstr ""
 "gramaichean (g) a th’ anns a’ chileagram (kg). Faodaidh tu òrdugh sam bith a "
 "chur orra."
 
-#: activities/scalesboard_weight_avoirdupois/ScalesboardWeight.qml:27
+#: activities/scalesboard_weight_avoirdupois/resource/1/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Balance the scales properly"
+msgctxt "Data|"
+msgid "Balance the scales until 5 ounces."
+msgstr "Cuir cuideam co-ionnan air a’ mheidh"
+
+#: activities/scalesboard_weight_avoirdupois/resource/1/Data.qml:29
+#: activities/scalesboard_weight_avoirdupois/resource/2/Data.qml:29
+#: activities/scalesboard_weight_avoirdupois/resource/3/Data.qml:29
+#: activities/scalesboard_weight_avoirdupois/resource/5/Data.qml:29
+#: activities/scalesboard_weight_avoirdupois/resource/6/Data.qml:29
 #, qt-format
-msgctxt "ScalesboardWeight|"
+msgctxt "Data|"
 msgid "%1 oz"
 msgstr ""
 
-#: activities/scalesboard_weight_avoirdupois/ScalesboardWeight.qml:32
+#: activities/scalesboard_weight_avoirdupois/resource/1/Data.qml:37
+#: activities/scalesboard_weight_avoirdupois/resource/2/Data.qml:37
+#: activities/scalesboard_weight_avoirdupois/resource/3/Data.qml:37
+msgctxt "Data|"
+msgid ""
+"The \"oz\" symbol at the end of a number means ounce. One pound equals "
+"sixteen ounces. \n"
+" Drop weights on the left side to balance the scale."
+msgstr ""
+
+#: activities/scalesboard_weight_avoirdupois/resource/1/Data.qml:50
+#: activities/scalesboard_weight_avoirdupois/resource/2/Data.qml:56
+#: activities/scalesboard_weight_avoirdupois/resource/2/Data.qml:63
+#: activities/scalesboard_weight_avoirdupois/resource/3/Data.qml:58
+#: activities/scalesboard_weight_avoirdupois/resource/3/Data.qml:65
+#: activities/scalesboard_weight_avoirdupois/resource/5/Data.qml:80
+#: activities/scalesboard_weight_avoirdupois/resource/5/Data.qml:87
+#: activities/scalesboard_weight_avoirdupois/resource/5/Data.qml:94
+#: activities/scalesboard_weight_avoirdupois/resource/5/Data.qml:101
+#: activities/scalesboard_weight_avoirdupois/resource/5/Data.qml:108
+#: activities/scalesboard_weight_avoirdupois/resource/6/Data.qml:79
+#: activities/scalesboard_weight_avoirdupois/resource/6/Data.qml:93
 #, qt-format
-msgctxt "ScalesboardWeight|"
+msgctxt "Data|"
+msgid "Enter the weight of the gift in ounce: %1"
+msgstr ""
+
+#: activities/scalesboard_weight_avoirdupois/resource/2/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Balance the scales properly"
+msgctxt "Data|"
+msgid "Balance the scales until 10 ounces."
+msgstr "Cuir cuideam co-ionnan air a’ mheidh"
+
+#: activities/scalesboard_weight_avoirdupois/resource/3/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Balance the scales properly"
+msgctxt "Data|"
+msgid "Balance the scales until 20 ounces."
+msgstr "Cuir cuideam co-ionnan air a’ mheidh"
+
+#: activities/scalesboard_weight_avoirdupois/resource/4/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Balance the scales properly"
+msgctxt "Data|"
+msgid "Balance the scales until 10 pounds."
+msgstr "Cuir cuideam co-ionnan air a’ mheidh"
+
+#: activities/scalesboard_weight_avoirdupois/resource/4/Data.qml:29
+#: activities/scalesboard_weight_avoirdupois/resource/6/Data.qml:34
+#, qt-format
+msgctxt "Data|"
 msgid "%1 lb"
 msgstr ""
 
-#: activities/scalesboard_weight_avoirdupois/ScalesboardWeight.qml:41
-msgctxt "ScalesboardWeight|"
-msgid "The \"lb\" symbol at the end of a number means pound."
-msgstr ""
-
-#: activities/scalesboard_weight_avoirdupois/ScalesboardWeight.qml:42
-msgctxt "ScalesboardWeight|"
+#: activities/scalesboard_weight_avoirdupois/resource/4/Data.qml:37
+#: activities/scalesboard_weight_avoirdupois/resource/6/Data.qml:42
+msgctxt "Data|"
 msgid ""
-"The pound is a unit of mass, a property which corresponds to the common "
-"perception of how \"heavy\" an object is. This unit is used in the USA."
+"The \"lb\" symbol at the end of a number means pound. The pound is a unit of "
+"mass, a property which corresponds to the common perception of how \"heavy\" "
+"an object is. This unit is used in the USA."
 msgstr ""
 
-#: activities/scalesboard_weight_avoirdupois/ScalesboardWeight.qml:51
-msgctxt "ScalesboardWeight|"
-msgid ""
-"The \"oz\" symbol at the end of a number means ounce. One pound equals "
-"sixteen ounces"
-msgstr ""
-
-#: activities/scalesboard_weight_avoirdupois/ScalesboardWeight.qml:59
-msgctxt "ScalesboardWeight|"
-msgid "Remember, one pound (\"lb\") equals sixteen ounces (\"oz\")."
-msgstr ""
-
-#: activities/scalesboard_weight_avoirdupois/ScalesboardWeight.qml:75
-#: activities/scalesboard_weight_avoirdupois/ScalesboardWeight.qml:83
+#: activities/scalesboard_weight_avoirdupois/resource/4/Data.qml:91
+#: activities/scalesboard_weight_avoirdupois/resource/4/Data.qml:98
+#: activities/scalesboard_weight_avoirdupois/resource/4/Data.qml:105
+#: activities/scalesboard_weight_avoirdupois/resource/4/Data.qml:112
+#: activities/scalesboard_weight_avoirdupois/resource/6/Data.qml:72
+#: activities/scalesboard_weight_avoirdupois/resource/6/Data.qml:86
 #, qt-format
-msgctxt "ScalesboardWeight|"
-msgid "Enter the weight of the gift in ounce: %1"
+msgctxt "Data|"
+msgid "Enter the weight of the gift in pound: %1"
+msgstr ""
+
+#: activities/scalesboard_weight_avoirdupois/resource/5/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Balance the scales properly"
+msgctxt "Data|"
+msgid "Balance the scales until 100 ounces."
+msgstr "Cuir cuideam co-ionnan air a’ mheidh"
+
+#: activities/scalesboard_weight_avoirdupois/resource/5/Data.qml:37
+msgctxt "Data|"
+msgid ""
+"The \"oz\" symbol at the end of a number means ounce. \n"
+" Drop weights on the left side to balance the scale."
+msgstr ""
+
+#: activities/scalesboard_weight_avoirdupois/resource/6/Data.qml:24
+msgctxt "Data|"
+msgid "Balance the scales until 10 pound including ounces."
+msgstr ""
+
+#: activities/scalesboard_weight_avoirdupois/resource/6/Data.qml:59
+#: activities/scalesboard_weight_avoirdupois/resource/6/Data.qml:65
+msgctxt "Data|"
+msgid ""
+"Remember, one pound (\"lb\") equals sixteen ounces (\"oz\"). \n"
+" Drop the weights on the left side of the scale to balance the scale."
 msgstr ""
 
 #. Activity title
@@ -14459,6 +15489,92 @@ msgstr ""
 "Sgrìobh àireamh nan dotagan a chì thu air na dìsnean a’ tuiteam leis a’ "
 "mheur-clàr"
 
+#: activities/smallnumbers/resource/1/Data.qml:25
+msgctxt "Data|"
+msgid "Select a number on dice up to 3"
+msgstr ""
+
+#: activities/smallnumbers/resource/1/Data.qml:29
+#: activities/smallnumbers2/resource/1/Data.qml:29
+msgctxt "Data|"
+msgid "Select the numbers 1 and 2"
+msgstr ""
+
+#: activities/smallnumbers/resource/1/Data.qml:37
+msgctxt "Data|"
+msgid "Select the number on dice from 1 to 3"
+msgstr ""
+
+#: activities/smallnumbers/resource/2/Data.qml:25
+msgctxt "Data|"
+msgid "Select a number on dice up to 4"
+msgstr ""
+
+#: activities/smallnumbers/resource/2/Data.qml:29
+msgctxt "Data|"
+msgid "Select the number on dice from 1 to 4"
+msgstr ""
+
+#: activities/smallnumbers/resource/3/Data.qml:25
+msgctxt "Data|"
+msgid "Select a number on dice up to 5"
+msgstr ""
+
+#: activities/smallnumbers/resource/3/Data.qml:29
+msgctxt "Data|"
+msgid "Select the number on dice from 1 to 5"
+msgstr ""
+
+#: activities/smallnumbers/resource/4/Data.qml:25
+msgctxt "Data|"
+msgid "Select a number on dice up to 6"
+msgstr ""
+
+#: activities/smallnumbers/resource/4/Data.qml:29
+msgctxt "Data|"
+msgid "Select the number on dice from 1 to 6"
+msgstr ""
+
+#: activities/smallnumbers/resource/5/Data.qml:25
+msgctxt "Data|"
+msgid "Select a number on dice up to 7"
+msgstr ""
+
+#: activities/smallnumbers/resource/5/Data.qml:29
+msgctxt "Data|"
+msgid "Select the number on dice from 1 to 7"
+msgstr ""
+
+#: activities/smallnumbers/resource/6/Data.qml:25
+msgctxt "Data|"
+msgid "Select a number on dice up to 8"
+msgstr ""
+
+#: activities/smallnumbers/resource/6/Data.qml:29
+msgctxt "Data|"
+msgid "Select the number on dice from 1 to 8"
+msgstr ""
+
+#: activities/smallnumbers/resource/7/Data.qml:25
+msgctxt "Data|"
+msgid "Select a number on dice up to 9"
+msgstr ""
+
+#: activities/smallnumbers/resource/7/Data.qml:29
+msgctxt "Data|"
+msgid "Select the number on dice from 1 to 9"
+msgstr ""
+
+#: activities/smallnumbers/resource/8/Data.qml:24
+msgctxt "Data|"
+msgid "Select a number on dice from 0 to 9"
+msgstr ""
+
+#: activities/smallnumbers/resource/8/Data.qml:28
+msgctxt "Data|"
+msgid "Select the number on dice from 0 to 9"
+msgstr ""
+
 #. Activity title
 #: activities/smallnumbers2/ActivityInfo.qml:27
 #, fuzzy
@@ -14489,6 +15605,86 @@ msgid ""
 msgstr ""
 "Sgrìobh àireamh nan dotagan a chì thu air na dìsnean a’ tuiteam leis a’ "
 "mheur-clàr"
+
+#: activities/smallnumbers2/resource/1/Data.qml:25
+msgctxt "Data|"
+msgid "Select a number on dominoes up to 3"
+msgstr ""
+
+#: activities/smallnumbers2/resource/1/Data.qml:37
+msgctxt "Data|"
+msgid "Select the number on dominoes from 1 to 3"
+msgstr ""
+
+#: activities/smallnumbers2/resource/2/Data.qml:25
+msgctxt "Data|"
+msgid "Select a number on dominoes up to 4"
+msgstr ""
+
+#: activities/smallnumbers2/resource/2/Data.qml:29
+msgctxt "Data|"
+msgid "Select the number on dominoes from 1 to 4"
+msgstr ""
+
+#: activities/smallnumbers2/resource/3/Data.qml:25
+msgctxt "Data|"
+msgid "Select a number on dominoes up to 5"
+msgstr ""
+
+#: activities/smallnumbers2/resource/3/Data.qml:29
+msgctxt "Data|"
+msgid "Select the number on dominoes from 1 to 5"
+msgstr ""
+
+#: activities/smallnumbers2/resource/4/Data.qml:25
+msgctxt "Data|"
+msgid "Select a number on dominoes up to 6"
+msgstr ""
+
+#: activities/smallnumbers2/resource/4/Data.qml:29
+msgctxt "Data|"
+msgid "Select the number on dominoes from 1 to 6"
+msgstr ""
+
+#: activities/smallnumbers2/resource/5/Data.qml:25
+msgctxt "Data|"
+msgid "Select a number on dominoes up to 7"
+msgstr ""
+
+#: activities/smallnumbers2/resource/5/Data.qml:29
+msgctxt "Data|"
+msgid "Select the number on dominoes from 1 to 7"
+msgstr ""
+
+#: activities/smallnumbers2/resource/6/Data.qml:25
+msgctxt "Data|"
+msgid "Select a number on dominoes up to 8"
+msgstr ""
+
+#: activities/smallnumbers2/resource/6/Data.qml:29
+msgctxt "Data|"
+msgid "Select the number on dominoes from 1 to 8"
+msgstr ""
+
+#: activities/smallnumbers2/resource/7/Data.qml:25
+msgctxt "Data|"
+msgid "Select a number on dominoes up to 9"
+msgstr ""
+
+#: activities/smallnumbers2/resource/7/Data.qml:29
+msgctxt "Data|"
+msgid "Select the number on dominoes from 1 to 9"
+msgstr ""
+
+#: activities/smallnumbers2/resource/8/Data.qml:24
+msgctxt "Data|"
+msgid "Select a number on dominoes from 0 to 9"
+msgstr ""
+
+#: activities/smallnumbers2/resource/8/Data.qml:28
+msgctxt "Data|"
+msgid "Select the number on dominoes from 0 to 9"
+msgstr ""
 
 #. Activity title
 #: activities/solar_system/ActivityInfo.qml:30
@@ -14531,159 +15727,159 @@ msgctxt "Dataset|"
 msgid "How large is the Sun compared to the planets in our Solar System?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:30 activities/solar_system/Dataset.js:113
-#: activities/solar_system/Dataset.js:177
+#: activities/solar_system/Dataset.js:30 activities/solar_system/Dataset.js:126
+#: activities/solar_system/Dataset.js:201
 msgctxt "Dataset|"
 msgid "Sixth largest"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:30 activities/solar_system/Dataset.js:240
-#: activities/solar_system/Dataset.js:279
-#: activities/solar_system/Dataset.js:333
-#: activities/solar_system/Dataset.js:377
+#: activities/solar_system/Dataset.js:30 activities/solar_system/Dataset.js:273
+#: activities/solar_system/Dataset.js:318
+#: activities/solar_system/Dataset.js:381
+#: activities/solar_system/Dataset.js:432
 msgctxt "Dataset|"
 msgid "Third largest"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:30 activities/solar_system/Dataset.js:240
-#: activities/solar_system/Dataset.js:279
-#: activities/solar_system/Dataset.js:333
-#: activities/solar_system/Dataset.js:377
+#: activities/solar_system/Dataset.js:30 activities/solar_system/Dataset.js:273
+#: activities/solar_system/Dataset.js:318
+#: activities/solar_system/Dataset.js:381
+#: activities/solar_system/Dataset.js:432
 msgctxt "Dataset|"
 msgid "Largest"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:30 activities/solar_system/Dataset.js:113
-#: activities/solar_system/Dataset.js:177
-#: activities/solar_system/Dataset.js:333
+#: activities/solar_system/Dataset.js:30 activities/solar_system/Dataset.js:126
+#: activities/solar_system/Dataset.js:201
+#: activities/solar_system/Dataset.js:381
 msgctxt "Dataset|"
 msgid "Seventh largest"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:34
+#: activities/solar_system/Dataset.js:35
 msgctxt "Dataset|"
 msgid "The temperature of the Sun is around:"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:35
+#: activities/solar_system/Dataset.js:36
 msgctxt "Dataset|"
 msgid "1000 °C"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:35
+#: activities/solar_system/Dataset.js:36
 msgctxt "Dataset|"
 msgid "4500 °C"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:35
+#: activities/solar_system/Dataset.js:36
 msgctxt "Dataset|"
 msgid "5505 °C"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:35
+#: activities/solar_system/Dataset.js:36
 msgctxt "Dataset|"
 msgid "3638 °C"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:39
+#: activities/solar_system/Dataset.js:41
 msgctxt "Dataset|"
 msgid "How old is the Sun?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:40
+#: activities/solar_system/Dataset.js:42
 msgctxt "Dataset|"
 msgid "1.2 billion years"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:40
+#: activities/solar_system/Dataset.js:42
 msgctxt "Dataset|"
 msgid "3 billion years"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:40
+#: activities/solar_system/Dataset.js:42
 msgctxt "Dataset|"
 msgid "7 billion years"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:40
+#: activities/solar_system/Dataset.js:42
 msgctxt "Dataset|"
 msgid "4.5 billion years"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:44
+#: activities/solar_system/Dataset.js:47
 msgctxt "Dataset|"
 msgid "How long does it take for the Sun’s light to reach the Earth?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:45
+#: activities/solar_system/Dataset.js:48
 msgctxt "Dataset|"
 msgid "8 minutes"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:45
+#: activities/solar_system/Dataset.js:48
 msgctxt "Dataset|"
 msgid "30 minutes"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:45
+#: activities/solar_system/Dataset.js:48
 msgctxt "Dataset|"
 msgid "60 minutes"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:45
+#: activities/solar_system/Dataset.js:48
 msgctxt "Dataset|"
 msgid "15 minutes"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:49
+#: activities/solar_system/Dataset.js:53
 msgctxt "Dataset|"
 msgid "The Sun is as big as:"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:50
+#: activities/solar_system/Dataset.js:54
 msgctxt "Dataset|"
 msgid "1 million Earths"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:50
+#: activities/solar_system/Dataset.js:54
 msgctxt "Dataset|"
 msgid "2.6 million Earths"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:50
+#: activities/solar_system/Dataset.js:54
 msgctxt "Dataset|"
 msgid "1.3 million Earths"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:50
+#: activities/solar_system/Dataset.js:54
 msgctxt "Dataset|"
 msgid "5 million Earths"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:57
+#: activities/solar_system/Dataset.js:62
 msgctxt "Dataset|"
 msgid "Mercury"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:59 activities/solar_system/Dataset.js:98
-#: activities/solar_system/Dataset.js:186
+#: activities/solar_system/Dataset.js:64 activities/solar_system/Dataset.js:109
+#: activities/solar_system/Dataset.js:211
 msgctxt "Dataset|"
 msgid "The maximum temperature on Earth is 58 °C."
 msgstr ""
 
-#: activities/solar_system/Dataset.js:60 activities/solar_system/Dataset.js:143
+#: activities/solar_system/Dataset.js:65 activities/solar_system/Dataset.js:161
 msgctxt "Dataset|"
 msgid "The length of a year on Venus is 225 days."
 msgstr ""
 
-#: activities/solar_system/Dataset.js:63
+#: activities/solar_system/Dataset.js:68
 msgctxt "Dataset|"
 msgid "At which position is Mercury in the Solar System?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:64 activities/solar_system/Dataset.js:103
-#: activities/solar_system/Dataset.js:313
-#: activities/solar_system/Dataset.js:352
+#: activities/solar_system/Dataset.js:69 activities/solar_system/Dataset.js:114
+#: activities/solar_system/Dataset.js:357
+#: activities/solar_system/Dataset.js:402
 #, fuzzy
 #| msgctxt "dataset|"
 #| msgid "seven"
@@ -14691,660 +15887,661 @@ msgctxt "Dataset|"
 msgid "Seventh"
 msgstr "a seachd"
 
-#: activities/solar_system/Dataset.js:64 activities/solar_system/Dataset.js:103
-#: activities/solar_system/Dataset.js:147
-#: activities/solar_system/Dataset.js:191
-#: activities/solar_system/Dataset.js:235
-#: activities/solar_system/Dataset.js:274
+#: activities/solar_system/Dataset.js:69 activities/solar_system/Dataset.js:114
+#: activities/solar_system/Dataset.js:165
+#: activities/solar_system/Dataset.js:216
+#: activities/solar_system/Dataset.js:267
+#: activities/solar_system/Dataset.js:312
 msgctxt "Dataset|"
 msgid "Sixth"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:64 activities/solar_system/Dataset.js:147
-#: activities/solar_system/Dataset.js:191
-#: activities/solar_system/Dataset.js:235
-#: activities/solar_system/Dataset.js:274
+#: activities/solar_system/Dataset.js:69 activities/solar_system/Dataset.js:165
+#: activities/solar_system/Dataset.js:216
+#: activities/solar_system/Dataset.js:267
+#: activities/solar_system/Dataset.js:312
 msgctxt "Dataset|"
 msgid "First"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:64 activities/solar_system/Dataset.js:103
-#: activities/solar_system/Dataset.js:191
-#: activities/solar_system/Dataset.js:235
-#: activities/solar_system/Dataset.js:274
-#: activities/solar_system/Dataset.js:313
-#: activities/solar_system/Dataset.js:352
+#: activities/solar_system/Dataset.js:69 activities/solar_system/Dataset.js:114
+#: activities/solar_system/Dataset.js:216
+#: activities/solar_system/Dataset.js:267
+#: activities/solar_system/Dataset.js:312
+#: activities/solar_system/Dataset.js:357
+#: activities/solar_system/Dataset.js:402
 msgctxt "Dataset|"
 msgid "Fourth"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:68
+#: activities/solar_system/Dataset.js:74
 msgctxt "Dataset|"
 msgid "How small is Mercury compared to other planets in our Solar System?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:69 activities/solar_system/Dataset.js:221
+#: activities/solar_system/Dataset.js:75 activities/solar_system/Dataset.js:252
 msgctxt "Dataset|"
 msgid "Smallest"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:69 activities/solar_system/Dataset.js:221
+#: activities/solar_system/Dataset.js:75 activities/solar_system/Dataset.js:252
 msgctxt "Dataset|"
 msgid "Second smallest"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:69 activities/solar_system/Dataset.js:221
+#: activities/solar_system/Dataset.js:75 activities/solar_system/Dataset.js:252
 msgctxt "Dataset|"
 msgid "Third smallest"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:69 activities/solar_system/Dataset.js:221
+#: activities/solar_system/Dataset.js:75 activities/solar_system/Dataset.js:252
 msgctxt "Dataset|"
 msgid "Fifth smallest"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:73
+#: activities/solar_system/Dataset.js:80
 msgctxt "Dataset|"
 msgid "How many moons has Mercury?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:78
+#: activities/solar_system/Dataset.js:86
 msgctxt "Dataset|"
 msgid "The maximum temperature on Mercury is:"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:79 activities/solar_system/Dataset.js:245
+#: activities/solar_system/Dataset.js:87 activities/solar_system/Dataset.js:279
 msgctxt "Dataset|"
 msgid "50 °C"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:79 activities/solar_system/Dataset.js:196
+#: activities/solar_system/Dataset.js:87 activities/solar_system/Dataset.js:222
 msgctxt "Dataset|"
 msgid "35 °C"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:79
+#: activities/solar_system/Dataset.js:87
 msgctxt "Dataset|"
 msgid "427 °C"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:79
+#: activities/solar_system/Dataset.js:87
 msgctxt "Dataset|"
 msgid "273 °C"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:83
+#: activities/solar_system/Dataset.js:92
 msgctxt "Dataset|"
 msgid "How many days make a year on Mercury?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:84 activities/solar_system/Dataset.js:118
-#: activities/solar_system/Dataset.js:152
-#: activities/solar_system/Dataset.js:216
+#: activities/solar_system/Dataset.js:93 activities/solar_system/Dataset.js:132
+#: activities/solar_system/Dataset.js:171
+#: activities/solar_system/Dataset.js:246
 msgctxt "Dataset|"
 msgid "365 days"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:84
+#: activities/solar_system/Dataset.js:93
 msgctxt "Dataset|"
 msgid "433 days"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:84
+#: activities/solar_system/Dataset.js:93
 msgctxt "Dataset|"
 msgid "88 days"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:84
+#: activities/solar_system/Dataset.js:93
 msgctxt "Dataset|"
 msgid "107 days"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:88
+#: activities/solar_system/Dataset.js:98
 msgctxt "Dataset|"
 msgid "How long is one rotation on Mercury?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:89
+#: activities/solar_system/Dataset.js:99
 msgctxt "Dataset|"
 msgid "50 Earth days"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:89 activities/solar_system/Dataset.js:123
+#: activities/solar_system/Dataset.js:99 activities/solar_system/Dataset.js:138
 msgctxt "Dataset|"
 msgid "365 Earth days"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:89
+#: activities/solar_system/Dataset.js:99
 msgctxt "Dataset|"
 msgid "59 Earth days"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:89 activities/solar_system/Dataset.js:123
+#: activities/solar_system/Dataset.js:99 activities/solar_system/Dataset.js:138
 msgctxt "Dataset|"
 msgid "107 Earth days"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:96
+#: activities/solar_system/Dataset.js:107
 msgctxt "Dataset|"
 msgid "Venus"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:99 activities/solar_system/Dataset.js:187
+#: activities/solar_system/Dataset.js:110
+#: activities/solar_system/Dataset.js:212
 msgctxt "Dataset|"
 msgid "The length of a year on Earth is 365 days."
 msgstr ""
 
-#: activities/solar_system/Dataset.js:102
+#: activities/solar_system/Dataset.js:113
 msgctxt "Dataset|"
 msgid "At which position is Venus in the Solar System?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:103
+#: activities/solar_system/Dataset.js:114
 msgctxt "Dataset|"
 msgid "Second"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:107
+#: activities/solar_system/Dataset.js:119
 msgctxt "Dataset|"
 msgid "Venus is as heavy as:"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:108
+#: activities/solar_system/Dataset.js:120
 msgctxt "Dataset|"
 msgid "0.7 Earths"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:108
+#: activities/solar_system/Dataset.js:120
 msgctxt "Dataset|"
 msgid "0.8 Earths"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:108
+#: activities/solar_system/Dataset.js:120
 msgctxt "Dataset|"
 msgid "1.3 Earths"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:108
+#: activities/solar_system/Dataset.js:120
 msgctxt "Dataset|"
 msgid "2.5 Earths"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:112
+#: activities/solar_system/Dataset.js:125
 msgctxt "Dataset|"
 msgid "How large is Venus compared to other planets in our Solar System?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:113
-#: activities/solar_system/Dataset.js:177
-#: activities/solar_system/Dataset.js:240
-#: activities/solar_system/Dataset.js:279
+#: activities/solar_system/Dataset.js:126
+#: activities/solar_system/Dataset.js:201
+#: activities/solar_system/Dataset.js:273
+#: activities/solar_system/Dataset.js:318
 msgctxt "Dataset|"
 msgid "Fifth largest"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:113
-#: activities/solar_system/Dataset.js:177
-#: activities/solar_system/Dataset.js:377
+#: activities/solar_system/Dataset.js:126
+#: activities/solar_system/Dataset.js:201
+#: activities/solar_system/Dataset.js:432
 msgctxt "Dataset|"
 msgid "Fourth largest"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:117
+#: activities/solar_system/Dataset.js:131
 msgctxt "Dataset|"
 msgid "How long is a year on Venus?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:118
+#: activities/solar_system/Dataset.js:132
 msgctxt "Dataset|"
 msgid "225 days"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:118
+#: activities/solar_system/Dataset.js:132
 msgctxt "Dataset|"
 msgid "116 days"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:118
+#: activities/solar_system/Dataset.js:132
 msgctxt "Dataset|"
 msgid "100 days"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:122
+#: activities/solar_system/Dataset.js:137
 msgctxt "Dataset|"
 msgid "How long is one rotation on Venus?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:123
+#: activities/solar_system/Dataset.js:138
 msgctxt "Dataset|"
 msgid "117 Earth days"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:123
+#: activities/solar_system/Dataset.js:138
 msgctxt "Dataset|"
 msgid "88 Earth days"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:127
+#: activities/solar_system/Dataset.js:143
 msgctxt "Dataset|"
 msgid "The maximum temperature on Venus is:"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:128
-#: activities/solar_system/Dataset.js:172
-#: activities/solar_system/Dataset.js:196
-#: activities/solar_system/Dataset.js:245
-#: activities/solar_system/Dataset.js:294
-#: activities/solar_system/Dataset.js:338
-#: activities/solar_system/Dataset.js:372
+#: activities/solar_system/Dataset.js:144
+#: activities/solar_system/Dataset.js:195
+#: activities/solar_system/Dataset.js:222
+#: activities/solar_system/Dataset.js:279
+#: activities/solar_system/Dataset.js:336
+#: activities/solar_system/Dataset.js:387
+#: activities/solar_system/Dataset.js:426
 msgctxt "Dataset|"
 msgid "100 °C"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:128
-#: activities/solar_system/Dataset.js:196
+#: activities/solar_system/Dataset.js:144
+#: activities/solar_system/Dataset.js:222
 msgctxt "Dataset|"
 msgid "20 °C"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:128
+#: activities/solar_system/Dataset.js:144
 msgctxt "Dataset|"
 msgid "467 °C"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:128
-#: activities/solar_system/Dataset.js:172
+#: activities/solar_system/Dataset.js:144
+#: activities/solar_system/Dataset.js:195
 msgctxt "Dataset|"
 msgid "45 °C"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:132
+#: activities/solar_system/Dataset.js:149
 msgctxt "Dataset|"
 msgid "How many moons has Venus?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:140
+#: activities/solar_system/Dataset.js:158
 msgctxt "Dataset|"
 msgid "Earth"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:142
-#: activities/solar_system/Dataset.js:230
+#: activities/solar_system/Dataset.js:160
+#: activities/solar_system/Dataset.js:262
 msgctxt "Dataset|"
 msgid "The maximum temperature on Mars is 20 °C."
 msgstr ""
 
-#: activities/solar_system/Dataset.js:146
+#: activities/solar_system/Dataset.js:164
 msgctxt "Dataset|"
 msgid "At which position is Earth in the Solar System?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:147
+#: activities/solar_system/Dataset.js:165
 msgctxt "Dataset|"
 msgid "Third"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:147
-#: activities/solar_system/Dataset.js:191
-#: activities/solar_system/Dataset.js:235
-#: activities/solar_system/Dataset.js:274
-#: activities/solar_system/Dataset.js:313
-#: activities/solar_system/Dataset.js:352
+#: activities/solar_system/Dataset.js:165
+#: activities/solar_system/Dataset.js:216
+#: activities/solar_system/Dataset.js:267
+#: activities/solar_system/Dataset.js:312
+#: activities/solar_system/Dataset.js:357
+#: activities/solar_system/Dataset.js:402
 msgctxt "Dataset|"
 msgid "Fifth"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:151
+#: activities/solar_system/Dataset.js:170
 msgctxt "Dataset|"
 msgid "How long does it take for Earth to make one revolution around the Sun?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:152
+#: activities/solar_system/Dataset.js:171
 msgctxt "Dataset|"
 msgid "200 days"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:152
-#: activities/solar_system/Dataset.js:216
+#: activities/solar_system/Dataset.js:171
+#: activities/solar_system/Dataset.js:246
 msgctxt "Dataset|"
 msgid "30 days"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:152
-#: activities/solar_system/Dataset.js:216
+#: activities/solar_system/Dataset.js:171
+#: activities/solar_system/Dataset.js:246
 msgctxt "Dataset|"
 msgid "7 days"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:156
+#: activities/solar_system/Dataset.js:176
 msgctxt "Dataset|"
 msgid "How many moons has Earth?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:161
+#: activities/solar_system/Dataset.js:182
 msgctxt "Dataset|"
 msgid "How long is one rotation on Earth?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:162
-#: activities/solar_system/Dataset.js:211
-#: activities/solar_system/Dataset.js:255
-#: activities/solar_system/Dataset.js:289
+#: activities/solar_system/Dataset.js:183
+#: activities/solar_system/Dataset.js:240
+#: activities/solar_system/Dataset.js:291
+#: activities/solar_system/Dataset.js:330
 msgctxt "Dataset|"
 msgid "12 hours"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:162
-#: activities/solar_system/Dataset.js:211
-#: activities/solar_system/Dataset.js:255
-#: activities/solar_system/Dataset.js:289
+#: activities/solar_system/Dataset.js:183
+#: activities/solar_system/Dataset.js:240
+#: activities/solar_system/Dataset.js:291
+#: activities/solar_system/Dataset.js:330
 msgctxt "Dataset|"
 msgid "24 hours"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:162
+#: activities/solar_system/Dataset.js:183
 msgctxt "Dataset|"
 msgid "365 hours"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:162
-#: activities/solar_system/Dataset.js:211
-#: activities/solar_system/Dataset.js:255
-#: activities/solar_system/Dataset.js:289
-#: activities/solar_system/Dataset.js:328
-#: activities/solar_system/Dataset.js:367
+#: activities/solar_system/Dataset.js:183
+#: activities/solar_system/Dataset.js:240
+#: activities/solar_system/Dataset.js:291
+#: activities/solar_system/Dataset.js:330
+#: activities/solar_system/Dataset.js:375
+#: activities/solar_system/Dataset.js:420
 msgctxt "Dataset|"
 msgid "48 hours"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:166
+#: activities/solar_system/Dataset.js:188
 msgctxt "Dataset|"
 msgid "How many seasons has Earth?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:171
+#: activities/solar_system/Dataset.js:194
 msgctxt "Dataset|"
 msgid "Maximum temperature on Earth is:"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:172
+#: activities/solar_system/Dataset.js:195
 msgctxt "Dataset|"
 msgid "58 °C"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:172
-#: activities/solar_system/Dataset.js:372
+#: activities/solar_system/Dataset.js:195
+#: activities/solar_system/Dataset.js:426
 msgctxt "Dataset|"
 msgid "30 °C"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:176
+#: activities/solar_system/Dataset.js:200
 msgctxt "Dataset|"
 msgid "How large is Earth compared to other planets in our Solar System?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:184
+#: activities/solar_system/Dataset.js:209
 msgctxt "Dataset|"
 msgid "Mars"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:190
+#: activities/solar_system/Dataset.js:215
 msgctxt "Dataset|"
 msgid "At which position is Mars in the Solar System?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:195
+#: activities/solar_system/Dataset.js:221
 msgctxt "Dataset|"
 msgid "The maximum temperature on Mars is:"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:196
+#: activities/solar_system/Dataset.js:222
 msgctxt "Dataset|"
 msgid "60 °C"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:200
+#: activities/solar_system/Dataset.js:227
 msgctxt "Dataset|"
 msgid "How big is the size of Mars compared to Earth?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:201
+#: activities/solar_system/Dataset.js:228
 msgctxt "Dataset|"
 msgid "The same"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:201
+#: activities/solar_system/Dataset.js:228
 msgctxt "Dataset|"
 msgid "Half"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:201
+#: activities/solar_system/Dataset.js:228
 msgctxt "Dataset|"
 msgid "Two times"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:201
+#: activities/solar_system/Dataset.js:228
 msgctxt "Dataset|"
 msgid "Three times"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:205
+#: activities/solar_system/Dataset.js:233
 msgctxt "Dataset|"
 msgid "How many moons has Mars?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:210
+#: activities/solar_system/Dataset.js:239
 msgctxt "Dataset|"
 msgid "How long is one rotation on Mars?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:211
+#: activities/solar_system/Dataset.js:240
 msgctxt "Dataset|"
 msgid "24.5 hours"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:215
+#: activities/solar_system/Dataset.js:245
 msgctxt "Dataset|"
 msgid "How long does it take for Mars to make one revolution around the Sun?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:216
+#: activities/solar_system/Dataset.js:246
 msgctxt "Dataset|"
 msgid "687 days"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:220
+#: activities/solar_system/Dataset.js:251
 msgctxt "Dataset|"
 msgid "How small is Mars compared to other planets in our Solar System?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:228
+#: activities/solar_system/Dataset.js:260
 msgctxt "Dataset|"
 msgid "Jupiter"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:231
-#: activities/solar_system/Dataset.js:309
+#: activities/solar_system/Dataset.js:263
+#: activities/solar_system/Dataset.js:353
 msgctxt "Dataset|"
 msgid "The length of a year on Saturn is 29.5 Earth years."
 msgstr ""
 
-#: activities/solar_system/Dataset.js:234
+#: activities/solar_system/Dataset.js:266
 msgctxt "Dataset|"
 msgid "At which position is Jupiter in the Solar System?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:239
+#: activities/solar_system/Dataset.js:272
 msgctxt "Dataset|"
 msgid "How large is Jupiter compared to other planets in the Solar System?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:240
-#: activities/solar_system/Dataset.js:279
-#: activities/solar_system/Dataset.js:333
-#: activities/solar_system/Dataset.js:377
+#: activities/solar_system/Dataset.js:273
+#: activities/solar_system/Dataset.js:318
+#: activities/solar_system/Dataset.js:381
+#: activities/solar_system/Dataset.js:432
 msgctxt "Dataset|"
 msgid "Second largest"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:244
+#: activities/solar_system/Dataset.js:278
 msgctxt "Dataset|"
 msgid "The minimum temperature on Jupiter is:"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:245
+#: activities/solar_system/Dataset.js:279
 msgctxt "Dataset|"
 msgid "-145 °C"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:245
+#: activities/solar_system/Dataset.js:279
 msgctxt "Dataset|"
 msgid "-180 °C"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:249
+#: activities/solar_system/Dataset.js:284
 msgctxt "Dataset|"
 msgid "How many moons has Jupiter?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:254
+#: activities/solar_system/Dataset.js:290
 msgctxt "Dataset|"
 msgid "How long is one rotation on Jupiter?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:255
-#: activities/solar_system/Dataset.js:328
+#: activities/solar_system/Dataset.js:291
+#: activities/solar_system/Dataset.js:375
 msgctxt "Dataset|"
 msgid "10 hours"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:259
+#: activities/solar_system/Dataset.js:296
 msgctxt "Dataset|"
 msgid ""
 "How long does it take for Jupiter to make one revolution around the Sun?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:260
+#: activities/solar_system/Dataset.js:297
 msgctxt "Dataset|"
 msgid "5 Earth years"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:260
+#: activities/solar_system/Dataset.js:297
 msgctxt "Dataset|"
 msgid "12 Earth years"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:260
+#: activities/solar_system/Dataset.js:297
 msgctxt "Dataset|"
 msgid "30 Earth years"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:260
-#: activities/solar_system/Dataset.js:299
+#: activities/solar_system/Dataset.js:297
+#: activities/solar_system/Dataset.js:342
 msgctxt "Dataset|"
 msgid "1 Earth year"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:267
+#: activities/solar_system/Dataset.js:305
 msgctxt "Dataset|"
 msgid "Saturn"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:269
+#: activities/solar_system/Dataset.js:307
 msgctxt "Dataset|"
 msgid "The minimum temperature on Jupiter is -145 °C."
 msgstr ""
 
-#: activities/solar_system/Dataset.js:270
+#: activities/solar_system/Dataset.js:308
 msgctxt "Dataset|"
 msgid "The length of a year on Jupiter is 12 Earth years."
 msgstr ""
 
-#: activities/solar_system/Dataset.js:273
+#: activities/solar_system/Dataset.js:311
 msgctxt "Dataset|"
 msgid "At which position is Saturn in the Solar System?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:278
+#: activities/solar_system/Dataset.js:317
 msgctxt "Dataset|"
 msgid "How large is Saturn compared to other planets in the Solar System?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:283
+#: activities/solar_system/Dataset.js:323
 msgctxt "Dataset|"
 msgid "How many moons has Saturn?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:288
+#: activities/solar_system/Dataset.js:329
 msgctxt "Dataset|"
 msgid "How long is one rotation on Saturn?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:289
+#: activities/solar_system/Dataset.js:330
 msgctxt "Dataset|"
 msgid "10.5 hours"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:293
+#: activities/solar_system/Dataset.js:335
 msgctxt "Dataset|"
 msgid "The minimum temperature on Saturn is:"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:294
-#: activities/solar_system/Dataset.js:338
+#: activities/solar_system/Dataset.js:336
+#: activities/solar_system/Dataset.js:387
 msgctxt "Dataset|"
 msgid "0 °C"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:294
+#: activities/solar_system/Dataset.js:336
 msgctxt "Dataset|"
 msgid "-178 °C"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:294
-#: activities/solar_system/Dataset.js:338
-#: activities/solar_system/Dataset.js:372
+#: activities/solar_system/Dataset.js:336
+#: activities/solar_system/Dataset.js:387
+#: activities/solar_system/Dataset.js:426
 msgctxt "Dataset|"
 msgid "-100 °C"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:298
+#: activities/solar_system/Dataset.js:341
 msgctxt "Dataset|"
 msgid "How long does it take for Saturn to make one revolution around the Sun?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:299
+#: activities/solar_system/Dataset.js:342
 msgctxt "Dataset|"
 msgid "29.5 Earth years"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:299
+#: activities/solar_system/Dataset.js:342
 msgctxt "Dataset|"
 msgid "20 Earth years"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:299
+#: activities/solar_system/Dataset.js:342
 msgctxt "Dataset|"
 msgid "10 Earth years"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:306
+#: activities/solar_system/Dataset.js:350
 msgctxt "Dataset|"
 msgid "Uranus"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:308
+#: activities/solar_system/Dataset.js:352
 msgctxt "Dataset|"
 msgid "The temperature on Saturn is -178 °C."
 msgstr ""
 
-#: activities/solar_system/Dataset.js:312
+#: activities/solar_system/Dataset.js:356
 msgctxt "Dataset|"
 msgid "At which position is Uranus in the Solar System?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:313
-#: activities/solar_system/Dataset.js:352
+#: activities/solar_system/Dataset.js:357
+#: activities/solar_system/Dataset.js:402
 #, fuzzy
 #| msgctxt "dataset|"
 #| msgid "eight"
@@ -15352,136 +16549,136 @@ msgctxt "Dataset|"
 msgid "Eighth"
 msgstr "a h-ochd"
 
-#: activities/solar_system/Dataset.js:317
+#: activities/solar_system/Dataset.js:362
 msgctxt "Dataset|"
 msgid "How many years does it take for Uranus to go once around the Sun?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:318
-#: activities/solar_system/Dataset.js:357
+#: activities/solar_system/Dataset.js:363
+#: activities/solar_system/Dataset.js:408
 msgctxt "Dataset|"
 msgid "1 year"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:318
+#: activities/solar_system/Dataset.js:363
 msgctxt "Dataset|"
 msgid "24 years"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:318
+#: activities/solar_system/Dataset.js:363
 msgctxt "Dataset|"
 msgid "68 years"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:318
+#: activities/solar_system/Dataset.js:363
 msgctxt "Dataset|"
 msgid "84 years"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:322
+#: activities/solar_system/Dataset.js:368
 msgctxt "Dataset|"
 msgid "How many moons has Uranus?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:327
+#: activities/solar_system/Dataset.js:374
 msgctxt "Dataset|"
 msgid "How long is one rotation on Uranus?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:328
-#: activities/solar_system/Dataset.js:367
+#: activities/solar_system/Dataset.js:375
+#: activities/solar_system/Dataset.js:420
 msgctxt "Dataset|"
 msgid "27 hours"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:328
-#: activities/solar_system/Dataset.js:367
+#: activities/solar_system/Dataset.js:375
+#: activities/solar_system/Dataset.js:420
 msgctxt "Dataset|"
 msgid "17 hours"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:332
+#: activities/solar_system/Dataset.js:380
 msgctxt "Dataset|"
 msgid "How large is Uranus compared to other planets in the Solar System?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:337
+#: activities/solar_system/Dataset.js:386
 msgctxt "Dataset|"
 msgid "The maximum temperature on Uranus is:"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:338
+#: activities/solar_system/Dataset.js:387
 msgctxt "Dataset|"
 msgid "-216 °C"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:345
+#: activities/solar_system/Dataset.js:395
 msgctxt "Dataset|"
 msgid "Neptune"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:347
+#: activities/solar_system/Dataset.js:397
 msgctxt "Dataset|"
 msgid "The maximum temperature on Saturn is -178 °C."
 msgstr ""
 
-#: activities/solar_system/Dataset.js:348
+#: activities/solar_system/Dataset.js:398
 msgctxt "Dataset|"
 msgid "The length of a year on Uranus is 84 years."
 msgstr ""
 
-#: activities/solar_system/Dataset.js:351
+#: activities/solar_system/Dataset.js:401
 msgctxt "Dataset|"
 msgid "At which position is Neptune in the Solar System?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:356
+#: activities/solar_system/Dataset.js:407
 msgctxt "Dataset|"
 msgid ""
 "How long does it take for Neptune to make one revolution around the Sun?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:357
+#: activities/solar_system/Dataset.js:408
 msgctxt "Dataset|"
 msgid "165 years"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:357
+#: activities/solar_system/Dataset.js:408
 msgctxt "Dataset|"
 msgid "3 years"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:357
+#: activities/solar_system/Dataset.js:408
 msgctxt "Dataset|"
 msgid "100 years"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:361
+#: activities/solar_system/Dataset.js:413
 msgctxt "Dataset|"
 msgid "How many moons has Neptune?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:366
+#: activities/solar_system/Dataset.js:419
 msgctxt "Dataset|"
 msgid "How long is one rotation on Neptune?"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:367
+#: activities/solar_system/Dataset.js:420
 msgctxt "Dataset|"
 msgid "16 hours"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:371
+#: activities/solar_system/Dataset.js:425
 msgctxt "Dataset|"
 msgid "The average temperature on Neptune is:"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:372
+#: activities/solar_system/Dataset.js:426
 msgctxt "Dataset|"
 msgid "-210 °C"
 msgstr ""
 
-#: activities/solar_system/Dataset.js:376
+#: activities/solar_system/Dataset.js:431
 msgctxt "Dataset|"
 msgid "How large is Neptune compared to other planets in the Solar System?"
 msgstr ""
@@ -15519,7 +16716,7 @@ msgid ""
 "questions."
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:103
+#: activities/solar_system/SolarSystem.qml:105
 #, qt-format
 msgctxt "SolarSystem|"
 msgid ""
@@ -15530,24 +16727,24 @@ msgid ""
 "about the Solar System."
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:103
+#: activities/solar_system/SolarSystem.qml:105
 msgctxt "SolarSystem|"
 msgid "Assessment"
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:103
+#: activities/solar_system/SolarSystem.qml:105
 msgctxt "SolarSystem|"
 msgid "Normal"
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:107
+#: activities/solar_system/SolarSystem.qml:109
 msgctxt "SolarSystem|"
 msgid ""
 "Click on the Sun or any planet to reveal questions. Each question will have "
 "4 options, out of which one is correct."
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:108
+#: activities/solar_system/SolarSystem.qml:110
 msgctxt "SolarSystem|"
 msgid ""
 "After a planet is clicked, the Closeness meter at the bottom-right corner of "
@@ -15557,14 +16754,14 @@ msgid ""
 "correct answer."
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:113
+#: activities/solar_system/SolarSystem.qml:115
 msgctxt "SolarSystem|"
 msgid ""
 "There are 20 questions initially with 4 options each. The progress bar at "
 "the bottom right of the screen shows your percentage score."
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:114
+#: activities/solar_system/SolarSystem.qml:116
 msgctxt "SolarSystem|"
 msgid ""
 "If your answer is correct, your score will increase.<br>If your answer is "
@@ -15573,14 +16770,14 @@ msgid ""
 "be asked after which no more question will be added."
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:115
+#: activities/solar_system/SolarSystem.qml:117
 msgctxt "SolarSystem|"
 msgid ""
 "You should score above 90% to pass the assessment and become a Solar System "
 "expert!"
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:287
+#: activities/solar_system/SolarSystem.qml:289
 #, qt-format
 msgctxt "SolarSystem|"
 msgid ""
@@ -15588,7 +16785,7 @@ msgid ""
 "temperature.<br><font color=\"#3bb0de\">%1</font>"
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:288
+#: activities/solar_system/SolarSystem.qml:290
 #, qt-format
 msgctxt "SolarSystem|"
 msgid ""
@@ -15596,17 +16793,28 @@ msgid ""
 "Sun</b>.<br><font color=\"#3bb0de\">%1</font>"
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:290
+#. find an equivalent rhyme in your language where the first letter of each word corresponds to the first letter of the planet in proper sequence
+#: activities/solar_system/SolarSystem.qml:293
+#, qt-format
+msgctxt "SolarSystem|"
+msgid ""
+"3. Always remember this rhyme to learn the position of planets, examine the "
+"first letter in each word - <b>M</b>y <b>V</b>ery <b>E</b>xcellent <b>M</"
+"b>other <b>J</b>ust <b>S</b>erved <b>U</b>s <b>N</b>oodles.<br><font color="
+"\"#3bb0de\">%1</font>"
+msgstr ""
+
+#: activities/solar_system/SolarSystem.qml:295
 msgctxt "SolarSystem|"
 msgid "Hint"
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:297
+#: activities/solar_system/SolarSystem.qml:302
 msgctxt "SolarSystem|"
 msgid "View solar system"
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:316
+#: activities/solar_system/SolarSystem.qml:321
 msgctxt "SolarSystem|"
 msgid "Assessment mode"
 msgstr ""
@@ -15879,32 +17087,14 @@ msgid ""
 "or tapping."
 msgstr ""
 
-#: activities/superbrain/Superbrain.qml:145
+#: activities/superbrain/Superbrain.qml:146
 msgctxt "Superbrain|"
 msgid "This item is well placed"
 msgstr ""
 
-#: activities/superbrain/Superbrain.qml:147
+#: activities/superbrain/Superbrain.qml:148
 msgctxt "Superbrain|"
 msgid "This item is misplaced"
-msgstr ""
-
-#: activities/superbrain/Superbrain.qml:631
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Colors"
-msgctxt "Superbrain|"
-msgid "Colors"
-msgstr "Dathan"
-
-#: activities/superbrain/Superbrain.qml:632
-msgctxt "Superbrain|"
-msgid "Shapes"
-msgstr ""
-
-#: activities/superbrain/Superbrain.qml:643
-msgctxt "Superbrain|"
-msgid "Select your mode"
 msgstr ""
 
 #. Activity title
@@ -15998,6 +17188,46 @@ msgstr ""
 "sgòr a-steach leis a’ mheur-chlàr is an uair sin brùth air an iuchair "
 "“Enter” no briog air a’ phutan “OK”."
 
+#: activities/target/resource/1/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Practice addition with a target game"
+msgctxt "Data|"
+msgid "Practice addition on targets with max value 10"
+msgstr "Cleachdaich cur ris le geama targaide"
+
+#: activities/target/resource/2/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Practice addition with a target game"
+msgctxt "Data|"
+msgid "Practice addition on targets with max value 50"
+msgstr "Cleachdaich cur ris le geama targaide"
+
+#: activities/target/resource/3/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Practice addition with a target game"
+msgctxt "Data|"
+msgid "Practice addition on targets with max value 500"
+msgstr "Cleachdaich cur ris le geama targaide"
+
+#: activities/target/resource/4/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Practice addition with a target game"
+msgctxt "Data|"
+msgid "Practice addition on targets with max value 50000"
+msgstr "Cleachdaich cur ris le geama targaide"
+
+#: activities/target/resource/5/Data.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Practice addition with a target game"
+msgctxt "Data|"
+msgid "Practice addition on targets with max value 500000"
+msgstr "Cleachdaich cur ris le geama targaide"
+
 #. Activity title
 #: activities/tic_tac_toe/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
@@ -16082,24 +17312,6 @@ msgstr ""
 "Chan urrainn do gach càr gluasad ach gu h-inghearach no gu còmhnard. "
 "Feumaidh tu rum a chruthachadh ach an urrainn dhan chàr dhearg a ghluasad "
 "tron gheata taobh deas."
-
-#: activities/traffic/Traffic.qml:117
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Colors"
-msgctxt "Traffic|"
-msgid "Colors"
-msgstr "Dathan"
-
-#: activities/traffic/Traffic.qml:118
-msgctxt "Traffic|"
-msgid "Images"
-msgstr ""
-
-#: activities/traffic/Traffic.qml:129
-msgctxt "Traffic|"
-msgid "Select your mode"
-msgstr ""
 
 #. Activity title
 #: activities/watercycle/ActivityInfo.qml:27
@@ -16592,12 +17804,46 @@ msgctxt "DialogActivityConfig|"
 msgid "Configuration"
 msgstr ""
 
-#: core/DialogHelp.qml:61
+#: core/DialogChooseLevel.qml:56
+#, qt-format
+msgctxt "DialogChooseLevel|"
+msgid "%1 settings"
+msgstr ""
+
+#: core/DialogChooseLevel.qml:175
+msgctxt "DialogChooseLevel|"
+msgid "Dataset"
+msgstr ""
+
+#: core/DialogChooseLevel.qml:191
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Addition"
+msgctxt "DialogChooseLevel|"
+msgid "Options"
+msgstr "Cur ris"
+
+#: core/DialogChooseLevel.qml:320
+msgctxt "DialogChooseLevel|"
+msgid "Cancel"
+msgstr ""
+
+#: core/DialogChooseLevel.qml:331
+msgctxt "DialogChooseLevel|"
+msgid "Save"
+msgstr ""
+
+#: core/DialogChooseLevel.qml:348
+msgctxt "DialogChooseLevel|"
+msgid "Save and start"
+msgstr ""
+
+#: core/DialogHelp.qml:59
 msgctxt "DialogHelp|"
 msgid "Author:"
 msgstr ""
 
-#: core/DialogHelp.qml:65
+#: core/DialogHelp.qml:63
 #, fuzzy
 #| msgctxt "DialogHelp|"
 #| msgid "Prerequisite"
@@ -16605,7 +17851,7 @@ msgctxt "DialogHelp|"
 msgid "Prerequisite:"
 msgstr "Ro-ghoireasan riatanach"
 
-#: core/DialogHelp.qml:70
+#: core/DialogHelp.qml:68
 #, fuzzy
 #| msgctxt "DialogHelp|"
 #| msgid "Goal"
@@ -16613,7 +17859,7 @@ msgctxt "DialogHelp|"
 msgid "Goal:"
 msgstr "Amas"
 
-#: core/DialogHelp.qml:75
+#: core/DialogHelp.qml:73
 #, fuzzy
 #| msgctxt "DialogHelp|"
 #| msgid "Manual"
@@ -16621,7 +17867,7 @@ msgctxt "DialogHelp|"
 msgid "Manual:"
 msgstr "Stiùireadh"
 
-#: core/DialogHelp.qml:79
+#: core/DialogHelp.qml:77
 #, fuzzy
 #| msgctxt "DialogHelp|"
 #| msgid "Credit"
@@ -16629,7 +17875,7 @@ msgctxt "DialogHelp|"
 msgid "Credit:"
 msgstr "Cliù"
 
-#: core/DialogHelp.qml:83
+#: core/DialogHelp.qml:81
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Addition"
@@ -16820,10 +18066,18 @@ msgctxt "IntroMessage|"
 msgid "Start"
 msgstr ""
 
-#: core/LanguageList.qml:43
+#: core/LanguageList.qml:45
 msgctxt "LanguageList|"
 msgid "Your system default"
 msgstr ""
+
+#: core/LanguageList.qml:45
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "GCompris Main Menu"
+msgctxt "LanguageList|"
+msgid "GCompris' language"
+msgstr "Prìomh chlàr-taice GCompris"
 
 #: core/main.cpp:147
 msgctxt "QObject|"
@@ -16975,6 +18229,33 @@ msgstr ""
 msgctxt "Tutorial|"
 msgid "Start"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "ActivityInfo|"
+#~| msgid "Colors"
+#~ msgctxt "GraphColoring|"
+#~ msgid "Colors"
+#~ msgstr "Dathan"
+
+#~ msgctxt "ScalesboardWeight|"
+#~ msgid "Take care, you can drop weights on both sides of the scale."
+#~ msgstr ""
+#~ "Thoir an aire gur urrainn dhut cuideaman a chur air an dà thaobh na "
+#~ "meidhe."
+
+#, fuzzy
+#~| msgctxt "ActivityInfo|"
+#~| msgid "Colors"
+#~ msgctxt "Superbrain|"
+#~ msgid "Colors"
+#~ msgstr "Dathan"
+
+#, fuzzy
+#~| msgctxt "ActivityInfo|"
+#~| msgid "Colors"
+#~ msgctxt "Traffic|"
+#~ msgid "Colors"
+#~ msgstr "Dathan"
 
 #~ msgctxt "ActivityInfo|"
 #~ msgid "Practice subtraction with a fun game"
