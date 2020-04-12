@@ -5403,7 +5403,9 @@ msgstr ""
 #. Help goal
 #: activities/explore_monuments/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
-msgid "To learn about different monuments on the basis of their location."
+msgid ""
+"Learn about various monuments from around the world and remember their "
+"location."
 msgstr ""
 
 #. Help prerequisite
@@ -6417,7 +6419,7 @@ msgstr ""
 
 #: activities/explore_world_animals/resource/board/board1.qml:87
 msgctxt "board1|"
-msgid "Explore exotic animals from around the world."
+msgid "Explore wild animals from around the world."
 msgstr ""
 
 #: activities/explore_world_animals/resource/board/board1.qml:90
@@ -6496,7 +6498,7 @@ msgstr ""
 
 #: activities/explore_world_animals/resource/board/board2.qml:87
 msgctxt "board2|"
-msgid "Explore exotic animals from around the world."
+msgid "Explore wild animals from around the world."
 msgstr ""
 
 #: activities/explore_world_animals/resource/board/board2.qml:90
@@ -6574,7 +6576,7 @@ msgstr ""
 
 #: activities/explore_world_animals/resource/board/board3.qml:87
 msgctxt "board3|"
-msgid "Explore exotic animals from around the world."
+msgid "Explore wild animals from around the world."
 msgstr ""
 
 #: activities/explore_world_animals/resource/board/board3.qml:90
@@ -6604,7 +6606,7 @@ msgstr "Ionnsaich mu iomadan is factaran."
 #: activities/explore_world_music/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
 msgid ""
-"Develop a better understanding of the variety of music present in the world"
+"Develop a better understanding of the variety of music present in the world."
 msgstr ""
 
 #. Help manual

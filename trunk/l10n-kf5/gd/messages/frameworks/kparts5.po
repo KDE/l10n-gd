@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-03-22 02:58+0100\n"
+"POT-Creation-Date: 2020-04-12 03:00+0200\n"
 "PO-Revision-Date: 2015-11-04 15:15+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -104,17 +104,17 @@ msgctxt "@info:whatsthis"
 msgid "This is the file name suggested by the server"
 msgstr "Seo an t-ainm fhaidhle a mhol am frithealaiche"
 
-#: browserrun.cpp:345
+#: browserrun.cpp:346
 #, kde-format
 msgid "Do you really want to execute '%1'?"
 msgstr "A bheil thu cinnteach gu bheil thu airson \"%1\" a ruith?"
 
-#: browserrun.cpp:346
+#: browserrun.cpp:347
 #, kde-format
 msgid "Execute File?"
 msgstr "A bheil thu airson an còd san fhaidhle a ruith?"
 
-#: browserrun.cpp:346
+#: browserrun.cpp:347
 #, kde-format
 msgid "Execute"
 msgstr "Ruith"
