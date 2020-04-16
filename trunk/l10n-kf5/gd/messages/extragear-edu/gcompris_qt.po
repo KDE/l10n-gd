@@ -5190,83 +5190,83 @@ msgid ""
 "win!\n"
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:31
+#: activities/explore_farm_animals/resource/board/board1.qml:32
 msgctxt "board1|"
 msgid "Horse"
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:32
+#: activities/explore_farm_animals/resource/board/board1.qml:33
 msgctxt "board1|"
 msgid "The horse goes 'neigh! neigh!'. Horses usually sleep standing up."
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:35
+#: activities/explore_farm_animals/resource/board/board1.qml:36
 msgctxt "board1|"
 msgid "You can ride on the back of this animal!"
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:43
+#: activities/explore_farm_animals/resource/board/board1.qml:44
 msgctxt "board1|"
 msgid "Chicken"
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:44
+#: activities/explore_farm_animals/resource/board/board1.qml:45
 msgctxt "board1|"
 msgid ""
 "The chicken goes 'luck, cackle, cluck'. Chickens have over 200 different "
 "noises they can use to communicate."
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:47
+#: activities/explore_farm_animals/resource/board/board1.qml:48
 msgctxt "board1|"
 msgid "This animal lays eggs."
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:55
+#: activities/explore_farm_animals/resource/board/board1.qml:56
 msgctxt "board1|"
 msgid "Cow"
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:56
+#: activities/explore_farm_animals/resource/board/board1.qml:57
 msgctxt "board1|"
 msgid ""
 "The cow goes 'moo! moo!'. Cows are herbivorous mammals. They graze all day "
 "in the meadow."
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:59
+#: activities/explore_farm_animals/resource/board/board1.qml:60
 msgctxt "board1|"
 msgid "You can drink the milk this animal produces."
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:67
+#: activities/explore_farm_animals/resource/board/board1.qml:68
 msgctxt "board1|"
 msgid "Cat"
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:68
+#: activities/explore_farm_animals/resource/board/board1.qml:69
 msgctxt "board1|"
 msgid ""
 "The cat goes 'meow, meow'. Cats usually hate water because their fur doesn't "
 "stay warm when it is wet."
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:71
+#: activities/explore_farm_animals/resource/board/board1.qml:72
 msgctxt "board1|"
 msgid "This pet likes chasing mice."
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:79
+#: activities/explore_farm_animals/resource/board/board1.qml:80
 msgctxt "board1|"
 msgid "Pig"
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:80
+#: activities/explore_farm_animals/resource/board/board1.qml:81
 msgctxt "board1|"
 msgid "The pig goes 'oink, oink'. Pigs are the 4th most intelligent animal."
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:83
+#: activities/explore_farm_animals/resource/board/board1.qml:84
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "The aim is to switch off all the lights."
@@ -5274,35 +5274,35 @@ msgctxt "board1|"
 msgid "This animal likes to lie in the mud."
 msgstr "Is an t-amas gach solas a chur dheth."
 
-#: activities/explore_farm_animals/resource/board/board1.qml:91
+#: activities/explore_farm_animals/resource/board/board1.qml:92
 msgctxt "board1|"
 msgid "Duck"
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:92
+#: activities/explore_farm_animals/resource/board/board1.qml:93
 msgctxt "board1|"
 msgid ""
 "The duck goes 'quack, quack'. Ducks have special features like webbed feet "
 "and produce an oil to make their feathers 'waterproof'."
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:95
+#: activities/explore_farm_animals/resource/board/board1.qml:96
 msgctxt "board1|"
 msgid "This animal has webbed feet so it can swim in the water."
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:103
+#: activities/explore_farm_animals/resource/board/board1.qml:104
 msgctxt "board1|"
 msgid "Owl"
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:104
+#: activities/explore_farm_animals/resource/board/board1.qml:105
 msgctxt "board1|"
 msgid ""
 "The owl goes 'hoo. hoo.' The owl has excellent vision and hearing at night."
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:107
+#: activities/explore_farm_animals/resource/board/board1.qml:108
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "The aim is to switch off all the lights."
@@ -5310,36 +5310,36 @@ msgctxt "board1|"
 msgid "This animal likes to come out at night."
 msgstr "Is an t-amas gach solas a chur dheth."
 
-#: activities/explore_farm_animals/resource/board/board1.qml:115
+#: activities/explore_farm_animals/resource/board/board1.qml:116
 msgctxt "board1|"
 msgid "Dog"
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:116
+#: activities/explore_farm_animals/resource/board/board1.qml:117
 msgctxt "board1|"
 msgid ""
 "The dog goes 'bark! bark!'. Dogs are great human companions and usually "
 "enjoy love and attention."
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:119
+#: activities/explore_farm_animals/resource/board/board1.qml:120
 msgctxt "board1|"
 msgid "This animal's ancestors were wolves."
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:127
+#: activities/explore_farm_animals/resource/board/board1.qml:128
 msgctxt "board1|"
 msgid "Rooster"
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:128
+#: activities/explore_farm_animals/resource/board/board1.qml:129
 msgctxt "board1|"
 msgid ""
 "The rooster goes 'coc-a-doodle-doo!'. Roosters have been on farms for about "
 "5,000 years. Every morning it wakes the farm up with its noises."
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:131
+#: activities/explore_farm_animals/resource/board/board1.qml:132
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "The aim is to switch off all the lights."
@@ -5347,12 +5347,12 @@ msgctxt "board1|"
 msgid "This animal wakes the farm up in the morning."
 msgstr "Is an t-amas gach solas a chur dheth."
 
-#: activities/explore_farm_animals/resource/board/board1.qml:139
+#: activities/explore_farm_animals/resource/board/board1.qml:140
 msgctxt "board1|"
 msgid "Sheep"
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:140
+#: activities/explore_farm_animals/resource/board/board1.qml:141
 msgctxt "board1|"
 msgid ""
 "The sheep is a mammal that bears a fleece of wool. It is a grazing "
@@ -5361,7 +5361,7 @@ msgid ""
 "things."
 msgstr ""
 
-#: activities/explore_farm_animals/resource/board/board1.qml:143
+#: activities/explore_farm_animals/resource/board/board1.qml:144
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "The aim is to switch off all the lights."
@@ -5369,7 +5369,7 @@ msgctxt "board1|"
 msgid "This animal is a close relative to the goat."
 msgstr "Is an t-amas gach solas a chur dheth."
 
-#: activities/explore_farm_animals/resource/board/board1.qml:153
+#: activities/explore_farm_animals/resource/board/board1.qml:154
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Kick the ball into the goal"
@@ -5377,7 +5377,7 @@ msgctxt "board1|"
 msgid "Click on each farm animal to discover them."
 msgstr "Breab am bàla dhan tadhal"
 
-#: activities/explore_farm_animals/resource/board/board1.qml:156
+#: activities/explore_farm_animals/resource/board/board1.qml:157
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Kick the ball into the goal"
@@ -5385,7 +5385,7 @@ msgctxt "board1|"
 msgid "Click on the farm animal that makes the sound you hear."
 msgstr "Breab am bàla dhan tadhal"
 
-#: activities/explore_farm_animals/resource/board/board1.qml:159
+#: activities/explore_farm_animals/resource/board/board1.qml:160
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Kick the ball into the goal"
@@ -5423,8 +5423,8 @@ msgstr ""
 #: activities/explore_monuments/ActivityInfo.qml:35
 msgctxt "ActivityInfo|"
 msgid ""
-"Click on the given keys to learn more of the monuments and then identify "
-"where the monuments is on the map by its name."
+"Click on the spots to learn about the monuments and then locate them on the "
+"map."
 msgstr ""
 
 #: activities/explore_monuments/ActivityInfo.qml:36
@@ -5596,25 +5596,10 @@ msgstr ""
 #: activities/explore_monuments/resource/board/board2.qml:51
 #: activities/explore_monuments/resource/board/board2.qml:54
 msgctxt "board2|"
-msgid "Taj Mahal"
-msgstr ""
-
-#: activities/explore_monuments/resource/board/board2.qml:52
-msgctxt "board2|"
-msgid ""
-"The Taj Mahal is a white marble mausoleum located on the southern bank of "
-"the Yamuna River in the Indian city of Agra. It was commissioned in 1632 by "
-"the Mughal emperor Shah Jahan reigned to house the tomb of his favorite wife "
-"of three, Mumtaz Mahal."
-msgstr ""
-
-#: activities/explore_monuments/resource/board/board2.qml:62
-#: activities/explore_monuments/resource/board/board2.qml:65
-msgctxt "board2|"
 msgid "Gateway of India"
 msgstr ""
 
-#: activities/explore_monuments/resource/board/board2.qml:63
+#: activities/explore_monuments/resource/board/board2.qml:52
 msgctxt "board2|"
 msgid ""
 "The Gateway of India is one of India's most unique landmarks situated in the "
@@ -5625,13 +5610,13 @@ msgid ""
 "for visitors who arrive in India for the first time."
 msgstr ""
 
-#: activities/explore_monuments/resource/board/board2.qml:73
-#: activities/explore_monuments/resource/board/board2.qml:76
+#: activities/explore_monuments/resource/board/board2.qml:62
+#: activities/explore_monuments/resource/board/board2.qml:65
 msgctxt "board2|"
 msgid "Great Stupa"
 msgstr ""
 
-#: activities/explore_monuments/resource/board/board2.qml:74
+#: activities/explore_monuments/resource/board/board2.qml:63
 msgctxt "board2|"
 msgid ""
 "The Great Stupa at Sanchi is the oldest stone structure in India and was "
@@ -5641,13 +5626,13 @@ msgid ""
 "symbolizing high rank, which was intended to honor and shelter the relics."
 msgstr ""
 
-#: activities/explore_monuments/resource/board/board2.qml:84
-#: activities/explore_monuments/resource/board/board2.qml:87
+#: activities/explore_monuments/resource/board/board2.qml:73
+#: activities/explore_monuments/resource/board/board2.qml:76
 msgctxt "board2|"
 msgid "Ajanta Caves"
 msgstr ""
 
-#: activities/explore_monuments/resource/board/board2.qml:85
+#: activities/explore_monuments/resource/board/board2.qml:74
 msgctxt "board2|"
 msgid ""
 "The Ajanta Caves are about 29 rock-cut Buddhist cave monuments which date "
@@ -5659,13 +5644,13 @@ msgid ""
 "Heritage Site"
 msgstr ""
 
-#: activities/explore_monuments/resource/board/board2.qml:95
-#: activities/explore_monuments/resource/board/board2.qml:98
+#: activities/explore_monuments/resource/board/board2.qml:84
+#: activities/explore_monuments/resource/board/board2.qml:87
 msgctxt "board2|"
 msgid "Konark Sun Temple"
 msgstr ""
 
-#: activities/explore_monuments/resource/board/board2.qml:96
+#: activities/explore_monuments/resource/board/board2.qml:85
 msgctxt "board2|"
 msgid ""
 "The Konark Sun Temple (also spelled Konarak) is a 13th-century Hindu temple "
@@ -5673,13 +5658,13 @@ msgid ""
 "for the exquisite stone carvings that cover the entire structure."
 msgstr ""
 
-#: activities/explore_monuments/resource/board/board2.qml:106
-#: activities/explore_monuments/resource/board/board2.qml:109
+#: activities/explore_monuments/resource/board/board2.qml:95
+#: activities/explore_monuments/resource/board/board2.qml:98
 msgctxt "board2|"
 msgid "Mysore Palace"
 msgstr ""
 
-#: activities/explore_monuments/resource/board/board2.qml:107
+#: activities/explore_monuments/resource/board/board2.qml:96
 msgctxt "board2|"
 msgid ""
 "Mysore Palace or Mysore Maharaja Palace is one of the largest and most "
@@ -5688,13 +5673,13 @@ msgid ""
 "Wodeyar kings in the 14th century."
 msgstr ""
 
-#: activities/explore_monuments/resource/board/board2.qml:117
-#: activities/explore_monuments/resource/board/board2.qml:120
+#: activities/explore_monuments/resource/board/board2.qml:106
+#: activities/explore_monuments/resource/board/board2.qml:109
 msgctxt "board2|"
 msgid "Charminar"
 msgstr ""
 
-#: activities/explore_monuments/resource/board/board2.qml:118
+#: activities/explore_monuments/resource/board/board2.qml:107
 msgctxt "board2|"
 msgid ""
 "The Charminar in Hyderabad was constructed in 1591 by Mohammed Quli Qutab "
@@ -5704,13 +5689,13 @@ msgid ""
 "impressive structure with four minarets."
 msgstr ""
 
-#: activities/explore_monuments/resource/board/board2.qml:128
-#: activities/explore_monuments/resource/board/board2.qml:131
+#: activities/explore_monuments/resource/board/board2.qml:117
+#: activities/explore_monuments/resource/board/board2.qml:120
 msgctxt "board2|"
 msgid "Victoria Memorial"
 msgstr ""
 
-#: activities/explore_monuments/resource/board/board2.qml:129
+#: activities/explore_monuments/resource/board/board2.qml:118
 msgctxt "board2|"
 msgid ""
 "The Victoria Memorial was built to commemorate the peak of the British "
@@ -5719,13 +5704,13 @@ msgid ""
 "Memorial hall was built with white Makrana marbles."
 msgstr ""
 
-#: activities/explore_monuments/resource/board/board2.qml:139
-#: activities/explore_monuments/resource/board/board2.qml:142
+#: activities/explore_monuments/resource/board/board2.qml:128
+#: activities/explore_monuments/resource/board/board2.qml:131
 msgctxt "board2|"
 msgid "Rang Ghar"
 msgstr ""
 
-#: activities/explore_monuments/resource/board/board2.qml:140
+#: activities/explore_monuments/resource/board/board2.qml:129
 msgctxt "board2|"
 msgid ""
 "The Rang Ghar is a two-storied building which once served as the royal "
@@ -5734,13 +5719,13 @@ msgid ""
 "Rongali Bihu festival in the Ahom capital of Rangpur."
 msgstr ""
 
-#: activities/explore_monuments/resource/board/board2.qml:150
-#: activities/explore_monuments/resource/board/board2.qml:153
+#: activities/explore_monuments/resource/board/board2.qml:139
+#: activities/explore_monuments/resource/board/board2.qml:142
 msgctxt "board2|"
 msgid "Qutub Minar"
 msgstr ""
 
-#: activities/explore_monuments/resource/board/board2.qml:151
+#: activities/explore_monuments/resource/board/board2.qml:140
 msgctxt "board2|"
 msgid ""
 "Qutub Minar at 74 meters, is the tallest brick minaret in the world, and the "
@@ -5750,12 +5735,12 @@ msgid ""
 "area of Delhi, is made of red sandstone and marble."
 msgstr ""
 
-#: activities/explore_monuments/resource/board/board2.qml:163
+#: activities/explore_monuments/resource/board/board2.qml:152
 msgctxt "board2|"
 msgid "Monuments of India"
 msgstr ""
 
-#: activities/explore_monuments/resource/board/board2.qml:166
+#: activities/explore_monuments/resource/board/board2.qml:155
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Kick the ball into the goal"
