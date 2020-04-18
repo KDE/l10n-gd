@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-02-05 03:03+0100\n"
+"POT-Creation-Date: 2020-04-18 03:07+0200\n"
 "PO-Revision-Date: 2016-04-30 12:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -124,22 +124,22 @@ msgctxt "%1 is the name of the applet"
 msgid "Configure %1..."
 msgstr ""
 
-#: plasma/corona.cpp:368 plasma/corona.cpp:487
+#: plasma/corona.cpp:370 plasma/corona.cpp:490
 #, kde-format
 msgid "Lock Widgets"
 msgstr "Glais na Widgets"
 
-#: plasma/corona.cpp:368
+#: plasma/corona.cpp:370
 #, kde-format
 msgid "Unlock Widgets"
 msgstr "Thoir a' ghlas far Widgets"
 
-#: plasma/corona.cpp:417
+#: plasma/corona.cpp:419
 #, kde-format
 msgid "Finish Customizing Layout"
 msgstr ""
 
-#: plasma/corona.cpp:419 plasma/corona.cpp:502
+#: plasma/corona.cpp:421 plasma/corona.cpp:505
 #, kde-format
 msgid "Customize Layout..."
 msgstr ""
@@ -482,52 +482,52 @@ msgstr ""
 msgid "Show Alternatives..."
 msgstr "Roghainnean eile..."
 
-#: plasma/private/applet_p.cpp:277
+#: plasma/private/applet_p.cpp:278
 #, kde-format
 msgid "Widget Removed"
 msgstr "Chaidh widget a thoirt air falbh"
 
-#: plasma/private/applet_p.cpp:278
+#: plasma/private/applet_p.cpp:279
 #, kde-format
 msgid "The widget \"%1\" has been removed."
 msgstr "Chaidh an widget \"%1\" a thoirt air falbh."
 
-#: plasma/private/applet_p.cpp:280
+#: plasma/private/applet_p.cpp:281
 #, kde-format
 msgid "Panel Removed"
 msgstr "Chaidh panail a thoirt air falbh"
 
-#: plasma/private/applet_p.cpp:281
+#: plasma/private/applet_p.cpp:282
 #, kde-format
 msgid "A panel has been removed."
 msgstr "Chaidh panail a thoirt air falbh."
 
-#: plasma/private/applet_p.cpp:284
+#: plasma/private/applet_p.cpp:285
 #, kde-format
 msgid "Desktop Removed"
 msgstr "Chaidh deasg a thoirt air falbh"
 
-#: plasma/private/applet_p.cpp:285
+#: plasma/private/applet_p.cpp:286
 #, kde-format
 msgid "A desktop has been removed."
 msgstr "Chaidh deasg a thoirt air falbh."
 
-#: plasma/private/applet_p.cpp:288
+#: plasma/private/applet_p.cpp:289
 #, kde-format
 msgid "Undo"
 msgstr "Neo-dhèan"
 
-#: plasma/private/applet_p.cpp:378
+#: plasma/private/applet_p.cpp:379
 #, kde-format
 msgid "Widget Settings"
 msgstr "Roghainnean an widget"
 
-#: plasma/private/applet_p.cpp:385
+#: plasma/private/applet_p.cpp:386
 #, kde-format
 msgid "Remove this Widget"
 msgstr "Thoir air falbh an widget seo"
 
-#: plasma/private/applet_p.cpp:392
+#: plasma/private/applet_p.cpp:393
 #: plasma/private/associatedapplicationmanager.cpp:77
 #: plasma/private/associatedapplicationmanager.cpp:136
 #: plasma/private/associatedapplicationmanager.cpp:178
@@ -601,12 +601,12 @@ msgstr ""
 "Seirbheis mhì-dhligheach (null), chan urrainn dhuinn obrachadh sam bith a "
 "dhèanamh."
 
-#: plasmaquick/appletquickitem.cpp:612
+#: plasmaquick/appletquickitem.cpp:615
 #, kde-format
 msgid "Error loading QML file: %1"
 msgstr "Mearachd a' luchdadh faidhle QML: %1"
 
-#: plasmaquick/appletquickitem.cpp:614
+#: plasmaquick/appletquickitem.cpp:617
 #, kde-format
 msgid "Error loading Applet: package inexistent. %1"
 msgstr "Mearachd a' luchdadh aplaid: chan eil a' phacaid ann. %1"
@@ -771,52 +771,52 @@ msgstr "Suidsear nan uinneagan"
 msgid "Main Script for Window Switcher"
 msgstr "Prìomh-sgriobt airson suidsear nan uinneagan"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:618
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:619
 #, kde-format
 msgid "Plasma Package"
 msgstr "Pacaid Plasma"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:622
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:623
 #, kde-format
 msgid "Install"
 msgstr "Stàlaich"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:634
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:635
 #, kde-format
 msgid "Package Installation Failed"
 msgstr "Dh’fhàillig le stàladh na pacaide"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:654
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:655
 #, kde-format
 msgid "The package you just dropped is invalid."
 msgstr "Tha a' phacaid a leig thu às mì-dligheach."
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:663
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:727
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:664
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:728
 #, kde-format
 msgid "Widgets"
 msgstr "Widgets"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:668
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:669
 #, kde-format
 msgctxt "Add widget"
 msgid "Add %1"
 msgstr ""
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:682
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:731
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:683
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:732
 #, fuzzy, kde-format
 #| msgid "Icon"
 msgctxt "Add icon widget"
 msgid "Add Icon"
 msgstr "Ìomhaigheag"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:694
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:695
 #, kde-format
 msgid "Wallpaper"
 msgstr "Pàipear-balla"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:704
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:705
 #, kde-format
 msgctxt "Set wallpaper"
 msgid "Set %1"
