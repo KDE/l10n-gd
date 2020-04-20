@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-03-16 02:57+0100\n"
+"POT-Creation-Date: 2020-04-20 03:00+0200\n"
 "PO-Revision-Date: 2015-11-04 15:09+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -94,17 +94,11 @@ msgstr ""
 msgid "Starting"
 msgstr ""
 
-#: main.cpp:46
-#, kde-format
-msgid "Baloo File Indexing Daemon"
-msgstr "Deamhan inneacsadh fhaidhlichean Baloo"
+#~ msgid "Baloo File Indexing Daemon"
+#~ msgstr "Deamhan inneacsadh fhaidhlichean Baloo"
 
-#: main.cpp:47
-#, kde-format
-msgid "Vishesh Handa"
-msgstr "Vishesh Handa"
+#~ msgid "Vishesh Handa"
+#~ msgstr "Vishesh Handa"
 
-#: main.cpp:47
-#, kde-format
-msgid "Maintainer"
-msgstr "Neach-glèidhidh"
+#~ msgid "Maintainer"
+#~ msgstr "Neach-glèidhidh"
