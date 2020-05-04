@@ -4394,6 +4394,7 @@ msgstr ""
 
 #: activities/digital_electricity/ActivityConfig.qml:43
 #: activities/graph-coloring/ActivityConfig.qml:42
+#: activities/solar_system/ActivityConfig.qml:42
 #: activities/superbrain/ActivityConfig.qml:42
 #: activities/traffic/ActivityConfig.qml:42
 msgctxt "ActivityConfig|"
@@ -12572,6 +12573,26 @@ msgid ""
 "First select the item you want to put then click on a spot on the empty area"
 msgstr ""
 
+#: activities/mosaic/resource/1/Data.qml:24
+msgctxt "Data|"
+msgid "Up to 6 items are placed on single line."
+msgstr ""
+
+#: activities/mosaic/resource/2/Data.qml:24
+msgctxt "Data|"
+msgid "Up to 8 items are placed on single line."
+msgstr ""
+
+#: activities/mosaic/resource/3/Data.qml:24
+msgctxt "Data|"
+msgid "Up to 16 items are placed on multiple lines."
+msgstr ""
+
+#: activities/mosaic/resource/4/Data.qml:24
+msgctxt "Data|"
+msgid "Up to 24 items are placed on multiple lines."
+msgstr ""
+
 #. Activity title
 #: activities/nine_men_morris/ActivityInfo.qml:26
 #, fuzzy
@@ -15631,6 +15652,19 @@ msgctxt "Data|"
 msgid "Select the number on dominoes from 0 to 9"
 msgstr ""
 
+#: activities/solar_system/ActivityConfig.qml:31
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learning Clock"
+msgctxt "ActivityConfig|"
+msgid "Learning Mode"
+msgstr "Ag ionnsachadh an uaireadair"
+
+#: activities/solar_system/ActivityConfig.qml:32
+msgctxt "ActivityConfig|"
+msgid "Assessment Mode"
+msgstr ""
+
 #. Activity title
 #: activities/solar_system/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -16661,35 +16695,38 @@ msgid ""
 "questions."
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:105
+#: activities/solar_system/SolarSystem.qml:106
 #, qt-format
 msgctxt "SolarSystem|"
 msgid ""
 "Mode: <font color=\"#3bb0de\">%1</font><br><br>There are two modes in the "
-"activity which you can switch from the configuration window:<br><b>1. Normal "
-"mode</b> - In this mode you can play and learn about the Solar System."
-"<br><b>2. Assessment mode</b> - In this mode you can test your knowledge "
-"about the Solar System."
+"activity which you can switch from the configuration window:<br><b>1. "
+"Learning mode</b> - In this mode you can play and learn about the Solar "
+"System.<br><b>2. Assessment mode</b> - In this mode you can test your "
+"knowledge about the Solar System."
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:105
+#: activities/solar_system/SolarSystem.qml:106
 msgctxt "SolarSystem|"
 msgid "Assessment"
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:105
+#: activities/solar_system/SolarSystem.qml:106
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learning Clock"
 msgctxt "SolarSystem|"
-msgid "Normal"
-msgstr ""
+msgid "Learning"
+msgstr "Ag ionnsachadh an uaireadair"
 
-#: activities/solar_system/SolarSystem.qml:109
+#: activities/solar_system/SolarSystem.qml:110
 msgctxt "SolarSystem|"
 msgid ""
 "Click on the Sun or any planet to reveal questions. Each question will have "
 "4 options, out of which one is correct."
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:110
+#: activities/solar_system/SolarSystem.qml:111
 msgctxt "SolarSystem|"
 msgid ""
 "After a planet is clicked, the Closeness meter at the bottom-right corner of "
@@ -16699,14 +16736,14 @@ msgid ""
 "correct answer."
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:115
+#: activities/solar_system/SolarSystem.qml:116
 msgctxt "SolarSystem|"
 msgid ""
 "There are 20 questions initially with 4 options each. The progress bar at "
 "the bottom right of the screen shows your percentage score."
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:116
+#: activities/solar_system/SolarSystem.qml:117
 msgctxt "SolarSystem|"
 msgid ""
 "If your answer is correct, your score will increase.<br>If your answer is "
@@ -16715,14 +16752,14 @@ msgid ""
 "be asked after which no more question will be added."
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:117
+#: activities/solar_system/SolarSystem.qml:118
 msgctxt "SolarSystem|"
 msgid ""
 "You should score above 90% to pass the assessment and become a Solar System "
 "expert!"
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:289
+#: activities/solar_system/SolarSystem.qml:290
 #, qt-format
 msgctxt "SolarSystem|"
 msgid ""
@@ -16730,7 +16767,7 @@ msgid ""
 "temperature.<br><font color=\"#3bb0de\">%1</font>"
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:290
+#: activities/solar_system/SolarSystem.qml:291
 #, qt-format
 msgctxt "SolarSystem|"
 msgid ""
@@ -16739,7 +16776,7 @@ msgid ""
 msgstr ""
 
 #. find an equivalent rhyme in your language where the first letter of each word corresponds to the first letter of the planet in proper sequence
-#: activities/solar_system/SolarSystem.qml:293
+#: activities/solar_system/SolarSystem.qml:294
 #, qt-format
 msgctxt "SolarSystem|"
 msgid ""
@@ -16749,19 +16786,14 @@ msgid ""
 "\"#3bb0de\">%1</font>"
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:295
+#: activities/solar_system/SolarSystem.qml:296
 msgctxt "SolarSystem|"
 msgid "Hint"
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:302
+#: activities/solar_system/SolarSystem.qml:303
 msgctxt "SolarSystem|"
 msgid "View solar system"
-msgstr ""
-
-#: activities/solar_system/SolarSystem.qml:321
-msgctxt "SolarSystem|"
-msgid "Assessment mode"
 msgstr ""
 
 #. Activity title
