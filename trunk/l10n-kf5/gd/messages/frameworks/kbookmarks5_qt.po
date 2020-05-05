@@ -231,40 +231,40 @@ msgstr ""
 "a-rithist. Feumaidh tu adhbhar na mearachd a chàradh cho luath 's a ghabhas "
 "agus 's e diosga cruaidh làn a th' ann gun teagamh."
 
-#: kbookmarkmenu.cpp:288
+#: kbookmarkmenu.cpp:299
 msgctxt "KBookmarkMenu|"
 msgid "Open Folder in Tabs"
 msgstr "Fosgail am pasgan ann an tabaichean"
 
-#: kbookmarkmenu.cpp:292
+#: kbookmarkmenu.cpp:303
 msgctxt "KBookmarkMenu|"
 msgid "Open all bookmarks in this folder as a new tab."
 msgstr ""
 "Fosgail a h-uile comharra-leabhair a tha am broinn a' phasgain seo 'na thaba "
 "ùr."
 
-#: kbookmarkmenu.cpp:308
+#: kbookmarkmenu.cpp:319
 msgctxt "KBookmarkMenu|"
 msgid "Bookmark Tabs as Folder..."
 msgstr "Dèan pasgan chomharran-leabhair dhe na tabaichean..."
 
-#: kbookmarkmenu.cpp:316
+#: kbookmarkmenu.cpp:327
 msgctxt "KBookmarkMenu|"
 msgid "Add a folder of bookmarks for all open tabs."
 msgstr "Cuir pasgan chomharran-leabhair ris leis a h-uile taba fosgailte ann."
 
-#: kbookmarkmenu.cpp:365
+#: kbookmarkmenu.cpp:376
 msgctxt "KBookmarkMenu|"
 msgid "Edit your bookmark collection in a separate window"
 msgstr ""
 "Deasaich cruinneachadh nan comharran-leabhair agad ann an uinneag fa leth"
 
-#: kbookmarkmenu.cpp:381
+#: kbookmarkmenu.cpp:392
 msgctxt "KBookmarkMenu|"
 msgid "New Bookmark Folder..."
 msgstr "Pasgan chomharran-leabhair ùr..."
 
-#: kbookmarkmenu.cpp:383
+#: kbookmarkmenu.cpp:394
 msgctxt "KBookmarkMenu|"
 msgid "Create a new bookmark folder in this menu"
 msgstr "Cruthaich pasgan chomharran-leabhair ùr sa chlàr-taice seo"
