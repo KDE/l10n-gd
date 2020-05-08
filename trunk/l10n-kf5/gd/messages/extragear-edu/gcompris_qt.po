@@ -10004,43 +10004,49 @@ msgid ""
 "The landing platform is green if your speed is fine for a safe landing."
 msgstr ""
 
-#: activities/land_safe/land_safe.js:48 activities/land_safe/land_safe.js:71
-msgctxt "land_safe|"
+#: activities/land_safe/LandSafe.qml:576
+#, qt-format
+msgctxt "LandSafe|"
+msgid "Fuel: %1"
+msgstr ""
+
+#: activities/land_safe/LandSafe.qml:586
+#, qt-format
+msgctxt "LandSafe|"
+msgid "Altitude: %1"
+msgstr ""
+
+#: activities/land_safe/LandSafe.qml:597
+#, qt-format
+msgctxt "LandSafe|"
+msgid "Velocity: %1"
+msgstr ""
+
+#: activities/land_safe/LandSafe.qml:610
+#, qt-format
+msgctxt "LandSafe|"
+msgid "Acceleration: %1"
+msgstr ""
+
+#: activities/land_safe/LandSafe.qml:634
+#, qt-format
+msgctxt "LandSafe|"
+msgid "Gravity: %1"
+msgstr ""
+
+#: activities/land_safe/resource/1/Data.qml:24
+msgctxt "Data|"
+msgid "The spaceship translates when you use the direction keys"
+msgstr ""
+
+#: activities/land_safe/resource/1/Data.qml:28
+#: activities/land_safe/resource/2/Data.qml:28
+msgctxt "Data|"
 msgid "Ceres"
 msgstr ""
 
-#: activities/land_safe/land_safe.js:51 activities/land_safe/land_safe.js:74
-msgctxt "land_safe|"
-msgid "Pluto"
-msgstr ""
-
-#: activities/land_safe/land_safe.js:54 activities/land_safe/land_safe.js:77
-msgctxt "land_safe|"
-msgid "Titan"
-msgstr ""
-
-#: activities/land_safe/land_safe.js:57 activities/land_safe/land_safe.js:80
-msgctxt "land_safe|"
-msgid "Moon"
-msgstr ""
-
-#: activities/land_safe/land_safe.js:60 activities/land_safe/land_safe.js:83
-msgctxt "land_safe|"
-msgid "Mars"
-msgstr ""
-
-#: activities/land_safe/land_safe.js:63 activities/land_safe/land_safe.js:86
-msgctxt "land_safe|"
-msgid "Venus"
-msgstr ""
-
-#: activities/land_safe/land_safe.js:66 activities/land_safe/land_safe.js:89
-msgctxt "land_safe|"
-msgid "Earth"
-msgstr ""
-
-#: activities/land_safe/land_safe.js:95
-msgctxt "land_safe|"
+#: activities/land_safe/resource/1/Data.qml:35
+msgctxt "Data|"
 msgid ""
 "Use the up and down keys to control the thrust.<br/>Use the right and left "
 "keys to control direction.<br/>You must drive Tux's ship towards the landing "
@@ -10048,42 +10054,53 @@ msgid ""
 "land."
 msgstr ""
 
-#: activities/land_safe/land_safe.js:100
-msgctxt "land_safe|"
+#: activities/land_safe/resource/1/Data.qml:41
+#: activities/land_safe/resource/2/Data.qml:40
+msgctxt "Data|"
+msgid "Pluto"
+msgstr ""
+
+#: activities/land_safe/resource/1/Data.qml:50
+#: activities/land_safe/resource/2/Data.qml:49
+msgctxt "Data|"
+msgid "Titan"
+msgstr ""
+
+#: activities/land_safe/resource/1/Data.qml:59
+#: activities/land_safe/resource/2/Data.qml:58
+msgctxt "Data|"
+msgid "Moon"
+msgstr ""
+
+#: activities/land_safe/resource/1/Data.qml:68
+#: activities/land_safe/resource/2/Data.qml:67
+msgctxt "Data|"
+msgid "Mars"
+msgstr ""
+
+#: activities/land_safe/resource/1/Data.qml:77
+#: activities/land_safe/resource/2/Data.qml:76
+msgctxt "Data|"
+msgid "Venus"
+msgstr ""
+
+#: activities/land_safe/resource/1/Data.qml:86
+#: activities/land_safe/resource/2/Data.qml:85
+msgctxt "Data|"
+msgid "Earth"
+msgstr ""
+
+#: activities/land_safe/resource/2/Data.qml:24
+msgctxt "Data|"
+msgid "The spaceship rotates when you use the direction keys"
+msgstr ""
+
+#: activities/land_safe/resource/2/Data.qml:35
+msgctxt "Data|"
 msgid ""
 "The up and down keys control the thrust of the rear engine.<br/>The right "
 "and left keys now control the rotation of the ship.<br/>To move the ship in "
 "horizontal direction you must first rotate and then accelerate it."
-msgstr ""
-
-#: activities/land_safe/LandSafe.qml:574
-#, qt-format
-msgctxt "LandSafe|"
-msgid "Fuel: %1"
-msgstr ""
-
-#: activities/land_safe/LandSafe.qml:584
-#, qt-format
-msgctxt "LandSafe|"
-msgid "Altitude: %1"
-msgstr ""
-
-#: activities/land_safe/LandSafe.qml:595
-#, qt-format
-msgctxt "LandSafe|"
-msgid "Velocity: %1"
-msgstr ""
-
-#: activities/land_safe/LandSafe.qml:608
-#, qt-format
-msgctxt "LandSafe|"
-msgid "Acceleration: %1"
-msgstr ""
-
-#: activities/land_safe/LandSafe.qml:632
-#, qt-format
-msgctxt "LandSafe|"
-msgid "Gravity: %1"
 msgstr ""
 
 #. Activity title
