@@ -557,15 +557,15 @@ msgstr "Lorg an dealan-dè dorch-phurpaidh"
 
 #: activities/algebra_by/ActivityConfig.qml:38
 #: activities/algebra_div/ActivityConfig.qml:38
-#: activities/algebra_minus/ActivityConfig.qml:39
-#: activities/algebra_plus/ActivityConfig.qml:39
-#: activities/gletters/ActivityConfig.qml:62
-#: activities/note_names/ActivityConfig.qml:40
-#: activities/readingh/ActivityConfig.qml:54
-#: activities/readingv/ActivityConfig.qml:54
-#: activities/smallnumbers/ActivityConfig.qml:39
-#: activities/smallnumbers2/ActivityConfig.qml:55
-#: activities/wordsgame/ActivityConfig.qml:62
+#: activities/algebra_minus/ActivityConfig.qml:38
+#: activities/algebra_plus/ActivityConfig.qml:38
+#: activities/gletters/ActivityConfig.qml:60
+#: activities/note_names/ActivityConfig.qml:38
+#: activities/readingh/ActivityConfig.qml:52
+#: activities/readingv/ActivityConfig.qml:52
+#: activities/smallnumbers/ActivityConfig.qml:38
+#: activities/smallnumbers2/ActivityConfig.qml:51
+#: activities/wordsgame/ActivityConfig.qml:60
 msgctxt "ActivityConfig|"
 msgid "Speed"
 msgstr ""
@@ -1635,26 +1635,26 @@ msgid ""
 "straight line."
 msgstr ""
 
-#: activities/bargame/ActivityConfig.qml:30
-#: activities/bargame_2players/ActivityConfig.qml:30
+#: activities/bargame/ActivityConfig.qml:32
+#: activities/bargame_2players/ActivityConfig.qml:32
 msgctxt "ActivityConfig|"
 msgid "Easy"
 msgstr ""
 
-#: activities/bargame/ActivityConfig.qml:31
-#: activities/bargame_2players/ActivityConfig.qml:31
+#: activities/bargame/ActivityConfig.qml:33
+#: activities/bargame_2players/ActivityConfig.qml:33
 msgctxt "ActivityConfig|"
 msgid "Medium"
 msgstr ""
 
-#: activities/bargame/ActivityConfig.qml:32
-#: activities/bargame_2players/ActivityConfig.qml:32
+#: activities/bargame/ActivityConfig.qml:34
+#: activities/bargame_2players/ActivityConfig.qml:34
 msgctxt "ActivityConfig|"
 msgid "Difficult"
 msgstr ""
 
-#: activities/bargame/ActivityConfig.qml:42
-#: activities/bargame_2players/ActivityConfig.qml:42
+#: activities/bargame/ActivityConfig.qml:43
+#: activities/bargame_2players/ActivityConfig.qml:43
 msgctxt "ActivityConfig|"
 msgid "Select your difficulty"
 msgstr ""
@@ -3612,14 +3612,14 @@ msgctxt "board6_3|"
 msgid "1955 Citroën DS 19"
 msgstr ""
 
-#: activities/click_on_letter/ActivityConfig.qml:48
-#: activities/click_on_letter_up/ActivityConfig.qml:48
-#: activities/gletters/ActivityConfig.qml:52
-#: activities/hangman/ActivityConfig.qml:50
-#: activities/missing-letter/ActivityConfig.qml:48
-#: activities/readingh/ActivityConfig.qml:50
-#: activities/readingv/ActivityConfig.qml:50
-#: activities/wordsgame/ActivityConfig.qml:52
+#: activities/click_on_letter/ActivityConfig.qml:46
+#: activities/click_on_letter_up/ActivityConfig.qml:46
+#: activities/gletters/ActivityConfig.qml:50
+#: activities/hangman/ActivityConfig.qml:48
+#: activities/missing-letter/ActivityConfig.qml:46
+#: activities/readingh/ActivityConfig.qml:48
+#: activities/readingv/ActivityConfig.qml:48
+#: activities/wordsgame/ActivityConfig.qml:50
 msgctxt "ActivityConfig|"
 msgid "Select your locale"
 msgstr ""
@@ -3698,19 +3698,19 @@ msgstr ""
 "tu èisteachd ris an litir a-rithist ’s tu a’ briogadh air ìomhaigheag beòil "
 "sa bhogsa aig a’ bharr."
 
-#: activities/clickanddraw/ActivityConfig.qml:30
-#: activities/drawletters/ActivityConfig.qml:30
-#: activities/drawnumbers/ActivityConfig.qml:30
-#: activities/enumerate/ActivityConfig.qml:30
-#: activities/number_sequence/ActivityConfig.qml:30
+#: activities/clickanddraw/ActivityConfig.qml:32
+#: activities/drawletters/ActivityConfig.qml:32
+#: activities/drawnumbers/ActivityConfig.qml:32
+#: activities/enumerate/ActivityConfig.qml:32
+#: activities/number_sequence/ActivityConfig.qml:32
 msgctxt "ActivityConfig|"
 msgid "Automatic"
 msgstr ""
 
-#: activities/clickanddraw/ActivityConfig.qml:31
-#: activities/drawletters/ActivityConfig.qml:31
-#: activities/drawnumbers/ActivityConfig.qml:31
-#: activities/number_sequence/ActivityConfig.qml:31
+#: activities/clickanddraw/ActivityConfig.qml:33
+#: activities/drawletters/ActivityConfig.qml:33
+#: activities/drawnumbers/ActivityConfig.qml:33
+#: activities/number_sequence/ActivityConfig.qml:33
 #, fuzzy
 #| msgctxt "DialogHelp|"
 #| msgid "Manual"
@@ -3718,10 +3718,10 @@ msgctxt "ActivityConfig|"
 msgid "Manual"
 msgstr "Stiùireadh"
 
-#: activities/clickanddraw/ActivityConfig.qml:41
-#: activities/drawletters/ActivityConfig.qml:41
-#: activities/drawnumbers/ActivityConfig.qml:41
-#: activities/number_sequence/ActivityConfig.qml:41
+#: activities/clickanddraw/ActivityConfig.qml:42
+#: activities/drawletters/ActivityConfig.qml:42
+#: activities/drawnumbers/ActivityConfig.qml:42
+#: activities/number_sequence/ActivityConfig.qml:42
 msgctxt "ActivityConfig|"
 msgid "Go to next level"
 msgstr ""
@@ -4382,12 +4382,12 @@ msgid ""
 "Notre Dame de Paris cathedral on the Île de la Cité island in Paris, France."
 msgstr ""
 
-#: activities/digital_electricity/ActivityConfig.qml:32
+#: activities/digital_electricity/ActivityConfig.qml:33
 msgctxt "ActivityConfig|"
 msgid "Tutorial Mode"
 msgstr ""
 
-#: activities/digital_electricity/ActivityConfig.qml:33
+#: activities/digital_electricity/ActivityConfig.qml:34
 msgctxt "ActivityConfig|"
 msgid "Free Mode"
 msgstr ""
@@ -4970,12 +4970,12 @@ msgctxt "ActivityInfo|"
 msgid "Draw the numbers by connecting the dots in the correct order"
 msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
 
-#: activities/enumerate/ActivityConfig.qml:31
+#: activities/enumerate/ActivityConfig.qml:33
 msgctxt "ActivityConfig|"
 msgid "OK button"
 msgstr ""
 
-#: activities/enumerate/ActivityConfig.qml:37
+#: activities/enumerate/ActivityConfig.qml:43
 msgctxt "ActivityConfig|"
 msgid "Validate answers"
 msgstr ""
@@ -8707,8 +8707,8 @@ msgctxt "board9_0|"
 msgid "Oman"
 msgstr ""
 
-#: activities/gletters/ActivityConfig.qml:57
-#: activities/wordsgame/ActivityConfig.qml:57
+#: activities/gletters/ActivityConfig.qml:55
+#: activities/wordsgame/ActivityConfig.qml:55
 msgctxt "ActivityConfig|"
 msgid "Uppercase only mode"
 msgstr ""
@@ -9013,9 +9013,9 @@ msgid ""
 "3 = 6). So 6 is not a prime number."
 msgstr ""
 
-#: activities/graph-coloring/ActivityConfig.qml:31
-#: activities/superbrain/ActivityConfig.qml:31
-#: activities/traffic/ActivityConfig.qml:31
+#: activities/graph-coloring/ActivityConfig.qml:32
+#: activities/superbrain/ActivityConfig.qml:32
+#: activities/traffic/ActivityConfig.qml:32
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Colors"
@@ -9023,8 +9023,8 @@ msgctxt "ActivityConfig|"
 msgid "Colors"
 msgstr "Dathan"
 
-#: activities/graph-coloring/ActivityConfig.qml:32
-#: activities/superbrain/ActivityConfig.qml:32
+#: activities/graph-coloring/ActivityConfig.qml:33
+#: activities/superbrain/ActivityConfig.qml:33
 msgctxt "ActivityConfig|"
 msgid "Shapes"
 msgstr ""
@@ -9328,7 +9328,7 @@ msgctxt "Data|"
 msgid "Guess a number between 1 and %1"
 msgstr "Dèan tuairmse air àireamh"
 
-#: activities/hangman/ActivityConfig.qml:55
+#: activities/hangman/ActivityConfig.qml:53
 msgctxt "ActivityConfig|"
 msgid "Display image to find as hint"
 msgstr ""
@@ -14407,13 +14407,13 @@ msgid ""
 "regional blackout."
 msgstr ""
 
-#: activities/reversecount/ActivityConfig.qml:31
+#: activities/reversecount/ActivityConfig.qml:32
 #: activities/smallnumbers2/ActivityConfig.qml:31
 msgctxt "ActivityConfig|"
 msgid "Dots"
 msgstr ""
 
-#: activities/reversecount/ActivityConfig.qml:32
+#: activities/reversecount/ActivityConfig.qml:33
 #: activities/smallnumbers2/ActivityConfig.qml:32
 #, fuzzy
 #| msgctxt "ActivityInfo|"
@@ -14422,7 +14422,7 @@ msgctxt "ActivityConfig|"
 msgid "Arabic numbers"
 msgstr "Litrichean simplidh"
 
-#: activities/reversecount/ActivityConfig.qml:33
+#: activities/reversecount/ActivityConfig.qml:34
 #: activities/smallnumbers2/ActivityConfig.qml:33
 #, fuzzy
 #| msgctxt "ActivityInfo|"
@@ -14431,15 +14431,15 @@ msgctxt "ActivityConfig|"
 msgid "Roman numbers"
 msgstr "Geama cuimhne toirt air falbh"
 
-#: activities/reversecount/ActivityConfig.qml:34
+#: activities/reversecount/ActivityConfig.qml:35
 #: activities/smallnumbers2/ActivityConfig.qml:34
-#: activities/traffic/ActivityConfig.qml:32
+#: activities/traffic/ActivityConfig.qml:33
 msgctxt "ActivityConfig|"
 msgid "Images"
 msgstr ""
 
 #: activities/reversecount/ActivityConfig.qml:44
-#: activities/smallnumbers2/ActivityConfig.qml:51
+#: activities/smallnumbers2/ActivityConfig.qml:47
 msgctxt "ActivityConfig|"
 msgid "Select Domino Representation"
 msgstr ""
@@ -15714,7 +15714,7 @@ msgctxt "Data|"
 msgid "Select the number on dominoes from 0 to 9"
 msgstr ""
 
-#: activities/solar_system/ActivityConfig.qml:31
+#: activities/solar_system/ActivityConfig.qml:32
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Learning Clock"
@@ -15722,7 +15722,7 @@ msgctxt "ActivityConfig|"
 msgid "Learning Mode"
 msgstr "Ag ionnsachadh an uaireadair"
 
-#: activities/solar_system/ActivityConfig.qml:32
+#: activities/solar_system/ActivityConfig.qml:33
 msgctxt "ActivityConfig|"
 msgid "Assessment Mode"
 msgstr ""

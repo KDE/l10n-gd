@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-03-04 03:03+0100\n"
+"POT-Creation-Date: 2020-05-11 03:07+0200\n"
 "PO-Revision-Date: 2016-04-30 17:56+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -26,14 +26,14 @@ msgctxt "@title:window"
 msgid "About %1"
 msgstr "Mu %1"
 
-#: kaboutapplicationdialog.cpp:104 kaboutplugindialog.cpp:92
+#: kaboutapplicationdialog.cpp:106 kaboutplugindialog.cpp:92
 #, fuzzy, kde-format
 #| msgid "&About"
 msgctxt "@title:tab"
 msgid "About"
 msgstr "&Mu dhèidhinn"
 
-#: kaboutapplicationdialog.cpp:111
+#: kaboutapplicationdialog.cpp:113
 #, fuzzy, kde-format
 #| msgid ""
 #| "Using:<ul><li>KDE Frameworks %1</li><li>Qt %2 (built against %3)</"
@@ -45,13 +45,13 @@ msgstr ""
 "A' cleachdadh:<ul><li>KDE Frameworks %1</li><li>Qt %2 (air a thogail ri %3)</"
 "li><li>Siostam uinneagan <em>%4</em></li></ul>"
 
-#: kaboutapplicationdialog.cpp:121
+#: kaboutapplicationdialog.cpp:123
 #, kde-format
 msgctxt "@title:tab"
 msgid "Libraries"
 msgstr ""
 
-#: kaboutapplicationdialog.cpp:131 kaboutplugindialog.cpp:103
+#: kaboutapplicationdialog.cpp:133 kaboutplugindialog.cpp:103
 #, fuzzy, kde-format
 #| msgid "A&uthor"
 msgctxt "@title:tab"
@@ -62,14 +62,14 @@ msgstr[1] "Ù&ghdar"
 msgstr[2] "Ù&ghdar"
 msgstr[3] "Ù&ghdar"
 
-#: kaboutapplicationdialog.cpp:138 kaboutplugindialog.cpp:110
+#: kaboutapplicationdialog.cpp:140 kaboutplugindialog.cpp:110
 #, fuzzy, kde-format
 #| msgid "&Thanks To"
 msgctxt "@title:tab"
 msgid "Thanks To"
 msgstr "&Taing do"
 
-#: kaboutapplicationdialog.cpp:145 kaboutplugindialog.cpp:116
+#: kaboutapplicationdialog.cpp:147 kaboutplugindialog.cpp:116
 #, fuzzy, kde-format
 #| msgid "Translation"
 msgctxt "@title:tab"
