@@ -2340,12 +2340,6 @@ msgstr ""
 "òrdugh cheart ach an urrainn dha Tux siubhal tro na geataichean air an dà "
 "thaobh."
 
-#: activities/canal_lock/ActivityInfo.qml:36
-#: activities/watercycle/ActivityInfo.qml:36
-msgctxt "ActivityInfo|"
-msgid "Drawing by Stephane Cabaraux."
-msgstr "Tarraing le Stephane Cabaraux."
-
 #: activities/canal_lock/CanalLock.qml:62
 msgctxt "CanalLock|"
 msgid ""
@@ -3666,6 +3660,7 @@ msgstr ""
 
 #. Help manual
 #: activities/click_on_letter/ActivityInfo.qml:35
+#: activities/click_on_letter_up/ActivityInfo.qml:35
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
@@ -3675,28 +3670,43 @@ msgstr ""
 msgctxt "ActivityInfo|"
 msgid ""
 "A letter is spoken. Click on the matching letter in the main area. You can "
-"listen to the letter again, by clicking on the mouth icon."
+"listen to the letter again by clicking on the mouth icon."
 msgstr ""
 "Cluinnidh tu litir. Briog air an litir co-ionnan sa phrìomh raon. Faodaidh "
 "tu èisteachd ris an litir a-rithist ’s tu a’ briogadh air ìomhaigheag beòil "
 "sa bhogsa aig a’ bharr."
+
+#: activities/click_on_letter/ActivityInfo.qml:36
+#: activities/click_on_letter_up/ActivityInfo.qml:36
+#: activities/graph-coloring/ActivityInfo.qml:36
+msgctxt "ActivityInfo|"
+msgid "<b>Keyboard controls:</b>"
+msgstr ""
+
+#: activities/click_on_letter/ActivityInfo.qml:37
+#: activities/click_on_letter_up/ActivityInfo.qml:37
+msgctxt "ActivityInfo|"
+msgid "-Use Arrow keys to navigate"
+msgstr ""
+
+#: activities/click_on_letter/ActivityInfo.qml:38
+#: activities/click_on_letter_up/ActivityInfo.qml:38
+#: activities/graph-coloring/ActivityInfo.qml:38
+msgctxt "ActivityInfo|"
+msgid "-Use Space key to select an item"
+msgstr ""
+
+#: activities/click_on_letter/ActivityInfo.qml:39
+#: activities/click_on_letter_up/ActivityInfo.qml:39
+msgctxt "ActivityInfo|"
+msgid "-Use Tab key to repeat the question"
+msgstr ""
 
 #. Activity title
 #: activities/click_on_letter_up/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Click on an uppercase letter"
 msgstr "Briog air litir mhòr"
-
-#. Help manual
-#: activities/click_on_letter_up/ActivityInfo.qml:35
-msgctxt "ActivityInfo|"
-msgid ""
-"A letter is spoken. Click on the matching letter in the main area. You can "
-"listen to the letter again, by clicking on the mouth icon in the bottom box."
-msgstr ""
-"Cluinnidh tu litir. Briog air an litir co-ionnan sa phrìomh raon. Faodaidh "
-"tu èisteachd ris an litir a-rithist ’s tu a’ briogadh air ìomhaigheag beòil "
-"sa bhogsa aig a’ bharr."
 
 #: activities/clickanddraw/ActivityConfig.qml:32
 #: activities/drawletters/ActivityConfig.qml:32
@@ -9055,6 +9065,20 @@ msgctxt "ActivityInfo|"
 msgid "Ability to distinguish different colors/shapes, sense of positions"
 msgstr ""
 
+#. Help manual
+#: activities/graph-coloring/ActivityInfo.qml:35
+msgctxt "ActivityInfo|"
+msgid ""
+"Place colors/shapes on the graph so that no two adjacent nodes have the same "
+"color. Select a node, then select an item in the list to place it on the "
+"node."
+msgstr ""
+
+#: activities/graph-coloring/ActivityInfo.qml:37
+msgctxt "ActivityInfo|"
+msgid "-Use Right and Left arrow keys to navigate"
+msgstr ""
+
 #. Activity title
 #: activities/gravity/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
@@ -9306,21 +9330,21 @@ msgstr "Àireamh"
 #: activities/guessnumber/resource/2/Data.qml:25
 #: activities/guessnumber/resource/2/Data.qml:30
 #: activities/guessnumber/resource/2/Data.qml:34
-#: activities/guessnumber/resource/3/Data.qml:27
-#: activities/guessnumber/resource/3/Data.qml:32
-#: activities/guessnumber/resource/3/Data.qml:36
-#: activities/guessnumber/resource/3/Data.qml:40
-#: activities/guessnumber/resource/4/Data.qml:27
-#: activities/guessnumber/resource/4/Data.qml:32
-#: activities/guessnumber/resource/4/Data.qml:36
-#: activities/guessnumber/resource/4/Data.qml:40
-#: activities/guessnumber/resource/4/Data.qml:44
-#: activities/guessnumber/resource/5/Data.qml:27
-#: activities/guessnumber/resource/5/Data.qml:32
-#: activities/guessnumber/resource/5/Data.qml:36
-#: activities/guessnumber/resource/5/Data.qml:40
-#: activities/guessnumber/resource/5/Data.qml:44
-#: activities/guessnumber/resource/5/Data.qml:48
+#: activities/guessnumber/resource/3/Data.qml:26
+#: activities/guessnumber/resource/3/Data.qml:31
+#: activities/guessnumber/resource/3/Data.qml:35
+#: activities/guessnumber/resource/3/Data.qml:39
+#: activities/guessnumber/resource/4/Data.qml:26
+#: activities/guessnumber/resource/4/Data.qml:31
+#: activities/guessnumber/resource/4/Data.qml:35
+#: activities/guessnumber/resource/4/Data.qml:39
+#: activities/guessnumber/resource/4/Data.qml:43
+#: activities/guessnumber/resource/5/Data.qml:26
+#: activities/guessnumber/resource/5/Data.qml:31
+#: activities/guessnumber/resource/5/Data.qml:35
+#: activities/guessnumber/resource/5/Data.qml:39
+#: activities/guessnumber/resource/5/Data.qml:43
+#: activities/guessnumber/resource/5/Data.qml:47
 #, fuzzy, qt-format
 #| msgctxt "ActivityInfo|"
 #| msgid "Guess a number"
@@ -13966,7 +13990,6 @@ msgid ""
 msgstr ""
 
 #: activities/programmingMaze/ActivityInfo.qml:39
-#: activities/railroad/ActivityInfo.qml:37
 msgctxt "ActivityInfo|"
 msgid "<b>Keyboard Controls:</b><br><br>"
 msgstr ""
@@ -14166,6 +14189,11 @@ msgid ""
 "<br><br>"
 msgstr ""
 
+#: activities/railroad/ActivityInfo.qml:37
+msgctxt "ActivityInfo|"
+msgid "<b>Keyboard Controls:</b><br>"
+msgstr ""
+
 #: activities/railroad/ActivityInfo.qml:38
 msgctxt "ActivityInfo|"
 msgid "1. Use arrow keys to move in the answer or sample zone.<br>"
@@ -14190,7 +14218,7 @@ msgstr ""
 
 #: activities/railroad/ActivityInfo.qml:42
 msgctxt "ActivityInfo|"
-msgid "5. Use Delete key to remove a wagon or locomotive from answer zone.<br>"
+msgid "5. Use Delete key to remove a wagon or locomotive from answer zone."
 msgstr ""
 
 #: activities/railroad/Railroad.qml:109
@@ -17382,6 +17410,11 @@ msgid ""
 "him."
 msgstr ""
 
+#: activities/watercycle/ActivityInfo.qml:36
+msgctxt "ActivityInfo|"
+msgid "Drawing by Stephane Cabaraux."
+msgstr "Tarraing le Stephane Cabaraux."
+
 #: activities/watercycle/Watercycle.qml:65
 msgctxt "Watercycle|"
 msgid ""
@@ -18249,6 +18282,16 @@ msgstr ""
 msgctxt "Tutorial|"
 msgid "Start"
 msgstr ""
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "A letter is spoken. Click on the matching letter in the main area. You "
+#~ "can listen to the letter again, by clicking on the mouth icon in the "
+#~ "bottom box."
+#~ msgstr ""
+#~ "Cluinnidh tu litir. Briog air an litir co-ionnan sa phrìomh raon. "
+#~ "Faodaidh tu èisteachd ris an litir a-rithist ’s tu a’ briogadh air "
+#~ "ìomhaigheag beòil sa bhogsa aig a’ bharr."
 
 #, fuzzy
 #~| msgctxt "ActivityInfo|"

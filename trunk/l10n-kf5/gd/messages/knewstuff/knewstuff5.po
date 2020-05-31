@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-05-12 03:07+0200\n"
+"POT-Creation-Date: 2020-05-31 17:58+0200\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -1271,97 +1271,97 @@ msgctxt "Show the size of the file in a list"
 msgid "<p>Size: %1</p>"
 msgstr ""
 
-#: uploaddialog.cpp:63
+#: uploaddialog.cpp:64
 #, kde-format
 msgctxt "Opposite to Back"
 msgid "Next"
 msgstr "Air adhart"
 
-#: uploaddialog.cpp:68
+#: uploaddialog.cpp:69
 #, kde-format
 msgid "Finish"
 msgstr "Crìochnaich"
 
-#: uploaddialog.cpp:180
+#: uploaddialog.cpp:181
 #, kde-format
 msgid "Fetching provider information..."
 msgstr "A' faighinn fiosrachadh an t-solaraiche..."
 
-#: uploaddialog.cpp:187
+#: uploaddialog.cpp:188
 #, kde-format
 msgid "Fetching license data from server..."
 msgstr "A' faighinn fiosrachadh a' cheadachais on fhrithealaiche..."
 
-#: uploaddialog.cpp:194
+#: uploaddialog.cpp:195
 #, kde-format
 msgid "Fetching content data from server..."
 msgstr "A' faighinn dàta na susbainte on fhrithealaiche..."
 
-#: uploaddialog.cpp:269
+#: uploaddialog.cpp:270
 #, kde-format
 msgid "Could not fetch provider information."
 msgstr "Cha b' urrainn dhuinn fiosrachadh an t-solaraiche fhaighinn."
 
-#: uploaddialog.cpp:293
+#: uploaddialog.cpp:294
 #, kde-format
 msgid "Register a new account"
 msgstr "Clàraich cunntas ùr"
 
-#: uploaddialog.cpp:317
+#: uploaddialog.cpp:318
 #, kde-format
 msgid "Checking login..."
 msgstr "A' dearbhadh a' chlàraidh a-steach..."
 
-#: uploaddialog.cpp:339
+#: uploaddialog.cpp:340
 #, kde-format
 msgid "Fetching your previously updated content..."
 msgstr "A' faighinn na susbainte a chaidh ùrachadh roimhe..."
 
-#: uploaddialog.cpp:342
+#: uploaddialog.cpp:343
 #, kde-format
 msgid "Could not verify login, please try again."
 msgstr ""
 "Cha b' urrainn dhuinn an clàradh a-steach a dhearbhadh, feuch ris a-rithist."
 
-#: uploaddialog.cpp:361
+#: uploaddialog.cpp:362
 #, kde-format
 msgid "Fetching your previously updated content finished."
 msgstr "Tha an t-susbaint agad a chaidh ùrachadh roimhe air a faighinn."
 
-#: uploaddialog.cpp:379
+#: uploaddialog.cpp:380
 #, kde-format
 msgid "Fetching content data from server finished."
 msgstr "Tha dàta na susbainte air fhaighinn on fhrithealaiche."
 
-#: uploaddialog.cpp:402 uploaddialog.cpp:842
+#: uploaddialog.cpp:403 uploaddialog.cpp:845
 #, kde-format
 msgctxt "A link to the website where the get hot new stuff upload can be seen"
 msgid "Visit website"
 msgstr "Tadhail air an làrach-lìn"
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, UploadDialog)
-#: uploaddialog.cpp:448 uploaddialog.ui:14
+#: uploaddialog.cpp:449 uploaddialog.ui:14
 #, kde-format
 msgid "Share Hot New Stuff"
 msgstr "Co-roinn deagh-stuth ùr"
 
-#: uploaddialog.cpp:471
+#: uploaddialog.cpp:472
 #, kde-format
 msgctxt "Program name followed by 'Add On Uploader'"
 msgid "%1 Add-On Uploader"
 msgstr "Inneal luchdaidh suas tuilleadain %1"
 
-#: uploaddialog.cpp:491 uploaddialog.cpp:767
+#: uploaddialog.cpp:492 uploaddialog.cpp:770
 #, kde-format
 msgid "File not found: %1"
 msgstr "Cha deach am faidhle a lorg: %1"
 
-#: uploaddialog.cpp:491 uploaddialog.cpp:618 uploaddialog.cpp:767
+#: uploaddialog.cpp:492 uploaddialog.cpp:619 uploaddialog.cpp:770
 #, kde-format
 msgid "Upload Failed"
 msgstr "Dh'fhàillig leis an luchdadh suas"
 
-#: uploaddialog.cpp:571
+#: uploaddialog.cpp:572
 #, kde-format
 msgid ""
 "The server does not recognize the category %2 to which you are trying to "
@@ -1382,37 +1382,37 @@ msgstr[3] ""
 "Chan aithnich am frithealaiche gin dhe na roinnean-seòrsa dhan a tha thu a' "
 "feuchainn ri rud a luchdadh suas: %2"
 
-#: uploaddialog.cpp:574
+#: uploaddialog.cpp:575
 #, kde-format
 msgid "Error"
 msgstr "Mearachd"
 
-#: uploaddialog.cpp:618
+#: uploaddialog.cpp:619
 #, kde-format
 msgid "The selected category \"%1\" is invalid."
 msgstr "Chan eil an roinn-seòrsa \"%1\" a thagh thu dligheach."
 
-#: uploaddialog.cpp:667 uploaddialog.cpp:682 uploaddialog.cpp:696
+#: uploaddialog.cpp:668 uploaddialog.cpp:683 uploaddialog.cpp:697
 #, kde-format
 msgid "Select preview image"
 msgstr "Tagh dealbh ro-sheallaidh"
 
-#: uploaddialog.cpp:711
+#: uploaddialog.cpp:712
 #, kde-format
 msgid "There was a network error."
 msgstr "Bha mearachd lìonraidh ann."
 
-#: uploaddialog.cpp:711 uploaddialog.cpp:716
+#: uploaddialog.cpp:712 uploaddialog.cpp:717
 #, kde-format
 msgid "Uploading Failed"
 msgstr "Dh'fhàillig leis an luchdadh suas"
 
-#: uploaddialog.cpp:716
+#: uploaddialog.cpp:717
 #, kde-format
 msgid "Authentication error."
 msgstr "Mearachd leis an dearbhadh."
 
-#: uploaddialog.cpp:726
+#: uploaddialog.cpp:727
 #, kde-format
 msgid "Upload failed: %1"
 msgstr "Dh'fhàillig leis an luchdadh suas: %1"
