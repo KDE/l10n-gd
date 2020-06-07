@@ -14574,8 +14574,8 @@ msgid ""
 "(IX=10–1=9), so we write this in the decimal system: 3949."
 msgstr ""
 
-#: activities/roman_numerals/RomanNumerals.qml:69
-#: activities/roman_numerals/RomanNumerals.qml:75
+#: activities/roman_numerals/RomanNumerals.qml:70
+#: activities/roman_numerals/RomanNumerals.qml:76
 msgctxt "RomanNumerals|"
 msgid ""
 "The roman numbers are all built out of these 7 numbers:\n"
@@ -14587,32 +14587,32 @@ msgid ""
 "number 0."
 msgstr ""
 
-#: activities/roman_numerals/RomanNumerals.qml:70
-#: activities/roman_numerals/RomanNumerals.qml:82
-#: activities/roman_numerals/RomanNumerals.qml:94
-#: activities/roman_numerals/RomanNumerals.qml:106
-#: activities/roman_numerals/RomanNumerals.qml:118
+#: activities/roman_numerals/RomanNumerals.qml:71
+#: activities/roman_numerals/RomanNumerals.qml:83
+#: activities/roman_numerals/RomanNumerals.qml:95
+#: activities/roman_numerals/RomanNumerals.qml:107
+#: activities/roman_numerals/RomanNumerals.qml:119
 #, qt-format
 msgctxt "RomanNumerals|"
 msgid "Convert the roman number %1 in arabic."
 msgstr ""
 
-#: activities/roman_numerals/RomanNumerals.qml:76
-#: activities/roman_numerals/RomanNumerals.qml:88
-#: activities/roman_numerals/RomanNumerals.qml:100
-#: activities/roman_numerals/RomanNumerals.qml:112
-#: activities/roman_numerals/RomanNumerals.qml:124
-#: activities/roman_numerals/RomanNumerals.qml:130
-#: activities/roman_numerals/RomanNumerals.qml:136
-#: activities/roman_numerals/RomanNumerals.qml:142
-#: activities/roman_numerals/RomanNumerals.qml:148
+#: activities/roman_numerals/RomanNumerals.qml:77
+#: activities/roman_numerals/RomanNumerals.qml:89
+#: activities/roman_numerals/RomanNumerals.qml:101
+#: activities/roman_numerals/RomanNumerals.qml:113
+#: activities/roman_numerals/RomanNumerals.qml:125
+#: activities/roman_numerals/RomanNumerals.qml:131
+#: activities/roman_numerals/RomanNumerals.qml:137
+#: activities/roman_numerals/RomanNumerals.qml:143
+#: activities/roman_numerals/RomanNumerals.qml:149
 #, qt-format
 msgctxt "RomanNumerals|"
 msgid "Convert the arabic number %1 in roman."
 msgstr ""
 
-#: activities/roman_numerals/RomanNumerals.qml:81
-#: activities/roman_numerals/RomanNumerals.qml:87
+#: activities/roman_numerals/RomanNumerals.qml:82
+#: activities/roman_numerals/RomanNumerals.qml:88
 msgctxt "RomanNumerals|"
 msgid ""
 "All the units except 4 and 9 are built using sums of I and V:\n"
@@ -14621,8 +14621,8 @@ msgid ""
 "IV (5 – 1) and IX (10 – 1)"
 msgstr ""
 
-#: activities/roman_numerals/RomanNumerals.qml:93
-#: activities/roman_numerals/RomanNumerals.qml:99
+#: activities/roman_numerals/RomanNumerals.qml:94
+#: activities/roman_numerals/RomanNumerals.qml:100
 msgctxt "RomanNumerals|"
 msgid ""
 "All the tens except 40 and 90 are built using sums of X and L:\n"
@@ -14632,8 +14632,8 @@ msgid ""
 " "
 msgstr ""
 
-#: activities/roman_numerals/RomanNumerals.qml:105
-#: activities/roman_numerals/RomanNumerals.qml:111
+#: activities/roman_numerals/RomanNumerals.qml:106
+#: activities/roman_numerals/RomanNumerals.qml:112
 msgctxt "RomanNumerals|"
 msgid ""
 "All the hundreds except 400 and 900 are built using sums of C and D:\n"
@@ -14642,8 +14642,8 @@ msgid ""
 "CD (100 taken from 500) and CM (100 taken from 1000)"
 msgstr ""
 
-#: activities/roman_numerals/RomanNumerals.qml:117
-#: activities/roman_numerals/RomanNumerals.qml:123
+#: activities/roman_numerals/RomanNumerals.qml:118
+#: activities/roman_numerals/RomanNumerals.qml:124
 msgctxt "RomanNumerals|"
 msgid ""
 "Sums of M are used for building thousands: M, MM, MMM.\n"
@@ -14653,19 +14653,19 @@ msgid ""
 "hand, it limits the maximum roman number to 3999 (MMMCMXCIX).\n"
 msgstr ""
 
-#: activities/roman_numerals/RomanNumerals.qml:129
+#: activities/roman_numerals/RomanNumerals.qml:130
 msgctxt "RomanNumerals|"
 msgid ""
 "Now you know the rules, you can read and write numbers in roman numerals."
 msgstr ""
 
-#: activities/roman_numerals/RomanNumerals.qml:375
+#: activities/roman_numerals/RomanNumerals.qml:376
 #, qt-format
 msgctxt "RomanNumerals|"
 msgid "Roman value: %1"
 msgstr ""
 
-#: activities/roman_numerals/RomanNumerals.qml:376
+#: activities/roman_numerals/RomanNumerals.qml:377
 #, qt-format
 msgctxt "RomanNumerals|"
 msgid "Arabic value: %1"
