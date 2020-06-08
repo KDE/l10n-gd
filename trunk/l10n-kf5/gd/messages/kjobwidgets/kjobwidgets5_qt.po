@@ -95,7 +95,7 @@ msgctxt "KWidgetJobTracker|%1 is the label, we add a ':' to it"
 msgid "%1:"
 msgstr "%1:"
 
-#: kwidgetjobtracker.cpp:336
+#: kwidgetjobtracker.cpp:344
 #, qt-format
 msgctxt "KWidgetJobTracker|"
 msgid "%1 of %2 complete"
@@ -105,7 +105,7 @@ msgstr[1] "%1 de %2 coileanta"
 msgstr[2] "%1 de %2 coileanta"
 msgstr[3] "%1 de %2 coileanta"
 
-#: kwidgetjobtracker.cpp:355 kwidgetjobtracker.cpp:372
+#: kwidgetjobtracker.cpp:363 kwidgetjobtracker.cpp:380
 #, qt-format
 msgctxt "KWidgetJobTracker|"
 msgid "%1 / %n folder(s)"
@@ -115,7 +115,7 @@ msgstr[1] "%1 / %n phasgan"
 msgstr[2] "%1 / %n pasganan"
 msgstr[3] "%1 / %n phasgan"
 
-#: kwidgetjobtracker.cpp:359 kwidgetjobtracker.cpp:377
+#: kwidgetjobtracker.cpp:367 kwidgetjobtracker.cpp:385
 #, qt-format
 msgctxt "KWidgetJobTracker|"
 msgid "%1 / %n file(s)"
@@ -125,13 +125,26 @@ msgstr[1] "%1 / %n fhaidhle"
 msgstr[2] "%1 / %n faidhlichean"
 msgstr[3] "%1 / %n faidhle"
 
-#: kwidgetjobtracker.cpp:387
+#: kwidgetjobtracker.cpp:394
+#, fuzzy, qt-format
+#| msgctxt "KWidgetJobTracker|"
+#| msgid "%1 / %n file(s)"
+#| msgid_plural "%1 / %n file(s)"
+msgctxt "KWidgetJobTracker|"
+msgid "%1 / %n item(s)"
+msgid_plural "%1 / %n item(s)"
+msgstr[0] "%1 / %n fhaidhle"
+msgstr[1] "%1 / %n fhaidhle"
+msgstr[2] "%1 / %n faidhlichean"
+msgstr[3] "%1 / %n faidhle"
+
+#: kwidgetjobtracker.cpp:405
 #, qt-format
 msgctxt "KWidgetJobTracker|"
 msgid "%1% of %2"
 msgstr "%1% de %2"
 
-#: kwidgetjobtracker.cpp:392
+#: kwidgetjobtracker.cpp:410
 #, qt-format
 msgctxt "KWidgetJobTracker|"
 msgid "%1% of %n file(s)"
@@ -141,18 +154,18 @@ msgstr[1] "%1% fhaidhle à %n"
 msgstr[2] "%1% faidhlichean à %n"
 msgstr[3] "%1% faidhle à %n"
 
-#: kwidgetjobtracker.cpp:394
+#: kwidgetjobtracker.cpp:412
 #, qt-format
 msgctxt "KWidgetJobTracker|"
 msgid "%1%"
 msgstr "%1%"
 
-#: kwidgetjobtracker.cpp:407
+#: kwidgetjobtracker.cpp:425
 msgctxt "KWidgetJobTracker|"
 msgid "Stalled"
 msgstr "'Na dhàil"
 
-#: kwidgetjobtracker.cpp:414
+#: kwidgetjobtracker.cpp:432
 #, qt-format
 msgctxt "KWidgetJobTracker|"
 msgid "%1/s (%2 remaining)"
@@ -162,81 +175,91 @@ msgstr[1] "%1/s (%2 air fhàgail)"
 msgstr[2] "%1/s (%2 air fhàgail)"
 msgstr[3] "%1/s (%2 air fhàgail)"
 
-#: kwidgetjobtracker.cpp:416
+#: kwidgetjobtracker.cpp:434
 #, qt-format
 msgctxt "KWidgetJobTracker|speed in bytes per second"
 msgid "%1/s"
 msgstr "%1/s"
 
-#: kwidgetjobtracker.cpp:424
+#: kwidgetjobtracker.cpp:442
 msgctxt "KWidgetJobTracker|"
 msgid "&Close"
 msgstr "&Dùin"
 
-#: kwidgetjobtracker.cpp:426
+#: kwidgetjobtracker.cpp:444
 msgctxt "KWidgetJobTracker|"
 msgid "Close the current window or document"
 msgstr "Dùin an uinneag no an sgrìobhainn làithreach"
 
-#: kwidgetjobtracker.cpp:439
+#: kwidgetjobtracker.cpp:457
 #, qt-format
 msgctxt "KWidgetJobTracker|"
 msgid "%1/s (done)"
 msgstr "%1/s (coileanta)"
 
-#: kwidgetjobtracker.cpp:446
+#: kwidgetjobtracker.cpp:464
 msgctxt "KWidgetJobTracker|"
 msgid "&Resume"
 msgstr "Lean ai&r adhart"
 
-#: kwidgetjobtracker.cpp:452 kwidgetjobtracker.cpp:524
+#: kwidgetjobtracker.cpp:470 kwidgetjobtracker.cpp:542
 msgctxt "KWidgetJobTracker|"
 msgid "&Pause"
 msgstr "Cuir 'na &stad"
 
-#: kwidgetjobtracker.cpp:476
+#: kwidgetjobtracker.cpp:494
 msgctxt "KWidgetJobTracker|The source url of a job"
 msgid "Source:"
 msgstr "Tùs:"
 
-#: kwidgetjobtracker.cpp:484
+#: kwidgetjobtracker.cpp:502
 msgctxt "KWidgetJobTracker|The destination url of a job"
 msgid "Destination:"
 msgstr "Ceann-uidhe:"
 
-#: kwidgetjobtracker.cpp:508 kwidgetjobtracker.cpp:691
+#: kwidgetjobtracker.cpp:526 kwidgetjobtracker.cpp:708
 msgctxt "KWidgetJobTracker|"
 msgid "Click this to expand the dialog, to show details"
 msgstr ""
 "Briog an-seo gus an còmhradh a mheudachadh 's barrachd fiosrachaidh a "
 "shealltainn"
 
-#: kwidgetjobtracker.cpp:545
+#: kwidgetjobtracker.cpp:563
 msgctxt "KWidgetJobTracker|"
 msgid "&Keep this window open after transfer is complete"
 msgstr "&Cum an uinneag seo fosgailte nuair a bhios an tar-chur coileanta"
 
-#: kwidgetjobtracker.cpp:554
+#: kwidgetjobtracker.cpp:572
 msgctxt "KWidgetJobTracker|"
 msgid "Open &File"
 msgstr "Fosgail am &faidhle"
 
-#: kwidgetjobtracker.cpp:561
+#: kwidgetjobtracker.cpp:579
 msgctxt "KWidgetJobTracker|"
 msgid "Open &Destination"
 msgstr "Fosgail an ceann-&uidhe"
 
-#: kwidgetjobtracker.cpp:570
+#: kwidgetjobtracker.cpp:588
 msgctxt "KWidgetJobTracker|"
 msgid "&Cancel"
 msgstr "&Sguir dheth"
 
-#: kwidgetjobtracker.cpp:579
+#: kwidgetjobtracker.cpp:597
 msgctxt "KWidgetJobTracker|"
 msgid "Progress Dialog"
 msgstr "Còmhradh pròiseis"
 
-#: kwidgetjobtracker.cpp:594
+#: kwidgetjobtracker.cpp:608
+#, qt-format
+msgctxt "KWidgetJobTracker|"
+msgid "%n item(s)"
+msgid_plural "%n item(s)"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: kwidgetjobtracker.cpp:612
 #, qt-format
 msgctxt "KWidgetJobTracker|"
 msgid "%n folder(s)"
@@ -246,7 +269,7 @@ msgstr[1] "%n phasgan"
 msgstr[2] "%n pasganan"
 msgstr[3] "%n pasgan"
 
-#: kwidgetjobtracker.cpp:598
+#: kwidgetjobtracker.cpp:614
 #, qt-format
 msgctxt "KWidgetJobTracker|"
 msgid "%n file(s)"
@@ -256,7 +279,7 @@ msgstr[1] "%n fhaidhle"
 msgstr[2] "%n faidhlichean"
 msgstr[3] "%n faidhle"
 
-#: kwidgetjobtracker.cpp:684
+#: kwidgetjobtracker.cpp:701
 msgctxt "KWidgetJobTracker|"
 msgid "Click this to collapse the dialog, to hide details"
 msgstr "Briog an-seo gus an còmhradh a lùghdachadh 's fiosrachaidh fhalach"

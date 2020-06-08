@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kconfigwidgets5\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-02-07 03:03+0100\n"
+"POT-Creation-Date: 2020-06-08 02:02+0200\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -610,31 +610,31 @@ msgstr ""
 msgid "&Donate"
 msgstr ""
 
-#: ktipdialog.cpp:241
+#: ktipdialog.cpp:242
 #, kde-format
 msgctxt "@title:window"
 msgid "Tip of the Day"
 msgstr "Gliocas an latha"
 
-#: ktipdialog.cpp:257
+#: ktipdialog.cpp:258
 #, kde-format
 msgctxt "@title"
 msgid "Did you know...?\n"
 msgstr "An robh fios agad...?\n"
 
-#: ktipdialog.cpp:311
+#: ktipdialog.cpp:312
 #, kde-format
 msgctxt "@option:check"
 msgid "&Show tips on startup"
 msgstr "&Seall na gliocasan aig an toiseach"
 
-#: ktipdialog.cpp:316
+#: ktipdialog.cpp:317
 #, kde-format
 msgctxt "@action:button Goes to previous tip"
 msgid "&Previous"
 msgstr "Ai&r ais"
 
-#: ktipdialog.cpp:321
+#: ktipdialog.cpp:322
 #, kde-format
 msgctxt "@action:button Goes to next tip, opposite to previous"
 msgid "&Next"
