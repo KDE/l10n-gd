@@ -119,19 +119,31 @@ msgid "%1 ( %2 )"
 msgstr "%1 ( %2 )"
 
 #: kemailaddress.cpp:516
+#, fuzzy
+#| msgctxt "QObject|"
+#| msgid ""
+#| "The email address you entered is not valid because it contains more than "
+#| "one @. You will not create valid messages if you do not change your "
+#| "address."
 msgctxt "QObject|"
 msgid ""
 "The email address you entered is not valid because it contains more than one "
-"@. You will not create valid messages if you do not change your address."
+"@.\n"
+"You will not create valid messages if you do not change your address."
 msgstr ""
 "Chan eil an seòladh puist-d a chuir thu a-steach dligheach on a tha iomadh @ "
 "'na bhroinn. Cha chruthaich thu teachdaireachdan dligheach mur atharraich "
 "thu an seòladh agad."
 
 #: kemailaddress.cpp:521
+#, fuzzy
+#| msgctxt "QObject|"
+#| msgid ""
+#| "The email address you entered is not valid because it does not contain a "
+#| "@. You will not create valid messages if you do not change your address."
 msgctxt "QObject|"
 msgid ""
-"The email address you entered is not valid because it does not contain a @. "
+"The email address you entered is not valid because it does not contain a @.\n"
 "You will not create valid messages if you do not change your address."
 msgstr ""
 "Chan eil an seòladh puist-d a chuir thu a-steach dligheach air sgàth 's nach "
@@ -204,9 +216,15 @@ msgstr ""
 "bheil cromag 'na bhroinn air nach eil dùil."
 
 #: kemailaddress.cpp:548
+#, fuzzy
+#| msgctxt "QObject|"
+#| msgid ""
+#| "The email address you entered is not valid because it ended unexpectedly. "
+#| "This probably means you have used an escaping type character like a '\\' "
+#| "as the last character in your email address."
 msgctxt "QObject|"
 msgid ""
-"The email address you entered is not valid because it ended unexpectedly. "
+"The email address you entered is not valid because it ended unexpectedly.\n"
 "This probably means you have used an escaping type character like a '\\' as "
 "the last character in your email address."
 msgstr ""
@@ -224,7 +242,7 @@ msgstr ""
 "Chan eil an seòladh puist-d a chuir thu a-steach dligheach air sgàth 's gu "
 "bheil teacsa le comharran-iomraidh 'na bhroinn nach dig gu crìoch."
 
-#: kemailaddress.cpp:556 kemailaddress.cpp:633
+#: kemailaddress.cpp:556
 msgctxt "QObject|"
 msgid ""
 "The email address you entered is not valid because it does not seem to "
@@ -253,10 +271,16 @@ msgstr ""
 "bheil ainm taisbeanaidh mì-dhligheach 'na bhroinn."
 
 #: kemailaddress.cpp:566
+#, fuzzy
+#| msgctxt "QObject|"
+#| msgid ""
+#| "The email address you entered is not valid because it does not contain a "
+#| "'.'. You will not create valid messages if you do not change your address."
 msgctxt "QObject|"
 msgid ""
 "The email address you entered is not valid because it does not contain a "
-"'.'. You will not create valid messages if you do not change your address."
+"'.'.\n"
+"You will not create valid messages if you do not change your address."
 msgstr ""
 "Chan eil an seòladh puist-d a chuir thu a-steach dligheach air sgàth 's nach "
 "eil \".\" 'na bhroinn. Cha chruthaich thu teachdaireachdan dligheach mur "
@@ -266,6 +290,23 @@ msgstr ""
 msgctxt "QObject|"
 msgid "Unknown problem with email address"
 msgstr "Duilgheadas nach aithne dhuinn le seòladh puist-d"
+
+#: kemailaddress.cpp:633
+#, fuzzy
+#| msgctxt "QObject|"
+#| msgid ""
+#| "The email address you entered is not valid because it does not seem to "
+#| "contain an actual email address, i.e. something of the form joe@example."
+#| "org."
+msgctxt "QObject|"
+msgid ""
+"The email address you entered is not valid.\n"
+"It does not seem to contain an actual email address, i.e. something of the "
+"form joe@example.org."
+msgstr ""
+"Chan eil an seòladh puist-d a chuir thu a-steach dligheach air sgàth 's nach "
+"eil coltas seòlaidh puist-d air, can rudeigin dhen chruth iain@ball-"
+"eisimpleir.org."
 
 #: kencodingprober.cpp:224 kencodingprober.cpp:265
 msgctxt "KEncodingProber|@item Text character set"
