@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwalletd5\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-04-20 03:07+0200\n"
+"POT-Creation-Date: 2020-06-15 02:06+0200\n"
 "PO-Revision-Date: 2016-05-04 18:07+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -354,7 +354,7 @@ msgstr ""
 
 #. i18n( "&Open" ), "wallet-open"));
 #: kwalletd.cpp:635 kwalletd.cpp:778 kwalletd.cpp:894 kwalletd.cpp:1023
-#: kwalletd.cpp:1050 kwalletd.cpp:1064 kwalletd.cpp:1073 kwalletd.cpp:1624
+#: kwalletd.cpp:1050 kwalletd.cpp:1064 kwalletd.cpp:1073 kwalletd.cpp:1683
 #: main.cpp:178 main.cpp:184 main.cpp:186
 #, kde-format
 msgid "KDE Wallet Service"
@@ -493,7 +493,7 @@ msgid "Error reopening the wallet. Data may be lost."
 msgstr ""
 "Mearachd le ath-fhosgladh an sporain. Dh'fhaoidte gun deach dàta air chall."
 
-#: kwalletd.cpp:1622
+#: kwalletd.cpp:1681
 #, kde-format
 msgid ""
 "There have been repeated failed attempts to gain access to a wallet. An "
