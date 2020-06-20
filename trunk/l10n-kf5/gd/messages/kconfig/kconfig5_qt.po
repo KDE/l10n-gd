@@ -412,8 +412,8 @@ msgstr "Dèan aithris air buga"
 
 #: gui/kstandardshortcut.cpp:160
 msgctxt "KStandardShortcut|@action"
-msgid "Switch Application Language"
-msgstr "Atharraich cànan na h-aplacaid"
+msgid "Configure Language..."
+msgstr ""
 
 #: gui/kstandardshortcut.cpp:161
 msgctxt "KStandardShortcut|@action"
@@ -541,6 +541,10 @@ msgid "The value to write. Mandatory, on a shell use '' for empty"
 msgstr ""
 "An luach a thèid a sgrìobhadh. Tha seo riatanach, cleachd '' air shell "
 "airson luach falamh."
+
+#~ msgctxt "KStandardShortcut|@action"
+#~ msgid "Switch Application Language"
+#~ msgstr "Atharraich cànan na h-aplacaid"
 
 #~ msgctxt "KStandardShortcut|@action"
 #~ msgid "Preferences"

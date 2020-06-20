@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-05 02:01+0200\n"
+"POT-Creation-Date: 2020-06-20 02:01+0200\n"
 "PO-Revision-Date: 2016-04-30 17:56+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -868,7 +868,7 @@ msgid "Change Icon"
 msgstr "Atharraich an ìomhaigheag"
 
 #. i18n: ectx: Menu (help)
-#: khelpmenu.cpp:172 ui_standards.rc:177
+#: khelpmenu.cpp:172 ui_standards.rc:178
 #, kde-format
 msgid "&Help"
 msgstr "Cob&hair"
@@ -1388,10 +1388,10 @@ msgstr "%1"
 
 #: kswitchlanguagedialog_p.cpp:159
 #, fuzzy, kde-format
-#| msgid "Switch Application Language"
+#| msgid "Configure Toolbars"
 msgctxt "@title:window"
-msgid "Switch Application Language"
-msgstr "Atharraich cànan na h-aplacaid"
+msgid "Configure Language"
+msgstr "Rèitich na bàraichean-inneal"
 
 #: kswitchlanguagedialog_p.cpp:164
 #, kde-format
@@ -1683,10 +1683,16 @@ msgid "&Settings"
 msgstr "&Roghainnean"
 
 #. i18n: ectx: ToolBar (mainToolBar)
-#: ui_standards.rc:196
+#: ui_standards.rc:195
 #, kde-format
 msgid "Main Toolbar"
 msgstr "Am prìomh bhàr-inneal"
+
+#, fuzzy
+#~| msgid "Switch Application Language"
+#~ msgctxt "@title:window"
+#~ msgid "Switch Application Language"
+#~ msgstr "Atharraich cànan na h-aplacaid"
 
 #~ msgid "Compiler:"
 #~ msgstr "Trusaiche:"
