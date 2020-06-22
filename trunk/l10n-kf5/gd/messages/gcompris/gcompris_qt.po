@@ -3680,6 +3680,7 @@ msgstr ""
 #: activities/click_on_letter_up/ActivityInfo.qml:36
 #: activities/graph-coloring/ActivityInfo.qml:36
 #: activities/simplepaint/ActivityInfo.qml:36
+#: activities/solar_system/ActivityInfo.qml:39
 msgctxt "ActivityInfo|"
 msgid "<b>Keyboard controls:</b>"
 msgstr ""
@@ -3687,6 +3688,7 @@ msgstr ""
 #: activities/click_on_letter/ActivityInfo.qml:37
 #: activities/click_on_letter_up/ActivityInfo.qml:37
 #: activities/simplepaint/ActivityInfo.qml:37
+#: activities/solar_system/ActivityInfo.qml:40
 msgctxt "ActivityInfo|"
 msgid "-Use Arrow keys to navigate"
 msgstr ""
@@ -15403,7 +15405,7 @@ msgstr ""
 msgctxt "Data|"
 msgid ""
 "Michelle has 12 pieces of candy and wants to split them with four brothers "
-"and one sisters. Help her share the pieces of candy!"
+"and one sister. Help her share the pieces of candy!"
 msgstr ""
 
 #: activities/share/resource/1/Data.qml:233
@@ -15530,7 +15532,7 @@ msgctxt "Data|"
 msgid ""
 "Jon wants to share the rest of his pieces of candies with his brothers and "
 "his sisters. Can you split them equally, knowing that his brothers already "
-"has two pieces of candy?"
+"have two pieces of candy?"
 msgstr ""
 
 #: activities/share/resource/2/Data.qml:211
@@ -15975,17 +15977,31 @@ msgctxt "ActivityInfo|"
 msgid ""
 "Learn information about the solar system. If you want to learn more about "
 "astronomy, try downloading KStars (https://edu.kde.org/kstars/) or "
-"Stellarium (https://stellarium.org/) which are open source astronomy "
-"softwares."
+"Stellarium (https://stellarium.org/) which are astronomy Free Software."
 msgstr ""
 
 #. Help manual
 #: activities/solar_system/ActivityInfo.qml:38
 msgctxt "ActivityInfo|"
 msgid ""
-"Click on a planet or the Sun to reveal questions. Each question contains 4 "
-"options. One of those is 100% correct. Try to answer the questions until you "
-"get a 100% closeness in the closeness meter."
+"Click on a planet or on the Sun, and answer the corresponding questions. "
+"Each question contains 4 options. One of those is 100% correct. Try to "
+"answer the questions until you get 100% in the closeness meter."
+msgstr ""
+
+#: activities/solar_system/ActivityInfo.qml:41
+msgctxt "ActivityInfo|"
+msgid "-Use Space or Enter key to select"
+msgstr ""
+
+#: activities/solar_system/ActivityInfo.qml:42
+msgctxt "ActivityInfo|"
+msgid "-Use Escape key to return to previous screen"
+msgstr ""
+
+#: activities/solar_system/ActivityInfo.qml:43
+msgctxt "ActivityInfo|"
+msgid "-Use Tab key when the hint icon is visible to open it"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:25
@@ -16954,25 +16970,25 @@ msgctxt "Dataset|"
 msgid "How large is Neptune compared to other planets in the Solar System?"
 msgstr ""
 
-#: activities/solar_system/QuizScreen.qml:202
+#: activities/solar_system/QuizScreen.qml:211
 #, qt-format
 msgctxt "QuizScreen|"
 msgid "Accuracy: %1%"
 msgstr ""
 
-#: activities/solar_system/QuizScreen.qml:242
+#: activities/solar_system/QuizScreen.qml:251
 #, qt-format
 msgctxt "QuizScreen|"
 msgid "%1%"
 msgstr ""
 
-#: activities/solar_system/QuizScreen.qml:286
+#: activities/solar_system/QuizScreen.qml:295
 #, qt-format
 msgctxt "QuizScreen|"
 msgid "Your final score is: <font color=\"#3bb0de\">%1%</font>.<br><br>%2"
 msgstr ""
 
-#: activities/solar_system/QuizScreen.qml:286
+#: activities/solar_system/QuizScreen.qml:295
 msgctxt "QuizScreen|"
 msgid ""
 "You should score above 90% to become a Solar System expert!<br>Retry to test "
@@ -16980,14 +16996,14 @@ msgid ""
 "System."
 msgstr ""
 
-#: activities/solar_system/QuizScreen.qml:286
+#: activities/solar_system/QuizScreen.qml:295
 msgctxt "QuizScreen|"
 msgid ""
 "Great! You can replay the assessment to test your knowledge on more "
 "questions."
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:106
+#: activities/solar_system/SolarSystem.qml:167
 #, qt-format
 msgctxt "SolarSystem|"
 msgid ""
@@ -16998,12 +17014,12 @@ msgid ""
 "knowledge about the Solar System."
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:106
+#: activities/solar_system/SolarSystem.qml:167
 msgctxt "SolarSystem|"
 msgid "Assessment"
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:106
+#: activities/solar_system/SolarSystem.qml:167
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Learning Clock"
@@ -17011,14 +17027,14 @@ msgctxt "SolarSystem|"
 msgid "Learning"
 msgstr "Ag ionnsachadh an uaireadair"
 
-#: activities/solar_system/SolarSystem.qml:110
+#: activities/solar_system/SolarSystem.qml:171
 msgctxt "SolarSystem|"
 msgid ""
 "Click on the Sun or any planet to reveal questions. Each question will have "
 "4 options, out of which one is correct."
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:111
+#: activities/solar_system/SolarSystem.qml:172
 msgctxt "SolarSystem|"
 msgid ""
 "After a planet is clicked, the Closeness meter at the bottom-right corner of "
@@ -17028,14 +17044,14 @@ msgid ""
 "correct answer."
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:116
+#: activities/solar_system/SolarSystem.qml:177
 msgctxt "SolarSystem|"
 msgid ""
 "There are 20 questions initially with 4 options each. The progress bar at "
 "the bottom right of the screen shows your percentage score."
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:117
+#: activities/solar_system/SolarSystem.qml:178
 msgctxt "SolarSystem|"
 msgid ""
 "If your answer is correct, your score will increase.<br>If your answer is "
@@ -17044,14 +17060,14 @@ msgid ""
 "be asked after which no more question will be added."
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:118
+#: activities/solar_system/SolarSystem.qml:179
 msgctxt "SolarSystem|"
 msgid ""
 "You should score above 90% to pass the assessment and become a Solar System "
 "expert!"
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:290
+#: activities/solar_system/SolarSystem.qml:360
 #, qt-format
 msgctxt "SolarSystem|"
 msgid ""
@@ -17059,7 +17075,7 @@ msgid ""
 "temperature.<br><font color=\"#3bb0de\">%1</font>"
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:291
+#: activities/solar_system/SolarSystem.qml:361
 #, qt-format
 msgctxt "SolarSystem|"
 msgid ""
@@ -17068,7 +17084,7 @@ msgid ""
 msgstr ""
 
 #. find an equivalent rhyme in your language where the first letter of each word corresponds to the first letter of the planet in proper sequence
-#: activities/solar_system/SolarSystem.qml:294
+#: activities/solar_system/SolarSystem.qml:364
 #, qt-format
 msgctxt "SolarSystem|"
 msgid ""
@@ -17078,12 +17094,12 @@ msgid ""
 "\"#3bb0de\">%1</font>"
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:296
+#: activities/solar_system/SolarSystem.qml:366
 msgctxt "SolarSystem|"
 msgid "Hint"
 msgstr ""
 
-#: activities/solar_system/SolarSystem.qml:303
+#: activities/solar_system/SolarSystem.qml:374
 msgctxt "SolarSystem|"
 msgid "View solar system"
 msgstr ""
