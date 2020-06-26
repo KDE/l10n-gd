@@ -7433,6 +7433,26 @@ msgid ""
 "redraw the whole country."
 msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
 
+#: activities/geo-country/resource/1/Data.qml:24
+msgctxt "Data|"
+msgid "Countries of America."
+msgstr ""
+
+#: activities/geo-country/resource/2/Data.qml:24
+msgctxt "Data|"
+msgid "Countries of Asia."
+msgstr ""
+
+#: activities/geo-country/resource/3/Data.qml:24
+msgctxt "Data|"
+msgid "Countries of Australia."
+msgstr ""
+
+#: activities/geo-country/resource/4/Data.qml:24
+msgctxt "Data|"
+msgid "Countries of Europe."
+msgstr ""
+
 #: activities/geo-country/resource/board/board10_0.qml:26
 msgctxt "board10_0|"
 msgid "United States of America"
@@ -15567,7 +15587,7 @@ msgid ""
 "George wants to equally share 14 pieces of candy between 4 of his friends: "
 "two girls and two boys. Can he equally split the pieces of candy between his "
 "friends? First, place the children in center, then drag the pieces of candy "
-"to each of them. Be careful."
+"to each of them. Be careful!"
 msgstr ""
 
 #: activities/share/resource/2/Data.qml:279
