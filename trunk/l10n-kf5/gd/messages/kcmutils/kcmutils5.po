@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-06 02:01+0200\n"
+"POT-Creation-Date: 2020-06-29 02:01+0200\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -118,7 +118,7 @@ msgstr ""
 msgid "Apply Settings"
 msgstr "Cuir na roghainnean an sàs"
 
-#: kcmultidialog.cpp:239 kpluginselector.cpp:736
+#: kcmultidialog.cpp:239 kpluginselector.cpp:745
 #, kde-format
 msgid "Configure"
 msgstr "Rèitich"
@@ -531,7 +531,7 @@ msgstr[3] ""
 msgid "Search..."
 msgstr ""
 
-#: kpluginselector.cpp:731
+#: kpluginselector.cpp:740
 #, fuzzy, kde-format
 #| msgctxt "Used only for plugins"
 #| msgid "About %1"
