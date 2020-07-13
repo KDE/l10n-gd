@@ -10462,12 +10462,12 @@ msgctxt "LetterInWord|"
 msgid "Select your locale"
 msgstr ""
 
-#: activities/letter-in-word/LetterInWord.qml:426
+#: activities/letter-in-word/LetterInWord.qml:449
 msgctxt "LetterInWord|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 
-#: activities/letter-in-word/LetterInWord.qml:427
+#: activities/letter-in-word/LetterInWord.qml:450
 #, qt-format
 msgctxt "LetterInWord|"
 msgid ""
@@ -10475,7 +10475,7 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 
-#: activities/letter-in-word/LetterInWord.qml:429
+#: activities/letter-in-word/LetterInWord.qml:452
 msgctxt "LetterInWord|"
 msgid ""
 "We switched to English for this activity but you can select another language "
@@ -18762,22 +18762,22 @@ msgctxt "GCCreationHandler|"
 msgid "Delete"
 msgstr ""
 
-#: core/IntroMessage.qml:176
+#: core/IntroMessage.qml:175
 msgctxt "IntroMessage|"
 msgid "Previous"
 msgstr ""
 
-#: core/IntroMessage.qml:192
+#: core/IntroMessage.qml:191
 msgctxt "IntroMessage|"
 msgid "Next"
 msgstr ""
 
-#: core/IntroMessage.qml:207
+#: core/IntroMessage.qml:206
 msgctxt "IntroMessage|"
 msgid "Skip"
 msgstr ""
 
-#: core/IntroMessage.qml:207
+#: core/IntroMessage.qml:206
 msgctxt "IntroMessage|"
 msgid "Start"
 msgstr ""
