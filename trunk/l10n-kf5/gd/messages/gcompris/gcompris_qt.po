@@ -3679,6 +3679,7 @@ msgstr ""
 #: activities/click_on_letter/ActivityInfo.qml:36
 #: activities/click_on_letter_up/ActivityInfo.qml:36
 #: activities/graph-coloring/ActivityInfo.qml:36
+#: activities/piano_composition/ActivityInfo.qml:44
 #: activities/simplepaint/ActivityInfo.qml:36
 #: activities/solar_system/ActivityInfo.qml:39
 msgctxt "ActivityInfo|"
@@ -12845,12 +12846,12 @@ msgstr ""
 "Chì thu nì air a’ phrìomh raon is facal neo-choileanta fon dealbh. Tagh an "
 "litir a tha a dhìth gus am facal a dhèanamh coileanta."
 
-#: activities/missing-letter/MissingLetter.qml:313
+#: activities/missing-letter/MissingLetter.qml:315
 msgctxt "MissingLetter|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 
-#: activities/missing-letter/MissingLetter.qml:314
+#: activities/missing-letter/MissingLetter.qml:316
 #, qt-format
 msgctxt "MissingLetter|"
 msgid ""
@@ -12858,7 +12859,7 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 
-#: activities/missing-letter/MissingLetter.qml:316
+#: activities/missing-letter/MissingLetter.qml:318
 msgctxt "MissingLetter|"
 msgid ""
 "We switched to English for this activity but you can select another language "
@@ -13710,7 +13711,7 @@ msgstr ""
 msgctxt "ActivityInfo|"
 msgid ""
 "This activity has several levels, each level adds a new functionality to the "
-"previous level. \n"
+"previous level.\n"
 "  Level 1: Basic piano keyboard (white keys only) and students can "
 "experiment with clicking the colored rectangle keys to write music.\n"
 "  Level 2: The musical staff switches to bass clef, so pitches are lower "
@@ -13722,24 +13723,48 @@ msgid ""
 "notes).\n"
 "  Level 6: Addition of rests (whole, half, quarter, eighth rests)\n"
 "  Level 7: Load children's melodies from around the world and also save your "
-"composition.\n"
-"\n"
-"The following keyboard bindings work in this game:\n"
-"- backspace: undo\n"
-"- delete: erase attempt\n"
-"- enter/return: OK button\n"
-"- space bar: play\n"
-"- left/right arrow keys: switch keyboard octave\n"
-"- number keys:\n"
-"  - 1 to 8: Corresponding white keys in the order on the displayed octave.\n"
-"  - F1 to F5: Corresponding black keys in the order on the displayed "
-"octave.\n"
+"composition."
 msgstr ""
 
-#: activities/piano_composition/ActivityInfo.qml:55
-#: activities/play_piano/ActivityInfo.qml:40
+#: activities/piano_composition/ActivityInfo.qml:45
 msgctxt "ActivityInfo|"
-msgid "The synthesizer original code is https://github.com/vsr83/miniSynth"
+msgid "-backspace: undo"
+msgstr ""
+
+#: activities/piano_composition/ActivityInfo.qml:46
+msgctxt "ActivityInfo|"
+msgid "-delete: erase attempt"
+msgstr ""
+
+#: activities/piano_composition/ActivityInfo.qml:47
+msgctxt "ActivityInfo|"
+msgid "-enter/return: OK button"
+msgstr ""
+
+#: activities/piano_composition/ActivityInfo.qml:48
+msgctxt "ActivityInfo|"
+msgid "-space bar: play"
+msgstr ""
+
+#: activities/piano_composition/ActivityInfo.qml:49
+msgctxt "ActivityInfo|"
+msgid "-left/right arrow keys: switch keyboard octave"
+msgstr ""
+
+#: activities/piano_composition/ActivityInfo.qml:50
+msgctxt "ActivityInfo|"
+msgid "-numbers 1 to 7: white keys"
+msgstr ""
+
+#: activities/piano_composition/ActivityInfo.qml:51
+msgctxt "ActivityInfo|"
+msgid "-F2 to F7: black keys"
+msgstr ""
+
+#: activities/piano_composition/ActivityInfo.qml:52
+msgctxt "ActivityInfo|"
+msgid ""
+"The synthesizer original code is from https://github.com/vsr83/miniSynth"
 msgstr ""
 
 #. BPM is the abbreviation for Beats Per Minute.
@@ -14065,22 +14090,22 @@ msgctxt "piano_composition|"
 msgid "Saved melody to your file (%1)"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:375
+#: activities/piano_composition/Piano_composition.qml:364
 msgctxt "Piano_composition|"
 msgid "You have not selected any note. Do you want to erase all the notes?"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:376
+#: activities/piano_composition/Piano_composition.qml:365
 msgctxt "Piano_composition|"
 msgid "Yes"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:382
+#: activities/piano_composition/Piano_composition.qml:371
 msgctxt "Piano_composition|"
 msgid "No"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:433
+#: activities/piano_composition/Piano_composition.qml:422
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Click on the correct color"
@@ -14088,12 +14113,12 @@ msgctxt "Piano_composition|"
 msgid "Select the type of melody to load."
 msgstr "Briog air an dath cheart"
 
-#: activities/piano_composition/Piano_composition.qml:438
+#: activities/piano_composition/Piano_composition.qml:427
 msgctxt "Piano_composition|"
 msgid "Pre-defined melodies"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:458
+#: activities/piano_composition/Piano_composition.qml:447
 msgctxt "Piano_composition|"
 msgid "Your saved melodies"
 msgstr ""
@@ -14317,6 +14342,11 @@ msgid ""
 "The notes you see will be played to you. Click on the corresponding keys on "
 "the keyboard that match the notes you hear and see.<br>Levels 1-5 will offer "
 "treble clef to practice and levels 6-10 will offer bass clef."
+msgstr ""
+
+#: activities/play_piano/ActivityInfo.qml:40
+msgctxt "ActivityInfo|"
+msgid "The synthesizer original code is https://github.com/vsr83/miniSynth"
 msgstr ""
 
 #: activities/play_piano/PlayPiano.qml:185
