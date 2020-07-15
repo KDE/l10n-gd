@@ -2362,6 +2362,21 @@ msgid ""
 "canal it is connected with. Use this property to help Tux get the job done."
 msgstr ""
 
+#: activities/categorization/ActivityConfig.qml:49
+msgctxt "ActivityConfig|"
+msgid "Put together all the elements from a category (with score)"
+msgstr ""
+
+#: activities/categorization/ActivityConfig.qml:62
+msgctxt "ActivityConfig|"
+msgid "Put together all the elements from a category (without score)"
+msgstr ""
+
+#: activities/categorization/ActivityConfig.qml:75
+msgctxt "ActivityConfig|"
+msgid "Discover a category, grouping elements together"
+msgstr ""
+
 #. Activity title
 #: activities/categorization/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -2393,22 +2408,7 @@ msgid ""
 "Review the instructions and then drag and drop the elements as specified"
 msgstr ""
 
-#: activities/categorization/Categorization.qml:133
-msgctxt "Categorization|"
-msgid "Put together all the elements from a category (with score)"
-msgstr ""
-
-#: activities/categorization/Categorization.qml:147
-msgctxt "Categorization|"
-msgid "Put together all the elements from a category (without score)"
-msgstr ""
-
-#: activities/categorization/Categorization.qml:161
-msgctxt "Categorization|"
-msgid "Discover a category, grouping elements together"
-msgstr ""
-
-#: activities/categorization/Categorization.qml:224
+#: activities/categorization/Categorization.qml:170
 msgctxt "Categorization|"
 msgid ""
 "You don't have all the images for this activity. Press Update to get the "
@@ -2416,7 +2416,7 @@ msgid ""
 "this dialog later' if you want to never see again this dialog."
 msgstr ""
 
-#: activities/categorization/Categorization.qml:227
+#: activities/categorization/Categorization.qml:173
 #, fuzzy
 #| msgctxt "instruments|"
 #| msgid "Find the triangle"
@@ -2424,7 +2424,7 @@ msgctxt "Categorization|"
 msgid "Update the image set"
 msgstr "Lorg an triantan"
 
-#: activities/categorization/Categorization.qml:228
+#: activities/categorization/Categorization.qml:174
 msgctxt "Categorization|"
 msgid "Never show this dialog later"
 msgstr ""
@@ -2438,6 +2438,21 @@ msgctxt "CategoryReview|"
 msgid ""
 "Place the majority category images to the right and other images to the left"
 msgstr "Thoir an càr dearg a-mach às an ionad-pàrcaidh tron gheata taobh deas"
+
+#: activities/categorization/resource/1/Data.qml:24
+msgctxt "Data|"
+msgid "Very Familiar categories."
+msgstr ""
+
+#: activities/categorization/resource/2/Data.qml:24
+msgctxt "Data|"
+msgid "Less familiar categories."
+msgstr ""
+
+#: activities/categorization/resource/3/Data.qml:24
+msgctxt "Data|"
+msgid "Unfamiliar categories."
+msgstr ""
 
 #: activities/categorization/resource/board/category_alphabets.qml:29
 msgctxt "category_alphabets|"
@@ -3680,6 +3695,9 @@ msgstr ""
 #: activities/click_on_letter_up/ActivityInfo.qml:36
 #: activities/graph-coloring/ActivityInfo.qml:36
 #: activities/piano_composition/ActivityInfo.qml:44
+#: activities/play_piano/ActivityInfo.qml:41
+#: activities/play_rhythm/ActivityInfo.qml:40
+#: activities/programmingMaze/ActivityInfo.qml:38
 #: activities/simplepaint/ActivityInfo.qml:36
 #: activities/solar_system/ActivityInfo.qml:39
 msgctxt "ActivityInfo|"
@@ -3691,20 +3709,20 @@ msgstr ""
 #: activities/simplepaint/ActivityInfo.qml:37
 #: activities/solar_system/ActivityInfo.qml:40
 msgctxt "ActivityInfo|"
-msgid "-Use Arrow keys to navigate"
+msgid "-Arrows: navigate"
 msgstr ""
 
 #: activities/click_on_letter/ActivityInfo.qml:38
 #: activities/click_on_letter_up/ActivityInfo.qml:38
 #: activities/graph-coloring/ActivityInfo.qml:38
 msgctxt "ActivityInfo|"
-msgid "-Use Space key to select an item"
+msgid "-Space: select an item"
 msgstr ""
 
 #: activities/click_on_letter/ActivityInfo.qml:39
 #: activities/click_on_letter_up/ActivityInfo.qml:39
 msgctxt "ActivityInfo|"
-msgid "-Use Tab key to repeat the question"
+msgid "-Tab: repeat the question"
 msgstr ""
 
 #. Activity title
@@ -9101,7 +9119,7 @@ msgstr ""
 
 #: activities/graph-coloring/ActivityInfo.qml:37
 msgctxt "ActivityInfo|"
-msgid "-Use Right and Left arrow keys to navigate"
+msgid "-Right and Left arrows: navigate"
 msgstr ""
 
 #. Activity title
@@ -13728,40 +13746,44 @@ msgstr ""
 
 #: activities/piano_composition/ActivityInfo.qml:45
 msgctxt "ActivityInfo|"
-msgid "-backspace: undo"
+msgid "-Backspace: undo"
 msgstr ""
 
 #: activities/piano_composition/ActivityInfo.qml:46
 msgctxt "ActivityInfo|"
-msgid "-delete: erase attempt"
+msgid "-Delete: erase attempt"
 msgstr ""
 
 #: activities/piano_composition/ActivityInfo.qml:47
 msgctxt "ActivityInfo|"
-msgid "-enter/return: OK button"
+msgid "-Enter or Return: OK button"
 msgstr ""
 
 #: activities/piano_composition/ActivityInfo.qml:48
+#: activities/play_piano/ActivityInfo.qml:43
 msgctxt "ActivityInfo|"
-msgid "-space bar: play"
+msgid "-Space: play"
 msgstr ""
 
 #: activities/piano_composition/ActivityInfo.qml:49
 msgctxt "ActivityInfo|"
-msgid "-left/right arrow keys: switch keyboard octave"
+msgid "-Left and Right arrows: switch keyboard octave"
 msgstr ""
 
 #: activities/piano_composition/ActivityInfo.qml:50
+#: activities/play_piano/ActivityInfo.qml:44
 msgctxt "ActivityInfo|"
-msgid "-numbers 1 to 7: white keys"
+msgid "-Numbers 1 to 7: white keys"
 msgstr ""
 
 #: activities/piano_composition/ActivityInfo.qml:51
+#: activities/play_piano/ActivityInfo.qml:45
 msgctxt "ActivityInfo|"
 msgid "-F2 to F7: black keys"
 msgstr ""
 
 #: activities/piano_composition/ActivityInfo.qml:52
+#: activities/play_piano/ActivityInfo.qml:46
 msgctxt "ActivityInfo|"
 msgid ""
 "The synthesizer original code is from https://github.com/vsr83/miniSynth"
@@ -14124,25 +14146,15 @@ msgid "Your saved melodies"
 msgstr ""
 
 #. Translators, C, D, E, F, G, A and B are the note notations in English musical notation system. The numbers in the arguments represents the octave number of the note. For instance, C4 is a C note in the 4th octave.
-#: activities/piano_composition/PianoOctaveKeyboard.qml:52
-#: activities/piano_composition/PianoOctaveKeyboard.qml:59
-#: activities/piano_composition/PianoOctaveKeyboard.qml:66
-#: activities/piano_composition/PianoOctaveKeyboard.qml:73
-#: activities/piano_composition/PianoOctaveKeyboard.qml:80
-#: activities/piano_composition/PianoOctaveKeyboard.qml:87
-#, qt-format
-msgctxt "PianoOctaveKeyboard|"
-msgid "F%1"
-msgstr ""
-
 #: activities/piano_composition/PianoOctaveKeyboard.qml:53
 #: activities/piano_composition/PianoOctaveKeyboard.qml:60
 #: activities/piano_composition/PianoOctaveKeyboard.qml:67
 #: activities/piano_composition/PianoOctaveKeyboard.qml:74
 #: activities/piano_composition/PianoOctaveKeyboard.qml:81
+#: activities/piano_composition/PianoOctaveKeyboard.qml:88
 #, qt-format
 msgctxt "PianoOctaveKeyboard|"
-msgid "G%1"
+msgid "F%1"
 msgstr ""
 
 #: activities/piano_composition/PianoOctaveKeyboard.qml:54
@@ -14152,7 +14164,7 @@ msgstr ""
 #: activities/piano_composition/PianoOctaveKeyboard.qml:82
 #, qt-format
 msgctxt "PianoOctaveKeyboard|"
-msgid "A%1"
+msgid "G%1"
 msgstr ""
 
 #: activities/piano_composition/PianoOctaveKeyboard.qml:55
@@ -14162,7 +14174,7 @@ msgstr ""
 #: activities/piano_composition/PianoOctaveKeyboard.qml:83
 #, qt-format
 msgctxt "PianoOctaveKeyboard|"
-msgid "B%1"
+msgid "A%1"
 msgstr ""
 
 #: activities/piano_composition/PianoOctaveKeyboard.qml:56
@@ -14172,7 +14184,7 @@ msgstr ""
 #: activities/piano_composition/PianoOctaveKeyboard.qml:84
 #, qt-format
 msgctxt "PianoOctaveKeyboard|"
-msgid "C%1"
+msgid "B%1"
 msgstr ""
 
 #: activities/piano_composition/PianoOctaveKeyboard.qml:57
@@ -14182,7 +14194,7 @@ msgstr ""
 #: activities/piano_composition/PianoOctaveKeyboard.qml:85
 #, qt-format
 msgctxt "PianoOctaveKeyboard|"
-msgid "D%1"
+msgid "C%1"
 msgstr ""
 
 #: activities/piano_composition/PianoOctaveKeyboard.qml:58
@@ -14192,34 +14204,36 @@ msgstr ""
 #: activities/piano_composition/PianoOctaveKeyboard.qml:86
 #, qt-format
 msgctxt "PianoOctaveKeyboard|"
+msgid "D%1"
+msgstr ""
+
+#: activities/piano_composition/PianoOctaveKeyboard.qml:59
+#: activities/piano_composition/PianoOctaveKeyboard.qml:66
+#: activities/piano_composition/PianoOctaveKeyboard.qml:73
+#: activities/piano_composition/PianoOctaveKeyboard.qml:80
+#: activities/piano_composition/PianoOctaveKeyboard.qml:87
+#, qt-format
+msgctxt "PianoOctaveKeyboard|"
 msgid "E%1"
 msgstr ""
 
 #. Translators, C♯, D♯, F♯, G♯, and A♯ are the note notations in English musical notation system. The numbers in the arguments represents the octave number of the note. For instance, C♯4 is a C♯ note in the 4th octave.
-#: activities/piano_composition/PianoOctaveKeyboard.qml:92
-#: activities/piano_composition/PianoOctaveKeyboard.qml:97
-#: activities/piano_composition/PianoOctaveKeyboard.qml:102
-#: activities/piano_composition/PianoOctaveKeyboard.qml:107
-#, qt-format
-msgctxt "PianoOctaveKeyboard|"
-msgid "C♯%1"
-msgstr ""
-
 #: activities/piano_composition/PianoOctaveKeyboard.qml:93
 #: activities/piano_composition/PianoOctaveKeyboard.qml:98
 #: activities/piano_composition/PianoOctaveKeyboard.qml:103
 #: activities/piano_composition/PianoOctaveKeyboard.qml:108
 #, qt-format
 msgctxt "PianoOctaveKeyboard|"
-msgid "D♯%1"
+msgid "C♯%1"
 msgstr ""
 
 #: activities/piano_composition/PianoOctaveKeyboard.qml:94
 #: activities/piano_composition/PianoOctaveKeyboard.qml:99
 #: activities/piano_composition/PianoOctaveKeyboard.qml:104
+#: activities/piano_composition/PianoOctaveKeyboard.qml:109
 #, qt-format
 msgctxt "PianoOctaveKeyboard|"
-msgid "F♯%1"
+msgid "D♯%1"
 msgstr ""
 
 #: activities/piano_composition/PianoOctaveKeyboard.qml:95
@@ -14227,7 +14241,7 @@ msgstr ""
 #: activities/piano_composition/PianoOctaveKeyboard.qml:105
 #, qt-format
 msgctxt "PianoOctaveKeyboard|"
-msgid "G♯%1"
+msgid "F♯%1"
 msgstr ""
 
 #: activities/piano_composition/PianoOctaveKeyboard.qml:96
@@ -14235,34 +14249,34 @@ msgstr ""
 #: activities/piano_composition/PianoOctaveKeyboard.qml:106
 #, qt-format
 msgctxt "PianoOctaveKeyboard|"
+msgid "G♯%1"
+msgstr ""
+
+#: activities/piano_composition/PianoOctaveKeyboard.qml:97
+#: activities/piano_composition/PianoOctaveKeyboard.qml:102
+#: activities/piano_composition/PianoOctaveKeyboard.qml:107
+#, qt-format
+msgctxt "PianoOctaveKeyboard|"
 msgid "A♯%1"
 msgstr ""
 
 #. Translators, D♭, E♭, G♭, A♭, B♭ are the note notations in English musical notation system. The numbers in the arguments represents the octave number of the note. For instance, D♭4 is a D♭ note in the 4th octave.
-#: activities/piano_composition/PianoOctaveKeyboard.qml:113
-#: activities/piano_composition/PianoOctaveKeyboard.qml:118
-#: activities/piano_composition/PianoOctaveKeyboard.qml:123
-#: activities/piano_composition/PianoOctaveKeyboard.qml:128
-#, qt-format
-msgctxt "PianoOctaveKeyboard|"
-msgid "D♭%1"
-msgstr ""
-
 #: activities/piano_composition/PianoOctaveKeyboard.qml:114
 #: activities/piano_composition/PianoOctaveKeyboard.qml:119
 #: activities/piano_composition/PianoOctaveKeyboard.qml:124
 #: activities/piano_composition/PianoOctaveKeyboard.qml:129
 #, qt-format
 msgctxt "PianoOctaveKeyboard|"
-msgid "E♭%1"
+msgid "D♭%1"
 msgstr ""
 
 #: activities/piano_composition/PianoOctaveKeyboard.qml:115
 #: activities/piano_composition/PianoOctaveKeyboard.qml:120
 #: activities/piano_composition/PianoOctaveKeyboard.qml:125
+#: activities/piano_composition/PianoOctaveKeyboard.qml:130
 #, qt-format
 msgctxt "PianoOctaveKeyboard|"
-msgid "G♭%1"
+msgid "E♭%1"
 msgstr ""
 
 #: activities/piano_composition/PianoOctaveKeyboard.qml:116
@@ -14270,12 +14284,20 @@ msgstr ""
 #: activities/piano_composition/PianoOctaveKeyboard.qml:126
 #, qt-format
 msgctxt "PianoOctaveKeyboard|"
-msgid "A♭%1"
+msgid "G♭%1"
 msgstr ""
 
 #: activities/piano_composition/PianoOctaveKeyboard.qml:117
 #: activities/piano_composition/PianoOctaveKeyboard.qml:122
 #: activities/piano_composition/PianoOctaveKeyboard.qml:127
+#, qt-format
+msgctxt "PianoOctaveKeyboard|"
+msgid "A♭%1"
+msgstr ""
+
+#: activities/piano_composition/PianoOctaveKeyboard.qml:118
+#: activities/piano_composition/PianoOctaveKeyboard.qml:123
+#: activities/piano_composition/PianoOctaveKeyboard.qml:128
 #, qt-format
 msgctxt "PianoOctaveKeyboard|"
 msgid "B♭%1"
@@ -14340,16 +14362,17 @@ msgstr ""
 msgctxt "ActivityInfo|"
 msgid ""
 "The notes you see will be played to you. Click on the corresponding keys on "
-"the keyboard that match the notes you hear and see.<br>Levels 1-5 will offer "
-"treble clef to practice and levels 6-10 will offer bass clef."
+"the keyboard that match the notes you hear and see.<br>\n"
+"            Levels 1-5 will offer treble clef to practice and levels 6-10 "
+"will offer bass clef."
 msgstr ""
 
-#: activities/play_piano/ActivityInfo.qml:40
+#: activities/play_piano/ActivityInfo.qml:42
 msgctxt "ActivityInfo|"
-msgid "The synthesizer original code is https://github.com/vsr83/miniSynth"
+msgid "-Backspace or Delete: undo"
 msgstr ""
 
-#: activities/play_piano/PlayPiano.qml:185
+#: activities/play_piano/PlayPiano.qml:177
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Kick the ball into the goal"
@@ -14392,14 +14415,37 @@ msgid ""
 "tempos.<br>Click on the reload button to replay the rhythm."
 msgstr ""
 
-#: activities/play_rhythm/PlayRhythm.qml:102
+#: activities/play_rhythm/ActivityInfo.qml:41
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Move and click the mouse"
+msgctxt "ActivityInfo|"
+msgid "-Space bar: click the drum"
+msgstr "Gluais is briog leis an luchag"
+
+#: activities/play_rhythm/ActivityInfo.qml:42
+msgctxt "ActivityInfo|"
+msgid "-Enter or Return: replay the rhythm"
+msgstr ""
+
+#: activities/play_rhythm/ActivityInfo.qml:43
+msgctxt "ActivityInfo|"
+msgid "-Up and Down: increase or decrease the tempo"
+msgstr ""
+
+#: activities/play_rhythm/ActivityInfo.qml:44
+msgctxt "ActivityInfo|"
+msgid "-Tab: Start or stop the metronome if it is visible"
+msgstr ""
+
+#: activities/play_rhythm/PlayRhythm.qml:118
 msgctxt "PlayRhythm|"
 msgid ""
 "Use the metronome to estimate the time intervals and play the rhythm "
 "correctly."
 msgstr ""
 
-#: activities/play_rhythm/PlayRhythm.qml:103
+#: activities/play_rhythm/PlayRhythm.qml:119
 msgctxt "PlayRhythm|"
 msgid ""
 "Follow the vertical line and click on the tempo or press space key and play "
@@ -14443,107 +14489,99 @@ msgstr ""
 #: activities/programmingMaze/ActivityInfo.qml:37
 msgctxt "ActivityInfo|"
 msgid ""
-"Choose the instructions from given menu. Arrange the instruction in an\n"
-"                order so that they can make the Tux reach to his goal."
-"<br><br>"
+"Choose the instructions from the menu, and arrange them in order to make Tux "
+"reach to his goal."
 msgstr ""
 
 #: activities/programmingMaze/ActivityInfo.qml:39
 msgctxt "ActivityInfo|"
-msgid "<b>Keyboard Controls:</b><br><br>"
+msgid "1. <i><u>To navigate through instructions in the selected area</i></u>:"
 msgstr ""
 
 #: activities/programmingMaze/ActivityInfo.qml:40
 msgctxt "ActivityInfo|"
-msgid ""
-"1. <i><u>To navigate through instructions in the current code area having "
-"keyboard focus</i></u>:"
+msgid "<ul><li><b>Arrow keys</b></li></ul><br>"
 msgstr ""
 
 #: activities/programmingMaze/ActivityInfo.qml:41
 msgctxt "ActivityInfo|"
-msgid "<ul><li><b>Arrow keys</b></li></ul><br>"
-msgstr ""
-
-#: activities/programmingMaze/ActivityInfo.qml:42
-msgctxt "ActivityInfo|"
 msgid ""
-"2. <i><u>To append an instruction from instruction area to the main/"
+"2. <i><u>To append an instruction from the instruction area to the main/"
 "procedure code area</i></u>:"
 msgstr ""
 
-#: activities/programmingMaze/ActivityInfo.qml:43
+#: activities/programmingMaze/ActivityInfo.qml:42
 msgctxt "ActivityInfo|"
 msgid ""
 "<ul><li>Select an instruction from the instruction area by pressing "
 "<b>SPACE</b>.</li>"
 msgstr ""
 
-#: activities/programmingMaze/ActivityInfo.qml:44
+#: activities/programmingMaze/ActivityInfo.qml:43
 msgctxt "ActivityInfo|"
 msgid ""
-"<li>Navigate to the code areas by pressing <b>TAB</b>, then press <b>SPACE</"
+"<li>Navigate to the code area by pressing <b>TAB</b>, then press <b>SPACE</"
 "b> to append the instruction.</li></ul><br>"
 msgstr ""
 
-#: activities/programmingMaze/ActivityInfo.qml:45
+#: activities/programmingMaze/ActivityInfo.qml:44
 msgctxt "ActivityInfo|"
 msgid ""
 "3. <i><u>To add an instruction at any particular position in the main/"
 "procedure code area</i></u>:"
 msgstr ""
 
+#: activities/programmingMaze/ActivityInfo.qml:45
+msgctxt "ActivityInfo|"
+msgid ""
+"<ul><li>Navigate to the instruction at this position and press <b>SPACE</b> "
+"to add the selected instruction from the instruction area.</li></ul><br>"
+msgstr ""
+
 #: activities/programmingMaze/ActivityInfo.qml:46
 msgctxt "ActivityInfo|"
 msgid ""
-"<ul><li>Navigate to the instruction at that position and press <b>SPACE</b> "
-"to add the selected instruction from the instruction area.</li></ul><br>"
+"4. <i><u>To delete the selected instruction in the main/procedure code area</"
+"i></u>:"
 msgstr ""
 
 #: activities/programmingMaze/ActivityInfo.qml:47
 msgctxt "ActivityInfo|"
-msgid ""
-"4. <i><u>To delete the current navigated instruction in the main/procedure "
-"code area</i></u>:"
-msgstr ""
-
-#: activities/programmingMaze/ActivityInfo.qml:48
-msgctxt "ActivityInfo|"
 msgid "<ul><li><b>DELETE</b>.</li></ul><br>"
 msgstr ""
 
-#: activities/programmingMaze/ActivityInfo.qml:49
+#: activities/programmingMaze/ActivityInfo.qml:48
 msgctxt "ActivityInfo|"
 msgid ""
 "5. <i><u>To edit an instruction in the main/procedure code area</i></u>:"
 msgstr ""
 
-#: activities/programmingMaze/ActivityInfo.qml:50
+#: activities/programmingMaze/ActivityInfo.qml:49
 msgctxt "ActivityInfo|"
 msgid ""
 "<ul><li>Navigate to the instruction to edit using <b>Arrow keys</b>.</li>"
 msgstr ""
 
-#: activities/programmingMaze/ActivityInfo.qml:51
+#: activities/programmingMaze/ActivityInfo.qml:50
 msgctxt "ActivityInfo|"
 msgid "<li>Press <b>SPACE</b> to select it.</li>"
 msgstr ""
 
-#: activities/programmingMaze/ActivityInfo.qml:52
+#: activities/programmingMaze/ActivityInfo.qml:51
 msgctxt "ActivityInfo|"
 msgid ""
 "<li>Then navigate to the instruction area using <b>TAB</b> and select the "
 "new instruction by pressing <b>SPACE</b>.</li></ul><br>"
 msgstr ""
 
-#: activities/programmingMaze/ActivityInfo.qml:53
+#: activities/programmingMaze/ActivityInfo.qml:52
 msgctxt "ActivityInfo|"
 msgid ""
 "6. <i><u>To run the code or reset Tux when it fails to reach the fish</i></"
 "u>:"
 msgstr ""
 
-#: activities/programmingMaze/ActivityInfo.qml:54
+#: activities/programmingMaze/ActivityInfo.qml:53
 msgctxt "ActivityInfo|"
 msgid "<ul><li><b>ENTER</b> or <b>RETURN</b>.</li></ul>"
 msgstr ""
@@ -14655,29 +14693,24 @@ msgstr ""
 
 #: activities/railroad/ActivityInfo.qml:38
 msgctxt "ActivityInfo|"
-msgid "1. Use arrow keys to move in the answer or sample zone.<br>"
+msgid "-Arrows: navigate in the answer or sample area<br>"
 msgstr ""
 
 #: activities/railroad/ActivityInfo.qml:39
 msgctxt "ActivityInfo|"
-msgid "2. Use Enter or Return key to submit the answers.<br>"
+msgid "-Enter or Return: submit the answer<br>"
 msgstr ""
 
 #: activities/railroad/ActivityInfo.qml:40
 msgctxt "ActivityInfo|"
-msgid "3. Use Space key to swap two wagons or locomotives in answer zone.<br>"
+msgid ""
+"-Space: add an item from the samples to the answer area, or swap two items "
+"in the answer area<br>"
 msgstr ""
 
 #: activities/railroad/ActivityInfo.qml:41
 msgctxt "ActivityInfo|"
-msgid ""
-"4. Use Space key to add a wagon or locomotive from samples to answer list."
-"<br>"
-msgstr ""
-
-#: activities/railroad/ActivityInfo.qml:42
-msgctxt "ActivityInfo|"
-msgid "5. Use Delete key to remove a wagon or locomotive from answer zone."
+msgid "-Delete: remove a wagon or locomotive from the answer area"
 msgstr ""
 
 #: activities/railroad/Railroad.qml:109
@@ -15682,9 +15715,12 @@ msgid ""
 msgstr ""
 
 #: activities/share/ActivityConfig.qml:38
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Can count"
 msgctxt "ActivityConfig|"
-msgid "Display candy counter"
-msgstr ""
+msgid "Display counters"
+msgstr "Tha cunntadh agad"
 
 #. Activity title
 #: activities/share/ActivityInfo.qml:26
@@ -15722,6 +15758,11 @@ msgid ""
 "rectangle."
 msgstr ""
 
+#: activities/share/ActivityInfo.qml:36
+msgctxt "ActivityInfo|"
+msgid "If there is a rest, it needs to be placed inside the candy jar."
+msgstr ""
+
 #: activities/share/resource/1/Data.qml:24
 msgctxt "Data|"
 msgid "Maximum 25 candies and 5 kids, no rest."
@@ -15736,22 +15777,22 @@ msgid ""
 "of candy to each of them."
 msgstr ""
 
-#: activities/share/resource/1/Data.qml:40
+#: activities/share/resource/1/Data.qml:39
 msgctxt "Data|"
 msgid "Now he wants to give 4 pieces of candy to his friends."
 msgstr ""
 
-#: activities/share/resource/1/Data.qml:51
+#: activities/share/resource/1/Data.qml:49
 msgctxt "Data|"
 msgid "Can you now give 6 of Paul's pieces of candy to his friends?"
 msgstr ""
 
-#: activities/share/resource/1/Data.qml:62
+#: activities/share/resource/1/Data.qml:59
 msgctxt "Data|"
 msgid "He wants to give 7 more pieces of candy to his friends."
 msgstr ""
 
-#: activities/share/resource/1/Data.qml:73
+#: activities/share/resource/1/Data.qml:69
 msgctxt "Data|"
 msgid ""
 "Paul has only 12 pieces of candy left. He eats 2 pieces of candy and he "
@@ -15759,7 +15800,7 @@ msgid ""
 "remaining pieces of candy?"
 msgstr ""
 
-#: activities/share/resource/1/Data.qml:86
+#: activities/share/resource/1/Data.qml:81
 msgctxt "Data|"
 msgid ""
 "George wants to equally share 3 pieces of candy between 3 of his girl "
@@ -15768,7 +15809,7 @@ msgid ""
 "of them."
 msgstr ""
 
-#: activities/share/resource/1/Data.qml:97
+#: activities/share/resource/1/Data.qml:91
 msgctxt "Data|"
 msgid ""
 "Maria wants to equally share 6 pieces of candy between 3 of her friends: one "
@@ -15777,7 +15818,7 @@ msgid ""
 "to each of them."
 msgstr ""
 
-#: activities/share/resource/1/Data.qml:108
+#: activities/share/resource/1/Data.qml:101
 msgctxt "Data|"
 msgid ""
 "John wants to equally share 8 pieces of candy between 3 of his friends: one "
@@ -15786,7 +15827,7 @@ msgid ""
 "to each of them."
 msgstr ""
 
-#: activities/share/resource/1/Data.qml:119
+#: activities/share/resource/1/Data.qml:111
 msgctxt "Data|"
 msgid ""
 "Paul wants to equally share 12 pieces of candy between 3 of his friends: two "
@@ -15795,7 +15836,7 @@ msgid ""
 "to each of them."
 msgstr ""
 
-#: activities/share/resource/1/Data.qml:130
+#: activities/share/resource/1/Data.qml:121
 msgctxt "Data|"
 msgid ""
 "Maria wants to equally share 11 pieces of candy between 3 of his friends: "
@@ -15804,8 +15845,8 @@ msgid ""
 "to each of them."
 msgstr ""
 
-#: activities/share/resource/1/Data.qml:143
-#: activities/share/resource/2/Data.qml:132
+#: activities/share/resource/1/Data.qml:133
+#: activities/share/resource/2/Data.qml:123
 msgctxt "Data|"
 msgid ""
 "Alice wants to equally share 4 pieces of candy between 4 of her girl "
@@ -15813,35 +15854,35 @@ msgid ""
 "drag the pieces of candy to each of them."
 msgstr ""
 
-#: activities/share/resource/1/Data.qml:154
-#: activities/share/resource/2/Data.qml:143
+#: activities/share/resource/1/Data.qml:143
+#: activities/share/resource/2/Data.qml:133
 msgctxt "Data|"
 msgid "Now, Alice wants to give 8 pieces of candy to her friends."
 msgstr ""
 
-#: activities/share/resource/1/Data.qml:165
-#: activities/share/resource/2/Data.qml:154
+#: activities/share/resource/1/Data.qml:153
+#: activities/share/resource/2/Data.qml:143
 msgctxt "Data|"
 msgid ""
 "Can you help Alice give 10 pieces of candy to her friends: one girl and "
 "three boys?"
 msgstr ""
 
-#: activities/share/resource/1/Data.qml:176
-#: activities/share/resource/2/Data.qml:165
+#: activities/share/resource/1/Data.qml:163
+#: activities/share/resource/2/Data.qml:153
 msgctxt "Data|"
 msgid "Alice wants to give 16 pieces of candy to her friends."
 msgstr ""
 
-#: activities/share/resource/1/Data.qml:187
-#: activities/share/resource/2/Data.qml:176
+#: activities/share/resource/1/Data.qml:173
+#: activities/share/resource/2/Data.qml:163
 msgctxt "Data|"
 msgid ""
 "Alice has 14 pieces of candy left. She wants to give them all to her "
 "friends. Can you help her split the pieces of candy equally?"
 msgstr ""
 
-#: activities/share/resource/1/Data.qml:200
+#: activities/share/resource/1/Data.qml:185
 msgctxt "Data|"
 msgid ""
 "Michael wants to equally share 5 pieces of candy between 5 of his girl "
@@ -15849,28 +15890,28 @@ msgid ""
 "the pieces of candy to each of them!"
 msgstr ""
 
-#: activities/share/resource/1/Data.qml:211
+#: activities/share/resource/1/Data.qml:195
 msgctxt "Data|"
 msgid ""
 "Helen has 5 friends: two boys and three girls. She wants to give them 10 "
 "pieces of candy. Help her split the pieces of candy between her friends!"
 msgstr ""
 
-#: activities/share/resource/1/Data.qml:222
+#: activities/share/resource/1/Data.qml:205
 msgctxt "Data|"
 msgid ""
 "Michelle has 12 pieces of candy and wants to split them with four brothers "
 "and one sister. Help her share the pieces of candy!"
 msgstr ""
 
-#: activities/share/resource/1/Data.qml:233
+#: activities/share/resource/1/Data.qml:215
 msgctxt "Data|"
 msgid ""
 "Thomas wants to share his 20 pieces of candy with his friends: one boy and "
 "four girls. Can you help him?"
 msgstr ""
 
-#: activities/share/resource/1/Data.qml:244
+#: activities/share/resource/1/Data.qml:225
 msgctxt "Data|"
 msgid ""
 "Paul wants to equally share 20 pieces of candy between 5 of his friends: two "
@@ -15878,15 +15919,15 @@ msgid ""
 "then drag the pieces of candy to each of them!"
 msgstr ""
 
-#: activities/share/resource/1/Data.qml:257
+#: activities/share/resource/1/Data.qml:237
 msgctxt "Data|"
 msgid ""
 "Charles wants to share his 6 pieces of candy with 2 of his friends: two "
 "girls. Can he split the pieces of candy equally?"
 msgstr ""
 
-#: activities/share/resource/1/Data.qml:268
-#: activities/share/resource/2/Data.qml:246
+#: activities/share/resource/1/Data.qml:247
+#: activities/share/resource/2/Data.qml:227
 msgctxt "Data|"
 msgid ""
 "For her birthday, Elizabeth has 8 pieces of candy to share with 3 of her "
@@ -15894,14 +15935,14 @@ msgid ""
 "her friends?"
 msgstr ""
 
-#: activities/share/resource/1/Data.qml:279
+#: activities/share/resource/1/Data.qml:257
 msgctxt "Data|"
 msgid ""
 "Jason's father gave him 16 pieces of candy to share with his friends: two "
 "boys and two girls. Help him give the pieces of candy to his friends!"
 msgstr ""
 
-#: activities/share/resource/1/Data.qml:290
+#: activities/share/resource/1/Data.qml:267
 msgctxt "Data|"
 msgid ""
 "George wants to equally share 14 pieces of candy between 4 of his friends: "
@@ -15910,7 +15951,7 @@ msgid ""
 "to each of them."
 msgstr ""
 
-#: activities/share/resource/1/Data.qml:301
+#: activities/share/resource/1/Data.qml:277
 msgctxt "Data|"
 msgid ""
 "Maria wants to equally share 25 pieces of candy between 5 of her friends: "
@@ -15924,22 +15965,22 @@ msgctxt "Data|"
 msgid "Maximum 25 candies and 5 kids, possible rest."
 msgstr ""
 
-#: activities/share/resource/2/Data.qml:40
+#: activities/share/resource/2/Data.qml:39
 msgctxt "Data|"
 msgid "Now he wants to give 5 pieces of candy to his friends."
 msgstr ""
 
-#: activities/share/resource/2/Data.qml:51
+#: activities/share/resource/2/Data.qml:49
 msgctxt "Data|"
 msgid "Can you now give 7 of Paul's pieces of candy to his friends?"
 msgstr ""
 
-#: activities/share/resource/2/Data.qml:62
+#: activities/share/resource/2/Data.qml:59
 msgctxt "Data|"
 msgid "He wants to give 8 more pieces of candy to his friends."
 msgstr ""
 
-#: activities/share/resource/2/Data.qml:73
+#: activities/share/resource/2/Data.qml:69
 msgctxt "Data|"
 msgid ""
 "Paul has only 11 pieces of candy left. He eats 2 pieces of candy and he "
@@ -15947,7 +15988,7 @@ msgid ""
 "remaining pieces of candy?"
 msgstr ""
 
-#: activities/share/resource/2/Data.qml:86
+#: activities/share/resource/2/Data.qml:81
 msgctxt "Data|"
 msgid ""
 "Bob wants to give 3 pieces of candy to his girl friends. Can you help him "
@@ -15955,7 +15996,7 @@ msgid ""
 "amount of pieces of candy?"
 msgstr ""
 
-#: activities/share/resource/2/Data.qml:97
+#: activities/share/resource/2/Data.qml:91
 msgctxt "Data|"
 msgid ""
 "Harry wants to equally share 8 pieces of candy between his friends: one boy "
@@ -15963,26 +16004,26 @@ msgid ""
 "to each of them so that each of them has an equal number of pieces of candy."
 msgstr ""
 
-#: activities/share/resource/2/Data.qml:108
+#: activities/share/resource/2/Data.qml:101
 msgctxt "Data|"
 msgid "Can you now give 8 of Harry's pieces of candy to his friends?"
 msgstr ""
 
-#: activities/share/resource/2/Data.qml:119
+#: activities/share/resource/2/Data.qml:111
 msgctxt "Data|"
 msgid ""
 "Harry is left with 12 pieces of candy, can you share them between his "
 "friends?"
 msgstr ""
 
-#: activities/share/resource/2/Data.qml:189
+#: activities/share/resource/2/Data.qml:175
 msgctxt "Data|"
 msgid ""
 "Help Jon split 11 pieces of candies between five girls. The rest will remain "
 "to Jon."
 msgstr ""
 
-#: activities/share/resource/2/Data.qml:200
+#: activities/share/resource/2/Data.qml:185
 msgctxt "Data|"
 msgid ""
 "Jon wants to share the rest of his pieces of candies with his brothers and "
@@ -15990,33 +16031,33 @@ msgid ""
 "have two pieces of candy?"
 msgstr ""
 
-#: activities/share/resource/2/Data.qml:211
+#: activities/share/resource/2/Data.qml:195
 msgctxt "Data|"
 msgid ""
 "Help Tux split some pieces of candies to his friends: 19 pieces of candy to "
 "four boys and one girl."
 msgstr ""
 
-#: activities/share/resource/2/Data.qml:222
+#: activities/share/resource/2/Data.qml:205
 msgctxt "Data|"
 msgid "Help Maria split 18 pieces of candy between three boys and two girls."
 msgstr ""
 
-#: activities/share/resource/2/Data.qml:235
+#: activities/share/resource/2/Data.qml:217
 msgctxt "Data|"
 msgid ""
 "Charles wants to share his 6 pieces of candy with 2 of his two girl friends. "
 "Can he split the pieces of candy equally?"
 msgstr ""
 
-#: activities/share/resource/2/Data.qml:257
+#: activities/share/resource/2/Data.qml:237
 msgctxt "Data|"
 msgid ""
 "Jason's father gave him 17 pieces of candy to share with his friends: two "
 "boys and two girls. Help him give the pieces of candy to his friends!"
 msgstr ""
 
-#: activities/share/resource/2/Data.qml:268
+#: activities/share/resource/2/Data.qml:247
 msgctxt "Data|"
 msgid ""
 "George wants to equally share 14 pieces of candy between 4 of his friends: "
@@ -16025,7 +16066,7 @@ msgid ""
 "to each of them. Be careful!"
 msgstr ""
 
-#: activities/share/resource/2/Data.qml:279
+#: activities/share/resource/2/Data.qml:257
 msgctxt "Data|"
 msgid ""
 "Maria wants to equally share 23 pieces of candy between 5 of her friends: "
@@ -16039,7 +16080,7 @@ msgctxt "Data|"
 msgid "Maximum 30 candies and 6 kids, possible rest."
 msgstr ""
 
-#: activities/share/share.js:111
+#: activities/share/share.js:108
 #, qt-format
 msgctxt ""
 "share|First part of Place %n boy(s) and %n girl(s) in the center. Then "
@@ -16051,7 +16092,7 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-#: activities/share/share.js:115
+#: activities/share/share.js:112
 #, qt-format
 msgctxt ""
 "share|Second part of Place %n boy(s) and %n girl(s) in the center. Then "
@@ -16063,7 +16104,7 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-#: activities/share/share.js:119
+#: activities/share/share.js:116
 #, qt-format
 msgctxt ""
 "share|Third part of Place %n boy(s) and %n girl(s) in the center. Then "
@@ -16075,7 +16116,7 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-#: activities/share/Share.qml:352
+#: activities/share/Share.qml:351
 #, qt-format
 msgctxt "Share|"
 msgid "You can't put more than %1 pieces of candy in the same rectangle"
@@ -16114,12 +16155,12 @@ msgstr ""
 
 #: activities/simplepaint/ActivityInfo.qml:38
 msgctxt "ActivityInfo|"
-msgid "-Use Space or Enter key to paint"
+msgid "-Space or Enter: paint"
 msgstr ""
 
 #: activities/simplepaint/ActivityInfo.qml:39
 msgctxt "ActivityInfo|"
-msgid "-Use Tab key to switch between the color selector and the painting area"
+msgid "-Tab: switch between the color selector and the painting area"
 msgstr ""
 
 #. Activity title
@@ -16446,17 +16487,17 @@ msgstr ""
 
 #: activities/solar_system/ActivityInfo.qml:41
 msgctxt "ActivityInfo|"
-msgid "-Use Space or Enter key to select"
+msgid "-Space or Enter: select"
 msgstr ""
 
 #: activities/solar_system/ActivityInfo.qml:42
 msgctxt "ActivityInfo|"
-msgid "-Use Escape key to return to previous screen"
+msgid "-Escape: return to previous screen"
 msgstr ""
 
 #: activities/solar_system/ActivityInfo.qml:43
 msgctxt "ActivityInfo|"
-msgid "-Use Tab key when the hint icon is visible to open it"
+msgid "-Tab: view the hint (only when the hint icon is visible)"
 msgstr ""
 
 #: activities/solar_system/Dataset.js:25
@@ -18556,12 +18597,12 @@ msgctxt "DialogChooseLevel|"
 msgid "%1 settings"
 msgstr ""
 
-#: core/DialogChooseLevel.qml:203
+#: core/DialogChooseLevel.qml:209
 msgctxt "DialogChooseLevel|"
 msgid "Dataset"
 msgstr ""
 
-#: core/DialogChooseLevel.qml:219
+#: core/DialogChooseLevel.qml:225
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Addition"
@@ -18569,17 +18610,17 @@ msgctxt "DialogChooseLevel|"
 msgid "Options"
 msgstr "Cur ris"
 
-#: core/DialogChooseLevel.qml:350
+#: core/DialogChooseLevel.qml:358
 msgctxt "DialogChooseLevel|"
 msgid "Cancel"
 msgstr ""
 
-#: core/DialogChooseLevel.qml:361
+#: core/DialogChooseLevel.qml:369
 msgctxt "DialogChooseLevel|"
 msgid "Save"
 msgstr ""
 
-#: core/DialogChooseLevel.qml:378
+#: core/DialogChooseLevel.qml:386
 msgctxt "DialogChooseLevel|"
 msgid "Save and start"
 msgstr ""
