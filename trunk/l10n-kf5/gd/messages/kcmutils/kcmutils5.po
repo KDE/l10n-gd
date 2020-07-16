@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-29 02:01+0200\n"
+"POT-Creation-Date: 2020-07-16 02:01+0200\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -118,7 +118,7 @@ msgstr ""
 msgid "Apply Settings"
 msgstr "Cuir na roghainnean an sàs"
 
-#: kcmultidialog.cpp:239 kpluginselector.cpp:745
+#: kcmultidialog.cpp:239 kpluginselector.cpp:746
 #, kde-format
 msgid "Configure"
 msgstr "Rèitich"
@@ -443,7 +443,7 @@ msgstr "Seòrsa mac-talla nam faclan-faire"
 msgid "The size of the dialog"
 msgstr "Meud a' chòmhraidh"
 
-#: kpluginselector.cpp:139
+#: kpluginselector.cpp:140
 #, kde-format
 msgid ""
 "Automatic changes have been performed due to plugin dependencies. Click here "
@@ -452,7 +452,7 @@ msgstr ""
 "Chaidh atharraichean a dhèanamh gu fèin-obrachail ri linn eisimeileachdan "
 "air plugain. Briog an-seo airson barrachd fiosrachaidh"
 
-#: kpluginselector.cpp:207
+#: kpluginselector.cpp:208
 #, kde-format
 msgid ""
 "Automatic changes have been performed in order to satisfy plugin "
@@ -461,7 +461,7 @@ msgstr ""
 "Chaidh atharraichean a dhèanamh gu fèin-obrachail gus eisimeileachdan "
 "plugain a choileanadh:\n"
 
-#: kpluginselector.cpp:211
+#: kpluginselector.cpp:212
 #, kde-format
 msgid ""
 "\n"
@@ -472,7 +472,7 @@ msgstr ""
 "    Chaidh cromag a chur ris a' phlugan %1 gu fèin-obrachail ri linn "
 "eisimeileachd aig a' phlugan %2"
 
-#: kpluginselector.cpp:213
+#: kpluginselector.cpp:214
 #, kde-format
 msgid ""
 "\n"
@@ -483,12 +483,12 @@ msgstr ""
 "    Chaidh cromag a thoirt air falbh on phlugan %1 on a tha e an eisimeil "
 "air a' phlugan %2"
 
-#: kpluginselector.cpp:216
+#: kpluginselector.cpp:217
 #, kde-format
 msgid "Dependency Check"
 msgstr "Dearbhadh nan eisimeileachdan"
 
-#: kpluginselector.cpp:233
+#: kpluginselector.cpp:234
 #, kde-format
 msgid "%1 plugin automatically added due to plugin dependencies"
 msgid_plural "%1 plugins automatically added due to plugin dependencies"
@@ -504,12 +504,12 @@ msgstr[2] ""
 msgstr[3] ""
 "Chaidh %1 plugan a chur ris gu fèin-obrachail ri linn eisimeileachdan plugain"
 
-#: kpluginselector.cpp:237
+#: kpluginselector.cpp:238
 #, kde-format
 msgid ", "
 msgstr ", "
 
-#: kpluginselector.cpp:241
+#: kpluginselector.cpp:242
 #, kde-format
 msgid "%1 plugin automatically removed due to plugin dependencies"
 msgid_plural "%1 plugins automatically removed due to plugin dependencies"
@@ -526,19 +526,19 @@ msgstr[3] ""
 "Chaidh %1 plugan a thoirt air falbh gu fèin-obrachail ri linn "
 "eisimeileachdan plugain"
 
-#: kpluginselector.cpp:261
+#: kpluginselector.cpp:262
 #, kde-format
 msgid "Search..."
 msgstr ""
 
-#: kpluginselector.cpp:740
+#: kpluginselector.cpp:741
 #, fuzzy, kde-format
 #| msgctxt "Used only for plugins"
 #| msgid "About %1"
 msgid "About"
 msgstr "Mu %1"
 
-#: ksettings/componentsdialog.cpp:55
+#: ksettings/componentsdialog.cpp:56
 #, kde-format
 msgid "Select Components"
 msgstr "Tagh co-phàirtean"
