@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-19 00:25+0000\n"
+"POT-Creation-Date: 2020-07-24 00:36+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -27,18 +27,27 @@ msgid "Wallet Server"
 msgstr "Frithealaiche sporain"
 
 #: src/runtime/kwalletd/kwalletd.notifyrc:3
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Wallet"
 msgctxt "Comment"
-msgid "Wallet"
+msgid "KDE Wallet"
 msgstr "Sporan"
 
 #: src/runtime/kwalletd/kwalletd.notifyrc:73
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Wallet"
 msgctxt "Name"
-msgid "kwalletd"
-msgstr "kwalletd"
+msgid "KDE Wallet"
+msgstr "Sporan"
 
 #: src/runtime/kwalletd/kwalletd.notifyrc:149
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Needs password"
 msgctxt "Name"
-msgid "Needs password"
+msgid "Needs Password"
 msgstr "Tha feum air facal-faire"
 
 #: src/runtime/kwalletd/kwalletd.notifyrc:223
@@ -57,3 +66,7 @@ msgid "KDE Wallet System failed to sync a wallet file to disk"
 msgstr ""
 "Cha deach le siostam sporan KDE faidhle sporain a shioncronachadh ris an "
 "diosga"
+
+#~ msgctxt "Name"
+#~ msgid "kwalletd"
+#~ msgstr "kwalletd"

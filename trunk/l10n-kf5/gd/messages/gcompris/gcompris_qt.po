@@ -3624,7 +3624,7 @@ msgstr ""
 #: activities/click_on_letter/ActivityConfig.qml:46
 #: activities/click_on_letter_up/ActivityConfig.qml:46
 #: activities/gletters/ActivityConfig.qml:50
-#: activities/hangman/ActivityConfig.qml:48
+#: activities/hangman/ActivityConfig.qml:52
 #: activities/missing-letter/ActivityConfig.qml:46
 #: activities/readingh/ActivityConfig.qml:48
 #: activities/readingv/ActivityConfig.qml:48
@@ -9395,9 +9395,14 @@ msgctxt "Data|"
 msgid "Guess a number between 1 and %1."
 msgstr "Dèan tuairmse air àireamh"
 
-#: activities/hangman/ActivityConfig.qml:53
+#: activities/hangman/ActivityConfig.qml:57
 msgctxt "ActivityConfig|"
 msgid "Display image to find as hint"
+msgstr ""
+
+#: activities/hangman/ActivityConfig.qml:66
+msgctxt "ActivityConfig|"
+msgid "Speak words to find (if available) when three attempts are remaining"
 msgstr ""
 
 #. Activity title
@@ -9434,12 +9439,12 @@ msgctxt "hangman|"
 msgid "Attempted: %1"
 msgstr ""
 
-#: activities/hangman/Hangman.qml:399
+#: activities/hangman/Hangman.qml:406
 msgctxt "Hangman|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 
-#: activities/hangman/Hangman.qml:400
+#: activities/hangman/Hangman.qml:407
 #, qt-format
 msgctxt "Hangman|"
 msgid ""
@@ -9447,7 +9452,7 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 
-#: activities/hangman/Hangman.qml:402
+#: activities/hangman/Hangman.qml:409
 msgctxt "Hangman|"
 msgid ""
 "We switched to English for this activity but you can select another language "

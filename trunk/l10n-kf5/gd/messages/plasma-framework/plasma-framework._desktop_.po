@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-19 00:25+0000\n"
+"POT-Creation-Date: 2020-07-24 00:36+0000\n"
 "PO-Revision-Date: 2016-04-29 19:26+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -219,7 +219,7 @@ msgctxt "Name"
 msgid "Breeze Dark"
 msgstr "Dorch-oiteag"
 
-#: src/desktoptheme/breeze-dark/metadata.desktop.cmake:46
+#: src/desktoptheme/breeze-dark/metadata.desktop.cmake:47
 msgctxt "Comment"
 msgid "Breeze Dark by the KDE VDG"
 msgstr ""
@@ -229,7 +229,7 @@ msgctxt "Name"
 msgid "Breeze Light"
 msgstr "Oiteag shoilleir"
 
-#: src/desktoptheme/breeze-light/metadata.desktop.cmake:44
+#: src/desktoptheme/breeze-light/metadata.desktop.cmake:45
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Breeze Light"
@@ -242,7 +242,7 @@ msgctxt "Name"
 msgid "Breeze"
 msgstr "Oiteag"
 
-#: src/desktoptheme/breeze/metadata.desktop.cmake:46
+#: src/desktoptheme/breeze/metadata.desktop.cmake:47
 msgctxt "Comment"
 msgid "Breeze by the KDE VDG"
 msgstr ""
@@ -391,9 +391,9 @@ msgctxt "Name"
 msgid "%{APPNAME}"
 msgstr "%{APPNAME}"
 
-#: templates/cpp-plasmoid/src/package/metadata.desktop:44
-#: templates/qml-plasmoid/package/metadata.desktop:44
-#: templates/qml-plasmoid-with-qml-extension/package/metadata.desktop:44
+#: templates/cpp-plasmoid/src/package/metadata.desktop:45
+#: templates/qml-plasmoid/package/metadata.desktop:45
+#: templates/qml-plasmoid-with-qml-extension/package/metadata.desktop:45
 msgctxt "Comment"
 msgid "what your app does in a few words"
 msgstr "na nì an aplacaid agad ann am beagan fhaclan"
