@@ -3624,7 +3624,7 @@ msgstr ""
 #: activities/click_on_letter/ActivityConfig.qml:46
 #: activities/click_on_letter_up/ActivityConfig.qml:46
 #: activities/gletters/ActivityConfig.qml:50
-#: activities/hangman/ActivityConfig.qml:52
+#: activities/hangman/ActivityConfig.qml:49
 #: activities/missing-letter/ActivityConfig.qml:46
 #: activities/readingh/ActivityConfig.qml:48
 #: activities/readingv/ActivityConfig.qml:48
@@ -9395,12 +9395,12 @@ msgctxt "Data|"
 msgid "Guess a number between 1 and %1."
 msgstr "Dèan tuairmse air àireamh"
 
-#: activities/hangman/ActivityConfig.qml:57
+#: activities/hangman/ActivityConfig.qml:54
 msgctxt "ActivityConfig|"
 msgid "Display image to find as hint"
 msgstr ""
 
-#: activities/hangman/ActivityConfig.qml:66
+#: activities/hangman/ActivityConfig.qml:63
 msgctxt "ActivityConfig|"
 msgid "Speak words to find (if available) when three attempts are remaining"
 msgstr ""
