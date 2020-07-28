@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gcompris voices\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-07-17 02:00+0200\n"
+"POT-Creation-Date: 2020-07-28 02:01+0200\n"
 "PO-Revision-Date: 2017-05-27 14:21+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: gd <kde-i18n-doc@kde.org>\n"
@@ -618,6 +618,13 @@ msgid ""
 "Select the language you want to learn then review the words before doing the "
 "exercises."
 msgstr ""
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "learn_digits"
+#: activities/learn_digits/ActivityInfo.qml:29
+#, fuzzy, kde-format
+#| msgid "Click on the lamps to turn them off."
+msgid "Click on the circles to match the given digit."
+msgstr "Briog air na lampaichean gus an cur dheth."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "leftright"
 #: activities/leftright/ActivityInfo.qml:29
