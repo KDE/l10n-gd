@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-12 02:44+0200\n"
+"POT-Creation-Date: 2020-08-03 02:05+0200\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -19,22 +19,22 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 "X-Project-Style: kde\n"
 
-#: kio_tags.cpp:121 kio_tags.cpp:180
+#: kio_tags.cpp:106 kio_tags.cpp:165
 #, kde-format
 msgid "File %1 already has tag %2"
 msgstr ""
 
-#: kio_tags.cpp:313
+#: kio_tags.cpp:298
 #, kde-format
 msgid "Tag"
 msgstr "Taga"
 
-#: kio_tags.cpp:315
+#: kio_tags.cpp:300
 #, kde-format
 msgid "Tag Fragment"
 msgstr ""
 
-#: kio_tags.cpp:317 kio_tags.cpp:322
+#: kio_tags.cpp:302 kio_tags.cpp:307
 #, kde-format
 msgid "All Tags"
 msgstr "A h-uile taga"
