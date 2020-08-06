@@ -7470,7 +7470,7 @@ msgstr ""
 
 #: activities/geo-country/resource/3/Data.qml:24
 msgctxt "Data|"
-msgid "Countries of Australia."
+msgid "Countries of Oceania."
 msgstr ""
 
 #: activities/geo-country/resource/4/Data.qml:24
