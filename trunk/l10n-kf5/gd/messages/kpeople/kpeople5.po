@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-17 02:53+0200\n"
+"POT-Creation-Date: 2020-08-11 02:11+0200\n"
 "PO-Revision-Date: 2015-11-04 15:15+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -19,36 +19,36 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 "X-Project-Style: kde\n"
 
-#: match.cpp:52
+#: match.cpp:40
 #, kde-format
 msgctxt "@title:column"
 msgid "Name"
 msgstr "Ainm"
 
-#: match.cpp:55
+#: match.cpp:43
 #, kde-format
 msgctxt "@title:column"
 msgid "E-mail"
 msgstr "Post-d"
 
-#: widgets/mergedelegate.cpp:98
+#: widgets/mergedelegate.cpp:86
 #, kde-format
 msgctxt "reasons join"
 msgid ", "
 msgstr ", "
 
-#: widgets/mergedelegate.cpp:98
+#: widgets/mergedelegate.cpp:86
 #, kde-format
 msgctxt "name: merge reasons"
 msgid "%1: %2"
 msgstr "%1: %2"
 
-#: widgets/mergedialog.cpp:63
+#: widgets/mergedialog.cpp:51
 #, kde-format
 msgid "Duplicates Manager"
 msgstr "Manaidsear nan dùblachaidhean"
 
-#: widgets/mergedialog.cpp:72
+#: widgets/mergedialog.cpp:60
 #, kde-format
 msgid "Select contacts to be merged"
 msgstr "Tagh an luchd-aithne airson co-aonadh"
@@ -59,23 +59,23 @@ msgstr "Tagh an luchd-aithne airson co-aonadh"
 msgid "Avatar"
 msgstr "Avatar"
 
-#: widgets/plugins/emaildetailswidget.cpp:51
+#: widgets/plugins/emaildetailswidget.cpp:39
 #, kde-format
 msgctxt "E-mail field label"
 msgid "E-mail"
 msgstr "Post-d"
 
-#: widgets/plugins/mergecontactswidget.cpp:48
+#: widgets/plugins/mergecontactswidget.cpp:36
 #, kde-format
 msgid "Show Merge Suggestions..."
 msgstr "Seall molaidhean co-aonaidh..."
 
-#: widgets/plugins/mergecontactswidget.cpp:86
+#: widgets/plugins/mergecontactswidget.cpp:74
 #, kde-format
 msgid "Merge with Selected Contacts"
 msgstr "Co-aonaich leis an luchd-aithne a chaidh a thaghadh"
 
-#: widgets/plugins/phonedetailswidget.cpp:37
+#: widgets/plugins/phonedetailswidget.cpp:25
 #, kde-format
 msgctxt "Phone details title"
 msgid "Phone"

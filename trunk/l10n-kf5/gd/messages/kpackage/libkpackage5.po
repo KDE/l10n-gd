@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-07-09 02:04+0200\n"
+"POT-Creation-Date: 2020-08-11 02:10+0200\n"
 "PO-Revision-Date: 2016-04-30 12:04+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -228,6 +228,11 @@ msgstr "Cha b' urrainn dhuinn a' phacaid a ghluasad dhan cheann-uidhe: %1"
 msgid "Could not copy package to destination: %1"
 msgstr ""
 "Cha b' urrainn dhuinn lethbhreac dhen phacaid a chur dhan cheann-uidhe: %1"
+
+#: kpackage/private/packagejobthread.cpp:425
+#, kde-format
+msgid "package path was deleted manually"
+msgstr ""
 
 #: kpackage/private/packagejobthread.cpp:425
 #, kde-format

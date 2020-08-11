@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-12 02:53+0000\n"
+"POT-Creation-Date: 2020-08-11 00:40+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -77,6 +77,16 @@ msgstr ""
 #: sftp/sftp.protocol:20
 msgctxt "Description"
 msgid "A kioslave for sftp"
+msgstr ""
+
+#: smb/kded/kded_smbwatcher.desktop:18
+msgctxt "Name"
+msgid "SMB Watcher"
+msgstr ""
+
+#: smb/kded/kded_smbwatcher.desktop:19
+msgctxt "Comment"
+msgid "Monitors directories on the smb:/ protocol for changes"
 msgstr ""
 
 #: smb/smb-network.desktop:3
