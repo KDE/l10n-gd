@@ -9509,12 +9509,12 @@ msgctxt "hangman|"
 msgid "Attempted: %1"
 msgstr ""
 
-#: activities/hangman/Hangman.qml:406
+#: activities/hangman/Hangman.qml:408
 msgctxt "Hangman|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 
-#: activities/hangman/Hangman.qml:407
+#: activities/hangman/Hangman.qml:409
 #, qt-format
 msgctxt "Hangman|"
 msgid ""
@@ -9522,7 +9522,7 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 
-#: activities/hangman/Hangman.qml:409
+#: activities/hangman/Hangman.qml:411
 msgctxt "Hangman|"
 msgid ""
 "We switched to English for this activity but you can select another language "
@@ -10280,12 +10280,12 @@ msgid ""
 "org/."
 msgstr ""
 
-#: activities/lang/Lang.qml:151
+#: activities/lang/Lang.qml:152
 msgctxt "Lang|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 
-#: activities/lang/Lang.qml:152
+#: activities/lang/Lang.qml:153
 #, qt-format
 msgctxt "Lang|"
 msgid ""
@@ -10293,24 +10293,24 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 
-#: activities/lang/Lang.qml:154
+#: activities/lang/Lang.qml:155
 msgctxt "Lang|"
 msgid ""
 "We switched to English for this activity but you can select another language "
 "in the configuration dialog."
 msgstr ""
 
-#: activities/lang/Lang.qml:191
+#: activities/lang/Lang.qml:200
 msgctxt "Lang|"
 msgid "Select your locale"
 msgstr ""
 
-#: activities/lang/Lang.qml:259 activities/lang/Lang.qml:260
+#: activities/lang/Lang.qml:269 activities/lang/Lang.qml:270
 msgctxt "Lang|"
 msgid "other"
 msgstr ""
 
-#: activities/lang/Lang.qml:261
+#: activities/lang/Lang.qml:271
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Addition"
@@ -10318,12 +10318,12 @@ msgctxt "Lang|"
 msgid "action"
 msgstr "Cur ris"
 
-#: activities/lang/Lang.qml:261
+#: activities/lang/Lang.qml:271
 msgctxt "Lang|"
 msgid "adjective"
 msgstr ""
 
-#: activities/lang/Lang.qml:262
+#: activities/lang/Lang.qml:272
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Colors"
@@ -10331,72 +10331,72 @@ msgctxt "Lang|"
 msgid "color"
 msgstr "Dathan"
 
-#: activities/lang/Lang.qml:262
+#: activities/lang/Lang.qml:272
 msgctxt "Lang|"
 msgid "number"
 msgstr ""
 
-#: activities/lang/Lang.qml:263
+#: activities/lang/Lang.qml:273
 msgctxt "Lang|"
 msgid "people"
 msgstr ""
 
-#: activities/lang/Lang.qml:263
+#: activities/lang/Lang.qml:273
 msgctxt "Lang|"
 msgid "bodyparts"
 msgstr ""
 
-#: activities/lang/Lang.qml:264
+#: activities/lang/Lang.qml:274
 msgctxt "Lang|"
 msgid "clothes"
 msgstr ""
 
-#: activities/lang/Lang.qml:264
+#: activities/lang/Lang.qml:274
 msgctxt "Lang|"
 msgid "emotion"
 msgstr ""
 
-#: activities/lang/Lang.qml:265
+#: activities/lang/Lang.qml:275
 msgctxt "Lang|"
 msgid "job"
 msgstr ""
 
-#: activities/lang/Lang.qml:265
+#: activities/lang/Lang.qml:275
 msgctxt "Lang|"
 msgid "sport"
 msgstr ""
 
-#: activities/lang/Lang.qml:266
+#: activities/lang/Lang.qml:276
 msgctxt "Lang|"
 msgid "nature"
 msgstr ""
 
-#: activities/lang/Lang.qml:266
+#: activities/lang/Lang.qml:276
 msgctxt "Lang|"
 msgid "animal"
 msgstr ""
 
-#: activities/lang/Lang.qml:267
+#: activities/lang/Lang.qml:277
 msgctxt "Lang|"
 msgid "fruit"
 msgstr ""
 
-#: activities/lang/Lang.qml:267
+#: activities/lang/Lang.qml:277
 msgctxt "Lang|"
 msgid "plant"
 msgstr ""
 
-#: activities/lang/Lang.qml:268
+#: activities/lang/Lang.qml:278
 msgctxt "Lang|"
 msgid "vegetables"
 msgstr ""
 
-#: activities/lang/Lang.qml:268
+#: activities/lang/Lang.qml:278
 msgctxt "Lang|"
 msgid "object"
 msgstr ""
 
-#: activities/lang/Lang.qml:269
+#: activities/lang/Lang.qml:279
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Simple subtraction"
@@ -10404,27 +10404,27 @@ msgctxt "Lang|"
 msgid "construction"
 msgstr "Toirt air falbh simplidh"
 
-#: activities/lang/Lang.qml:270
+#: activities/lang/Lang.qml:280
 msgctxt "Lang|"
 msgid "furniture"
 msgstr ""
 
-#: activities/lang/Lang.qml:270
+#: activities/lang/Lang.qml:280
 msgctxt "Lang|"
 msgid "houseware"
 msgstr ""
 
-#: activities/lang/Lang.qml:271
+#: activities/lang/Lang.qml:281
 msgctxt "Lang|"
 msgid "tool"
 msgstr ""
 
-#: activities/lang/Lang.qml:271
+#: activities/lang/Lang.qml:281
 msgctxt "Lang|"
 msgid "food"
 msgstr ""
 
-#: activities/lang/Lang.qml:272
+#: activities/lang/Lang.qml:282
 msgctxt "Lang|"
 msgid "transport"
 msgstr ""
@@ -10815,12 +10815,12 @@ msgctxt "LetterInWord|"
 msgid "Select your locale"
 msgstr ""
 
-#: activities/letter-in-word/LetterInWord.qml:424
+#: activities/letter-in-word/LetterInWord.qml:425
 msgctxt "LetterInWord|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 
-#: activities/letter-in-word/LetterInWord.qml:425
+#: activities/letter-in-word/LetterInWord.qml:426
 #, qt-format
 msgctxt "LetterInWord|"
 msgid ""
@@ -10828,7 +10828,7 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 
-#: activities/letter-in-word/LetterInWord.qml:427
+#: activities/letter-in-word/LetterInWord.qml:428
 msgctxt "LetterInWord|"
 msgid ""
 "We switched to English for this activity but you can select another language "
@@ -13306,12 +13306,12 @@ msgstr ""
 "Chì thu nì air a’ phrìomh raon is facal neo-choileanta fon dealbh. Tagh an "
 "litir a tha a dhìth gus am facal a dhèanamh coileanta."
 
-#: activities/missing-letter/MissingLetter.qml:315
+#: activities/missing-letter/MissingLetter.qml:316
 msgctxt "MissingLetter|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 
-#: activities/missing-letter/MissingLetter.qml:316
+#: activities/missing-letter/MissingLetter.qml:317
 #, qt-format
 msgctxt "MissingLetter|"
 msgid ""
@@ -13319,7 +13319,7 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 
-#: activities/missing-letter/MissingLetter.qml:318
+#: activities/missing-letter/MissingLetter.qml:319
 msgctxt "MissingLetter|"
 msgid ""
 "We switched to English for this activity but you can select another language "
@@ -19210,65 +19210,65 @@ msgctxt "QObject|"
 msgid "Checksum of downloaded file does not match: %1"
 msgstr ""
 
-#: core/GCCreationHandler.qml:85
+#: core/GCCreationHandler.qml:86
 msgctxt "GCCreationHandler|"
 msgid "A file with this name already exists. Do you want to replace it?"
 msgstr ""
 
-#: core/GCCreationHandler.qml:86
+#: core/GCCreationHandler.qml:87
 msgctxt "GCCreationHandler|"
 msgid "Yes"
 msgstr ""
 
-#: core/GCCreationHandler.qml:87
+#: core/GCCreationHandler.qml:88
 msgctxt "GCCreationHandler|"
 msgid "No"
 msgstr ""
 
-#: core/GCCreationHandler.qml:133
+#: core/GCCreationHandler.qml:134
 #, qt-format
 msgctxt "GCCreationHandler|"
 msgid "%1 deleted successfully!"
 msgstr ""
 
-#: core/GCCreationHandler.qml:134 core/GCCreationHandler.qml:139
-#: core/GCCreationHandler.qml:172
+#: core/GCCreationHandler.qml:135 core/GCCreationHandler.qml:140
+#: core/GCCreationHandler.qml:173
 msgctxt "GCCreationHandler|"
 msgid "Ok"
 msgstr ""
 
-#: core/GCCreationHandler.qml:138
+#: core/GCCreationHandler.qml:139
 #, qt-format
 msgctxt "GCCreationHandler|"
 msgid "Unable to delete %1!"
 msgstr ""
 
-#: core/GCCreationHandler.qml:171
+#: core/GCCreationHandler.qml:172
 msgctxt "GCCreationHandler|"
 msgid "Saved successfully!"
 msgstr ""
 
-#: core/GCCreationHandler.qml:193
+#: core/GCCreationHandler.qml:194
 msgctxt "GCCreationHandler|"
 msgid "Enter file name"
 msgstr ""
 
-#: core/GCCreationHandler.qml:193
+#: core/GCCreationHandler.qml:194
 msgctxt "GCCreationHandler|"
 msgid "Search"
 msgstr ""
 
-#: core/GCCreationHandler.qml:213
+#: core/GCCreationHandler.qml:214
 msgctxt "GCCreationHandler|"
 msgid "Save"
 msgstr ""
 
-#: core/GCCreationHandler.qml:320
+#: core/GCCreationHandler.qml:321
 msgctxt "GCCreationHandler|"
 msgid "Load"
 msgstr ""
 
-#: core/GCCreationHandler.qml:332
+#: core/GCCreationHandler.qml:333
 msgctxt "GCCreationHandler|"
 msgid "Delete"
 msgstr ""
