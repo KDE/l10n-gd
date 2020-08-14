@@ -1269,7 +1269,7 @@ msgstr ""
 #: activities/analog_electricity/ActivityInfo.qml:35
 msgctxt "ActivityInfo|"
 msgid ""
-"In order to repair a broken bulb or LED, click on it after deconnecting it "
+"In order to repair a broken bulb or LED, click on it after disconnecting it "
 "from the circuit. The simulation is updated in real time by any user action."
 msgstr ""
 
@@ -13183,53 +13183,58 @@ msgctxt "BackgroundMusicList|"
 msgid "Copyright: %1"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:54
+#: activities/menu/ConfigurationItem.qml:55
 msgctxt "ConfigurationItem|"
 msgid "Enable audio voices"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:63
+#: activities/menu/ConfigurationItem.qml:64
 msgctxt "ConfigurationItem|"
 msgid "Enable audio effects"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:72
+#: activities/menu/ConfigurationItem.qml:73
 msgctxt "ConfigurationItem|"
 msgid "Audio effects volume"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:90
+#: activities/menu/ConfigurationItem.qml:93
+msgctxt "ConfigurationItem|"
+msgid "Download background music"
+msgstr ""
+
+#: activities/menu/ConfigurationItem.qml:104
 msgctxt "ConfigurationItem|"
 msgid "Enable background music"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:101
+#: activities/menu/ConfigurationItem.qml:115
 msgctxt "ConfigurationItem|"
 msgid "Background Music"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:123
+#: activities/menu/ConfigurationItem.qml:137
 msgctxt "ConfigurationItem|"
 msgid "Not playing"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:125
+#: activities/menu/ConfigurationItem.qml:139
 #, qt-format
 msgctxt "ConfigurationItem|"
 msgid "Title: %1  Artist: %2"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:127
+#: activities/menu/ConfigurationItem.qml:141
 msgctxt "ConfigurationItem|"
 msgid "Introduction music"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:139
+#: activities/menu/ConfigurationItem.qml:153
 msgctxt "ConfigurationItem|"
 msgid "Background music volume"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:156
+#: activities/menu/ConfigurationItem.qml:170
 #, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Fullscreen"
@@ -13237,17 +13242,17 @@ msgctxt "ConfigurationItem|"
 msgid "Fullscreen"
 msgstr "Làn-sgrìn"
 
-#: activities/menu/ConfigurationItem.qml:166
+#: activities/menu/ConfigurationItem.qml:180
 msgctxt "ConfigurationItem|"
 msgid "Virtual Keyboard"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:176
+#: activities/menu/ConfigurationItem.qml:190
 msgctxt "ConfigurationItem|"
 msgid "Enable automatic downloads/updates of sound files"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:187
+#: activities/menu/ConfigurationItem.qml:201
 #, fuzzy
 #| msgctxt "instruments|"
 #| msgid "Find the triangle"
@@ -13255,159 +13260,135 @@ msgctxt "ConfigurationItem|"
 msgid "Download full word image set"
 msgstr "Lorg an triantan"
 
-#: activities/menu/ConfigurationItem.qml:208
+#: activities/menu/ConfigurationItem.qml:222
 msgctxt "ConfigurationItem|"
 msgid "Use full word image set"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:208
+#: activities/menu/ConfigurationItem.qml:222
 msgctxt "ConfigurationItem|"
 msgid "Full word image set is not installed"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:229
+#: activities/menu/ConfigurationItem.qml:243
 msgctxt "ConfigurationItem|"
 msgid "The activity section menu is visible"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:239
+#: activities/menu/ConfigurationItem.qml:253
 msgctxt "ConfigurationItem|"
 msgid "Font selector"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:244
+#: activities/menu/ConfigurationItem.qml:258
 msgctxt "ConfigurationItem|"
 msgid "Font size"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:264
-#: activities/menu/ConfigurationItem.qml:299
+#: activities/menu/ConfigurationItem.qml:278
+#: activities/menu/ConfigurationItem.qml:313
 msgctxt "ConfigurationItem|"
 msgid "Default"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:274
+#: activities/menu/ConfigurationItem.qml:288
 msgctxt "ConfigurationItem|"
 msgid "Font Capitalization"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:279
+#: activities/menu/ConfigurationItem.qml:293
 msgctxt "ConfigurationItem|"
 msgid "Font letter spacing"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:310
+#: activities/menu/ConfigurationItem.qml:324
 msgctxt "ConfigurationItem|"
 msgid "Language selector"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:336
+#: activities/menu/ConfigurationItem.qml:350
 msgctxt "ConfigurationItem|"
 msgid "Localized voices"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:352
+#: activities/menu/ConfigurationItem.qml:366
 msgctxt "ConfigurationItem|"
 msgid "Check for updates"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:353
+#: activities/menu/ConfigurationItem.qml:367
 msgctxt "ConfigurationItem|"
 msgid "Download"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:367
+#: activities/menu/ConfigurationItem.qml:381
 msgctxt "ConfigurationItem|"
 msgid "Difficulty filter:"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:602
+#: activities/menu/ConfigurationItem.qml:669
 msgctxt "ConfigurationItem|"
+msgid "Mixed case (default)"
+msgstr ""
+
+#: activities/menu/ConfigurationItem.qml:670
+msgctxt "ConfigurationItem|"
+msgid "All uppercase"
+msgstr ""
+
+#: activities/menu/ConfigurationItem.qml:671
+msgctxt "ConfigurationItem|"
+msgid "All lowercase"
+msgstr ""
+
+#: activities/menu/Menu.qml:91
+msgctxt "Menu|"
 msgid ""
 "You selected a new locale. You need to restart GCompris to play in your new "
 "locale.<br/>Do you want to download the corresponding sound files now?"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:603
-#: activities/menu/ConfigurationItem.qml:640
-#: activities/menu/ConfigurationItem.qml:671
-msgctxt "ConfigurationItem|"
+#: activities/menu/Menu.qml:92
+msgctxt "Menu|"
 msgid "Yes"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:609
-#: activities/menu/ConfigurationItem.qml:645
-#: activities/menu/ConfigurationItem.qml:676
-msgctxt "ConfigurationItem|"
+#: activities/menu/Menu.qml:98
+msgctxt "Menu|"
 msgid "No"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:638
-msgctxt "ConfigurationItem|"
-msgid "The images for several activities are not yet installed. "
-msgstr ""
-
-#: activities/menu/ConfigurationItem.qml:639
-msgctxt "ConfigurationItem|"
-msgid "Do you want to download them now?"
-msgstr ""
-
-#: activities/menu/ConfigurationItem.qml:669
-msgctxt "ConfigurationItem|"
-msgid "The background music is not yet installed. "
-msgstr ""
-
-#: activities/menu/ConfigurationItem.qml:670
-msgctxt "ConfigurationItem|"
-msgid "Do you want to download it now?"
-msgstr ""
-
-#: activities/menu/ConfigurationItem.qml:727
-msgctxt "ConfigurationItem|"
-msgid "Mixed case (default)"
-msgstr ""
-
-#: activities/menu/ConfigurationItem.qml:728
-msgctxt "ConfigurationItem|"
-msgid "All uppercase"
-msgstr ""
-
-#: activities/menu/ConfigurationItem.qml:729
-msgctxt "ConfigurationItem|"
-msgid "All lowercase"
-msgstr ""
-
-#: activities/menu/Menu.qml:104
+#: activities/menu/Menu.qml:128
 msgctxt "Menu|"
 msgid "Logic"
 msgstr ""
 
-#: activities/menu/Menu.qml:105
+#: activities/menu/Menu.qml:129
 msgctxt "Menu|"
 msgid "Fine Arts"
 msgstr ""
 
-#: activities/menu/Menu.qml:106
+#: activities/menu/Menu.qml:130
 msgctxt "Menu|"
 msgid "Music"
 msgstr ""
 
-#: activities/menu/Menu.qml:112
+#: activities/menu/Menu.qml:136
 msgctxt "Menu|"
 msgid "Experiment"
 msgstr ""
 
-#: activities/menu/Menu.qml:113
+#: activities/menu/Menu.qml:137
 msgctxt "Menu|"
 msgid "History"
 msgstr ""
 
-#: activities/menu/Menu.qml:114
+#: activities/menu/Menu.qml:138
 msgctxt "Menu|"
 msgid "Geography"
 msgstr ""
 
-#: activities/menu/Menu.qml:124
+#: activities/menu/Menu.qml:148
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Numeration training"
@@ -13415,17 +13396,17 @@ msgctxt "Menu|"
 msgid "Numeration"
 msgstr "Trèanadh nan àireamhan"
 
-#: activities/menu/Menu.qml:125
+#: activities/menu/Menu.qml:149
 msgctxt "Menu|"
 msgid "Arithmetic"
 msgstr ""
 
-#: activities/menu/Menu.qml:126
+#: activities/menu/Menu.qml:150
 msgctxt "Menu|"
 msgid "Measures"
 msgstr ""
 
-#: activities/menu/Menu.qml:136
+#: activities/menu/Menu.qml:160
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Simple Letters"
@@ -13433,12 +13414,12 @@ msgctxt "Menu|"
 msgid "Letters"
 msgstr "Litrichean simplidh"
 
-#: activities/menu/Menu.qml:137
+#: activities/menu/Menu.qml:161
 msgctxt "Menu|"
 msgid "Words"
 msgstr ""
 
-#: activities/menu/Menu.qml:138
+#: activities/menu/Menu.qml:162
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Word reading"
@@ -13446,19 +13427,19 @@ msgctxt "Menu|"
 msgid "Vocabulary"
 msgstr "Leughadh nam faclan"
 
-#: activities/menu/Menu.qml:354
+#: activities/menu/Menu.qml:378
 msgctxt "Menu|"
 msgid ""
 "Put your favorite activities here by selecting the sun at the top right of "
 "that activity."
 msgstr ""
 
-#: activities/menu/Menu.qml:715
+#: activities/menu/Menu.qml:739
 msgctxt "Menu|"
 msgid "Search specific activities"
 msgstr ""
 
-#: activities/menu/Menu.qml:742
+#: activities/menu/Menu.qml:766
 msgctxt "Menu|"
 msgid "Activity Settings"
 msgstr ""
@@ -19503,39 +19484,39 @@ msgctxt "Domino|"
 msgid "Images"
 msgstr ""
 
-#: core/DownloadDialog.qml:166
+#: core/DownloadDialog.qml:183
 msgctxt "DownloadDialog|"
 msgid "Downloading ..."
 msgstr ""
 
 #. Run this task in background
-#: core/DownloadDialog.qml:210
+#: core/DownloadDialog.qml:227
 msgctxt "DownloadDialog|"
 msgid "Background"
 msgstr ""
 
-#: core/DownloadDialog.qml:228
+#: core/DownloadDialog.qml:245
 msgctxt "DownloadDialog|"
 msgid "Abort"
 msgstr ""
 
-#: core/DownloadDialog.qml:254
+#: core/DownloadDialog.qml:278
 #, qt-format
 msgctxt "DownloadDialog|"
 msgid "Download error (code: %1): %2"
 msgstr ""
 
-#: core/DownloadDialog.qml:282
+#: core/DownloadDialog.qml:306
 msgctxt "DownloadDialog|"
 msgid "Your download finished successfully. The data files are now available."
 msgstr ""
 
-#: core/DownloadDialog.qml:284
+#: core/DownloadDialog.qml:308
 msgctxt "DownloadDialog|"
 msgid "Restart any currently active activity."
 msgstr ""
 
-#: core/DownloadDialog.qml:286
+#: core/DownloadDialog.qml:310
 msgctxt "DownloadDialog|"
 msgid "Your local data files are up-to-date."
 msgstr ""
@@ -19729,44 +19710,50 @@ msgid ""
 "depending on your graphical card)."
 msgstr ""
 
-#: core/main.qml:190
+#: core/main.qml:233
 msgctxt "main|"
-msgid ""
-"The images for several activities are not yet installed. Do you want to "
-"download them now?"
+msgid "Voices for your language"
 msgstr ""
 
-#: core/main.qml:192 core/main.qml:232 core/main.qml:273
+#: core/main.qml:234
+#, fuzzy
+#| msgctxt "instruments|"
+#| msgid "Find the triangle"
+msgctxt "main|"
+msgid "Full word image set"
+msgstr "Lorg an triantan"
+
+#: core/main.qml:235
+msgctxt "main|"
+msgid "Background music"
+msgstr ""
+
+#: core/main.qml:240
+msgctxt "main|"
+msgid "Do you want to download the following external assets?"
+msgstr ""
+
+#: core/main.qml:245
 msgctxt "main|"
 msgid "Yes"
 msgstr ""
 
-#: core/main.qml:197 core/main.qml:238 core/main.qml:279
+#: core/main.qml:255
 msgctxt "main|"
 msgid "No"
 msgstr ""
 
-#: core/main.qml:230
-msgctxt "main|"
-msgid "The background music is not yet downloaded. "
-msgstr ""
-
-#: core/main.qml:231
-msgctxt "main|"
-msgid "Do you want to download it now?"
-msgstr ""
-
-#: core/main.qml:262
+#: core/main.qml:282
 msgctxt "main|"
 msgid "Welcome to GCompris!"
 msgstr ""
 
-#: core/main.qml:263
+#: core/main.qml:283
 msgctxt "main|"
 msgid "You are running GCompris for the first time."
 msgstr ""
 
-#: core/main.qml:264
+#: core/main.qml:284
 msgctxt "main|"
 msgid ""
 "You should verify that your application settings especially your language is "
@@ -19774,23 +19761,18 @@ msgid ""
 "can do this in the Preferences Dialog."
 msgstr ""
 
-#: core/main.qml:266
+#: core/main.qml:286
 msgctxt "main|"
 msgid "Have Fun!"
 msgstr ""
 
-#: core/main.qml:268
+#: core/main.qml:288
 #, qt-format
 msgctxt "main|"
 msgid "Your current language is %1 (%2)."
 msgstr ""
 
-#: core/main.qml:272
-msgctxt "main|"
-msgid "Do you want to download the corresponding sound files now?"
-msgstr ""
-
-#: core/main.qml:300
+#: core/main.qml:312
 msgctxt "main|"
 msgid "GCompris has been updated! Here are the new changes:<br/>"
 msgstr ""
