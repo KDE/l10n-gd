@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-14 00:37+0000\n"
+"POT-Creation-Date: 2020-08-15 00:35+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -413,20 +413,31 @@ msgstr ""
 "clàradh a-steach,clàraich a-steach"
 
 #: src/kcms/webshortcuts/webshortcuts.desktop:14
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "SearchKeywordsFilter"
 msgctxt "Name"
-msgid "Web Shortcuts"
-msgstr "Ath-ghoiridean lìn"
+msgid "Web Search Keywords"
+msgstr "Criathrag nam faclan-luirg"
 
 #: src/kcms/webshortcuts/webshortcuts.desktop:102
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure web shortcuts"
 msgctxt "Comment"
-msgid "Configure web shortcuts"
+msgid "Configure web search keywords"
 msgstr "Rèitich na h-ath-ghoiridean lìn"
 
 #: src/kcms/webshortcuts/webshortcuts.desktop:149
+#, fuzzy
+#| msgctxt "X-KDE-Keywords"
+#| msgid ""
+#| "Web Shortcuts,Browsing,WWW,Internet,Internet Filters,Network,Search "
+#| "Engines,Shortcuts"
 msgctxt "X-KDE-Keywords"
 msgid ""
-"Web Shortcuts,Browsing,WWW,Internet,Internet Filters,Network,Search Engines,"
-"Shortcuts"
+"Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
+"Internet,Internet Filters,Network,Search Engines,Shortcuts"
 msgstr ""
 "Web Shortcuts,Browsing,WWW,Internet,Internet Filters,Network,Search Engines,"
 "Shortcuts;ath-ghoiridean lìn,Brabhsadh,Eadar-lìn,Criathragan-lìn,Criathragan "
@@ -2220,6 +2231,10 @@ msgid "Enhanced Browsing Plugin"
 msgstr "Plugan airson brabhsadh leasaichte"
 
 #~ msgctxt "Name"
+#~ msgid "Web Shortcuts"
+#~ msgstr "Ath-ghoiridean lìn"
+
+#~ msgctxt "Name"
 #~ msgid "KDE Bug Database Fulltext Search"
 #~ msgstr "Lorg teacsa ann an stòr-dàta nam bugaichean KDE"
 
@@ -2306,10 +2321,6 @@ msgstr "Plugan airson brabhsadh leasaichte"
 #~ msgctxt "Name"
 #~ msgid "InternetKeywordsFilter"
 #~ msgstr "Criathrag faclan-luirg an eadar-lìn"
-
-#~ msgctxt "Name"
-#~ msgid "SearchKeywordsFilter"
-#~ msgstr "Criathrag nam faclan-luirg"
 
 #~ msgctxt "Name"
 #~ msgid "LocalDomainFilter"
