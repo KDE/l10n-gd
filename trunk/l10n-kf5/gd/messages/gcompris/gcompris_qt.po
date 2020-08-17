@@ -19484,7 +19484,7 @@ msgctxt "Domino|"
 msgid "Images"
 msgstr ""
 
-#: core/DownloadDialog.qml:183
+#: core/DownloadDialog.qml:212
 #, fuzzy
 #| msgctxt "instruments|"
 #| msgid "Find the triangle"
@@ -19493,33 +19493,33 @@ msgid "Downloading..."
 msgstr "Lorg an triantan"
 
 #. Run this task in background
-#: core/DownloadDialog.qml:227
+#: core/DownloadDialog.qml:264
 msgctxt "DownloadDialog|"
 msgid "Background"
 msgstr ""
 
-#: core/DownloadDialog.qml:245
+#: core/DownloadDialog.qml:283
 msgctxt "DownloadDialog|"
 msgid "Abort"
 msgstr ""
 
-#: core/DownloadDialog.qml:278
+#: core/DownloadDialog.qml:370
 #, qt-format
 msgctxt "DownloadDialog|"
 msgid "Download error (code: %1): %2"
 msgstr ""
 
-#: core/DownloadDialog.qml:306
+#: core/DownloadDialog.qml:398
 msgctxt "DownloadDialog|"
 msgid "Your download finished successfully. The data files are now available."
 msgstr ""
 
-#: core/DownloadDialog.qml:308
+#: core/DownloadDialog.qml:400
 msgctxt "DownloadDialog|"
 msgid "Restart any currently active activity."
 msgstr ""
 
-#: core/DownloadDialog.qml:310
+#: core/DownloadDialog.qml:402
 msgctxt "DownloadDialog|"
 msgid "Your local data files are up-to-date."
 msgstr ""
@@ -19713,12 +19713,12 @@ msgid ""
 "depending on your graphical card)."
 msgstr ""
 
-#: core/main.qml:233
+#: core/main.qml:239
 msgctxt "main|"
 msgid "Voices for your language"
 msgstr ""
 
-#: core/main.qml:234
+#: core/main.qml:240
 #, fuzzy
 #| msgctxt "instruments|"
 #| msgid "Find the triangle"
@@ -19726,37 +19726,37 @@ msgctxt "main|"
 msgid "Full word image set"
 msgstr "Lorg an triantan"
 
-#: core/main.qml:235
+#: core/main.qml:241
 msgctxt "main|"
 msgid "Background music"
 msgstr ""
 
-#: core/main.qml:240
+#: core/main.qml:246
 msgctxt "main|"
 msgid "Do you want to download the following external assets?"
 msgstr ""
 
-#: core/main.qml:245
+#: core/main.qml:251
 msgctxt "main|"
 msgid "Yes"
 msgstr ""
 
-#: core/main.qml:255
+#: core/main.qml:261
 msgctxt "main|"
 msgid "No"
 msgstr ""
 
-#: core/main.qml:282
+#: core/main.qml:286
 msgctxt "main|"
 msgid "Welcome to GCompris!"
 msgstr ""
 
-#: core/main.qml:283
+#: core/main.qml:287
 msgctxt "main|"
 msgid "You are running GCompris for the first time."
 msgstr ""
 
-#: core/main.qml:284
+#: core/main.qml:288
 msgctxt "main|"
 msgid ""
 "You should verify that your application settings especially your language is "
@@ -19764,18 +19764,18 @@ msgid ""
 "can do this in the Preferences Dialog."
 msgstr ""
 
-#: core/main.qml:286
+#: core/main.qml:290
 msgctxt "main|"
 msgid "Have Fun!"
 msgstr ""
 
-#: core/main.qml:288
+#: core/main.qml:292
 #, qt-format
 msgctxt "main|"
 msgid "Your current language is %1 (%2)."
 msgstr ""
 
-#: core/main.qml:312
+#: core/main.qml:316
 msgctxt "main|"
 msgid "GCompris has been updated! Here are the new changes:<br/>"
 msgstr ""
