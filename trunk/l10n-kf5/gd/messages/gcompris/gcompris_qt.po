@@ -4527,14 +4527,14 @@ msgid ""
 msgstr ""
 
 #. Translators: NOTE: Word list for crane activity. Translate this into a list of 15–25 simple 3-letter words separated by semi-colons. The words can only contain lowercase ASCII letters (a–z). Example: cat;dog;win;red;yes
-#: activities/crane/crane.js:76
+#: activities/crane/crane.js:56
 msgctxt "crane|"
 msgid ""
 "cat;dog;win;red;yes;big;box;air;arm;car;bus;fun;day;eat;hat;leg;ice;old;egg"
 msgstr ""
 
 #. Translators: NOTE: Word list for crane activity. Translate this into a list of 10–20 simple 4-letter words separated by semi-colons. The words can only contain lowercase ASCII letters (a–z). Example: blue;best;good;area
-#: activities/crane/crane.js:83
+#: activities/crane/crane.js:63
 msgctxt "crane|"
 msgid ""
 "blue;best;good;area;bell;coat;easy;farm;food;else;girl;give;hero;help;hour;"
@@ -4542,11 +4542,34 @@ msgid ""
 msgstr ""
 
 #. Translators: NOTE: Word list for crane activity. Translate this into a list of 10–20 simple 5-letter words separated by semi-colons. The words can only contain lowercase ASCII letters (a–z). Example: happy;child;white;apple
-#: activities/crane/crane.js:90
+#: activities/crane/crane.js:70
 msgctxt "crane|"
 msgid ""
 "happy;child;white;apple;brown;truth;fresh;green;horse;hotel;house;paper;"
 "shape;shirt;study"
+msgstr ""
+
+#: activities/crane/resource/1/Data.qml:24
+#, fuzzy
+#| msgctxt "instruments|"
+#| msgid "Find the triangle"
+msgctxt "Data|"
+msgid "Play with images."
+msgstr "Lorg an triantan"
+
+#: activities/crane/resource/2/Data.qml:24
+msgctxt "Data|"
+msgid "Play with words of 3 letters."
+msgstr ""
+
+#: activities/crane/resource/3/Data.qml:24
+msgctxt "Data|"
+msgid "Play with words of 4 letters."
+msgstr ""
+
+#: activities/crane/resource/4/Data.qml:24
+msgctxt "Data|"
+msgid "Play with words of 5 letters."
 msgstr ""
 
 #. Activity title
@@ -19970,13 +19993,6 @@ msgstr ""
 #~ msgctxt "board9_0|"
 #~ msgid "Central African Republic"
 #~ msgstr "Poblachd na Seice"
-
-#, fuzzy
-#~| msgctxt "instruments|"
-#~| msgid "Find the triangle"
-#~ msgctxt "Lang|"
-#~ msgid "Download the images"
-#~ msgstr "Lorg an triantan"
 
 #, fuzzy
 #~| msgctxt "instruments|"
