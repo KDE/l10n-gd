@@ -4586,6 +4586,27 @@ msgctxt "ActivityInfo|"
 msgid "The images are from Wikimedia Commons."
 msgstr ""
 
+#: activities/details/resource/1/Data.qml:24
+#, fuzzy
+#| msgctxt "instruments|"
+#| msgid "Find the triangle"
+msgctxt "Data|"
+msgid "Play with paintings."
+msgstr "Lorg an triantan"
+
+#: activities/details/resource/2/Data.qml:24
+#, fuzzy
+#| msgctxt "instruments|"
+#| msgid "Find the triangle"
+msgctxt "Data|"
+msgid "Play with simple photographs."
+msgstr "Lorg an triantan"
+
+#: activities/details/resource/3/Data.qml:24
+msgctxt "Data|"
+msgid "Play with complex photographs."
+msgstr ""
+
 #: activities/details/resource/board/board10_0.qml:25
 msgctxt "board10_0|"
 msgid "Eilean Donan castle"
