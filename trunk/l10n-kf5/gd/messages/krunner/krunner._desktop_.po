@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-16 00:36+0000\n"
+"POT-Creation-Date: 2020-08-31 00:38+0000\n"
 "PO-Revision-Date: 2016-04-29 19:25+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -20,6 +20,19 @@ msgstr ""
 msgctxt "Comment"
 msgid "KRunner plugin"
 msgstr "Plugan KRunner"
+
+#: templates/runnerpython/runnerpy.kdevtemplate:2
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "KRunner plugin"
+msgctxt "Name"
+msgid "Python KRunner Plugin"
+msgstr "Plugan KRunner"
+
+#: templates/runnerpython/runnerpy.kdevtemplate:3
+msgctxt "Comment"
+msgid "Template for a KRunner Python Plugin using D-Bus"
+msgstr ""
 
 #: templates/runner/runner.kdevtemplate:3
 msgctxt "Name"

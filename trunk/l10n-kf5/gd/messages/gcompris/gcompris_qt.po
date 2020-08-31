@@ -20,7 +20,7 @@ msgstr "Dathan adhartach"
 #| msgctxt "ActivityInfo|"
 #| msgid "Click on the correct color"
 msgctxt "ActivityInfo|"
-msgid "Select the butterfly of the correct color"
+msgid "Select the butterfly of the correct color."
 msgstr "Briog air an dath cheart"
 
 #. Help goal
@@ -31,8 +31,11 @@ msgstr "Ionnsaich aithneachadh dhathan neo-àbhaisteach."
 
 #. Help prerequisite
 #: activities/advanced_colors/ActivityInfo.qml:33
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Can read"
 msgctxt "ActivityInfo|"
-msgid "Can read"
+msgid "Can read."
 msgstr "Tha leughadh agad"
 
 #. Help manual
@@ -41,6 +44,43 @@ msgctxt "ActivityInfo|"
 msgid ""
 "You will see dancing butterflies of different colors and a question. You "
 "have to find the correct butterfly and touch it."
+msgstr ""
+
+#: activities/advanced_colors/ActivityInfo.qml:36
+#: activities/algebra_by/ActivityInfo.qml:36
+#: activities/algebra_div/ActivityInfo.qml:36
+#: activities/algebra_minus/ActivityInfo.qml:36
+#: activities/algebra_plus/ActivityInfo.qml:36
+#: activities/algorithm/ActivityInfo.qml:34
+#: activities/align4-2players/ActivityInfo.qml:34
+#: activities/align4/ActivityInfo.qml:34
+#: activities/alphabet-sequence/ActivityInfo.qml:36
+#: activities/click_on_letter/ActivityInfo.qml:36
+#: activities/click_on_letter_up/ActivityInfo.qml:36
+#: activities/graph-coloring/ActivityInfo.qml:36
+#: activities/learn_additions/ActivityInfo.qml:36
+#: activities/learn_digits/ActivityInfo.qml:36
+#: activities/learn_subtractions/ActivityInfo.qml:36
+#: activities/piano_composition/ActivityInfo.qml:44
+#: activities/play_piano/ActivityInfo.qml:41
+#: activities/play_rhythm/ActivityInfo.qml:40
+#: activities/programmingMaze/ActivityInfo.qml:38
+#: activities/simplepaint/ActivityInfo.qml:36
+#: activities/solar_system/ActivityInfo.qml:39
+msgctxt "ActivityInfo|"
+msgid "<b>Keyboard controls:</b>"
+msgstr ""
+
+#: activities/advanced_colors/ActivityInfo.qml:37
+#: activities/algorithm/ActivityInfo.qml:35
+msgctxt "ActivityInfo|"
+msgid "Arrows: navigate"
+msgstr ""
+
+#: activities/advanced_colors/ActivityInfo.qml:38
+#: activities/algorithm/ActivityInfo.qml:36
+msgctxt "ActivityInfo|"
+msgid "Space or Enter: select an item"
 msgstr ""
 
 #. Look at https://gcompris.net/wiki/Advanced_color_translation to see all the advanced colors Color #FF7F50
@@ -581,15 +621,21 @@ msgstr "Clàr iomadachaidh"
 
 #. Help title
 #: activities/algebra_by/ActivityInfo.qml:28
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Practice the multiplication operation"
 msgctxt "ActivityInfo|"
-msgid "Practice the multiplication operation"
+msgid "Practice the multiplication operation."
 msgstr "Cleachd iomadachadh"
 
 #. Help goal
 #: activities/algebra_by/ActivityInfo.qml:31
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "In a limited time, find the difference between two numbers"
 msgctxt "ActivityInfo|"
-msgid "Learn to multiply numbers within a limited period of time"
-msgstr ""
+msgid "Learn to multiply numbers within a limited period of time."
+msgstr "Lorg an diofar eadar dà àireamh ann an ùine chuingealaichte"
 
 #. Help prerequisite
 #: activities/algebra_by/ActivityInfo.qml:33
@@ -597,7 +643,7 @@ msgstr ""
 #| msgctxt "ActivityInfo|"
 #| msgid "Multiplication table"
 msgctxt "ActivityInfo|"
-msgid "Multiplication tables from 1 to 10"
+msgid "Multiplication tables from 1 to 10."
 msgstr "Clàr iomadachaidh"
 
 #. Help manual
@@ -608,6 +654,30 @@ msgid ""
 "your computer's keyboard or the on-screen keypad to type the product of the "
 "numbers. You have to be fast and submit the answer before the penguins in "
 "their balloon land!"
+msgstr ""
+
+#: activities/algebra_by/ActivityInfo.qml:37
+#: activities/algebra_div/ActivityInfo.qml:37
+#: activities/algebra_minus/ActivityInfo.qml:37
+#: activities/algebra_plus/ActivityInfo.qml:37
+msgctxt "ActivityInfo|"
+msgid "Digits: type your answer"
+msgstr ""
+
+#: activities/algebra_by/ActivityInfo.qml:38
+#: activities/algebra_div/ActivityInfo.qml:38
+#: activities/algebra_minus/ActivityInfo.qml:38
+#: activities/algebra_plus/ActivityInfo.qml:38
+msgctxt "ActivityInfo|"
+msgid "Backspace: delete the last digit in your answer"
+msgstr ""
+
+#: activities/algebra_by/ActivityInfo.qml:39
+#: activities/algebra_div/ActivityInfo.qml:39
+#: activities/algebra_minus/ActivityInfo.qml:39
+#: activities/algebra_plus/ActivityInfo.qml:39
+msgctxt "ActivityInfo|"
+msgid "Enter: validate your answer"
 msgstr ""
 
 #: activities/algebra_by/resource/1/Data.qml:24
@@ -705,7 +775,7 @@ msgstr "Geama cuimhne toirt air falbh"
 #| msgctxt "ActivityInfo|"
 #| msgid "Practice the subtraction operation"
 msgctxt "ActivityInfo|"
-msgid "Practice the division operation"
+msgid "Practice the division operation."
 msgstr "Cleachd toirt air falbh"
 
 #. Help goal
@@ -714,7 +784,7 @@ msgstr "Cleachd toirt air falbh"
 #| msgctxt "ActivityInfo|"
 #| msgid "In a limited time, find the difference between two numbers"
 msgctxt "ActivityInfo|"
-msgid "Find the result of the division within a limited period of time"
+msgid "Find the result of the division within a limited period of time."
 msgstr "Lorg an diofar eadar dà àireamh ann an ùine chuingealaichte"
 
 #. Help prerequisite
@@ -723,7 +793,7 @@ msgstr "Lorg an diofar eadar dà àireamh ann an ùine chuingealaichte"
 #| msgctxt "ActivityInfo|"
 #| msgid "Subtraction memory game"
 msgctxt "ActivityInfo|"
-msgid "Division of small numbers"
+msgid "Division of small numbers."
 msgstr "Geama cuimhne toirt air falbh"
 
 #. Help manual
@@ -826,8 +896,11 @@ msgstr "Geama cuimhne toirt air falbh"
 
 #. Help title
 #: activities/algebra_minus/ActivityInfo.qml:28
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Practice the subtraction operation"
 msgctxt "ActivityInfo|"
-msgid "Practice the subtraction operation"
+msgid "Practice the subtraction operation."
 msgstr "Cleachd toirt air falbh"
 
 #. Help goal
@@ -838,7 +911,7 @@ msgstr "Cleachd toirt air falbh"
 msgctxt "ActivityInfo|"
 msgid ""
 "Learn to find the difference between two numbers within a limited period of "
-"time"
+"time."
 msgstr "Lorg an diofar eadar dà àireamh ann an ùine chuingealaichte"
 
 #. Help prerequisite
@@ -847,7 +920,7 @@ msgstr "Lorg an diofar eadar dà àireamh ann an ùine chuingealaichte"
 #| msgctxt "ActivityInfo|"
 #| msgid "Subtraction memory game"
 msgctxt "ActivityInfo|"
-msgid "Subtraction of small numbers"
+msgid "Subtraction of small numbers."
 msgstr "Geama cuimhne toirt air falbh"
 
 #. Help manual
@@ -954,7 +1027,7 @@ msgstr "Geama cuimhne toirt air falbh"
 #| msgctxt "ActivityInfo|"
 #| msgid "Practice the addition operation"
 msgctxt "ActivityInfo|"
-msgid "Practice the addition of numbers"
+msgid "Practice the addition of numbers."
 msgstr "Cleachd cur ri chèile"
 
 #. Help goal
@@ -963,13 +1036,16 @@ msgstr "Cleachd cur ri chèile"
 #| msgctxt "ActivityInfo|"
 #| msgid "In a limited time, find the difference between two numbers"
 msgctxt "ActivityInfo|"
-msgid "Learn to find the sum of two numbers within a limited period of time"
+msgid "Learn to find the sum of two numbers within a limited period of time."
 msgstr "Lorg an diofar eadar dà àireamh ann an ùine chuingealaichte"
 
 #. Help prerequisite
 #: activities/algebra_plus/ActivityInfo.qml:33
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Simple addition. Can recognize written numbers"
 msgctxt "ActivityInfo|"
-msgid "Simple addition. Can recognize written numbers"
+msgid "Simple addition. Can recognize written numbers."
 msgstr "Tha cur ri chèile simplidh agad. Aithnichidh tu àireamhan sgrìobhte."
 
 #. Help manual
@@ -1070,13 +1146,16 @@ msgstr ""
 #. Help title
 #: activities/algorithm/ActivityInfo.qml:28
 msgctxt "ActivityInfo|"
-msgid "Complete the arrangement of fruits"
+msgid "Complete the arrangement of fruits."
 msgstr ""
 
 #. Help goal
 #: activities/algorithm/ActivityInfo.qml:31
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Logic training activity"
 msgctxt "ActivityInfo|"
-msgid "Logic training activity"
+msgid "Logic training activity."
 msgstr "Cleas trèanadh loidig"
 
 #. Help manual
@@ -1101,7 +1180,7 @@ msgstr ""
 #| msgctxt "ActivityInfo|"
 #| msgid "Arrange four coins in a row"
 msgctxt "ActivityInfo|"
-msgid "Arrange four tokens in a row"
+msgid "Arrange four tokens in a row."
 msgstr "Cuir ceithir buinn ann an sreath"
 
 #. Help goal
@@ -1131,13 +1210,32 @@ msgstr ""
 msgctxt "ActivityInfo|"
 msgid ""
 "Play with a friend. Take turns to click the line in which you want to drop a "
-"token. You can also use the arrow keys to move the token left or right, and "
-"the down or space key to drop a token. First player to create a line of 4 "
-"tokens wins"
+"token. The first player to create a line of 4 tokens wins."
 msgstr ""
 "Briog air an ionad air an loidhne far a bheil thu airson bonn a leigeil. ’S "
 "urrainn dhut na saighdean a chleachdadh cuideachd gus am bonn a ghluasad gu "
 "clì no deas is an iuchair sìos no an spacebar gus bonn a leagail."
+
+#: activities/align4-2players/ActivityInfo.qml:35
+#: activities/align4/ActivityInfo.qml:35
+msgctxt "ActivityInfo|"
+msgid "Left arrow: move the token to the left"
+msgstr ""
+
+#: activities/align4-2players/ActivityInfo.qml:36
+#: activities/align4/ActivityInfo.qml:36
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "ActivityInfo|"
+msgid "Right arrow: move the token to the right"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/align4-2players/ActivityInfo.qml:37
+#: activities/align4/ActivityInfo.qml:37
+msgctxt "ActivityInfo|"
+msgid "Space or Down arrow: drop the token"
+msgstr ""
 
 #. Activity title
 #: activities/align4/ActivityInfo.qml:26
@@ -1159,34 +1257,38 @@ msgstr "Geama cuimhne cuir ris an aghaidh Tux"
 msgctxt "ActivityInfo|"
 msgid ""
 "Play with the computer. Take turns to click the line in which you want to "
-"drop a token. You can also use the arrow keys to move the token left or "
-"right, and the down or space key to drop a token. First player to create a "
-"line of 4 tokens wins"
+"drop a token. The first player to create a line of 4 tokens wins."
 msgstr ""
 "Briog air an ionad air an loidhne far a bheil thu airson bonn a leigeil. ’S "
 "urrainn dhut na saighdean a chleachdadh cuideachd gus am bonn a ghluasad gu "
 "clì no deas is an iuchair sìos no an spacebar gus bonn a leagail."
 
 #. Activity title
-#. ----------
-#. Help goal
 #: activities/alphabet-sequence/ActivityInfo.qml:26
-#: activities/alphabet-sequence/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid "Alphabet sequence"
 msgstr ""
 
 #. Help title
 #: activities/alphabet-sequence/ActivityInfo.qml:28
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Move the helicopter to catch the clouds in the correct order"
 msgctxt "ActivityInfo|"
 msgid ""
-"Move the helicopter to catch the clouds following the order of the alphabet"
+"Move the helicopter to catch the clouds following the order of the alphabet."
+msgstr "Gluais an heileacoptair ach an glac thu na neòil san òrdugh cheart"
+
+#. Help goal
+#: activities/alphabet-sequence/ActivityInfo.qml:31
+msgctxt "ActivityInfo|"
+msgid "Alphabet sequence."
 msgstr ""
 
 #. Help prerequisite
 #: activities/alphabet-sequence/ActivityInfo.qml:33
 msgctxt "ActivityInfo|"
-msgid "Can decode letters"
+msgid "Can decode letters."
 msgstr ""
 
 #. Help manual
@@ -1197,6 +1299,11 @@ msgid ""
 "helicopter. With a pointing device you just click or tap on the target "
 "location. To know which letter you have to catch you can either remember it "
 "or check the bottom right corner."
+msgstr ""
+
+#: activities/alphabet-sequence/ActivityInfo.qml:37
+msgctxt "ActivityInfo|"
+msgid "Arrows: move the helicopter"
 msgstr ""
 
 #: activities/alphabet-sequence/AlphabetSequence.qml:29
@@ -1215,7 +1322,7 @@ msgstr ""
 #. Help title
 #: activities/analog_electricity/ActivityInfo.qml:28
 msgctxt "ActivityInfo|"
-msgid "Create and simulate an analog electric schema"
+msgid "Create and simulate an analog electric schema."
 msgstr ""
 
 #. Help goal
@@ -3924,22 +4031,6 @@ msgstr ""
 "Cluinnidh tu litir. Briog air an litir co-ionnan sa phrìomh raon. Faodaidh "
 "tu èisteachd ris an litir a-rithist ’s tu a’ briogadh air ìomhaigheag beòil "
 "sa bhogsa aig a’ bharr."
-
-#: activities/click_on_letter/ActivityInfo.qml:36
-#: activities/click_on_letter_up/ActivityInfo.qml:36
-#: activities/graph-coloring/ActivityInfo.qml:36
-#: activities/learn_additions/ActivityInfo.qml:36
-#: activities/learn_digits/ActivityInfo.qml:36
-#: activities/learn_subtractions/ActivityInfo.qml:36
-#: activities/piano_composition/ActivityInfo.qml:44
-#: activities/play_piano/ActivityInfo.qml:41
-#: activities/play_rhythm/ActivityInfo.qml:40
-#: activities/programmingMaze/ActivityInfo.qml:38
-#: activities/simplepaint/ActivityInfo.qml:36
-#: activities/solar_system/ActivityInfo.qml:39
-msgctxt "ActivityInfo|"
-msgid "<b>Keyboard controls:</b>"
-msgstr ""
 
 #: activities/click_on_letter/ActivityInfo.qml:37
 #: activities/click_on_letter_up/ActivityInfo.qml:37
@@ -19878,6 +19969,42 @@ msgstr ""
 msgctxt "Tutorial|"
 msgid "Start"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "ActivityInfo|"
+#~| msgid ""
+#~| "Click the position in the line where you want to drop a piece. You can "
+#~| "also use the arrow keys to move the piece left or right, and the down or "
+#~| "space key to drop a piece."
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "Play with a friend. Take turns to click the line in which you want to "
+#~ "drop a token. You can also use the arrow keys to move the token left or "
+#~ "right, and the down or space key to drop a token. First player to create "
+#~ "a line of 4 tokens wins"
+#~ msgstr ""
+#~ "Briog air an ionad air an loidhne far a bheil thu airson bonn a leigeil. "
+#~ "’S urrainn dhut na saighdean a chleachdadh cuideachd gus am bonn a "
+#~ "ghluasad gu clì no deas is an iuchair sìos no an spacebar gus bonn a "
+#~ "leagail."
+
+#, fuzzy
+#~| msgctxt "ActivityInfo|"
+#~| msgid ""
+#~| "Click the position in the line where you want to drop a piece. You can "
+#~| "also use the arrow keys to move the piece left or right, and the down or "
+#~| "space key to drop a piece."
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "Play with the computer. Take turns to click the line in which you want to "
+#~ "drop a token. You can also use the arrow keys to move the token left or "
+#~ "right, and the down or space key to drop a token. First player to create "
+#~ "a line of 4 tokens wins"
+#~ msgstr ""
+#~ "Briog air an ionad air an loidhne far a bheil thu airson bonn a leigeil. "
+#~ "’S urrainn dhut na saighdean a chleachdadh cuideachd gus am bonn a "
+#~ "ghluasad gu clì no deas is an iuchair sìos no an spacebar gus bonn a "
+#~ "leagail."
 
 #~ msgctxt "ActivityInfo|"
 #~ msgid ""
