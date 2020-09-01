@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-03 02:05+0200\n"
+"POT-Creation-Date: 2020-09-01 02:09+0200\n"
 "PO-Revision-Date: 2016-04-29 13:11+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -402,35 +402,35 @@ msgstr ""
 msgid "format"
 msgstr ""
 
-#: monitorcommand.cpp:53
+#: monitorcommand.cpp:54
 #, kde-format
 msgid "Press ctrl+c to stop monitoring\n"
 msgstr ""
 
-#: monitorcommand.cpp:71
+#: monitorcommand.cpp:70
 #, kde-format
 msgid "Waiting for file indexer to start\n"
 msgstr ""
 
-#: monitorcommand.cpp:72
+#: monitorcommand.cpp:71
 #, kde-format
 msgid "Press Ctrl+C to stop monitoring\n"
 msgstr ""
 
-#: monitorcommand.cpp:79
+#: monitorcommand.cpp:78
 #, fuzzy, kde-format
 #| msgid "Baloo File Indexer is running"
 msgid "File indexer is running\n"
 msgstr "Tha inneal-inneacsaidh Baloo 'ga ruith"
 
-#: monitorcommand.cpp:92
+#: monitorcommand.cpp:94
 #, fuzzy, kde-format
 #| msgid "Indexer state: %1"
 msgctxt "currently indexed file"
 msgid "Indexing: %1"
 msgstr "Staid an inneil-inneacsaidh: %1"
 
-#: monitorcommand.cpp:105
+#: monitorcommand.cpp:103
 #, kde-format
 msgid ": Ok\n"
 msgstr ""
@@ -505,7 +505,7 @@ msgstr ""
 #, fuzzy, kde-format
 #| msgid ""
 #| "Baloo is currently disabled. To enable, please run \"balooctl enable\""
-msgid "Baloo is currently disabled. To enable, please run %1"
+msgid "Baloo is currently disabled. To enable, please run %1\n"
 msgstr ""
 "Tha Baloo à comas an-dràsta. Gus a chur an comas, ruith \"balooctl enable\""
 
