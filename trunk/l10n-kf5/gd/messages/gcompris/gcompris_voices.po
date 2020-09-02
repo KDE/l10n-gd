@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gcompris voices\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-13 02:05+0200\n"
+"POT-Creation-Date: 2020-09-02 02:10+0200\n"
 "PO-Revision-Date: 2017-05-27 14:21+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: gd <kde-i18n-doc@kde.org>\n"
@@ -167,18 +167,21 @@ msgstr ""
 #: activities/ballcatch/ActivityInfo.qml:29
 #, kde-format
 msgid ""
-"Press the left and right arrow key at the same time to send the ball "
-"straight on"
+"Press the left and right arrows at the same time to send the ball straight on"
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "bargame"
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "bargame_2players"
 #: activities/bargame/ActivityInfo.qml:29
 #: activities/bargame_2players/ActivityInfo.qml:29
-#, kde-format
+#, fuzzy, kde-format
+#| msgid ""
+#| "Click the number of balls you wish to place in the holes and then click "
+#| "the OK button. The winner is the one who hasn't put a ball in the red "
+#| "hole."
 msgid ""
-"Click the number of balls you wish to place in the holes and then click the "
-"OK button. The winner is the one who hasn't put a ball in the red hole."
+"Select the number of balls you wish to place in the holes and then click on "
+"the OK button. The winner is the one who hasn't put a ball in the red hole."
 msgstr ""
 "Briog air àireamh nam bàla a tha thu airson cur sna tuill agus an uairsin "
 "briog air a' phutan \"OK\". Buannaichidh am fear nach do chuir bàla san toll "
@@ -227,7 +230,7 @@ msgstr ""
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "categorization"
 #: activities/categorization/ActivityInfo.qml:29
 #, kde-format
-msgid "Categorize the elements into the correct group"
+msgid "Categorize the items into the correct group"
 msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "checkers"

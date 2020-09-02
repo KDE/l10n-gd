@@ -56,6 +56,9 @@ msgstr ""
 #: activities/align4/ActivityInfo.qml:34
 #: activities/alphabet-sequence/ActivityInfo.qml:36
 #: activities/baby_wordprocessor/ActivityInfo.qml:37
+#: activities/braille_alphabets/ActivityInfo.qml:37
+#: activities/braille_fun/ActivityInfo.qml:36
+#: activities/calendar/ActivityInfo.qml:36
 #: activities/click_on_letter/ActivityInfo.qml:36
 #: activities/click_on_letter_up/ActivityInfo.qml:36
 #: activities/graph-coloring/ActivityInfo.qml:36
@@ -2052,9 +2055,9 @@ msgstr ""
 #| "straight line."
 msgctxt "ActivityInfo|"
 msgid ""
-"Press the left and right arrow at the same time, to make the ball go in a "
-"straight line. On a touch screen you have to hit the two hands at the same "
-"time."
+"Press the left and right arrow keys at the same time, to make the ball go in "
+"a straight line. On a touch screen you have to touch the two hands at the "
+"same time."
 msgstr ""
 "Brùth air an dà iuchair Shift aig an aon àm gus an tèid am bàla ann an "
 "loidhne dhìrich."
@@ -2110,8 +2113,8 @@ msgstr "Geama cuimhne claisneachd an aghaidh Tux"
 #: activities/bargame_2players/ActivityInfo.qml:28
 msgctxt "ActivityInfo|"
 msgid ""
-"Click the number of balls you wish to place in the holes and then click the "
-"OK button. The winner is the one who hasn't put a ball in the red hole."
+"Select the number of balls you wish to place in the holes and then click on "
+"the OK button. The winner is the one who hasn't put a ball in the red hole."
 msgstr ""
 
 #. Help goal
@@ -2121,22 +2124,23 @@ msgstr ""
 #| msgctxt "ActivityInfo|"
 #| msgid "Kick the ball into the goal"
 msgctxt "ActivityInfo|"
-msgid "Don't put the ball in the last hole"
+msgid "Don't put the ball in the last hole."
 msgstr "Breab am bàla dhan tadhal"
 
 #. Help prerequisite
 #: activities/bargame/ActivityInfo.qml:33
 #: activities/bargame_2players/ActivityInfo.qml:33
 msgctxt "ActivityInfo|"
-msgid "Ability to count"
+msgid "Ability to count."
 msgstr ""
 
 #. Help manual
 #: activities/bargame/ActivityInfo.qml:35
 msgctxt "ActivityInfo|"
 msgid ""
-"Place balls in the holes. You win if the computer has to place the last "
-"ball. If you want Tux to begin, just click on him"
+"Click on the ball icon to select a number of balls, then click on the OK "
+"button to place the balls in the holes. You win if the computer has to place "
+"the last ball. If you want Tux to begin, just click on him"
 msgstr ""
 
 #. Activity title
@@ -2149,7 +2153,9 @@ msgstr ""
 #: activities/bargame_2players/ActivityInfo.qml:35
 msgctxt "ActivityInfo|"
 msgid ""
-"Place balls in the holes. You win if your friend has to place the last ball."
+"Click on the ball icon to select a number of balls, then click on the OK "
+"button to place the balls in the holes. You win if your friend has to place "
+"the last ball."
 msgstr ""
 
 #. Activity title
@@ -2162,20 +2168,20 @@ msgstr ""
 #: activities/binary_bulb/ActivityInfo.qml:28
 msgctxt "ActivityInfo|"
 msgid ""
-"This activity helps you to learn the concept of conversion of decimal number "
-"system to binary number system."
+"This activity helps you to learn the concept of conversion from decimal "
+"number system to binary number system."
 msgstr ""
 
 #. Help goal
 #: activities/binary_bulb/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
-msgid "To get familiar with the binary number system"
+msgid "To get familiar with the binary number system."
 msgstr ""
 
 #. Help prerequisite
 #: activities/binary_bulb/ActivityInfo.qml:33
 msgctxt "ActivityInfo|"
-msgid "Decimal number system"
+msgid "Decimal number system."
 msgstr ""
 
 #. Help manual
@@ -2228,7 +2234,7 @@ msgstr ""
 #: activities/binary_bulb/binary_bulb.js:55
 msgctxt "binary_bulb|"
 msgid ""
-"Their corresponding bits are set to 1, the others set to 0. Decimal 5 is "
+"Their corresponding bits are set to 1, the others are set to 0. Decimal 5 is "
 "equal to binary 101."
 msgstr ""
 
@@ -2258,15 +2264,21 @@ msgstr ""
 
 #. Activity title
 #: activities/braille_alphabets/ActivityInfo.qml:26
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Discover the Braille system"
 msgctxt "ActivityInfo|"
-msgid "Discover the Braille system"
+msgid "Discover the braille system"
 msgstr "Faigh fiosrachadh air Braille"
 
 #. Help title
 #: activities/braille_alphabets/ActivityInfo.qml:28
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Let kids discover the Braille system."
 msgctxt "ActivityInfo|"
-msgid "Learn and memorize the Braille system"
-msgstr ""
+msgid "Learn and memorize the braille system."
+msgstr "A’ sealladh an siostam Braille dhan chlann."
 
 #. Help goal
 #: activities/braille_alphabets/ActivityInfo.qml:31
@@ -2274,45 +2286,85 @@ msgstr ""
 #| msgctxt "ActivityInfo|"
 #| msgid "Let kids discover the Braille system."
 msgctxt "ActivityInfo|"
-msgid "Let children discover the Braille system."
+msgid "Let children discover the braille system."
 msgstr "A’ sealladh an siostam Braille dhan chlann."
 
 #. Help manual
 #: activities/braille_alphabets/ActivityInfo.qml:35
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "The screen has 3 sections: an interactive braille cell, an instruction "
+#| "telling you the letter to reproduce, and at the top the Braille letters "
+#| "to use as a reference. Each level teaches a set of 10 letters."
 msgctxt "ActivityInfo|"
 msgid ""
 "The screen has 3 sections: an interactive braille cell, an instruction "
-"telling you the letter to reproduce, and at the top the Braille letters to "
-"use as a reference. Each level teaches a set of 10 letters."
+"telling you the character to reproduce, and at the top the braille "
+"characters to use as a reference. Each level teaches a set of 10 characters."
 msgstr ""
 "Tha 3 raointean air an sgrìn: cealla Braille eadar-ghnìomhach, mìneachadh a "
 "dh’innseas dhut dè an litir a bu chòir dhut ath-dhèanamh is na litrichean "
 "Braille air a’ bharr mar iomradh. Ionnsaichidh gach leibheil seata de 10 "
 "litrichean dhut."
 
+#: activities/braille_alphabets/ActivityInfo.qml:35
+msgctxt "ActivityInfo|"
+msgid "Reproduce the requested character in the interactive braille cell."
+msgstr ""
+
+#: activities/braille_alphabets/ActivityInfo.qml:36
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Find the strawberry by clicking on the blue fields"
+msgctxt "ActivityInfo|"
+msgid ""
+"You can open the braille chart by clicking on the blue braille cell icon."
+msgstr "Lorg an sùbh-làir ’s tu a’ briogadh air na raointean gorma"
+
+#: activities/braille_alphabets/ActivityInfo.qml:38
+msgctxt "ActivityInfo|"
+msgid "Digits: 1 to 6 select/deselect the corresponding dots"
+msgstr ""
+
+#: activities/braille_alphabets/ActivityInfo.qml:39
+#: activities/braille_fun/ActivityInfo.qml:37
+msgctxt "ActivityInfo|"
+msgid "Space: open or close the braille chart"
+msgstr ""
+
 #: activities/braille_alphabets/braille_alphabets.js:58
 #: activities/braille_alphabets/braille_alphabets.js:68
 #: activities/braille_alphabets/braille_alphabets.js:78
-#: activities/braille_alphabets/braille_alphabets.js:88
 #: activities/braille_alphabets/braille_alphabets.js:98
 msgctxt "braille_alphabets|"
-msgid "Now it's a little bit harder without the braille map."
+msgid "Now it's a little bit harder without the reference."
 msgstr ""
 
 #: activities/braille_alphabets/braille_alphabets.js:63
+#, fuzzy
+#| msgctxt "braille_alphabets|"
+#| msgid ""
+#| "Look at the Braille character map and observe how similar the first and "
+#| "second line are."
 msgctxt "braille_alphabets|"
 msgid ""
-"Look at the Braille character map and observe how similar the first and "
-"second line are."
+"Look at the braille character chart and observe how similar the first and "
+"second lines are."
 msgstr ""
 "Seall air mapa nan caractaran Braille is mothaich dè cho coltach ri chèile "
 "’s a tha a’ chiad is an dàrna loidhne."
 
 #: activities/braille_alphabets/braille_alphabets.js:73
+#, fuzzy
+#| msgctxt "braille_alphabets|"
+#| msgid ""
+#| "Again, similar as the first line but take care, the 'W' letter was added "
+#| "afterwards."
 msgctxt "braille_alphabets|"
 msgid ""
-"Again, similar as the first line but take care, the 'W' letter was added "
-"afterwards."
+"Again, similar to the first line in the character chart but take care, the "
+"'W' letter was added afterward."
 msgstr ""
 "A-rithist, coltach ris a’ chiad loidhne, ach thoir an aire gun deach an "
 "litir “W” a chur ris an uair sin."
@@ -2323,6 +2375,11 @@ msgid "This is easy, numbers are the same as letters from A to J."
 msgstr ""
 "Tha seo furasta, tha na h-àireamhan co-ionnan ris na litrichean o “A” gu “J”."
 
+#: activities/braille_alphabets/braille_alphabets.js:88
+msgctxt "braille_alphabets|"
+msgid "Now it's a little bit harder without the reference"
+msgstr ""
+
 #: activities/braille_alphabets/FirstScreen.qml:36
 #, fuzzy
 #| msgctxt "FirstScreen|"
@@ -2332,18 +2389,29 @@ msgid "Braille: Unlocking the Code"
 msgstr "Braille : A’ neo-ghlasadh a’ còd"
 
 #: activities/braille_alphabets/FirstScreen.qml:64
+#, fuzzy
+#| msgctxt "FirstScreen|"
+#| msgid ""
+#| "The Braille system is a method that is used by blind people to read and "
+#| "write."
 msgctxt "FirstScreen|"
 msgid ""
-"The Braille system is a method that is used by blind people to read and "
+"The braille system is a method that is used by blind people to read and "
 "write."
 msgstr ""
 "’S e dòigh leughaidh is sgrìobhaidh a chleachdas daoine dalla a tha san t-"
 "siostam Braille."
 
 #: activities/braille_alphabets/FirstScreen.qml:65
+#, fuzzy
+#| msgctxt "FirstScreen|"
+#| msgid ""
+#| "Each Braille character, or cell, is made up of six dot positions, "
+#| "arranged in a rectangle containing two columns of three dots each. As "
+#| "seen on the left, each dot is referenced by a number from 1 to 6."
 msgctxt "FirstScreen|"
 msgid ""
-"Each Braille character, or cell, is made up of six dot positions, arranged "
+"Each braille character, or cell, is made up of six dot positions, arranged "
 "in a rectangle containing two columns of three dots each. As seen on the "
 "left, each dot is referenced by a number from 1 to 6."
 msgstr ""
@@ -2353,8 +2421,12 @@ msgstr ""
 "na h-àireamhan 1 gu 6."
 
 #: activities/braille_alphabets/FirstScreen.qml:89
+#, fuzzy
+#| msgctxt "FirstScreen|"
+#| msgid ""
+#| "When you are ready, click on me and try reproducing Braille characters."
 msgctxt "FirstScreen|"
-msgid "When you are ready, click on me and try reproducing Braille characters."
+msgid "When you are ready, click on me and try reproducing braille characters."
 msgstr ""
 "Nuair a bhios tu deiseil, briog orm is feuch an ath-chruthaich thu na "
 "caractaran Braille."
@@ -2385,9 +2457,11 @@ msgstr ""
 #: activities/braille_alphabets/questions.js:119
 #: activities/braille_alphabets/questions.js:123
 #: activities/braille_alphabets/questions.js:127
-#, qt-format
+#, fuzzy, qt-format
+#| msgctxt "questions|"
+#| msgid "Click on the dots in braille cell area to produce the letter %1."
 msgctxt "questions|"
-msgid "Click on the dots in braille cell area to produce the letter %1."
+msgid "Click on the dots in the braille cell area to produce the letter %1."
 msgstr ""
 "Briog air na dotagan ann an raon cealla Braille gus an litir %1 a dhèanamh."
 
@@ -2405,7 +2479,7 @@ msgstr ""
 #| msgctxt "questions|"
 #| msgid "Click on the dots in braille cell area to produce the letter %1."
 msgctxt "questions|"
-msgid "Click on the dots in braille cell area to produce the number %1."
+msgid "Click on the dots in the braille cell area to produce the number %1."
 msgstr ""
 "Briog air na dotagan ann an raon cealla Braille gus an litir %1 a dhèanamh."
 
@@ -2418,7 +2492,7 @@ msgstr ""
 #| msgctxt "questions|"
 #| msgid "Click on the dots in braille cell area to produce the letter %1."
 msgctxt "questions|"
-msgid "Click on the dots in braille cell area to produce the symbol %1."
+msgid "Click on the dots in the braille cell area to produce the symbol %1."
 msgstr ""
 "Briog air na dotagan ann an raon cealla Braille gus an litir %1 a dhèanamh."
 
@@ -2434,7 +2508,7 @@ msgstr ""
 #| msgctxt "FirstScreen|"
 #| msgid "Braille : Unlocking the Code"
 msgctxt "ActivityInfo|"
-msgid "Braille the letters"
+msgid "Practice braille letters."
 msgstr "Braille : A’ neo-ghlasadh a’ còd"
 
 #. Help prerequisite
@@ -2443,16 +2517,15 @@ msgstr "Braille : A’ neo-ghlasadh a’ còd"
 #| msgctxt "FirstScreen|"
 #| msgid "Braille : Unlocking the Code"
 msgctxt "ActivityInfo|"
-msgid "Braille Alphabet Codes"
+msgid "Braille alphabet."
 msgstr "Braille : A’ neo-ghlasadh a’ còd"
 
 #. Help manual
 #: activities/braille_fun/ActivityInfo.qml:35
 msgctxt "ActivityInfo|"
 msgid ""
-"Enter the braille code in the tile for the letters on the banner pulled by "
-"Tux in his plane across the screen. Check the braille chart by clicking on "
-"the toggle button for help."
+"Create the braille cells for the letters on the banner. Check the braille "
+"chart by clicking on the blue braille cell icon if you need some help."
 msgstr ""
 
 #. Activity title
@@ -2464,25 +2537,44 @@ msgstr ""
 #. Help title
 #: activities/calendar/ActivityInfo.qml:28
 msgctxt "ActivityInfo|"
-msgid "Read the instructions and select the correct date on the calendar"
+msgid "Read the instructions and select the correct date on the calendar."
 msgstr ""
 
 #. Help goal
 #: activities/calendar/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
-msgid "Learn how to use a calendar"
+msgid "Learn how to use a calendar."
 msgstr ""
 
 #. Help prerequisite
 #: activities/calendar/ActivityInfo.qml:33
 msgctxt "ActivityInfo|"
-msgid "Concept of week, month and year"
+msgid "Concept of week, month and year."
 msgstr ""
 
 #. Help manual
 #: activities/calendar/ActivityInfo.qml:35
 msgctxt "ActivityInfo|"
-msgid "Read the instructions and select the correct date on the calendar."
+msgid ""
+"Read the instructions and select the correct date on the calendar, and then "
+"validate your answer by clicking on the OK button."
+msgstr ""
+
+#: activities/calendar/ActivityInfo.qml:35
+msgctxt "ActivityInfo|"
+msgid ""
+"In some levels, you need to find the day of the week for a given date. In "
+"this case, click on the corresponding day of the week in the list."
+msgstr ""
+
+#: activities/calendar/ActivityInfo.qml:37
+msgctxt "ActivityInfo|"
+msgid "Arrows: navigate through the answers"
+msgstr ""
+
+#: activities/calendar/ActivityInfo.qml:38
+msgctxt "ActivityInfo|"
+msgid "Space or Enter: validate your answer"
 msgstr ""
 
 #: activities/calendar/Calendar.qml:266
@@ -2522,127 +2614,139 @@ msgstr ""
 
 #: activities/calendar/calendar_dataset.js:46
 msgctxt "calendar_dataset|"
-msgid "Select day 23"
+msgid "Select the 23rd"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:50
 msgctxt "calendar_dataset|"
-msgid "Select day 1"
+msgid "Select the 1st"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:54
+#, fuzzy
+#| msgctxt "Clockgame|"
+#| msgid "Set the watch to:"
 msgctxt "calendar_dataset|"
-msgid "Select day 16"
-msgstr ""
+msgid "Select the 16th"
+msgstr "Suidhich an t-uaireadair aig:"
 
 #: activities/calendar/calendar_dataset.js:58
+#, fuzzy
+#| msgctxt "Clockgame|"
+#| msgid "Set the watch to:"
 msgctxt "calendar_dataset|"
-msgid "Select day 28"
-msgstr ""
+msgid "Select the 28th"
+msgstr "Suidhich an t-uaireadair aig:"
 
 #: activities/calendar/calendar_dataset.js:62
+#, fuzzy
+#| msgctxt "Clockgame|"
+#| msgid "Set the watch to:"
 msgctxt "calendar_dataset|"
-msgid "Select day 11"
-msgstr ""
+msgid "Select the 11th"
+msgstr "Suidhich an t-uaireadair aig:"
 
 #: activities/calendar/calendar_dataset.js:66
+#, fuzzy
+#| msgctxt "Clockgame|"
+#| msgid "Set the watch to:"
 msgctxt "calendar_dataset|"
-msgid "Select day 20"
-msgstr ""
+msgid "Select the 20th"
+msgstr "Suidhich an t-uaireadair aig:"
 
 #: activities/calendar/calendar_dataset.js:86
 msgctxt "calendar_dataset|"
-msgid "What day of week is the 4th of given month?"
+msgid "Which day of the week is the 4th of the given month?"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:90
 msgctxt "calendar_dataset|"
-msgid "What day of the week is the 12th of given month?"
+msgid "Which day of the week is the 12th of the given month?"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:94
 msgctxt "calendar_dataset|"
-msgid "What day of the week is the 20th of given month?"
+msgid "Which day of the week is the 20th of the given month?"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:98
 msgctxt "calendar_dataset|"
-msgid "What day of the week is the 28th of given month?"
+msgid "Which day of the week is the 28th of the given month?"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:102
 msgctxt "calendar_dataset|"
-msgid "What day of the week is the 22nd of given month?"
+msgid "Which day of the week is the 22nd of the given month?"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:106
 msgctxt "calendar_dataset|"
-msgid "What day of the week is the 16th of given month?"
+msgid "Which day of the week is the 16th of the given month?"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:110
 msgctxt "calendar_dataset|"
-msgid "What day of the week is the 10th of given month?"
+msgid "Which day of the week is the 10th of the given month?"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:130
 msgctxt "calendar_dataset|"
-msgid "Select a Monday between days 1 and 7 of given month"
+msgid "Select a Monday between days 1 and 7 of the given month"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:134
 msgctxt "calendar_dataset|"
-msgid "Select a Tuesday between days 8 and 16 of given month"
+msgid "Select a Tuesday between days 8 and 16 of the given month"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:138
 msgctxt "calendar_dataset|"
-msgid "Select a Wednesday between days 15 and 22 of given month"
+msgid "Select a Wednesday between days 15 and 22 of the given month"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:142
 msgctxt "calendar_dataset|"
-msgid "Select a Thursday between days 26 and 31 of given month"
+msgid "Select a Thursday between days 26 and 31 of the given month"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:146
 msgctxt "calendar_dataset|"
-msgid "Select a Friday between days 20 and 25 of given month"
+msgid "Select a Friday between days 20 and 25 of the given month"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:150
 msgctxt "calendar_dataset|"
-msgid "Select a Saturday between days 13 and 23 of given month"
+msgid "Select a Saturday between days 13 and 23 of the given month"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:154
 msgctxt "calendar_dataset|"
-msgid "Select a Sunday between days 5 and 17 of given month"
+msgid "Select a Sunday between days 5 and 17 of the given month"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:173
 msgctxt "calendar_dataset|"
-msgid "Select second day before the 15th of given month"
+msgid "Select the second day before the 15th of the given month"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:177
 msgctxt "calendar_dataset|"
-msgid "Select fourth Sunday of given month"
+msgid "Select the fourth Sunday of the given month"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:181
 msgctxt "calendar_dataset|"
-msgid "Select day one week after 13th of given month"
+msgid "Select the day one week after 13th of the given month"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:185
 msgctxt "calendar_dataset|"
-msgid "Select fifth Thursday of given month"
+msgid "Select the fifth Thursday of the given month"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:189
 msgctxt "calendar_dataset|"
-msgid "Select third day after 27th of given month"
+msgid "Select the third day after 27th of the given month"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:208
@@ -2672,47 +2776,50 @@ msgstr ""
 
 #: activities/calendar/calendar_dataset.js:244
 msgctxt "calendar_dataset|"
-msgid "Find the first Monday of January month of year 2019"
+msgid "Find the first Monday of January in the year 2019"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:248
 msgctxt "calendar_dataset|"
-msgid "Find the second Wednesday of February month of year 2019"
+msgid "Find the second Wednesday of February in the year 2019"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:252
 msgctxt "calendar_dataset|"
-msgid "Find the third Friday of March month of year 2019"
+msgid "Find the third Friday of March in the year 2019"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:256
 msgctxt "calendar_dataset|"
-msgid "Find the fifth Sunday of April month of year 2018"
+msgid "Find the fifth Sunday of April in the year 2018"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:260
 msgctxt "calendar_dataset|"
-msgid "Find the fourth Tuesday of July month of year 2018"
+msgid "Find the fourth Tuesday of July in the year 2018"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:264
 msgctxt "calendar_dataset|"
-msgid "Find the first Monday of August month of year 2018"
+msgid "Find the first Monday of August in the year 2018"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:268
 msgctxt "calendar_dataset|"
-msgid "Find the third Thursday of September month of year 2017"
+msgid "Find the third Thursday of September in the year 2017"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:272
+#, fuzzy
+#| msgctxt "advanced_colors|"
+#| msgid "Find the tea butterfly"
 msgctxt "calendar_dataset|"
-msgid "Find the fifth Sunday of October month of year 2017"
-msgstr ""
+msgid "Find the fifth Sunday of October in the year 2017"
+msgstr "Lorg an dealan-dè dearg ròs na tì"
 
 #: activities/calendar/calendar_dataset.js:276
 msgctxt "calendar_dataset|"
-msgid "Find the second Friday of December month of year 2017"
+msgid "Find the second Friday of December in the year 2017"
 msgstr ""
 
 #: activities/calendar/calendar_dataset.js:295
@@ -2746,8 +2853,8 @@ msgstr ""
 #: activities/calendar/calendar_dataset.js:311
 msgctxt "calendar_dataset|"
 msgid ""
-"Sports competition was held on last Friday of September 2017.<br> Select the "
-"date of sports competition on the calendar."
+"The sports competition was held on last Friday of September 2017.<br> Select "
+"the date of the sports competition on the calendar."
 msgstr ""
 
 #. Activity title
@@ -2768,10 +2875,15 @@ msgstr ""
 
 #. Help manual
 #: activities/canal_lock/ActivityInfo.qml:35
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "You are in charge of the canal lock. Open the gates and the locks in the "
+#| "right order, so Tux can travel through the gates in both directions."
 msgctxt "ActivityInfo|"
 msgid ""
 "You are in charge of the canal lock. Open the gates and the locks in the "
-"right order, so Tux can travel through the gates in both directions."
+"right order, so that Tux can travel through the gates in both directions."
 msgstr ""
 "Tha thu an cois loc a’ chanail. Fosgail na geataichean is na locan san "
 "òrdugh cheart ach an urrainn dha Tux siubhal tro na geataichean air an dà "
@@ -2780,7 +2892,7 @@ msgstr ""
 #: activities/canal_lock/CanalLock.qml:65
 msgctxt "CanalLock|"
 msgid ""
-"Your goal is to get Tux across the canal lock to get the wooden logs, using "
+"Your goal is to lead Tux across the canal lock to get the wooden logs, using "
 "the different types of water locks available."
 msgstr ""
 
@@ -2788,7 +2900,7 @@ msgstr ""
 msgctxt "CanalLock|"
 msgid ""
 "The vertical colored bars represent the water locks, which can be operated "
-"by clicking them. Two locks of the same type cannot be operated "
+"by clicking on them. Two locks of the same type cannot be operated "
 "simultaneously."
 msgstr ""
 
@@ -2796,22 +2908,22 @@ msgstr ""
 msgctxt "CanalLock|"
 msgid ""
 "The water level inside the lock will change according to the side of the "
-"canal it is connected with. Use this property to help Tux get the job done."
+"canal it is connected to. Use this property to help Tux get the job done."
 msgstr ""
 
 #: activities/categorization/ActivityConfig.qml:50
 msgctxt "ActivityConfig|"
-msgid "Put together all the elements from a category (with score)"
+msgid "Put together all the items from a category (with score)"
 msgstr ""
 
 #: activities/categorization/ActivityConfig.qml:63
 msgctxt "ActivityConfig|"
-msgid "Put together all the elements from a category (without score)"
+msgid "Put together all the items from a category (without score)"
 msgstr ""
 
 #: activities/categorization/ActivityConfig.qml:76
 msgctxt "ActivityConfig|"
-msgid "Discover a category, grouping elements together"
+msgid "Discover a category, grouping items together"
 msgstr ""
 
 #. Activity title
@@ -2823,37 +2935,36 @@ msgstr ""
 #. Help title
 #: activities/categorization/ActivityInfo.qml:28
 msgctxt "ActivityInfo|"
-msgid "Categorize the elements into correct and incorrect groups"
+msgid "Categorize the items into correct and incorrect groups."
 msgstr ""
 
 #. Help goal
 #: activities/categorization/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
-msgid "Build conceptual thinking and enrich knowledge"
+msgid "Build conceptual thinking and enrich knowledge."
 msgstr ""
 
 #. Help prerequisite
 #: activities/categorization/ActivityInfo.qml:33
 msgctxt "ActivityInfo|"
-msgid "Can drag elements using mouse"
+msgid "Can drag items using a mouse or touchscreen."
 msgstr ""
 
 #. Help manual
 #: activities/categorization/ActivityInfo.qml:35
 msgctxt "ActivityInfo|"
-msgid ""
-"Review the instructions and then drag and drop the elements as specified"
+msgid "Review the instructions and then drag and drop the items as specified."
 msgstr ""
 
-#: activities/categorization/Categorization.qml:170
+#: activities/categorization/Categorization.qml:166
 msgctxt "Categorization|"
 msgid ""
-"You don't have all the images for this activity. Press Update to get the "
-"complete dataset. Press the Cross to play with demo version or 'Never show "
-"this dialog later' if you want to never see again this dialog."
+"You don't have all the images for this activity. Click on 'Update the image "
+"set' to download the full word image set. Click on the cross or on 'Never "
+"show this dialog again' to play with the demo version."
 msgstr ""
 
-#: activities/categorization/Categorization.qml:173
+#: activities/categorization/Categorization.qml:169
 #, fuzzy
 #| msgctxt "instruments|"
 #| msgid "Find the triangle"
@@ -2861,12 +2972,12 @@ msgctxt "Categorization|"
 msgid "Update the image set"
 msgstr "Lorg an triantan"
 
-#: activities/categorization/Categorization.qml:174
+#: activities/categorization/Categorization.qml:170
 msgctxt "Categorization|"
-msgid "Never show this dialog later"
+msgid "Never show this dialog again"
 msgstr ""
 
-#: activities/categorization/CategoryReview.qml:139
+#: activities/categorization/CategoryReview.qml:147
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
@@ -2878,7 +2989,7 @@ msgstr "Thoir an càr dearg a-mach às an ionad-pàrcaidh tron gheata taobh deas
 
 #: activities/categorization/resource/1/Data.qml:24
 msgctxt "Data|"
-msgid "Very Familiar categories."
+msgid "Very familiar categories."
 msgstr ""
 
 #: activities/categorization/resource/2/Data.qml:24
@@ -3248,7 +3359,7 @@ msgstr "Geama cuimhne toirt air falbh"
 #| msgctxt "ActivityInfo|"
 #| msgid "Draw the picture by clicking on each numbers in the right order."
 msgctxt "category_odd_even|"
-msgid "Place the EVEN Numbers to the right and ODD Numbers to the left"
+msgid "Place the EVEN Numbers to the right and the ODD Numbers to the left"
 msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
 
 #: activities/categorization/resource/board/category_renewable.qml:30
@@ -5760,19 +5871,19 @@ msgid ""
 "win!\n"
 msgstr ""
 
-#: activities/explore_farm_animals/ExploreLevels.qml:344
+#: activities/explore_farm_animals/ExploreLevels.qml:348
 msgctxt "ExploreLevels|"
 msgid ""
 "This activity requires sound, so it will play some sounds even if the audio "
 "voices or effects are disabled in the main configuration."
 msgstr ""
 
-#: activities/explore_farm_animals/ExploreLevels.qml:345
+#: activities/explore_farm_animals/ExploreLevels.qml:349
 msgctxt "ExploreLevels|"
 msgid "Quit"
 msgstr ""
 
-#: activities/explore_farm_animals/ExploreLevels.qml:346
+#: activities/explore_farm_animals/ExploreLevels.qml:350
 msgctxt "ExploreLevels|"
 msgid "Continue"
 msgstr ""
@@ -11321,12 +11432,12 @@ msgid ""
 "words or the objects in which the letter appears and then press OK."
 msgstr ""
 
-#: activities/letter-in-word/LetterInWord.qml:306
+#: activities/letter-in-word/LetterInWord.qml:308
 msgctxt "LetterInWord|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 
-#: activities/letter-in-word/LetterInWord.qml:307
+#: activities/letter-in-word/LetterInWord.qml:309
 #, qt-format
 msgctxt "LetterInWord|"
 msgid ""
@@ -11334,7 +11445,7 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 
-#: activities/letter-in-word/LetterInWord.qml:309
+#: activities/letter-in-word/LetterInWord.qml:311
 msgctxt "LetterInWord|"
 msgid ""
 "We switched to English for this activity but you can select another language "
@@ -13850,12 +13961,12 @@ msgstr ""
 "Chì thu nì air a’ phrìomh raon is facal neo-choileanta fon dealbh. Tagh an "
 "litir a tha a dhìth gus am facal a dhèanamh coileanta."
 
-#: activities/missing-letter/MissingLetter.qml:316
+#: activities/missing-letter/MissingLetter.qml:320
 msgctxt "MissingLetter|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 
-#: activities/missing-letter/MissingLetter.qml:317
+#: activities/missing-letter/MissingLetter.qml:321
 #, qt-format
 msgctxt "MissingLetter|"
 msgid ""
@@ -13863,7 +13974,7 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 
-#: activities/missing-letter/MissingLetter.qml:319
+#: activities/missing-letter/MissingLetter.qml:323
 msgctxt "MissingLetter|"
 msgid ""
 "We switched to English for this activity but you can select another language "
