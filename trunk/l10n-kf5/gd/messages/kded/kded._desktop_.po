@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:32+0000\n"
+"POT-Creation-Date: 2020-09-05 00:39+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -15,6 +15,11 @@ msgstr ""
 "(n > 2 && n < 20) ? 2 : 3;\n"
 "X-Generator: Poedit 1.8.4\n"
 "X-Project-Style: kde\n"
+
+#: org.kde.kded5.desktop:4
+msgctxt "Name"
+msgid "KDED"
+msgstr ""
 
 #: src/kdedmodule.desktop:4
 msgctxt "Comment"
