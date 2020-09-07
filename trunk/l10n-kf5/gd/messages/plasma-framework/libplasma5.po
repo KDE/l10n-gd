@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-14 02:08+0200\n"
+"POT-Creation-Date: 2020-09-07 02:09+0200\n"
 "PO-Revision-Date: 2016-04-30 12:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -84,12 +84,12 @@ msgstr "An deichead roimhe"
 msgid "Next Decade"
 msgstr "An ath-dheichead"
 
-#: declarativeimports/plasmacomponents/qml/QueryDialog.qml:19
+#: declarativeimports/plasmacomponents/qml/QueryDialog.qml:21
 #, kde-format
 msgid "OK"
 msgstr "Ceart ma-thà"
 
-#: declarativeimports/plasmacomponents/qml/QueryDialog.qml:20
+#: declarativeimports/plasmacomponents/qml/QueryDialog.qml:22
 #, kde-format
 msgid "Cancel"
 msgstr "Sguir dheth"
@@ -136,12 +136,12 @@ msgstr "Thoir a' ghlas far Widgets"
 
 #: plasma/corona.cpp:406
 #, kde-format
-msgid "Finish Customizing Layout"
+msgid "Exit Edit Mode"
 msgstr ""
 
 #: plasma/corona.cpp:408 plasma/corona.cpp:492
 #, kde-format
-msgid "Customize Layout..."
+msgid "Enter Edit Mode"
 msgstr ""
 
 #. i18n: ectx: label, entry, group (CachePolicies)

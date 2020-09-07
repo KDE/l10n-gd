@@ -117,7 +117,7 @@ msgstr ""
 #: activities/planegame/ActivityInfo.qml:36
 #: activities/play_piano/ActivityInfo.qml:41
 #: activities/play_rhythm/ActivityInfo.qml:43
-#: activities/programmingMaze/ActivityInfo.qml:38
+#: activities/programmingMaze/ActivityInfo.qml:37
 #: activities/redraw/ActivityInfo.qml:37
 #: activities/redraw_symmetrical/ActivityInfo.qml:37
 #: activities/roman_numerals/ActivityInfo.qml:37
@@ -2251,7 +2251,7 @@ msgctxt "ActivityInfo|"
 msgid ""
 "Click on the ball icon to select a number of balls, then click on the OK "
 "button to place the balls in the holes. You win if the computer has to place "
-"the last ball. If you want Tux to begin, just click on him"
+"the last ball. If you want Tux to begin, just click on him."
 msgstr ""
 
 #. Activity title
@@ -2982,6 +2982,12 @@ msgid ""
 msgstr ""
 "Tha Tux ann an staing is feumaidh e am bàta aige a thoirt tro loc. Thoir "
 "cobhair dha Tux is faigh a-mach mar a dh’obraicheas loc canail."
+
+#. Help goal
+#: activities/canal_lock/ActivityInfo.qml:31
+msgctxt "ActivityInfo|"
+msgid "Understand how a canal lock works."
+msgstr ""
 
 #. Help manual
 #: activities/canal_lock/ActivityInfo.qml:35
@@ -3917,7 +3923,7 @@ msgstr ""
 #| msgctxt "ActivityInfo|"
 #| msgid "Play the audio memory game against Tux"
 msgctxt "ActivityInfo|"
-msgid "Play the end of the chess game against Tux"
+msgid "Play the end of the chess game against Tux."
 msgstr "Cluich geama cuimhne claisneachd an aghaidh Tux"
 
 #. Help manual
@@ -5182,6 +5188,7 @@ msgstr ""
 
 #: activities/digital_electricity/ActivityConfig.qml:43
 #: activities/graph-coloring/ActivityConfig.qml:42
+#: activities/guesscount/ActivityConfig.qml:49
 #: activities/solar_system/ActivityConfig.qml:42
 #: activities/superbrain/ActivityConfig.qml:42
 #: activities/traffic/ActivityConfig.qml:42
@@ -5856,7 +5863,7 @@ msgstr "Litrichean simplidh"
 #. Help title
 #: activities/drawnumbers/ActivityInfo.qml:28
 msgctxt "ActivityInfo|"
-msgid "Connect the dots to draw numbers from 0 to 9"
+msgid "Connect the dots to draw numbers from 0 to 9."
 msgstr ""
 
 #. Help goal
@@ -7345,6 +7352,14 @@ msgid ""
 "Learn about world animals, interesting facts and their location on a map."
 msgstr ""
 
+#. Help goal
+#: activities/explore_world_animals/ActivityInfo.qml:35
+msgctxt "ActivityInfo|"
+msgid ""
+"Learn about various wild animals from around the world and remember where "
+"they live."
+msgstr ""
+
 #. Help manual
 #: activities/explore_world_animals/ActivityInfo.qml:39
 msgctxt "ActivityInfo|"
@@ -8077,6 +8092,15 @@ msgstr "Na còig deug"
 msgctxt "ActivityInfo|"
 msgid "Move each item to recreate the image."
 msgstr ""
+
+#. Help goal
+#: activities/fifteen/ActivityInfo.qml:31
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "ActivityInfo|"
+msgid "Arrange the pieces in the right order."
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
 
 #. Help manual
 #: activities/fifteen/ActivityInfo.qml:35
@@ -10273,6 +10297,29 @@ msgid ""
 "size and direction of the arrow."
 msgstr ""
 
+#: activities/guesscount/ActivityConfig.qml:37
+msgctxt "ActivityConfig|"
+msgid "Admin"
+msgstr ""
+
+#: activities/guesscount/ActivityConfig.qml:38
+msgctxt "ActivityConfig|"
+msgid "BuiltIn"
+msgstr ""
+
+#: activities/guesscount/ActivityConfig.qml:81
+#, fuzzy
+#| msgctxt "Clockgame|"
+#| msgid "Set the watch to:"
+msgctxt "ActivityConfig|"
+msgid "Selected"
+msgstr "Suidhich an t-uaireadair aig:"
+
+#: activities/guesscount/ActivityConfig.qml:81
+msgctxt "ActivityConfig|"
+msgid "Not Selected"
+msgstr ""
+
 #. Activity title
 #: activities/guesscount/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
@@ -10307,62 +10354,32 @@ msgid ""
 "number to guess in the instruction."
 msgstr ""
 
-#: activities/guesscount/Admin.qml:43
+#: activities/guesscount/Admin.qml:41
 #, qt-format
 msgctxt "Admin|"
 msgid "Level %1"
 msgstr ""
 
-#: activities/guesscount/Admin.qml:99
-msgctxt "Admin|"
-msgid "empty"
-msgstr ""
-
-#: activities/guesscount/guesscount.js:118
+#: activities/guesscount/guesscount.js:143
 msgctxt "guesscount|"
 msgid "result is not positive integer"
 msgstr ""
 
-#: activities/guesscount/guesscount.js:120
+#: activities/guesscount/guesscount.js:145
 msgctxt "guesscount|"
 msgid "result is not an integer"
 msgstr ""
 
-#: activities/guesscount/Guesscount.qml:132
+#: activities/guesscount/Guesscount.qml:135
 #, qt-format
 msgctxt "Guesscount|"
 msgid "%1/%2"
 msgstr ""
 
-#: activities/guesscount/Guesscount.qml:159
+#: activities/guesscount/Guesscount.qml:162
 #, qt-format
 msgctxt "Guesscount|"
 msgid "Guesscount: %1"
-msgstr ""
-
-#: activities/guesscount/Guesscount.qml:217
-msgctxt "Guesscount|"
-msgid "Admin"
-msgstr ""
-
-#: activities/guesscount/Guesscount.qml:218
-msgctxt "Guesscount|"
-msgid "BuiltIn"
-msgstr ""
-
-#: activities/guesscount/Guesscount.qml:233
-msgctxt "Guesscount|"
-msgid "Select your mode"
-msgstr ""
-
-#: activities/guesscount/Guesscount.qml:257
-msgctxt "Guesscount|"
-msgid "Selected"
-msgstr ""
-
-#: activities/guesscount/Guesscount.qml:257
-msgctxt "Guesscount|"
-msgid "Not Selected"
 msgstr ""
 
 #: activities/guesscount/OperandRow.qml:51
@@ -10377,6 +10394,38 @@ msgstr "Litrichean simplidh"
 msgctxt "OperatorRow|"
 msgid "Operators"
 msgstr ""
+
+#: activities/guesscount/resource/1/Data.qml:31
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Practice subtraction with a fun game"
+msgctxt "Data|"
+msgid "Practice algebraic calculations with a single operator."
+msgstr "Cleachd toirt air falbh le geama tlachdmhor"
+
+#: activities/guesscount/resource/2/Data.qml:25
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Practice the subtraction operation"
+msgctxt "Data|"
+msgid "Practice algebraic calculations with two operators."
+msgstr "Cleachd toirt air falbh"
+
+#: activities/guesscount/resource/3/Data.qml:25
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Practice the subtraction operation"
+msgctxt "Data|"
+msgid "Practice algebraic calculations with three operators."
+msgstr "Cleachd toirt air falbh"
+
+#: activities/guesscount/resource/4/Data.qml:25
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Practice the subtraction operation"
+msgctxt "Data|"
+msgid "Practice algebraic calculations with four operators."
+msgstr "Cleachd toirt air falbh"
 
 #. Activity title
 #: activities/guessnumber/ActivityInfo.qml:26
@@ -12062,9 +12111,12 @@ msgstr ""
 
 #. Help title
 #: activities/louis-braille/ActivityInfo.qml:28
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Let kids discover the Braille system."
 msgctxt "ActivityInfo|"
-msgid "Review the major dates of the inventor of the braille System."
-msgstr ""
+msgid "Review the major dates of the inventor of the braille system."
+msgstr "A’ sealladh an siostam Braille dhan chlann."
 
 #. Help manual
 #: activities/louis-braille/ActivityInfo.qml:35
@@ -13288,7 +13340,7 @@ msgstr "Geama cuimhne iomadachaidh an aghaidh Tux"
 #| msgid "Turn the cards over to match the number with the drawn picture."
 msgctxt "ActivityInfo|"
 msgid ""
-"Flip the cards to match a subtraction with its result, playing against Tux"
+"Flip the cards to match a subtraction with its result, playing against Tux."
 msgstr "Thoir car air dà cairt gus an àireamh a lorg a chì thu san dealbh."
 
 #. Help goal
@@ -16315,13 +16367,12 @@ msgstr ""
 #: activities/programmingMaze/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid ""
-"This activity teaches to program Tux to reach its goal using\n"
-"                    simple instructions like move forward, turn left and "
-"right."
+"This activity teaches to program Tux to reach its goal using simple "
+"instructions like move forward, turn left and right."
 msgstr ""
 
 #. Help goal
-#: activities/programmingMaze/ActivityInfo.qml:33
+#: activities/programmingMaze/ActivityInfo.qml:32
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
@@ -16334,100 +16385,100 @@ msgstr ""
 "an àite cheart a lorg air an deigh."
 
 #. Help prerequisite
-#: activities/programmingMaze/ActivityInfo.qml:35
+#: activities/programmingMaze/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
 msgid "Can read instructions, and think logically to find a path."
 msgstr ""
 
 #. Help manual
-#: activities/programmingMaze/ActivityInfo.qml:37
+#: activities/programmingMaze/ActivityInfo.qml:36
 msgctxt "ActivityInfo|"
 msgid ""
 "Choose the instructions from the menu, and arrange them in order to lead Tux "
 "to his goal."
 msgstr ""
 
-#: activities/programmingMaze/ActivityInfo.qml:39
+#: activities/programmingMaze/ActivityInfo.qml:38
 msgctxt "ActivityInfo|"
 msgid "1. To navigate through the instructions in the selected area:"
 msgstr ""
 
-#: activities/programmingMaze/ActivityInfo.qml:40
+#: activities/programmingMaze/ActivityInfo.qml:39
 msgctxt "ActivityInfo|"
 msgid "Use the ARROW keys"
 msgstr ""
 
-#: activities/programmingMaze/ActivityInfo.qml:41
+#: activities/programmingMaze/ActivityInfo.qml:40
 msgctxt "ActivityInfo|"
 msgid ""
 "2. To append an instruction from the instruction area to the main/procedure "
 "code area:"
 msgstr ""
 
-#: activities/programmingMaze/ActivityInfo.qml:42
+#: activities/programmingMaze/ActivityInfo.qml:41
 msgctxt "ActivityInfo|"
 msgid "Select an instruction from the instruction area by pressing SPACE."
 msgstr ""
 
-#: activities/programmingMaze/ActivityInfo.qml:43
+#: activities/programmingMaze/ActivityInfo.qml:42
 msgctxt "ActivityInfo|"
 msgid ""
 "Navigate to the code area by pressing TAB, then press SPACE to append the "
 "instruction."
 msgstr ""
 
-#: activities/programmingMaze/ActivityInfo.qml:44
+#: activities/programmingMaze/ActivityInfo.qml:43
 msgctxt "ActivityInfo|"
 msgid ""
 "3. To add an instruction at any particular position in the main/procedure "
 "code area:"
 msgstr ""
 
-#: activities/programmingMaze/ActivityInfo.qml:45
+#: activities/programmingMaze/ActivityInfo.qml:44
 msgctxt "ActivityInfo|"
 msgid ""
 "Navigate to the instruction at this position and press SPACE to add the "
 "selected instruction from the instruction area."
 msgstr ""
 
-#: activities/programmingMaze/ActivityInfo.qml:46
+#: activities/programmingMaze/ActivityInfo.qml:45
 msgctxt "ActivityInfo|"
 msgid "4. To delete the selected instruction in the main/procedure code area:"
 msgstr ""
 
-#: activities/programmingMaze/ActivityInfo.qml:47
+#: activities/programmingMaze/ActivityInfo.qml:46
 msgctxt "ActivityInfo|"
 msgid "Press DELETE."
 msgstr ""
 
-#: activities/programmingMaze/ActivityInfo.qml:48
+#: activities/programmingMaze/ActivityInfo.qml:47
 msgctxt "ActivityInfo|"
 msgid "5. To edit an instruction in the main/procedure code area:"
 msgstr ""
 
-#: activities/programmingMaze/ActivityInfo.qml:49
+#: activities/programmingMaze/ActivityInfo.qml:48
 msgctxt "ActivityInfo|"
 msgid "Navigate to the instruction to edit using the ARROW keys."
 msgstr ""
 
-#: activities/programmingMaze/ActivityInfo.qml:50
+#: activities/programmingMaze/ActivityInfo.qml:49
 msgctxt "ActivityInfo|"
 msgid "Press SPACE to select it."
 msgstr ""
 
-#: activities/programmingMaze/ActivityInfo.qml:51
+#: activities/programmingMaze/ActivityInfo.qml:50
 msgctxt "ActivityInfo|"
 msgid ""
 "Then navigate to the instruction area using TAB and select the new "
 "instruction by pressing SPACE."
 msgstr ""
 
-#: activities/programmingMaze/ActivityInfo.qml:52
+#: activities/programmingMaze/ActivityInfo.qml:51
 msgctxt "ActivityInfo|"
 msgid "6. To run the code or reset Tux when it fails to reach the fish:"
 msgstr ""
 
-#: activities/programmingMaze/ActivityInfo.qml:53
+#: activities/programmingMaze/ActivityInfo.qml:52
 msgctxt "ActivityInfo|"
 msgid "Press ENTER or RETURN."
 msgstr ""
@@ -16572,7 +16623,7 @@ msgstr ""
 #| msgctxt "ActivityInfo|"
 #| msgid "Keyboard training"
 msgctxt "ActivityInfo|"
-msgid "Memory training"
+msgid "Memory training."
 msgstr "Cleachdadh a' mheur-chlàir"
 
 #. Help manual
@@ -16788,7 +16839,7 @@ msgstr ""
 msgctxt "ActivityInfo|"
 msgid ""
 "Tux has come back from fishing on his boat. Bring the electrical system back "
-"up so he can have light in his home. "
+"up so he can have light in his home."
 msgstr ""
 
 #. Help goal
@@ -16804,7 +16855,7 @@ msgid ""
 "Click on different active elements: sun, cloud, dam, solar array, wind farm "
 "and transformers, in order to reactivate the entire electrical system. When "
 "the system is back up and Tux is in his home, push the light button for him. "
-"To win you must switch on all the consumers while all the producers are up. "
+"To win you must switch on all the consumers while all the producers are up."
 msgstr ""
 
 #: activities/renewable_energy/ActivityInfo.qml:36
@@ -16950,6 +17001,14 @@ msgstr "Dèan tuairmse air àireamh"
 #: activities/roman_numerals/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Roman numerals"
+msgstr ""
+
+#. Help goal
+#: activities/roman_numerals/ActivityInfo.qml:31
+msgctxt "ActivityInfo|"
+msgid ""
+"Learn how to read roman numerals and do the conversion to and from arabic "
+"numerals."
 msgstr ""
 
 #. Help manual
@@ -17162,7 +17221,7 @@ msgstr "Cuir cuideam co-ionnan air a’ mheidh"
 #| msgctxt "ActivityInfo|"
 #| msgid "Drag and Drop weights to balance the scales"
 msgctxt "Data|"
-msgid "Drop weights on the left side to balance the scale."
+msgid "Drop weights on the left side to balance the scales."
 msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
 
 #: activities/scalesboard/resource/1/Data.qml:37
@@ -17177,7 +17236,6 @@ msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
 #: activities/scalesboard/resource/5/Data.qml:54
 #: activities/scalesboard/resource/5/Data.qml:60
 #: activities/scalesboard/resource/5/Data.qml:66
-#: activities/scalesboard_weight/resource/1/Data.qml:43
 #: activities/scalesboard_weight/resource/2/Data.qml:48
 #: activities/scalesboard_weight/resource/3/Data.qml:50
 #: activities/scalesboard_weight/resource/4/Data.qml:63
@@ -17201,7 +17259,7 @@ msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
 #| msgctxt "ScaleNumber|"
 #| msgid "Take care, you can drop weights on both sides of the scale."
 msgctxt "Data|"
-msgid "Take care, you can drop weights on both sides of the scale."
+msgid "Take care, you can drop weights on both sides of the scales."
 msgstr ""
 "Thoir an aire gur urrainn dhut cuideaman a chur air an dà thaobh na meidhe."
 
@@ -17331,6 +17389,7 @@ msgstr ""
 
 #. Help goal
 #: activities/scalesboard_weight/ActivityInfo.qml:31
+#: activities/scalesboard_weight_avoirdupois/ActivityInfo.qml:31
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Mental calculation, arithmetic equality, unit conversion"
@@ -17380,6 +17439,15 @@ msgctxt "Data|"
 msgid "The \"g\" symbol at the end of a number means gram."
 msgstr ""
 
+#: activities/scalesboard_weight/resource/1/Data.qml:43
+#, fuzzy
+#| msgctxt "ScaleNumber|"
+#| msgid "Take care, you can drop weights on both sides of the scale."
+msgctxt "Data|"
+msgid "Take care, you can drop weights on both sides of the scale."
+msgstr ""
+"Thoir an aire gur urrainn dhut cuideaman a chur air an dà thaobh na meidhe."
+
 #: activities/scalesboard_weight/resource/1/Data.qml:50
 #, qt-format
 msgctxt "Data|"
@@ -17397,11 +17465,14 @@ msgstr "Cuir cuideam co-ionnan air a’ mheidh"
 #: activities/scalesboard_weight/resource/2/Data.qml:37
 #: activities/scalesboard_weight/resource/3/Data.qml:37
 #: activities/scalesboard_weight/resource/5/Data.qml:36
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Drag and Drop weights to balance the scales"
 msgctxt "Data|"
 msgid ""
 "The \"g\" symbol at the end of a number means gram. \n"
-" Drop weights on the left side to balance the scale."
-msgstr ""
+" Drop weights on the left side to balance the scales."
+msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
 
 #: activities/scalesboard_weight/resource/2/Data.qml:56
 #: activities/scalesboard_weight/resource/2/Data.qml:63
@@ -17452,7 +17523,7 @@ msgctxt "Data|"
 msgid ""
 "The kilogram is a unit of mass, a property which corresponds to the common "
 "perception of how \"heavy\" an object is. \n"
-" Drop weights on the left side to balance the scale."
+" Drop weights on the left side to balance the scales."
 msgstr ""
 
 #: activities/scalesboard_weight/resource/4/Data.qml:91
@@ -17485,28 +17556,25 @@ msgid ""
 "The \"kg\" symbol at the end of a number means kilogram. The kilogram is a "
 "unit of mass, a property which corresponds to the common perception of how "
 "\"heavy\" an object is. \n"
-" Drop weights on the left side to balance the scale."
+" Drop weights on the left side to balance the scales."
 msgstr ""
 
 #: activities/scalesboard_weight/resource/6/Data.qml:55
 #: activities/scalesboard_weight/resource/6/Data.qml:61
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Drag and Drop weights to balance the scales"
 msgctxt "Data|"
 msgid ""
 "Remember, one kilogram (\"kg\") equals 1000 grams (\"g\"). \n"
-" Drop weights on the left side to balance the scale."
-msgstr ""
+" Drop weights on the left side to balance the scales."
+msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
 
 #. Activity title
 #: activities/scalesboard_weight_avoirdupois/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Balance using the imperial system of units"
 msgstr ""
-
-#. Help goal
-#: activities/scalesboard_weight_avoirdupois/ActivityInfo.qml:31
-msgctxt "ActivityInfo|"
-msgid "Mental calculation, arithmetic equality, unit conversion"
-msgstr "Àireamhachadh cinn, co-ionnanachd nan àireamhan, iompachadh aonadan"
 
 #. Help manual
 #: activities/scalesboard_weight_avoirdupois/ActivityInfo.qml:35
@@ -17552,7 +17620,7 @@ msgctxt "Data|"
 msgid ""
 "The \"oz\" symbol at the end of a number means ounce. One pound equals "
 "sixteen ounces. \n"
-" Drop weights on the left side to balance the scale."
+" Drop weights on the left side to balance the scales."
 msgstr ""
 
 #: activities/scalesboard_weight_avoirdupois/resource/1/Data.qml:50
@@ -17632,18 +17700,21 @@ msgid "Balance up to 100 ounces."
 msgstr "Cuir cuideam co-ionnan air a’ mheidh"
 
 #: activities/scalesboard_weight_avoirdupois/resource/5/Data.qml:37
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Drag and Drop weights to balance the scales"
 msgctxt "Data|"
 msgid ""
 "The \"oz\" symbol at the end of a number means ounce. \n"
-" Drop weights on the left side to balance the scale."
-msgstr ""
+" Drop weights on the left side to balance the scales."
+msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
 
 #: activities/scalesboard_weight_avoirdupois/resource/6/Data.qml:24
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Balance the scales properly"
 msgctxt "Data|"
-msgid "Balance up to 10 pound including ounces."
+msgid "Balance up to 10 pounds including ounces."
 msgstr "Cuir cuideam co-ionnan air a’ mheidh"
 
 #: activities/scalesboard_weight_avoirdupois/resource/6/Data.qml:59
@@ -17651,7 +17722,7 @@ msgstr "Cuir cuideam co-ionnan air a’ mheidh"
 msgctxt "Data|"
 msgid ""
 "Remember, one pound (\"lb\") equals sixteen ounces (\"oz\"). \n"
-" Drop the weights on the left side of the scale to balance the scale."
+" Drop the weights on the left side of the scales to balance it."
 msgstr ""
 
 #: activities/share/ActivityConfig.qml:38
@@ -17671,7 +17742,7 @@ msgstr ""
 #. Help title
 #: activities/share/ActivityInfo.qml:28
 msgctxt "ActivityInfo|"
-msgid "Try to split the pieces of candy between a given number of children"
+msgid "Try to split the pieces of candy between a given number of children."
 msgstr ""
 
 #. Help goal
@@ -18079,7 +18150,7 @@ msgstr ""
 #| msgctxt "ActivityInfo|"
 #| msgid "Training reading skills"
 msgctxt "ActivityInfo|"
-msgid "Enhance creative skills"
+msgid "Enhance creative skills."
 msgstr "A’ trèanadh sgilean leughaidh"
 
 #. Help manual
@@ -18202,6 +18273,7 @@ msgid "Type the number on the dice, from 1 to 5."
 msgstr "Briog air an dath cheart"
 
 #: activities/smallnumbers/resource/4/Data.qml:25
+#: activities/smallnumbers2/resource/4/Data.qml:25
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Numbers With Dice"
@@ -18361,11 +18433,6 @@ msgstr "Briog air an dath cheart"
 msgctxt "Data|"
 msgid "Type the number on the domino, from 1 to 5."
 msgstr "Briog air an dath cheart"
-
-#: activities/smallnumbers2/resource/4/Data.qml:25
-msgctxt "Data|"
-msgid "Nubmers up to 6."
-msgstr ""
 
 #: activities/smallnumbers2/resource/4/Data.qml:29
 #, fuzzy
@@ -19502,7 +19569,7 @@ msgid ""
 "the screen represents the degree of correctness of your selected answer. The "
 "least correct answer is represented by 1%. Try again until you reach a 100% "
 "closeness by following the closeness meter. If the hint button is visible, "
-"you can clik on it to get a hint to find the answer."
+"you can click on it to get a hint to find the answer."
 msgstr ""
 
 #: activities/solar_system/SolarSystem.qml:177
@@ -19633,7 +19700,7 @@ msgstr ""
 
 #: activities/submarine/ActivityInfo.qml:42
 msgctxt "ActivityInfo|"
-msgid "S or Down arrom: switch flushing of the central ballast tank"
+msgid "S or Down arrow: switch flushing of the central ballast tank"
 msgstr ""
 
 #: activities/submarine/ActivityInfo.qml:43
@@ -20066,10 +20133,11 @@ msgstr "Cuir ceithir buinn ann an sreath"
 
 #. Help goal
 #: activities/tic_tac_toe/ActivityInfo.qml:34
+#: activities/tic_tac_toe_2players/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
 msgid ""
 "Place three marks in any horizontal, vertical, or diagonal row to win the "
-"game"
+"game."
 msgstr ""
 
 #. Help manual
@@ -20083,7 +20151,7 @@ msgstr ""
 msgctxt "ActivityInfo|"
 msgid ""
 "Play with the computer. Take turns to click on the square which you want to "
-"mark. The first player to create a line of 3 marks wins"
+"mark. The first player to create a line of 3 marks wins."
 msgstr ""
 "Briog air an ionad air an loidhne far a bheil thu airson bonn a leigeil. ’S "
 "urrainn dhut na saighdean a chleachdadh cuideachd gus am bonn a ghluasad gu "
@@ -20093,14 +20161,6 @@ msgstr ""
 #: activities/tic_tac_toe_2players/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Tic Tac Toe (with a friend)"
-msgstr ""
-
-#. Help goal
-#: activities/tic_tac_toe_2players/ActivityInfo.qml:34
-msgctxt "ActivityInfo|"
-msgid ""
-"Place three marks in any horizontal, vertical, or diagonal row to win the "
-"game."
 msgstr ""
 
 #. Help manual
@@ -20114,7 +20174,7 @@ msgstr ""
 msgctxt "ActivityInfo|"
 msgid ""
 "Play with a friend. Take turns to click on the square which you want to "
-"mark. The first player to create a line of 3 marks wins"
+"mark. The first player to create a line of 3 marks wins."
 msgstr ""
 "Briog air an ionad air an loidhne far a bheil thu airson bonn a leigeil. ’S "
 "urrainn dhut na saighdean a chleachdadh cuideachd gus am bonn a ghluasad gu "
@@ -20308,156 +20368,164 @@ msgstr ""
 #| msgctxt "ActivityInfo|"
 #| msgid "Type the complete word as it falls, before it reaches the ground"
 msgctxt "ActivityInfo|"
-msgid "Type the complete the word as it falls, before it reaches the ground"
+msgid "Type the complete word as it falls, before it reaches the ground."
 msgstr ""
 "Sgrìobh am facal gu lèir fhad 's a tha e a' tuiteam is mus ruig e an làr"
 
-#: core/ChangeLog.qml:41
+#: core/ChangeLog.qml:40
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Multiplication"
+msgctxt "ChangeLog|"
+msgid "Multiple dataset"
+msgstr "Iomadachadh"
+
+#: core/ChangeLog.qml:43
 msgctxt "ChangeLog|"
 msgid "New sub-categories to organize activities"
 msgstr ""
 
-#: core/ChangeLog.qml:42
+#: core/ChangeLog.qml:44
 msgctxt "ChangeLog|"
 msgid "Translation added for Macedonian."
 msgstr ""
 
-#: core/ChangeLog.qml:43
+#: core/ChangeLog.qml:45
 msgctxt "ChangeLog|"
 msgid "New activities Programming Maze and Baby Tangram"
 msgstr ""
 
-#: core/ChangeLog.qml:44
+#: core/ChangeLog.qml:46
 msgctxt "ChangeLog|"
 msgid "New background music and volume settings."
 msgstr ""
 
-#: core/ChangeLog.qml:45
+#: core/ChangeLog.qml:47
 msgctxt "ChangeLog|"
 msgid "New speed setting in several activities."
 msgstr ""
 
-#: core/ChangeLog.qml:46
+#: core/ChangeLog.qml:48
 msgctxt "ChangeLog|"
 msgid "New option in chess to display captured pieces."
 msgstr ""
 
-#: core/ChangeLog.qml:47
+#: core/ChangeLog.qml:49
 msgctxt "ChangeLog|"
 msgid "New images in Colors, Advanced colors and Target game."
 msgstr ""
 
-#: core/ChangeLog.qml:48
+#: core/ChangeLog.qml:50
 msgctxt "ChangeLog|"
 msgid "New voices for US English."
 msgstr ""
 
-#: core/ChangeLog.qml:49 core/ChangeLog.qml:57
+#: core/ChangeLog.qml:51 core/ChangeLog.qml:59
 msgctxt "ChangeLog|"
 msgid "Many little fixes and improvements."
 msgstr ""
 
-#: core/ChangeLog.qml:50
+#: core/ChangeLog.qml:52
 msgctxt "ChangeLog|"
 msgid ""
 "Translation updated for multiple languages (Breton, Brazilian Portuguese, "
 "Finnish...)."
 msgstr ""
 
-#: core/ChangeLog.qml:51
+#: core/ChangeLog.qml:53
 msgctxt "ChangeLog|"
 msgid "Add Russian dataset for Click on letter activity."
 msgstr ""
 
-#: core/ChangeLog.qml:52
+#: core/ChangeLog.qml:54
 msgctxt "ChangeLog|"
 msgid "Lang activity now available in Dutch."
 msgstr ""
 
-#: core/ChangeLog.qml:53
+#: core/ChangeLog.qml:55
 msgctxt "ChangeLog|"
 msgid ""
 "Merge Norwegian counties Nord-Trøndelag and Sør-Trøndelag into Trøndelag in "
 "geo-country activity."
 msgstr ""
 
-#: core/ChangeLog.qml:54
+#: core/ChangeLog.qml:56
 msgctxt "ChangeLog|"
 msgid "Fix in braille activities where the cells start at 1, not 0."
 msgstr ""
 
-#: core/ChangeLog.qml:55
+#: core/ChangeLog.qml:57
 msgctxt "ChangeLog|"
 msgid "Translation added for Basque, Hungarian and Malayalam."
 msgstr ""
 
-#: core/ChangeLog.qml:56
+#: core/ChangeLog.qml:58
 msgctxt "ChangeLog|"
 msgid ""
 "Loading/saving of creations (Baby Wordprocessor, Balance Box and Piano "
 "Composition)."
 msgstr ""
 
-#: core/ChangeLog.qml:57
+#: core/ChangeLog.qml:59
 msgctxt "ChangeLog|"
 msgid "Translations added for Scottish Gaelic."
 msgstr ""
 
-#: core/ChangeLog.qml:58
+#: core/ChangeLog.qml:60
 msgctxt "ChangeLog|"
 msgid "License page added in configuration."
 msgstr ""
 
-#: core/ChangeLog.qml:58
+#: core/ChangeLog.qml:60
 msgctxt "ChangeLog|"
 msgid "Multiple changes on layouts to improve the ergonomy."
 msgstr ""
 
-#: core/ChangeLog.qml:59
+#: core/ChangeLog.qml:61
 msgctxt "ChangeLog|"
 msgid "Lang activity now available in Polish, Swedish and Ukrainian."
 msgstr ""
 
-#: core/ChangeLog.qml:60
+#: core/ChangeLog.qml:62
 msgctxt "ChangeLog|"
 msgid "Search feature."
 msgstr ""
 
-#: core/ChangeLog.qml:61
+#: core/ChangeLog.qml:63
 msgctxt "ChangeLog|"
 msgid "A Changelog."
 msgstr ""
 
-#: core/ChangeLog.qml:62
+#: core/ChangeLog.qml:64
 msgctxt "ChangeLog|"
 msgid "Many little fixes."
 msgstr ""
 
-#: core/ChangeLog.qml:62
+#: core/ChangeLog.qml:64
 msgctxt "ChangeLog|"
 msgid "Lang activity now available in French."
 msgstr ""
 
-#: core/ChangeLog.qml:63
+#: core/ChangeLog.qml:65
 msgctxt "ChangeLog|"
 msgid ""
 "Adding a loading overlay to let the user know that some actions are taking "
 "place (loading an activity for example) and can take some seconds."
 msgstr ""
 
-#: core/ChangeLog.qml:63
+#: core/ChangeLog.qml:65
 msgctxt "ChangeLog|"
 msgid ""
 "Translations added for: Catalan (Valencian), Chinese Traditional, Finnish "
 "(92% translated), Russian (98% translated), Slovak (92% translated), Turkish."
 msgstr ""
 
-#: core/ChangeLog.qml:64
+#: core/ChangeLog.qml:66
 msgctxt "ChangeLog|"
 msgid "Translations added for: Slovenian, German, Galician."
 msgstr ""
 
-#: core/ChangeLog.qml:83
+#: core/ChangeLog.qml:85
 #, qt-format
 msgctxt "ChangeLog|"
 msgid "Version %1:"
@@ -20643,12 +20711,12 @@ msgctxt "DialogChooseLevel|"
 msgid "%1 settings"
 msgstr ""
 
-#: core/DialogChooseLevel.qml:209
+#: core/DialogChooseLevel.qml:217
 msgctxt "DialogChooseLevel|"
 msgid "Dataset"
 msgstr ""
 
-#: core/DialogChooseLevel.qml:225
+#: core/DialogChooseLevel.qml:233
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Addition"
@@ -20656,17 +20724,17 @@ msgctxt "DialogChooseLevel|"
 msgid "Options"
 msgstr "Cur ris"
 
-#: core/DialogChooseLevel.qml:358
+#: core/DialogChooseLevel.qml:366
 msgctxt "DialogChooseLevel|"
 msgid "Cancel"
 msgstr ""
 
-#: core/DialogChooseLevel.qml:369
+#: core/DialogChooseLevel.qml:377
 msgctxt "DialogChooseLevel|"
 msgid "Save"
 msgstr ""
 
-#: core/DialogChooseLevel.qml:386
+#: core/DialogChooseLevel.qml:394
 msgctxt "DialogChooseLevel|"
 msgid "Save and start"
 msgstr ""
@@ -20765,23 +20833,23 @@ msgctxt "DownloadDialog|"
 msgid "Abort"
 msgstr ""
 
-#: core/DownloadDialog.qml:370
+#: core/DownloadDialog.qml:380
 #, qt-format
 msgctxt "DownloadDialog|"
 msgid "Download error (code: %1): %2"
 msgstr ""
 
-#: core/DownloadDialog.qml:398
+#: core/DownloadDialog.qml:408
 msgctxt "DownloadDialog|"
 msgid "Your download finished successfully. The data files are now available."
 msgstr ""
 
-#: core/DownloadDialog.qml:400
+#: core/DownloadDialog.qml:410
 msgctxt "DownloadDialog|"
 msgid "Restart any currently active activity."
 msgstr ""
 
-#: core/DownloadDialog.qml:402
+#: core/DownloadDialog.qml:412
 msgctxt "DownloadDialog|"
 msgid "Your local data files are up-to-date."
 msgstr ""
@@ -20882,22 +20950,22 @@ msgctxt "GCCreationHandler|"
 msgid "Delete"
 msgstr ""
 
-#: core/IntroMessage.qml:174
+#: core/IntroMessage.qml:181
 msgctxt "IntroMessage|"
 msgid "Previous"
 msgstr ""
 
-#: core/IntroMessage.qml:190
+#: core/IntroMessage.qml:197
 msgctxt "IntroMessage|"
 msgid "Next"
 msgstr ""
 
-#: core/IntroMessage.qml:205
+#: core/IntroMessage.qml:212
 msgctxt "IntroMessage|"
 msgid "Skip"
 msgstr ""
 
-#: core/IntroMessage.qml:205
+#: core/IntroMessage.qml:212
 msgctxt "IntroMessage|"
 msgid "Start"
 msgstr ""
@@ -20975,12 +21043,12 @@ msgid ""
 "depending on your graphical card)."
 msgstr ""
 
-#: core/main.qml:239
+#: core/main.qml:240
 msgctxt "main|"
 msgid "Voices for your language"
 msgstr ""
 
-#: core/main.qml:240
+#: core/main.qml:241
 #, fuzzy
 #| msgctxt "instruments|"
 #| msgid "Find the triangle"
@@ -20988,37 +21056,37 @@ msgctxt "main|"
 msgid "Full word image set"
 msgstr "Lorg an triantan"
 
-#: core/main.qml:241
+#: core/main.qml:242
 msgctxt "main|"
 msgid "Background music"
 msgstr ""
 
-#: core/main.qml:246
+#: core/main.qml:247
 msgctxt "main|"
 msgid "Do you want to download the following external assets?"
 msgstr ""
 
-#: core/main.qml:251
+#: core/main.qml:252
 msgctxt "main|"
 msgid "Yes"
 msgstr ""
 
-#: core/main.qml:261
+#: core/main.qml:262
 msgctxt "main|"
 msgid "No"
 msgstr ""
 
-#: core/main.qml:286
+#: core/main.qml:287
 msgctxt "main|"
 msgid "Welcome to GCompris!"
 msgstr ""
 
-#: core/main.qml:287
+#: core/main.qml:288
 msgctxt "main|"
 msgid "You are running GCompris for the first time."
 msgstr ""
 
-#: core/main.qml:288
+#: core/main.qml:289
 msgctxt "main|"
 msgid ""
 "You should verify that your application settings especially your language is "
@@ -21026,18 +21094,18 @@ msgid ""
 "can do this in the Preferences Dialog."
 msgstr ""
 
-#: core/main.qml:290
+#: core/main.qml:291
 msgctxt "main|"
 msgid "Have Fun!"
 msgstr ""
 
-#: core/main.qml:292
+#: core/main.qml:293
 #, qt-format
 msgctxt "main|"
 msgid "Your current language is %1 (%2)."
 msgstr ""
 
-#: core/main.qml:316
+#: core/main.qml:318
 msgctxt "main|"
 msgid "GCompris has been updated! Here are the new changes:<br/>"
 msgstr ""
@@ -21047,25 +21115,29 @@ msgctxt "ReadyButton|"
 msgid "I am Ready"
 msgstr "Tha mi deiseil"
 
-#: core/Tutorial.qml:173
+#: core/Tutorial.qml:180
 msgctxt "Tutorial|"
 msgid "Previous"
 msgstr ""
 
-#: core/Tutorial.qml:193
+#: core/Tutorial.qml:200
 msgctxt "Tutorial|"
 msgid "Next"
 msgstr ""
 
-#: core/Tutorial.qml:212
+#: core/Tutorial.qml:219
 msgctxt "Tutorial|"
 msgid "Skip"
 msgstr ""
 
-#: core/Tutorial.qml:212
+#: core/Tutorial.qml:219
 msgctxt "Tutorial|"
 msgid "Start"
 msgstr ""
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Mental calculation, arithmetic equality, unit conversion"
+#~ msgstr "Àireamhachadh cinn, co-ionnanachd nan àireamhan, iompachadh aonadan"
 
 #, fuzzy
 #~| msgctxt "ActivityInfo|"
@@ -21551,10 +21623,6 @@ msgstr ""
 #~ msgctxt "Traffic|"
 #~ msgid "Colors"
 #~ msgstr "Dathan"
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Practice subtraction with a fun game"
-#~ msgstr "Cleachd toirt air falbh le geama tlachdmhor"
 
 #, fuzzy
 #~| msgctxt "DialogConfig|"
