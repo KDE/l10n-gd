@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kconfigwidgets5\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-22 02:07+0200\n"
+"POT-Creation-Date: 2020-09-14 02:09+0200\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -41,13 +41,13 @@ msgstr ""
 msgid "You are not allowed to save the configuration"
 msgstr "Chan fhaod thu an rèiteachadh a shàbhaladh"
 
-#: kcodecaction.cpp:71
+#: kcodecaction.cpp:69
 #, kde-format
 msgctxt "Encodings menu"
 msgid "Default"
 msgstr "Tùsail"
 
-#: kcodecaction.cpp:79
+#: kcodecaction.cpp:77
 #, kde-format
 msgctxt "Encodings menu"
 msgid "Autodetect"

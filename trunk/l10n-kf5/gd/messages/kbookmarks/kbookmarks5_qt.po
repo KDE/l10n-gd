@@ -261,7 +261,7 @@ msgstr ""
 "a-rithist. Feumaidh tu adhbhar na mearachd a chàradh cho luath 's a ghabhas "
 "agus 's e diosga cruaidh làn a th' ann gun teagamh."
 
-#: kbookmarkmenu.cpp:287
+#: kbookmarkmenu.cpp:278
 #, fuzzy
 #| msgctxt "KBookmarkContextMenu|"
 #| msgid "Open Folder in Tabs"
@@ -269,7 +269,7 @@ msgctxt "KBookmarkMenu|@action:inmenu"
 msgid "Open Folder in Tabs"
 msgstr "Fosgail am pasgan ann an tabaichean"
 
-#: kbookmarkmenu.cpp:291
+#: kbookmarkmenu.cpp:282
 #, fuzzy
 #| msgctxt "KBookmarkMenu|"
 #| msgid "Open all bookmarks in this folder as a new tab."
@@ -279,7 +279,7 @@ msgstr ""
 "Fosgail a h-uile comharra-leabhair a tha am broinn a' phasgain seo 'na thaba "
 "ùr."
 
-#: kbookmarkmenu.cpp:307
+#: kbookmarkmenu.cpp:298
 #, fuzzy
 #| msgctxt "KBookmarkMenu|"
 #| msgid "Bookmark Tabs as Folder..."
@@ -287,7 +287,7 @@ msgctxt "KBookmarkMenu|@action:inmenu"
 msgid "Bookmark Tabs as Folder..."
 msgstr "Dèan pasgan chomharran-leabhair dhe na tabaichean..."
 
-#: kbookmarkmenu.cpp:315
+#: kbookmarkmenu.cpp:306
 #, fuzzy
 #| msgctxt "KBookmarkMenu|"
 #| msgid "Add a folder of bookmarks for all open tabs."
@@ -295,7 +295,7 @@ msgctxt "KBookmarkMenu|@info:tooltip"
 msgid "Add a folder of bookmarks for all open tabs"
 msgstr "Cuir pasgan chomharran-leabhair ris leis a h-uile taba fosgailte ann."
 
-#: kbookmarkmenu.cpp:364
+#: kbookmarkmenu.cpp:355
 #, fuzzy
 #| msgctxt "KBookmarkMenu|"
 #| msgid "Edit your bookmark collection in a separate window"
@@ -304,7 +304,7 @@ msgid "Edit your bookmark collection in a separate window"
 msgstr ""
 "Deasaich cruinneachadh nan comharran-leabhair agad ann an uinneag fa leth"
 
-#: kbookmarkmenu.cpp:380
+#: kbookmarkmenu.cpp:371
 #, fuzzy
 #| msgctxt "KBookmarkMenu|"
 #| msgid "New Bookmark Folder..."
@@ -312,7 +312,7 @@ msgctxt "KBookmarkMenu|@action:inmenu"
 msgid "New Bookmark Folder..."
 msgstr "Pasgan chomharran-leabhair ùr..."
 
-#: kbookmarkmenu.cpp:382
+#: kbookmarkmenu.cpp:373
 #, fuzzy
 #| msgctxt "KBookmarkMenu|"
 #| msgid "Create a new bookmark folder in this menu"
