@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-09-16 02:17+0200\n"
+"POT-Creation-Date: 2020-09-17 02:10+0200\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -618,19 +618,19 @@ msgstr "Lean air"
 msgid "Install"
 msgstr "Stàlaich"
 
-#: kmoretools/kmoretools.cpp:559
+#: kmoretools/kmoretools.cpp:534
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Not installed:"
 msgstr "Gun stàladh:"
 
-#: kmoretools/kmoretools.cpp:659
+#: kmoretools/kmoretools.cpp:630
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "More"
 msgstr "Barrachd"
 
-#: kmoretools/kmoretools.cpp:697
+#: kmoretools/kmoretools.cpp:668
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Configure..."
@@ -655,12 +655,12 @@ msgctxt "@action:inmenu"
 msgid "No further information available."
 msgstr "Chan eil barrachd fiosrachaidh ri fhaighinn."
 
-#: kmoretools/kmoretoolsconfigdialog_p.cpp:175
+#: kmoretools/kmoretoolsconfigdialog_p.cpp:172
 #, kde-format
 msgid "Configure menu"
 msgstr "Clàr-taice rèiteachaidh"
 
-#: kmoretools/kmoretoolsconfigdialog_p.cpp:177
+#: kmoretools/kmoretoolsconfigdialog_p.cpp:174
 #, kde-format
 msgid "Configure menu - %1"
 msgstr "Clàr-taice rèiteachaidh - %1"
