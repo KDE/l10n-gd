@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GCompris-Unofficial\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-08-04 02:35+0200\n"
+"POT-Creation-Date: 2020-09-18 02:38+0200\n"
 "PO-Revision-Date: 2020-03-16 23:58+0100\n"
 "Last-Translator: Timo <animtim@gmail.com>\n"
 "Language-Team: French <kde-i18n-doc@kde.org>\n"
@@ -107,7 +107,7 @@ msgid ""
 "please become a patron of GCompris on Patreon:"
 msgstr ""
 
-#: template/donate.html:20 template/downloads.html:10 template/index.html:187
+#: template/donate.html:20 template/downloads.html:10 template/index.html:175
 msgid "Become a Patron"
 msgstr ""
 
@@ -318,25 +318,25 @@ msgstr ""
 msgid "GCompris Educational Software"
 msgstr "Bathar-bog foghlaim GCompris"
 
-#: template/index.html:18 template/index.html:70
+#: template/index.html:17 template/index.html:61
 #, python-format
 msgid "Version %(version)s"
 msgstr "Tionndadh %(version)s"
 
-#: template/index.html:97 template/index.html:98
+#: template/index.html:86 template/index.html:87
 msgid "Download GCompris"
 msgstr "Luchdaich a-nuas GCompris"
 
 #. other platform
-#: template/index.html:109
+#: template/index.html:97
 msgid "All"
 msgstr ""
 
-#: template/index.html:183
+#: template/index.html:171
 msgid "View all screenshots"
 msgstr "Seall na h-uile glacadh-sgrìn"
 
-#: template/index.html:193
+#: template/index.html:181
 #, fuzzy
 #| msgid ""
 #| "GCompris is a high quality educational software suite comprising of "
@@ -348,7 +348,7 @@ msgstr ""
 "'S e sreath de phrògraman foghlaim a th' ann an GCompris le deagh chàileachd "
 "is tha iomadh cleas na bhroinn airson clann aois 2 gu 10."
 
-#: template/index.html:194
+#: template/index.html:182
 msgid ""
 "Some of the activities are game orientated, but nonetheless still "
 "educational."
@@ -356,11 +356,11 @@ msgstr ""
 "'S e geamannan a th' ann an cuid dhe na cleasan ach tha iad math airson "
 "foghlam co-dhiù."
 
-#: template/index.html:195
+#: template/index.html:183
 msgid "Here is the list of activity categories with some examples:"
 msgstr ""
 
-#: template/index.html:197
+#: template/index.html:185
 #, fuzzy
 #| msgid "computer discovery: keyboard, mouse, different mouse gestures, ..."
 msgid "computer discovery: keyboard, mouse, touchscreen ..."
@@ -368,13 +368,13 @@ msgstr ""
 "Faigh a-mach mun choimpiutair: am meur-chlàr, an luchag, gluasadan na "
 "luchaige, ..."
 
-#: template/index.html:198
+#: template/index.html:186
 #, fuzzy
 #| msgid "reading: reading practice"
 msgid "reading: letters, words, reading practice, typing text ..."
 msgstr "leughadh: cleachd do sgilean leughaidh"
 
-#: template/index.html:199
+#: template/index.html:187
 #, fuzzy
 #| msgid ""
 #| "arithmetic: table memory, enumeration, double entry table, mirror "
@@ -386,7 +386,7 @@ msgstr ""
 "àireamhachd: cuimhnich na clàran, àireamhachadh, an griod, sgàthanaich "
 "dealbh, ..."
 
-#: template/index.html:200
+#: template/index.html:188
 #, fuzzy
 #| msgid ""
 #| "science: the canal lock, the water cycle, the submarine, electric "
@@ -396,21 +396,21 @@ msgstr ""
 "saidheans: loc canail, cearcall an uisge, bàta-tumaidh, atharrais sgeama "
 "dealain, ..."
 
-#: template/index.html:201
+#: template/index.html:189
 msgid "geography: countries, regions, culture ..."
 msgstr ""
 
-#: template/index.html:202
+#: template/index.html:190
 #, fuzzy
 #| msgid "games: chess, memory, connect 4, oware, sudoku ..."
 msgid "games: chess, memory, align 4, hangman, tic-tac-toe ..."
 msgstr "geamannan: tàileasg, cuimhne, ceangail 4, oware, sudoku, ..."
 
-#: template/index.html:203
+#: template/index.html:191
 msgid "other: colors, shapes, Braille, learn to tell time ..."
 msgstr ""
 
-#: template/index.html:205
+#: template/index.html:193
 #, fuzzy
 #| msgid ""
 #| "Currently GCompris offers in excess of 100 activities and more are being "
@@ -428,17 +428,17 @@ msgstr ""
 "thu gleus a chur air a-rèir nam feumalachdan agad fhèin, a leasachadh is gu "
 "h-àraidh a cho-roinn leis a' chlann air fheadh an t-saoghail."
 
-#: template/index.html:206
+#: template/index.html:194
 msgid ""
 "The GCompris project is hosted and developed by <a target=\"_blank\" rel="
 "\"noopener\" href=\"https://www.kde.org/\">the KDE community</a>."
 msgstr ""
 
-#: template/index.html:213
+#: template/index.html:201
 msgid "Latest news"
 msgstr "Na naidheachdan as ùire"
 
-#: template/index.html:217
+#: template/index.html:205
 msgid "All the news"
 msgstr "A h-uile naidheachd"
 
