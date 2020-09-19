@@ -2195,13 +2195,13 @@ msgstr ""
 "Brùth air an dà iuchair Shift aig an aon àm gus an tèid am bàla ann an "
 "loidhne dhìrich."
 
-#: activities/ballcatch/Ballcatch.qml:226
+#: activities/ballcatch/Ballcatch.qml:230
 msgctxt "Ballcatch|"
 msgid ""
 "Tap both hands at the same time, to make the ball go in a straight line."
 msgstr ""
 
-#: activities/ballcatch/Ballcatch.qml:228
+#: activities/ballcatch/Ballcatch.qml:232
 msgctxt "Ballcatch|"
 msgid ""
 "Press left and right arrow keys at the same time, to make the ball go in a "
@@ -10279,7 +10279,7 @@ msgctxt "ActivityInfo|"
 msgid "Left and Right arrows: move the spaceship"
 msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
 
-#: activities/gravity/Gravity.qml:213
+#: activities/gravity/Gravity.qml:217
 msgctxt "Gravity|"
 msgid ""
 "Gravity is universal and Newton's law of universal gravitation extends "
@@ -10288,7 +10288,7 @@ msgid ""
 "square of the distance between their centers."
 msgstr ""
 
-#: activities/gravity/Gravity.qml:217
+#: activities/gravity/Gravity.qml:221
 msgctxt "Gravity|"
 msgid ""
 "Since the gravitational force is directly proportional to the mass of both "
@@ -10296,7 +10296,7 @@ msgid ""
 "greater gravitational force."
 msgstr ""
 
-#: activities/gravity/Gravity.qml:220
+#: activities/gravity/Gravity.qml:224
 msgctxt "Gravity|"
 msgid ""
 "But as this force is inversely proportional to the square of the distance "
@@ -10304,7 +10304,7 @@ msgid ""
 "gravitational force."
 msgstr ""
 
-#: activities/gravity/Gravity.qml:223
+#: activities/gravity/Gravity.qml:227
 msgctxt "Gravity|"
 msgid ""
 "Your goal is to move the spaceship and avoid hitting the planets until you "
@@ -10312,7 +10312,7 @@ msgid ""
 "of the gravity on your ship."
 msgstr ""
 
-#: activities/gravity/Gravity.qml:226
+#: activities/gravity/Gravity.qml:230
 msgctxt "Gravity|"
 msgid ""
 "Try to stay near the center of the screen, and anticipate by looking at the "
@@ -15090,19 +15090,19 @@ msgctxt "NoteNames|"
 msgid "%1%"
 msgstr ""
 
-#: activities/note_names/NoteNames.qml:468
+#: activities/note_names/NoteNames.qml:472
 msgctxt "NoteNames|"
 msgid ""
 "This activity requires sound, so it will play some sounds even if the audio "
 "voices or effects are disabled in the main configuration."
 msgstr ""
 
-#: activities/note_names/NoteNames.qml:469
+#: activities/note_names/NoteNames.qml:473
 msgctxt "NoteNames|"
 msgid "Quit"
 msgstr ""
 
-#: activities/note_names/NoteNames.qml:470
+#: activities/note_names/NoteNames.qml:474
 msgctxt "NoteNames|"
 msgid "Continue"
 msgstr ""
@@ -20987,22 +20987,22 @@ msgctxt "GCCreationHandler|"
 msgid "Delete"
 msgstr ""
 
-#: core/IntroMessage.qml:181
+#: core/IntroMessage.qml:185
 msgctxt "IntroMessage|"
 msgid "Previous"
 msgstr ""
 
-#: core/IntroMessage.qml:197
+#: core/IntroMessage.qml:201
 msgctxt "IntroMessage|"
 msgid "Next"
 msgstr ""
 
-#: core/IntroMessage.qml:212
+#: core/IntroMessage.qml:216
 msgctxt "IntroMessage|"
 msgid "Skip"
 msgstr ""
 
-#: core/IntroMessage.qml:212
+#: core/IntroMessage.qml:216
 msgctxt "IntroMessage|"
 msgid "Start"
 msgstr ""
@@ -21152,22 +21152,22 @@ msgctxt "ReadyButton|"
 msgid "I am Ready"
 msgstr "Tha mi deiseil"
 
-#: core/Tutorial.qml:180
+#: core/Tutorial.qml:184
 msgctxt "Tutorial|"
 msgid "Previous"
 msgstr ""
 
-#: core/Tutorial.qml:200
+#: core/Tutorial.qml:204
 msgctxt "Tutorial|"
 msgid "Next"
 msgstr ""
 
-#: core/Tutorial.qml:219
+#: core/Tutorial.qml:223
 msgctxt "Tutorial|"
 msgid "Skip"
 msgstr ""
 
-#: core/Tutorial.qml:219
+#: core/Tutorial.qml:223
 msgctxt "Tutorial|"
 msgid "Start"
 msgstr ""

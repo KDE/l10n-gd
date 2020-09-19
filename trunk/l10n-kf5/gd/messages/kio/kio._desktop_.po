@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-09-13 00:42+0000\n"
+"POT-Creation-Date: 2020-09-19 00:42+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -420,7 +420,7 @@ msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr "Criathrag nam faclan-luirg"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:32
+#: src/kcms/webshortcuts/webshortcuts.desktop:33
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web shortcuts"
@@ -428,7 +428,7 @@ msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "Rèitich na h-ath-ghoiridean lìn"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:50
+#: src/kcms/webshortcuts/webshortcuts.desktop:52
 #, fuzzy
 #| msgctxt "X-KDE-Keywords"
 #| msgid ""
