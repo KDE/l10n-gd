@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-09-19 00:42+0000\n"
+"POT-Creation-Date: 2020-09-20 00:38+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,7 +21,7 @@ msgctxt "Name"
 msgid "Execute action as root."
 msgstr ""
 
-#: src/ioslaves/file/kauth/file.actions:38
+#: src/ioslaves/file/kauth/file.actions:39
 msgctxt "Description"
 msgid "Root privileges are required to complete the action."
 msgstr ""
@@ -31,7 +31,7 @@ msgctxt "Name"
 msgid "HTTP Cache Cleaner"
 msgstr "Glanadair tasgadain HTTP"
 
-#: src/ioslaves/http/http_cache_cleaner.desktop:57
+#: src/ioslaves/http/http_cache_cleaner.desktop:58
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr "Glanaidh seo seann innteartan air falbh on tasgadan HTTP"
@@ -104,12 +104,12 @@ msgctxt "Name"
 msgid "Cookies"
 msgstr "Briosgaidean"
 
-#: src/kcms/kio/cookies.desktop:62
+#: src/kcms/kio/cookies.desktop:63
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr "Rèitich an dòigh a dh'obraicheas briosgaidean"
 
-#: src/kcms/kio/cookies.desktop:148
+#: src/kcms/kio/cookies.desktop:149
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr ""
@@ -162,7 +162,7 @@ msgctxt "Comment"
 msgid "Credentials used to access SMB shares"
 msgstr ""
 
-#: src/kcms/kio/smb.desktop:139
+#: src/kcms/kio/smb.desktop:140
 msgctxt "X-KDE-Keywords"
 msgid ""
 "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
@@ -509,7 +509,7 @@ msgctxt "Name"
 msgid "Basic Link to File or Directory..."
 msgstr "Ceangal bunasach gun fhaidhle no pasgan..."
 
-#: src/new_file_templates/linkPath.desktop:35
+#: src/new_file_templates/linkPath.desktop:36
 msgctxt "Comment"
 msgid "Enter path of file or directory:"
 msgstr "Cuir a-steach slighe an fhaidhle no a' phasgain:"
@@ -635,7 +635,7 @@ msgctxt "Name"
 msgid "Arch Linux Package Search"
 msgstr "Lorg pacaidean Arch Linux"
 
-#: src/urifilters/ikws/searchproviders/archpkg.desktop:46
+#: src/urifilters/ikws/searchproviders/archpkg.desktop:47
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.archlinux.org/packages/?q=\\\\{@}"
@@ -651,7 +651,7 @@ msgctxt "Name"
 msgid "ArchWiki"
 msgstr "Wikia"
 
-#: src/urifilters/ikws/searchproviders/archwiki.desktop:29
+#: src/urifilters/ikws/searchproviders/archwiki.desktop:30
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.archlinux.org/packages/?q=\\\\{@}"
@@ -734,7 +734,7 @@ msgctxt "Name"
 msgid "KDE Bugs"
 msgstr "Bòrd-brath KDE"
 
-#: src/urifilters/ikws/searchproviders/bug.desktop:27
+#: src/urifilters/ikws/searchproviders/bug.desktop:28
 msgctxt "Query"
 msgid "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
 msgstr "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
@@ -886,7 +886,7 @@ msgctxt "Name"
 msgid "DeepL"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/deepl.desktop:24
+#: src/urifilters/ikws/searchproviders/deepl.desktop:25
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
@@ -1161,7 +1161,7 @@ msgctxt "Name"
 msgid "GitLab"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/gitlab.desktop:41
+#: src/urifilters/ikws/searchproviders/gitlab.desktop:42
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"

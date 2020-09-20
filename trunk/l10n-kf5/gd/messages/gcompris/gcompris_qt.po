@@ -16258,19 +16258,19 @@ msgctxt "PlayPiano|"
 msgid "Click on the piano keys that match the given notes."
 msgstr "Breab am bàla dhan tadhal"
 
-#: activities/play_piano/PlayPiano.qml:294
+#: activities/play_piano/PlayPiano.qml:290
 msgctxt "PlayPiano|"
 msgid ""
 "This activity requires sound, so it will play some sounds even if the audio "
 "voices or effects are disabled in the main configuration."
 msgstr ""
 
-#: activities/play_piano/PlayPiano.qml:295
+#: activities/play_piano/PlayPiano.qml:291
 msgctxt "PlayPiano|"
 msgid "Quit"
 msgstr ""
 
-#: activities/play_piano/PlayPiano.qml:296
+#: activities/play_piano/PlayPiano.qml:292
 msgctxt "PlayPiano|"
 msgid "Continue"
 msgstr ""
@@ -19520,25 +19520,25 @@ msgctxt "Dataset|"
 msgid "How large is Neptune compared to other planets in the Solar System?"
 msgstr ""
 
-#: activities/solar_system/QuizScreen.qml:212
+#: activities/solar_system/QuizScreen.qml:210
 #, qt-format
 msgctxt "QuizScreen|"
 msgid "Accuracy: %1%"
 msgstr ""
 
-#: activities/solar_system/QuizScreen.qml:252
+#: activities/solar_system/QuizScreen.qml:250
 #, qt-format
 msgctxt "QuizScreen|"
 msgid "%1%"
 msgstr ""
 
-#: activities/solar_system/QuizScreen.qml:296
+#: activities/solar_system/QuizScreen.qml:294
 #, qt-format
 msgctxt "QuizScreen|"
 msgid "Your final score is: <font color=\"#3bb0de\">%1%</font>.<br><br>%2"
 msgstr ""
 
-#: activities/solar_system/QuizScreen.qml:296
+#: activities/solar_system/QuizScreen.qml:294
 msgctxt "QuizScreen|"
 msgid ""
 "You should score above 90% to become a Solar System expert!<br>Retry to test "
@@ -19546,7 +19546,7 @@ msgid ""
 "System."
 msgstr ""
 
-#: activities/solar_system/QuizScreen.qml:296
+#: activities/solar_system/QuizScreen.qml:294
 msgctxt "QuizScreen|"
 msgid ""
 "Great! You can replay the assessment to test your knowledge on more "
@@ -20264,26 +20264,26 @@ msgctxt "ActivityInfo|"
 msgid "Drawing by Stephane Cabaraux."
 msgstr "Tarraing le Stephane Cabaraux."
 
-#: activities/watercycle/Watercycle.qml:65
+#: activities/watercycle/Watercycle.qml:95
 msgctxt "Watercycle|"
 msgid ""
 "The sun is the main component of the water cycle. Click on the sun to start "
 "the water cycle."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:66
+#: activities/watercycle/Watercycle.qml:96
 msgctxt "Watercycle|"
 msgid "As the sun rises, the water of the sea starts heating and evaporates."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:67
+#: activities/watercycle/Watercycle.qml:97
 msgctxt "Watercycle|"
 msgid ""
 "Water vapor condenses to form cloud and when clouds become heavy, it rains. "
 "Click on the cloud."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:68
+#: activities/watercycle/Watercycle.qml:98
 msgctxt "Watercycle|"
 msgid ""
 "The rain causes rivers to swell up and this water is transported to us via "
@@ -20291,25 +20291,25 @@ msgid ""
 "residents."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:70
+#: activities/watercycle/Watercycle.qml:100
 msgctxt "Watercycle|"
 msgid ""
 "See the tower filled with water. Activate the sewage treatment station by "
 "clicking on it."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:71
+#: activities/watercycle/Watercycle.qml:101
 msgctxt "Watercycle|"
 msgid "Great, click on the shower, as Tux arrives home."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:72
+#: activities/watercycle/Watercycle.qml:102
 msgctxt "Watercycle|"
 msgid ""
 "Fantastic, you have completed the water cycle. You can continue playing."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:96
+#: activities/watercycle/Watercycle.qml:127
 msgctxt "Watercycle|"
 msgid ""
 "The water cycle (also known as the hydrologic cycle) is the journey water "
@@ -20317,7 +20317,7 @@ msgid ""
 "heat provides energy to evaporate water from water bodies like oceans."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:99
+#: activities/watercycle/Watercycle.qml:130
 msgctxt "Watercycle|"
 msgid ""
 "Plants also lose water to the air through transpiration. The water vapor "
@@ -20325,7 +20325,7 @@ msgid ""
 "over the land, precipitation is triggered and fall down as rain."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:102
+#: activities/watercycle/Watercycle.qml:133
 msgctxt "Watercycle|"
 msgid ""
 "Some of the water is trapped between rock or clay layers, called "
@@ -20333,7 +20333,7 @@ msgid ""
 "the seas via rivers."
 msgstr ""
 
-#: activities/watercycle/Watercycle.qml:104
+#: activities/watercycle/Watercycle.qml:135
 msgctxt "Watercycle|"
 msgid ""
 "Your goal is to complete the water cycle before Tux reaches home. Click on "
