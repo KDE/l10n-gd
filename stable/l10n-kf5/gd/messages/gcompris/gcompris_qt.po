@@ -17754,14 +17754,14 @@ msgctxt "PlayPiano|"
 msgid "Click on the piano keys that match the given notes."
 msgstr "Briog air an àite a fhreagras ris an teacsa."
 
-#: activities/play_piano/PlayPiano.qml:294
+#: activities/play_piano/PlayPiano.qml:290
 msgctxt "PlayPiano|"
 msgid ""
 "This activity requires sound, so it will play some sounds even if the audio "
 "voices or effects are disabled in the main configuration."
 msgstr ""
 
-#: activities/play_piano/PlayPiano.qml:295
+#: activities/play_piano/PlayPiano.qml:291
 #, fuzzy
 #| msgctxt "core|"
 #| msgid "Quit?"
@@ -17769,7 +17769,7 @@ msgctxt "PlayPiano|"
 msgid "Quit"
 msgstr "A bheil thu airson fàgail an-seo?"
 
-#: activities/play_piano/PlayPiano.qml:296
+#: activities/play_piano/PlayPiano.qml:292
 #, fuzzy
 #| msgctxt "board1_0|"
 #| msgid "Continents"
@@ -21526,7 +21526,7 @@ msgctxt "Dataset|"
 msgid "How large is Neptune compared to other planets in the Solar System?"
 msgstr ""
 
-#: activities/solar_system/QuizScreen.qml:212
+#: activities/solar_system/QuizScreen.qml:210
 #, fuzzy, qt-format
 #| msgctxt "LandSafe|"
 #| msgid "Acceleration: %1"
@@ -21534,7 +21534,7 @@ msgctxt "QuizScreen|"
 msgid "Accuracy: %1%"
 msgstr "Luathachadh: %1"
 
-#: activities/solar_system/QuizScreen.qml:252
+#: activities/solar_system/QuizScreen.qml:250
 #, fuzzy, qt-format
 #| msgctxt "Guesscount|"
 #| msgid "%1/%2"
@@ -21542,13 +21542,13 @@ msgctxt "QuizScreen|"
 msgid "%1%"
 msgstr "%1/%2"
 
-#: activities/solar_system/QuizScreen.qml:296
+#: activities/solar_system/QuizScreen.qml:294
 #, qt-format
 msgctxt "QuizScreen|"
 msgid "Your final score is: <font color=\"#3bb0de\">%1%</font>.<br><br>%2"
 msgstr ""
 
-#: activities/solar_system/QuizScreen.qml:296
+#: activities/solar_system/QuizScreen.qml:294
 msgctxt "QuizScreen|"
 msgid ""
 "You should score above 90% to become a Solar System expert!<br>Retry to test "
@@ -21556,7 +21556,7 @@ msgid ""
 "System."
 msgstr ""
 
-#: activities/solar_system/QuizScreen.qml:296
+#: activities/solar_system/QuizScreen.qml:294
 msgctxt "QuizScreen|"
 msgid ""
 "Great! You can replay the assessment to test your knowledge on more "
@@ -22386,7 +22386,7 @@ msgctxt "ActivityInfo|"
 msgid "Drawing by Stephane Cabaraux."
 msgstr "Tarraing le Stephane Cabaraux."
 
-#: activities/watercycle/Watercycle.qml:65
+#: activities/watercycle/Watercycle.qml:95
 #, fuzzy
 #| msgctxt "Watercycle|"
 #| msgid ""
@@ -22400,14 +22400,14 @@ msgstr ""
 "’S e a’ ghrian a’ phàirt as cudromaiche ann an cearcall an uisge. Briog air "
 "a’ ghrian a chur gu dol cearcall an uisge."
 
-#: activities/watercycle/Watercycle.qml:66
+#: activities/watercycle/Watercycle.qml:96
 msgctxt "Watercycle|"
 msgid "As the sun rises, the water of the sea starts heating and evaporates."
 msgstr ""
 "Mar a dh’èireas a’ ghrian, fàsaidh am muir nas blàithe agus thèid cuid dheth "
 "’na dheatach."
 
-#: activities/watercycle/Watercycle.qml:67
+#: activities/watercycle/Watercycle.qml:97
 #, fuzzy
 #| msgctxt "Watercycle|"
 #| msgid ""
@@ -22421,7 +22421,7 @@ msgstr ""
 "Co-dhlùthaichidh an deatach uisge ann an neòil agus nuair a dh’fhàsas na "
 "neòil trom le uisge, nì e fras. Briog air an neul."
 
-#: activities/watercycle/Watercycle.qml:68
+#: activities/watercycle/Watercycle.qml:98
 #, fuzzy
 #| msgctxt "Watercycle|"
 #| msgid ""
@@ -22438,7 +22438,7 @@ msgstr ""
 "slighe pumpaichean motair agus tùir-uisge. Briog air a’ phumpa airson uisge "
 "a sholar dha na daoine."
 
-#: activities/watercycle/Watercycle.qml:70
+#: activities/watercycle/Watercycle.qml:100
 msgctxt "Watercycle|"
 msgid ""
 "See the tower filled with water. Activate the sewage treatment station by "
@@ -22447,12 +22447,12 @@ msgstr ""
 "Seall an tùr ’s e làn de dh’uisge. Cuir gu dol ionad giullachd an uisge le "
 "bhith a’ briogadh air."
 
-#: activities/watercycle/Watercycle.qml:71
+#: activities/watercycle/Watercycle.qml:101
 msgctxt "Watercycle|"
 msgid "Great, click on the shower, as Tux arrives home."
 msgstr "Taghta, briog air an fhrasair nuair a ruigeas Tux a dhachaidh."
 
-#: activities/watercycle/Watercycle.qml:72
+#: activities/watercycle/Watercycle.qml:102
 #, fuzzy
 #| msgctxt "Watercycle|"
 #| msgid "Fantastic, you have completed water cycle. You can continue playing."
@@ -22463,7 +22463,7 @@ msgstr ""
 "Air leth, choilean thu cearcall an uisge. ’S urrainn dhut cumail a’ dol a’ "
 "cluich leis."
 
-#: activities/watercycle/Watercycle.qml:96
+#: activities/watercycle/Watercycle.qml:127
 msgctxt "Watercycle|"
 msgid ""
 "The water cycle (also known as the hydrologic cycle) is the journey water "
@@ -22474,7 +22474,7 @@ msgstr ""
 "speuran a-rithist ’s a-rithist. Thig a’ chumhachd air a bheil feum airson "
 "uisge à lochan no cuantan a thionndadh ’na dheatach on ghrian."
 
-#: activities/watercycle/Watercycle.qml:99
+#: activities/watercycle/Watercycle.qml:130
 #, fuzzy
 #| msgctxt "Watercycle|"
 #| msgid ""
@@ -22492,7 +22492,7 @@ msgstr ""
 "an neòil. Nuair a thachras na neòil ri adhar fionnar os cionn na talmhainn, "
 "adhbharaichidh seo sileadh agus tuitidh sin a-nuas mar uisge."
 
-#: activities/watercycle/Watercycle.qml:102
+#: activities/watercycle/Watercycle.qml:133
 msgctxt "Watercycle|"
 msgid ""
 "Some of the water is trapped between rock or clay layers, called "
@@ -22503,7 +22503,7 @@ msgstr ""
 "canar uisge-talmhainn ris. Ach sruthaichidh a’ chuid as motha dheth air ais "
 "dhan mhuir ann an aibhnichean."
 
-#: activities/watercycle/Watercycle.qml:104
+#: activities/watercycle/Watercycle.qml:135
 #, fuzzy
 #| msgctxt "Watercycle|"
 #| msgid ""
