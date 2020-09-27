@@ -1800,27 +1800,27 @@ msgctxt "ActivityInfo|"
 msgid "Ctrl + Shift + Z: redo"
 msgstr ""
 
-#: activities/baby_wordprocessor/BabyWordprocessor.qml:100
+#: activities/baby_wordprocessor/BabyWordprocessor.qml:99
 msgctxt "BabyWordprocessor|"
 msgid "Title"
 msgstr ""
 
-#: activities/baby_wordprocessor/BabyWordprocessor.qml:106
+#: activities/baby_wordprocessor/BabyWordprocessor.qml:105
 msgctxt "BabyWordprocessor|"
 msgid "Subtitle"
 msgstr ""
 
-#: activities/baby_wordprocessor/BabyWordprocessor.qml:113
+#: activities/baby_wordprocessor/BabyWordprocessor.qml:112
 msgctxt "BabyWordprocessor|"
 msgid "Paragraph"
 msgstr ""
 
-#: activities/baby_wordprocessor/BabyWordprocessor.qml:139
+#: activities/baby_wordprocessor/BabyWordprocessor.qml:138
 msgctxt "BabyWordprocessor|"
 msgid "Load"
 msgstr ""
 
-#: activities/baby_wordprocessor/BabyWordprocessor.qml:148
+#: activities/baby_wordprocessor/BabyWordprocessor.qml:147
 msgctxt "BabyWordprocessor|"
 msgid "Save"
 msgstr ""
@@ -1937,37 +1937,37 @@ msgctxt "board7_4|"
 msgid "Ambrosius Bosschaert the Elder, Flower Still Life - 1614"
 msgstr ""
 
-#: activities/balancebox/ActivityConfig.qml:35
+#: activities/balancebox/ActivityConfig.qml:34
 msgctxt "ActivityConfig|"
 msgid "Built-in"
 msgstr ""
 
-#: activities/balancebox/ActivityConfig.qml:36
+#: activities/balancebox/ActivityConfig.qml:35
 msgctxt "ActivityConfig|"
 msgid "User"
 msgstr ""
 
-#: activities/balancebox/ActivityConfig.qml:46
+#: activities/balancebox/ActivityConfig.qml:45
 msgctxt "ActivityConfig|"
 msgid "Select your level set"
 msgstr ""
 
-#: activities/balancebox/ActivityConfig.qml:53
+#: activities/balancebox/ActivityConfig.qml:51
 msgctxt "ActivityConfig|"
 msgid "Start the editor"
 msgstr ""
 
-#: activities/balancebox/ActivityConfig.qml:53
+#: activities/balancebox/ActivityConfig.qml:51
 msgctxt "ActivityConfig|"
 msgid "Start the activity to access the editor"
 msgstr ""
 
-#: activities/balancebox/ActivityConfig.qml:63
+#: activities/balancebox/ActivityConfig.qml:60
 msgctxt "ActivityConfig|"
 msgid "Load saved levels"
 msgstr ""
 
-#: activities/balancebox/ActivityConfig.qml:63
+#: activities/balancebox/ActivityConfig.qml:60
 msgctxt "ActivityConfig|"
 msgid "Start the activity to load your levels"
 msgstr ""
@@ -2114,14 +2114,14 @@ msgctxt "balancebox|"
 msgid "The file '%1' is missing!<br>Falling back to builtin levels."
 msgstr ""
 
-#: activities/balancebox/Balancebox.qml:84
+#: activities/balancebox/Balancebox.qml:83
 msgctxt "Balancebox|"
 msgid ""
 "You selected the user-defined level set, but you have not yet loaded any "
 "user level!"
 msgstr ""
 
-#: activities/balancebox/Balancebox.qml:86
+#: activities/balancebox/Balancebox.qml:85
 msgctxt "Balancebox|"
 msgid "Ok"
 msgstr ""
@@ -2143,17 +2143,17 @@ msgctxt "balanceboxeditor|"
 msgid "No"
 msgstr ""
 
-#: activities/balancebox/editor/BalanceboxEditor.qml:152
+#: activities/balancebox/editor/BalanceboxEditor.qml:151
 msgctxt "BalanceboxEditor|"
 msgid "Load"
 msgstr ""
 
-#: activities/balancebox/editor/BalanceboxEditor.qml:160
+#: activities/balancebox/editor/BalanceboxEditor.qml:158
 msgctxt "BalanceboxEditor|"
 msgid "Save"
 msgstr ""
 
-#: activities/balancebox/editor/BalanceboxEditor.qml:168
+#: activities/balancebox/editor/BalanceboxEditor.qml:165
 msgctxt "BalanceboxEditor|"
 msgid "Test"
 msgstr ""
@@ -3094,7 +3094,7 @@ msgctxt "ActivityInfo|"
 msgid "Review the instructions and then drag and drop the items as specified."
 msgstr ""
 
-#: activities/categorization/Categorization.qml:166
+#: activities/categorization/Categorization.qml:165
 msgctxt "Categorization|"
 msgid ""
 "You don't have all the images for this activity. Click on 'Update the image "
@@ -3102,7 +3102,7 @@ msgid ""
 "show this dialog again' to play with the demo version."
 msgstr ""
 
-#: activities/categorization/Categorization.qml:169
+#: activities/categorization/Categorization.qml:168
 #, fuzzy
 #| msgctxt "instruments|"
 #| msgid "Find the triangle"
@@ -3110,7 +3110,7 @@ msgctxt "Categorization|"
 msgid "Update the image set"
 msgstr "Lorg an triantan"
 
-#: activities/categorization/Categorization.qml:170
+#: activities/categorization/Categorization.qml:169
 msgctxt "Categorization|"
 msgid "Never show this dialog again"
 msgstr ""
@@ -14160,122 +14160,122 @@ msgctxt "ActivityInfo|"
 msgid "Ctrl+S Toggle the activity section bar"
 msgstr ""
 
-#: activities/menu/BackgroundMusicList.qml:67
+#: activities/menu/BackgroundMusicList.qml:66
 msgctxt "BackgroundMusicList|"
 msgid "Background music"
 msgstr ""
 
-#: activities/menu/BackgroundMusicList.qml:129
+#: activities/menu/BackgroundMusicList.qml:128
 msgctxt "BackgroundMusicList|"
 msgid "Disable the background music if you don't want to play them."
 msgstr ""
 
 #. Current background music playing
-#: activities/menu/BackgroundMusicList.qml:171
+#: activities/menu/BackgroundMusicList.qml:168
 msgctxt "BackgroundMusicList|"
 msgid "Now Playing:"
 msgstr ""
 
 #. Title of the current background music playing
-#: activities/menu/BackgroundMusicList.qml:180
+#: activities/menu/BackgroundMusicList.qml:177
 #, qt-format
 msgctxt "BackgroundMusicList|"
 msgid "Title: %1"
 msgstr ""
 
 #. Artist of the current background music playing
-#: activities/menu/BackgroundMusicList.qml:189
+#: activities/menu/BackgroundMusicList.qml:186
 #, qt-format
 msgctxt "BackgroundMusicList|"
 msgid "Artist: %1"
 msgstr ""
 
 #. Year of the current background music playing
-#: activities/menu/BackgroundMusicList.qml:198
+#: activities/menu/BackgroundMusicList.qml:195
 #, qt-format
 msgctxt "BackgroundMusicList|"
 msgid "Year: %1"
 msgstr ""
 
 #. Copyright of the current background music playing
-#: activities/menu/BackgroundMusicList.qml:207
+#: activities/menu/BackgroundMusicList.qml:204
 #, qt-format
 msgctxt "BackgroundMusicList|"
 msgid "Copyright: %1"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:58
+#: activities/menu/ConfigurationItem.qml:56
 msgctxt "ConfigurationItem|"
 msgid "Language selector"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:84
+#: activities/menu/ConfigurationItem.qml:82
 msgctxt "ConfigurationItem|"
 msgid "Localized voices"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:100
+#: activities/menu/ConfigurationItem.qml:98
 msgctxt "ConfigurationItem|"
 msgid "Check for updates"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:101
+#: activities/menu/ConfigurationItem.qml:99
 msgctxt "ConfigurationItem|"
 msgid "Download"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:116
+#: activities/menu/ConfigurationItem.qml:113
 msgctxt "ConfigurationItem|"
 msgid "Enable audio voices"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:125
+#: activities/menu/ConfigurationItem.qml:122
 msgctxt "ConfigurationItem|"
 msgid "Enable audio effects"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:134
+#: activities/menu/ConfigurationItem.qml:131
 msgctxt "ConfigurationItem|"
 msgid "Audio effects volume"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:154
+#: activities/menu/ConfigurationItem.qml:151
 msgctxt "ConfigurationItem|"
 msgid "Download background music"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:165
+#: activities/menu/ConfigurationItem.qml:161
 msgctxt "ConfigurationItem|"
 msgid "Enable background music"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:176
+#: activities/menu/ConfigurationItem.qml:172
 msgctxt "ConfigurationItem|"
 msgid "Background Music"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:199
+#: activities/menu/ConfigurationItem.qml:195
 msgctxt "ConfigurationItem|"
 msgid "Not playing"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:201
+#: activities/menu/ConfigurationItem.qml:197
 #, qt-format
 msgctxt "ConfigurationItem|"
 msgid "Title: %1  Artist: %2"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:203
+#: activities/menu/ConfigurationItem.qml:199
 msgctxt "ConfigurationItem|"
 msgid "Introduction music"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:215
+#: activities/menu/ConfigurationItem.qml:210
 msgctxt "ConfigurationItem|"
 msgid "Background music volume"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:232
+#: activities/menu/ConfigurationItem.qml:227
 #, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Fullscreen"
@@ -14283,17 +14283,17 @@ msgctxt "ConfigurationItem|"
 msgid "Fullscreen"
 msgstr "Làn-sgrìn"
 
-#: activities/menu/ConfigurationItem.qml:242
+#: activities/menu/ConfigurationItem.qml:237
 msgctxt "ConfigurationItem|"
 msgid "Virtual Keyboard"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:252
+#: activities/menu/ConfigurationItem.qml:247
 msgctxt "ConfigurationItem|"
 msgid "Enable automatic downloads/updates of sound files"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:263
+#: activities/menu/ConfigurationItem.qml:258
 #, fuzzy
 #| msgctxt "instruments|"
 #| msgid "Find the triangle"
@@ -14301,7 +14301,7 @@ msgctxt "ConfigurationItem|"
 msgid "Download full word image set"
 msgstr "Lorg an triantan"
 
-#: activities/menu/ConfigurationItem.qml:284
+#: activities/menu/ConfigurationItem.qml:278
 #, fuzzy
 #| msgctxt "instruments|"
 #| msgid "Find the triangle"
@@ -14309,110 +14309,110 @@ msgctxt "ConfigurationItem|"
 msgid "Full word image set is installed"
 msgstr "Lorg an triantan"
 
-#: activities/menu/ConfigurationItem.qml:284
+#: activities/menu/ConfigurationItem.qml:278
 msgctxt "ConfigurationItem|"
 msgid "Full word image set is not installed"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:305
+#: activities/menu/ConfigurationItem.qml:299
 msgctxt "ConfigurationItem|"
 msgid "The activity section menu is visible"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:315
+#: activities/menu/ConfigurationItem.qml:309
 msgctxt "ConfigurationItem|"
 msgid "Font selector"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:320
+#: activities/menu/ConfigurationItem.qml:314
 msgctxt "ConfigurationItem|"
 msgid "Font size"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:340
-#: activities/menu/ConfigurationItem.qml:375
+#: activities/menu/ConfigurationItem.qml:334
+#: activities/menu/ConfigurationItem.qml:368
 msgctxt "ConfigurationItem|"
 msgid "Default"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:350
+#: activities/menu/ConfigurationItem.qml:343
 msgctxt "ConfigurationItem|"
 msgid "Font Capitalization"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:355
+#: activities/menu/ConfigurationItem.qml:348
 msgctxt "ConfigurationItem|"
 msgid "Font letter spacing"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:382
+#: activities/menu/ConfigurationItem.qml:374
 msgctxt "ConfigurationItem|"
 msgid "Difficulty filter:"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:669
+#: activities/menu/ConfigurationItem.qml:661
 msgctxt "ConfigurationItem|"
 msgid "Mixed case (default)"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:670
+#: activities/menu/ConfigurationItem.qml:662
 msgctxt "ConfigurationItem|"
 msgid "All uppercase"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:671
+#: activities/menu/ConfigurationItem.qml:663
 msgctxt "ConfigurationItem|"
 msgid "All lowercase"
 msgstr ""
 
-#: activities/menu/Menu.qml:91
+#: activities/menu/Menu.qml:93
 msgctxt "Menu|"
 msgid ""
 "You selected a new locale, you need to restart GCompris to use it.<br/>Do "
 "you want to download the corresponding sound files now?"
 msgstr ""
 
-#: activities/menu/Menu.qml:92
+#: activities/menu/Menu.qml:94
 msgctxt "Menu|"
 msgid "Yes"
 msgstr ""
 
-#: activities/menu/Menu.qml:98
+#: activities/menu/Menu.qml:100
 msgctxt "Menu|"
 msgid "No"
 msgstr ""
 
-#: activities/menu/Menu.qml:128
+#: activities/menu/Menu.qml:130
 msgctxt "Menu|"
 msgid "Logic"
 msgstr ""
 
-#: activities/menu/Menu.qml:129
+#: activities/menu/Menu.qml:131
 msgctxt "Menu|"
 msgid "Fine Arts"
 msgstr ""
 
-#: activities/menu/Menu.qml:130
+#: activities/menu/Menu.qml:132
 msgctxt "Menu|"
 msgid "Music"
 msgstr ""
 
-#: activities/menu/Menu.qml:136
+#: activities/menu/Menu.qml:138
 msgctxt "Menu|"
 msgid "Experiment"
 msgstr ""
 
-#: activities/menu/Menu.qml:137
+#: activities/menu/Menu.qml:139
 msgctxt "Menu|"
 msgid "History"
 msgstr ""
 
-#: activities/menu/Menu.qml:138
+#: activities/menu/Menu.qml:140
 msgctxt "Menu|"
 msgid "Geography"
 msgstr ""
 
-#: activities/menu/Menu.qml:148
+#: activities/menu/Menu.qml:150
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Numeration training"
@@ -14420,17 +14420,17 @@ msgctxt "Menu|"
 msgid "Numeration"
 msgstr "Trèanadh nan àireamhan"
 
-#: activities/menu/Menu.qml:149
+#: activities/menu/Menu.qml:151
 msgctxt "Menu|"
 msgid "Arithmetic"
 msgstr ""
 
-#: activities/menu/Menu.qml:150
+#: activities/menu/Menu.qml:152
 msgctxt "Menu|"
 msgid "Measures"
 msgstr ""
 
-#: activities/menu/Menu.qml:160
+#: activities/menu/Menu.qml:162
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Simple Letters"
@@ -14438,12 +14438,12 @@ msgctxt "Menu|"
 msgid "Letters"
 msgstr "Litrichean simplidh"
 
-#: activities/menu/Menu.qml:161
+#: activities/menu/Menu.qml:163
 msgctxt "Menu|"
 msgid "Words"
 msgstr ""
 
-#: activities/menu/Menu.qml:162
+#: activities/menu/Menu.qml:164
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Word reading"
@@ -14451,7 +14451,7 @@ msgctxt "Menu|"
 msgid "Vocabulary"
 msgstr "Leughadh nam faclan"
 
-#: activities/menu/Menu.qml:371
+#: activities/menu/Menu.qml:373
 msgctxt "Menu|"
 msgid ""
 "Put your favorite activities here by clicking on the sun at the top right of "
@@ -15808,7 +15808,7 @@ msgctxt "melodies|"
 msgid "Finland"
 msgstr "Cànan nan Tàidh"
 
-#: activities/piano_composition/MelodyList.qml:73
+#: activities/piano_composition/MelodyList.qml:72
 msgctxt "MelodyList|"
 msgid "Melodies"
 msgstr ""
@@ -15967,22 +15967,22 @@ msgctxt "piano_composition|"
 msgid "Melody saved to your file (%1)"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:372
+#: activities/piano_composition/Piano_composition.qml:371
 msgctxt "Piano_composition|"
 msgid "You have not selected any note. Do you want to erase all the notes?"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:373
+#: activities/piano_composition/Piano_composition.qml:372
 msgctxt "Piano_composition|"
 msgid "Yes"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:379
+#: activities/piano_composition/Piano_composition.qml:378
 msgctxt "Piano_composition|"
 msgid "No"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:430
+#: activities/piano_composition/Piano_composition.qml:429
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Click on the correct color"
@@ -15990,29 +15990,29 @@ msgctxt "Piano_composition|"
 msgid "Select the type of melody to load."
 msgstr "Briog air an dath cheart"
 
-#: activities/piano_composition/Piano_composition.qml:435
+#: activities/piano_composition/Piano_composition.qml:434
 msgctxt "Piano_composition|"
 msgid "Pre-defined melodies"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:455
+#: activities/piano_composition/Piano_composition.qml:452
 msgctxt "Piano_composition|"
 msgid "Your saved melodies"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:564
+#: activities/piano_composition/Piano_composition.qml:559
 msgctxt "Piano_composition|"
 msgid ""
 "This activity requires sound, so it will play some sounds even if the audio "
 "voices or effects are disabled in the main configuration."
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:565
+#: activities/piano_composition/Piano_composition.qml:560
 msgctxt "Piano_composition|"
 msgid "Quit"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:566
+#: activities/piano_composition/Piano_composition.qml:561
 msgctxt "Piano_composition|"
 msgid "Continue"
 msgstr ""
@@ -20618,24 +20618,24 @@ msgctxt "core|"
 msgid "No"
 msgstr ""
 
-#: core/DialogAbout.qml:34
+#: core/DialogAbout.qml:33
 msgctxt "DialogAbout|"
 msgid "About GCompris"
 msgstr "Mu GCompris"
 
-#: core/DialogAbout.qml:35 core/DialogAbout.qml:48
+#: core/DialogAbout.qml:34 core/DialogAbout.qml:47
 msgctxt "DialogAbout|"
 msgid "License"
 msgstr ""
 
 #. Replace this string with your names, one name per line.
-#: core/DialogAbout.qml:58 core/DialogAbout.qml:59
+#: core/DialogAbout.qml:57 core/DialogAbout.qml:58
 #, fuzzy
 msgctxt "DialogAbout|"
 msgid "translator-credits"
 msgstr "Akerbeltz ⁊ GunChleoc"
 
-#: core/DialogAbout.qml:66
+#: core/DialogAbout.qml:65
 #, fuzzy, qt-format
 #| msgctxt "DialogAbout|"
 #| msgid "About GCompris"
@@ -20643,13 +20643,13 @@ msgctxt "DialogAbout|"
 msgid "GCompris %1"
 msgstr "Mu GCompris"
 
-#: core/DialogAbout.qml:67
+#: core/DialogAbout.qml:66
 #, qt-format
 msgctxt "DialogAbout|"
 msgid "Based on Qt %1"
 msgstr ""
 
-#: core/DialogAbout.qml:71
+#: core/DialogAbout.qml:70
 #, fuzzy
 #| msgctxt "DialogAbout|"
 #| msgid "GCompris Home Page: http://gcompris.net"
@@ -20657,12 +20657,12 @@ msgctxt "DialogAbout|"
 msgid "GCompris Home Page: https://gcompris.net"
 msgstr "Duilleag-dhachaigh GCompris: http://gcompris.net"
 
-#: core/DialogAbout.qml:78
+#: core/DialogAbout.qml:77
 msgctxt "DialogAbout|"
 msgid "<b>GCompris</b> is a Free Software developed within the KDE community."
 msgstr ""
 
-#: core/DialogAbout.qml:82
+#: core/DialogAbout.qml:81
 #, qt-format
 msgctxt "DialogAbout|"
 msgid ""
@@ -20677,7 +20677,7 @@ msgid ""
 "and the software we produce."
 msgstr ""
 
-#: core/DialogAbout.qml:99
+#: core/DialogAbout.qml:98
 #, qt-format
 msgctxt "DialogAbout|"
 msgid ""
@@ -20690,7 +20690,7 @@ msgid ""
 "\"Wishlist\"."
 msgstr ""
 
-#: core/DialogAbout.qml:111
+#: core/DialogAbout.qml:110
 #, qt-format
 msgctxt "DialogAbout|"
 msgid ""
@@ -20703,7 +20703,7 @@ msgid ""
 "what you need."
 msgstr ""
 
-#: core/DialogAbout.qml:128
+#: core/DialogAbout.qml:127
 #, qt-format
 msgctxt "DialogAbout|"
 msgid ""
@@ -20719,13 +20719,13 @@ msgid ""
 "><br />Thank you very much in advance for your support."
 msgstr ""
 
-#: core/DialogAbout.qml:145
+#: core/DialogAbout.qml:144
 #, qt-format
 msgctxt "DialogAbout|"
 msgid "<b>A big thanks to the development team:</b> %1"
 msgstr ""
 
-#: core/DialogAbout.qml:149
+#: core/DialogAbout.qml:148
 #, qt-format
 msgctxt "DialogAbout|"
 msgid "<b>A big thanks to the translation team:</b> %1"
@@ -20742,18 +20742,18 @@ msgctxt "DialogActivityConfig|"
 msgid "Configuration"
 msgstr ""
 
-#: core/DialogChooseLevel.qml:57
+#: core/DialogChooseLevel.qml:56
 #, qt-format
 msgctxt "DialogChooseLevel|"
 msgid "%1 settings"
 msgstr ""
 
-#: core/DialogChooseLevel.qml:217
+#: core/DialogChooseLevel.qml:216
 msgctxt "DialogChooseLevel|"
 msgid "Dataset"
 msgstr ""
 
-#: core/DialogChooseLevel.qml:233
+#: core/DialogChooseLevel.qml:229
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Addition"
@@ -20761,17 +20761,17 @@ msgctxt "DialogChooseLevel|"
 msgid "Options"
 msgstr "Cur ris"
 
-#: core/DialogChooseLevel.qml:366
+#: core/DialogChooseLevel.qml:360
 msgctxt "DialogChooseLevel|"
 msgid "Cancel"
 msgstr ""
 
-#: core/DialogChooseLevel.qml:377
+#: core/DialogChooseLevel.qml:368
 msgctxt "DialogChooseLevel|"
 msgid "Save"
 msgstr ""
 
-#: core/DialogChooseLevel.qml:394
+#: core/DialogChooseLevel.qml:382
 msgctxt "DialogChooseLevel|"
 msgid "Save and start"
 msgstr ""
@@ -20865,28 +20865,28 @@ msgctxt "DownloadDialog|"
 msgid "Background"
 msgstr ""
 
-#: core/DownloadDialog.qml:283
+#: core/DownloadDialog.qml:281
 msgctxt "DownloadDialog|"
 msgid "Abort"
 msgstr ""
 
-#: core/DownloadDialog.qml:380
+#: core/DownloadDialog.qml:377
 #, qt-format
 msgctxt "DownloadDialog|"
 msgid "Download error (code: %1): %2"
 msgstr ""
 
-#: core/DownloadDialog.qml:408
+#: core/DownloadDialog.qml:405
 msgctxt "DownloadDialog|"
 msgid "Your download finished successfully. The data files are now available."
 msgstr ""
 
-#: core/DownloadDialog.qml:410
+#: core/DownloadDialog.qml:407
 msgctxt "DownloadDialog|"
 msgid "Restart any currently active activity."
 msgstr ""
 
-#: core/DownloadDialog.qml:412
+#: core/DownloadDialog.qml:409
 msgctxt "DownloadDialog|"
 msgid "Your local data files are up-to-date."
 msgstr ""
@@ -20907,82 +20907,82 @@ msgctxt "QObject|"
 msgid "Could not open target file %1"
 msgstr ""
 
-#: core/DownloadManager.cpp:529
+#: core/DownloadManager.cpp:527
 msgctxt "QObject|"
 msgid "Invalid format of Contents file"
 msgstr ""
 
-#: core/DownloadManager.cpp:550
+#: core/DownloadManager.cpp:548
 #, qt-format
 msgctxt "QObject|"
 msgid "The url %1 does not exist."
 msgstr ""
 
-#: core/DownloadManager.cpp:563
+#: core/DownloadManager.cpp:561
 #, qt-format
 msgctxt "QObject|"
 msgid "Checksum of downloaded file does not match: %1"
 msgstr ""
 
-#: core/GCCreationHandler.qml:144
+#: core/GCCreationHandler.qml:145
 #, qt-format
 msgctxt "GCCreationHandler|"
 msgid "%1 deleted successfully!"
 msgstr ""
 
-#: core/GCCreationHandler.qml:145 core/GCCreationHandler.qml:150
-#: core/GCCreationHandler.qml:191
+#: core/GCCreationHandler.qml:146 core/GCCreationHandler.qml:151
+#: core/GCCreationHandler.qml:192
 msgctxt "GCCreationHandler|"
 msgid "Ok"
 msgstr ""
 
-#: core/GCCreationHandler.qml:149
+#: core/GCCreationHandler.qml:150
 #, qt-format
 msgctxt "GCCreationHandler|"
 msgid "Unable to delete %1!"
 msgstr ""
 
-#: core/GCCreationHandler.qml:182
+#: core/GCCreationHandler.qml:183
 msgctxt "GCCreationHandler|"
 msgid "A file with this name already exists. Do you want to replace it?"
 msgstr ""
 
-#: core/GCCreationHandler.qml:183
+#: core/GCCreationHandler.qml:184
 msgctxt "GCCreationHandler|"
 msgid "Yes"
 msgstr ""
 
-#: core/GCCreationHandler.qml:183
+#: core/GCCreationHandler.qml:184
 msgctxt "GCCreationHandler|"
 msgid "No"
 msgstr ""
 
-#: core/GCCreationHandler.qml:190
+#: core/GCCreationHandler.qml:191
 msgctxt "GCCreationHandler|"
 msgid "Saved successfully!"
 msgstr ""
 
-#: core/GCCreationHandler.qml:212
+#: core/GCCreationHandler.qml:213
 msgctxt "GCCreationHandler|"
 msgid "Enter file name"
 msgstr ""
 
-#: core/GCCreationHandler.qml:212
+#: core/GCCreationHandler.qml:213
 msgctxt "GCCreationHandler|"
 msgid "Search"
 msgstr ""
 
-#: core/GCCreationHandler.qml:232
+#: core/GCCreationHandler.qml:233
 msgctxt "GCCreationHandler|"
 msgid "Save"
 msgstr ""
 
-#: core/GCCreationHandler.qml:339
+#: core/GCCreationHandler.qml:338
 msgctxt "GCCreationHandler|"
 msgid "Load"
 msgstr ""
 
-#: core/GCCreationHandler.qml:351
+#: core/GCCreationHandler.qml:348
 msgctxt "GCCreationHandler|"
 msgid "Delete"
 msgstr ""
