@@ -4580,12 +4580,12 @@ msgid ""
 "and the longest hand indicates the seconds."
 msgstr ""
 
-#: activities/clockgame/Clockgame.qml:114
+#: activities/clockgame/Clockgame.qml:115
 msgctxt "Clockgame|"
 msgid "Set the watch to:"
 msgstr "Suidhich an t-uaireadair aig:"
 
-#: activities/clockgame/Clockgame.qml:117
+#: activities/clockgame/Clockgame.qml:118
 #, qt-format
 msgctxt "Clockgame|"
 msgid "%n hour(s)"
@@ -4595,7 +4595,7 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-#: activities/clockgame/Clockgame.qml:120
+#: activities/clockgame/Clockgame.qml:121
 #, qt-format
 msgctxt "Clockgame|"
 msgid "%n minute(s)"
@@ -4605,7 +4605,7 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-#: activities/clockgame/Clockgame.qml:123
+#: activities/clockgame/Clockgame.qml:124
 #, qt-format
 msgctxt "Clockgame|"
 msgid "%n second(s)"
@@ -14458,12 +14458,12 @@ msgid ""
 "that activity."
 msgstr ""
 
-#: activities/menu/Menu.qml:749
+#: activities/menu/Menu.qml:752
 msgctxt "Menu|"
 msgid "Search specific activities"
 msgstr ""
 
-#: activities/menu/Menu.qml:776
+#: activities/menu/Menu.qml:779
 msgctxt "Menu|"
 msgid "Activity Settings"
 msgstr ""
