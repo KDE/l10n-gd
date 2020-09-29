@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-09-09 00:57+0000\n"
+"POT-Creation-Date: 2020-09-29 00:39+0000\n"
 "PO-Revision-Date: 2016-04-29 19:26+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -75,7 +75,7 @@ msgctxt "Name"
 msgid "Now playing (QML)"
 msgstr "'Ga chluich an-dràsta (QML)"
 
-#: examples/applets/nowplaying/metadata.desktop:47
+#: examples/applets/nowplaying/metadata.desktop:48
 msgctxt "Comment"
 msgid "A proof of concept media player controller qml"
 msgstr ""
@@ -87,7 +87,7 @@ msgctxt "Name"
 msgid "Poor Man's Tasks"
 msgstr "Saothraichean an daoine bhochd"
 
-#: examples/applets/qmltasks/metadata.desktop:45
+#: examples/applets/qmltasks/metadata.desktop:46
 msgctxt "Comment"
 msgid "Example showing how to write your own tasks Widget"
 msgstr ""
@@ -129,7 +129,7 @@ msgctxt "Name"
 msgid "Widgets gallery"
 msgstr "Gailearaidh nan widgets"
 
-#: examples/applets/widgetgallery/metadata.desktop:47
+#: examples/applets/widgetgallery/metadata.desktop:48
 msgctxt "Comment"
 msgid "gallery of widgets done with Plasma QtComponents"
 msgstr "Gailearaidh de widgets a chaidh a dhèanamh le QtComponents Plasma"
@@ -139,7 +139,7 @@ msgctxt "Name"
 msgid "Example window thumbnails list"
 msgstr "Ball-eisimpleir le liosta de dhealbhagan uinneige"
 
-#: examples/applets/windowthumbnails/metadata.desktop:44
+#: examples/applets/windowthumbnails/metadata.desktop:45
 msgctxt "Comment"
 msgid "Example showing how to display window thumbnails"
 msgstr "Eisimpleir a sheallas dhut mar a nochdas tu dealbhagan uinneagan"
@@ -154,7 +154,7 @@ msgctxt "Name"
 msgid "Custom DataContainers"
 msgstr "DataContainers gnàthaichte"
 
-#: examples/dataengines/customDataContainers/plasma-dataengine-example-customDataContainers.desktop:44
+#: examples/dataengines/customDataContainers/plasma-dataengine-example-customDataContainers.desktop:45
 msgctxt "Comment"
 msgid "A demonstration of how to subclass DataContainer"
 msgstr ""
@@ -175,7 +175,7 @@ msgctxt "Name"
 msgid "Sources On Request"
 msgstr "Tùsan le iarrtas"
 
-#: examples/dataengines/sourcesOnRequest/plasma-dataengine-example-sourcesOnRequest.desktop:44
+#: examples/dataengines/sourcesOnRequest/plasma-dataengine-example-sourcesOnRequest.desktop:45
 msgctxt "Comment"
 msgid ""
 "A DataEngine example showing how to respond to requests for source creation "
@@ -347,7 +347,7 @@ msgctxt "Name"
 msgid "Declarative widget"
 msgstr "Declarative widget"
 
-#: src/scriptengines/qml/data/plasma-scriptengine-applet-declarative.desktop:49
+#: src/scriptengines/qml/data/plasma-scriptengine-applet-declarative.desktop:50
 msgctxt "Comment"
 msgid "Native Plasma widget written in QML and JavaScript"
 msgstr "Plasma widget tùsail a chaidh a sgrìobhadh le QML agus JavaScript"
@@ -421,7 +421,7 @@ msgctxt "Name"
 msgid "Simple Plasma Wallpaper with QML extension"
 msgstr "Aplaid Plasma"
 
-#: templates/plasma-wallpaper-with-qml-extension/plasma-wallpaper-with-qml-extension.kdevtemplate:37
+#: templates/plasma-wallpaper-with-qml-extension/plasma-wallpaper-with-qml-extension.kdevtemplate:38
 msgctxt "Comment"
 msgid ""
 "A Plasma wallpaper which uses custom API provided by an own QML extension "
