@@ -2648,11 +2648,11 @@ msgctxt "ActivityInfo|"
 msgid "Space: open or close the braille chart"
 msgstr ""
 
-#: activities/braille_alphabets/braille_alphabets.js:58
-#: activities/braille_alphabets/braille_alphabets.js:68
-#: activities/braille_alphabets/braille_alphabets.js:78
-#: activities/braille_alphabets/braille_alphabets.js:88
-#: activities/braille_alphabets/braille_alphabets.js:98
+#: activities/braille_alphabets/braille_alphabets.js:59
+#: activities/braille_alphabets/braille_alphabets.js:69
+#: activities/braille_alphabets/braille_alphabets.js:79
+#: activities/braille_alphabets/braille_alphabets.js:89
+#: activities/braille_alphabets/braille_alphabets.js:99
 #, fuzzy
 #| msgctxt "braille_alphabets|"
 #| msgid "Now it's a little bit harder without the braille map."
@@ -2660,7 +2660,7 @@ msgctxt "braille_alphabets|"
 msgid "Now it's a little bit harder without the reference."
 msgstr "Tha e beagan nas dorra a-nis as aonais a’ mhapa Braille."
 
-#: activities/braille_alphabets/braille_alphabets.js:63
+#: activities/braille_alphabets/braille_alphabets.js:64
 #, fuzzy
 #| msgctxt "braille_alphabets|"
 #| msgid ""
@@ -2674,7 +2674,7 @@ msgstr ""
 "Seall air mapa nan caractaran Braille is mothaich dè cho coltach ri chèile "
 "’s a tha a’ chiad is an dàrna loidhne."
 
-#: activities/braille_alphabets/braille_alphabets.js:73
+#: activities/braille_alphabets/braille_alphabets.js:74
 #, fuzzy
 #| msgctxt "braille_alphabets|"
 #| msgid ""
@@ -2688,7 +2688,7 @@ msgstr ""
 "A-rithist, coltach ris a’ chiad loidhne, ach thoir an aire gun deach an "
 "litir “W” a chur ris an uair sin."
 
-#: activities/braille_alphabets/braille_alphabets.js:83
+#: activities/braille_alphabets/braille_alphabets.js:84
 msgctxt "braille_alphabets|"
 msgid "This is easy, numbers are the same as letters from A to J."
 msgstr ""
@@ -16034,14 +16034,14 @@ msgstr ""
 "Chì thu nì air a’ phrìomh raon is facal neo-choileanta fon dealbh. Tagh an "
 "litir a tha a dhìth gus am facal a dhèanamh coileanta."
 
-#: activities/missing-letter/MissingLetter.qml:321
+#: activities/missing-letter/MissingLetter.qml:322
 msgctxt "MissingLetter|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 "Tha sinn duilich ach chan eil eadar-theangachadh againn ’nad chànan aig an "
 "ìre-sa."
 
-#: activities/missing-letter/MissingLetter.qml:322
+#: activities/missing-letter/MissingLetter.qml:323
 #, qt-format
 msgctxt "MissingLetter|"
 msgid ""
@@ -16052,7 +16052,7 @@ msgstr ""
 "a chumail ris an obair eadar-theangachaidh ma thèid thu gu <a href=\"%2\">"
 "%2</a>"
 
-#: activities/missing-letter/MissingLetter.qml:324
+#: activities/missing-letter/MissingLetter.qml:325
 msgctxt "MissingLetter|"
 msgid ""
 "We switched to English for this activity but you can select another language "
