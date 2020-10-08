@@ -15934,7 +15934,7 @@ msgctxt "ActivityInfo|"
 msgid "metalpaint.wav - remixed and used when a gold nugget is collected"
 msgstr ""
 
-#: activities/mining/Mining.qml:414
+#: activities/mining/Mining.qml:417
 msgctxt "Mining|"
 msgid ""
 "Find the sparkle and zoom in around it. If you have a mouse, point the "
@@ -15949,22 +15949,22 @@ msgstr ""
 "raon cheart an uairsin no dà chorrag san mheadhan. Air raon-suathaidh, slaod "
 "dà chorrag air falbh on lainnir dhan dà thaobh."
 
-#: activities/mining/Mining.qml:425
+#: activities/mining/Mining.qml:428
 msgctxt "Mining|"
 msgid "Perfect you are zooming. Continue until you see the nugget."
 msgstr "Taghta, sin thu a’ sùmadh. Cum a’ dol gus am faic thu an cnap òir."
 
-#: activities/mining/Mining.qml:431
+#: activities/mining/Mining.qml:434
 msgctxt "Mining|"
 msgid "Hum, take care, you are zooming too far from the sparkle."
 msgstr "Thud, an aire, tha thu a’ sùmadh ro fhad air falbh on lainnir."
 
-#: activities/mining/Mining.qml:437
+#: activities/mining/Mining.qml:440
 msgctxt "Mining|"
 msgid "Now you see the nugget, click on it to catch it."
 msgstr "Chì thu an cnap òir a-nis, briog air airson a ghlacadh."
 
-#: activities/mining/Mining.qml:443
+#: activities/mining/Mining.qml:446
 msgctxt "Mining|"
 msgid ""
 "Hum, you are too far from the nugget to see it. Unzoom then zoom again as "
@@ -15973,17 +15973,17 @@ msgstr ""
 "Thud, tha thu ro fhad air falbh on chnap òir is chan fhaic thu e. Sùm a-mach "
 "is a-steach a-rithist, cho faisg air an lainnir is urrainn dhut."
 
-#: activities/mining/Mining.qml:449
+#: activities/mining/Mining.qml:452
 msgctxt "Mining|"
 msgid "Now unzoom and try to find another sparkle."
 msgstr "Sùm a-mach a-nis agus feuch is lorg lainnir eile."
 
-#: activities/mining/Mining.qml:455
+#: activities/mining/Mining.qml:458
 msgctxt "Mining|"
 msgid "Continue to unzoom until you see the sparkle."
 msgstr "Sùm a-mach barrachd gus am faic thu lainnir eile."
 
-#: activities/mining/Mining.qml:461
+#: activities/mining/Mining.qml:464
 msgctxt "Mining|"
 msgid "Now you see the sparkle, go ahead, you can zoom on it."
 msgstr "Chì thu an lainnir a-nis, siuthaid, sùm a-steach air."
