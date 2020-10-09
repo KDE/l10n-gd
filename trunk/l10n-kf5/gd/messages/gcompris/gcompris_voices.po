@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gcompris voices\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-09-07 02:05+0200\n"
+"POT-Creation-Date: 2020-10-09 02:07+0200\n"
 "PO-Revision-Date: 2017-05-27 14:21+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: gd <kde-i18n-doc@kde.org>\n"
@@ -361,9 +361,12 @@ msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "enumerate"
 #: activities/enumerate/ActivityInfo.qml:29
-#, kde-format
+#, fuzzy, kde-format
+#| msgid ""
+#| "Count the elements by organising them then type the answer on your "
+#| "keyboard."
 msgid ""
-"Count the elements by organising them then type the answer on your keyboard."
+"Count the elements by organizing them then type the answer on your keyboard."
 msgstr ""
 "Cuir rian air na nithean agus cunnt iad. An uairsin, sgrìobh an fhreagairt "
 "leis a' mheur-chlàr agad."
