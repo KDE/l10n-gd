@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gcompris voices\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-10-09 02:07+0200\n"
+"POT-Creation-Date: 2020-10-11 02:07+0200\n"
 "PO-Revision-Date: 2017-05-27 14:21+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: gd <kde-i18n-doc@kde.org>\n"
@@ -307,15 +307,17 @@ msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "color_mix"
 #: activities/color_mix/ActivityInfo.qml:29
-#, kde-format
-msgid "Match the colour by moving the sliders on the tubes of paint"
+#, fuzzy, kde-format
+#| msgid "Match the colour by moving the sliders on the tubes of paint"
+msgid "Match the color by moving the sliders on the tubes of paint"
 msgstr ""
 "Dèan an t-aon dath is tu a' gluasad na sleamhnachain air na tiùban peanta."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "color_mix_light"
 #: activities/color_mix_light/ActivityInfo.qml:29
-#, kde-format
-msgid "Match the colour by moving the sliders on the torches"
+#, fuzzy, kde-format
+#| msgid "Match the colour by moving the sliders on the torches"
+msgid "Match the color by moving the sliders on the torches"
 msgstr "Dèan an t-aon dath is tu a' gluasad na sleamhnachain air na lòchrain."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "colors"
