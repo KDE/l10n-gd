@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kactivities5\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-02-24 03:39+0100\n"
+"POT-Creation-Date: 2020-10-14 02:28+0200\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -19,19 +19,19 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 "X-Project-Style: kde\n"
 
-#: service/Activities.cpp:134
+#: service/Activities.cpp:120
 #, kde-format
 msgid "Default"
 msgstr "Thùsail"
 
-#: service/plugins/globalshortcuts/GlobalShortcutsPlugin.cpp:42
+#: service/plugins/globalshortcuts/GlobalShortcutsPlugin.cpp:31
 #, fuzzy, kde-format
 #| msgid "Activity name"
 msgid "Activity Manager"
 msgstr "Ainm na gnìomhachd"
 
-#: service/plugins/globalshortcuts/GlobalShortcutsPlugin.cpp:89
-#: service/plugins/globalshortcuts/GlobalShortcutsPlugin.cpp:123
+#: service/plugins/globalshortcuts/GlobalShortcutsPlugin.cpp:78
+#: service/plugins/globalshortcuts/GlobalShortcutsPlugin.cpp:112
 #, kde-format
 msgctxt "@action"
 msgid "Switch to activity \"%1\""
