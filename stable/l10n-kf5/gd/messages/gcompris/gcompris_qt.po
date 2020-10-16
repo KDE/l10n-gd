@@ -13601,17 +13601,6 @@ msgctxt "MagicHat|"
 msgid "Click on the hat to begin the game"
 msgstr "Briog air an ad airson an geama a chur gu dol"
 
-#. The math operation
-#: activities/magic-hat-minus/MagicHat.qml:109
-msgctxt "MagicHat|"
-msgid "−"
-msgstr ""
-
-#: activities/magic-hat-minus/MagicHat.qml:109
-msgctxt "MagicHat|"
-msgid "+"
-msgstr "+"
-
 #: activities/magic-hat-minus/resource/1/Data.qml:24
 msgctxt "Data|"
 msgid "Calculate remaining stars up to 5."
@@ -23489,6 +23478,10 @@ msgstr "Gearr leum"
 msgctxt "Tutorial|"
 msgid "Start"
 msgstr ""
+
+#~ msgctxt "MagicHat|"
+#~ msgid "+"
+#~ msgstr "+"
 
 #~ msgctxt "ActivityInfo|"
 #~ msgid ""
