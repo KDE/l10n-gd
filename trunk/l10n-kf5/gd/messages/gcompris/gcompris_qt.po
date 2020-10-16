@@ -12323,17 +12323,6 @@ msgctxt "MagicHat|"
 msgid "Click on the hat to begin the game"
 msgstr "Breab am bàla dhan tadhal"
 
-#. The math operation
-#: activities/magic-hat-minus/MagicHat.qml:109
-msgctxt "MagicHat|"
-msgid "−"
-msgstr ""
-
-#: activities/magic-hat-minus/MagicHat.qml:109
-msgctxt "MagicHat|"
-msgid "+"
-msgstr ""
-
 #: activities/magic-hat-minus/resource/1/Data.qml:24
 msgctxt "Data|"
 msgid "Calculate remaining stars up to 5."
