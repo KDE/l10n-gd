@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4support\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-03 02:53+0100\n"
+"POT-Creation-Date: 2020-10-24 02:11+0200\n"
 "PO-Revision-Date: 2016-04-30 17:39+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -2436,71 +2436,71 @@ msgstr "Cuir an raon air"
 msgid "Turn area off"
 msgstr "Cuir an raon dheth"
 
-#: kdecore/k3resolver.cpp:534 kdecore/netsupp.cpp:868
+#: kdecore/k3resolver.cpp:533 kdecore/netsupp.cpp:865
 #, kde-format
 msgid "no error"
 msgstr "gun mhearachd"
 
-#: kdecore/k3resolver.cpp:535
+#: kdecore/k3resolver.cpp:534
 #, kde-format
 msgid "requested family not supported for this host name"
 msgstr ""
 "cha chuirear taic ris an teaghlach a chaidh iarraidh airson ainm an òstair "
 "seo"
 
-#: kdecore/k3resolver.cpp:536 kdecore/netsupp.cpp:870
+#: kdecore/k3resolver.cpp:535 kdecore/netsupp.cpp:867
 #, kde-format
 msgid "temporary failure in name resolution"
 msgstr "dh'fhàillig le rèiteachadh an ainm gu sealach"
 
-#: kdecore/k3resolver.cpp:537 kdecore/netsupp.cpp:872
+#: kdecore/k3resolver.cpp:536 kdecore/netsupp.cpp:869
 #, kde-format
 msgid "non-recoverable failure in name resolution"
 msgstr "dh'fhàillig le rèiteachadh an ainm 's cha ghabh aiseag"
 
-#: kdecore/k3resolver.cpp:538
+#: kdecore/k3resolver.cpp:537
 #, kde-format
 msgid "invalid flags"
 msgstr "brataich mhì-dhligheach"
 
-#: kdecore/k3resolver.cpp:539 kdecore/netsupp.cpp:874
+#: kdecore/k3resolver.cpp:538 kdecore/netsupp.cpp:871
 #, kde-format
 msgid "memory allocation failure"
 msgstr "dh'fhàillig le riarachadh cuimhne"
 
-#: kdecore/k3resolver.cpp:540 kdecore/netsupp.cpp:876
+#: kdecore/k3resolver.cpp:539 kdecore/netsupp.cpp:873
 #, kde-format
 msgid "name or service not known"
 msgstr "chan aithne dhuinn an t-ainm no seirbheis"
 
-#: kdecore/k3resolver.cpp:541
+#: kdecore/k3resolver.cpp:540
 #, kde-format
 msgid "requested family not supported"
 msgstr "cha chuirear taic ris an teaghlach a chaidh iarraidh"
 
-#: kdecore/k3resolver.cpp:542
+#: kdecore/k3resolver.cpp:541
 #, kde-format
 msgid "requested service not supported for this socket type"
 msgstr ""
 "cha chuirear taic ris an teaghlach a chaidh iarraidh le seòrsa na socaide seo"
 
-#: kdecore/k3resolver.cpp:543
+#: kdecore/k3resolver.cpp:542
 #, kde-format
 msgid "requested socket type not supported"
 msgstr "cha chuirear taic ri seòrsa na socaide a chaidh iarraidh"
 
-#: kdecore/k3resolver.cpp:544
+#: kdecore/k3resolver.cpp:543
 #, kde-format
 msgid "unknown error"
 msgstr "mearachd nach aithne dhuinn"
 
-#: kdecore/k3resolver.cpp:546
+#: kdecore/k3resolver.cpp:545
 #, kde-format
 msgctxt "1: the i18n'ed system error code, from errno"
 msgid "system error: %1"
 msgstr "mearachd an t-siostaim: %1"
 
-#: kdecore/k3resolver.cpp:557
+#: kdecore/k3resolver.cpp:556
 #, kde-format
 msgid "request was canceled"
 msgstr "chaidh sgur dhen iarrtas"
@@ -7497,7 +7497,7 @@ msgstr "m"
 msgid "pm"
 msgstr "f"
 
-#: kdecore/klibloader.cpp:101
+#: kdecore/klibloader.cpp:100
 #, kde-format
 msgid "Library \"%1\" not found"
 msgstr "Cha deach an leabharlann \"%1\" a lorg"
@@ -7954,37 +7954,37 @@ msgstr "Mearachd le ainm ùr a chur air."
 msgid "Timed out trying to connect to remote host"
 msgstr "Dh'fhalbh an ùine oirnn a' fheuchainn ri ceangal ri òstair cèin"
 
-#: kdecore/netsupp.cpp:869
+#: kdecore/netsupp.cpp:866
 #, kde-format
 msgid "address family for nodename not supported"
 msgstr "cha chuirear taic ri teaghlach nan seòlaidhean airson ainm an nòd"
 
-#: kdecore/netsupp.cpp:871
+#: kdecore/netsupp.cpp:868
 #, kde-format
 msgid "invalid value for 'ai_flags'"
 msgstr "luach mì-dhligheach airson \"ai_flags\""
 
-#: kdecore/netsupp.cpp:873
+#: kdecore/netsupp.cpp:870
 #, kde-format
 msgid "'ai_family' not supported"
 msgstr "cha chuirear taic ri \"ai_family\""
 
-#: kdecore/netsupp.cpp:875
+#: kdecore/netsupp.cpp:872
 #, kde-format
 msgid "no address associated with nodename"
 msgstr "chan eil seòladh co-cheangailte ri ainm an nòd"
 
-#: kdecore/netsupp.cpp:877
+#: kdecore/netsupp.cpp:874
 #, kde-format
 msgid "servname not supported for ai_socktype"
 msgstr "cha chuirear taic ri ainm an fhrithealaiche airson \"ai_socktype\""
 
-#: kdecore/netsupp.cpp:878
+#: kdecore/netsupp.cpp:875
 #, kde-format
 msgid "'ai_socktype' not supported"
 msgstr "cha chuirear taic ri \"ai_socktype\""
 
-#: kdecore/netsupp.cpp:879
+#: kdecore/netsupp.cpp:876
 #, kde-format
 msgid "system error"
 msgstr "mearachd an t-siostaim"
@@ -11937,7 +11937,7 @@ msgstr "Sgìre"
 msgid "Comment"
 msgstr "Beachd"
 
-#: kdeui/kapplication.cpp:743
+#: kdeui/kapplication.cpp:741
 #, kde-format
 msgid "The style '%1' was not found"
 msgstr "cha deach an stoidhle \"%1\" a lorg"
@@ -12174,12 +12174,12 @@ msgstr "1"
 msgid "Select Font"
 msgstr "Tagh cruth-clò"
 
-#: kdeui/kprintpreview.cpp:119
+#: kdeui/kprintpreview.cpp:118
 #, kde-format
 msgid "Could not load print preview part"
 msgstr "Cha b' urrainn dhuinn ro-shealladh a' chlò-bhualaidh a luchdadh"
 
-#: kdeui/kprintpreview.cpp:136
+#: kdeui/kprintpreview.cpp:135
 #, kde-format
 msgid "Print Preview"
 msgstr "Ro-shealladh a' chlò-bhualaidh"
@@ -12254,7 +12254,7 @@ msgctxt "@title:window"
 msgid "Add Comment"
 msgstr "Cuir beachd ris"
 
-#: kio/kdevicelistmodel.cpp:116
+#: kio/kdevicelistmodel.cpp:115
 #, kde-format
 msgid "Device name"
 msgstr "Ainm an uidheim"

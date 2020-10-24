@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-10-23 02:13+0200\n"
+"POT-Creation-Date: 2020-10-24 02:12+0200\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -88,7 +88,7 @@ msgstr "Mearachd Open Collaboration Service API nach aihne dhuinn. (%1)"
 msgid "Download New Stuff..."
 msgstr "Luchdaich a-nuas stuth ùr..."
 
-#: core/commentsmodel.cpp:170
+#: core/commentsmodel.cpp:168
 #, kde-format
 msgctxt ""
 "The value returned for an unknown role when requesting data from the model."
@@ -618,19 +618,19 @@ msgstr "Lean air"
 msgid "Install"
 msgstr "Stàlaich"
 
-#: kmoretools/kmoretools.cpp:534
+#: kmoretools/kmoretools.cpp:533
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Not installed:"
 msgstr "Gun stàladh:"
 
-#: kmoretools/kmoretools.cpp:630
+#: kmoretools/kmoretools.cpp:629
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "More"
 msgstr "Barrachd"
 
-#: kmoretools/kmoretools.cpp:668
+#: kmoretools/kmoretools.cpp:667
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Configure..."
@@ -1187,7 +1187,7 @@ msgstr ""
 msgid "None"
 msgstr ""
 
-#: qtquick/quickengine.cpp:136
+#: qtquick/quickengine.cpp:135
 #, kde-format
 msgctxt ""
 "An informational message which is shown to inform the user they are not "
