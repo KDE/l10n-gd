@@ -4054,22 +4054,22 @@ msgctxt "board1_0|"
 msgid "Moonwalker"
 msgstr ""
 
-#: activities/chronos/resource/board/board1_0.qml:52
+#: activities/chronos/resource/board/board1_0.qml:60
 msgctxt "board1_0|"
 msgid "1"
 msgstr ""
 
-#: activities/chronos/resource/board/board1_0.qml:59
+#: activities/chronos/resource/board/board1_0.qml:68
 msgctxt "board1_0|"
 msgid "2"
 msgstr ""
 
-#: activities/chronos/resource/board/board1_0.qml:66
+#: activities/chronos/resource/board/board1_0.qml:76
 msgctxt "board1_0|"
 msgid "3"
 msgstr ""
 
-#: activities/chronos/resource/board/board1_0.qml:73
+#: activities/chronos/resource/board/board1_0.qml:84
 msgctxt "board1_0|"
 msgid "4"
 msgstr ""
@@ -4084,17 +4084,17 @@ msgctxt "board2_0|"
 msgid "Spring"
 msgstr ""
 
-#: activities/chronos/resource/board/board2_0.qml:63
+#: activities/chronos/resource/board/board2_0.qml:64
 msgctxt "board2_0|"
 msgid "Summer"
 msgstr ""
 
-#: activities/chronos/resource/board/board2_0.qml:70
+#: activities/chronos/resource/board/board2_0.qml:72
 msgctxt "board2_0|"
 msgid "Autumn"
 msgstr ""
 
-#: activities/chronos/resource/board/board2_0.qml:77
+#: activities/chronos/resource/board/board2_0.qml:80
 msgctxt "board2_0|"
 msgid "Winter"
 msgstr ""
@@ -4109,17 +4109,17 @@ msgctxt "board3_0|"
 msgid "1"
 msgstr ""
 
-#: activities/chronos/resource/board/board3_0.qml:63
+#: activities/chronos/resource/board/board3_0.qml:64
 msgctxt "board3_0|"
 msgid "2"
 msgstr ""
 
-#: activities/chronos/resource/board/board3_0.qml:70
+#: activities/chronos/resource/board/board3_0.qml:72
 msgctxt "board3_0|"
 msgid "3"
 msgstr ""
 
-#: activities/chronos/resource/board/board3_0.qml:77
+#: activities/chronos/resource/board/board3_0.qml:80
 msgctxt "board3_0|"
 msgid "4"
 msgstr ""
@@ -4134,17 +4134,17 @@ msgctxt "board4_0|"
 msgid "1"
 msgstr ""
 
-#: activities/chronos/resource/board/board4_0.qml:63
+#: activities/chronos/resource/board/board4_0.qml:64
 msgctxt "board4_0|"
 msgid "2"
 msgstr ""
 
-#: activities/chronos/resource/board/board4_0.qml:70
+#: activities/chronos/resource/board/board4_0.qml:72
 msgctxt "board4_0|"
 msgid "3"
 msgstr ""
 
-#: activities/chronos/resource/board/board4_0.qml:77
+#: activities/chronos/resource/board/board4_0.qml:80
 msgctxt "board4_0|"
 msgid "4"
 msgstr ""
@@ -4159,12 +4159,12 @@ msgctxt "board5_0|"
 msgid "1829 Stephenson's Rocket Steam locomotive"
 msgstr ""
 
-#: activities/chronos/resource/board/board5_0.qml:50
+#: activities/chronos/resource/board/board5_0.qml:51
 msgctxt "board5_0|"
 msgid "1769 Cugnot's fardier"
 msgstr ""
 
-#: activities/chronos/resource/board/board5_0.qml:57
+#: activities/chronos/resource/board/board5_0.qml:59
 msgctxt "board5_0|"
 msgid "Transportation"
 msgstr ""
@@ -4179,12 +4179,12 @@ msgctxt "board5_1|"
 msgid "1783 Montgolfier brothers' hot air balloon"
 msgstr ""
 
-#: activities/chronos/resource/board/board5_1.qml:56
+#: activities/chronos/resource/board/board5_1.qml:57
 msgctxt "board5_1|"
 msgid "1880 Clement Ader's Eole"
 msgstr ""
 
-#: activities/chronos/resource/board/board5_1.qml:63
+#: activities/chronos/resource/board/board5_1.qml:65
 msgctxt "board5_1|"
 msgid "1906 Paul Cornu First helicopter flight"
 msgstr ""
@@ -4199,12 +4199,12 @@ msgctxt "board5_2|"
 msgid "1791 Comte de Sivrac's Celerifere"
 msgstr ""
 
-#: activities/chronos/resource/board/board5_2.qml:56
+#: activities/chronos/resource/board/board5_2.qml:57
 msgctxt "board5_2|"
 msgid "1769 Cugnot's fardier"
 msgstr ""
 
-#: activities/chronos/resource/board/board5_2.qml:63
+#: activities/chronos/resource/board/board5_2.qml:65
 msgctxt "board5_2|"
 msgid "1880 Clement Ader's Eole"
 msgstr ""
@@ -4219,12 +4219,12 @@ msgctxt "board5_3|"
 msgid "1791 Comte de Sivrac's Celerifere"
 msgstr ""
 
-#: activities/chronos/resource/board/board5_3.qml:56
+#: activities/chronos/resource/board/board5_3.qml:57
 msgctxt "board5_3|"
 msgid "1783 Montgolfier brothers' hot air balloon"
 msgstr ""
 
-#: activities/chronos/resource/board/board5_3.qml:63
+#: activities/chronos/resource/board/board5_3.qml:65
 msgctxt "board5_3|"
 msgid "1829 Stephenson's Rocket Steam locomotive"
 msgstr ""
@@ -4239,12 +4239,12 @@ msgctxt "board5_4|"
 msgid "1829 Stephenson's Rocket Steam locomotive"
 msgstr ""
 
-#: activities/chronos/resource/board/board5_4.qml:56
+#: activities/chronos/resource/board/board5_4.qml:57
 msgctxt "board5_4|"
 msgid "1880 Clement Ader's Eole"
 msgstr ""
 
-#: activities/chronos/resource/board/board5_4.qml:63
+#: activities/chronos/resource/board/board5_4.qml:65
 msgctxt "board5_4|"
 msgid "1769 Cugnot's fardier"
 msgstr ""
@@ -4262,12 +4262,12 @@ msgctxt "board6_0|"
 msgid "1880 Clement Ader's Eole"
 msgstr ""
 
-#: activities/chronos/resource/board/board6_0.qml:57
+#: activities/chronos/resource/board/board6_0.qml:58
 msgctxt "board6_0|"
 msgid "1903 The Wright brothers' Flyer III"
 msgstr ""
 
-#: activities/chronos/resource/board/board6_0.qml:64
+#: activities/chronos/resource/board/board6_0.qml:66
 msgctxt "board6_0|"
 msgid "1909 Louis Bleriot crosses the English Channel"
 msgstr ""
@@ -4285,12 +4285,12 @@ msgctxt "board6_1|"
 msgid "1947 Chuck Yeager breaks the sound-barrier"
 msgstr ""
 
-#: activities/chronos/resource/board/board6_1.qml:56
+#: activities/chronos/resource/board/board6_1.qml:57
 msgctxt "board6_1|"
 msgid "1927 Charles Lindbergh crosses the Atlantic Ocean"
 msgstr ""
 
-#: activities/chronos/resource/board/board6_1.qml:63
+#: activities/chronos/resource/board/board6_1.qml:65
 msgctxt "board6_1|"
 msgid "1934 Hélène Boucher's speed record of 444km/h"
 msgstr ""
@@ -4305,12 +4305,12 @@ msgctxt "board6_2|"
 msgid "1878 Amédée Bollée's La Mancelle"
 msgstr ""
 
-#: activities/chronos/resource/board/board6_2.qml:56
+#: activities/chronos/resource/board/board6_2.qml:57
 msgctxt "board6_2|"
 msgid "1769 Cugnot's fardier"
 msgstr ""
 
-#: activities/chronos/resource/board/board6_2.qml:63
+#: activities/chronos/resource/board/board6_2.qml:65
 msgctxt "board6_2|"
 msgid "1885 The first petrol car by Benz"
 msgstr ""
@@ -4325,12 +4325,12 @@ msgctxt "board6_3|"
 msgid "1899 Renault voiturette"
 msgstr ""
 
-#: activities/chronos/resource/board/board6_3.qml:56
+#: activities/chronos/resource/board/board6_3.qml:57
 msgctxt "board6_3|"
 msgid "1923 Lancia Lambda"
 msgstr ""
 
-#: activities/chronos/resource/board/board6_3.qml:63
+#: activities/chronos/resource/board/board6_3.qml:65
 msgctxt "board6_3|"
 msgid "1955 Citroën DS 19"
 msgstr ""
@@ -10857,27 +10857,27 @@ msgctxt "board1_0|"
 msgid "mail box"
 msgstr ""
 
-#: activities/imagename/resource/board/board1_0.qml:77
+#: activities/imagename/resource/board/board1_0.qml:78
 msgctxt "board1_0|"
 msgid "sailing boat"
 msgstr ""
 
-#: activities/imagename/resource/board/board1_0.qml:84
+#: activities/imagename/resource/board/board1_0.qml:86
 msgctxt "board1_0|"
 msgid "lamp"
 msgstr ""
 
-#: activities/imagename/resource/board/board1_0.qml:91
+#: activities/imagename/resource/board/board1_0.qml:94
 msgctxt "board1_0|"
 msgid "postcard"
 msgstr ""
 
-#: activities/imagename/resource/board/board1_0.qml:98
+#: activities/imagename/resource/board/board1_0.qml:102
 msgctxt "board1_0|"
 msgid "fishing boat"
 msgstr ""
 
-#: activities/imagename/resource/board/board1_0.qml:105
+#: activities/imagename/resource/board/board1_0.qml:110
 msgctxt "board1_0|"
 msgid "bulb"
 msgstr ""
@@ -10887,27 +10887,27 @@ msgctxt "board2_0|"
 msgid "bottle"
 msgstr ""
 
-#: activities/imagename/resource/board/board2_0.qml:76
+#: activities/imagename/resource/board/board2_0.qml:77
 msgctxt "board2_0|"
 msgid "glass"
 msgstr ""
 
-#: activities/imagename/resource/board/board2_0.qml:83
+#: activities/imagename/resource/board/board2_0.qml:85
 msgctxt "board2_0|"
 msgid "egg"
 msgstr ""
 
-#: activities/imagename/resource/board/board2_0.qml:90
+#: activities/imagename/resource/board/board2_0.qml:93
 msgctxt "board2_0|"
 msgid "eggcup"
 msgstr ""
 
-#: activities/imagename/resource/board/board2_0.qml:97
+#: activities/imagename/resource/board/board2_0.qml:101
 msgctxt "board2_0|"
 msgid "flower"
 msgstr ""
 
-#: activities/imagename/resource/board/board2_0.qml:104
+#: activities/imagename/resource/board/board2_0.qml:109
 msgctxt "board2_0|"
 msgid "vase"
 msgstr ""
@@ -10917,22 +10917,22 @@ msgctxt "board3_0|"
 msgid "rocket"
 msgstr ""
 
-#: activities/imagename/resource/board/board3_0.qml:76
+#: activities/imagename/resource/board/board3_0.qml:77
 msgctxt "board3_0|"
 msgid "star"
 msgstr ""
 
-#: activities/imagename/resource/board/board3_0.qml:83
+#: activities/imagename/resource/board/board3_0.qml:85
 msgctxt "board3_0|"
 msgid "sofa"
 msgstr ""
 
-#: activities/imagename/resource/board/board3_0.qml:90
+#: activities/imagename/resource/board/board3_0.qml:93
 msgctxt "board3_0|"
 msgid "house"
 msgstr ""
 
-#: activities/imagename/resource/board/board3_0.qml:97
+#: activities/imagename/resource/board/board3_0.qml:101
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Click the mouse"
@@ -10940,7 +10940,7 @@ msgctxt "board3_0|"
 msgid "light house"
 msgstr "Briog leis an luchag"
 
-#: activities/imagename/resource/board/board3_0.qml:104
+#: activities/imagename/resource/board/board3_0.qml:109
 msgctxt "board3_0|"
 msgid "sailing boat"
 msgstr ""
@@ -10950,27 +10950,27 @@ msgctxt "board4_0|"
 msgid "apple"
 msgstr ""
 
-#: activities/imagename/resource/board/board4_0.qml:76
+#: activities/imagename/resource/board/board4_0.qml:77
 msgctxt "board4_0|"
 msgid "tree"
 msgstr ""
 
-#: activities/imagename/resource/board/board4_0.qml:83
+#: activities/imagename/resource/board/board4_0.qml:85
 msgctxt "board4_0|"
 msgid "bicycle"
 msgstr ""
 
-#: activities/imagename/resource/board/board4_0.qml:90
+#: activities/imagename/resource/board/board4_0.qml:93
 msgctxt "board4_0|"
 msgid "car"
 msgstr ""
 
-#: activities/imagename/resource/board/board4_0.qml:97
+#: activities/imagename/resource/board/board4_0.qml:101
 msgctxt "board4_0|"
 msgid "carrot"
 msgstr ""
 
-#: activities/imagename/resource/board/board4_0.qml:104
+#: activities/imagename/resource/board/board4_0.qml:109
 msgctxt "board4_0|"
 msgid "grater"
 msgstr ""
@@ -10980,27 +10980,27 @@ msgctxt "board5_0|"
 msgid "pencil"
 msgstr ""
 
-#: activities/imagename/resource/board/board5_0.qml:76
+#: activities/imagename/resource/board/board5_0.qml:77
 msgctxt "board5_0|"
 msgid "postcard"
 msgstr ""
 
-#: activities/imagename/resource/board/board5_0.qml:83
+#: activities/imagename/resource/board/board5_0.qml:85
 msgctxt "board5_0|"
 msgid "tree"
 msgstr ""
 
-#: activities/imagename/resource/board/board5_0.qml:90
+#: activities/imagename/resource/board/board5_0.qml:93
 msgctxt "board5_0|"
 msgid "star"
 msgstr ""
 
-#: activities/imagename/resource/board/board5_0.qml:97
+#: activities/imagename/resource/board/board5_0.qml:101
 msgctxt "board5_0|"
 msgid "truck"
 msgstr ""
 
-#: activities/imagename/resource/board/board5_0.qml:104
+#: activities/imagename/resource/board/board5_0.qml:109
 msgctxt "board5_0|"
 msgid "van"
 msgstr ""
@@ -11010,27 +11010,27 @@ msgctxt "board6_0|"
 msgid "castle"
 msgstr ""
 
-#: activities/imagename/resource/board/board6_0.qml:76
+#: activities/imagename/resource/board/board6_0.qml:77
 msgctxt "board6_0|"
 msgid "crown"
 msgstr ""
 
-#: activities/imagename/resource/board/board6_0.qml:83
+#: activities/imagename/resource/board/board6_0.qml:85
 msgctxt "board6_0|"
 msgid "sailing boat"
 msgstr ""
 
-#: activities/imagename/resource/board/board6_0.qml:90
+#: activities/imagename/resource/board/board6_0.qml:93
 msgctxt "board6_0|"
 msgid "flag"
 msgstr ""
 
-#: activities/imagename/resource/board/board6_0.qml:97
+#: activities/imagename/resource/board/board6_0.qml:101
 msgctxt "board6_0|"
 msgid "racket"
 msgstr ""
 
-#: activities/imagename/resource/board/board6_0.qml:104
+#: activities/imagename/resource/board/board6_0.qml:109
 msgctxt "board6_0|"
 msgid "ball"
 msgstr ""
@@ -11040,27 +11040,27 @@ msgctxt "board7_0|"
 msgid "tree"
 msgstr ""
 
-#: activities/imagename/resource/board/board7_0.qml:76
+#: activities/imagename/resource/board/board7_0.qml:77
 msgctxt "board7_0|"
 msgid "mail box"
 msgstr ""
 
-#: activities/imagename/resource/board/board7_0.qml:83
+#: activities/imagename/resource/board/board7_0.qml:85
 msgctxt "board7_0|"
 msgid "sailing boat"
 msgstr ""
 
-#: activities/imagename/resource/board/board7_0.qml:90
+#: activities/imagename/resource/board/board7_0.qml:93
 msgctxt "board7_0|"
 msgid "bulb"
 msgstr ""
 
-#: activities/imagename/resource/board/board7_0.qml:97
+#: activities/imagename/resource/board/board7_0.qml:101
 msgctxt "board7_0|"
 msgid "bottle"
 msgstr ""
 
-#: activities/imagename/resource/board/board7_0.qml:104
+#: activities/imagename/resource/board/board7_0.qml:109
 msgctxt "board7_0|"
 msgid "flower"
 msgstr ""
