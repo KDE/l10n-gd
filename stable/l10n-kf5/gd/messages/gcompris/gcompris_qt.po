@@ -4609,22 +4609,22 @@ msgctxt "board1_0|"
 msgid "Moonwalker"
 msgstr "A’ coiseachd na gealaich"
 
-#: activities/chronos/resource/board/board1_0.qml:52
+#: activities/chronos/resource/board/board1_0.qml:60
 msgctxt "board1_0|"
 msgid "1"
 msgstr "1"
 
-#: activities/chronos/resource/board/board1_0.qml:59
+#: activities/chronos/resource/board/board1_0.qml:68
 msgctxt "board1_0|"
 msgid "2"
 msgstr "2"
 
-#: activities/chronos/resource/board/board1_0.qml:66
+#: activities/chronos/resource/board/board1_0.qml:76
 msgctxt "board1_0|"
 msgid "3"
 msgstr "3"
 
-#: activities/chronos/resource/board/board1_0.qml:73
+#: activities/chronos/resource/board/board1_0.qml:84
 msgctxt "board1_0|"
 msgid "4"
 msgstr "4"
@@ -4639,17 +4639,17 @@ msgctxt "board2_0|"
 msgid "Spring"
 msgstr "Earrach"
 
-#: activities/chronos/resource/board/board2_0.qml:63
+#: activities/chronos/resource/board/board2_0.qml:64
 msgctxt "board2_0|"
 msgid "Summer"
 msgstr "Samhradh"
 
-#: activities/chronos/resource/board/board2_0.qml:70
+#: activities/chronos/resource/board/board2_0.qml:72
 msgctxt "board2_0|"
 msgid "Autumn"
 msgstr "Foghar"
 
-#: activities/chronos/resource/board/board2_0.qml:77
+#: activities/chronos/resource/board/board2_0.qml:80
 msgctxt "board2_0|"
 msgid "Winter"
 msgstr "Geamhradh"
@@ -4664,17 +4664,17 @@ msgctxt "board3_0|"
 msgid "1"
 msgstr "1"
 
-#: activities/chronos/resource/board/board3_0.qml:63
+#: activities/chronos/resource/board/board3_0.qml:64
 msgctxt "board3_0|"
 msgid "2"
 msgstr "2"
 
-#: activities/chronos/resource/board/board3_0.qml:70
+#: activities/chronos/resource/board/board3_0.qml:72
 msgctxt "board3_0|"
 msgid "3"
 msgstr "3"
 
-#: activities/chronos/resource/board/board3_0.qml:77
+#: activities/chronos/resource/board/board3_0.qml:80
 msgctxt "board3_0|"
 msgid "4"
 msgstr "4"
@@ -4689,17 +4689,17 @@ msgctxt "board4_0|"
 msgid "1"
 msgstr "1"
 
-#: activities/chronos/resource/board/board4_0.qml:63
+#: activities/chronos/resource/board/board4_0.qml:64
 msgctxt "board4_0|"
 msgid "2"
 msgstr "2"
 
-#: activities/chronos/resource/board/board4_0.qml:70
+#: activities/chronos/resource/board/board4_0.qml:72
 msgctxt "board4_0|"
 msgid "3"
 msgstr "3"
 
-#: activities/chronos/resource/board/board4_0.qml:77
+#: activities/chronos/resource/board/board4_0.qml:80
 msgctxt "board4_0|"
 msgid "4"
 msgstr "4"
@@ -4719,12 +4719,12 @@ msgctxt "board5_0|"
 msgid "1829 Stephenson's Rocket Steam locomotive"
 msgstr "1829 Carbad-smùide “Rocket” le Stephenson"
 
-#: activities/chronos/resource/board/board5_0.qml:50
+#: activities/chronos/resource/board/board5_0.qml:51
 msgctxt "board5_0|"
 msgid "1769 Cugnot's fardier"
 msgstr "1769 Fardier à vapeur le Cugnot"
 
-#: activities/chronos/resource/board/board5_0.qml:57
+#: activities/chronos/resource/board/board5_0.qml:59
 msgctxt "board5_0|"
 msgid "Transportation"
 msgstr "Giùlan"
@@ -4739,12 +4739,12 @@ msgctxt "board5_1|"
 msgid "1783 Montgolfier brothers' hot air balloon"
 msgstr "1783 Bailiùn adhair theth leis na bràithrean Montgolfier"
 
-#: activities/chronos/resource/board/board5_1.qml:56
+#: activities/chronos/resource/board/board5_1.qml:57
 msgctxt "board5_1|"
 msgid "1880 Clement Ader's Eole"
 msgstr "1880 Eole le Clement Ader"
 
-#: activities/chronos/resource/board/board5_1.qml:63
+#: activities/chronos/resource/board/board5_1.qml:65
 msgctxt "board5_1|"
 msgid "1906 Paul Cornu First helicopter flight"
 msgstr "1906 Paul Cornu, a’ chiad itealaich heileacoptair"
@@ -4759,12 +4759,12 @@ msgctxt "board5_2|"
 msgid "1791 Comte de Sivrac's Celerifere"
 msgstr "1791 Celerifere le Comte de Sivrac"
 
-#: activities/chronos/resource/board/board5_2.qml:56
+#: activities/chronos/resource/board/board5_2.qml:57
 msgctxt "board5_2|"
 msgid "1769 Cugnot's fardier"
 msgstr "1769 Fardier à vapeur le Cugnot"
 
-#: activities/chronos/resource/board/board5_2.qml:63
+#: activities/chronos/resource/board/board5_2.qml:65
 msgctxt "board5_2|"
 msgid "1880 Clement Ader's Eole"
 msgstr "1880 Eole le Clement Ader"
@@ -4779,12 +4779,12 @@ msgctxt "board5_3|"
 msgid "1791 Comte de Sivrac's Celerifere"
 msgstr "1791 Celerifere le Comte de Sivrac"
 
-#: activities/chronos/resource/board/board5_3.qml:56
+#: activities/chronos/resource/board/board5_3.qml:57
 msgctxt "board5_3|"
 msgid "1783 Montgolfier brothers' hot air balloon"
 msgstr "1783 Bailiùn adhair theth leis na bràithrean Montgolfier"
 
-#: activities/chronos/resource/board/board5_3.qml:63
+#: activities/chronos/resource/board/board5_3.qml:65
 msgctxt "board5_3|"
 msgid "1829 Stephenson's Rocket Steam locomotive"
 msgstr "1829 Carbad-smùide “Rocket” le Stephenson"
@@ -4799,12 +4799,12 @@ msgctxt "board5_4|"
 msgid "1829 Stephenson's Rocket Steam locomotive"
 msgstr "1829 Carbad-smùide “Rocket” le Stephenson"
 
-#: activities/chronos/resource/board/board5_4.qml:56
+#: activities/chronos/resource/board/board5_4.qml:57
 msgctxt "board5_4|"
 msgid "1880 Clement Ader's Eole"
 msgstr "1880 Eole le Clement Ader"
 
-#: activities/chronos/resource/board/board5_4.qml:63
+#: activities/chronos/resource/board/board5_4.qml:65
 msgctxt "board5_4|"
 msgid "1769 Cugnot's fardier"
 msgstr "1769 Fardier à vapeur le Cugnot"
@@ -4819,12 +4819,12 @@ msgctxt "board6_0|"
 msgid "1880 Clement Ader's Eole"
 msgstr "1880 Eole le Clement Ader"
 
-#: activities/chronos/resource/board/board6_0.qml:57
+#: activities/chronos/resource/board/board6_0.qml:58
 msgctxt "board6_0|"
 msgid "1903 The Wright brothers' Flyer III"
 msgstr "1903 Flyer III aig na bràithrean Wright"
 
-#: activities/chronos/resource/board/board6_0.qml:64
+#: activities/chronos/resource/board/board6_0.qml:66
 msgctxt "board6_0|"
 msgid "1909 Louis Bleriot crosses the English Channel"
 msgstr "1909 Chaidh Louis Bleriot thairis air Caolas na Frainge"
@@ -4839,12 +4839,12 @@ msgctxt "board6_1|"
 msgid "1947 Chuck Yeager breaks the sound-barrier"
 msgstr "1947 bhris Chuck Yeager bacadh na fuaime"
 
-#: activities/chronos/resource/board/board6_1.qml:56
+#: activities/chronos/resource/board/board6_1.qml:57
 msgctxt "board6_1|"
 msgid "1927 Charles Lindbergh crosses the Atlantic Ocean"
 msgstr "1927 Chaidh Charles Lindbergh thairis air a’ Chuan Shiar"
 
-#: activities/chronos/resource/board/board6_1.qml:63
+#: activities/chronos/resource/board/board6_1.qml:65
 msgctxt "board6_1|"
 msgid "1934 Hélène Boucher's speed record of 444km/h"
 msgstr "1934 Hélène Boucher air clàr curaidh nan astar le 444km/h"
@@ -4859,12 +4859,12 @@ msgctxt "board6_2|"
 msgid "1878 Amédée Bollée's La Mancelle"
 msgstr "1878 “La Mancelle” le Amédée Bollée"
 
-#: activities/chronos/resource/board/board6_2.qml:56
+#: activities/chronos/resource/board/board6_2.qml:57
 msgctxt "board6_2|"
 msgid "1769 Cugnot's fardier"
 msgstr "1769 Fardier à vapeur le Cugnot"
 
-#: activities/chronos/resource/board/board6_2.qml:63
+#: activities/chronos/resource/board/board6_2.qml:65
 msgctxt "board6_2|"
 msgid "1885 The first petrol car by Benz"
 msgstr "1885 A’ chiad chàr peatrail le Benz"
@@ -4879,12 +4879,12 @@ msgctxt "board6_3|"
 msgid "1899 Renault voiturette"
 msgstr "1899 “Voiturette” le Renault"
 
-#: activities/chronos/resource/board/board6_3.qml:56
+#: activities/chronos/resource/board/board6_3.qml:57
 msgctxt "board6_3|"
 msgid "1923 Lancia Lambda"
 msgstr "1923 Lancia Lambda"
 
-#: activities/chronos/resource/board/board6_3.qml:63
+#: activities/chronos/resource/board/board6_3.qml:65
 msgctxt "board6_3|"
 msgid "1955 Citroën DS 19"
 msgstr "1955 Citroën DS 19"
@@ -12016,27 +12016,27 @@ msgctxt "board1_0|"
 msgid "mail box"
 msgstr "bogsa-puist"
 
-#: activities/imagename/resource/board/board1_0.qml:77
+#: activities/imagename/resource/board/board1_0.qml:78
 msgctxt "board1_0|"
 msgid "sailing boat"
 msgstr "bàta-siùil"
 
-#: activities/imagename/resource/board/board1_0.qml:84
+#: activities/imagename/resource/board/board1_0.qml:86
 msgctxt "board1_0|"
 msgid "lamp"
 msgstr "lampa"
 
-#: activities/imagename/resource/board/board1_0.qml:91
+#: activities/imagename/resource/board/board1_0.qml:94
 msgctxt "board1_0|"
 msgid "postcard"
 msgstr "cairt-phuist"
 
-#: activities/imagename/resource/board/board1_0.qml:98
+#: activities/imagename/resource/board/board1_0.qml:102
 msgctxt "board1_0|"
 msgid "fishing boat"
 msgstr "bàta iasgaich"
 
-#: activities/imagename/resource/board/board1_0.qml:105
+#: activities/imagename/resource/board/board1_0.qml:110
 msgctxt "board1_0|"
 msgid "bulb"
 msgstr "bolgan"
@@ -12046,27 +12046,27 @@ msgctxt "board2_0|"
 msgid "bottle"
 msgstr "botal"
 
-#: activities/imagename/resource/board/board2_0.qml:76
+#: activities/imagename/resource/board/board2_0.qml:77
 msgctxt "board2_0|"
 msgid "glass"
 msgstr "glainne"
 
-#: activities/imagename/resource/board/board2_0.qml:83
+#: activities/imagename/resource/board/board2_0.qml:85
 msgctxt "board2_0|"
 msgid "egg"
 msgstr "ugh"
 
-#: activities/imagename/resource/board/board2_0.qml:90
+#: activities/imagename/resource/board/board2_0.qml:93
 msgctxt "board2_0|"
 msgid "eggcup"
 msgstr "cupan uigh"
 
-#: activities/imagename/resource/board/board2_0.qml:97
+#: activities/imagename/resource/board/board2_0.qml:101
 msgctxt "board2_0|"
 msgid "flower"
 msgstr "flùr"
 
-#: activities/imagename/resource/board/board2_0.qml:104
+#: activities/imagename/resource/board/board2_0.qml:109
 msgctxt "board2_0|"
 msgid "vase"
 msgstr "bhàsa"
@@ -12076,27 +12076,27 @@ msgctxt "board3_0|"
 msgid "rocket"
 msgstr "rocaid"
 
-#: activities/imagename/resource/board/board3_0.qml:76
+#: activities/imagename/resource/board/board3_0.qml:77
 msgctxt "board3_0|"
 msgid "star"
 msgstr "rionnag"
 
-#: activities/imagename/resource/board/board3_0.qml:83
+#: activities/imagename/resource/board/board3_0.qml:85
 msgctxt "board3_0|"
 msgid "sofa"
 msgstr "langasaid"
 
-#: activities/imagename/resource/board/board3_0.qml:90
+#: activities/imagename/resource/board/board3_0.qml:93
 msgctxt "board3_0|"
 msgid "house"
 msgstr "taigh"
 
-#: activities/imagename/resource/board/board3_0.qml:97
+#: activities/imagename/resource/board/board3_0.qml:101
 msgctxt "board3_0|"
 msgid "light house"
 msgstr "taigh-solais"
 
-#: activities/imagename/resource/board/board3_0.qml:104
+#: activities/imagename/resource/board/board3_0.qml:109
 msgctxt "board3_0|"
 msgid "sailing boat"
 msgstr "bàta-siùil"
@@ -12106,27 +12106,27 @@ msgctxt "board4_0|"
 msgid "apple"
 msgstr "ubhal"
 
-#: activities/imagename/resource/board/board4_0.qml:76
+#: activities/imagename/resource/board/board4_0.qml:77
 msgctxt "board4_0|"
 msgid "tree"
 msgstr "craobh"
 
-#: activities/imagename/resource/board/board4_0.qml:83
+#: activities/imagename/resource/board/board4_0.qml:85
 msgctxt "board4_0|"
 msgid "bicycle"
 msgstr "rothair"
 
-#: activities/imagename/resource/board/board4_0.qml:90
+#: activities/imagename/resource/board/board4_0.qml:93
 msgctxt "board4_0|"
 msgid "car"
 msgstr "càr"
 
-#: activities/imagename/resource/board/board4_0.qml:97
+#: activities/imagename/resource/board/board4_0.qml:101
 msgctxt "board4_0|"
 msgid "carrot"
 msgstr "curran"
 
-#: activities/imagename/resource/board/board4_0.qml:104
+#: activities/imagename/resource/board/board4_0.qml:109
 msgctxt "board4_0|"
 msgid "grater"
 msgstr "sgrìobair"
@@ -12136,27 +12136,27 @@ msgctxt "board5_0|"
 msgid "pencil"
 msgstr "peann"
 
-#: activities/imagename/resource/board/board5_0.qml:76
+#: activities/imagename/resource/board/board5_0.qml:77
 msgctxt "board5_0|"
 msgid "postcard"
 msgstr "cairt-phuist"
 
-#: activities/imagename/resource/board/board5_0.qml:83
+#: activities/imagename/resource/board/board5_0.qml:85
 msgctxt "board5_0|"
 msgid "tree"
 msgstr "craobh"
 
-#: activities/imagename/resource/board/board5_0.qml:90
+#: activities/imagename/resource/board/board5_0.qml:93
 msgctxt "board5_0|"
 msgid "star"
 msgstr "rionnag"
 
-#: activities/imagename/resource/board/board5_0.qml:97
+#: activities/imagename/resource/board/board5_0.qml:101
 msgctxt "board5_0|"
 msgid "truck"
 msgstr "làraidh"
 
-#: activities/imagename/resource/board/board5_0.qml:104
+#: activities/imagename/resource/board/board5_0.qml:109
 msgctxt "board5_0|"
 msgid "van"
 msgstr "bhana"
@@ -12166,27 +12166,27 @@ msgctxt "board6_0|"
 msgid "castle"
 msgstr "caisteal"
 
-#: activities/imagename/resource/board/board6_0.qml:76
+#: activities/imagename/resource/board/board6_0.qml:77
 msgctxt "board6_0|"
 msgid "crown"
 msgstr "crùn"
 
-#: activities/imagename/resource/board/board6_0.qml:83
+#: activities/imagename/resource/board/board6_0.qml:85
 msgctxt "board6_0|"
 msgid "sailing boat"
 msgstr "bàta-siùil"
 
-#: activities/imagename/resource/board/board6_0.qml:90
+#: activities/imagename/resource/board/board6_0.qml:93
 msgctxt "board6_0|"
 msgid "flag"
 msgstr "bratach"
 
-#: activities/imagename/resource/board/board6_0.qml:97
+#: activities/imagename/resource/board/board6_0.qml:101
 msgctxt "board6_0|"
 msgid "racket"
 msgstr "racaid"
 
-#: activities/imagename/resource/board/board6_0.qml:104
+#: activities/imagename/resource/board/board6_0.qml:109
 msgctxt "board6_0|"
 msgid "ball"
 msgstr "bàla"
@@ -12196,27 +12196,27 @@ msgctxt "board7_0|"
 msgid "tree"
 msgstr "craobh"
 
-#: activities/imagename/resource/board/board7_0.qml:76
+#: activities/imagename/resource/board/board7_0.qml:77
 msgctxt "board7_0|"
 msgid "mail box"
 msgstr "bogsa-puist"
 
-#: activities/imagename/resource/board/board7_0.qml:83
+#: activities/imagename/resource/board/board7_0.qml:85
 msgctxt "board7_0|"
 msgid "sailing boat"
 msgstr "bàta-siùil"
 
-#: activities/imagename/resource/board/board7_0.qml:90
+#: activities/imagename/resource/board/board7_0.qml:93
 msgctxt "board7_0|"
 msgid "bulb"
 msgstr "bolgan"
 
-#: activities/imagename/resource/board/board7_0.qml:97
+#: activities/imagename/resource/board/board7_0.qml:101
 msgctxt "board7_0|"
 msgid "bottle"
 msgstr "botal"
 
-#: activities/imagename/resource/board/board7_0.qml:104
+#: activities/imagename/resource/board/board7_0.qml:109
 msgctxt "board7_0|"
 msgid "flower"
 msgstr "flùr"
