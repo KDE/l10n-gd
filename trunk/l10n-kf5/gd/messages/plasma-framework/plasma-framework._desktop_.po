@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-09-29 00:39+0000\n"
+"POT-Creation-Date: 2020-11-03 01:45+0000\n"
 "PO-Revision-Date: 2016-04-29 19:26+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -65,7 +65,7 @@ msgctxt "Comment"
 msgid "Example on how to manage Drop data"
 msgstr "Ball-eisimpleir air mar a stiùiricheas tu dàta Drop"
 
-#: examples/applets/notes/metadata.desktop:44
+#: examples/applets/notes/metadata.desktop:45
 msgctxt "Name"
 msgid "Example notes"
 msgstr "Nòtaichean-eisimpleir"
