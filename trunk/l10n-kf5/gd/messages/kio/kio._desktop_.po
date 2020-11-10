@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-11-09 01:47+0000\n"
+"POT-Creation-Date: 2020-11-10 01:45+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -420,7 +420,7 @@ msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr "Criathrag nam faclan-luirg"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:40
+#: src/kcms/webshortcuts/webshortcuts.desktop:41
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web shortcuts"
@@ -428,7 +428,7 @@ msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "Rèitich na h-ath-ghoiridean lìn"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:67
+#: src/kcms/webshortcuts/webshortcuts.desktop:69
 #, fuzzy
 #| msgctxt "X-KDE-Keywords"
 #| msgid ""
@@ -651,7 +651,7 @@ msgctxt "Name"
 msgid "ArchWiki"
 msgstr "Wikia"
 
-#: src/urifilters/ikws/searchproviders/archwiki.desktop:34
+#: src/urifilters/ikws/searchproviders/archwiki.desktop:35
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.archlinux.org/packages/?q=\\\\{@}"
@@ -734,7 +734,7 @@ msgctxt "Name"
 msgid "KDE Bugs"
 msgstr "Bòrd-brath KDE"
 
-#: src/urifilters/ikws/searchproviders/bug.desktop:32
+#: src/urifilters/ikws/searchproviders/bug.desktop:33
 msgctxt "Query"
 msgid "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
 msgstr "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
@@ -886,7 +886,7 @@ msgctxt "Name"
 msgid "DeepL"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/deepl.desktop:31
+#: src/urifilters/ikws/searchproviders/deepl.desktop:32
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
