@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-10-24 02:13+0200\n"
+"POT-Creation-Date: 2020-11-13 02:13+0100\n"
 "PO-Revision-Date: 2016-04-30 17:56+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -878,47 +878,23 @@ msgstr "Cob&hair"
 msgid "About %1"
 msgstr "Mu %1"
 
-#: kkeysequencewidget.cpp:117
-#, kde-format
-msgid "Shortcut '%1' in Application %2 for action %3\n"
-msgstr "Ath-ghoirid \"%1\" ann an aplacaid %2 airson gnìomh %3\n"
-
-#: kkeysequencewidget.cpp:127
-#, kde-format
-msgctxt ""
-"%1 is the number of conflicts (hidden), %2 is the key sequence of the "
-"shortcut that is problematic"
-msgid "The shortcut '%2' conflicts with the following key combination:\n"
-msgid_plural ""
-"The shortcut '%2' conflicts with the following key combinations:\n"
-msgstr[0] ""
-"Tha còmhstri eadar an ath-ghoirid \"%2\" agus na co-iuchraichean seo:\n"
-msgstr[1] ""
-"Tha còmhstri eadar an ath-ghoirid \"%2\" agus na co-iuchraichean seo:\n"
-msgstr[2] ""
-"Tha còmhstri eadar an ath-ghoirid \"%2\" agus na co-iuchraichean seo:\n"
-msgstr[3] ""
-"Tha còmhstri eadar an ath-ghoirid \"%2\" agus na co-iuchraichean seo:\n"
-
-#: kkeysequencewidget.cpp:133
-#, kde-format
-msgctxt "%1 is the number of shortcuts with which there is a conflict"
-msgid "Conflict with Registered Global Shortcut"
-msgid_plural "Conflict with Registered Global Shortcuts"
-msgstr[0] "Còmhstri le ath-ghoirid uile-choitcheann chlàraichte"
-msgstr[1] "Còmhstri le ath-ghoiridean uile-choitcheann clàraichte"
-msgstr[2] "Còmhstri le ath-ghoiridean uile-choitcheann clàraichte"
-msgstr[3] "Còmhstri le ath-ghoiridean uile-choitcheann clàraichte"
-
-#: kkeysequencewidget.cpp:135 kkeysequencewidget.cpp:223
-#: kkeysequencewidget.cpp:614
+#: kkeysequencewidget.cpp:142
 #, fuzzy, kde-format
-#| msgid "Reassign"
-msgctxt "@action:button"
-msgid "Reassign"
-msgstr "Ath-shònraich"
+#| msgid ""
+#| "Click on the button, then enter the shortcut like you would in the "
+#| "program.\n"
+#| "Example for Ctrl+A: hold the Ctrl key and press A."
+msgctxt "@info:tooltip"
+msgid ""
+"Click on the button, then enter the shortcut like you would in the program.\n"
+"Example for Ctrl+A: hold the Ctrl key and press A."
+msgstr ""
+"Briog air a' phutan agus cuir a-steach an ath-ghoirid an uairsin mar a "
+"dhèanadh tu sa phrògram.\n"
+"Ball-eisimpleir airson \"Ctrl+A\": cum an iuchair \"Ctrl\" sìos agus brùth "
+"air \"A\"."
 
-#: kkeysequencewidget.cpp:204
+#: kkeysequencewidget.cpp:166
 #, kde-format
 msgctxt "%1 is the number of conflicts"
 msgid "Shortcut Conflict"
@@ -928,12 +904,12 @@ msgstr[1] "Còmhstrithean ath-ghoiridean"
 msgstr[2] "Còmhstrithean ath-ghoiridean"
 msgstr[3] "Còmhstrithean ath-ghoiridean"
 
-#: kkeysequencewidget.cpp:208
+#: kkeysequencewidget.cpp:170
 #, kde-format
 msgid "Shortcut '%1' for action '%2'\n"
 msgstr "Ath-ghoirid \"%1\" airson gnìomh \"%2\"\n"
 
-#: kkeysequencewidget.cpp:213
+#: kkeysequencewidget.cpp:175
 #, kde-format
 msgctxt "%1 is the number of ambigious shortcut clashes (hidden)"
 msgid ""
@@ -961,14 +937,22 @@ msgstr[3] ""
 "A bheil thu airson ath-ghoirid falamh a shònrachadh dha na gnìomhan seo?\n"
 "%3"
 
-#: kkeysequencewidget.cpp:232
+#: kkeysequencewidget.cpp:185 kkeysequencewidget.cpp:288
+#: kkeysequencewidget.cpp:353
+#, fuzzy, kde-format
+#| msgid "Reassign"
+msgctxt "@action:button"
+msgid "Reassign"
+msgstr "Ath-shònraich"
+
+#: kkeysequencewidget.cpp:190
 #, fuzzy, kde-format
 #| msgid "Shortcut conflict"
 msgctxt "@title:window"
 msgid "Shortcut conflict"
 msgstr "Còmhstri ath-ghoiridean"
 
-#: kkeysequencewidget.cpp:233
+#: kkeysequencewidget.cpp:191
 #, kde-format
 msgid ""
 "<qt>The '%1' key combination is already used by the <b>%2</b> action."
@@ -977,28 +961,44 @@ msgstr ""
 "<qt>Tha na co-iuchraichean \"%1\" 'gan cleachdadh le gnìomh <b>%2</b> mar-"
 "thà.<br>Tagh feadhainn eile.</qt>"
 
-#: kkeysequencewidget.cpp:263
-#, fuzzy, kde-format
-#| msgid ""
-#| "Click on the button, then enter the shortcut like you would in the "
-#| "program.\n"
-#| "Example for Ctrl+A: hold the Ctrl key and press A."
-msgctxt "@info:tooltip"
-msgid ""
-"Click on the button, then enter the shortcut like you would in the program.\n"
-"Example for Ctrl+A: hold the Ctrl key and press A."
-msgstr ""
-"Briog air a' phutan agus cuir a-steach an ath-ghoirid an uairsin mar a "
-"dhèanadh tu sa phrògram.\n"
-"Ball-eisimpleir airson \"Ctrl+A\": cum an iuchair \"Ctrl\" sìos agus brùth "
-"air \"A\"."
+#: kkeysequencewidget.cpp:273
+#, kde-format
+msgid "Shortcut '%1' in Application %2 for action %3\n"
+msgstr "Ath-ghoirid \"%1\" ann an aplacaid %2 airson gnìomh %3\n"
 
-#: kkeysequencewidget.cpp:455
+#: kkeysequencewidget.cpp:280
+#, kde-format
+msgctxt ""
+"%1 is the number of conflicts (hidden), %2 is the key sequence of the "
+"shortcut that is problematic"
+msgid "The shortcut '%2' conflicts with the following key combination:\n"
+msgid_plural ""
+"The shortcut '%2' conflicts with the following key combinations:\n"
+msgstr[0] ""
+"Tha còmhstri eadar an ath-ghoirid \"%2\" agus na co-iuchraichean seo:\n"
+msgstr[1] ""
+"Tha còmhstri eadar an ath-ghoirid \"%2\" agus na co-iuchraichean seo:\n"
+msgstr[2] ""
+"Tha còmhstri eadar an ath-ghoirid \"%2\" agus na co-iuchraichean seo:\n"
+msgstr[3] ""
+"Tha còmhstri eadar an ath-ghoirid \"%2\" agus na co-iuchraichean seo:\n"
+
+#: kkeysequencewidget.cpp:286
+#, kde-format
+msgctxt "%1 is the number of shortcuts with which there is a conflict"
+msgid "Conflict with Registered Global Shortcut"
+msgid_plural "Conflict with Registered Global Shortcuts"
+msgstr[0] "Còmhstri le ath-ghoirid uile-choitcheann chlàraichte"
+msgstr[1] "Còmhstri le ath-ghoiridean uile-choitcheann clàraichte"
+msgstr[2] "Còmhstri le ath-ghoiridean uile-choitcheann clàraichte"
+msgstr[3] "Còmhstri le ath-ghoiridean uile-choitcheann clàraichte"
+
+#: kkeysequencewidget.cpp:300
 #, kde-format
 msgid "Reserved Shortcut"
 msgstr "Ath-ghoirid ghlèidhte"
 
-#: kkeysequencewidget.cpp:456
+#: kkeysequencewidget.cpp:301
 #, kde-format
 msgid ""
 "The F12 key is reserved on Windows, so cannot be used for a global "
@@ -1009,14 +1009,14 @@ msgstr ""
 "ath-ghoirid uile-choitcheann ri linn seo.\n"
 "Feuch an tagh thu tè eile."
 
-#: kkeysequencewidget.cpp:608
+#: kkeysequencewidget.cpp:347
 #, fuzzy, kde-format
 #| msgid "Conflict with Standard Application Shortcut"
 msgctxt "@title:window"
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Còmhstri le ath-ghoirid thùsail na h-aplacaid"
 
-#: kkeysequencewidget.cpp:609
+#: kkeysequencewidget.cpp:348
 #, kde-format
 msgid ""
 "The '%1' key combination is also used for the standard action \"%2\" that "
@@ -1028,29 +1028,17 @@ msgstr ""
 "A bheil thu cinnteach gu bheil thu airson a chleachdadh na ath-ghoirid uile-"
 "choitcheann cuideachd?"
 
-#: kkeysequencewidget.cpp:657
+#: kkeysequencewidget.cpp:392
 #, kde-format
 msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
 msgstr "Ion-chur"
 
-#: kkeysequencewidget.cpp:664 kshortcuteditwidget.cpp:52
+#: kkeysequencewidget.cpp:394 kshortcuteditwidget.cpp:52
 #, kde-format
 msgctxt "No shortcut defined"
 msgid "None"
 msgstr "Gun ath-ghoirid"
-
-#: kkeysequencewidget.cpp:709
-#, kde-format
-msgid "The key you just pressed is not supported by Qt."
-msgstr "Cha chuir Qt taic ris an iuchair a tha thu air a bhrùthadh."
-
-#: kkeysequencewidget.cpp:710
-#, fuzzy, kde-format
-#| msgid "Unsupported Key"
-msgctxt "@title:window"
-msgid "Unsupported Key"
-msgstr "Iuchair ris nach eil taic"
 
 #: klicensedialog_p.cpp:34
 #, fuzzy, kde-format
@@ -1687,6 +1675,15 @@ msgstr "&Roghainnean"
 #, kde-format
 msgid "Main Toolbar"
 msgstr "Am prìomh bhàr-inneal"
+
+#~ msgid "The key you just pressed is not supported by Qt."
+#~ msgstr "Cha chuir Qt taic ris an iuchair a tha thu air a bhrùthadh."
+
+#, fuzzy
+#~| msgid "Unsupported Key"
+#~ msgctxt "@title:window"
+#~ msgid "Unsupported Key"
+#~ msgstr "Iuchair ris nach eil taic"
 
 #, fuzzy
 #~| msgid "Switch Application Language"
