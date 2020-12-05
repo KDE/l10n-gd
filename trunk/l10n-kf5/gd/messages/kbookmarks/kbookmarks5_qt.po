@@ -120,78 +120,78 @@ msgstr ""
 "A bheil thu cinnteach gu bheil thu airson an comharra-lìn\n"
 "\"%1\" a sguabadh às?"
 
-#: kbookmarkdialog.cpp:59
+#: kbookmarkdialog.cpp:57
 msgctxt "KBookmarkDialog|@label:textbox"
 msgid "Name:"
 msgstr "Ainm:"
 
-#: kbookmarkdialog.cpp:64
+#: kbookmarkdialog.cpp:62
 msgctxt "KBookmarkDialog|@label:textbox"
 msgid "Location:"
 msgstr "Ionad:"
 
-#: kbookmarkdialog.cpp:69
+#: kbookmarkdialog.cpp:67
 msgctxt "KBookmarkDialog|@label:textbox"
 msgid "Comment:"
 msgstr "Beachd:"
 
-#: kbookmarkdialog.cpp:180
+#: kbookmarkdialog.cpp:178
 msgctxt "KBookmarkDialog|@action:button"
 msgid "Update"
 msgstr "Ùraich"
 
-#: kbookmarkdialog.cpp:181
+#: kbookmarkdialog.cpp:179
 msgctxt "KBookmarkDialog|@title:window"
 msgid "Bookmark Properties"
 msgstr "Roghainnean a' chomharra-lìn"
 
-#: kbookmarkdialog.cpp:212 kbookmarkdialog.cpp:250 kbookmarkdialog.cpp:284
+#: kbookmarkdialog.cpp:210 kbookmarkdialog.cpp:248 kbookmarkdialog.cpp:282
 msgctxt "KBookmarkDialog|@action:button"
 msgid "&New Folder..."
 msgstr "&Pasgan ùr..."
 
-#: kbookmarkdialog.cpp:216 kbookmarkdialog.cpp:254
+#: kbookmarkdialog.cpp:214 kbookmarkdialog.cpp:252
 msgctxt "KBookmarkDialog|@action:button"
 msgid "Add"
 msgstr "Cuir ris"
 
-#: kbookmarkdialog.cpp:217
+#: kbookmarkdialog.cpp:215
 msgctxt "KBookmarkDialog|@title:window"
 msgid "Add Bookmark"
 msgstr "Cuir comharra-lìn ris"
 
-#: kbookmarkdialog.cpp:255
+#: kbookmarkdialog.cpp:253
 msgctxt "KBookmarkDialog|@title:window"
 msgid "Add Bookmarks"
 msgstr "Cuir comharran-lìn ris"
 
-#: kbookmarkdialog.cpp:288
+#: kbookmarkdialog.cpp:286
 msgctxt "KBookmarkDialog|@title:window"
 msgid "Select Folder"
 msgstr "Tagh pasgan"
 
-#: kbookmarkdialog.cpp:316
+#: kbookmarkdialog.cpp:314
 msgctxt "KBookmarkDialog|@title:window"
 msgid "New Folder"
 msgstr "Pasgan ùr"
 
-#: kbookmarkdialog.cpp:351
+#: kbookmarkdialog.cpp:349
 msgctxt "KBookmarkDialog|@title:window"
 msgid "Create New Bookmark Folder"
 msgstr "Cruthaich pasgan chomharran-lìn ùr"
 
-#: kbookmarkdialog.cpp:352
+#: kbookmarkdialog.cpp:350
 #, qt-format
 msgctxt "KBookmarkDialog|@title:window"
 msgid "Create New Bookmark Folder in %1"
 msgstr "Cruthaich pasgan chomharran-lìn ùr an-seo: %1"
 
-#: kbookmarkdialog.cpp:354
+#: kbookmarkdialog.cpp:352
 msgctxt "KBookmarkDialog|@label:textbox"
 msgid "New folder:"
 msgstr "Pasgan ùr:"
 
-#: kbookmarkdialog.cpp:375
+#: kbookmarkdialog.cpp:373
 msgctxt "KBookmarkDialog|name of the container of all browser bookmarks"
 msgid "Bookmarks"
 msgstr "Comharran-lìn"
