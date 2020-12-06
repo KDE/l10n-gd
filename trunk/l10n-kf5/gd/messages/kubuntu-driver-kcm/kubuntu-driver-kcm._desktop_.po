@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kubuntu-driver-manager\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-11-08 01:49+0000\n"
+"POT-Creation-Date: 2020-12-06 01:48+0000\n"
 "PO-Revision-Date: 2015-04-02 21:17+0000\n"
 "Last-Translator: GunChleoc <Unknown>\n"
 "Language-Team: Gaelic; Scottish <gd@li.org>\n"
@@ -25,12 +25,12 @@ msgctxt "X-KDE-Keywords"
 msgid "drivers"
 msgstr "draibhearan"
 
-#: src/kcm_driver_manager.desktop:63
+#: src/kcm_driver_manager.desktop:64
 msgctxt "Name"
 msgid "Driver Manager"
 msgstr "Manaidsear nan draibhearan"
 
-#: src/kcm_driver_manager.desktop:113
+#: src/kcm_driver_manager.desktop:115
 msgctxt "Comment"
 msgid "Driver management software"
 msgstr "Bathar-bog gus draibhearan a stiùireadh"
