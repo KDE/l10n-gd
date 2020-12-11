@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-12-09 02:21+0100\n"
+"POT-Creation-Date: 2020-12-11 02:20+0100\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -83,7 +83,7 @@ msgstr ""
 msgid "Unknown Open Collaboration Service API error. (%1)"
 msgstr "Mearachd Open Collaboration Service API nach aihne dhuinn. (%1)"
 
-#: button.cpp:42
+#: button.cpp:43
 #, kde-format
 msgid "Download New Stuff..."
 msgstr "Luchdaich a-nuas stuth ùr..."
