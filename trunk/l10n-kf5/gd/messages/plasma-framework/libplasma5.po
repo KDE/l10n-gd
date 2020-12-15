@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-11-24 02:13+0100\n"
+"POT-Creation-Date: 2020-12-15 02:16+0100\n"
 "PO-Revision-Date: 2016-04-30 12:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -109,7 +109,7 @@ msgstr "Chan eil fhios"
 msgid "Activate %1 Widget"
 msgstr "Gnìomhach Widget %1"
 
-#: plasma/containment.cpp:107 plasma/private/applet_p.cpp:111
+#: plasma/containment.cpp:107 plasma/private/applet_p.cpp:107
 #, fuzzy, kde-format
 #| msgctxt "%1 is the name of the applet"
 #| msgid "Remove this %1"
@@ -123,7 +123,7 @@ msgctxt "%1 is the name of the containment"
 msgid "Edit %1..."
 msgstr ""
 
-#: plasma/containment.cpp:116 plasma/private/applet_p.cpp:116
+#: plasma/containment.cpp:116 plasma/private/applet_p.cpp:112
 #, kde-format
 msgctxt "%1 is the name of the applet"
 msgid "Configure %1..."
@@ -457,13 +457,13 @@ msgctxt "misc category"
 msgid "Miscellaneous"
 msgstr "Eile"
 
-#: plasma/private/applet_p.cpp:131
+#: plasma/private/applet_p.cpp:127
 #, kde-format
 msgid "The %1 widget did not define which ScriptEngine to use."
 msgstr ""
 "Cha do shònraich an widget %1 dè an ScriptEngine a thèid a chleachdadh."
 
-#: plasma/private/applet_p.cpp:148
+#: plasma/private/applet_p.cpp:144
 #, kde-format
 msgctxt "Package file, name of the widget"
 msgid "Could not open the %1 package required for the %2 widget."
@@ -471,7 +471,7 @@ msgstr ""
 "Cha b' urrainn dhuinn pacaid %1 fhosgladh a tha riatanach airson an widget "
 "%2."
 
-#: plasma/private/applet_p.cpp:169
+#: plasma/private/applet_p.cpp:165
 #, kde-format
 msgctxt ""
 "API or programming language the widget was written in, name of the widget"
@@ -479,58 +479,58 @@ msgid "Could not create a %1 ScriptEngine for the %2 widget."
 msgstr ""
 "Cha b' urrainn dhuinn ScriptEngine %1 a chruthachadh airson an widget %2."
 
-#: plasma/private/applet_p.cpp:174
+#: plasma/private/applet_p.cpp:170
 #, fuzzy, kde-format
 #| msgid "Alternatives..."
 msgid "Show Alternatives..."
 msgstr "Roghainnean eile..."
 
-#: plasma/private/applet_p.cpp:265
+#: plasma/private/applet_p.cpp:266
 #, kde-format
 msgid "Widget Removed"
 msgstr "Chaidh widget a thoirt air falbh"
 
-#: plasma/private/applet_p.cpp:266
+#: plasma/private/applet_p.cpp:267
 #, kde-format
 msgid "The widget \"%1\" has been removed."
 msgstr "Chaidh an widget \"%1\" a thoirt air falbh."
 
-#: plasma/private/applet_p.cpp:268
+#: plasma/private/applet_p.cpp:269
 #, kde-format
 msgid "Panel Removed"
 msgstr "Chaidh panail a thoirt air falbh"
 
-#: plasma/private/applet_p.cpp:269
+#: plasma/private/applet_p.cpp:270
 #, kde-format
 msgid "A panel has been removed."
 msgstr "Chaidh panail a thoirt air falbh."
 
-#: plasma/private/applet_p.cpp:272
+#: plasma/private/applet_p.cpp:273
 #, kde-format
 msgid "Desktop Removed"
 msgstr "Chaidh deasg a thoirt air falbh"
 
-#: plasma/private/applet_p.cpp:273
+#: plasma/private/applet_p.cpp:274
 #, kde-format
 msgid "A desktop has been removed."
 msgstr "Chaidh deasg a thoirt air falbh."
 
-#: plasma/private/applet_p.cpp:276
+#: plasma/private/applet_p.cpp:277
 #, kde-format
 msgid "Undo"
 msgstr "Neo-dhèan"
 
-#: plasma/private/applet_p.cpp:366
+#: plasma/private/applet_p.cpp:367
 #, kde-format
 msgid "Widget Settings"
 msgstr "Roghainnean an widget"
 
-#: plasma/private/applet_p.cpp:373
+#: plasma/private/applet_p.cpp:374
 #, kde-format
 msgid "Remove this Widget"
 msgstr "Thoir air falbh an widget seo"
 
-#: plasma/private/applet_p.cpp:380
+#: plasma/private/applet_p.cpp:381
 #: plasma/private/associatedapplicationmanager.cpp:66
 #: plasma/private/associatedapplicationmanager.cpp:125
 #: plasma/private/associatedapplicationmanager.cpp:167
@@ -538,7 +538,7 @@ msgstr "Thoir air falbh an widget seo"
 msgid "Run the Associated Application"
 msgstr "Ruith an aplacaid co-cheangailte"
 
-#: plasma/private/applet_p.cpp:471
+#: plasma/private/applet_p.cpp:472
 #, kde-format
 msgid "Script initialization failed"
 msgstr "Dh'fhàillig le tòiseachadh an sgriobt"
