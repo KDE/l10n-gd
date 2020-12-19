@@ -15,12 +15,12 @@ msgstr ""
 "X-Generator: Virtaal 0.7.1\n"
 "X-Qt-Contexts: true\n"
 
-#: kglobalaccel.cpp:542
+#: kglobalaccel.cpp:564
 msgctxt "KGlobalAccel|"
 msgid "Conflict with Global Shortcut"
 msgstr "Còmhstri le ath-ghoirid uile-choitcheann"
 
-#: kglobalaccel.cpp:543
+#: kglobalaccel.cpp:565
 #, qt-format
 msgctxt "KGlobalAccel|"
 msgid ""
@@ -32,12 +32,12 @@ msgstr ""
 "\"%2\" ann an \"%3\" mar-thà.\n"
 "A bheil thu airson an riarachadh atharrachadh on ghnìomh ud dhan ghnìomh seo?"
 
-#: kglobalaccel.cpp:553 kglobalaccel.cpp:592
+#: kglobalaccel.cpp:575 kglobalaccel.cpp:614
 msgctxt "KGlobalAccel|"
 msgid "Reassign"
 msgstr "Sònraich às ùr"
 
-#: kglobalaccel.cpp:575
+#: kglobalaccel.cpp:597
 #, qt-format
 msgctxt "KGlobalAccel|"
 msgid "The '%1' key combination is registered by application %2 for action %3:"
@@ -45,13 +45,13 @@ msgstr ""
 "Chaidh na co-iuchraichean \"%1 a chlàradh leis an aplacaid %2 airson a' "
 "ghnìomha \"%3\":"
 
-#: kglobalaccel.cpp:580
+#: kglobalaccel.cpp:602
 #, qt-format
 msgctxt "KGlobalAccel|"
 msgid "In context '%1' for action '%2'\n"
 msgstr "Sa cho-theacsa \"%1\" airson a' ghnìomh \"%2\"\n"
 
-#: kglobalaccel.cpp:583
+#: kglobalaccel.cpp:605
 #, qt-format
 msgctxt "KGlobalAccel|"
 msgid ""
@@ -61,7 +61,7 @@ msgstr ""
 "Chaidh na co-iuchraichean \"%1\" a chlàradh leis an aplacaid \"%2\".\n"
 "%3"
 
-#: kglobalaccel.cpp:587
+#: kglobalaccel.cpp:609
 msgctxt "KGlobalAccel|"
 msgid "Conflict With Registered Global Shortcut"
 msgstr "Còmhstri le ath-ghoirid chlàraichte"
