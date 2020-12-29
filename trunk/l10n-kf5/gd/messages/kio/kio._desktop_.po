@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-12-21 02:02+0000\n"
+"POT-Creation-Date: 2020-12-29 01:48+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -420,7 +420,7 @@ msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr "Criathrag nam faclan-luirg"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:42
+#: src/kcms/webshortcuts/webshortcuts.desktop:43
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web shortcuts"
@@ -428,7 +428,7 @@ msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "Rèitich na h-ath-ghoiridean lìn"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:71
+#: src/kcms/webshortcuts/webshortcuts.desktop:73
 #, fuzzy
 #| msgctxt "X-KDE-Keywords"
 #| msgid ""
@@ -509,7 +509,7 @@ msgctxt "Name"
 msgid "Basic Link to File or Directory..."
 msgstr "Ceangal bunasach gun fhaidhle no pasgan..."
 
-#: src/new_file_templates/linkPath.desktop:38
+#: src/new_file_templates/linkPath.desktop:39
 msgctxt "Comment"
 msgid "Enter path of file or directory:"
 msgstr "Cuir a-steach slighe an fhaidhle no a' phasgain:"
@@ -651,7 +651,7 @@ msgctxt "Name"
 msgid "ArchWiki"
 msgstr "Wikia"
 
-#: src/urifilters/ikws/searchproviders/archwiki.desktop:36
+#: src/urifilters/ikws/searchproviders/archwiki.desktop:37
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.archlinux.org/packages/?q=\\\\{@}"
@@ -734,7 +734,7 @@ msgctxt "Name"
 msgid "KDE Bugs"
 msgstr "Bòrd-brath KDE"
 
-#: src/urifilters/ikws/searchproviders/bug.desktop:34
+#: src/urifilters/ikws/searchproviders/bug.desktop:35
 msgctxt "Query"
 msgid "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
 msgstr "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
@@ -886,7 +886,7 @@ msgctxt "Name"
 msgid "DeepL"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/deepl.desktop:33
+#: src/urifilters/ikws/searchproviders/deepl.desktop:34
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
