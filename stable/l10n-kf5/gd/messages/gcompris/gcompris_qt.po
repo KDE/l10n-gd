@@ -10964,51 +10964,51 @@ msgctxt "TopPanel|"
 msgid "Primes less than %1"
 msgstr "Prìomh-àireamhan nas lugha na %1"
 
-#: activities/gnumch-equality/Warning.qml:47
+#: activities/gnumch-equality/Warning.qml:50
 msgctxt "Warning|"
 msgid "You were eaten by a Troggle."
 msgstr "Chaidh d’ ithe le bòcan."
 
-#: activities/gnumch-equality/Warning.qml:51
+#: activities/gnumch-equality/Warning.qml:54
 msgctxt "Warning|"
 msgid "You ate a wrong number."
 msgstr "Dh’ith thu àireamh chearr."
 
-#: activities/gnumch-equality/Warning.qml:66
+#: activities/gnumch-equality/Warning.qml:69
 msgctxt "Warning|"
 msgid "1 is not a prime number."
 msgstr "Chan eil 1 na prìomh-àireamh."
 
-#: activities/gnumch-equality/Warning.qml:76
+#: activities/gnumch-equality/Warning.qml:79
 #, qt-format
 msgctxt "Warning|"
 msgid "%1 is divisible by %2"
 msgstr "Gabhaidh %1 a roinneadh le %2"
 
-#: activities/gnumch-equality/Warning.qml:84
+#: activities/gnumch-equality/Warning.qml:87
 msgctxt "Warning|"
 msgid "and"
 msgstr "agus"
 
-#: activities/gnumch-equality/Warning.qml:90
+#: activities/gnumch-equality/Warning.qml:93
 #, qt-format
 msgctxt "Warning|"
 msgid "Multiples of %1 include %2, "
 msgstr "Tha iomadan de %1 a’ gabhail a-staigh %2, "
 
-#: activities/gnumch-equality/Warning.qml:91
+#: activities/gnumch-equality/Warning.qml:94
 #, qt-format
 msgctxt "Warning|"
 msgid "but %1 is not a multiple of %2."
 msgstr "ach chan eil %1 ’na iomad de %2."
 
-#: activities/gnumch-equality/Warning.qml:108
+#: activities/gnumch-equality/Warning.qml:111
 #, qt-format
 msgctxt "Warning|"
 msgid "and %1 are the divisors of %2."
 msgstr "agus ’s iad %1 na roinneadairean aig %2."
 
-#: activities/gnumch-equality/Warning.qml:137
+#: activities/gnumch-equality/Warning.qml:140
 msgctxt "Warning|"
 msgid "Press \"Return\" or click on me to continue."
 msgstr "Brùth “Return” no briog orm-sa a leantainn air adhart."
