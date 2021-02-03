@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-02 02:29+0100\n"
+"POT-Creation-Date: 2021-02-03 02:46+0100\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -1106,7 +1106,7 @@ msgctxt ""
 msgid "<i>(no title)</i>"
 msgstr ""
 
-#: qtquick/qml/private/EntryCommentDelegate.qml:141
+#: qtquick/qml/private/EntryCommentDelegate.qml:142
 #, kde-format
 msgctxt ""
 "The author label in case the comment was written by the author of the "
@@ -1144,7 +1144,7 @@ msgid "Show Reviews and Replies"
 msgstr ""
 
 #: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:141
-#: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:179
+#: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:180
 #, fuzzy, kde-format
 #| msgid "1 download"
 #| msgid_plural "%1 downloads"
@@ -1206,6 +1206,13 @@ msgstr ""
 #: qtquick/qml/private/GridTileDelegate.qml:113
 #, kde-format
 msgid "None"
+msgstr ""
+
+#: qtquick/qml/private/Rating.qml:80
+#, kde-format
+msgctxt ""
+"A text representation of the rating, shown as a fraction of the max value"
+msgid "(%1/%2)"
 msgstr ""
 
 #: qtquick/quickengine.cpp:143
