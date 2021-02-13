@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-09 02:36+0100\n"
+"POT-Creation-Date: 2021-02-13 02:23+0100\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -547,7 +547,7 @@ msgstr "Solaraiche:"
 
 #. i18n: ectx: property (text), widget (QLabel, m_categoryLabel)
 #. i18n: ectx: property (text), widget (QLabel, mCategoryLabel)
-#: downloadwidget.ui:71 qtquick/qml/Page.qml:347 uploaddialog.ui:304
+#: downloadwidget.ui:71 qtquick/qml/Page.qml:348 uploaddialog.ui:304
 #, kde-format
 msgid "Category:"
 msgstr "Roinn-seòrsa:"
@@ -589,7 +589,7 @@ msgid "Search:"
 msgstr "Lorg:"
 
 #. i18n: ectx: property (placeholderText), widget (KLineEdit, m_searchEdit)
-#: downloadwidget.ui:217 qtquick/qml/Page.qml:327 qtquick/qml/Page.qml:332
+#: downloadwidget.ui:217 qtquick/qml/Page.qml:327 qtquick/qml/Page.qml:333
 #, fuzzy, kde-format
 #| msgid "Search:"
 msgid "Search..."
@@ -1146,7 +1146,7 @@ msgctxt ""
 msgid "Show Most Downloaded First"
 msgstr "Air a luchdadh a-nuas as trice"
 
-#: qtquick/qml/Page.qml:426
+#: qtquick/qml/Page.qml:427
 #, fuzzy, kde-format
 #| msgid "Loading Preview"
 msgctxt ""
@@ -1154,7 +1154,7 @@ msgctxt ""
 msgid "Loading more..."
 msgstr "A' luchdadh an ro-sheallaidh"
 
-#: qtquick/qml/Page.qml:437
+#: qtquick/qml/Page.qml:438
 #, kde-format
 msgctxt ""
 "A message shown when there are no entries in the list, and when it is not "
@@ -1278,7 +1278,7 @@ msgctxt ""
 msgid "(%1/%2)"
 msgstr ""
 
-#: qtquick/quickengine.cpp:143
+#: qtquick/quickengine.cpp:144
 #, kde-format
 msgctxt ""
 "An informational message which is shown to inform the user they are not "
