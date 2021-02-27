@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-26 02:26+0100\n"
+"POT-Creation-Date: 2021-02-27 02:18+0100\n"
 "PO-Revision-Date: 2015-11-04 15:09+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -86,43 +86,43 @@ msgstr ""
 msgid "The document IDs of the Baloo DB and the filesystem are different:"
 msgstr ""
 
-#: main.cpp:124
+#: main.cpp:127
 #, kde-format
 msgid "%1: Not a valid url or document id"
 msgstr ""
 
-#: main.cpp:128 main.cpp:165
+#: main.cpp:141
+#, kde-format
+msgid "%1: Failed to parse inode number"
+msgstr ""
+
+#: main.cpp:168
 #, fuzzy, kde-format
 #| msgid "No index information found"
 msgid "%1: No index information found"
 msgstr "Cha deach fiosrachadh an inneics a lorg"
 
-#: main.cpp:139
-#, kde-format
-msgid "%1: Failed to parse inode number"
-msgstr ""
-
-#: main.cpp:214
+#: main.cpp:217
 #, kde-format
 msgid "Internal Info"
 msgstr ""
 
-#: main.cpp:215
+#: main.cpp:218
 #, kde-format
 msgid "Terms: %1"
 msgstr ""
 
-#: main.cpp:216
+#: main.cpp:219
 #, kde-format
 msgid "File Name Terms: %1"
 msgstr ""
 
-#: main.cpp:217
+#: main.cpp:220
 #, kde-format
 msgid "%1 Terms: %2"
 msgstr ""
 
-#: main.cpp:220
+#: main.cpp:223
 #, kde-format
 msgctxt "Prefix string for internal errors"
 msgid "Internal Error - %1"
