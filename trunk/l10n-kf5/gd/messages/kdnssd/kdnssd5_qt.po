@@ -15,17 +15,17 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 "X-Qt-Contexts: true\n"
 
-#: servicemodel.cpp:97
+#: servicemodel.cpp:99
 msgctxt "KDNSSD::ServiceModel|"
 msgid "Name"
 msgstr "Ainm"
 
-#: servicemodel.cpp:98
+#: servicemodel.cpp:101
 msgctxt "KDNSSD::ServiceModel|"
 msgid "Host"
 msgstr "Òstair"
 
-#: servicemodel.cpp:99
+#: servicemodel.cpp:103
 msgctxt "KDNSSD::ServiceModel|"
 msgid "Port"
 msgstr "Port"

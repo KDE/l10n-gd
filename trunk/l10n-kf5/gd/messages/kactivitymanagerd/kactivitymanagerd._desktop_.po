@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-13 03:21+0000\n"
+"POT-Creation-Date: 2021-02-28 02:03+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -31,13 +31,19 @@ msgctxt "Comment"
 msgid "Activity manager plugin"
 msgstr "Plugan manaidsear nan gnìomhachdan"
 
+#: src/service/plugins/krunner/plasma-runnners-activities.desktop:2
+msgctxt "Name"
+msgid "Activities"
+msgstr "Gnìomhachdan"
+
+#: src/service/plugins/krunner/plasma-runnners-activities.desktop:63
+msgctxt "Comment"
+msgid "List and switch between desktop activities"
+msgstr ""
+
 #~ msgctxt "Name"
 #~ msgid "File to activity linking plugin"
 #~ msgstr "Plugan gus faidhlichean a co-cheangal ri gnìomhachdan"
-
-#~ msgctxt "Name"
-#~ msgid "Activities"
-#~ msgstr "Gnìomhachdan"
 
 #~ msgctxt "Name"
 #~ msgid "Activities testing"
