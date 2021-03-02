@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwalletd5\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-11-21 02:13+0100\n"
+"POT-Creation-Date: 2021-03-02 02:37+0100\n"
 "PO-Revision-Date: 2016-05-04 18:07+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -29,7 +29,7 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "fios@foramnagaidhlig.net"
 
-#: backend/backendpersisthandler.cpp:493
+#: backend/backendpersisthandler.cpp:489
 #, kde-format
 msgid ""
 "<qt>Error when attempting to initialize OpenPGP while attempting to save the "
@@ -50,7 +50,7 @@ msgstr ""
 "sporan <b>%1</b> a shàbhaladh. Càirich rèiteachadh an t-siostaim agad is "
 "feuch ris a-rithist an uairsin.</qt>"
 
-#: backend/backendpersisthandler.cpp:552
+#: backend/backendpersisthandler.cpp:555
 #, kde-format
 msgid ""
 "<qt>Encryption error while attempting to save the wallet <b>%1</b>. Error "
@@ -65,7 +65,7 @@ msgstr ""
 "làn-earbsa. Dèan cinnteach gu bheil an iuchair dhìomhair agad airson na h-"
 "iuchrach a tha thu a' cleachdadh.</qt>"
 
-#: backend/backendpersisthandler.cpp:564
+#: backend/backendpersisthandler.cpp:572
 #, kde-format
 msgid ""
 "<qt>File handling error while attempting to save the wallet <b>%1</b>. Error "
@@ -75,7 +75,7 @@ msgstr ""
 "ris an sporan <b>%1</b> a shàbhaladh. Seo a' mhearachd: <b>%2</b>. Càirich "
 "rèiteachadh an t-siostaim agad is feuch ris a-rithist an uairsin.</qt>"
 
-#: backend/backendpersisthandler.cpp:582
+#: backend/backendpersisthandler.cpp:594
 #, kde-format
 msgid ""
 "<qt>Error when attempting to initialize OpenPGP while attempting to open the "
@@ -86,7 +86,7 @@ msgstr ""
 "<b>%1</b>. Seo còd na mearachd: <b>%2</b>. Càirich rèiteachadh an t-siostaim "
 "agad is feuch ris a-rithist an uairsin.</qt>"
 
-#: backend/backendpersisthandler.cpp:600
+#: backend/backendpersisthandler.cpp:616
 #, kde-format
 msgid ""
 "<qt>Error when attempting to initialize OpenPGP while attempting to open the "
@@ -96,12 +96,12 @@ msgstr ""
 "sporan <b>%1</b> fhosgladh. Càirich rèiteachadh an t-siostaim agad is feuch "
 "ris a-rithist an uairsin.</qt>"
 
-#: backend/backendpersisthandler.cpp:610
+#: backend/backendpersisthandler.cpp:629
 #, kde-format
 msgid "Retry"
 msgstr "Feuch ris a-rithist"
 
-#: backend/backendpersisthandler.cpp:612
+#: backend/backendpersisthandler.cpp:633
 #, kde-format
 msgid ""
 "<qt>Error when attempting to decrypt the wallet <b>%1</b> using GPG. If "
@@ -112,12 +112,12 @@ msgstr ""
 "cleachdadh SmartCard, dèan cinnteach gun deach a chur a-steach agus feuch "
 "ris a-rithist.<br><br>Seo a' mhearachd GPG: <b>%2</b></qt>"
 
-#: backend/backendpersisthandler.cpp:613
+#: backend/backendpersisthandler.cpp:637
 #, kde-format
 msgid "kwalletd GPG backend"
 msgstr "backend GPG kwalletd"
 
-#: backend/backendpersisthandler.cpp:656
+#: backend/backendpersisthandler.cpp:683
 #, kde-format
 msgid ""
 "<qt>Error when attempting to open the wallet <b>%1</b>. The wallet was "
@@ -212,7 +212,7 @@ msgstr "&Diùlt"
 msgid "Deny &Forever"
 msgstr "Diùlt gu &buan"
 
-#: knewwalletdialog.cpp:50
+#: knewwalletdialog.cpp:51
 #, kde-format
 msgid ""
 "<qt>KDE has requested to create a new wallet named '<b>%1</b>'. This is used "
@@ -224,7 +224,7 @@ msgstr ""
 "Tagh seòrsa an sporain ùir gu h-ìosal no briog air \"Sguir dheth\" gus "
 "iarrtas na h-aplacaid a dhiùltadh.</qt>"
 
-#: knewwalletdialog.cpp:52
+#: knewwalletdialog.cpp:56
 #, kde-format
 msgid ""
 "<qt>The application '<b>%1</b>' has requested to create a new wallet named "
@@ -237,8 +237,8 @@ msgstr ""
 "an dòigh thèarainte. Tagh seòrsa an sporain ùir gu h-ìosal no briog air "
 "\"Sguir dheth\" gus iarrtas na h-aplacaid a dhiùltadh.</qt>"
 
-#: knewwalletdialog.cpp:114 knewwalletdialog.cpp:120 kwalletwizard.cpp:146
-#: kwalletwizard.cpp:150
+#: knewwalletdialog.cpp:128 knewwalletdialog.cpp:135 kwalletwizard.cpp:152
+#: kwalletwizard.cpp:158
 #, fuzzy, kde-format
 #| msgid ""
 #| "The QGpgME library failed to initialize for the OpenPGP protocol. Please "
@@ -251,7 +251,7 @@ msgstr ""
 "OpenPGP. Thoir sùil air rèiteachadh an t-siostaim agad is feuch ris a-"
 "rithist an uairsin."
 
-#: knewwalletdialog.cpp:140
+#: knewwalletdialog.cpp:156
 #, fuzzy, kde-format
 #| msgid ""
 #| "Seems that your system has no keys suitable for encryption. Please set-up "
@@ -334,7 +334,7 @@ msgstr "Clasaigeach, faidhle le crioptachadh blowfish"
 msgid "Use GPG encryption, for better protection"
 msgstr "Cleachd crioptachadh PGP a chum dìon nas fhearr"
 
-#: kwalletd.cpp:598
+#: kwalletd.cpp:571
 #, kde-format
 msgid ""
 "<qt>KDE has requested to open the wallet '<b>%1</b>'. Please enter the "
@@ -343,7 +343,7 @@ msgstr ""
 "<qt>Dh'iarr KDE fosgladh an sporain \"<b>%1</b>\". Cuir a-steach am facal-"
 "faire airson an sporain gu h-ìosal.</qt>"
 
-#: kwalletd.cpp:605
+#: kwalletd.cpp:575
 #, kde-format
 msgid ""
 "<qt>The application '<b>%1</b>' has requested to open the wallet '<b>%2</"
@@ -353,19 +353,19 @@ msgstr ""
 "Cuir a-steach am facal-faire airson an sporain gu h-ìosal.</qt>"
 
 #. i18n( "&Open" ), "wallet-open"));
-#: kwalletd.cpp:616 kwalletd.cpp:760 kwalletd.cpp:876 kwalletd.cpp:1005
-#: kwalletd.cpp:1032 kwalletd.cpp:1046 kwalletd.cpp:1055 kwalletd.cpp:1665
+#: kwalletd.cpp:586 kwalletd.cpp:690 kwalletd.cpp:794 kwalletd.cpp:907
+#: kwalletd.cpp:930 kwalletd.cpp:941 kwalletd.cpp:946 kwalletd.cpp:1527
 #: main.cpp:166 main.cpp:172 main.cpp:174
 #, kde-format
 msgid "KDE Wallet Service"
 msgstr "Seirbheis sporain KDE"
 
-#: kwalletd.cpp:631
+#: kwalletd.cpp:599
 #, kde-format
 msgid "An application has requested to open a wallet (%1)."
 msgstr "Dh'iarr aplacaid fosgladh sporain (%1)."
 
-#: kwalletd.cpp:638
+#: kwalletd.cpp:600
 #, kde-format
 msgctxt ""
 "Text of a button for switching to the (unnamed) application requesting a "
@@ -373,19 +373,19 @@ msgctxt ""
 msgid "Switch there"
 msgstr "Gearr leum thuice"
 
-#: kwalletd.cpp:642
+#: kwalletd.cpp:602
 #, kde-format
 msgid "<b>%1</b> has requested to open a wallet (%2)."
 msgstr "Dh'iarr <b>%1</b> fosgladh sporain (%2)."
 
-#: kwalletd.cpp:650
+#: kwalletd.cpp:604
 #, kde-format
 msgctxt ""
 "Text of a button for switching to the application requesting a password"
 msgid "Switch to %1"
 msgstr "Gearr leum %1"
 
-#: kwalletd.cpp:666 kwalletd.cpp:771
+#: kwalletd.cpp:618 kwalletd.cpp:700
 #, kde-format
 msgid ""
 "<qt>Error opening the wallet '<b>%1</b>'. Please try again.<br />(Error code "
@@ -394,7 +394,7 @@ msgstr ""
 "<qt>Mearachd le fosgladh an sporain \"<b>%1</b>\". am feuch thu ris a-"
 "rithist?<br />(Còd na mearachd: %2: %3)</qt>"
 
-#: kwalletd.cpp:725
+#: kwalletd.cpp:666
 #, kde-format
 msgid ""
 "KDE has requested to open the wallet. This is used to store sensitive data "
@@ -406,7 +406,7 @@ msgstr ""
 "chleachdadh leis an sporan seo no briog air \"Sguir dheth\" gus iarrtas na h-"
 "aplacaid a dhiùltadh."
 
-#: kwalletd.cpp:733
+#: kwalletd.cpp:671
 #, kde-format
 msgid ""
 "<qt>The application '<b>%1</b>' has requested to open the KDE wallet. This "
@@ -419,7 +419,7 @@ msgstr ""
 "steach am facal-faire a thèid a chleachdadh leis an sporan seo no briog air "
 "\"Sguir dheth\" gus iarrtas na h-aplacaid a dhiùltadh.</qt>"
 
-#: kwalletd.cpp:745
+#: kwalletd.cpp:679
 #, kde-format
 msgid ""
 "<qt>KDE has requested to create a new wallet named '<b>%1</b>'. Please "
@@ -430,7 +430,7 @@ msgstr ""
 "Tagh facal-faire airson an sporain sin no sguir dheth gus iarrtas na h-"
 "aplacaid a dhiùltadh.</qt>"
 
-#: kwalletd.cpp:753
+#: kwalletd.cpp:684
 #, kde-format
 msgid ""
 "<qt>The application '<b>%1</b>' has requested to create a new wallet named "
@@ -441,12 +441,12 @@ msgstr ""
 "a bheil \"<b>%2</b>\". Tagh facal-faire airson an sporain sin no sguir dheth "
 "gus iarrtas na h-aplacaid a dhiùltadh.</qt>"
 
-#: kwalletd.cpp:878
+#: kwalletd.cpp:796
 #, kde-format
 msgid "<qt>KDE has requested access to the open wallet '<b>%1</b>'.</qt>"
 msgstr "<qt>Dh'iarr KDE inntrigeadh dhan sporan fhosgailte \"<b>%1</b>\".</qt>"
 
-#: kwalletd.cpp:884
+#: kwalletd.cpp:798
 #, kde-format
 msgid ""
 "<qt>The application '<b>%1</b>' has requested access to the open wallet '<b>"
@@ -455,7 +455,7 @@ msgstr ""
 "<qt>Dh'iarr an aplacaid \"<b>%1</b>\" inntrigeadh dhan sporan fhosgailte "
 "\"<b>%2</b>\".</qt>"
 
-#: kwalletd.cpp:1003
+#: kwalletd.cpp:906
 #, kde-format
 msgid ""
 "Unable to open wallet. The wallet must be opened in order to change the "
@@ -464,7 +464,7 @@ msgstr ""
 "Cha deach leinn an sporan fhosgladh. Feumaidh an sporan a bhith fosgailte "
 "mus gabh am facal-faire atharrachadh."
 
-#: kwalletd.cpp:1020
+#: kwalletd.cpp:922
 #, kde-format
 msgid ""
 "<qt>The <b>%1</b> wallet is encrypted using GPG key <b>%2</b>. Please use "
@@ -475,25 +475,25 @@ msgstr ""
 "Cleachd inneal <b>GPG</b> (can <b>kleopatra</b>) gus abairt-fhaire na h-"
 "iuchrach sin atharrachadh.</qt>"
 
-#: kwalletd.cpp:1029
+#: kwalletd.cpp:929
 #, kde-format
 msgid "<qt>Please choose a new password for the wallet '<b>%1</b>'.</qt>"
 msgstr "<qt>Tagh facal-faire ùr airson an sporain \"<b>%1</b>\".</qt>"
 
-#: kwalletd.cpp:1044
+#: kwalletd.cpp:941
 #, kde-format
 msgid "Error re-encrypting the wallet. Password was not changed."
 msgstr ""
 "Mearachd le ath-chrioptachadh an sporain. Cha deach am facal-faire "
 "atharrachadh."
 
-#: kwalletd.cpp:1053
+#: kwalletd.cpp:946
 #, kde-format
 msgid "Error reopening the wallet. Data may be lost."
 msgstr ""
 "Mearachd le ath-fhosgladh an sporain. Dh'fhaoidte gun deach dàta air chall."
 
-#: kwalletd.cpp:1663
+#: kwalletd.cpp:1526
 #, kde-format
 msgid ""
 "There have been repeated failed attempts to gain access to a wallet. An "
@@ -507,17 +507,17 @@ msgstr ""
 msgid "KWallet"
 msgstr "KWallet"
 
-#: kwalletwizard.cpp:265
+#: kwalletwizard.cpp:273
 #, kde-format
 msgid "<qt>Password is empty.  <b>(WARNING: Insecure)</b></qt>"
 msgstr "<qt>Tha am facal-faire falamh.  <b>(RABHADH: Neo-thèarainte)</b></qt>"
 
-#: kwalletwizard.cpp:267
+#: kwalletwizard.cpp:275
 #, kde-format
 msgid "Passwords match."
 msgstr "Tha an dà fhacal-faire co-ionnann."
 
-#: kwalletwizard.cpp:270
+#: kwalletwizard.cpp:278
 #, kde-format
 msgid "Passwords do not match."
 msgstr "Chan eil an dà fhacal-faire co-ionann."
