@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-16 02:29+0100\n"
+"POT-Creation-Date: 2021-03-06 02:33+0100\n"
 "PO-Revision-Date: 2015-11-04 15:15+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -19,22 +19,22 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 "X-Project-Style: kde\n"
 
-#: kptydevice.cpp:272
+#: kptydevice.cpp:278
 #, kde-format
 msgid "Error reading from PTY"
 msgstr "Mearachd le leughadh o PTY"
 
-#: kptydevice.cpp:307
+#: kptydevice.cpp:311
 #, kde-format
 msgid "Error writing to PTY"
 msgstr "Mearachd le sgrìobhadh gu PTY"
 
-#: kptydevice.cpp:397
+#: kptydevice.cpp:404
 #, kde-format
 msgid "PTY operation timed out"
 msgstr "Dh'fhalbh an ùine air obrachadh PTY"
 
-#: kptydevice.cpp:456 kptydevice.cpp:470
+#: kptydevice.cpp:463 kptydevice.cpp:477
 #, kde-format
 msgid "Error opening PTY"
 msgstr "Mearachd le fosgladh PTY"
