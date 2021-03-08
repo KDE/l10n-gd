@@ -20,17 +20,17 @@ msgctxt "main|"
 msgid "Quit a D-Bus enabled application easily"
 msgstr "Fàg aplacaid le comas D-Bus gu furasta"
 
-#: tools/kquitapp/kquitapp.cpp:20
+#: tools/kquitapp/kquitapp.cpp:21
 msgctxt "main|"
 msgid "Full service name, overrides application name provided"
 msgstr "Ainm slàn na seirbheise, thèid seo a chur an àite ainm na h-aplacaid"
 
-#: tools/kquitapp/kquitapp.cpp:21
+#: tools/kquitapp/kquitapp.cpp:24
 msgctxt "main|"
 msgid "Path in the D-Bus interface to use"
 msgstr "An t-slighe san eadar-aghaidh D-Bus a thèid a chleachdadh"
 
-#: tools/kquitapp/kquitapp.cpp:22
+#: tools/kquitapp/kquitapp.cpp:27
 msgctxt "main|"
 msgid "The name of the application to quit"
 msgstr "Ainm na h-aplacaid a thèid fhàgail"
@@ -42,7 +42,7 @@ msgid "Application %1 could not be found using service %2 and path %3."
 msgstr ""
 "Cha deach an aplacaid %1 a lorg leis an t-seirbheis %2 san t-slighe %3."
 
-#: tools/kquitapp/kquitapp.cpp:51
+#: tools/kquitapp/kquitapp.cpp:52
 #, qt-format
 msgctxt "main|"
 msgid ""
