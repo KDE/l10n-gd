@@ -13994,14 +13994,14 @@ msgstr ""
 "bàraichean an t-saidhleafoin. Faodaidh tu èisteachd ris a-rithist is brùth "
 "air a’ phutan gus seo a dhèanamh."
 
-#: activities/melody/Melody.qml:288
+#: activities/melody/Melody.qml:295
 msgctxt "Melody|"
 msgid ""
 "This activity requires sound, so it will play some sounds even if the audio "
 "voices or effects are disabled in the main configuration."
 msgstr ""
 
-#: activities/melody/Melody.qml:289
+#: activities/melody/Melody.qml:296
 #, fuzzy
 #| msgctxt "core|"
 #| msgid "Quit?"
@@ -14009,7 +14009,7 @@ msgctxt "Melody|"
 msgid "Quit"
 msgstr "A bheil thu airson fàgail an-seo?"
 
-#: activities/melody/Melody.qml:290
+#: activities/melody/Melody.qml:297
 #, fuzzy
 #| msgctxt "board1_0|"
 #| msgid "Continents"
