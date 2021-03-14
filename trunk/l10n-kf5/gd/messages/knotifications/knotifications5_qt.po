@@ -22,12 +22,12 @@ msgctxt "KNotificationJobUiDelegate|"
 msgid "%1 (Failed)"
 msgstr ""
 
-#: knotificationrestrictions.cpp:180
+#: knotificationrestrictions.cpp:179
 msgctxt "KNotificationRestrictions|"
 msgid "Unknown Application"
 msgstr "Aplacaid nach aithne dhuinn"
 
-#: kstatusnotifieritem.cpp:523 kstatusnotifieritem.cpp:1102
+#: kstatusnotifieritem.cpp:515 kstatusnotifieritem.cpp:1107
 #, fuzzy
 #| msgctxt "KStatusNotifierItem|"
 #| msgid "&Minimize"
@@ -35,7 +35,7 @@ msgctxt "KStatusNotifierItem|@action:inmenu"
 msgid "&Minimize"
 msgstr "&Fìor-lùghdaich"
 
-#: kstatusnotifieritem.cpp:841
+#: kstatusnotifieritem.cpp:847
 #, fuzzy
 #| msgctxt "KStatusNotifierItem|"
 #| msgid "Quit"
@@ -43,7 +43,7 @@ msgctxt "KStatusNotifierItem|@action:inmenu"
 msgid "Quit"
 msgstr "Fàg an-seo"
 
-#: kstatusnotifieritem.cpp:1100
+#: kstatusnotifieritem.cpp:1105
 #, fuzzy
 #| msgctxt "KStatusNotifierItem|"
 #| msgid "&Restore"
@@ -51,13 +51,13 @@ msgctxt "KStatusNotifierItem|@action:inmenu"
 msgid "&Restore"
 msgstr "&Aisig"
 
-#: kstatusnotifieritem.cpp:1114
+#: kstatusnotifieritem.cpp:1119
 #, qt-format
 msgctxt "KStatusNotifierItem|"
 msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgstr "<qt>A bheil thu cinnteach gu bheil thu airson <b>%1</b> fhàgail?</qt>"
 
-#: kstatusnotifieritem.cpp:1117
+#: kstatusnotifieritem.cpp:1121
 #, fuzzy
 #| msgctxt "KStatusNotifierItem|"
 #| msgid "Confirm Quit From System Tray"
