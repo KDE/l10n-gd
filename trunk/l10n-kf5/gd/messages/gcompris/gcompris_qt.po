@@ -19358,9 +19358,9 @@ msgstr ""
 "leibheilean as àirde, chì thu barrachd air aon nì is feumaidh tu a’ phrìs gu "
 "lèir obrachadh a-mach an toiseach."
 
-#. Help goal
-#. ----------
 #. Help prerequisite
+#. ----------
+#. Help goal
 #: activities/money/ActivityInfo.qml:22
 #: activities/money_back/ActivityInfo.qml:22
 #: activities/money_back_cents/ActivityInfo.qml:22
