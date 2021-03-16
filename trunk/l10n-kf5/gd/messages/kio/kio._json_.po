@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-15 03:56+0000\n"
+"POT-Creation-Date: 2021-03-16 18:15+0000\n"
 "PO-Revision-Date: 2016-04-29 19:28+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -26,47 +26,47 @@ msgctxt "Name"
 msgid "Network Proxy Configuration"
 msgstr "Rèiteachadh progsaidh an lìonraidh"
 
-#: src/kssld/kssld.json
-msgctxt "Name"
-msgid "SSL Certificate Policy"
-msgstr "Poileasaidh teisteanasan SSL"
-
 #: src/kioexec/kioexecd.json
 msgctxt "Name"
 msgid "KIOExec Daemon"
 msgstr ""
 
-#: src/kpasswdserver/kpasswdserver.json
+#: src/kssld/kssld.json
 msgctxt "Name"
-msgid "Password Caching"
-msgstr "Tasgadan nam faclan-faire"
+msgid "SSL Certificate Policy"
+msgstr "Poileasaidh teisteanasan SSL"
 
 #: src/ioslaves/http/kcookiejar/kcookiejar.json
 msgctxt "Name"
 msgid "Cookie Jar"
 msgstr "Crogan bhriosgaidean"
 
+#: src/kpasswdserver/kpasswdserver.json
+msgctxt "Name"
+msgid "Password Caching"
+msgstr "Tasgadan nam faclan-faire"
+
 #: src/kpac/proxyscout.json
 msgctxt "Description"
 msgid "Automatic proxy configuration"
 msgstr "Rèiteachadh fèin-obrachail a' phrogsaidh"
-
-#: src/kssld/kssld.json
-msgctxt "Description"
-msgid "Provides SSL certificate policy to applications"
-msgstr "Bheir seo poileasaidh airson teisteanasan SSL dha na h-aplacaidean"
 
 #: src/kioexec/kioexecd.json
 msgctxt "Description"
 msgid "Monitors cached remote files for changes"
 msgstr ""
 
-#: src/kpasswdserver/kpasswdserver.json
+#: src/kssld/kssld.json
 msgctxt "Description"
-msgid "Temporary password caching"
-msgstr "Tasgadh sealach nam faclan-faire"
+msgid "Provides SSL certificate policy to applications"
+msgstr "Bheir seo poileasaidh airson teisteanasan SSL dha na h-aplacaidean"
 
 #: src/ioslaves/http/kcookiejar/kcookiejar.json
 msgctxt "Description"
 msgid "Stores network cookies"
 msgstr "Glèidhidh seo briosgaidean lìonraidh"
+
+#: src/kpasswdserver/kpasswdserver.json
+msgctxt "Description"
+msgid "Temporary password caching"
+msgstr "Tasgadh sealach nam faclan-faire"
