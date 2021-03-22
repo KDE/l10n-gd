@@ -16809,7 +16809,7 @@ msgctxt "board12_0|"
 msgid "Katsushika Hokusai, Kazusa sea Route - 1830."
 msgstr "Katsushika Hokusai, Slighe-mhara Kazusa – 1830."
 
-#: activities/paintings/resource/board/board13_0.qml:26
+#: activities/paintings/resource/board/board13_0.qml:25
 msgctxt "board13_0|"
 msgid "Michelangelo, Pieta - 1499"
 msgstr "Michelangelo, Pietà – 1499"
@@ -16834,7 +16834,7 @@ msgctxt "board17_0|"
 msgid "Pieter Brugel, The Harvesters - 1565"
 msgstr "Pieter Brugel, Tuathanaich a’ buain – 1565"
 
-#: activities/paintings/resource/board/board18_0.qml:26
+#: activities/paintings/resource/board/board18_0.qml:25
 msgctxt "board18_0|"
 msgid "Pierre-Auguste Renoir, Girls At The Piano - 1892"
 msgstr "Pierre-Auguste Renoir, Nigheannan aig a’ phiàno – 1892"
