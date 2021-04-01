@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-29 00:14+0000\n"
+"POT-Creation-Date: 2021-04-01 00:15+0000\n"
 "PO-Revision-Date: 2016-04-30 12:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -596,7 +596,7 @@ msgstr "Co-roinn an widget seo air an lìonra"
 msgid "Allow everybody to freely access this widget"
 msgstr "Leig leis a h-uile duine an widget seo inntrigeadh gu saor"
 
-#: plasma/private/service_p.h:33
+#: plasma/private/service_p.h:32
 #, kde-format
 msgctxt "Error message, tried to start an invalid service"
 msgid "Invalid (null) service, can not perform any operations."
