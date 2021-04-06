@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-27 02:18+0100\n"
+"POT-Creation-Date: 2021-04-06 00:15+0000\n"
 "PO-Revision-Date: 2015-11-04 15:09+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -43,11 +43,6 @@ msgstr "Inneal gus lorg sna faidhlichean a chaidh inneacsadh le Baloo"
 #, kde-format
 msgid "Vishesh Handa"
 msgstr "Vishesh Handa"
-
-#: main.cpp:31
-#, kde-format
-msgid "Maintainer"
-msgstr "Neach-glèidhidh"
 
 #: main.cpp:37
 #, kde-format
@@ -113,3 +108,6 @@ msgstr ""
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr ""
+
+#~ msgid "Maintainer"
+#~ msgstr "Neach-glèidhidh"

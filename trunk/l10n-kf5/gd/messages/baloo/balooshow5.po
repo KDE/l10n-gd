@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-27 02:18+0100\n"
+"POT-Creation-Date: 2021-04-06 00:15+0000\n"
 "PO-Revision-Date: 2015-11-04 15:09+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -96,33 +96,33 @@ msgstr ""
 msgid "%1: Failed to parse inode number"
 msgstr ""
 
-#: main.cpp:168
+#: main.cpp:165
 #, fuzzy, kde-format
 #| msgid "No index information found"
 msgid "%1: No index information found"
 msgstr "Cha deach fiosrachadh an inneics a lorg"
 
-#: main.cpp:217
+#: main.cpp:214
 #, kde-format
 msgid "Internal Info"
 msgstr ""
 
-#: main.cpp:218
+#: main.cpp:215
 #, kde-format
 msgid "Terms: %1"
 msgstr ""
 
-#: main.cpp:219
+#: main.cpp:216
 #, kde-format
 msgid "File Name Terms: %1"
 msgstr ""
 
-#: main.cpp:220
+#: main.cpp:217
 #, kde-format
 msgid "%1 Terms: %2"
 msgstr ""
 
-#: main.cpp:223
+#: main.cpp:220
 #, kde-format
 msgctxt "Prefix string for internal errors"
 msgid "Internal Error - %1"
