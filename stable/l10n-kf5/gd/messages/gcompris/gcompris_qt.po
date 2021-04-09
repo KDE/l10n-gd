@@ -16023,14 +16023,14 @@ msgstr ""
 "Chì thu nì air a’ phrìomh raon is facal neo-choileanta fon dealbh. Tagh an "
 "litir a tha a dhìth gus am facal a dhèanamh coileanta."
 
-#: activities/missing-letter/MissingLetter.qml:322
+#: activities/missing-letter/MissingLetter.qml:327
 msgctxt "MissingLetter|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 "Tha sinn duilich ach chan eil eadar-theangachadh againn ’nad chànan aig an "
 "ìre-sa."
 
-#: activities/missing-letter/MissingLetter.qml:323
+#: activities/missing-letter/MissingLetter.qml:328
 #, qt-format
 msgctxt "MissingLetter|"
 msgid ""
@@ -16041,7 +16041,7 @@ msgstr ""
 "a chumail ris an obair eadar-theangachaidh ma thèid thu gu <a href=\"%2\">"
 "%2</a>"
 
-#: activities/missing-letter/MissingLetter.qml:325
+#: activities/missing-letter/MissingLetter.qml:330
 msgctxt "MissingLetter|"
 msgid ""
 "We switched to English for this activity but you can select another language "
