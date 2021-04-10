@@ -21760,7 +21760,7 @@ msgid ""
 "All the units except 4 and 9 are built using sums of I and V:\n"
 "I, II, III, V, VI, VII, VIII.\n"
 " The 4 and the 9 units are built using differences:\n"
-"IV (5 – 1) and IX (10 – 1)"
+"IV (5 – 1) and IX (10 – 1)."
 msgstr ""
 
 #: activities/roman_numerals/RomanNumerals.qml:102
@@ -21770,8 +21770,7 @@ msgid ""
 "All the tens except 40 and 90 are built using sums of X and L:\n"
 "X, XX, XXX, L, LX, LXX, LXXX.\n"
 "The 40 and the 90 tens are built using differences:\n"
-"XL (10 taken from 50) and XC (10 taken from 100)\n"
-" "
+"XL (10 taken from 50) and XC (10 taken from 100)."
 msgstr ""
 
 #: activities/roman_numerals/RomanNumerals.qml:114
@@ -21781,7 +21780,7 @@ msgid ""
 "All the hundreds except 400 and 900 are built using sums of C and D:\n"
 "C, CC, CCC, D, DC, DCC, DCCC.\n"
 "The 400 and the 900 hundreds are built using differences:\n"
-"CD (100 taken from 500) and CM (100 taken from 1000)"
+"CD (100 taken from 500) and CM (100 taken from 1000)."
 msgstr ""
 
 #: activities/roman_numerals/RomanNumerals.qml:126
@@ -21792,7 +21791,7 @@ msgid ""
 "Notice that you cannot join more than three identical symbols. The first "
 "implication of this rule is that you cannot use just sums for building all "
 "possible units, tens or hundreds, you must use differences too. On the other "
-"hand, it limits the maximum roman number to 3999 (MMMCMXCIX).\n"
+"hand, it limits the maximum roman number to 3999 (MMMCMXCIX)."
 msgstr ""
 
 #: activities/roman_numerals/RomanNumerals.qml:138
