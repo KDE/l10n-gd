@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-07 00:16+0000\n"
+"POT-Creation-Date: 2021-04-24 00:15+0000\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -538,15 +538,13 @@ msgstr ""
 msgid "About"
 msgstr "Mu %1"
 
-#: ksettings/componentsdialog.cpp:44
-#, kde-format
-msgid "Select Components"
-msgstr "Tagh co-phàirtean"
-
 #: ksettings/dialog.cpp:216
 #, kde-format
 msgid "Enable component"
 msgstr "Cuir a' cho-phàirt an comas"
+
+#~ msgid "Select Components"
+#~ msgstr "Tagh co-phàirtean"
 
 #~ msgctxt "Used only for plugins"
 #~ msgid "About %1"
