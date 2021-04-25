@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-24 00:15+0000\n"
+"POT-Creation-Date: 2021-04-25 00:15+0000\n"
 "PO-Revision-Date: 2016-04-30 12:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -364,117 +364,117 @@ msgstr "Faidhle rèiteachaidh XML"
 msgid "Custom expander for compact applets"
 msgstr "Meudaichear gnàthaichte dha dh'aplaidean teannta"
 
-#: plasma/pluginloader.cpp:93
+#: plasma/pluginloader.cpp:92
 #, kde-format
 msgid "Accessibility"
 msgstr "So-ruigsinneachd"
 
-#: plasma/pluginloader.cpp:94
+#: plasma/pluginloader.cpp:93
 #, kde-format
 msgid "Application Launchers"
 msgstr "Lòinsearan aplacaidean"
 
-#: plasma/pluginloader.cpp:95
+#: plasma/pluginloader.cpp:94
 #, kde-format
 msgid "Astronomy"
 msgstr "Reul-eòlas"
 
-#: plasma/pluginloader.cpp:96
+#: plasma/pluginloader.cpp:95
 #, kde-format
 msgid "Date and Time"
 msgstr "Ceann-là 's àm"
 
-#: plasma/pluginloader.cpp:97
+#: plasma/pluginloader.cpp:96
 #, kde-format
 msgid "Development Tools"
 msgstr "Innealan leasachaidh"
 
-#: plasma/pluginloader.cpp:98
+#: plasma/pluginloader.cpp:97
 #, kde-format
 msgid "Education"
 msgstr "Foghlam"
 
-#: plasma/pluginloader.cpp:99
+#: plasma/pluginloader.cpp:98
 #, kde-format
 msgid "Environment and Weather"
 msgstr "An t-àrainneachd 's an aimsir"
 
-#: plasma/pluginloader.cpp:100
+#: plasma/pluginloader.cpp:99
 #, kde-format
 msgid "Examples"
 msgstr "Buill-eisimpleir"
 
-#: plasma/pluginloader.cpp:101
+#: plasma/pluginloader.cpp:100
 #, kde-format
 msgid "File System"
 msgstr "Siostam fhaidhlichean"
 
-#: plasma/pluginloader.cpp:102
+#: plasma/pluginloader.cpp:101
 #, kde-format
 msgid "Fun and Games"
 msgstr "Tlachd is geamannan"
 
-#: plasma/pluginloader.cpp:103
+#: plasma/pluginloader.cpp:102
 #, kde-format
 msgid "Graphics"
 msgstr "Grafaigeachd"
 
-#: plasma/pluginloader.cpp:104
+#: plasma/pluginloader.cpp:103
 #, kde-format
 msgid "Language"
 msgstr "Cànan"
 
-#: plasma/pluginloader.cpp:105
+#: plasma/pluginloader.cpp:104
 #, kde-format
 msgid "Mapping"
 msgstr "Mapachadh"
 
-#: plasma/pluginloader.cpp:106
+#: plasma/pluginloader.cpp:105
 #, kde-format
 msgid "Miscellaneous"
 msgstr "Eile"
 
-#: plasma/pluginloader.cpp:107
+#: plasma/pluginloader.cpp:106
 #, kde-format
 msgid "Multimedia"
 msgstr "Ioma-mheadhanan"
 
-#: plasma/pluginloader.cpp:108
+#: plasma/pluginloader.cpp:107
 #, kde-format
 msgid "Online Services"
 msgstr "Seirbheisean air loidhne"
 
-#: plasma/pluginloader.cpp:109
+#: plasma/pluginloader.cpp:108
 #, kde-format
 msgid "Productivity"
 msgstr "Dèanadas"
 
-#: plasma/pluginloader.cpp:110
+#: plasma/pluginloader.cpp:109
 #, kde-format
 msgid "System Information"
 msgstr "Fiosrachadh an t-siostaim"
 
-#: plasma/pluginloader.cpp:111
+#: plasma/pluginloader.cpp:110
 #, kde-format
 msgid "Utilities"
 msgstr "Goireasan"
 
-#: plasma/pluginloader.cpp:112
+#: plasma/pluginloader.cpp:111
 #, kde-format
 msgid "Windows and Tasks"
 msgstr "Uinneagan is saothraichean"
 
-#: plasma/pluginloader.cpp:113
+#: plasma/pluginloader.cpp:112
 #, kde-format
 msgid "Clipboard"
 msgstr "Stòr-bhòrd"
 
-#: plasma/pluginloader.cpp:114
+#: plasma/pluginloader.cpp:113
 #, kde-format
 msgid "Tasks"
 msgstr "Saothraichean"
 
-#: plasma/pluginloader.cpp:626 plasma/pluginloader.cpp:627
+#: plasma/pluginloader.cpp:625 plasma/pluginloader.cpp:626
 #, kde-format
 msgctxt "misc category"
 msgid "Miscellaneous"
