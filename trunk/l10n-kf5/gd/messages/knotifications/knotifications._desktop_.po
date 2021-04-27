@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-09-26 00:38+0000\n"
+"POT-Creation-Date: 2021-04-27 00:26+0000\n"
 "PO-Revision-Date: 2016-04-29 13:13+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,37 +21,37 @@ msgctxt "Name"
 msgid "Fatal Error"
 msgstr "Mearachd mharbhtach"
 
-#: src/android_defaults.notifyrc:51
+#: src/android_defaults.notifyrc:52
 msgctxt "Comment"
 msgid "There was a serious error causing the program to exit"
 msgstr "Chaidh am prògram fhàgail ri linn mearachd dona"
 
-#: src/android_defaults.notifyrc:103
+#: src/android_defaults.notifyrc:105
 msgctxt "Name"
 msgid "Notification"
 msgstr "Brath"
 
-#: src/android_defaults.notifyrc:153
+#: src/android_defaults.notifyrc:155
 msgctxt "Comment"
 msgid "Something special happened in the program"
 msgstr "Thachair rudeigin sònraichte sa phrògram"
 
-#: src/android_defaults.notifyrc:205
+#: src/android_defaults.notifyrc:207
 msgctxt "Name"
 msgid "Warning"
 msgstr "Rabhadh"
 
-#: src/android_defaults.notifyrc:255
+#: src/android_defaults.notifyrc:257
 msgctxt "Comment"
 msgid "There was an error in the program which may cause problems"
 msgstr "Bha mearachd sa phrògram a dh'adhbharaicheas trioblaid ma dh'fhaoidte"
 
-#: src/android_defaults.notifyrc:307
+#: src/android_defaults.notifyrc:309
 msgctxt "Name"
 msgid "Catastrophe"
 msgstr "Tubaist"
 
-#: src/android_defaults.notifyrc:356
+#: src/android_defaults.notifyrc:358
 msgctxt "Comment"
 msgid "A very serious error occurred, at least causing the program to exit"
 msgstr ""
