@@ -17000,7 +17000,7 @@ msgstr ""
 "Thoir sùil air an dà dhealbh gu cùramach. Tha eadar-dhealachaidhean beaga "
 "ann. Nuair a lorgas tu eadar-dhealachadh, feumaidh tu briogadh air."
 
-#: activities/photo_hunter/PhotoHunter.qml:107
+#: activities/photo_hunter/PhotoHunter.qml:106
 #, fuzzy
 #| msgctxt "PhotoHunter|"
 #| msgid "Drag the slider to show the differences!"
@@ -17008,7 +17008,7 @@ msgctxt "PhotoHunter|"
 msgid "Drag the slider to show the differences."
 msgstr "Slaod an sleamhnachan airson an t-eadar-dhealachadh a shealltainn!"
 
-#: activities/photo_hunter/PhotoHunter.qml:108
+#: activities/photo_hunter/PhotoHunter.qml:107
 #, fuzzy
 #| msgctxt "PhotoHunter|"
 #| msgid "Click on the differences between the two images!"
