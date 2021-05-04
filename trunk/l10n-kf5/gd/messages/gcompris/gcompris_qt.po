@@ -20170,12 +20170,12 @@ msgid ""
 "you find a difference you must click on it."
 msgstr ""
 
-#: activities/photo_hunter/PhotoHunter.qml:96
+#: activities/photo_hunter/PhotoHunter.qml:95
 msgctxt "PhotoHunter|"
 msgid "Drag the slider to show the differences."
 msgstr ""
 
-#: activities/photo_hunter/PhotoHunter.qml:97
+#: activities/photo_hunter/PhotoHunter.qml:96
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Click on the word corresponding to the printed image."
