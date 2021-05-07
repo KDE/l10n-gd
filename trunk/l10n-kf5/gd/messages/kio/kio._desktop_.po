@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-20 00:27+0000\n"
+"POT-Creation-Date: 2021-05-07 00:27+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -172,245 +172,6 @@ msgstr ""
 "Broadcast,WINS,Share,Login,Passwords,cliant SMB,lìonra Windows,lìonra,"
 "nàbaidheachd,nàbaidhean,frithealaiche,craoladh,co-roinneadh,clàradh a-steach,"
 "clàraich a-steach,facal-faire,faclan-faire"
-
-#: src/kcms/kio/uasprovider.desktop:4
-msgctxt "Comment"
-msgid "UserAgent Strings"
-msgstr "Sreangan UserAgent"
-
-#: src/kcms/kio/uasproviders/android10.desktop:2
-msgctxt "Name"
-msgid "UADescription (Android Phone 1.0)"
-msgstr "UADescription (Fòn Android 1.0)"
-
-#: src/kcms/kio/uasproviders/chrome10onwinnt51.desktop:2
-msgctxt "Name"
-msgid "UADescription (Google Chrome 1.0 on Windows XP)"
-msgstr "UADescription (Google Chrome 1.0 air Windows XP)"
-
-#: src/kcms/kio/uasproviders/chrome22oncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (Google Chrome 22.0)"
-msgstr "UADescription (Google Chrome 22.0)"
-
-#: src/kcms/kio/uasproviders/chrome23oncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (Google Chrome 23.0)"
-msgstr "UADescription (Google Chrome 23.0)"
-
-#: src/kcms/kio/uasproviders/chrome24oncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (Google Chrome 24.0)"
-msgstr "UADescription (Google Chrome 24.0)"
-
-#: src/kcms/kio/uasproviders/chrome50oncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (Google Chrome 5.0)"
-msgstr "UADescription (Google Chrome 5.0)"
-
-#: src/kcms/kio/uasproviders/chrome570oncurrent.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Google Chrome 5.0)"
-msgctxt "Name"
-msgid "UADescription (Google Chrome 57.0)"
-msgstr "UADescription (Google Chrome 5.0)"
-
-#: src/kcms/kio/uasproviders/firefox15oncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (Firefox 15 on current)"
-msgstr "UADescription (Firefox 15 air an fhear làithreach)"
-
-#: src/kcms/kio/uasproviders/firefox16oncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (Firefox 16 on current)"
-msgstr "UADescription (Firefox 16 air an fhear làithreach)"
-
-#: src/kcms/kio/uasproviders/firefox20oncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (Firefox 2.0 on current)"
-msgstr "UADescription (Firefox 2.0 air an fhear làithreach)"
-
-#: src/kcms/kio/uasproviders/firefox30oncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (Firefox 3.0 on current)"
-msgstr "UADescription (Firefox 3.0 air an fhear làithreach)"
-
-#: src/kcms/kio/uasproviders/firefox36oncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (Firefox 3.6 on current)"
-msgstr "UADescription (Firefox 3.6 air an fhear làithreach)"
-
-#: src/kcms/kio/uasproviders/firefox520oncurrent.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Firefox 2.0 on current)"
-msgctxt "Name"
-msgid "UADescription (Firefox 52.0 on current)"
-msgstr "UADescription (Firefox 2.0 air an fhear làithreach)"
-
-#: src/kcms/kio/uasproviders/googlebot.desktop:2
-msgctxt "Name"
-msgid "UADescription (Googlebot/2.1)"
-msgstr "UADescription (Googlebot/2.1)"
-
-#: src/kcms/kio/uasproviders/ie401onwinnt4.desktop:2
-msgctxt "Name"
-msgid "UADescription (IE 4.01 on Win 2000)"
-msgstr "UADescription (IE 4.01 air Win 2000)"
-
-#: src/kcms/kio/uasproviders/ie50onppc.desktop:2
-msgctxt "Name"
-msgid "UADescription (IE 5.0 on Mac PPC)"
-msgstr "UADescription (IE 5.0 air Mac PPC)"
-
-#: src/kcms/kio/uasproviders/ie55onwinnt5.desktop:2
-msgctxt "Name"
-msgid "UADescription (IE 5.5 on Win 2000)"
-msgstr "UADescription (IE 5.5 air Win 2000)"
-
-#: src/kcms/kio/uasproviders/ie60oncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (IE 6.0 on current)"
-msgstr "UADescription (IE 6.0 air an fhear làithreach)"
-
-#: src/kcms/kio/uasproviders/ie60onwinnt51.desktop:2
-msgctxt "Name"
-msgid "UADescription (IE 6.0 on Win XP)"
-msgstr "UADescription (IE 6.0 air Win XP)"
-
-#: src/kcms/kio/uasproviders/ie70onwinnt51.desktop:2
-msgctxt "Name"
-msgid "UADescription (IE 7.0 on Win XP)"
-msgstr "UADescription (IE 7.0 air Win XP)"
-
-#: src/kcms/kio/uasproviders/ie80onwinnt60.desktop:2
-msgctxt "Name"
-msgid "UADescription (IE 8.0 on Windows Vista)"
-msgstr "UADescription (IE 8.0 air Windows Vista)"
-
-#: src/kcms/kio/uasproviders/ie90onwinnt71.desktop:2
-msgctxt "Name"
-msgid "UADescription (IE 9.0 on Windows Seven)"
-msgstr "UADescription (IE 9.0 air Windows 7)"
-
-#: src/kcms/kio/uasproviders/lynxoncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (Lynx 2.8.3)"
-msgstr "UADescription (Lynx 2.8.3)"
-
-#: src/kcms/kio/uasproviders/nn301oncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (NN 3.01 on current)"
-msgstr "UADescription (NN 3.01 air an fhear làithreach)"
-
-#: src/kcms/kio/uasproviders/nn475oncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (NN 4.76 on current)"
-msgstr "UADescription (NN 4.76 air an fhear làithreach)"
-
-#: src/kcms/kio/uasproviders/nn475onwin95.desktop:2
-msgctxt "Name"
-msgid "UADescription (NN 4.7 on Windows 95)"
-msgstr "UADescription (NN 4.7 air Windows 95)"
-
-#: src/kcms/kio/uasproviders/ns71oncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (Netscape 7.1 on current)"
-msgstr "UADescription (Netscape 7.1 air an fhear làithreach)"
-
-#: src/kcms/kio/uasproviders/ns71onwinnt51.desktop:2
-msgctxt "Name"
-msgid "UADescription (Netscape 7.1 on XP)"
-msgstr "UADescription (Netscape 7.1 air XP)"
-
-#: src/kcms/kio/uasproviders/op1162oncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (Opera 11.62 on current)"
-msgstr "UADescription (Opera 11.62 air an fhear làithreach)"
-
-#: src/kcms/kio/uasproviders/op1202oncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (Opera 12.02 on current)"
-msgstr "UADescription (Opera 12.02 air an fhear làithreach)"
-
-#: src/kcms/kio/uasproviders/op403onwinnt4.desktop:2
-msgctxt "Name"
-msgid "UADescription (Opera 4.03 on NT)"
-msgstr "UADescription (Opera 4.03 air NT)"
-
-#: src/kcms/kio/uasproviders/op85oncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (Opera 8.5 on current)"
-msgstr "UADescription (Opera 8.5 air an fhear làithreach)"
-
-#: src/kcms/kio/uasproviders/op90oncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (Opera 9.00 on current)"
-msgstr "UADescription (Opera 9.00 air an fhear làithreach)"
-
-#: src/kcms/kio/uasproviders/op962oncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (Opera 9.62 on current)"
-msgstr "UADescription (Opera 9.62 air an fhear làithreach)"
-
-#: src/kcms/kio/uasproviders/safari20.desktop:2
-msgctxt "Name"
-msgid "UADescription (Safari 2.0 on MacOS X)"
-msgstr "UADescription (Safari 2.0 air MacOS X)"
-
-#: src/kcms/kio/uasproviders/safari30oniphone.desktop:2
-msgctxt "Name"
-msgid "UADescription (Safari 3.0 on iPhone)"
-msgstr "UADescription (Safari 3.0 air iPhone)"
-
-#: src/kcms/kio/uasproviders/safari32.desktop:2
-msgctxt "Name"
-msgid "UADescription (Safari 3.2 on MacOS X)"
-msgstr "UADescription (Safari 3.2 air MacOS X)"
-
-#: src/kcms/kio/uasproviders/safari40.desktop:2
-msgctxt "Name"
-msgid "UADescription (Safari 4.0 on MacOS X)"
-msgstr "UADescription (Safari 4.0 air MacOS X)"
-
-#: src/kcms/kio/uasproviders/safari517.desktop:2
-msgctxt "Name"
-msgid "UADescription (Safari 5.1.7 on MacOS X)"
-msgstr "UADescription (Safari 5.1.7 air MacOS X)"
-
-#: src/kcms/kio/uasproviders/safari60.desktop:2
-msgctxt "Name"
-msgid "UADescription (Safari 6.0 on MacOS X)"
-msgstr "UADescription (Safari 6.0 air MacOS X)"
-
-#: src/kcms/kio/uasproviders/w3moncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (w3m 0.1.9)"
-msgstr "UADescription (w3m 0.1.9)"
-
-#: src/kcms/kio/uasproviders/wgetoncurrent.desktop:2
-msgctxt "Name"
-msgid "UADescription (Wget 1.11.4)"
-msgstr "UADescription (Wget 1.11.4)"
-
-#: src/kcms/kio/useragent.desktop:13
-msgctxt "Name"
-msgid "Browser Identification"
-msgstr "Aithneachadh a' bhrabhsair"
-
-#: src/kcms/kio/useragent.desktop:98
-msgctxt "Comment"
-msgid "Configure the User Agent exposed by the HTTP kioslave"
-msgstr ""
-
-#: src/kcms/kio/useragent.desktop:141
-msgctxt "X-KDE-Keywords"
-msgid "User Agent,Browser,Internet,WWW,Network,agent,bindings,server,login"
-msgstr ""
-"User Agent,Browser,Internet,WWW,Network,agent,bindings,server,login,àidseant "
-"cleachdaiche,brabhsair,eadar-lìon,lìonra,àidseant,nasgadh,frithealaiche,"
-"clàradh a-steach,clàraich a-steach"
 
 #: src/kcms/webshortcuts/webshortcuts.desktop:13
 #, fuzzy
@@ -2229,6 +1990,195 @@ msgstr "Plugan airson còmhradh nan roghainnean"
 msgctxt "Name"
 msgid "Enhanced Browsing Plugin"
 msgstr "Plugan airson brabhsadh leasaichte"
+
+#~ msgctxt "Comment"
+#~ msgid "UserAgent Strings"
+#~ msgstr "Sreangan UserAgent"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Android Phone 1.0)"
+#~ msgstr "UADescription (Fòn Android 1.0)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Google Chrome 1.0 on Windows XP)"
+#~ msgstr "UADescription (Google Chrome 1.0 air Windows XP)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Google Chrome 22.0)"
+#~ msgstr "UADescription (Google Chrome 22.0)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Google Chrome 23.0)"
+#~ msgstr "UADescription (Google Chrome 23.0)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Google Chrome 24.0)"
+#~ msgstr "UADescription (Google Chrome 24.0)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Google Chrome 5.0)"
+#~ msgstr "UADescription (Google Chrome 5.0)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Google Chrome 5.0)"
+#~ msgctxt "Name"
+#~ msgid "UADescription (Google Chrome 57.0)"
+#~ msgstr "UADescription (Google Chrome 5.0)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Firefox 15 on current)"
+#~ msgstr "UADescription (Firefox 15 air an fhear làithreach)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Firefox 16 on current)"
+#~ msgstr "UADescription (Firefox 16 air an fhear làithreach)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Firefox 2.0 on current)"
+#~ msgstr "UADescription (Firefox 2.0 air an fhear làithreach)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Firefox 3.0 on current)"
+#~ msgstr "UADescription (Firefox 3.0 air an fhear làithreach)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Firefox 3.6 on current)"
+#~ msgstr "UADescription (Firefox 3.6 air an fhear làithreach)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "UADescription (Firefox 2.0 on current)"
+#~ msgctxt "Name"
+#~ msgid "UADescription (Firefox 52.0 on current)"
+#~ msgstr "UADescription (Firefox 2.0 air an fhear làithreach)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Googlebot/2.1)"
+#~ msgstr "UADescription (Googlebot/2.1)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (IE 4.01 on Win 2000)"
+#~ msgstr "UADescription (IE 4.01 air Win 2000)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (IE 5.0 on Mac PPC)"
+#~ msgstr "UADescription (IE 5.0 air Mac PPC)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (IE 5.5 on Win 2000)"
+#~ msgstr "UADescription (IE 5.5 air Win 2000)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (IE 6.0 on current)"
+#~ msgstr "UADescription (IE 6.0 air an fhear làithreach)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (IE 6.0 on Win XP)"
+#~ msgstr "UADescription (IE 6.0 air Win XP)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (IE 7.0 on Win XP)"
+#~ msgstr "UADescription (IE 7.0 air Win XP)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (IE 8.0 on Windows Vista)"
+#~ msgstr "UADescription (IE 8.0 air Windows Vista)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (IE 9.0 on Windows Seven)"
+#~ msgstr "UADescription (IE 9.0 air Windows 7)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Lynx 2.8.3)"
+#~ msgstr "UADescription (Lynx 2.8.3)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (NN 3.01 on current)"
+#~ msgstr "UADescription (NN 3.01 air an fhear làithreach)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (NN 4.76 on current)"
+#~ msgstr "UADescription (NN 4.76 air an fhear làithreach)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (NN 4.7 on Windows 95)"
+#~ msgstr "UADescription (NN 4.7 air Windows 95)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Netscape 7.1 on current)"
+#~ msgstr "UADescription (Netscape 7.1 air an fhear làithreach)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Netscape 7.1 on XP)"
+#~ msgstr "UADescription (Netscape 7.1 air XP)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Opera 11.62 on current)"
+#~ msgstr "UADescription (Opera 11.62 air an fhear làithreach)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Opera 12.02 on current)"
+#~ msgstr "UADescription (Opera 12.02 air an fhear làithreach)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Opera 4.03 on NT)"
+#~ msgstr "UADescription (Opera 4.03 air NT)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Opera 8.5 on current)"
+#~ msgstr "UADescription (Opera 8.5 air an fhear làithreach)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Opera 9.00 on current)"
+#~ msgstr "UADescription (Opera 9.00 air an fhear làithreach)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Opera 9.62 on current)"
+#~ msgstr "UADescription (Opera 9.62 air an fhear làithreach)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Safari 2.0 on MacOS X)"
+#~ msgstr "UADescription (Safari 2.0 air MacOS X)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Safari 3.0 on iPhone)"
+#~ msgstr "UADescription (Safari 3.0 air iPhone)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Safari 3.2 on MacOS X)"
+#~ msgstr "UADescription (Safari 3.2 air MacOS X)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Safari 4.0 on MacOS X)"
+#~ msgstr "UADescription (Safari 4.0 air MacOS X)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Safari 5.1.7 on MacOS X)"
+#~ msgstr "UADescription (Safari 5.1.7 air MacOS X)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Safari 6.0 on MacOS X)"
+#~ msgstr "UADescription (Safari 6.0 air MacOS X)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (w3m 0.1.9)"
+#~ msgstr "UADescription (w3m 0.1.9)"
+
+#~ msgctxt "Name"
+#~ msgid "UADescription (Wget 1.11.4)"
+#~ msgstr "UADescription (Wget 1.11.4)"
+
+#~ msgctxt "Name"
+#~ msgid "Browser Identification"
+#~ msgstr "Aithneachadh a' bhrabhsair"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "User Agent,Browser,Internet,WWW,Network,agent,bindings,server,login"
+#~ msgstr ""
+#~ "User Agent,Browser,Internet,WWW,Network,agent,bindings,server,login,"
+#~ "àidseant cleachdaiche,brabhsair,eadar-lìon,lìonra,àidseant,nasgadh,"
+#~ "frithealaiche,clàradh a-steach,clàraich a-steach"
 
 #~ msgctxt "Name"
 #~ msgid "Web Shortcuts"
