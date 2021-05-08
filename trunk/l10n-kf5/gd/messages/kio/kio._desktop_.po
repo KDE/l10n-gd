@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-07 00:27+0000\n"
+"POT-Creation-Date: 2021-05-08 00:26+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -81,23 +81,6 @@ msgstr "Rèitich roghainnean an sgudail"
 msgctxt "X-KDE-Keywords"
 msgid "trash"
 msgstr "An sgudal"
-
-#: src/kcms/kio/cache.desktop:14
-msgctxt "Name"
-msgid "Cache"
-msgstr "Tasgadan"
-
-#: src/kcms/kio/cache.desktop:103
-msgctxt "Comment"
-msgid "Configure web cache settings"
-msgstr "Rèitich roghainnean an tasgadain-lìn"
-
-#: src/kcms/kio/cache.desktop:151
-msgctxt "X-KDE-Keywords"
-msgid "Cache,History,Browsing History,Ports,Size"
-msgstr ""
-"Cache,History,Browsing History,Ports,Size,tasgadan,eachdraidh,eachdraidh "
-"brabhsaidh,port,puirt,meud"
 
 #: src/kcms/kio/cookies.desktop:14
 msgctxt "Name"
@@ -1990,6 +1973,20 @@ msgstr "Plugan airson còmhradh nan roghainnean"
 msgctxt "Name"
 msgid "Enhanced Browsing Plugin"
 msgstr "Plugan airson brabhsadh leasaichte"
+
+#~ msgctxt "Name"
+#~ msgid "Cache"
+#~ msgstr "Tasgadan"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure web cache settings"
+#~ msgstr "Rèitich roghainnean an tasgadain-lìn"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "Cache,History,Browsing History,Ports,Size"
+#~ msgstr ""
+#~ "Cache,History,Browsing History,Ports,Size,tasgadan,eachdraidh,eachdraidh "
+#~ "brabhsaidh,port,puirt,meud"
 
 #~ msgctxt "Comment"
 #~ msgid "UserAgent Strings"
