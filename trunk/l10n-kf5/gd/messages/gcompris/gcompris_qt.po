@@ -13879,7 +13879,7 @@ msgstr ""
 
 #: activities/geography/resource/board/board6_0.qml:109
 msgctxt "board6_0|"
-msgid "Macedonia"
+msgid "North Macedonia"
 msgstr ""
 
 #: activities/geography/resource/board/board6_0.qml:117
