@@ -1456,7 +1456,7 @@ msgstr ""
 #. Activity title
 #: activities/analog_electricity/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
-msgid "Analog Electricity"
+msgid "Analog electricity"
 msgstr ""
 
 #. Help title
@@ -1966,7 +1966,7 @@ msgstr ""
 #. Activity title
 #: activities/baby_tangram/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
-msgid "Baby Puzzle"
+msgid "Baby puzzle"
 msgstr ""
 
 #. Help title
@@ -2098,7 +2098,7 @@ msgstr ""
 #. Activity title
 #: activities/babymatch/ActivityInfo.qml:18
 msgctxt "ActivityInfo|"
-msgid "Matching Items"
+msgid "Matching items"
 msgstr ""
 
 #. Help title
@@ -2107,7 +2107,7 @@ msgstr ""
 #| msgctxt "ActivityInfo|"
 #| msgid "Drag and Drop weights to balance the scales"
 msgctxt "ActivityInfo|"
-msgid "Drag and Drop the items to match them."
+msgid "Drag and drop the items to match them."
 msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
 
 #. Help goal
@@ -2136,12 +2136,11 @@ msgid ""
 msgstr ""
 
 #: activities/babymatch/resource/board/board1_0.qml:14
-#: activities/babyshapes/resource/board/board1_0.qml:14
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Drag and Drop weights to balance the scales"
 msgctxt "board1_0|"
-msgid "Drag and Drop the items to match them."
+msgid "Drag and drop the items to match them."
 msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
 
 #. Activity title
@@ -2171,6 +2170,14 @@ msgstr ""
 msgctxt "ActivityInfo|"
 msgid "The dog is provided by Andre Connes and released under the GPL"
 msgstr ""
+
+#: activities/babyshapes/resource/board/board1_0.qml:14
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Drag and Drop weights to balance the scales"
+msgctxt "board1_0|"
+msgid "Drag and Drop the items to match them."
+msgstr "Slaod cuideaman is leig às iad gus meidh a chur air"
 
 #: activities/babyshapes/resource/board/board5_0.qml:14
 msgctxt "board5_0|"
@@ -2244,9 +2251,12 @@ msgstr ""
 
 #. Activity title
 #: activities/balancebox/ActivityInfo.qml:18
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Balance the scales properly"
 msgctxt "ActivityInfo|"
-msgid "Balance Box"
-msgstr ""
+msgid "Balance box"
+msgstr "Cuir cuideam co-ionnan air a’ mheidh"
 
 #. Help title
 #: activities/balancebox/ActivityInfo.qml:20
@@ -2898,7 +2908,7 @@ msgstr ""
 #. Activity title
 #: activities/braille_fun/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
-msgid "Braille Fun"
+msgid "Braille fun"
 msgstr ""
 
 #. Help title
@@ -4776,8 +4786,11 @@ msgstr ""
 
 #. Activity title
 #: activities/clickgame/ActivityInfo.qml:15
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Click On Me"
 msgctxt "ActivityInfo|"
-msgid "Click On Me"
+msgid "Click on me"
 msgstr "Briog orm"
 
 #. Help title
@@ -4844,8 +4857,11 @@ msgstr ""
 
 #. Activity title
 #: activities/clockgame/ActivityInfo.qml:15
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learning Clock"
 msgctxt "ActivityInfo|"
-msgid "Learning Clock"
+msgid "Learning clock"
 msgstr "Ag ionnsachadh an uaireadair"
 
 #. Help title
@@ -5516,9 +5532,12 @@ msgstr ""
 
 #. Activity title
 #: activities/digital_electricity/ActivityInfo.qml:15
+#, fuzzy
+#| msgctxt "instruments|"
+#| msgid "Find the electric guitar"
 msgctxt "ActivityInfo|"
-msgid "Digital Electricity"
-msgstr ""
+msgid "Digital electricity"
+msgstr "Lorg an giotàr-dealain"
 
 #. Help title
 #: activities/digital_electricity/ActivityInfo.qml:17
@@ -6145,7 +6164,7 @@ msgstr ""
 #| msgctxt "ActivityInfo|"
 #| msgid "Simple Letters"
 msgctxt "ActivityInfo|"
-msgid "Draw Letters"
+msgid "Draw letters"
 msgstr "Litrichean simplidh"
 
 #. Help title
@@ -6175,7 +6194,7 @@ msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
 #| msgctxt "ActivityInfo|"
 #| msgid "Simple Letters"
 msgctxt "ActivityInfo|"
-msgid "Draw Numbers"
+msgid "Draw numbers"
 msgstr "Litrichean simplidh"
 
 #. Help title
@@ -6471,7 +6490,7 @@ msgstr ""
 #. Activity title
 #: activities/explore_farm_animals/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
-msgid "Explore Farm Animals"
+msgid "Explore farm animals"
 msgstr ""
 
 #. Help title
@@ -6740,14 +6759,17 @@ msgstr "Breab am bàla dhan tadhal"
 
 #. Activity title
 #: activities/explore_monuments/ActivityInfo.qml:15
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Music instruments"
 msgctxt "ActivityInfo|"
-msgid "Explore Monuments"
-msgstr ""
+msgid "Explore monuments"
+msgstr "Innealan-ciùil"
 
 #. Help title
 #: activities/explore_monuments/ActivityInfo.qml:17
 msgctxt "ActivityInfo|"
-msgid "Explore Monuments around the world."
+msgid "Explore monuments around the world."
 msgstr ""
 
 #. Help goal
@@ -7660,7 +7682,7 @@ msgstr "Breab am bàla dhan tadhal"
 #. Activity title
 #: activities/explore_world_animals/ActivityInfo.qml:19
 msgctxt "ActivityInfo|"
-msgid "Explore World Animals"
+msgid "Explore world animals"
 msgstr ""
 
 #. Help title
@@ -7939,7 +7961,7 @@ msgstr "Breab am bàla dhan tadhal"
 #. Activity title
 #: activities/explore_world_music/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
-msgid "Explore World Music"
+msgid "Explore world music"
 msgstr ""
 
 #. Help title
@@ -14432,8 +14454,11 @@ msgstr ""
 
 #. Activity title
 #: activities/gletters/ActivityInfo.qml:15
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Simple Letters"
 msgctxt "ActivityInfo|"
-msgid "Simple Letters"
+msgid "Simple letters"
 msgstr "Litrichean simplidh"
 
 #. Help title
@@ -14460,7 +14485,7 @@ msgstr "Co-cheangladh nan litrichean eadar an sgrìn is am meur-chlàr"
 #. Activity title
 #: activities/gnumch-equality/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
-msgid "Gnumch Equality"
+msgid "Gnumch equality"
 msgstr ""
 
 #. Help title
@@ -14639,7 +14664,7 @@ msgstr ""
 #. Activity title
 #: activities/gnumch-factors/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
-msgid "Gnumch Factors"
+msgid "Gnumch factors"
 msgstr ""
 
 #. Help title
@@ -14680,7 +14705,7 @@ msgstr ""
 #. Activity title
 #: activities/gnumch-inequality/ActivityInfo.qml:16
 msgctxt "ActivityInfo|"
-msgid "Gnumch Inequality"
+msgid "Gnumch inequality"
 msgstr ""
 
 #. Help title
@@ -14739,7 +14764,7 @@ msgstr "Cleachd toirt air falbh"
 #. Activity title
 #: activities/gnumch-multiples/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
-msgid "Gnumch Multiples"
+msgid "Gnumch multiples"
 msgstr ""
 
 #. Help title
@@ -14778,7 +14803,7 @@ msgstr ""
 #. Activity title
 #: activities/gnumch-primes/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
-msgid "Gnumch Primes"
+msgid "Gnumch primes"
 msgstr ""
 
 #. Help title
@@ -14828,7 +14853,7 @@ msgstr ""
 #. Activity title
 #: activities/graph-coloring/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
-msgid "Graph Coloring"
+msgid "Graph coloring"
 msgstr ""
 
 #. Help title
@@ -15403,9 +15428,12 @@ msgstr ""
 
 #. Activity title
 #: activities/imagename/ActivityInfo.qml:18
+#, fuzzy
+#| msgctxt "instruments|"
+#| msgid "Find the triangle"
 msgctxt "ActivityInfo|"
-msgid "Image Name"
-msgstr ""
+msgid "Name the image"
+msgstr "Lorg an triantan"
 
 #. Help title
 #: activities/imagename/ActivityInfo.qml:20
@@ -15861,7 +15889,7 @@ msgstr "Lorg an tiùba"
 #. Activity title
 #: activities/land_safe/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
-msgid "Land Safe"
+msgid "Land safe"
 msgstr ""
 
 #. Help title
@@ -16652,8 +16680,11 @@ msgstr ""
 
 #. Activity title
 #: activities/lightsoff/ActivityInfo.qml:15
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Lights Off"
 msgctxt "ActivityInfo|"
-msgid "Lights Off"
+msgid "Lights off"
 msgstr "Cuir na solasan dheth"
 
 #. Help title
@@ -16751,7 +16782,7 @@ msgstr ""
 #. Activity title
 #: activities/louis-braille/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
-msgid "The History of Louis Braille"
+msgid "The history of Louis Braille"
 msgstr ""
 
 #. Help title
@@ -17118,7 +17149,7 @@ msgstr ""
 #. Activity title
 #: activities/mazeinvisible/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
-msgid "Invisible Maze"
+msgid "Invisible maze"
 msgstr ""
 
 #. Help title
@@ -17165,7 +17196,7 @@ msgstr ""
 #. Activity title
 #: activities/mazerelative/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
-msgid "Relative Maze"
+msgid "Relative maze"
 msgstr ""
 
 #. Help title
@@ -17174,7 +17205,7 @@ msgstr ""
 #| msgctxt "ActivityInfo|"
 #| msgid "Find your way out of the maze (Move is relative)"
 msgctxt "ActivityInfo|"
-msgid "Help Tux get out of this maze (Moves are relative)."
+msgid "Help Tux get out of this maze (moves are relative)."
 msgstr ""
 "Faigh lorg air an t-slighe a-mach às a' chuartan (Tha gluasad dàimheach)"
 
@@ -19258,8 +19289,11 @@ msgstr ""
 
 #. Activity title
 #: activities/missing-letter/ActivityInfo.qml:16
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Missing Letter"
 msgctxt "ActivityInfo|"
-msgid "Missing Letter"
+msgid "Missing letter"
 msgstr "Litir a dhìth"
 
 #. Help title
@@ -19720,7 +19754,7 @@ msgstr ""
 #. Activity title
 #: activities/note_names/ActivityInfo.qml:18
 msgctxt "ActivityInfo|"
-msgid "Name that Note"
+msgid "Name that note"
 msgstr ""
 
 #. Help title
@@ -19808,9 +19842,12 @@ msgstr "Tarraing an dealbh ’s tu a’ briogadh air na dotagan gorma."
 
 #. Activity title
 #: activities/numbers-odd-even/ActivityInfo.qml:15
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Subtraction memory game"
 msgctxt "ActivityInfo|"
-msgid "Even and Odd Numbers"
-msgstr ""
+msgid "Even and odd numbers"
+msgstr "Geama cuimhne toirt air falbh"
 
 #. Help title
 #: activities/numbers-odd-even/ActivityInfo.qml:17
@@ -20131,7 +20168,7 @@ msgstr ""
 #. Activity title
 #: activities/photo_hunter/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
-msgid "Photo Hunter"
+msgid "Photo hunter"
 msgstr ""
 
 #. Help title
@@ -20185,9 +20222,12 @@ msgstr "Briog air an fhacal a fhreagras ris dealbh a chì thu."
 
 #. Activity title
 #: activities/piano_composition/ActivityInfo.qml:16
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Addition"
 msgctxt "ActivityInfo|"
-msgid "Piano Composition"
-msgstr ""
+msgid "Piano composition"
+msgstr "Cur ris"
 
 #. Help title
 #: activities/piano_composition/ActivityInfo.qml:18
@@ -20843,8 +20883,11 @@ msgstr ""
 
 #. Activity title
 #: activities/planegame/ActivityInfo.qml:15
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Numbers in Order"
 msgctxt "ActivityInfo|"
-msgid "Numbers in Order"
+msgid "Numbers in order"
 msgstr "Àireamhan ann an òrdugh"
 
 #. Help title
@@ -21200,7 +21243,7 @@ msgstr ""
 #. Activity title
 #: activities/programmingMaze/ActivityInfo.qml:16
 msgctxt "ActivityInfo|"
-msgid "Programming Maze"
+msgid "Programming maze"
 msgstr ""
 
 #. Help title
@@ -21631,7 +21674,7 @@ msgstr ""
 #. Activity title
 #: activities/renewable_energy/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
-msgid "Renewable Energy"
+msgid "Renewable energy"
 msgstr ""
 
 #. Help title
@@ -23011,7 +23054,7 @@ msgstr ""
 #| msgctxt "ActivityInfo|"
 #| msgid "Numbers With Dice"
 msgctxt "ActivityInfo|"
-msgid "Numbers with Dice"
+msgid "Numbers with dice"
 msgstr "Àireamhan le dìsnean"
 
 #. Help title
@@ -23203,7 +23246,7 @@ msgstr "Briog air an dath cheart"
 #| msgctxt "ActivityInfo|"
 #| msgid "Numbers With Dice"
 msgctxt "ActivityInfo|"
-msgid "Numbers with Dominoes"
+msgid "Numbers with dominoes"
 msgstr "Àireamhan le dìsnean"
 
 #. Help title
@@ -23329,9 +23372,12 @@ msgstr ""
 
 #. Activity title
 #: activities/solar_system/ActivityInfo.qml:18
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Discover the Braille system"
 msgctxt "ActivityInfo|"
-msgid "Solar System"
-msgstr ""
+msgid "Solar system"
+msgstr "Faigh fiosrachadh air Braille"
 
 #. Help title
 #: activities/solar_system/ActivityInfo.qml:20
@@ -24477,7 +24523,7 @@ msgstr "Faigh fiosrachadh air Braille"
 #. Activity title
 #: activities/submarine/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
-msgid "Pilot a Submarine"
+msgid "Pilot a submarine"
 msgstr ""
 
 #. Help title
@@ -24791,7 +24837,7 @@ msgstr "Geama cuimhne toirt air falbh"
 #. Activity title
 #: activities/superbrain/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
-msgid "Super Brain"
+msgid "Super brain"
 msgstr ""
 
 #. Help title
@@ -24956,9 +25002,12 @@ msgstr ""
 
 #. Activity title
 #: activities/tic_tac_toe/ActivityInfo.qml:18
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Audio memory game against Tux"
 msgctxt "ActivityInfo|"
-msgid "Tic Tac Toe (against Tux)"
-msgstr ""
+msgid "Tic tac toe (against Tux)"
+msgstr "Geama cuimhne claisneachd an aghaidh Tux"
 
 #. Help title
 #: activities/tic_tac_toe/ActivityInfo.qml:20
@@ -24999,7 +25048,7 @@ msgstr ""
 #. Activity title
 #: activities/tic_tac_toe_2players/ActivityInfo.qml:18
 msgctxt "ActivityInfo|"
-msgid "Tic Tac Toe (with a friend)"
+msgid "Tic tac toe (with a friend)"
 msgstr ""
 
 #. Help manual
@@ -25161,8 +25210,11 @@ msgstr ""
 
 #. Activity title
 #: activities/wordsgame/ActivityInfo.qml:15
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Falling Words"
 msgctxt "ActivityInfo|"
-msgid "Falling Words"
+msgid "Falling words"
 msgstr "Faclan a' tuiteam"
 
 #. Help title
@@ -26004,13 +26056,6 @@ msgstr ""
 #~ msgctxt "Data|"
 #~ msgid "Numbers between 2 and 18."
 #~ msgstr "Dèan tuairmse air àireamh"
-
-#, fuzzy
-#~| msgctxt "ActivityInfo|"
-#~| msgid "Balance the scales properly"
-#~ msgctxt "Data|"
-#~ msgid "Balance up to 5."
-#~ msgstr "Cuir cuideam co-ionnan air a’ mheidh"
 
 #, fuzzy
 #~| msgctxt "ActivityInfo|"
