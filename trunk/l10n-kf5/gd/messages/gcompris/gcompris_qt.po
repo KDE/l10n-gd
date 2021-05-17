@@ -13465,72 +13465,62 @@ msgctxt "board10_0|"
 msgid "United States Minor Outlying Islands"
 msgstr ""
 
-#: activities/geography/resource/board/board1_0.qml:14
+#: activities/geography/resource/board/board1_0.qml:15
 msgctxt "board1_0|"
 msgid "Continents"
 msgstr ""
 
-#: activities/geography/resource/board/board1_0.qml:23
+#: activities/geography/resource/board/board1_0.qml:24
 msgctxt "board1_0|"
 msgid "Oceania"
 msgstr ""
 
-#: activities/geography/resource/board/board1_0.qml:30
+#: activities/geography/resource/board/board1_0.qml:31
 msgctxt "board1_0|"
 msgid "Europe"
 msgstr ""
 
-#: activities/geography/resource/board/board1_0.qml:37
+#: activities/geography/resource/board/board1_0.qml:38
 msgctxt "board1_0|"
 msgid "Asia"
 msgstr ""
 
-#: activities/geography/resource/board/board1_0.qml:44
+#: activities/geography/resource/board/board1_0.qml:45
 msgctxt "board1_0|"
 msgid "Antarctica"
 msgstr ""
 
-#: activities/geography/resource/board/board1_0.qml:51
+#: activities/geography/resource/board/board1_0.qml:52
 msgctxt "board1_0|"
 msgid "America"
 msgstr ""
 
-#: activities/geography/resource/board/board1_0.qml:58
+#: activities/geography/resource/board/board1_0.qml:59
 msgctxt "board1_0|"
 msgid "Africa"
 msgstr ""
 
-#: activities/geography/resource/board/board2_0.qml:14
+#: activities/geography/resource/board/board2_0.qml:15
 msgctxt "board2_0|"
 msgid "North America"
 msgstr ""
 
-#: activities/geography/resource/board/board2_0.qml:23
-msgctxt "board2_0|"
-msgid "Alaska"
-msgstr ""
-
-#: activities/geography/resource/board/board2_0.qml:30
+#: activities/geography/resource/board/board2_0.qml:24
 msgctxt "board2_0|"
 msgid "United States of America"
 msgstr ""
 
-#: activities/geography/resource/board/board2_0.qml:37
+#: activities/geography/resource/board/board2_0.qml:31
 msgctxt "board2_0|"
 msgid "Mexico"
 msgstr ""
 
-#: activities/geography/resource/board/board2_0.qml:44
-msgctxt "board2_0|"
-msgid "Iceland"
-msgstr ""
-
-#: activities/geography/resource/board/board2_0.qml:51
+#: activities/geography/resource/board/board2_0.qml:38
 msgctxt "board2_0|"
 msgid "Greenland"
 msgstr ""
 
-#: activities/geography/resource/board/board2_0.qml:58
+#: activities/geography/resource/board/board2_0.qml:45
 msgctxt "board2_0|"
 msgid "Canada"
 msgstr ""
@@ -13613,84 +13603,6 @@ msgctxt "board3_0|"
 msgid "Bahamas"
 msgstr ""
 
-#: activities/geography/resource/board/board3_1.qml:14
-msgctxt "board3_1|"
-msgid "Central America"
-msgstr ""
-
-#: activities/geography/resource/board/board3_1.qml:23
-msgctxt "board3_1|"
-msgid "Puerto Rico"
-msgstr ""
-
-#: activities/geography/resource/board/board3_1.qml:30
-msgctxt "board3_1|"
-msgid "Panama"
-msgstr ""
-
-#: activities/geography/resource/board/board3_1.qml:37
-msgctxt "board3_1|"
-msgid "Nicaragua"
-msgstr ""
-
-#: activities/geography/resource/board/board3_1.qml:44
-msgctxt "board3_1|"
-msgid "Mexico"
-msgstr ""
-
-#: activities/geography/resource/board/board3_1.qml:51
-msgctxt "board3_1|"
-msgid "Jamaica"
-msgstr ""
-
-#: activities/geography/resource/board/board3_1.qml:58
-msgctxt "board3_1|"
-msgid "Honduras"
-msgstr ""
-
-#: activities/geography/resource/board/board3_1.qml:65
-msgctxt "board3_1|"
-msgid "Haiti"
-msgstr ""
-
-#: activities/geography/resource/board/board3_1.qml:72
-msgctxt "board3_1|"
-msgid "Guatemala"
-msgstr ""
-
-#: activities/geography/resource/board/board3_1.qml:79
-msgctxt "board3_1|"
-msgid "El Salvador"
-msgstr ""
-
-#: activities/geography/resource/board/board3_1.qml:86
-#, fuzzy
-#| msgctxt "DialogConfig|"
-#| msgid "Czech Republic"
-msgctxt "board3_1|"
-msgid "Dominican Republic"
-msgstr "Poblachd na Seice"
-
-#: activities/geography/resource/board/board3_1.qml:93
-msgctxt "board3_1|"
-msgid "Cuba"
-msgstr ""
-
-#: activities/geography/resource/board/board3_1.qml:100
-msgctxt "board3_1|"
-msgid "Costa Rica"
-msgstr ""
-
-#: activities/geography/resource/board/board3_1.qml:107
-msgctxt "board3_1|"
-msgid "Belize"
-msgstr ""
-
-#: activities/geography/resource/board/board3_1.qml:114
-msgctxt "board3_1|"
-msgid "Bahamas"
-msgstr ""
-
 #: activities/geography/resource/board/board4_0.qml:14
 msgctxt "board4_0|"
 msgid "South America"
@@ -13769,22 +13681,22 @@ msgctxt "board4_0|"
 msgid "Argentina"
 msgstr ""
 
-#: activities/geography/resource/board/board5_0.qml:14
+#: activities/geography/resource/board/board5_0.qml:15
 msgctxt "board5_0|"
 msgid "Western Europe"
 msgstr ""
 
-#: activities/geography/resource/board/board5_0.qml:23
+#: activities/geography/resource/board/board5_0.qml:24
 msgctxt "board5_0|"
 msgid "United Kingdom"
 msgstr ""
 
-#: activities/geography/resource/board/board5_0.qml:30
+#: activities/geography/resource/board/board5_0.qml:31
 msgctxt "board5_0|"
 msgid "Switzerland"
 msgstr ""
 
-#: activities/geography/resource/board/board5_0.qml:37
+#: activities/geography/resource/board/board5_0.qml:38
 #, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Swedish"
@@ -13792,42 +13704,42 @@ msgctxt "board5_0|"
 msgid "Sweden"
 msgstr "Suainis"
 
-#: activities/geography/resource/board/board5_0.qml:44
+#: activities/geography/resource/board/board5_0.qml:45
 msgctxt "board5_0|"
 msgid "Spain"
 msgstr ""
 
-#: activities/geography/resource/board/board5_0.qml:51
+#: activities/geography/resource/board/board5_0.qml:52
 msgctxt "board5_0|"
 msgid "Portugal"
 msgstr ""
 
-#: activities/geography/resource/board/board5_0.qml:58
+#: activities/geography/resource/board/board5_0.qml:59
 msgctxt "board5_0|"
 msgid "Norway"
 msgstr ""
 
-#: activities/geography/resource/board/board5_0.qml:65
+#: activities/geography/resource/board/board5_0.qml:66
 msgctxt "board5_0|"
 msgid "The Netherlands"
 msgstr ""
 
-#: activities/geography/resource/board/board5_0.qml:79
+#: activities/geography/resource/board/board5_0.qml:80
 msgctxt "board5_0|"
 msgid "Italy"
 msgstr ""
 
-#: activities/geography/resource/board/board5_0.qml:86
+#: activities/geography/resource/board/board5_0.qml:87
 msgctxt "board5_0|"
 msgid "Ireland"
 msgstr ""
 
-#: activities/geography/resource/board/board5_0.qml:93
+#: activities/geography/resource/board/board5_0.qml:94
 msgctxt "board5_0|"
 msgid "Iceland"
 msgstr ""
 
-#: activities/geography/resource/board/board5_0.qml:100
+#: activities/geography/resource/board/board5_0.qml:101
 #, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "German"
@@ -13835,27 +13747,27 @@ msgctxt "board5_0|"
 msgid "Germany"
 msgstr "Gearmailtis"
 
-#: activities/geography/resource/board/board5_0.qml:107
+#: activities/geography/resource/board/board5_0.qml:108
 msgctxt "board5_0|"
 msgid "France"
 msgstr ""
 
-#: activities/geography/resource/board/board5_0.qml:114
+#: activities/geography/resource/board/board5_0.qml:115
 msgctxt "board5_0|"
 msgid "Finland"
 msgstr ""
 
-#: activities/geography/resource/board/board5_0.qml:121
+#: activities/geography/resource/board/board5_0.qml:122
 msgctxt "board5_0|"
 msgid "Denmark"
 msgstr ""
 
-#: activities/geography/resource/board/board5_0.qml:128
+#: activities/geography/resource/board/board5_0.qml:129
 msgctxt "board5_0|"
 msgid "Belgium"
 msgstr ""
 
-#: activities/geography/resource/board/board5_0.qml:135
+#: activities/geography/resource/board/board5_0.qml:136
 msgctxt "board5_0|"
 msgid "Austria"
 msgstr ""
@@ -26079,6 +25991,13 @@ msgstr ""
 msgctxt "Tutorial|"
 msgid "Start"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "DialogConfig|"
+#~| msgid "Czech Republic"
+#~ msgctxt "board3_1|"
+#~ msgid "Dominican Republic"
+#~ msgstr "Poblachd na Seice"
 
 #, fuzzy
 #~| msgctxt "ActivityInfo|"
