@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-06 00:15+0000\n"
+"POT-Creation-Date: 2021-05-19 00:15+0000\n"
 "PO-Revision-Date: 2016-04-29 13:11+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -28,72 +28,6 @@ msgstr "GunChleoc"
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "fios@foramnagaidhlig.net"
-
-#: ../../file/indexerstate.h:32
-#, kde-format
-msgid "Unknown"
-msgstr "Chan eil fhios"
-
-#: ../../file/indexerstate.h:35
-#, kde-format
-msgid "Idle"
-msgstr "'Na thàmh"
-
-#: ../../file/indexerstate.h:38
-#, kde-format
-msgid "Suspended"
-msgstr "'Na dhàil"
-
-#: ../../file/indexerstate.h:41
-#, kde-format
-msgid "Initial Indexing"
-msgstr "Inneacsadh tòiseachaidh"
-
-#: ../../file/indexerstate.h:44
-#, kde-format
-msgid "Indexing new files"
-msgstr "Ag inneacsadh nam faidhlichean ùra"
-
-#: ../../file/indexerstate.h:47
-#, kde-format
-msgid "Indexing modified files"
-msgstr "Ag inneacsadh nam faidhlichean a chaidh atharrachadh"
-
-#: ../../file/indexerstate.h:50
-#, kde-format
-msgid "Indexing Extended Attributes"
-msgstr "Ag inneacsadh nam buadhan leudaichte"
-
-#: ../../file/indexerstate.h:53
-#, kde-format
-msgid "Indexing file content"
-msgstr "Ag inneacsadh susbaint nam faidhlichean"
-
-#: ../../file/indexerstate.h:56
-#, kde-format
-msgid "Checking for unindexed files"
-msgstr "A' toirt sùil airson faidhlichean gun inneacsadh"
-
-#: ../../file/indexerstate.h:59
-#, fuzzy, kde-format
-#| msgid "Checking for unindexed files"
-msgid "Checking for stale index entries"
-msgstr "A' toirt sùil airson faidhlichean gun inneacsadh"
-
-#: ../../file/indexerstate.h:62
-#, kde-format
-msgid "Idle (Powersave)"
-msgstr ""
-
-#: ../../file/indexerstate.h:65
-#, kde-format
-msgid "Not Running"
-msgstr ""
-
-#: ../../file/indexerstate.h:68
-#, kde-format
-msgid "Starting"
-msgstr ""
 
 #: configcommand.cpp:45
 #, kde-format
@@ -559,6 +493,38 @@ msgstr ""
 #| msgid "Path does not exist"
 msgid "Index does not exist yet\n"
 msgstr "Chan eil an t-slighe ann"
+
+#~ msgid "Unknown"
+#~ msgstr "Chan eil fhios"
+
+#~ msgid "Idle"
+#~ msgstr "'Na thàmh"
+
+#~ msgid "Suspended"
+#~ msgstr "'Na dhàil"
+
+#~ msgid "Initial Indexing"
+#~ msgstr "Inneacsadh tòiseachaidh"
+
+#~ msgid "Indexing new files"
+#~ msgstr "Ag inneacsadh nam faidhlichean ùra"
+
+#~ msgid "Indexing modified files"
+#~ msgstr "Ag inneacsadh nam faidhlichean a chaidh atharrachadh"
+
+#~ msgid "Indexing Extended Attributes"
+#~ msgstr "Ag inneacsadh nam buadhan leudaichte"
+
+#~ msgid "Indexing file content"
+#~ msgstr "Ag inneacsadh susbaint nam faidhlichean"
+
+#~ msgid "Checking for unindexed files"
+#~ msgstr "A' toirt sùil airson faidhlichean gun inneacsadh"
+
+#, fuzzy
+#~| msgid "Checking for unindexed files"
+#~ msgid "Checking for stale index entries"
+#~ msgstr "A' toirt sùil airson faidhlichean gun inneacsadh"
 
 #~ msgid "Maintainer"
 #~ msgstr "Neach-glèidhidh"
