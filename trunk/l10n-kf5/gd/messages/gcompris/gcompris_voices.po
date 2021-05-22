@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gcompris voices\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-19 00:14+0000\n"
+"POT-Creation-Date: 2021-05-22 00:12+0000\n"
 "PO-Revision-Date: 2017-05-27 14:21+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: gd <kde-i18n-doc@kde.org>\n"
@@ -889,6 +889,34 @@ msgid ""
 msgstr ""
 "Gluais an heileacoptair leis na saighdean agus glac na h-àireamhan sna neòil "
 "ann an òrdugh àireamhail."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "ordering_alphabets"
+#: activities/ordering_alphabets/ActivityInfo.qml:23
+#, kde-format
+msgid ""
+"Arrange the alphabets in the correct order by placing an alphabet in its "
+"correct position"
+msgstr ""
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "ordering_chronology"
+#: activities/ordering_chronology/ActivityInfo.qml:23
+#, kde-format
+msgid "Arrange the given events in their chronological order"
+msgstr ""
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "ordering_numbers"
+#: activities/ordering_numbers/ActivityInfo.qml:22
+#, kde-format
+msgid ""
+"Arrange the numbers in the correct order by placing a number in it's correct "
+"position"
+msgstr ""
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "ordering_sentences"
+#: activities/ordering_sentences/ActivityInfo.qml:22
+#, kde-format
+msgid "Arrange the given words to form a meaningful sentence"
+msgstr ""
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "paintings"
 #: activities/paintings/ActivityInfo.qml:23
