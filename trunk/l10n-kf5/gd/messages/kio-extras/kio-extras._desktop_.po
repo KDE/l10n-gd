@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-17 00:34+0000\n"
+"POT-Creation-Date: 2021-05-30 00:26+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -26,11 +26,6 @@ msgctxt "Comment"
 msgid "Allows automatic updates of Search Folders"
 msgstr ""
 
-#: fish/fish.protocol:16
-msgctxt "Description"
-msgid "A kioslave for the FISH protocol"
-msgstr ""
-
 #: mtp/mtp-network.desktop:3
 msgctxt "Name"
 msgid "MTP Devices"
@@ -45,11 +40,6 @@ msgstr ""
 #: network/ioslave/virtualfolder_network.desktop:7
 msgctxt "Name"
 msgid "Network"
-msgstr ""
-
-#: network/ioslave/network.protocol:10
-msgctxt "Description"
-msgid "A kioslave to browse the network"
 msgstr ""
 
 #: network/kded/networkwatcher.desktop:8
@@ -72,11 +62,6 @@ msgstr ""
 #: recentdocuments/recentdocumentsnotifier.desktop:70
 msgctxt "Comment"
 msgid "Monitors \"Recent Documents\" folder for changes"
-msgstr ""
-
-#: sftp/sftp.protocol:20
-msgctxt "Description"
-msgid "A kioslave for sftp"
 msgstr ""
 
 #: smb/kded/kded_smbwatcher.desktop:18
