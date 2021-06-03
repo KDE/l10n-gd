@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeclarative5\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-28 00:16+0000\n"
+"POT-Creation-Date: 2021-06-03 00:14+0000\n"
 "PO-Revision-Date: 2016-04-30 12:50+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -57,7 +57,7 @@ msgctxt "No shortcut defined"
 msgid "None"
 msgstr "Chan eil gin"
 
-#: qmlcontrols/kquickcontrols/KeySequenceItem.qml:88
+#: qmlcontrols/kquickcontrols/KeySequenceItem.qml:93
 #, kde-format
 msgid ""
 "Click on the button, then enter the shortcut like you would in the program.\n"
