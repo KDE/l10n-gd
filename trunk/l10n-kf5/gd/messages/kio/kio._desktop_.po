@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-06-05 00:25+0000\n"
+"POT-Creation-Date: 2021-06-06 00:26+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -35,16 +35,6 @@ msgstr "Glanadair tasgadain HTTP"
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr "Glanaidh seo seann innteartan air falbh on tasgadan HTTP"
-
-#: src/ioslaves/protocols/data.protocol:8
-msgctxt "Description"
-msgid "A kioslave for data URIs (rfc2397)"
-msgstr "Mòideal ion- is às-chur airson URIchean dàta (rfc2397)"
-
-#: src/ioslaves/protocols/mms.protocol:10
-msgctxt "Description"
-msgid "Microsoft Media Server Protocol"
-msgstr "Pròtacal Microsoft Media Server"
 
 #: src/ioslaves/remote/kdedmodule/remotedirnotify.desktop:3
 msgctxt "Name"
@@ -1973,6 +1963,14 @@ msgstr "Plugan airson còmhradh nan roghainnean"
 msgctxt "Name"
 msgid "Enhanced Browsing Plugin"
 msgstr "Plugan airson brabhsadh leasaichte"
+
+#~ msgctxt "Description"
+#~ msgid "A kioslave for data URIs (rfc2397)"
+#~ msgstr "Mòideal ion- is às-chur airson URIchean dàta (rfc2397)"
+
+#~ msgctxt "Description"
+#~ msgid "Microsoft Media Server Protocol"
+#~ msgstr "Pròtacal Microsoft Media Server"
 
 #~ msgctxt "Comment"
 #~ msgid "Enter path of file or directory:"
