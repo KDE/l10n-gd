@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-06-11 00:14+0000\n"
+"POT-Creation-Date: 2021-06-12 00:14+0000\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -58,7 +58,7 @@ msgstr "Chaidh a' bhòt agad a chlàradh."
 msgid "You are now a fan."
 msgstr "Tha thu 'ga leantainn a-nis."
 
-#: attica/atticaprovider.cpp:542 core/engine.cpp:372 opds/opdsprovider.cpp:290
+#: attica/atticaprovider.cpp:542 core/engine.cpp:372 opds/opdsprovider.cpp:284
 #, kde-format
 msgid ""
 "The service is currently undergoing maintenance and is expected to be back "
@@ -266,7 +266,7 @@ msgstr "Cha b' urrainn dhuinn \"%1\" a stàladh: cha deach am faidhle a lorg."
 msgid "The installation of %1 failed to create the expected new directory %2"
 msgstr ""
 
-#: core/installation.cpp:505 core/installation.cpp:811
+#: core/installation.cpp:505 core/installation.cpp:814
 #, fuzzy, kde-format
 #| msgid "Installing"
 msgid "Installation of %1 failed: %2"
@@ -358,14 +358,14 @@ msgid ""
 "believe this is an error."
 msgstr ""
 
-#: core/installation.cpp:818
+#: core/installation.cpp:821
 #, kde-format
 msgid ""
 "The removal of %1 failed, as the installed package does not contain a "
 "correct KPackage structure."
 msgstr ""
 
-#: core/installation.cpp:823
+#: core/installation.cpp:826
 #, kde-format
 msgid ""
 "The removal of %1 failed, as the installed package is not a supported type "
@@ -373,21 +373,21 @@ msgid ""
 "package?)"
 msgstr ""
 
-#: core/installation.cpp:830
+#: core/installation.cpp:833
 #, kde-format
 msgid ""
 "The removal of %1 failed, as the installed package does not contain any "
 "useful meta information, which means it is not a valid KPackage."
 msgstr ""
 
-#: core/installation.cpp:870
+#: core/installation.cpp:873
 #, kde-format
 msgid ""
 "The removal of %1 failed, as the downloaded file %2 could not be "
 "automatically removed."
 msgstr ""
 
-#: core/installation.cpp:875
+#: core/installation.cpp:878
 #, kde-format
 msgid ""
 "The removal of %1 failed, due to the installed file not being a KPackage. "
@@ -395,14 +395,14 @@ msgid ""
 "you are certain that it is not needed."
 msgstr ""
 
-#: core/installation.cpp:883
+#: core/installation.cpp:886
 #, kde-format
 msgid ""
 "The removal of %1 failed, as there seems to somehow be more than one thing "
 "installed, which is not supposed to be possible for KPackage based entries."
 msgstr ""
 
-#: core/installation.cpp:916
+#: core/installation.cpp:919
 #, kde-format
 msgid ""
 "The uninstallation process failed to successfully run the command %1\n"
@@ -431,7 +431,7 @@ msgstr ""
 msgid "The service type %1 was not understood by the KPackage installer"
 msgstr ""
 
-#: core/security.cpp:71
+#: core/security.cpp:69
 #, kde-format
 msgid ""
 "<qt>Cannot start <i>gpg</i> and retrieve the available keys. Make sure that "
@@ -442,7 +442,7 @@ msgstr ""
 "faighinn a luchdadh. Dèan cinnteach gun dèid <i>gpg</i> a stàladh air neo "
 "chan urrainn dhuinn na goireasan air an luchdadh a-nuas a dhearbhadh.</qt>"
 
-#: core/security.cpp:193
+#: core/security.cpp:191
 #, kde-format
 msgid ""
 "<qt>Enter passphrase for key <b>0x%1</b>, belonging to<br /><i>%2&lt;%3&gt;</"
@@ -451,7 +451,7 @@ msgstr ""
 "<qt>Cuir a-steach an abairt-fhaire airson na h-iuchrach <b>0x%1</b> a tha "
 "le<br /><i>%2&lt;%3&gt;</i><br />:</qt>"
 
-#: core/security.cpp:266
+#: core/security.cpp:264
 #, kde-format
 msgid ""
 "<qt>Cannot start <i>gpg</i> and check the validity of the file. Make sure "
@@ -462,17 +462,17 @@ msgstr ""
 "fhaidhle a dhearbhadh. Dèan cinnteach gun dèid <i>gpg</i> a stàladh air neo "
 "chan urrainn dhuinn na goireasan air an luchdadh a-nuas a dhearbhadh.</qt>"
 
-#: core/security.cpp:322
+#: core/security.cpp:320
 #, kde-format
 msgid "Key used for signing:"
 msgstr "Iuchair airson an t-soidhnidh:"
 
-#: core/security.cpp:323
+#: core/security.cpp:321
 #, kde-format
 msgid "Select Signing Key"
 msgstr "Tagh iuchair soidhnidh"
 
-#: core/security.cpp:350
+#: core/security.cpp:348
 #, kde-format
 msgid ""
 "<qt>Cannot start <i>gpg</i> and sign the file. Make sure that <i>gpg</i> is "
@@ -1294,7 +1294,7 @@ msgctxt ""
 msgid "(%1/%2)"
 msgstr ""
 
-#: qtquick/quickengine.cpp:176
+#: qtquick/quickengine.cpp:177
 #, kde-format
 msgctxt ""
 "An informational message which is shown to inform the user they are not "
@@ -1304,38 +1304,38 @@ msgid ""
 "please contact the person in charge of your permissions."
 msgstr ""
 
-#: qtquick/searchpresetmodel.cpp:60
+#: qtquick/searchpresetmodel.cpp:58
 #, kde-format
 msgctxt "Knewstuff5"
 msgid "Back"
 msgstr ""
 
-#: qtquick/searchpresetmodel.cpp:63
+#: qtquick/searchpresetmodel.cpp:61
 #, kde-format
 msgctxt "Knewstuff5"
 msgid "Popular"
 msgstr ""
 
-#: qtquick/searchpresetmodel.cpp:66
+#: qtquick/searchpresetmodel.cpp:64
 #, kde-format
 msgctxt "Knewstuff5"
 msgid "Featured"
 msgstr ""
 
-#: qtquick/searchpresetmodel.cpp:69
+#: qtquick/searchpresetmodel.cpp:67
 #, kde-format
 msgctxt "Knewstuff5"
 msgid "Restart"
 msgstr ""
 
-#: qtquick/searchpresetmodel.cpp:72
+#: qtquick/searchpresetmodel.cpp:70
 #, fuzzy, kde-format
 #| msgid "Newest"
 msgctxt "Knewstuff5"
 msgid "New"
 msgstr "As ùire"
 
-#: qtquick/searchpresetmodel.cpp:75
+#: qtquick/searchpresetmodel.cpp:73
 #, fuzzy, kde-format
 #| msgctxt "A link to the description of this Get Hot New Stuff item"
 #| msgid "Homepage"
@@ -1343,39 +1343,39 @@ msgctxt "Knewstuff5"
 msgid "Home"
 msgstr "Duilleag-dhachaigh"
 
-#: qtquick/searchpresetmodel.cpp:78
+#: qtquick/searchpresetmodel.cpp:76
 #, kde-format
 msgctxt "Knewstuff5"
 msgid "Shelf"
 msgstr ""
 
-#: qtquick/searchpresetmodel.cpp:81
+#: qtquick/searchpresetmodel.cpp:79
 #, kde-format
 msgctxt "Knewstuff5"
 msgid "Up"
 msgstr ""
 
-#: qtquick/searchpresetmodel.cpp:84
+#: qtquick/searchpresetmodel.cpp:82
 #, kde-format
 msgctxt "Knewstuff5"
 msgid "Recommended"
 msgstr ""
 
-#: qtquick/searchpresetmodel.cpp:87
+#: qtquick/searchpresetmodel.cpp:85
 #, fuzzy, kde-format
 #| msgid "Description:"
 msgctxt "Knewstuff5"
 msgid "Subscriptions"
 msgstr "Tuairisgeul:"
 
-#: qtquick/searchpresetmodel.cpp:90
+#: qtquick/searchpresetmodel.cpp:88
 #, fuzzy, kde-format
 #| msgid "All Categories"
 msgctxt "Knewstuff5"
 msgid "All Entries"
 msgstr "A h-uile roinn-seòrsa"
 
-#: qtquick/searchpresetmodel.cpp:93
+#: qtquick/searchpresetmodel.cpp:91
 #, kde-format
 msgctxt "Knewstuff5"
 msgid "Search Preset: %1"
