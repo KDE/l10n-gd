@@ -2013,9 +2013,17 @@ msgstr ""
 
 #. Help prerequisite
 #: activities/baby_tangram/ActivityInfo.qml:22
-#: activities/tangram/ActivityInfo.qml:29
+#: activities/erase/ActivityInfo.qml:22
+#: activities/erase_2clic/ActivityInfo.qml:22
+#: activities/erase_clic/ActivityInfo.qml:22
+#: activities/hanoi/ActivityInfo.qml:22
+#: activities/memory-tux/ActivityInfo.qml:22
+#: activities/memory/ActivityInfo.qml:22 activities/tangram/ActivityInfo.qml:29
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Mouse-manipulation"
 msgctxt "ActivityInfo|"
-msgid "Mouse-manipulation"
+msgid "Mouse-manipulation."
 msgstr "Cleachdadh na luchaige"
 
 #. Help manual
@@ -6438,20 +6446,6 @@ msgstr "Gluais an luchag gus an raon a shuathadh is an cùlaibh a nochdadh"
 msgctxt "ActivityInfo|"
 msgid "Motor-coordination."
 msgstr "Co-ghluasad"
-
-#. Help prerequisite
-#: activities/erase/ActivityInfo.qml:22
-#: activities/erase_2clic/ActivityInfo.qml:22
-#: activities/erase_clic/ActivityInfo.qml:22
-#: activities/hanoi/ActivityInfo.qml:22
-#: activities/memory-tux/ActivityInfo.qml:22
-#: activities/memory/ActivityInfo.qml:22
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Mouse-manipulation"
-msgctxt "ActivityInfo|"
-msgid "Mouse-manipulation."
-msgstr "Cleachdadh na luchaige"
 
 #. Help manual
 #: activities/erase/ActivityInfo.qml:24
@@ -13763,6 +13757,8 @@ msgstr "Leughadh nam faclan"
 #. Help prerequisite
 #: activities/imagename/ActivityInfo.qml:25 activities/lang/ActivityInfo.qml:28
 #: activities/memory-wordnumber/ActivityInfo.qml:22
+#: activities/ordering_alphabets/ActivityInfo.qml:28
+#: activities/ordering_sentences/ActivityInfo.qml:27
 #: activities/readingh/ActivityInfo.qml:22
 #: activities/readingv/ActivityInfo.qml:22
 #, fuzzy
@@ -15620,9 +15616,13 @@ msgstr ""
 
 #. Help prerequisite
 #: activities/memory-case-association-tux/ActivityInfo.qml:22
+#: activities/memory-case-association/ActivityInfo.qml:22
+#, fuzzy
+#| msgctxt "FirstScreen|"
+#| msgid "Braille : Unlocking the Code"
 msgctxt "ActivityInfo|"
-msgid "Knowing alphabets"
-msgstr ""
+msgid "Knowing alphabets."
+msgstr "Braille : A’ neo-ghlasadh a’ còd"
 
 #. Help manual
 #: activities/memory-case-association-tux/ActivityInfo.qml:24
@@ -15721,15 +15721,6 @@ msgstr "Geama cuimhne cuir ris"
 msgctxt "ActivityInfo|"
 msgid "Flip the cards to find the uppercase and lowercase of the same letter."
 msgstr ""
-
-#. Help prerequisite
-#: activities/memory-case-association/ActivityInfo.qml:22
-#, fuzzy
-#| msgctxt "FirstScreen|"
-#| msgid "Braille : Unlocking the Code"
-msgctxt "ActivityInfo|"
-msgid "Knowing alphabets."
-msgstr "Braille : A’ neo-ghlasadh a’ còd"
 
 #. Activity title
 #: activities/memory-enumerate/ActivityInfo.qml:15
@@ -15833,7 +15824,7 @@ msgstr "Cleachdaich cur ris, toirt air falbh, iomadachadh is roinneadh."
 #| msgctxt "ActivityInfo|"
 #| msgid "Addition, subtraction, multiplication, division"
 msgctxt "ActivityInfo|"
-msgid "Additions, subtractions, multiplications, divisions"
+msgid "Additions, subtractions, multiplications, divisions."
 msgstr "Cur ris, toirt air falbh, iomadachadh is roinneadh"
 
 #. Help manual
@@ -18292,16 +18283,6 @@ msgctxt "ActivityInfo|"
 msgid "Learn the alphabetical order."
 msgstr ""
 
-#. Help prerequisite
-#: activities/ordering_alphabets/ActivityInfo.qml:28
-#: activities/ordering_sentences/ActivityInfo.qml:27
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Reading"
-msgctxt "ActivityInfo|"
-msgid "Reading"
-msgstr "Leughadh"
-
 #. Help manual
 #: activities/ordering_alphabets/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
@@ -18453,7 +18434,7 @@ msgstr "Geama cuimhne toirt air falbh"
 #| msgctxt "ActivityInfo|"
 #| msgid "Counting skills"
 msgctxt "ActivityInfo|"
-msgid "Counting"
+msgid "Counting."
 msgstr "Sgilean cunntaidh"
 
 #. Help manual
@@ -21745,6 +21726,7 @@ msgstr "Rè ùine cuingichte, cunnt àireamh nan dotagan"
 
 #. Help prerequisite
 #: activities/smallnumbers/ActivityInfo.qml:22
+#: activities/smallnumbers2/ActivityInfo.qml:22
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Counting skills"
@@ -21934,12 +21916,6 @@ msgstr "Cunnt àireamh nan dotagan air na dìsnean mus ruig iad an làr"
 msgctxt "ActivityInfo|"
 msgid "Count a number in a limited time."
 msgstr "Lorg an diofar eadar dà àireamh ann an ùine chuingealaichte"
-
-#. Help prerequisite
-#: activities/smallnumbers2/ActivityInfo.qml:22
-msgctxt "ActivityInfo|"
-msgid "Counting skills"
-msgstr "Sgilean cunntaidh"
 
 #. Help manual
 #: activities/smallnumbers2/ActivityInfo.qml:24
@@ -23609,9 +23585,14 @@ msgstr "Tilg gathan do thargaid is cunnt an sgòr agad."
 
 #. Help prerequisite
 #: activities/target/ActivityInfo.qml:22
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Can move the mouse, can read numbers and count up to 15 for the first "
+#| "level"
 msgctxt "ActivityInfo|"
 msgid ""
-"Can move the mouse, can read numbers and count up to 15 for the first level"
+"Can move the mouse, can read numbers and count up to 15 for the first level."
 msgstr ""
 "Comas an luchag a ghluasad, comas leughaidh àireamhan is comas cunntaidh "
 "suas gu 15 airson a’ chiad leibheil"
@@ -24711,6 +24692,21 @@ msgstr ""
 msgctxt "Tutorial|"
 msgid "Start"
 msgstr ""
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Mouse-manipulation"
+#~ msgstr "Cleachdadh na luchaige"
+
+#, fuzzy
+#~| msgctxt "ActivityInfo|"
+#~| msgid "Reading"
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Reading"
+#~ msgstr "Leughadh"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Counting skills"
+#~ msgstr "Sgilean cunntaidh"
 
 #, fuzzy
 #~| msgctxt "FirstScreen|"
