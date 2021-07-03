@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwalletd5\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-02 02:37+0100\n"
+"POT-Creation-Date: 2021-07-03 00:13+0000\n"
 "PO-Revision-Date: 2016-05-04 18:07+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -272,10 +272,13 @@ msgstr "Tagh iuchair an t-soidhnidh on liosta gu h-ìosal:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: knewwalletdialoggpg.ui:24
-#, kde-format
+#, fuzzy, kde-format
+#| msgid ""
+#| "<html><head/><body><p><span style=\" font-weight:600;\">NOTE:</span> this "
+#| "list shows only \"ultimate-level\" trusted keys</p></body></html>"
 msgid ""
 "<html><head/><body><p><span style=\" font-weight:600;\">NOTE:</span> this "
-"list shows only \"ultimate-level\" trusted keys</p></body></html>"
+"list shows only &quot;ultimate-level&quot; trusted keys</p></body></html>"
 msgstr ""
 "<html><head/><body><p><span style=\" font-weight:600;\">AN AIRE:</span> cha "
 "sheall an liosta seo ach iuchraichean sa bheil earbsa \"cho earbsach ’s a "
@@ -548,15 +551,23 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: kwalletwizardpagegpgkey.ui:24
-#, kde-format
+#, fuzzy, kde-format
+#| msgid ""
+#| "<html><head/><body><p>The GPG-based wallet use a GPG encryption key to "
+#| "securely encrypt data on disk. The key must be available when decrypting "
+#| "is needed or your wallet will not be accessible. For example, if you "
+#| "choose a SmartCard-based encryption key, the GPG system will prompt you "
+#| "to enter it and its associated PIN when attempting to open the wallet. "
+#| "<span style=\" font-weight:600;\">NOTE:</span> this list contains only "
+#| "\"ultimate-level\" trusted keys.</p></body></html>"
 msgid ""
 "<html><head/><body><p>The GPG-based wallet use a GPG encryption key to "
 "securely encrypt data on disk. The key must be available when decrypting is "
 "needed or your wallet will not be accessible. For example, if you choose a "
 "SmartCard-based encryption key, the GPG system will prompt you to enter it "
 "and its associated PIN when attempting to open the wallet. <span style=\" "
-"font-weight:600;\">NOTE:</span> this list contains only \"ultimate-level\" "
-"trusted keys.</p></body></html>"
+"font-weight:600;\">NOTE:</span> this list contains only &quot;ultimate-"
+"level&quot; trusted keys.</p></body></html>"
 msgstr ""
 "<html><head/><body><p>Cleachdaidh sporan le bunait GPG iuchair crioptachaidh "
 "GPG gus an dàta a chrioptachadh gu tèarainte air an diosg. Feumaidh an "
