@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gcompris voices\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-06-30 00:13+0000\n"
+"POT-Creation-Date: 2021-07-06 00:13+0000\n"
 "PO-Revision-Date: 2017-05-27 14:21+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: gd <kde-i18n-doc@kde.org>\n"
@@ -640,6 +640,29 @@ msgstr ""
 #, fuzzy, kde-format
 #| msgid "Click on the lamps to turn them off."
 msgid "Click on the circles to give the operation's result."
+msgstr "Briog air na lampaichean gus an cur dheth."
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "learn_decimals"
+#: activities/learn_decimals/ActivityInfo.qml:17
+#, kde-format
+msgid ""
+"Drag the arrow to select a part of the bar then drop it in the empty area to "
+"represent the decimal number."
+msgstr ""
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "learn_decimals_additions"
+#: activities/learn_decimals_additions/ActivityInfo.qml:17
+#, kde-format
+msgid ""
+"Drag the arrow to select a part of the bar, and drag the selected part of "
+"the bar to the empty area to represent the result of the addition."
+msgstr ""
+
+#. i18n: intro voices, see GCompris-voices/README.md - activity: "learn_decimals_subtractions"
+#: activities/learn_decimals_subtractions/ActivityInfo.qml:17
+#, fuzzy, kde-format
+#| msgid "Click on the lamps to turn them off."
+msgid "Click on the squares to represent the result of the subtraction."
 msgstr "Briog air na lampaichean gus an cur dheth."
 
 #. i18n: intro voices, see GCompris-voices/README.md - activity: "learn_digits"
