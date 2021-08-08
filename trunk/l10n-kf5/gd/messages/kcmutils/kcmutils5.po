@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-22 00:13+0000\n"
+"POT-Creation-Date: 2021-08-08 00:13+0000\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -123,7 +123,7 @@ msgstr ""
 msgid "Apply Settings"
 msgstr "Cuir na roghainnean an sàs"
 
-#: kcmultidialog.cpp:245 kpluginselector.cpp:806
+#: kcmultidialog.cpp:245 kpluginselector.cpp:805
 #, kde-format
 msgid "Configure"
 msgstr "Rèitich"
@@ -146,7 +146,7 @@ msgstr ""
 "Chaidh atharraichean a dhèanamh gu fèin-obrachail gus eisimeileachdan "
 "plugain a choileanadh:\n"
 
-#: kpluginselector.cpp:201
+#: kpluginselector.cpp:203
 #, kde-format
 msgid ""
 "\n"
@@ -168,12 +168,12 @@ msgstr ""
 "    Chaidh cromag a thoirt air falbh on phlugan %1 on a tha e an eisimeil "
 "air a' phlugan %2"
 
-#: kpluginselector.cpp:210
+#: kpluginselector.cpp:209
 #, kde-format
 msgid "Dependency Check"
 msgstr "Dearbhadh nan eisimeileachdan"
 
-#: kpluginselector.cpp:228
+#: kpluginselector.cpp:227
 #, kde-format
 msgid "%1 plugin automatically added due to plugin dependencies"
 msgid_plural "%1 plugins automatically added due to plugin dependencies"
@@ -189,12 +189,12 @@ msgstr[2] ""
 msgstr[3] ""
 "Chaidh %1 plugan a chur ris gu fèin-obrachail ri linn eisimeileachdan plugain"
 
-#: kpluginselector.cpp:232
+#: kpluginselector.cpp:231
 #, kde-format
 msgid ", "
 msgstr ", "
 
-#: kpluginselector.cpp:236
+#: kpluginselector.cpp:235
 #, kde-format
 msgid "%1 plugin automatically removed due to plugin dependencies"
 msgid_plural "%1 plugins automatically removed due to plugin dependencies"
@@ -211,12 +211,12 @@ msgstr[3] ""
 "Chaidh %1 plugan a thoirt air falbh gu fèin-obrachail ri linn "
 "eisimeileachdan plugain"
 
-#: kpluginselector.cpp:258
+#: kpluginselector.cpp:257
 #, kde-format
 msgid "Search..."
 msgstr ""
 
-#: kpluginselector.cpp:801
+#: kpluginselector.cpp:800
 #, fuzzy, kde-format
 #| msgctxt "Used only for plugins"
 #| msgid "About %1"
