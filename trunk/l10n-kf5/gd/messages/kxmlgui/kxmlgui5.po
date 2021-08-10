@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-29 00:14+0000\n"
+"POT-Creation-Date: 2021-08-10 00:14+0000\n"
 "PO-Revision-Date: 2016-04-30 17:56+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -687,19 +687,19 @@ msgstr "--- sgaradair ---"
 msgid "--- expanding spacer ---"
 msgstr "--- sgaradair ---"
 
-#: kedittoolbar.cpp:334
+#: kedittoolbar.cpp:338
 #, fuzzy, kde-format
 #| msgid "Change Text"
 msgctxt "@title:window"
 msgid "Change Text"
 msgstr "Atharraich an teacsa"
 
-#: kedittoolbar.cpp:344
+#: kedittoolbar.cpp:348
 #, kde-format
 msgid "Icon te&xt:"
 msgstr "Tea&csa na h-ìomhaigheige:"
 
-#: kedittoolbar.cpp:349
+#: kedittoolbar.cpp:353
 #, fuzzy, kde-format
 #| msgid "&Hide text when toolbar shows text alongside icons"
 msgctxt "@option:check"
@@ -708,14 +708,14 @@ msgstr ""
 "Cuir an teacsa am &falach nuair a sheallas am bàr-inneal teacsa ri taobh nan "
 "ìomhaigheagan"
 
-#: kedittoolbar.cpp:598
+#: kedittoolbar.cpp:602
 #, fuzzy, kde-format
 #| msgid "Configure Toolbars"
 msgctxt "@title:window"
 msgid "Configure Toolbars"
 msgstr "Rèitich na bàraichean-inneal"
 
-#: kedittoolbar.cpp:661
+#: kedittoolbar.cpp:665
 #, kde-format
 msgid ""
 "Do you really want to reset all toolbars of this application to their "
@@ -725,17 +725,17 @@ msgstr ""
 "ath-shuidheachadh air a' bhun-roghainn? Thèid na h-atharraichean a chur an "
 "sàs sa bhad."
 
-#: kedittoolbar.cpp:662
+#: kedittoolbar.cpp:666
 #, kde-format
 msgid "Reset Toolbars"
 msgstr "Ath-shuidhich na bàraichean-inneal"
 
-#: kedittoolbar.cpp:663
+#: kedittoolbar.cpp:667
 #, kde-format
 msgid "Reset"
 msgstr "Ath-shuidhich"
 
-#: kedittoolbar.cpp:992
+#: kedittoolbar.cpp:996
 #, kde-format
 msgid "&Toolbar:"
 msgstr "&Bàr-inneal:"
@@ -747,42 +747,42 @@ msgstr "&Bàr-inneal:"
 #. del_toolbar->setPixmap(BarIcon("edit-delete", KIconLoader::SizeSmall));
 #. del_toolbar->setEnabled(false); // disabled until implemented
 #. our list of inactive actions
-#: kedittoolbar.cpp:1008
+#: kedittoolbar.cpp:1012
 #, kde-format
 msgid "A&vailable actions:"
 msgstr "&Gnìomhan ri am faighinn:"
 
-#: kedittoolbar.cpp:1029 kedittoolbar.cpp:1054
+#: kedittoolbar.cpp:1033 kedittoolbar.cpp:1058
 #, kde-format
 msgid "Filter"
 msgstr "Criathrag"
 
-#: kedittoolbar.cpp:1032
+#: kedittoolbar.cpp:1036
 #, kde-format
 msgid "Curr&ent actions:"
 msgstr "Gnìomhan làithr&each:"
 
-#: kedittoolbar.cpp:1057
+#: kedittoolbar.cpp:1061
 #, fuzzy, kde-format
 #| msgid "Change &Icon..."
 msgctxt "@action:button"
 msgid "Change &Icon..."
 msgstr "Atharraich an ìomha&igheag..."
 
-#: kedittoolbar.cpp:1066
+#: kedittoolbar.cpp:1070
 #, fuzzy, kde-format
 #| msgid "Change Te&xt..."
 msgctxt "@action:button"
 msgid "Change Te&xt..."
 msgstr "Atharraich an &teacsa..."
 
-#: kedittoolbar.cpp:1228
+#: kedittoolbar.cpp:1232
 #, kde-format
 msgctxt "@item:intable Action name in toolbar editor"
 msgid "%1"
 msgstr "%1"
 
-#: kedittoolbar.cpp:1256
+#: kedittoolbar.cpp:1260
 #, kde-format
 msgid ""
 "This element will be replaced with all the elements of an embedded component."
@@ -790,17 +790,17 @@ msgstr ""
 "Thèid a h-uile eileamaid aig co-pàirt leabaichte a chur an àite na h-"
 "eileamaid seo."
 
-#: kedittoolbar.cpp:1258
+#: kedittoolbar.cpp:1262
 #, kde-format
 msgid "<Merge>"
 msgstr "<Co-aonaich>"
 
-#: kedittoolbar.cpp:1260
+#: kedittoolbar.cpp:1264
 #, kde-format
 msgid "<Merge %1>"
 msgstr "<Co-aonaich %1>"
 
-#: kedittoolbar.cpp:1270
+#: kedittoolbar.cpp:1274
 #, kde-format
 msgid ""
 "This is a dynamic list of actions. You can move it, but if you remove it you "
@@ -809,18 +809,18 @@ msgstr ""
 "Seo liosta innsginneach dhe ghnìomhan. 'S urrainn dhut a gluasad ach ma "
 "bheir thu air falbh i chan urrainn dhut a cur ris a-rithist."
 
-#: kedittoolbar.cpp:1271
+#: kedittoolbar.cpp:1275
 #, kde-format
 msgid "ActionList: %1"
 msgstr "Liosta ghnìomhan: %1"
 
-#: kedittoolbar.cpp:1372 kedittoolbar.cpp:1397
+#: kedittoolbar.cpp:1376 kedittoolbar.cpp:1401
 #, kde-format
 msgctxt "@label Action tooltip in toolbar editor, below the action list"
 msgid "%1"
 msgstr "%1"
 
-#: kedittoolbar.cpp:1625
+#: kedittoolbar.cpp:1629
 #, kde-format
 msgid "Change Icon"
 msgstr "Atharraich an ìomhaigheag"
