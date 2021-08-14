@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-20 00:14+0000\n"
+"POT-Creation-Date: 2021-08-14 00:14+0000\n"
 "PO-Revision-Date: 2015-11-04 15:15+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -139,7 +139,7 @@ msgstr ""
 "Cha deach leinn KLauncher a ruigsinn slighe D-Bus. Mearachd a' gairm %1:\n"
 "%2\n"
 
-#: kdeinit/ktoolinvocation_x11.cpp:232
+#: kdeinit/ktoolinvocation_x11.cpp:234
 #, kde-format
 msgid ""
 "Could not launch the mail client:\n"
@@ -150,7 +150,7 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdeinit/ktoolinvocation_x11.cpp:233
+#: kdeinit/ktoolinvocation_x11.cpp:235
 #, kde-format
 msgid "Could not launch Mail Client"
 msgstr "Cha deach leinn cliant a' phuist a thòiseachadh"
@@ -158,8 +158,8 @@ msgstr "Cha deach leinn cliant a' phuist a thòiseachadh"
 #. i18n("Could not launch %1:\n\n%2", exe, error),
 #. i18n("Could not launch %1:\n\n%2", htmlApp->exec(), error),
 #. i18n("Could not launch %1:\n\n%2", exe, error),
-#: kdeinit/ktoolinvocation_x11.cpp:282 kdeinit/ktoolinvocation_x11.cpp:307
-#: kdeinit/ktoolinvocation_x11.cpp:326
+#: kdeinit/ktoolinvocation_x11.cpp:284 kdeinit/ktoolinvocation_x11.cpp:309
+#: kdeinit/ktoolinvocation_x11.cpp:328
 #, kde-format
 msgid ""
 "Could not launch the browser:\n"
@@ -170,18 +170,18 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdeinit/ktoolinvocation_x11.cpp:283 kdeinit/ktoolinvocation_x11.cpp:308
-#: kdeinit/ktoolinvocation_x11.cpp:327
+#: kdeinit/ktoolinvocation_x11.cpp:285 kdeinit/ktoolinvocation_x11.cpp:310
+#: kdeinit/ktoolinvocation_x11.cpp:329
 #, kde-format
 msgid "Could not launch Browser"
 msgstr "Cha deach leinn am brabhsair a thòiseachadh"
 
-#: kdeinit/ktoolinvocation_x11.cpp:340
+#: kdeinit/ktoolinvocation_x11.cpp:342
 #, kde-format
 msgid "Unable to determine the default terminal"
 msgstr ""
 
-#: kdeinit/ktoolinvocation_x11.cpp:352
+#: kdeinit/ktoolinvocation_x11.cpp:354
 #, kde-format
 msgid ""
 "Could not launch the terminal client:\n"
@@ -192,7 +192,7 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdeinit/ktoolinvocation_x11.cpp:353
+#: kdeinit/ktoolinvocation_x11.cpp:355
 #, kde-format
 msgid "Could not launch Terminal Client"
 msgstr "Cha deach leinn cliant an tèirmineil a thòiseachadh"
@@ -202,12 +202,12 @@ msgstr "Cha deach leinn cliant an tèirmineil a thòiseachadh"
 msgid "No service implementing %1"
 msgstr "Chan eil seirbheis sam bith a' toirt %1 gu buil"
 
-#: services/kservice.cpp:1041
+#: services/kservice.cpp:1044
 #, kde-format
 msgid "The provided service is not valid"
 msgstr "Chan eil an t-seirbheis a chaidh a shònrachadh dligheach"
 
-#: services/kservice.cpp:1045
+#: services/kservice.cpp:1048
 #, kde-format
 msgid "The service '%1' provides no library or the Library key is missing"
 msgstr ""

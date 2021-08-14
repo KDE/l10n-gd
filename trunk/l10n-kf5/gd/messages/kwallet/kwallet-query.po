@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-02 02:37+0100\n"
+"POT-Creation-Date: 2021-08-14 00:14+0000\n"
 "PO-Revision-Date: 2015-11-04 15:14+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -111,32 +111,32 @@ msgstr ""
 msgid "Please specify the mode (list or read)."
 msgstr "Sònraich am modh (leughadh no sgrìobhadh)."
 
-#: querydriver.cpp:45
+#: querydriver.cpp:46
 #, kde-format
 msgid "Wallet %1 not found"
 msgstr "Cha deach an sporan %1 a lorg"
 
-#: querydriver.cpp:68
+#: querydriver.cpp:70
 #, kde-format
 msgid "Failed to open wallet %1. Aborting"
 msgstr "Cha b' urrainn dhuinn an sporan %1 fhosgladh. A' sgur dheth"
 
-#: querydriver.cpp:102 querydriver.cpp:118
+#: querydriver.cpp:104 querydriver.cpp:121
 #, kde-format
 msgid "The folder %1 does not exist!"
 msgstr "Chan eil am pasgan %1 ann!"
 
-#: querydriver.cpp:127
+#: querydriver.cpp:130
 #, kde-format
 msgid "Failed to read entry %1 value from the %2 wallet."
 msgstr "Cha deach leinn luach na h-innteirte %1 a leughadh on sporan %2."
 
-#: querydriver.cpp:138 querydriver.cpp:153
+#: querydriver.cpp:141 querydriver.cpp:156
 #, kde-format
 msgid "Failed to read entry %1 value from the %2 wallet"
 msgstr "Cha deach leinn luach na h-innteirte %1 a leughadh on sporan %2"
 
-#: querydriver.cpp:182 querydriver.cpp:197
+#: querydriver.cpp:189 querydriver.cpp:205
 #, kde-format
 msgid "Failed to write entry %1 value to %2 wallet"
 msgstr "Cha deach leinn luach na h-innteirte %1 a sgrìobhadh dhan sporan %2"
