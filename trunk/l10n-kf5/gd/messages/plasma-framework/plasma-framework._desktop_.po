@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-03 00:26+0000\n"
+"POT-Creation-Date: 2021-09-06 00:29+0000\n"
 "PO-Revision-Date: 2016-04-29 19:26+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -322,26 +322,6 @@ msgctxt "Comment"
 msgid "Plasma Shell Components"
 msgstr "Cò-phàirtean Plasma Shell"
 
-#: src/scriptengines/python/plasma-scriptengine-dataengine-python.desktop:2
-msgctxt "Name"
-msgid "Python data engine"
-msgstr "Inneal-dàta Python"
-
-#: src/scriptengines/python/plasma-scriptengine-dataengine-python.desktop:49
-msgctxt "Comment"
-msgid "Plasma data engine support for Python"
-msgstr "Taic ri inneal-dàta aig Plasma airson Python"
-
-#: src/scriptengines/python/plasma-scriptengine-runner-python.desktop:2
-msgctxt "Name"
-msgid "Python Runner"
-msgstr "Ruitheadair Plasma"
-
-#: src/scriptengines/python/plasma-scriptengine-runner-python.desktop:48
-msgctxt "Comment"
-msgid "Plasma Runner support for Python"
-msgstr "Inneal-taic ruithidh aig Plasma airson Python"
-
 #: src/scriptengines/qml/data/plasma-scriptengine-applet-declarative.desktop:2
 msgctxt "Name"
 msgid "Declarative widget"
@@ -356,16 +336,6 @@ msgstr "Plasma widget tùsail a chaidh a sgrìobhadh le QML agus JavaScript"
 msgctxt "Comment"
 msgid "Plasma wallpaper"
 msgstr "Pàipear-balla Plasma"
-
-#: src/scriptengines/ruby/plasma-scriptengine-ruby-dataengine.desktop:2
-msgctxt "Name"
-msgid "Ruby Widget"
-msgstr "Ruby Widget"
-
-#: src/scriptengines/ruby/plasma-scriptengine-ruby-dataengine.desktop:49
-msgctxt "Comment"
-msgid "Native Plasma widget written in Ruby"
-msgstr "Plasma widget tùsail a chaidh a sgrìobhadh le Ruby"
 
 #: templates/cpp-plasmoid/cpp-plasmoid.kdevtemplate:3
 #, fuzzy
@@ -457,6 +427,30 @@ msgid ""
 "A template for a Plasma applet which uses custom API provided by an own QML "
 "extension plugin"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Python data engine"
+#~ msgstr "Inneal-dàta Python"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma data engine support for Python"
+#~ msgstr "Taic ri inneal-dàta aig Plasma airson Python"
+
+#~ msgctxt "Name"
+#~ msgid "Python Runner"
+#~ msgstr "Ruitheadair Plasma"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma Runner support for Python"
+#~ msgstr "Inneal-taic ruithidh aig Plasma airson Python"
+
+#~ msgctxt "Name"
+#~ msgid "Ruby Widget"
+#~ msgstr "Ruby Widget"
+
+#~ msgctxt "Comment"
+#~ msgid "Native Plasma widget written in Ruby"
+#~ msgstr "Plasma widget tùsail a chaidh a sgrìobhadh le Ruby"
 
 #~ msgctxt "Name"
 #~ msgid "plasma-kpart-shell"
