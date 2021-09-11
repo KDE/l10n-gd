@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-22 00:14+0000\n"
+"POT-Creation-Date: 2021-09-11 00:14+0000\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -57,7 +57,7 @@ msgstr ""
 "<qt><p>Chan eil am bathar-cruaidh no -bog a nì am mòideal rèiteachadh air ri "
 "làimh no chaidh am mòideal a chur à comas leis an rianaire.</p></qt>"
 
-#: kcmoduleloader.cpp:99 kcmoduleloader.cpp:176
+#: kcmoduleloader.cpp:99 kcmoduleloader.cpp:192
 #, kde-format
 msgid "Error loading QML file."
 msgstr ""
@@ -86,7 +86,7 @@ msgstr ""
 msgid "The module has been disabled by the system administrator."
 msgstr ""
 
-#: kcmoduleloader.cpp:213
+#: kcmoduleloader.cpp:229
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt><p>Possible reasons:<ul><li>An error occurred during your last KDE "
