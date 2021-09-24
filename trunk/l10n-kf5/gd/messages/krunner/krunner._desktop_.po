@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-27 00:28+0000\n"
+"POT-Creation-Date: 2021-09-24 00:24+0000\n"
 "PO-Revision-Date: 2016-04-29 19:25+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -16,7 +16,7 @@ msgstr ""
 "X-Generator: Virtaal 0.7.1\n"
 "X-Project-Style: kde\n"
 
-#: src/data/servicetypes/plasma-runner.desktop:5
+#: src/data/servicetypes/plasma-runner.desktop:8
 msgctxt "Comment"
 msgid "KRunner plugin"
 msgstr "Plugan KRunner"
