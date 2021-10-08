@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-11 00:14+0000\n"
+"POT-Creation-Date: 2021-10-08 00:14+0000\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -29,64 +29,22 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "fios@foramnagaidhlig.net"
 
-#: kcmoduleloader.cpp:68
-#, kde-format
-msgid "The module %1 could not be found."
-msgstr "Cha deach am mòideal %1 a lorg."
-
-#: kcmoduleloader.cpp:69
-#, kde-format
-msgid ""
-"<qt><p>The diagnosis is:<br />The desktop file %1 could not be found.</p></"
-"qt>"
-msgstr ""
-"<qt><p>Seo toradh an sgrùdaidh:<br />Cha deach am faidhle desktop %1 a lorg."
-"</p></qt>"
-
-#: kcmoduleloader.cpp:75 kcmoduleloader.cpp:164
+#: kcmoduleloader.cpp:57 kcmoduleloader.cpp:142
 #, kde-format
 msgid "The module %1 is disabled."
 msgstr "Tha am mòideal %1 à comas."
 
-#: kcmoduleloader.cpp:76
-#, kde-format
-msgid ""
-"<qt><p>Either the hardware/software the module configures is not available "
-"or the module has been disabled by the administrator.</p></qt>"
-msgstr ""
-"<qt><p>Chan eil am bathar-cruaidh no -bog a nì am mòideal rèiteachadh air ri "
-"làimh no chaidh am mòideal a chur à comas leis an rianaire.</p></qt>"
-
-#: kcmoduleloader.cpp:99 kcmoduleloader.cpp:192
-#, kde-format
-msgid "Error loading QML file."
-msgstr ""
-
-#: kcmoduleloader.cpp:107
-#, kde-format
-msgid "Error loading config module"
-msgstr ""
-
-#: kcmoduleloader.cpp:154
-#, kde-format
-msgid "The module %1 is not a valid configuration module."
-msgstr "Chan eil am mòideal %1 'na mhòideal rèiteachaidh dligheach."
-
-#: kcmoduleloader.cpp:155
-#, kde-format
-msgid ""
-"<qt>The diagnosis is:<br />The desktop file %1 does not specify a library.</"
-"qt>"
-msgstr ""
-"<qt><p>Seo toradh an sgrùdaidh:<br />Cha shònraich am faidhle desktop %1 "
-"leabharlann.</p></qt>"
-
-#: kcmoduleloader.cpp:165
+#: kcmoduleloader.cpp:58
 #, kde-format
 msgid "The module has been disabled by the system administrator."
 msgstr ""
 
-#: kcmoduleloader.cpp:229
+#: kcmoduleloader.cpp:85 kcmoduleloader.cpp:166
+#, kde-format
+msgid "Error loading QML file."
+msgstr ""
+
+#: kcmoduleloader.cpp:104
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt><p>Possible reasons:<ul><li>An error occurred during your last KDE "
@@ -108,6 +66,48 @@ msgstr ""
 "a chaidh iomradh ann an teachdaireachd na mearachd. Mura tèid leat, "
 "beachdaich air fios a chur gun sgaoileadair no pacaidiche agad.</p></qt>"
 
+#: kcmoduleloader.cpp:135
+#, kde-format
+msgid "The module %1 could not be found."
+msgstr "Cha deach am mòideal %1 a lorg."
+
+#: kcmoduleloader.cpp:136
+#, kde-format
+msgid ""
+"<qt><p>The diagnosis is:<br />The desktop file %1 could not be found.</p></"
+"qt>"
+msgstr ""
+"<qt><p>Seo toradh an sgrùdaidh:<br />Cha deach am faidhle desktop %1 a lorg."
+"</p></qt>"
+
+#: kcmoduleloader.cpp:143
+#, kde-format
+msgid ""
+"<qt><p>Either the hardware/software the module configures is not available "
+"or the module has been disabled by the administrator.</p></qt>"
+msgstr ""
+"<qt><p>Chan eil am bathar-cruaidh no -bog a nì am mòideal rèiteachadh air ri "
+"làimh no chaidh am mòideal a chur à comas leis an rianaire.</p></qt>"
+
+#: kcmoduleloader.cpp:174
+#, kde-format
+msgid "Error loading config module"
+msgstr ""
+
+#: kcmoduleloader.cpp:221
+#, kde-format
+msgid "The module %1 is not a valid configuration module."
+msgstr "Chan eil am mòideal %1 'na mhòideal rèiteachaidh dligheach."
+
+#: kcmoduleloader.cpp:222
+#, kde-format
+msgid ""
+"<qt>The diagnosis is:<br />The desktop file %1 does not specify a library.</"
+"qt>"
+msgstr ""
+"<qt><p>Seo toradh an sgrùdaidh:<br />Cha shònraich am faidhle desktop %1 "
+"leabharlann.</p></qt>"
+
 #: kcmoduleproxy.cpp:105
 #, kde-format
 msgctxt "Argument is application name"
@@ -128,7 +128,7 @@ msgstr ""
 msgid "Apply Settings"
 msgstr "Cuir na roghainnean an sàs"
 
-#: kcmultidialog.cpp:245 kpluginselector.cpp:805
+#: kcmultidialog.cpp:259 kpluginselector.cpp:805
 #, kde-format
 msgid "Configure"
 msgstr "Rèitich"
