@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-10-16 00:25+0000\n"
+"POT-Creation-Date: 2021-10-19 00:25+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -1100,7 +1100,7 @@ msgctxt "Name"
 msgid "KDE Invent"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/invent.desktop:13
+#: src/urifilters/ikws/searchproviders/invent.desktop:14
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"
@@ -1113,7 +1113,7 @@ msgctxt "Name"
 msgid "KDE Invent Repositories"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/invent_repo.desktop:13
+#: src/urifilters/ikws/searchproviders/invent_repo.desktop:14
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://projects.kde.org/search?projects=1&q=\\\\{@}"
