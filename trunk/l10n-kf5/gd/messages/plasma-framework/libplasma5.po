@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-09 00:14+0000\n"
+"POT-Creation-Date: 2021-11-11 00:14+0000\n"
 "PO-Revision-Date: 2016-04-30 12:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -121,12 +121,12 @@ msgstr "Sguir dheth"
 msgid "More actions"
 msgstr ""
 
-#: plasma/applet.cpp:389
+#: plasma/applet.cpp:377
 #, kde-format
 msgid "Unknown"
 msgstr "Chan eil fhios"
 
-#: plasma/applet.cpp:769
+#: plasma/applet.cpp:757
 #, kde-format
 msgid "Activate %1 Widget"
 msgstr "Gnìomhach Widget %1"
