@@ -18203,7 +18203,7 @@ msgctxt "ActivityInfo|"
 msgid "Tab: navigate between the bottom and the top areas"
 msgstr ""
 
-#: activities/money/money.js:125
+#: activities/money/money.js:143
 #, fuzzy
 #| msgctxt "money|"
 #| msgid ""
@@ -18218,7 +18218,7 @@ msgstr ""
 "pàigheadh. Ma tha thu airson bonn no nòta a chur air falbh, briog air aig "
 "barr na sgrìn."
 
-#: activities/money/money.js:160
+#: activities/money/money.js:174
 #, qt-format
 msgctxt "money|"
 msgid ""
