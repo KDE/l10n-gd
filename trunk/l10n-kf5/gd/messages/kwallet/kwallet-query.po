@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-14 00:14+0000\n"
+"POT-Creation-Date: 2021-12-09 00:40+0000\n"
 "PO-Revision-Date: 2015-11-04 15:14+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -81,11 +81,6 @@ msgstr "Pasgan"
 
 #: main.cpp:39
 #, kde-format
-msgid "wallet"
-msgstr "sporan"
-
-#: main.cpp:39
-#, kde-format
 msgid "The wallet to query"
 msgstr "An sporan airson ceist a chur dha"
 
@@ -140,6 +135,9 @@ msgstr "Cha deach leinn luach na h-innteirte %1 a leughadh on sporan %2"
 #, kde-format
 msgid "Failed to write entry %1 value to %2 wallet"
 msgstr "Cha deach leinn luach na h-innteirte %1 a sgrìobhadh dhan sporan %2"
+
+#~ msgid "wallet"
+#~ msgstr "sporan"
 
 #~ msgid "kwallet-query"
 #~ msgstr "kwallet-query"
