@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GCompris-Unofficial\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-01-03 00:47+0000\n"
+"POT-Creation-Date: 2022-01-04 00:48+0000\n"
 "PO-Revision-Date: 2020-03-16 23:58+0100\n"
 "Last-Translator: Timo <animtim@gmail.com>\n"
 "Language-Team: French <kde-i18n-doc@kde.org>\n"
@@ -46,7 +46,7 @@ msgstr ""
 
 #. list item
 msgctxt "20210321.html"
-msgid "\\n<li class=\\\"puce\\\">Graphics have been updated for 21 activities."
+msgid "Graphics have been updated for 21 activities."
 msgstr ""
 
 #. list item
@@ -84,8 +84,7 @@ msgstr ""
 #. list item
 msgctxt "20210321.html"
 msgid ""
-"\\n<li class=\\\"puce\\\">Albanian, Belarusian, Brazilian Portuguese and "
-"Russian have been completed."
+"Albanian, Belarusian, Brazilian Portuguese and Russian have been completed."
 msgstr ""
 
 #. list item
@@ -166,8 +165,8 @@ msgstr ""
 #. list item
 msgctxt "20211217.html"
 msgid ""
-"\\n<li class=\\\"puce\\\">Baby mouse is for children learning to interact "
-"with a computer for the first time."
+"Baby mouse is for children learning to interact with a computer for the "
+"first time."
 msgstr ""
 
 #. list item
@@ -248,8 +247,7 @@ msgstr ""
 
 #. list item
 msgctxt "20211217.html"
-msgid ""
-"\\n<li class=\\\"puce\\\">Analog electricity has a new set of tutorial level."
+msgid "Analog electricity has a new set of tutorial level."
 msgstr ""
 
 #. list item
