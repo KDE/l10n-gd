@@ -27357,31 +27357,46 @@ msgstr ""
 #| msgctxt "ChangeLog|"
 #| msgid "Translations added for: Slovenian, German, Galician."
 msgctxt "ChangeLog|"
-msgid "Translation added for Azerbaijani"
+msgid "Translations added for Breton, Czech and Macedonian"
 msgstr ""
 "Eadar-theangachaidhean air an cur ris airson: Slòbhainis, Gearmailtis, "
 "Gailìsis"
 
 #: core/ChangeLog.qml:31
 msgctxt "ChangeLog|"
+msgid "Several bug fixes"
+msgstr ""
+
+#: core/ChangeLog.qml:35
+#, fuzzy
+#| msgctxt "ChangeLog|"
+#| msgid "Translations added for: Slovenian, German, Galician."
+msgctxt "ChangeLog|"
+msgid "Translation added for Azerbaijani"
+msgstr ""
+"Eadar-theangachaidhean air an cur ris airson: Slòbhainis, Gearmailtis, "
+"Gailìsis"
+
+#: core/ChangeLog.qml:36
+msgctxt "ChangeLog|"
 msgid "New maps and update of the maps for geography activities"
 msgstr ""
 
-#: core/ChangeLog.qml:32
+#: core/ChangeLog.qml:37
 msgctxt "ChangeLog|"
 msgid ""
 "New dataset containing loops operations for programming maze, and make "
 "tutorial images translated"
 msgstr ""
 
-#: core/ChangeLog.qml:33
+#: core/ChangeLog.qml:38
 msgctxt "ChangeLog|"
 msgid ""
 "Addition of a level to teach voltage source loop in analog electricity "
 "activity"
 msgstr ""
 
-#: core/ChangeLog.qml:34 core/ChangeLog.qml:39 core/ChangeLog.qml:45
+#: core/ChangeLog.qml:39 core/ChangeLog.qml:44 core/ChangeLog.qml:50
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Memory Game with images"
@@ -27389,7 +27404,7 @@ msgctxt "ChangeLog|"
 msgid "Many new images"
 msgstr "Geama cuimhne le dealbhan"
 
-#: core/ChangeLog.qml:35 core/ChangeLog.qml:38 core/ChangeLog.qml:44
+#: core/ChangeLog.qml:40 core/ChangeLog.qml:43 core/ChangeLog.qml:49
 #, fuzzy
 #| msgctxt "ChangeLog|"
 #| msgid "Many little fixes. Lang activity now available in French."
@@ -27398,12 +27413,12 @@ msgid "Many usability improvements"
 msgstr ""
 "Iomadh càradh beag. Tha cleasan cànain ri fhaighinn san Fhraingis a-nis."
 
-#: core/ChangeLog.qml:40 core/ChangeLog.qml:46
+#: core/ChangeLog.qml:45 core/ChangeLog.qml:51
 msgctxt "ChangeLog|"
 msgid "Many bug fixes"
 msgstr ""
 
-#: core/ChangeLog.qml:43
+#: core/ChangeLog.qml:48
 #, fuzzy
 #| msgctxt "ConfigurationItem|"
 #| msgid "The activity section menu is visible"
@@ -27411,12 +27426,12 @@ msgctxt "ChangeLog|"
 msgid "New Activity Settings menu, with dataset selection"
 msgstr "Chithear clàr-taice earrann na gnìomhachd"
 
-#: core/ChangeLog.qml:49
+#: core/ChangeLog.qml:54
 msgctxt "ChangeLog|"
 msgid "New sub-categories to organize activities"
 msgstr ""
 
-#: core/ChangeLog.qml:50
+#: core/ChangeLog.qml:55
 #, fuzzy
 #| msgctxt "ChangeLog|"
 #| msgid "Translations added for: Slovenian, German, Galician."
@@ -27426,37 +27441,37 @@ msgstr ""
 "Eadar-theangachaidhean air an cur ris airson: Slòbhainis, Gearmailtis, "
 "Gailìsis"
 
-#: core/ChangeLog.qml:51
+#: core/ChangeLog.qml:56
 msgctxt "ChangeLog|"
 msgid "New activities Programming Maze and Baby Tangram"
 msgstr ""
 
-#: core/ChangeLog.qml:52
+#: core/ChangeLog.qml:57
 msgctxt "ChangeLog|"
 msgid "New background music and volume settings."
 msgstr ""
 
-#: core/ChangeLog.qml:53
+#: core/ChangeLog.qml:58
 msgctxt "ChangeLog|"
 msgid "New speed setting in several activities."
 msgstr ""
 
-#: core/ChangeLog.qml:54
+#: core/ChangeLog.qml:59
 msgctxt "ChangeLog|"
 msgid "New option in chess to display captured pieces."
 msgstr ""
 
-#: core/ChangeLog.qml:55
+#: core/ChangeLog.qml:60
 msgctxt "ChangeLog|"
 msgid "New images in Colors, Advanced colors and Target game."
 msgstr ""
 
-#: core/ChangeLog.qml:56
+#: core/ChangeLog.qml:61
 msgctxt "ChangeLog|"
 msgid "New voices for US English."
 msgstr ""
 
-#: core/ChangeLog.qml:57 core/ChangeLog.qml:65
+#: core/ChangeLog.qml:62 core/ChangeLog.qml:70
 #, fuzzy
 #| msgctxt "ChangeLog|"
 #| msgid "Many little fixes. Lang activity now available in French."
@@ -27465,19 +27480,19 @@ msgid "Many little fixes and improvements."
 msgstr ""
 "Iomadh càradh beag. Tha cleasan cànain ri fhaighinn san Fhraingis a-nis."
 
-#: core/ChangeLog.qml:58
+#: core/ChangeLog.qml:63
 msgctxt "ChangeLog|"
 msgid ""
 "Translation updated for multiple languages (Breton, Brazilian Portuguese, "
 "Finnish...)."
 msgstr ""
 
-#: core/ChangeLog.qml:59
+#: core/ChangeLog.qml:64
 msgctxt "ChangeLog|"
 msgid "Add Russian dataset for Click on letter activity."
 msgstr ""
 
-#: core/ChangeLog.qml:60
+#: core/ChangeLog.qml:65
 #, fuzzy
 #| msgctxt "ChangeLog|"
 #| msgid "Many little fixes. Lang activity now available in French."
@@ -27486,19 +27501,19 @@ msgid "Lang activity now available in Dutch."
 msgstr ""
 "Iomadh càradh beag. Tha cleasan cànain ri fhaighinn san Fhraingis a-nis."
 
-#: core/ChangeLog.qml:61
+#: core/ChangeLog.qml:66
 msgctxt "ChangeLog|"
 msgid ""
 "Merge Norwegian counties Nord-Trøndelag and Sør-Trøndelag into Trøndelag in "
 "geo-country activity."
 msgstr ""
 
-#: core/ChangeLog.qml:62
+#: core/ChangeLog.qml:67
 msgctxt "ChangeLog|"
 msgid "Fix in braille activities where the cells start at 1, not 0."
 msgstr ""
 
-#: core/ChangeLog.qml:63
+#: core/ChangeLog.qml:68
 #, fuzzy
 #| msgctxt "ChangeLog|"
 #| msgid "Translations added for: Slovenian, German, Galician."
@@ -27508,14 +27523,14 @@ msgstr ""
 "Eadar-theangachaidhean air an cur ris airson: Slòbhainis, Gearmailtis, "
 "Gailìsis"
 
-#: core/ChangeLog.qml:64
+#: core/ChangeLog.qml:69
 msgctxt "ChangeLog|"
 msgid ""
 "Loading/saving of creations (Baby Wordprocessor, Balance Box and Piano "
 "Composition)."
 msgstr ""
 
-#: core/ChangeLog.qml:65
+#: core/ChangeLog.qml:70
 #, fuzzy
 #| msgctxt "ChangeLog|"
 #| msgid "Translations added for: Slovenian, German, Galician."
@@ -27525,38 +27540,38 @@ msgstr ""
 "Eadar-theangachaidhean air an cur ris airson: Slòbhainis, Gearmailtis, "
 "Gailìsis"
 
-#: core/ChangeLog.qml:66
+#: core/ChangeLog.qml:71
 msgctxt "ChangeLog|"
 msgid "License page added in configuration."
 msgstr ""
 
-#: core/ChangeLog.qml:66
+#: core/ChangeLog.qml:71
 msgctxt "ChangeLog|"
 msgid "Multiple changes on layouts to improve the ergonomy."
 msgstr ""
 
-#: core/ChangeLog.qml:67
+#: core/ChangeLog.qml:72
 msgctxt "ChangeLog|"
 msgid "Lang activity now available in Polish, Swedish and Ukrainian."
 msgstr ""
 "Tha cleasan cànain ri fhaighinn ann am Pòlainnis, Suainis is Ucràinis a-nis."
 
-#: core/ChangeLog.qml:68
+#: core/ChangeLog.qml:73
 msgctxt "ChangeLog|"
 msgid "Search feature."
 msgstr "Gleus an luirg."
 
-#: core/ChangeLog.qml:69
+#: core/ChangeLog.qml:74
 msgctxt "ChangeLog|"
 msgid "A Changelog."
 msgstr "Loga nan atharraichean."
 
-#: core/ChangeLog.qml:70
+#: core/ChangeLog.qml:75
 msgctxt "ChangeLog|"
 msgid "Many little fixes."
 msgstr ""
 
-#: core/ChangeLog.qml:70
+#: core/ChangeLog.qml:75
 #, fuzzy
 #| msgctxt "ChangeLog|"
 #| msgid "Many little fixes. Lang activity now available in French."
@@ -27565,28 +27580,28 @@ msgid "Lang activity now available in French."
 msgstr ""
 "Iomadh càradh beag. Tha cleasan cànain ri fhaighinn san Fhraingis a-nis."
 
-#: core/ChangeLog.qml:71
+#: core/ChangeLog.qml:76
 msgctxt "ChangeLog|"
 msgid ""
 "Adding a loading overlay to let the user know that some actions are taking "
 "place (loading an activity for example) and can take some seconds."
 msgstr ""
 
-#: core/ChangeLog.qml:71
+#: core/ChangeLog.qml:76
 msgctxt "ChangeLog|"
 msgid ""
 "Translations added for: Catalan (Valencian), Chinese Traditional, Finnish "
 "(92% translated), Russian (98% translated), Slovak (92% translated), Turkish."
 msgstr ""
 
-#: core/ChangeLog.qml:72
+#: core/ChangeLog.qml:77
 msgctxt "ChangeLog|"
 msgid "Translations added for: Slovenian, German, Galician."
 msgstr ""
 "Eadar-theangachaidhean air an cur ris airson: Slòbhainis, Gearmailtis, "
 "Gailìsis"
 
-#: core/ChangeLog.qml:97
+#: core/ChangeLog.qml:102
 #, qt-format
 msgctxt "ChangeLog|"
 msgid "Version %1:"
