@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GCompris-Unofficial\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-01-04 00:48+0000\n"
+"POT-Creation-Date: 2022-01-07 00:47+0000\n"
 "PO-Revision-Date: 2020-03-16 23:58+0100\n"
 "Last-Translator: Timo <animtim@gmail.com>\n"
 "Language-Team: French <kde-i18n-doc@kde.org>\n"
@@ -605,15 +605,13 @@ msgid "The source code is available under the AGPLv3 license."
 msgstr ""
 
 #: template/downloads.html:163
-msgid "MD5 and GPG"
+msgid "SHA-256 and GPG"
 msgstr ""
 
 #: template/downloads.html:167
-#, python-format
 msgid ""
-"To check the integrity of your downloads, you can compare the md5sums with "
-"those in this file: <a href=\"https://gcompris.net/download/qt/md5sums-"
-"%(version)s.txt\">MD5SUMS</a>"
+"To check the integrity of your downloads, you can get the original SHA-256 "
+"hash of the files by adding \".sha256\" at the end of their download url."
 msgstr ""
 
 #: template/downloads.html:168
