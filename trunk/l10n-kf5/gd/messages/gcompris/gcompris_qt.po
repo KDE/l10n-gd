@@ -24518,11 +24518,6 @@ msgid ""
 "him."
 msgstr ""
 
-#: activities/watercycle/ActivityInfo.qml:25
-msgctxt "ActivityInfo|"
-msgid "Drawing by Stephane Cabaraux."
-msgstr "Tarraing le Stephane Cabaraux."
-
 #: activities/watercycle/Watercycle.qml:78
 msgctxt "Watercycle|"
 msgid ""
@@ -25476,6 +25471,10 @@ msgstr ""
 msgctxt "Tutorial|"
 msgid "Start"
 msgstr ""
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Drawing by Stephane Cabaraux."
+#~ msgstr "Tarraing le Stephane Cabaraux."
 
 #, fuzzy
 #~| msgctxt "ActivityInfo|"
