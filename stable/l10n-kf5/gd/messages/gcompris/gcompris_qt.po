@@ -4631,22 +4631,22 @@ msgstr ""
 "shubhendusaurabh/draughts.js&gt;. Thàinig an treòir on Uicipeid &lt;https://"
 "en.wikipedia.org/wiki/Draughts&gt;"
 
-#: activities/checkers/checkers.js:73
+#: activities/checkers/checkers.js:75
 msgctxt "checkers|"
 msgid "Black's turn"
 msgstr "Cuairt a’ chluicheadair dhuibh"
 
-#: activities/checkers/checkers.js:73
+#: activities/checkers/checkers.js:75
 msgctxt "checkers|"
 msgid "White's turn"
 msgstr "Cuairt a’ chluicheadair ghil"
 
-#: activities/checkers/checkers.js:76
+#: activities/checkers/checkers.js:78
 msgctxt "checkers|"
 msgid "White wins"
 msgstr "Bhuannaich an cluicheadair geal"
 
-#: activities/checkers/checkers.js:76
+#: activities/checkers/checkers.js:78
 msgctxt "checkers|"
 msgid "Black wins"
 msgstr "Bhuannaich an cluicheadair dubh"
@@ -4736,17 +4736,17 @@ msgstr ""
 "Tha an t-einnsean tàileisg le p4wn &lt;https://github.com/douglasbagnall/"
 "p4wn&gt;."
 
-#: activities/chess/chess.js:120
+#: activities/chess/chess.js:123
 msgctxt "chess|"
 msgid "Black's turn"
 msgstr "Cuairt a’ chluicheadair dhuibh"
 
-#: activities/chess/chess.js:120
+#: activities/chess/chess.js:123
 msgctxt "chess|"
 msgid "White's turn"
 msgstr "Cuairt a’ chluicheadair ghil"
 
-#: activities/chess/chess.js:125
+#: activities/chess/chess.js:128
 msgctxt "chess|white wins"
 msgid "White mates"
 msgstr ""
@@ -4754,7 +4754,7 @@ msgstr ""
 "aig a’ chluicheadair\n"
 "gheal air an rìgh"
 
-#: activities/chess/chess.js:125
+#: activities/chess/chess.js:128
 msgctxt "chess|black wins"
 msgid "Black mates"
 msgstr ""
@@ -4762,12 +4762,12 @@ msgstr ""
 "aig a’ chluicheadair\n"
 "dubh air an rìgh"
 
-#: activities/chess/chess.js:135
+#: activities/chess/chess.js:138
 msgctxt "chess|"
 msgid "Drawn game"
 msgstr "Geama ionnanach"
 
-#: activities/chess/chess.js:139
+#: activities/chess/chess.js:142
 msgctxt "chess|black king is under attack"
 msgid "White checks"
 msgstr ""
@@ -4776,7 +4776,7 @@ msgstr ""
 "aig a’\n"
 "chluicheadair gheal"
 
-#: activities/chess/chess.js:139
+#: activities/chess/chess.js:142
 msgctxt "chess|white king is under attack"
 msgid "Black checks"
 msgstr ""
@@ -4785,7 +4785,7 @@ msgstr ""
 "aig a’\n"
 "chluicheadair dhubh"
 
-#: activities/chess/chess.js:142
+#: activities/chess/chess.js:145
 msgctxt "chess|"
 msgid "Invalid, your king may be in check"
 msgstr "Toirmisgte, dh’fhaoidte gu bheil tul-chasg air an rìgh agad"
@@ -6484,7 +6484,7 @@ msgid ""
 "generator."
 msgstr ""
 
-#: activities/digital_electricity/components/SignalGenerator.qml:152
+#: activities/digital_electricity/components/SignalGenerator.qml:162
 #, qt-format
 msgctxt "SignalGenerator|"
 msgid "%1 s"
@@ -14369,7 +14369,7 @@ msgctxt "Warning|"
 msgid "Press \"Return\" or click on me to continue."
 msgstr "Brùth “Return” no briog orm-sa a leantainn air adhart."
 
-#: activities/gnumch-equality/WarnMonster.qml:31
+#: activities/gnumch-equality/WarnMonster.qml:41
 #, fuzzy
 #| msgctxt "WarnMonster|"
 #| msgid "Be careful, a troggle !"
@@ -14718,7 +14718,7 @@ msgctxt "ActivityInfo|"
 msgid "Left and Right arrows: move the spaceship"
 msgstr ""
 
-#: activities/gravity/Gravity.qml:206
+#: activities/gravity/Gravity.qml:210
 #, fuzzy
 #| msgctxt "IntroGravity|"
 #| msgid ""
@@ -14738,7 +14738,7 @@ msgstr ""
 "thàlaidh na h-iom-tharraing gu dìreach air tomad an dà nì is tha i co-"
 "rèireach mùiteach ris an astar cheàrnagach eadar meadhanan an dà nì."
 
-#: activities/gravity/Gravity.qml:210
+#: activities/gravity/Gravity.qml:214
 #, fuzzy
 #| msgctxt "IntroGravity|"
 #| msgid ""
@@ -14758,7 +14758,7 @@ msgstr ""
 "sin, mar as motha ’s a tha an tomad aig nì ’s ann nas cumhachdaiche an "
 "tàladh."
 
-#: activities/gravity/Gravity.qml:213
+#: activities/gravity/Gravity.qml:217
 #, fuzzy
 #| msgctxt "IntroGravity|"
 #| msgid ""
@@ -14775,7 +14775,7 @@ msgstr ""
 "eadar meadhanan an dà nì cuideachd. Mar sin, mar as fhaide air falbh o càch "
 "a chèile ’s a tha an dà nì, ’s ann nas laige an tàladh."
 
-#: activities/gravity/Gravity.qml:216
+#: activities/gravity/Gravity.qml:220
 #, fuzzy
 #| msgctxt "IntroGravity|"
 #| msgid ""
@@ -14793,7 +14793,7 @@ msgstr ""
 "na planaidean no buailidh tu riutha. Seallaidh an t-saighead dhut comhair na "
 "cumhachd air an t-soitheach agad."
 
-#: activities/gravity/Gravity.qml:219
+#: activities/gravity/Gravity.qml:223
 msgctxt "Gravity|"
 msgid ""
 "Try to stay near the center of the screen, and anticipate by looking at the "
@@ -14875,12 +14875,12 @@ msgctxt "Admin|"
 msgid "Level %1"
 msgstr "Leibheil %1"
 
-#: activities/guesscount/guesscount.js:132
+#: activities/guesscount/guesscount.js:133
 msgctxt "guesscount|"
 msgid "result is not positive integer"
 msgstr "chan eil an toradh ’na àireamh shlàn dhearbh"
 
-#: activities/guesscount/guesscount.js:134
+#: activities/guesscount/guesscount.js:135
 msgctxt "guesscount|"
 msgid "result is not an integer"
 msgstr "chan eil an toradh ’na àireamh shlàn"
@@ -15127,7 +15127,7 @@ msgid ""
 "attempts are remaining."
 msgstr ""
 
-#: activities/hangman/hangman.js:208
+#: activities/hangman/hangman.js:209
 #, qt-format
 msgctxt "hangman|"
 msgid "Attempted: %1"
@@ -15867,31 +15867,31 @@ msgid ""
 "rotate the spaceship"
 msgstr ""
 
-#: activities/land_safe/LandSafe.qml:574
+#: activities/land_safe/LandSafe.qml:577
 #, qt-format
 msgctxt "LandSafe|"
 msgid "Fuel: %1"
 msgstr "Connadh: %1"
 
-#: activities/land_safe/LandSafe.qml:584
+#: activities/land_safe/LandSafe.qml:587
 #, qt-format
 msgctxt "LandSafe|"
 msgid "Altitude: %1"
 msgstr "Àirde: %1"
 
-#: activities/land_safe/LandSafe.qml:594
+#: activities/land_safe/LandSafe.qml:597
 #, qt-format
 msgctxt "LandSafe|"
 msgid "Velocity: %1"
 msgstr "Luaths: %1"
 
-#: activities/land_safe/LandSafe.qml:605
+#: activities/land_safe/LandSafe.qml:608
 #, qt-format
 msgctxt "LandSafe|"
 msgid "Acceleration: %1"
 msgstr "Luathachadh: %1"
 
-#: activities/land_safe/LandSafe.qml:639
+#: activities/land_safe/LandSafe.qml:642
 #, qt-format
 msgctxt "LandSafe|"
 msgid "Gravity: %1"
@@ -16398,31 +16398,31 @@ msgid ""
 "validate your answer."
 msgstr ""
 
-#: activities/learn_decimals/Learn_decimals.qml:109
+#: activities/learn_decimals/Learn_decimals.qml:112
 #, qt-format
 msgctxt "Learn_decimals|"
 msgid "Display the number: %1"
 msgstr ""
 
-#: activities/learn_decimals/Learn_decimals.qml:110
+#: activities/learn_decimals/Learn_decimals.qml:113
 #, qt-format
 msgctxt "Learn_decimals|"
 msgid "Display the result of: %1 + %2"
 msgstr ""
 
-#: activities/learn_decimals/Learn_decimals.qml:111
+#: activities/learn_decimals/Learn_decimals.qml:114
 #, qt-format
 msgctxt "Learn_decimals|"
 msgid "Display the result of: %1 - %2"
 msgstr ""
 
-#: activities/learn_decimals/Learn_decimals.qml:112
+#: activities/learn_decimals/Learn_decimals.qml:115
 #, qt-format
 msgctxt "Learn_decimals|"
 msgid "Represent the quantity: %1"
 msgstr ""
 
-#: activities/learn_decimals/Learn_decimals.qml:565
+#: activities/learn_decimals/Learn_decimals.qml:568
 #, fuzzy, qt-format
 #| msgctxt "ScaleNumber|"
 #| msgid "Enter the weight of the gift: %1"
@@ -17300,7 +17300,7 @@ msgstr ""
 "Louis Braille gur urrainn dhut rudan do-chreidsinneach a dhèanamh ma thogras "
 "tu."
 
-#: activities/louis-braille/ReorderList.qml:157
+#: activities/louis-braille/ReorderList.qml:161
 #, fuzzy
 #| msgctxt "ReorderList|"
 #| msgid ""
@@ -17624,7 +17624,7 @@ msgstr ""
 "an ìomhaigheag “casruisgte / brògan spòrs” san oisean clì air barr na sgrìn "
 "gus am modh-ruith-gu-luath a thoglachadh."
 
-#: activities/maze/Maze.qml:313
+#: activities/maze/Maze.qml:314
 msgctxt "Maze|"
 msgid ""
 "Look at your position, then switch back to invisible mode to continue your "
@@ -17804,14 +17804,14 @@ msgstr ""
 "bàraichean an t-saidhleafoin. Faodaidh tu èisteachd ris a-rithist is brùth "
 "air a’ phutan gus seo a dhèanamh."
 
-#: activities/melody/Melody.qml:284
+#: activities/melody/Melody.qml:285
 msgctxt "Melody|"
 msgid ""
 "This activity requires sound, so it will play some sounds even if the audio "
 "voices or effects are disabled in the main configuration."
 msgstr ""
 
-#: activities/melody/Melody.qml:285
+#: activities/melody/Melody.qml:286
 #, fuzzy
 #| msgctxt "core|"
 #| msgid "Quit?"
@@ -17819,7 +17819,7 @@ msgctxt "Melody|"
 msgid "Quit"
 msgstr "A bheil thu airson fàgail an-seo?"
 
-#: activities/melody/Melody.qml:286
+#: activities/melody/Melody.qml:287
 #, fuzzy
 #| msgctxt "board1_0|"
 #| msgid "Continents"
@@ -20299,39 +20299,39 @@ msgstr ""
 "Ma dh’fhàgas tu an coimpiutair gun chomas gluasaid no le dà phìos, "
 "buannaichidh tu an geama."
 
-#: activities/nine_men_morris/nine_men_morris.js:262
-#: activities/nine_men_morris/nine_men_morris.js:1112
+#: activities/nine_men_morris/nine_men_morris.js:263
+#: activities/nine_men_morris/nine_men_morris.js:1113
 msgctxt "nine_men_morris|"
 msgid "Place a piece"
 msgstr "Cuir sìos pìos"
 
-#: activities/nine_men_morris/nine_men_morris.js:392
-#: activities/nine_men_morris/nine_men_morris.js:1170
+#: activities/nine_men_morris/nine_men_morris.js:393
+#: activities/nine_men_morris/nine_men_morris.js:1171
 msgctxt "nine_men_morris|"
 msgid "Move a piece"
 msgstr "Gluais pìos"
 
-#: activities/nine_men_morris/nine_men_morris.js:944
+#: activities/nine_men_morris/nine_men_morris.js:945
 msgctxt "nine_men_morris|"
 msgid "Remove a piece"
 msgstr "Thoir pìos far a’ bhùird"
 
-#: activities/nine_men_morris/nine_men_morris.js:1147
+#: activities/nine_men_morris/nine_men_morris.js:1148
 msgctxt "nine_men_morris|"
 msgid "Congratulations"
 msgstr "Meal do naidheachd"
 
-#: activities/nine_men_morris/nine_men_morris.js:1150
+#: activities/nine_men_morris/nine_men_morris.js:1151
 msgctxt "nine_men_morris|"
 msgid "Congratulations Player 1"
 msgstr "Meal do naidheachd do chluicheadair 1"
 
-#: activities/nine_men_morris/nine_men_morris.js:1161
+#: activities/nine_men_morris/nine_men_morris.js:1162
 msgctxt "nine_men_morris|"
 msgid "Congratulations Player 2"
 msgstr "Meal do naidheachd do chluicheadair 2"
 
-#: activities/nine_men_morris/nine_men_morris.js:1164
+#: activities/nine_men_morris/nine_men_morris.js:1165
 msgctxt "nine_men_morris|"
 msgid "Try again"
 msgstr "Feuch ris a-rithist"
@@ -21334,7 +21334,7 @@ msgctxt "ActivityInfo|"
 msgid "Arrows: directions"
 msgstr ""
 
-#: activities/path_encoding/GridPath.qml:122
+#: activities/path_encoding/GridPath.qml:125
 #, qt-format
 msgctxt "GridPath|"
 msgid "Errors: %1"
@@ -21388,7 +21388,7 @@ msgstr ""
 "glacaidh Tux am bàla. Feumaidh tu breabadh air a’ bhàla gus a thilleadh far "
 "an robh e"
 
-#: activities/penalty/Penalty.qml:207
+#: activities/penalty/Penalty.qml:210
 msgctxt "Penalty|"
 msgid ""
 "Double click or double tap on the side of the goal you want to put the ball "
@@ -21397,7 +21397,7 @@ msgstr ""
 "Dèan briogadh dùbailte no gnogadh dùbailte ri taobh a’ bhàir a tha thu ag "
 "amas air leis a’ bhàla."
 
-#: activities/penalty/Penalty.qml:247
+#: activities/penalty/Penalty.qml:250
 #, fuzzy
 #| msgctxt "Penalty|"
 #| msgid "Click or tap the ball to bring it back to its former position"
@@ -21584,7 +21584,7 @@ msgid ""
 msgstr ""
 
 #. BPM is the abbreviation for Beats Per Minute.
-#: activities/piano_composition/BpmMeter.qml:36
+#: activities/piano_composition/BpmMeter.qml:48
 #, qt-format
 msgctxt "BpmMeter|"
 msgid "%1 BPM"
@@ -26855,7 +26855,7 @@ msgstr ""
 "iad air an taghadh gu fèin-obrachail sna tomhasan agad gus an doir thu an "
 "comharra air falbh le briogadh no gnogadh dùbailte."
 
-#: activities/superbrain/Superbrain.qml:136
+#: activities/superbrain/Superbrain.qml:139
 #, fuzzy
 #| msgctxt "Superbrain|"
 #| msgid "This item is well placed"
@@ -26863,7 +26863,7 @@ msgctxt "Superbrain|"
 msgid "This item is well placed."
 msgstr "Tha an nì seo ann an deagh àite"
 
-#: activities/superbrain/Superbrain.qml:138
+#: activities/superbrain/Superbrain.qml:141
 #, fuzzy
 #| msgctxt "Superbrain|"
 #| msgid "This item is misplaced"
@@ -27154,7 +27154,7 @@ msgstr ""
 "a bhios siostam na h-uisge air a-rithist is Tux san fhras, brùth air putan "
 "na froise dha."
 
-#: activities/watercycle/Watercycle.qml:78
+#: activities/watercycle/Watercycle.qml:79
 #, fuzzy
 #| msgctxt "Watercycle|"
 #| msgid ""
@@ -27168,14 +27168,14 @@ msgstr ""
 "’S e a’ ghrian a’ phàirt as cudromaiche ann an cearcall an uisge. Briog air "
 "a’ ghrian a chur gu dol cearcall an uisge."
 
-#: activities/watercycle/Watercycle.qml:79
+#: activities/watercycle/Watercycle.qml:80
 msgctxt "Watercycle|"
 msgid "As the sun rises, the water of the sea starts heating and evaporates."
 msgstr ""
 "Mar a dh’èireas a’ ghrian, fàsaidh am muir nas blàithe agus thèid cuid dheth "
 "’na dheatach."
 
-#: activities/watercycle/Watercycle.qml:80
+#: activities/watercycle/Watercycle.qml:81
 #, fuzzy
 #| msgctxt "Watercycle|"
 #| msgid ""
@@ -27189,7 +27189,7 @@ msgstr ""
 "Co-dhlùthaichidh an deatach uisge ann an neòil agus nuair a dh’fhàsas na "
 "neòil trom le uisge, nì e fras. Briog air an neul."
 
-#: activities/watercycle/Watercycle.qml:81
+#: activities/watercycle/Watercycle.qml:82
 #, fuzzy
 #| msgctxt "Watercycle|"
 #| msgid ""
@@ -27206,7 +27206,7 @@ msgstr ""
 "slighe pumpaichean motair agus tùir-uisge. Briog air a’ phumpa airson uisge "
 "a sholar dha na daoine."
 
-#: activities/watercycle/Watercycle.qml:83
+#: activities/watercycle/Watercycle.qml:84
 msgctxt "Watercycle|"
 msgid ""
 "See the tower filled with water. Activate the sewage treatment station by "
@@ -27215,12 +27215,12 @@ msgstr ""
 "Seall an tùr ’s e làn de dh’uisge. Cuir gu dol ionad giullachd an uisge le "
 "bhith a’ briogadh air."
 
-#: activities/watercycle/Watercycle.qml:84
+#: activities/watercycle/Watercycle.qml:85
 msgctxt "Watercycle|"
 msgid "Great, click on the shower, as Tux arrives home."
 msgstr "Taghta, briog air an fhrasair nuair a ruigeas Tux a dhachaidh."
 
-#: activities/watercycle/Watercycle.qml:85
+#: activities/watercycle/Watercycle.qml:86
 #, fuzzy
 #| msgctxt "Watercycle|"
 #| msgid "Fantastic, you have completed water cycle. You can continue playing."
@@ -27231,7 +27231,7 @@ msgstr ""
 "Air leth, choilean thu cearcall an uisge. ’S urrainn dhut cumail a’ dol a’ "
 "cluich leis."
 
-#: activities/watercycle/Watercycle.qml:112
+#: activities/watercycle/Watercycle.qml:113
 msgctxt "Watercycle|"
 msgid ""
 "The water cycle (also known as the hydrologic cycle) is the journey water "
@@ -27242,7 +27242,7 @@ msgstr ""
 "speuran a-rithist ’s a-rithist. Thig a’ chumhachd air a bheil feum airson "
 "uisge à lochan no cuantan a thionndadh ’na dheatach on ghrian."
 
-#: activities/watercycle/Watercycle.qml:115
+#: activities/watercycle/Watercycle.qml:116
 #, fuzzy
 #| msgctxt "Watercycle|"
 #| msgid ""
@@ -27260,7 +27260,7 @@ msgstr ""
 "an neòil. Nuair a thachras na neòil ri adhar fionnar os cionn na talmhainn, "
 "adhbharaichidh seo sileadh agus tuitidh sin a-nuas mar uisge."
 
-#: activities/watercycle/Watercycle.qml:118
+#: activities/watercycle/Watercycle.qml:119
 msgctxt "Watercycle|"
 msgid ""
 "Some of the water is trapped between rock or clay layers, called "
@@ -27271,7 +27271,7 @@ msgstr ""
 "canar uisge-talmhainn ris. Ach sruthaichidh a’ chuid as motha dheth air ais "
 "dhan mhuir ann an aibhnichean."
 
-#: activities/watercycle/Watercycle.qml:120
+#: activities/watercycle/Watercycle.qml:121
 #, fuzzy
 #| msgctxt "Watercycle|"
 #| msgid ""
