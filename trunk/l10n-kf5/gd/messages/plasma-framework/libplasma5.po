@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-29 00:40+0000\n"
+"POT-Creation-Date: 2022-02-10 00:41+0000\n"
 "PO-Revision-Date: 2016-04-30 12:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -614,7 +614,7 @@ msgstr "Mearachd a' luchdadh faidhle QML: %1"
 msgid "Error loading Applet: package inexistent. %1"
 msgstr "Mearachd a' luchdadh aplaid: chan eil a' phacaid ann. %1"
 
-#: plasmaquick/configview.cpp:96
+#: plasmaquick/configview.cpp:95
 #, kde-format
 msgid "%1 Settings"
 msgstr "Roghainnean %1"
