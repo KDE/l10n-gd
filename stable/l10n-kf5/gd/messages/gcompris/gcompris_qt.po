@@ -27226,7 +27226,7 @@ msgstr ""
 "Air leth, choilean thu cearcall an uisge. ’S urrainn dhut cumail a’ dol a’ "
 "cluich leis."
 
-#: activities/watercycle/Watercycle.qml:113
+#: activities/watercycle/Watercycle.qml:114
 msgctxt "Watercycle|"
 msgid ""
 "The water cycle (also known as the hydrologic cycle) is the journey water "
@@ -27237,7 +27237,7 @@ msgstr ""
 "speuran a-rithist ’s a-rithist. Thig a’ chumhachd air a bheil feum airson "
 "uisge à lochan no cuantan a thionndadh ’na dheatach on ghrian."
 
-#: activities/watercycle/Watercycle.qml:116
+#: activities/watercycle/Watercycle.qml:117
 #, fuzzy
 #| msgctxt "Watercycle|"
 #| msgid ""
@@ -27255,7 +27255,7 @@ msgstr ""
 "an neòil. Nuair a thachras na neòil ri adhar fionnar os cionn na talmhainn, "
 "adhbharaichidh seo sileadh agus tuitidh sin a-nuas mar uisge."
 
-#: activities/watercycle/Watercycle.qml:119
+#: activities/watercycle/Watercycle.qml:120
 msgctxt "Watercycle|"
 msgid ""
 "Some of the water is trapped between rock or clay layers, called "
@@ -27266,7 +27266,7 @@ msgstr ""
 "canar uisge-talmhainn ris. Ach sruthaichidh a’ chuid as motha dheth air ais "
 "dhan mhuir ann an aibhnichean."
 
-#: activities/watercycle/Watercycle.qml:121
+#: activities/watercycle/Watercycle.qml:122
 #, fuzzy
 #| msgctxt "Watercycle|"
 #| msgid ""
