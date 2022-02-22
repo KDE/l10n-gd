@@ -81,12 +81,12 @@ msgctxt "Solid::Backends::UDev::UDevDevice|"
 msgid "Camera"
 msgstr "Camara"
 
-#: solid/devices/backends/udev/udevmanager.cpp:219
+#: solid/devices/backends/udev/udevmanager.cpp:220
 msgctxt "Solid::Backends::UDev::UDevManager|"
 msgid "Devices"
 msgstr "Uidheaman"
 
-#: solid/devices/backends/udev/udevmanager.cpp:220
+#: solid/devices/backends/udev/udevmanager.cpp:221
 msgctxt "Solid::Backends::UDev::UDevManager|"
 msgid "Devices declared in your system"
 msgstr "Uidheaman a chaidh a chur an cèill san t-siostam agad"
