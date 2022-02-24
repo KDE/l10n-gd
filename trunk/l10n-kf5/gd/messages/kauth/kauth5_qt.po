@@ -45,22 +45,22 @@ msgstr ""
 "Mearachd a' backend DBus: dh'fhàillig le consltradh ris an inneal-taic. "
 "Mearachd a' cheangail: "
 
-#: kauthexecutejob.cpp:87
+#: executejob.cpp:86
 msgctxt "KAuth::ExecuteJob|"
 msgid "Tried to start an invalid action"
 msgstr "Dh'fheuchadh ri gnìomh mì-dhligheach a thòiseachadh"
 
-#: kauthexecutejob.cpp:105
+#: executejob.cpp:104
 msgctxt "KAuth::ExecuteJob|"
 msgid "Unknown execution mode chosen"
 msgstr "Chan aithne dhuinn modh a' ghnìomhaidh a chaidh a thaghadh"
 
-#: kauthexecutejob.cpp:150
+#: executejob.cpp:149
 msgctxt "KAuth::ExecuteJob|"
 msgid "Unknown status for the authentication procedure"
 msgstr "Chan aithne duinn an staid airson an dearbhaidh"
 
-#: kauthexecutejob.cpp:162
+#: executejob.cpp:161
 msgctxt "KAuth::ExecuteJob|"
 msgid ""
 "The current backend only allows helper authorization, but this action does "
@@ -69,7 +69,7 @@ msgstr ""
 "Cha cheadaich am backend làithreach ach dearbhadh inneal-taice ach chan eil "
 "inneal-taice aig a' ghnìomh seo."
 
-#: kauthexecutejob.cpp:170 kauthexecutejob.cpp:194
+#: executejob.cpp:169 executejob.cpp:193
 msgctxt "KAuth::ExecuteJob|"
 msgid "The backend does not specify how to authorize"
 msgstr "Cha do shònraich am backend dòigh an dearbhaidh"
