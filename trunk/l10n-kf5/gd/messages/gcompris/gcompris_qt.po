@@ -53,8 +53,8 @@ msgstr ""
 #: activities/algebra_minus/ActivityInfo.qml:25
 #: activities/algebra_plus/ActivityInfo.qml:25
 #: activities/algorithm/ActivityInfo.qml:23
-#: activities/align4-2players/ActivityInfo.qml:23
 #: activities/align4/ActivityInfo.qml:23
+#: activities/align4_2players/ActivityInfo.qml:23
 #: activities/alphabet-sequence/ActivityInfo.qml:25
 #: activities/baby_wordprocessor/ActivityInfo.qml:26
 #: activities/braille_alphabets/ActivityInfo.qml:26
@@ -1291,14 +1291,17 @@ msgid ""
 msgstr ""
 
 #. Activity title
-#: activities/align4-2players/ActivityInfo.qml:15
+#: activities/align4/ActivityInfo.qml:15
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Addition memory game against Tux"
 msgctxt "ActivityInfo|"
-msgid "Align four (with a friend)"
-msgstr ""
+msgid "Align four (against Tux)"
+msgstr "Geama cuimhne cuir ris an aghaidh Tux"
 
 #. Help title
-#: activities/align4-2players/ActivityInfo.qml:17
 #: activities/align4/ActivityInfo.qml:17
+#: activities/align4_2players/ActivityInfo.qml:17
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Arrange four coins in a row"
@@ -1307,8 +1310,8 @@ msgid "Arrange four tokens in a row."
 msgstr "Cuir ceithir buinn ann an sreath"
 
 #. Help goal
-#: activities/align4-2players/ActivityInfo.qml:20
 #: activities/align4/ActivityInfo.qml:20
+#: activities/align4_2players/ActivityInfo.qml:20
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
@@ -1323,53 +1326,6 @@ msgstr ""
 "inghearach (nan seasamh) no air an trastan."
 
 #. Help manual
-#: activities/align4-2players/ActivityInfo.qml:22
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Click the position in the line where you want to drop a piece. You can "
-#| "also use the arrow keys to move the piece left or right, and the down or "
-#| "space key to drop a piece."
-msgctxt "ActivityInfo|"
-msgid ""
-"Play with a friend. Take turns to click the line in which you want to drop a "
-"token. The first player to create a line of 4 tokens wins."
-msgstr ""
-"Briog air an ionad air an loidhne far a bheil thu airson bonn a leigeil. ’S "
-"urrainn dhut na saighdean a chleachdadh cuideachd gus am bonn a ghluasad gu "
-"clì no deas is an iuchair sìos no an spacebar gus bonn a leagail."
-
-#: activities/align4-2players/ActivityInfo.qml:24
-#: activities/align4/ActivityInfo.qml:24
-msgctxt "ActivityInfo|"
-msgid "Left arrow: move the token to the left"
-msgstr ""
-
-#: activities/align4-2players/ActivityInfo.qml:25
-#: activities/align4/ActivityInfo.qml:25
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Draw the picture by clicking on each numbers in the right order."
-msgctxt "ActivityInfo|"
-msgid "Right arrow: move the token to the right"
-msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
-
-#: activities/align4-2players/ActivityInfo.qml:26
-#: activities/align4/ActivityInfo.qml:26
-msgctxt "ActivityInfo|"
-msgid "Space or Down arrow: drop the token"
-msgstr ""
-
-#. Activity title
-#: activities/align4/ActivityInfo.qml:15
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Addition memory game against Tux"
-msgctxt "ActivityInfo|"
-msgid "Align four (against Tux)"
-msgstr "Geama cuimhne cuir ris an aghaidh Tux"
-
-#. Help manual
 #: activities/align4/ActivityInfo.qml:22
 #, fuzzy
 #| msgctxt "ActivityInfo|"
@@ -1381,6 +1337,50 @@ msgctxt "ActivityInfo|"
 msgid ""
 "Play with the computer. Take turns to click the line in which you want to "
 "drop a token. The first player to create a line of 4 tokens wins."
+msgstr ""
+"Briog air an ionad air an loidhne far a bheil thu airson bonn a leigeil. ’S "
+"urrainn dhut na saighdean a chleachdadh cuideachd gus am bonn a ghluasad gu "
+"clì no deas is an iuchair sìos no an spacebar gus bonn a leagail."
+
+#: activities/align4/ActivityInfo.qml:24
+#: activities/align4_2players/ActivityInfo.qml:24
+msgctxt "ActivityInfo|"
+msgid "Left arrow: move the token to the left"
+msgstr ""
+
+#: activities/align4/ActivityInfo.qml:25
+#: activities/align4_2players/ActivityInfo.qml:25
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw the picture by clicking on each numbers in the right order."
+msgctxt "ActivityInfo|"
+msgid "Right arrow: move the token to the right"
+msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
+
+#: activities/align4/ActivityInfo.qml:26
+#: activities/align4_2players/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "Space or Down arrow: drop the token"
+msgstr ""
+
+#. Activity title
+#: activities/align4_2players/ActivityInfo.qml:15
+msgctxt "ActivityInfo|"
+msgid "Align four (with a friend)"
+msgstr ""
+
+#. Help manual
+#: activities/align4_2players/ActivityInfo.qml:22
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Click the position in the line where you want to drop a piece. You can "
+#| "also use the arrow keys to move the piece left or right, and the down or "
+#| "space key to drop a piece."
+msgctxt "ActivityInfo|"
+msgid ""
+"Play with a friend. Take turns to click the line in which you want to drop a "
+"token. The first player to create a line of 4 tokens wins."
 msgstr ""
 "Briog air an ionad air an loidhne far a bheil thu airson bonn a leigeil. ’S "
 "urrainn dhut na saighdean a chleachdadh cuideachd gus am bonn a ghluasad gu "
@@ -4162,7 +4162,7 @@ msgstr "Tarraing an dealbh, a’ briogadh air gach àireamh san òrdugh cheart."
 #| msgctxt "ActivityInfo|"
 #| msgid "Play the audio memory game against Tux"
 msgctxt "ActivityInfo|"
-msgid "Play checkers against the computer"
+msgid "Play checkers (against Tux)"
 msgstr "Cluich geama cuimhne claisneachd an aghaidh Tux"
 
 #. Help title
@@ -4237,9 +4237,12 @@ msgstr ""
 
 #. Activity title
 #: activities/checkers_2players/ActivityInfo.qml:15
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Play the audio memory game against Tux"
 msgctxt "ActivityInfo|"
-msgid "Play checkers with your friend"
-msgstr ""
+msgid "Play checkers (with a friend)"
+msgstr "Cluich geama cuimhne claisneachd an aghaidh Tux"
 
 #. Activity title
 #: activities/chess/ActivityInfo.qml:15
@@ -4247,7 +4250,7 @@ msgstr ""
 #| msgctxt "ActivityInfo|"
 #| msgid "Play the audio memory game against Tux"
 msgctxt "ActivityInfo|"
-msgid "Play chess against Tux"
+msgid "Play chess (against Tux)"
 msgstr "Cluich geama cuimhne claisneachd an aghaidh Tux"
 
 #. Help manual
@@ -4349,7 +4352,7 @@ msgstr ""
 #. Activity title
 #: activities/chess_2players/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
-msgid "Play chess against your friend"
+msgid "Play chess (with a friend)"
 msgstr ""
 
 #. Help manual
@@ -19127,7 +19130,7 @@ msgstr ""
 #| msgctxt "ActivityInfo|"
 #| msgid "Play the audio memory game against Tux"
 msgctxt "ActivityInfo|"
-msgid "Play oware against Tux"
+msgid "Play oware (against Tux)"
 msgstr "Cluich geama cuimhne claisneachd an aghaidh Tux"
 
 #. Help title
@@ -19198,7 +19201,7 @@ msgstr ""
 #. Activity title
 #: activities/oware_2players/ActivityInfo.qml:14
 msgctxt "ActivityInfo|"
-msgid "Play oware with a friend"
+msgid "Play oware (with a friend)"
 msgstr ""
 
 #. Help title
