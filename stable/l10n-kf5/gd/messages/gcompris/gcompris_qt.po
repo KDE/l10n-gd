@@ -63,8 +63,8 @@ msgstr ""
 #: activities/algebra_minus/ActivityInfo.qml:25
 #: activities/algebra_plus/ActivityInfo.qml:25
 #: activities/algorithm/ActivityInfo.qml:23
-#: activities/align4-2players/ActivityInfo.qml:23
 #: activities/align4/ActivityInfo.qml:23
+#: activities/align4_2players/ActivityInfo.qml:23
 #: activities/alphabet-sequence/ActivityInfo.qml:25
 #: activities/baby_wordprocessor/ActivityInfo.qml:26
 #: activities/braille_alphabets/ActivityInfo.qml:26
@@ -1348,14 +1348,14 @@ msgstr ""
 "iomchaidh an dèidh dhut am pàtran a mheòrachadh."
 
 #. Activity title
-#: activities/align4-2players/ActivityInfo.qml:15
+#: activities/align4/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
-msgid "Align four (with a friend)"
-msgstr "Ceithir ann an sreath (cluich le caraid)"
+msgid "Align four (against Tux)"
+msgstr "Ceithir ann an sreath (cluich an aghaidh Tux)"
 
 #. Help title
-#: activities/align4-2players/ActivityInfo.qml:17
 #: activities/align4/ActivityInfo.qml:17
+#: activities/align4_2players/ActivityInfo.qml:17
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Arrange four tokens in a row"
@@ -1364,8 +1364,8 @@ msgid "Arrange four tokens in a row."
 msgstr "Cuir ceithir buinn ann an sreath"
 
 #. Help goal
-#: activities/align4-2players/ActivityInfo.qml:20
 #: activities/align4/ActivityInfo.qml:20
+#: activities/align4_2players/ActivityInfo.qml:20
 msgctxt "ActivityInfo|"
 msgid ""
 "Create a line of 4 tokens either horizontally (lying down), vertically "
@@ -1373,49 +1373,6 @@ msgid ""
 msgstr ""
 "Cruthaich loidhne de 4 buinn air a’ chòmhnard (nan laighe) no gu h-"
 "inghearach (nan seasamh) no air an trastan."
-
-#. Help manual
-#: activities/align4-2players/ActivityInfo.qml:22
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Play with a friend. Take turns to click on the square which you want to "
-#| "mark. First player to create a line of 3 marks wins"
-msgctxt "ActivityInfo|"
-msgid ""
-"Play with a friend. Take turns to click the line in which you want to drop a "
-"token. The first player to create a line of 4 tokens wins."
-msgstr ""
-"Cluich còmhla ri caraid. Dèan briogadh airson comharran a chur air na "
-"ceàrnagan, neach mu seach. Buannaichidh a’ chiad chluicheadair a chuireas "
-"trì ann an sreath."
-
-#: activities/align4-2players/ActivityInfo.qml:24
-#: activities/align4/ActivityInfo.qml:24
-msgctxt "ActivityInfo|"
-msgid "Left arrow: move the token to the left"
-msgstr ""
-
-#: activities/align4-2players/ActivityInfo.qml:25
-#: activities/align4/ActivityInfo.qml:25
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Reproduce the tower on the right side"
-msgctxt "ActivityInfo|"
-msgid "Right arrow: move the token to the right"
-msgstr "Ath-thog an tùr air an taobh deas"
-
-#: activities/align4-2players/ActivityInfo.qml:26
-#: activities/align4/ActivityInfo.qml:26
-msgctxt "ActivityInfo|"
-msgid "Space or Down arrow: drop the token"
-msgstr ""
-
-#. Activity title
-#: activities/align4/ActivityInfo.qml:15
-msgctxt "ActivityInfo|"
-msgid "Align four (against Tux)"
-msgstr "Ceithir ann an sreath (cluich an aghaidh Tux)"
 
 #. Help manual
 #: activities/align4/ActivityInfo.qml:22
@@ -1431,6 +1388,49 @@ msgid ""
 msgstr ""
 "Cluich an aghaigh a’ choimpiutair. Dèan briogadh airson comharran a chur air "
 "na ceàrnagan, neach mu seach. Buannaichidh a’ chiad chluicheadair a chuireas "
+"trì ann an sreath."
+
+#: activities/align4/ActivityInfo.qml:24
+#: activities/align4_2players/ActivityInfo.qml:24
+msgctxt "ActivityInfo|"
+msgid "Left arrow: move the token to the left"
+msgstr ""
+
+#: activities/align4/ActivityInfo.qml:25
+#: activities/align4_2players/ActivityInfo.qml:25
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Reproduce the tower on the right side"
+msgctxt "ActivityInfo|"
+msgid "Right arrow: move the token to the right"
+msgstr "Ath-thog an tùr air an taobh deas"
+
+#: activities/align4/ActivityInfo.qml:26
+#: activities/align4_2players/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "Space or Down arrow: drop the token"
+msgstr ""
+
+#. Activity title
+#: activities/align4_2players/ActivityInfo.qml:15
+msgctxt "ActivityInfo|"
+msgid "Align four (with a friend)"
+msgstr "Ceithir ann an sreath (cluich le caraid)"
+
+#. Help manual
+#: activities/align4_2players/ActivityInfo.qml:22
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Play with a friend. Take turns to click on the square which you want to "
+#| "mark. First player to create a line of 3 marks wins"
+msgctxt "ActivityInfo|"
+msgid ""
+"Play with a friend. Take turns to click the line in which you want to drop a "
+"token. The first player to create a line of 4 tokens wins."
+msgstr ""
+"Cluich còmhla ri caraid. Dèan briogadh airson comharran a chur air na "
+"ceàrnagan, neach mu seach. Buannaichidh a’ chiad chluicheadair a chuireas "
 "trì ann an sreath."
 
 #. Activity title
