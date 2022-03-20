@@ -23118,7 +23118,7 @@ msgstr ""
 "air a’ phutan solais air a shon. Feumaidh tu a h-uile inneal caitheimh a "
 "chur air fhad ’s a bhios na h-innealan dèanaimh air."
 
-#: activities/renewable_energy/RenewableEnergy.qml:277
+#: activities/renewable_energy/RenewableEnergy.qml:281
 msgctxt "RenewableEnergy|"
 msgid ""
 "Tux has come back from fishing on his boat. Bring the electrical system back "
@@ -23127,7 +23127,7 @@ msgstr ""
 "Tha Tux air tilleadh on iasgach air a’ bhàta aige. Cuir an siostam dealain "
 "air a-rithist ach am bi solas aige san taigh."
 
-#: activities/renewable_energy/RenewableEnergy.qml:279
+#: activities/renewable_energy/RenewableEnergy.qml:283
 #, fuzzy
 #| msgctxt "RenewableEnergy|"
 #| msgid ""
@@ -23143,7 +23143,7 @@ msgstr ""
 "tuathanas-gaoithe is tionndairean gus an siostam dealain gu lèir a chur a’ "
 "dol."
 
-#: activities/renewable_energy/RenewableEnergy.qml:281
+#: activities/renewable_energy/RenewableEnergy.qml:285
 msgctxt "RenewableEnergy|"
 msgid ""
 "When the system is back up and Tux is in his home, push the light button for "
@@ -23154,14 +23154,14 @@ msgstr ""
 "a’ phutan solais air a shon. Feumaidh tu a h-uile inneal caitheimh a chur "
 "air fhad ’s a bhios na h-innealan dèanaimh air."
 
-#: activities/renewable_energy/RenewableEnergy.qml:283
+#: activities/renewable_energy/RenewableEnergy.qml:287
 msgctxt "RenewableEnergy|"
 msgid "Learn about an electrical system based on renewable energy. Enjoy."
 msgstr ""
 "Siostam dealain stèidhichte air lùths ath-nuadhachail. An dòchas gun còrd "
 "iad riut!"
 
-#: activities/renewable_energy/RenewableEnergy.qml:307
+#: activities/renewable_energy/RenewableEnergy.qml:311
 #, fuzzy
 #| msgctxt "RenewableEnergy|"
 #| msgid ""
@@ -27149,7 +27149,7 @@ msgstr ""
 "a bhios siostam na h-uisge air a-rithist is Tux san fhras, brùth air putan "
 "na froise dha."
 
-#: activities/watercycle/Watercycle.qml:79
+#: activities/watercycle/Watercycle.qml:78
 #, fuzzy
 #| msgctxt "Watercycle|"
 #| msgid ""
@@ -27163,14 +27163,14 @@ msgstr ""
 "’S e a’ ghrian a’ phàirt as cudromaiche ann an cearcall an uisge. Briog air "
 "a’ ghrian a chur gu dol cearcall an uisge."
 
-#: activities/watercycle/Watercycle.qml:80
+#: activities/watercycle/Watercycle.qml:79
 msgctxt "Watercycle|"
 msgid "As the sun rises, the water of the sea starts heating and evaporates."
 msgstr ""
 "Mar a dh’èireas a’ ghrian, fàsaidh am muir nas blàithe agus thèid cuid dheth "
 "’na dheatach."
 
-#: activities/watercycle/Watercycle.qml:81
+#: activities/watercycle/Watercycle.qml:80
 #, fuzzy
 #| msgctxt "Watercycle|"
 #| msgid ""
@@ -27184,7 +27184,7 @@ msgstr ""
 "Co-dhlùthaichidh an deatach uisge ann an neòil agus nuair a dh’fhàsas na "
 "neòil trom le uisge, nì e fras. Briog air an neul."
 
-#: activities/watercycle/Watercycle.qml:82
+#: activities/watercycle/Watercycle.qml:81
 #, fuzzy
 #| msgctxt "Watercycle|"
 #| msgid ""
@@ -27201,7 +27201,7 @@ msgstr ""
 "slighe pumpaichean motair agus tùir-uisge. Briog air a’ phumpa airson uisge "
 "a sholar dha na daoine."
 
-#: activities/watercycle/Watercycle.qml:84
+#: activities/watercycle/Watercycle.qml:83
 msgctxt "Watercycle|"
 msgid ""
 "See the tower filled with water. Activate the sewage treatment station by "
@@ -27210,12 +27210,12 @@ msgstr ""
 "Seall an tùr ’s e làn de dh’uisge. Cuir gu dol ionad giullachd an uisge le "
 "bhith a’ briogadh air."
 
-#: activities/watercycle/Watercycle.qml:85
+#: activities/watercycle/Watercycle.qml:84
 msgctxt "Watercycle|"
 msgid "Great, click on the shower, as Tux arrives home."
 msgstr "Taghta, briog air an fhrasair nuair a ruigeas Tux a dhachaidh."
 
-#: activities/watercycle/Watercycle.qml:86
+#: activities/watercycle/Watercycle.qml:85
 #, fuzzy
 #| msgctxt "Watercycle|"
 #| msgid "Fantastic, you have completed water cycle. You can continue playing."
@@ -27226,7 +27226,7 @@ msgstr ""
 "Air leth, choilean thu cearcall an uisge. ’S urrainn dhut cumail a’ dol a’ "
 "cluich leis."
 
-#: activities/watercycle/Watercycle.qml:114
+#: activities/watercycle/Watercycle.qml:112
 msgctxt "Watercycle|"
 msgid ""
 "The water cycle (also known as the hydrologic cycle) is the journey water "
@@ -27237,7 +27237,7 @@ msgstr ""
 "speuran a-rithist ’s a-rithist. Thig a’ chumhachd air a bheil feum airson "
 "uisge à lochan no cuantan a thionndadh ’na dheatach on ghrian."
 
-#: activities/watercycle/Watercycle.qml:117
+#: activities/watercycle/Watercycle.qml:115
 #, fuzzy
 #| msgctxt "Watercycle|"
 #| msgid ""
@@ -27255,7 +27255,7 @@ msgstr ""
 "an neòil. Nuair a thachras na neòil ri adhar fionnar os cionn na talmhainn, "
 "adhbharaichidh seo sileadh agus tuitidh sin a-nuas mar uisge."
 
-#: activities/watercycle/Watercycle.qml:120
+#: activities/watercycle/Watercycle.qml:118
 msgctxt "Watercycle|"
 msgid ""
 "Some of the water is trapped between rock or clay layers, called "
@@ -27266,7 +27266,7 @@ msgstr ""
 "canar uisge-talmhainn ris. Ach sruthaichidh a’ chuid as motha dheth air ais "
 "dhan mhuir ann an aibhnichean."
 
-#: activities/watercycle/Watercycle.qml:122
+#: activities/watercycle/Watercycle.qml:120
 #, fuzzy
 #| msgctxt "Watercycle|"
 #| msgid ""
