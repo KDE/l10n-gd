@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GCompris-Unofficial\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-02-27 00:55+0000\n"
+"POT-Creation-Date: 2022-03-21 00:48+0000\n"
 "PO-Revision-Date: 2020-03-16 23:58+0100\n"
 "Last-Translator: Timo <animtim@gmail.com>\n"
 "Language-Team: French <kde-i18n-doc@kde.org>\n"
@@ -137,6 +137,17 @@ msgctxt "20220227.html"
 msgid "Thank you all, <br/>Timothée & Johnny"
 msgstr ""
 
+#: gcompris.py:286
+msgid ""
+"This software is a GNU Package and is released under the GNU Affero General "
+"Public License."
+msgstr ""
+
+#: gcompris.py:287
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
 #: template/base.html:69 template/downloads.html:3 template/downloads.html:8
 #, fuzzy
 #| msgid "Download GCompris"
@@ -163,6 +174,16 @@ msgstr "Leabhar-mhìneachaidh"
 #: template/base.html:74
 msgid "Contribute"
 msgstr "Thoir taic dhuinn"
+
+#: template/base.html:96
+#, python-format
+msgid "Site last updated the %(revision_date)s."
+msgstr ""
+
+#: template/base.html:99
+#, python-format
+msgid "Site translated by: %(translators_names)s."
+msgstr ""
 
 #: template/christmas.html:57
 msgid "GCompris for Christmas"
@@ -592,9 +613,15 @@ msgstr ""
 msgid "Latest news"
 msgstr "Na naidheachdan as ùire"
 
-#: template/index.html:205 template/singlenews.html:13
+#: template/index.html:205 template/news.html:14 template/singlenews.html:13
 msgid "All the news"
 msgstr "A h-uile naidheachd"
+
+#: template/news.html:3 template/news.html:8 template/newsall.html:3
+#: template/newsall.html:8 template/singlenews.html:3
+#: template/singlenews.html:9
+msgid "News"
+msgstr "Naidheachdan"
 
 #: template/schools.html:15
 msgid ""
@@ -692,10 +719,6 @@ msgstr "Leabhar-mhìneachaidh:"
 #: template/screenshot.html:56
 msgid "Credit:"
 msgstr "Urram:"
-
-#: template/singlenews.html:3 template/singlenews.html:9
-msgid "News"
-msgstr "Naidheachdan"
 
 #~ msgid "Buy / Donate"
 #~ msgstr "Ceannaich / Thoir tìodhlac dhuinn"
