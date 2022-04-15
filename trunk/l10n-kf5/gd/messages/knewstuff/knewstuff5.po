@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-04 00:41+0000\n"
+"POT-Creation-Date: 2022-04-15 00:43+0000\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -1205,14 +1205,6 @@ msgctxt ""
 "A text shown beside a busy indicator suggesting that data is being fetched"
 msgid "Loading more..."
 msgstr "A' luchdadh an ro-sheallaidh"
-
-#: qtquick/qml/Page.qml:525
-#, kde-format
-msgctxt ""
-"A message shown when there are no entries in the list, and when it is not "
-"trying to load anything"
-msgid "There is no hot new stuff to get here"
-msgstr ""
 
 #: qtquick/qml/private/EntryCommentDelegate.qml:110
 #, kde-format
