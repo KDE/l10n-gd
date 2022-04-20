@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-15 00:43+0000\n"
+"POT-Creation-Date: 2022-04-20 00:41+0000\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -1198,12 +1198,12 @@ msgstr ""
 msgid "Go to..."
 msgstr ""
 
-#: qtquick/qml/Page.qml:513
+#: qtquick/qml/Page.qml:497
 #, fuzzy, kde-format
 #| msgid "Loading Preview"
 msgctxt ""
 "A text shown beside a busy indicator suggesting that data is being fetched"
-msgid "Loading more..."
+msgid "Loading more…"
 msgstr "A' luchdadh an ro-sheallaidh"
 
 #: qtquick/qml/private/EntryCommentDelegate.qml:110
