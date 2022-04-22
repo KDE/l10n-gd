@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-20 00:53+0000\n"
+"POT-Creation-Date: 2022-04-22 00:55+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -2194,7 +2194,7 @@ msgctxt "Name"
 msgid "Yandex"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/yandex.desktop:26
+#: src/urifilters/ikws/searchproviders/yandex.desktop:27
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://ctan.org/search?phrase=\\\\{@}"
