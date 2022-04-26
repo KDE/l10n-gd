@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-03-22 00:40+0000\n"
+"POT-Creation-Date: 2022-04-26 00:41+0000\n"
 "PO-Revision-Date: 2016-04-30 12:04+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -115,7 +115,7 @@ msgstr "Goireasan"
 msgid "Windows and Tasks"
 msgstr "Uinneagan is saothraichean"
 
-#: kpackage/packageloader.cpp:283
+#: kpackage/packageloader.cpp:287
 #, kde-format
 msgid "Could not load installer for package of type %1. Error reported was: %2"
 msgstr ""
@@ -144,27 +144,27 @@ msgstr ""
 msgid "Could not open package file: %1"
 msgstr "Cha b' urrainn dhuinn faidhle na pacaid fhosgladh: %1"
 
-#: kpackage/private/packagejobthread.cpp:227
+#: kpackage/private/packagejobthread.cpp:231
 #, kde-format
 msgid "Could not open metadata file: %1"
 msgstr "Cha b' urrainn dhuinn faidhle a' mheata-dàta fhosgladh: %1"
 
-#: kpackage/private/packagejobthread.cpp:234
+#: kpackage/private/packagejobthread.cpp:238
 #, kde-format
 msgid "No metadata file in package: %1"
 msgstr "Chan eil faidhle meata-dàta sa phacaid: %1"
 
-#: kpackage/private/packagejobthread.cpp:243
+#: kpackage/private/packagejobthread.cpp:247
 #, kde-format
 msgid "Package plugin name not specified: %1"
 msgstr "Cha deach ainm plugan na pacaid a shònrachadh: %1"
 
-#: kpackage/private/packagejobthread.cpp:253
+#: kpackage/private/packagejobthread.cpp:257
 #, kde-format
 msgid "Package plugin name %1 contains invalid characters"
 msgstr "Tha caractaran mì-dhligheach ann an ainm plugain na pacaid %1"
 
-#: kpackage/private/packagejobthread.cpp:274
+#: kpackage/private/packagejobthread.cpp:280
 #, kde-format
 msgid ""
 "The new package has a different type from the old version already installed."
@@ -172,7 +172,7 @@ msgstr ""
 "Chan eil seòrsa na pacaide ùire co-ionnann ri seòrsa an t-seann-tionndaidh a "
 "chaidh a stàladh mar-thà."
 
-#: kpackage/private/packagejobthread.cpp:279
+#: kpackage/private/packagejobthread.cpp:285
 #, fuzzy, kde-format
 #| msgid "Impossible to remove the old installation of %1 located at %2"
 msgid ""
@@ -180,46 +180,46 @@ msgid ""
 msgstr ""
 "Chan urrainn dhuinn an seann-stàladh dhe %1 san ionad %2 a thoirt air falbh"
 
-#: kpackage/private/packagejobthread.cpp:283
+#: kpackage/private/packagejobthread.cpp:289
 #, kde-format
 msgid "Not installing version %1 of %2. Version %3 already installed."
 msgstr ""
 "Chan eil sinn a' stàladh tionndadh %1 dhe %2. Chaidh an tionndadh %3 a "
 "stàladh mar-thà."
 
-#: kpackage/private/packagejobthread.cpp:287
+#: kpackage/private/packagejobthread.cpp:293
 #, kde-format
 msgid "%1 already exists"
 msgstr "Tha %1 ann mar-thà"
 
-#: kpackage/private/packagejobthread.cpp:302
+#: kpackage/private/packagejobthread.cpp:308
 #, fuzzy, kde-format
 #| msgid "Could not open package file: %1"
 msgid "Could not install dependency: '%1'"
 msgstr "Cha b' urrainn dhuinn faidhle na pacaid fhosgladh: %1"
 
-#: kpackage/private/packagejobthread.cpp:314
+#: kpackage/private/packagejobthread.cpp:320
 #, kde-format
 msgid "Could not move package to destination: %1"
 msgstr "Cha b' urrainn dhuinn a' phacaid a ghluasad dhan cheann-uidhe: %1"
 
-#: kpackage/private/packagejobthread.cpp:324
+#: kpackage/private/packagejobthread.cpp:330
 #, kde-format
 msgid "Could not copy package to destination: %1"
 msgstr ""
 "Cha b' urrainn dhuinn lethbhreac dhen phacaid a chur dhan cheann-uidhe: %1"
 
-#: kpackage/private/packagejobthread.cpp:360
+#: kpackage/private/packagejobthread.cpp:366
 #, kde-format
 msgid "package path was deleted manually"
 msgstr ""
 
-#: kpackage/private/packagejobthread.cpp:360
+#: kpackage/private/packagejobthread.cpp:366
 #, kde-format
 msgid "%1 does not exist"
 msgstr "Chan eil %1 ann"
 
-#: kpackage/private/packagejobthread.cpp:380
+#: kpackage/private/packagejobthread.cpp:386
 #, kde-format
 msgid "Could not delete package from: %1"
 msgstr "Cha b' urrainn dhuinn a' phacaid a sguabadh às o: %1"
@@ -303,7 +303,7 @@ msgctxt ""
 msgid "One of install, remove, upgrade or list is required."
 msgstr "Tha feum air stàladh, toirt air falbh, àrdachadh no sealladh."
 
-#: kpackagetool/kpackagetool.cpp:342 kpackagetool/kpackagetool.cpp:422
+#: kpackagetool/kpackagetool.cpp:342 kpackagetool/kpackagetool.cpp:424
 #, fuzzy, kde-format
 #| msgid "Error: Can't find plugin metadata: %1"
 msgid "Error: Can't find plugin metadata: %1\n"
@@ -339,7 +339,7 @@ msgstr "    Ùghdar : %1"
 msgid "      Path : %1"
 msgstr "    Slighe : %1"
 
-#: kpackagetool/kpackagetool.cpp:535
+#: kpackagetool/kpackagetool.cpp:537
 #, kde-format
 msgctxt ""
 "The user entered conflicting options packageroot and global, this is the "
@@ -351,72 +351,72 @@ msgstr ""
 "Tha freumh na pacaid is na roghainnean coitcheann an còmhstri a chèile, "
 "feuch nach tagh thu ach aonan."
 
-#: kpackagetool/kpackagetool.cpp:563
+#: kpackagetool/kpackagetool.cpp:565
 #, kde-format
 msgid "Addon Name"
 msgstr "Ainm an tuilleadain"
 
-#: kpackagetool/kpackagetool.cpp:564
+#: kpackagetool/kpackagetool.cpp:566
 #, kde-format
 msgid "Service Type"
 msgstr "Seòrsa na seirbheise"
 
-#: kpackagetool/kpackagetool.cpp:565
+#: kpackagetool/kpackagetool.cpp:567
 #, kde-format
 msgid "Path"
 msgstr "Slighe"
 
-#: kpackagetool/kpackagetool.cpp:604
+#: kpackagetool/kpackagetool.cpp:606
 #, kde-format
 msgid "Package types that are installable with this tool:"
 msgstr "Seòrsaichean de phacaidean a ghabhas stàladh leis an inneal seo:"
 
-#: kpackagetool/kpackagetool.cpp:605
+#: kpackagetool/kpackagetool.cpp:607
 #, kde-format
 msgid "Built in:"
 msgstr "Chaidh a thogail ann an:"
 
-#: kpackagetool/kpackagetool.cpp:608
+#: kpackagetool/kpackagetool.cpp:610
 #, kde-format
 msgid "KPackage/Generic"
 msgstr "KPackage/Generic"
 
-#: kpackagetool/kpackagetool.cpp:610
+#: kpackagetool/kpackagetool.cpp:612
 #, kde-format
 msgid "KPackage/GenericQML"
 msgstr "KPackage/GenericQML"
 
-#: kpackagetool/kpackagetool.cpp:619
+#: kpackagetool/kpackagetool.cpp:621
 #, kde-format
 msgid "Provided by plugins:"
 msgstr "'Ga solar le plugain:"
 
-#: kpackagetool/kpackagetool.cpp:640
+#: kpackagetool/kpackagetool.cpp:642
 #, kde-format
 msgid "Successfully upgraded %1"
 msgstr "Chaidh %1 àrdachadh gu soirbheachail"
 
-#: kpackagetool/kpackagetool.cpp:642
+#: kpackagetool/kpackagetool.cpp:644
 #, kde-format
 msgid "Successfully installed %1"
 msgstr "Chaidh %1 a stàladh gu soirbheachail"
 
-#: kpackagetool/kpackagetool.cpp:645
+#: kpackagetool/kpackagetool.cpp:647
 #, kde-format
 msgid "Error: Installation of %1 failed: %2"
 msgstr "Mearachd: Dh'fhàillig le stàladh %1: %2"
 
-#: kpackagetool/kpackagetool.cpp:657
+#: kpackagetool/kpackagetool.cpp:659
 #, kde-format
 msgid "Upgrading package from file: %1"
 msgstr "Ag àrdachadh pacaid on fhaidhle: %1"
 
-#: kpackagetool/kpackagetool.cpp:664
+#: kpackagetool/kpackagetool.cpp:666
 #, kde-format
 msgid "Successfully uninstalled %1"
 msgstr "Chaidh %1 a dhì-stàladh gu soirbheachail"
 
-#: kpackagetool/kpackagetool.cpp:666
+#: kpackagetool/kpackagetool.cpp:668
 #, kde-format
 msgid "Error: Uninstallation of %1 failed: %2"
 msgstr "Mearachd: Dh'fhàillig le dì-stàladh %1: %2"
