@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-29 00:40+0000\n"
+"POT-Creation-Date: 2022-05-04 00:42+0000\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -114,7 +114,7 @@ msgctxt "Argument is application name"
 msgid "This configuration section is already opened in %1"
 msgstr "Chaidh an earran seo dhen rèiteachadh fhosgladh mar-thà le %1"
 
-#: kcmultidialog.cpp:51
+#: kcmultidialog.cpp:52
 #, kde-format
 msgid ""
 "The settings of the current module have changed.\n"
@@ -123,12 +123,12 @@ msgstr ""
 "Dh'atharraich roghainnean a' mhòideil làithirich.\n"
 "A bheil thu airson na h-atharraichean a chur an sàs no an tilgeil air falbh?"
 
-#: kcmultidialog.cpp:53
+#: kcmultidialog.cpp:54
 #, kde-format
 msgid "Apply Settings"
 msgstr "Cuir na roghainnean an sàs"
 
-#: kcmultidialog.cpp:258 kpluginselector.cpp:809 kpluginwidget.cpp:327
+#: kcmultidialog.cpp:259 kpluginselector.cpp:809 kpluginwidget.cpp:327
 #, kde-format
 msgid "Configure"
 msgstr "Rèitich"
