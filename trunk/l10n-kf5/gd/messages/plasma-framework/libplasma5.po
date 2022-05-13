@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-13 00:42+0000\n"
+"POT-Creation-Date: 2022-05-13 00:42+0000\n"
 "PO-Revision-Date: 2016-04-30 12:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -655,7 +655,7 @@ msgid "The package you just dropped is invalid."
 msgstr "Tha a' phacaid a leig thu às mì-dligheach."
 
 #: scriptengines/qml/plasmoid/containmentinterface.cpp:642
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:706
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:711
 #, kde-format
 msgid "Widgets"
 msgstr "Widgets"
@@ -667,7 +667,7 @@ msgid "Add %1"
 msgstr ""
 
 #: scriptengines/qml/plasmoid/containmentinterface.cpp:661
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:710
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:715
 #, fuzzy, kde-format
 #| msgid "Icon"
 msgctxt "Add icon widget"
