@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-24 00:52+0000\n"
+"POT-Creation-Date: 2022-05-16 00:54+0000\n"
 "PO-Revision-Date: 2016-04-30 16:07+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,7 +21,7 @@ msgctxt "Name"
 msgid "Oxygen"
 msgstr "Ogsaidean"
 
-#: index.theme:58
+#: index.theme:59
 msgctxt "Comment"
 msgid "Oxygen Team"
 msgstr "Sgioba Ogsaidean"
