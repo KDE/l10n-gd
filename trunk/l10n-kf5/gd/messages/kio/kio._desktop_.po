@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-22 00:55+0000\n"
+"POT-Creation-Date: 2022-05-18 00:54+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -72,70 +72,70 @@ msgctxt "X-KDE-Keywords"
 msgid "trash"
 msgstr "An sgudal"
 
-#: src/kcms/cookies/cookies.desktop:13
+#: src/kcms/cookies/cookies.desktop:14
 msgctxt "Name"
 msgid "Cookies"
 msgstr "Briosgaidean"
 
-#: src/kcms/cookies/cookies.desktop:68
+#: src/kcms/cookies/cookies.desktop:69
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr "Rèitich an dòigh a dh'obraicheas briosgaidean"
 
-#: src/kcms/cookies/cookies.desktop:160
+#: src/kcms/cookies/cookies.desktop:161
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr ""
 "Cookies,Browsing,Internet,WWW,Network,Policy,Domains,briosgaidean,criomagan,"
 "brabhsadh,eadar-lìon,lìonra,poileasaidh,àrainnean"
 
-#: src/kcms/netpref/netpref.desktop:13
+#: src/kcms/netpref/netpref.desktop:14
 msgctxt "Name"
 msgid "Connection Preferences"
 msgstr "Roghainnean ceangail"
 
-#: src/kcms/netpref/netpref.desktop:103
+#: src/kcms/netpref/netpref.desktop:104
 msgctxt "Comment"
 msgid "Configure generic network preferences, like timeout values"
 msgstr ""
 "Rèitich roghainnean coitcheann an lìonraidh, can cuin a dh'fhalbhas an ùine "
 "air nithean"
 
-#: src/kcms/netpref/netpref.desktop:194
+#: src/kcms/netpref/netpref.desktop:195
 msgctxt "X-KDE-Keywords"
 msgid "timeout,iopref,netpref,network preferences,ftp"
 msgstr ""
 "timeout,iopref,netpref,network preferences,ftp,ùine,falbh,falbhaidh an ùine,"
 "roghainnean an lìonraidh,lìonra"
 
-#: src/kcms/proxy/proxy.desktop:13
+#: src/kcms/proxy/proxy.desktop:14
 msgctxt "Name"
 msgid "Proxy"
 msgstr "Progsaidh"
 
-#: src/kcms/proxy/proxy.desktop:106
+#: src/kcms/proxy/proxy.desktop:107
 msgctxt "Comment"
 msgid "Configure the proxy servers used"
 msgstr "Rèitich na frithealaichean progsaidh a thèid a chleachdadh"
 
-#: src/kcms/proxy/proxy.desktop:199
+#: src/kcms/proxy/proxy.desktop:200
 msgctxt "X-KDE-Keywords"
 msgid "Proxy,Proxy server,Firewall,Squid"
 msgstr ""
 "Proxy,Proxy server,Firewall,Squid,progsaidh,frithealaiche progsaidh,"
 "cachaileith-theine"
 
-#: src/kcms/smb/smb.desktop:11
+#: src/kcms/smb/smb.desktop:12
 msgctxt "Name"
 msgid "Windows Shares"
 msgstr "Co-roinneadh Windows"
 
-#: src/kcms/smb/smb.desktop:102
+#: src/kcms/smb/smb.desktop:103
 msgctxt "Comment"
 msgid "Credentials used to access SMB shares"
 msgstr ""
 
-#: src/kcms/smb/smb.desktop:153
+#: src/kcms/smb/smb.desktop:154
 msgctxt "X-KDE-Keywords"
 msgid ""
 "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
@@ -146,7 +146,7 @@ msgstr ""
 "nàbaidheachd,nàbaidhean,frithealaiche,craoladh,co-roinneadh,clàradh a-steach,"
 "clàraich a-steach,facal-faire,faclan-faire"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:13
+#: src/kcms/webshortcuts/webshortcuts.desktop:14
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "SearchKeywordsFilter"
@@ -154,7 +154,7 @@ msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr "Criathrag nam faclan-luirg"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:57
+#: src/kcms/webshortcuts/webshortcuts.desktop:58
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web shortcuts"
@@ -162,7 +162,7 @@ msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "Rèitich na h-ath-ghoiridean lìn"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:101
+#: src/kcms/webshortcuts/webshortcuts.desktop:102
 #, fuzzy
 #| msgctxt "X-KDE-Keywords"
 #| msgid ""
