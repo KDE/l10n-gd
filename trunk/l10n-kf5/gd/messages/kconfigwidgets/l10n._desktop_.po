@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-14 00:53+0000\n"
+"POT-Creation-Date: 2022-05-20 00:53+0000\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -466,7 +466,7 @@ msgctxt "Name"
 msgid "Thai"
 msgstr "Tàidh"
 
-#: tok/kconfigwidgets/kf5_entry.desktop:2
+#: tok/messages/kconfigwidgets/kf5_entry.desktop:2
 msgctxt "Name"
 msgid "Toki Pona"
 msgstr ""
