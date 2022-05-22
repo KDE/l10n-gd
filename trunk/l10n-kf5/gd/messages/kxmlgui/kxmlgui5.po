@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-02 00:41+0000\n"
+"POT-Creation-Date: 2022-05-22 00:42+0000\n"
 "PO-Revision-Date: 2016-04-30 17:56+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -1413,26 +1413,26 @@ msgctxt "@item:intable Action name in shortcuts configuration"
 msgid "%1"
 msgstr "%1"
 
-#: kswitchlanguagedialog_p.cpp:140
+#: kswitchlanguagedialog_p.cpp:137
 #, fuzzy, kde-format
 #| msgid "Configure Toolbars"
 msgctxt "@title:window"
 msgid "Configure Language"
 msgstr "Rèitich na bàraichean-inneal"
 
-#: kswitchlanguagedialog_p.cpp:144
+#: kswitchlanguagedialog_p.cpp:141
 #, kde-format
 msgid "Please choose the language which should be used for this application:"
 msgstr "Tagh an cànan a bu còir dhan aplacaid seo cleachdadh:"
 
-#: kswitchlanguagedialog_p.cpp:171
+#: kswitchlanguagedialog_p.cpp:168
 #, fuzzy, kde-format
 #| msgid "Add Fallback Language"
 msgctxt "@action:button"
 msgid "Add Fallback Language"
 msgstr "Cuir cànan èiginneach ris"
 
-#: kswitchlanguagedialog_p.cpp:172
+#: kswitchlanguagedialog_p.cpp:169
 #, fuzzy, kde-format
 #| msgid ""
 #| "Adds one more language which will be used if other translations do not "
@@ -1445,7 +1445,7 @@ msgstr ""
 "Cuiridh seo cànan a bharrachd ris a thèid a chleachdadh mur eil eadar-"
 "theangachadh am broinn nan eadar-theangachaidhean eile."
 
-#: kswitchlanguagedialog_p.cpp:264 kswitchlanguagedialog_p.cpp:285
+#: kswitchlanguagedialog_p.cpp:261 kswitchlanguagedialog_p.cpp:282
 #, kde-format
 msgid ""
 "The language for this application has been changed. The change will take "
@@ -1454,36 +1454,36 @@ msgstr ""
 "Tha cànan na h-aplacaid seo air atharrachadh. Thèid an t-atharrachadh a chur "
 "an sàs an ath-thuras a thòisicheas tu an aplacaid."
 
-#: kswitchlanguagedialog_p.cpp:265
+#: kswitchlanguagedialog_p.cpp:262
 #, fuzzy, kde-format
 #| msgid "Application Language Changed"
 msgctxt "@title:window"
 msgid "Application Language Changed"
 msgstr "Tha cànan na h-aplacaid air atharrachadh"
 
-#: kswitchlanguagedialog_p.cpp:286
+#: kswitchlanguagedialog_p.cpp:283
 #, kde-format
 msgid "Application Language Changed"
 msgstr "Tha cànan na h-aplacaid air atharrachadh"
 
-#: kswitchlanguagedialog_p.cpp:373
+#: kswitchlanguagedialog_p.cpp:370
 #, kde-format
 msgid "Primary language:"
 msgstr "Am prìomh-chànan:"
 
-#: kswitchlanguagedialog_p.cpp:373
+#: kswitchlanguagedialog_p.cpp:370
 #, kde-format
 msgid "Fallback language:"
 msgstr "An cànan èiginneach:"
 
-#: kswitchlanguagedialog_p.cpp:388
+#: kswitchlanguagedialog_p.cpp:385
 #, fuzzy, kde-format
 #| msgid "Remove"
 msgctxt "@action:button"
 msgid "Remove"
 msgstr "Thoir air falbh"
 
-#: kswitchlanguagedialog_p.cpp:394
+#: kswitchlanguagedialog_p.cpp:391
 #, fuzzy, kde-format
 #| msgid ""
 #| "This is the main application language which will be used first, before "
@@ -1496,7 +1496,7 @@ msgstr ""
 "Seo prìomh-chànan na h-aplacaid a thèid a chleachdadh an toiseach ro chànan "
 "sam bith eile."
 
-#: kswitchlanguagedialog_p.cpp:395
+#: kswitchlanguagedialog_p.cpp:392
 #, fuzzy, kde-format
 #| msgid ""
 #| "This is the language which will be used if any previous languages do not "
