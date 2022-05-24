@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kde-config-whoopsie\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-02-07 00:53+0000\n"
+"POT-Creation-Date: 2022-05-24 00:54+0000\n"
 "PO-Revision-Date: 2015-04-02 21:24+0000\n"
 "Last-Translator: GunChleoc <Unknown>\n"
 "Language-Team: Gaelic; Scottish <gd@li.org>\n"
@@ -25,12 +25,12 @@ msgctxt "X-KDE-Keywords"
 msgid "privacy,diagnostic,crash,report,canonical,metric,whoopsie"
 msgstr ""
 
-#: src/kcm_whoopsie.desktop:53
+#: src/kcm_whoopsie.desktop:54
 msgctxt "Name"
 msgid "Diagnostics"
 msgstr "Diagnosachd"
 
-#: src/kcm_whoopsie.desktop:98
+#: src/kcm_whoopsie.desktop:100
 msgctxt "Comment"
 msgid "Automatic Crash and Metrics Reporting"
 msgstr ""
