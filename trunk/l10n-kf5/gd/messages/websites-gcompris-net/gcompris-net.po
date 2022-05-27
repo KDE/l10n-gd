@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GCompris-Unofficial\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-04-11 00:48+0000\n"
+"POT-Creation-Date: 2022-05-27 00:48+0000\n"
 "PO-Revision-Date: 2020-03-16 23:58+0100\n"
 "Last-Translator: Timo <animtim@gmail.com>\n"
 "Language-Team: French <kde-i18n-doc@kde.org>\n"
@@ -120,13 +120,13 @@ msgctxt "20220413.html"
 msgid "Thank you all, <br/>Timothée & Johnny"
 msgstr ""
 
-#: gcompris.py:286
+#: gcompris.py:283
 msgid ""
 "This software is a GNU Package and is released under the GNU Affero General "
 "Public License."
 msgstr ""
 
-#: gcompris.py:287
+#: gcompris.py:284
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr ""

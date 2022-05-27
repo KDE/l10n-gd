@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-25 00:41+0000\n"
+"POT-Creation-Date: 2022-05-27 00:41+0000\n"
 "PO-Revision-Date: 2016-05-05 13:20+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -608,9 +608,11 @@ msgid "square kilometers"
 msgstr "cilemeatair ceàrnagach"
 
 #: area.cpp:114
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "square kilometer;square kilometers;km²;km/-2;km^2;km2"
 msgctxt "unit synonyms for matching user input"
-msgid "square kilometer;square kilometers;km²;km/-2;km^2;km2"
+msgid "square kilometer;square kilometers;sq km;km²;km/-2;km^2;km2"
 msgstr ""
 "square kilometer;square kilometers;cilemeatair ceàrnagach;km²;km/-2;km^2;km2"
 
@@ -716,9 +718,11 @@ msgid "square meters"
 msgstr "meatair ceàrnagach"
 
 #: area.cpp:144
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "square meter;square meters;m²;m/-2;m^2;m2"
 msgctxt "unit synonyms for matching user input"
-msgid "square meter;square meters;m²;m/-2;m^2;m2"
+msgid "square meter;square meters;sq m;m²;m/-2;m^2;m2"
 msgstr "square meter;square meters;meatair ceàrnagach;m²;m/-2;m^2;m2"
 
 #: area.cpp:146
@@ -786,9 +790,11 @@ msgid "square centimeters"
 msgstr "ceudameatair ceàrnagach"
 
 #: area.cpp:164
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "square centimeter;square centimeters;cm²;cm/-2;cm^2;cm2"
 msgctxt "unit synonyms for matching user input"
-msgid "square centimeter;square centimeters;cm²;cm/-2;cm^2;cm2"
+msgid "square centimeter;square centimeters;sq cm;cm²;cm/-2;cm^2;cm2"
 msgstr ""
 "square centimeter;square centimeters;ceudameatair ceàrnagach;cm²;cm/-2;cm^2;"
 "cm2"
@@ -822,9 +828,11 @@ msgid "square millimeters"
 msgstr "mille-mheatair ceàrnagach"
 
 #: area.cpp:174
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "unit synonyms for matching user input"
+#| msgid "square millimeter;square millimeters;mm²;mm/-2;mm^2;mm2"
 msgctxt "unit synonyms for matching user input"
-msgid "square millimeter;square millimeters;mm²;mm/-2;mm^2;mm2"
+msgid "square millimeter;square millimeters;sq mm;mm²;mm/-2;mm^2;mm2"
 msgstr ""
 "square millimeter;square millimeters;mille-mheatair ceàrnagach;mm²;mm/-2;"
 "mm^2;mm2"
