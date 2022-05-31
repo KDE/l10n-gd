@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kconfigwidgets5\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-03 00:40+0000\n"
+"POT-Creation-Date: 2022-05-31 00:42+0000\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -310,7 +310,9 @@ msgid "&Replace..."
 msgstr "Cui&r 'na àite..."
 
 #: kstandardaction_p.h:58
-msgid "&Actual Size"
+#, fuzzy
+#| msgid "&Actual Size"
+msgid "Zoom to &Actual Size"
 msgstr "&An dearbh mheud"
 
 #: kstandardaction_p.h:58
