@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-26 00:40+0000\n"
+"POT-Creation-Date: 2022-06-02 00:41+0000\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -233,7 +233,7 @@ msgstr "Mu %1"
 msgid "Enable component"
 msgstr "Cuir a' cho-phàirt an comas"
 
-#: qml/components/KPluginDelegate.qml:45
+#: qml/components/KPluginDelegate.qml:48
 #, fuzzy, kde-format
 #| msgctxt "Used only for plugins"
 #| msgid "About %1"
@@ -241,7 +241,7 @@ msgctxt "@info:tooltip"
 msgid "About"
 msgstr "Mu %1"
 
-#: qml/components/KPluginDelegate.qml:56
+#: qml/components/KPluginDelegate.qml:59
 #, fuzzy, kde-format
 #| msgid "Configure"
 msgctxt "@info:tooltip"
