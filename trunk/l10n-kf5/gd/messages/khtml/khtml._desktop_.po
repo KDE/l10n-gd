@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-30 00:53+0000\n"
+"POT-Creation-Date: 2022-06-06 00:53+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -15,11 +15,6 @@ msgstr ""
 "(n > 2 && n < 20) ? 2 : 3;\n"
 "X-Generator: Poedit 1.8.4\n"
 "X-Project-Style: kde\n"
-
-#: src/java/kjavaappletviewer.desktop:2
-msgctxt "Name"
-msgid "Embedded Java Applet Viewer"
-msgstr "Sealladair Aplaidean Java leabaichte"
 
 #: src/khtmladaptorpart.desktop:2
 msgctxt "Name"
@@ -50,3 +45,7 @@ msgstr "Sealladair dhealbhan leabaichte"
 msgctxt "Name"
 msgid "Embeddable Component for multipart/mixed"
 msgstr "Co-phàirt a ghabhas leabachadh airson multipart/mixed"
+
+#~ msgctxt "Name"
+#~ msgid "Embedded Java Applet Viewer"
+#~ msgstr "Sealladair Aplaidean Java leabaichte"
