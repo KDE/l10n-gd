@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-05 00:44+0000\n"
+"POT-Creation-Date: 2022-06-07 00:43+0000\n"
 "PO-Revision-Date: 2015-11-04 15:13+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -216,7 +216,7 @@ msgstr[1] "A' luchdadh %1 ro-shealladh"
 msgstr[2] "A' luchdadh %1 ro-sheallaidhean"
 msgstr[3] "A' luchdadh %1 ro-shealladh"
 
-#: core/engine.cpp:1221
+#: core/engine.cpp:1226
 #, kde-format
 msgid ""
 "Failed to adopt '%1'\n"
