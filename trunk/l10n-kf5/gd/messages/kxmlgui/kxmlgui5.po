@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-16 00:43+0000\n"
+"POT-Creation-Date: 2022-07-03 00:42+0000\n"
 "PO-Revision-Date: 2016-04-30 17:56+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -1254,36 +1254,36 @@ msgstr ""
 "Thoir an aire nach doir seo air falbh sgeamannan ath-ghoiridean an t-"
 "siostaim."
 
-#: kshortcutschemeseditor.cpp:169
+#: kshortcutschemeseditor.cpp:172
 #, fuzzy, kde-format
 #| msgid "Export Shortcuts"
 msgctxt "@title:window"
 msgid "Export Shortcuts"
 msgstr "Às-phortaich na h-ath-ghoiridean"
 
-#: kshortcutschemeseditor.cpp:169 kshortcutschemeseditor.cpp:180
+#: kshortcutschemeseditor.cpp:172 kshortcutschemeseditor.cpp:183
 #, kde-format
 msgid "Shortcuts (*.shortcuts)"
 msgstr "Ath-ghoiridean (*.shortcuts)"
 
-#: kshortcutschemeseditor.cpp:180
+#: kshortcutschemeseditor.cpp:183
 #, fuzzy, kde-format
 #| msgid "Import Shortcuts"
 msgctxt "@title:window"
 msgid "Import Shortcuts"
 msgstr "Ion-phortaich ath-ghoiridean"
 
-#: kshortcutschemeseditor.cpp:191
+#: kshortcutschemeseditor.cpp:194
 #, kde-format
 msgid "Shortcut scheme successfully saved."
 msgstr "Chaidh sgeama nan ath-ghoiridean a shàbhaladh."
 
-#: kshortcutschemeseditor.cpp:194
+#: kshortcutschemeseditor.cpp:197
 #, kde-format
 msgid "Error saving the shortcut scheme."
 msgstr "Mearachd le sàbhaladh an sgeama ath-ghoiridean."
 
-#: kshortcutsdialog.cpp:69
+#: kshortcutsdialog.cpp:70
 #, kde-format
 msgid ""
 "The current shortcut scheme is modified. Save before switching to the new "
@@ -1292,12 +1292,12 @@ msgstr ""
 "Tha sgeama làithreach nan ath-ghoiridean air atharrachadh. A bheil thu "
 "airson a shàbhaladh mus gearr tu leum dhan fhear ùr?"
 
-#: kshortcutsdialog.cpp:119
+#: kshortcutsdialog.cpp:124
 #, kde-format
 msgid "Manage &Schemes"
 msgstr "Stiùirich na &sgeamannan"
 
-#: kshortcutsdialog.cpp:144
+#: kshortcutsdialog.cpp:149
 #, fuzzy, kde-format
 #| msgid "Configure Shortcuts"
 msgctxt "@title:window"
