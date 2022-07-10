@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-04 00:42+0000\n"
+"POT-Creation-Date: 2022-07-10 00:42+0000\n"
 "PO-Revision-Date: 2016-04-30 17:56+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -1202,50 +1202,50 @@ msgctxt "@action:button"
 msgid "More Actions"
 msgstr "Barrachd ghnìomhan"
 
-#: kshortcutschemeseditor.cpp:83
+#: kshortcutschemeseditor.cpp:84
 #, fuzzy, kde-format
 #| msgid "Save shortcuts to scheme"
 msgctxt "@action:inmenu"
 msgid "Save shortcuts to scheme"
 msgstr "Sàbhail na h-ath-ghoiridean gu sgeama"
 
-#: kshortcutschemeseditor.cpp:84
+#: kshortcutschemeseditor.cpp:88
 #, fuzzy, kde-format
 #| msgid "Export Scheme..."
 msgctxt "@action:inmenu"
 msgid "Export Scheme..."
 msgstr "Às-phortaich an sgeama..."
 
-#: kshortcutschemeseditor.cpp:85
+#: kshortcutschemeseditor.cpp:92
 #, fuzzy, kde-format
 #| msgid "Import Scheme..."
 msgctxt "@action:inmenu"
 msgid "Import Scheme..."
 msgstr "Ion-phortaich sgeama..."
 
-#: kshortcutschemeseditor.cpp:100
+#: kshortcutschemeseditor.cpp:108
 #, fuzzy, kde-format
 #| msgid "Name for New Scheme"
 msgctxt "@title:window"
 msgid "Name for New Scheme"
 msgstr "Ainm an sgeama ùir"
 
-#: kshortcutschemeseditor.cpp:100
+#: kshortcutschemeseditor.cpp:108
 #, kde-format
 msgid "Name for new scheme:"
 msgstr "Ainm an sgeama ùir:"
 
-#: kshortcutschemeseditor.cpp:100
+#: kshortcutschemeseditor.cpp:108
 #, kde-format
 msgid "New Scheme"
 msgstr "Sgeama ùr"
 
-#: kshortcutschemeseditor.cpp:106
+#: kshortcutschemeseditor.cpp:114
 #, kde-format
 msgid "A scheme with this name already exists."
 msgstr "Tha sgeama air a bheil an t-ainm seo ann mar-thà."
 
-#: kshortcutschemeseditor.cpp:136
+#: kshortcutschemeseditor.cpp:144
 #, kde-format
 msgid ""
 "Do you really want to delete the scheme %1?\n"
@@ -1255,31 +1255,31 @@ msgstr ""
 "Thoir an aire nach doir seo air falbh sgeamannan ath-ghoiridean an t-"
 "siostaim."
 
-#: kshortcutschemeseditor.cpp:172
+#: kshortcutschemeseditor.cpp:180
 #, fuzzy, kde-format
 #| msgid "Export Shortcuts"
 msgctxt "@title:window"
 msgid "Export Shortcuts"
 msgstr "Às-phortaich na h-ath-ghoiridean"
 
-#: kshortcutschemeseditor.cpp:172 kshortcutschemeseditor.cpp:183
+#: kshortcutschemeseditor.cpp:180 kshortcutschemeseditor.cpp:191
 #, kde-format
 msgid "Shortcuts (*.shortcuts)"
 msgstr "Ath-ghoiridean (*.shortcuts)"
 
-#: kshortcutschemeseditor.cpp:183
+#: kshortcutschemeseditor.cpp:191
 #, fuzzy, kde-format
 #| msgid "Import Shortcuts"
 msgctxt "@title:window"
 msgid "Import Shortcuts"
 msgstr "Ion-phortaich ath-ghoiridean"
 
-#: kshortcutschemeseditor.cpp:194
+#: kshortcutschemeseditor.cpp:202
 #, kde-format
 msgid "Shortcut scheme successfully saved."
 msgstr "Chaidh sgeama nan ath-ghoiridean a shàbhaladh."
 
-#: kshortcutschemeseditor.cpp:197
+#: kshortcutschemeseditor.cpp:205
 #, kde-format
 msgid "Error saving the shortcut scheme."
 msgstr "Mearachd le sàbhaladh an sgeama ath-ghoiridean."
