@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GCompris-Unofficial\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-05-31 00:58+0000\n"
+"POT-Creation-Date: 2022-07-28 00:50+0000\n"
 "PO-Revision-Date: 2020-03-16 23:58+0100\n"
 "Last-Translator: Timo <animtim@gmail.com>\n"
 "Language-Team: French <kde-i18n-doc@kde.org>\n"
@@ -158,12 +158,12 @@ msgstr "Leabhar-mhìneachaidh"
 msgid "Contribute"
 msgstr "Thoir taic dhuinn"
 
-#: template/base.html:96
+#: template/base.html:105
 #, python-format
 msgid "Site last updated the %(revision_date)s."
 msgstr ""
 
-#: template/base.html:99
+#: template/base.html:110
 #, python-format
 msgid "Site translated by: %(translators_names)s."
 msgstr ""
@@ -222,7 +222,7 @@ msgid ""
 "please become a patron of GCompris on Patreon:"
 msgstr ""
 
-#: template/donate.html:20 template/downloads.html:10 template/index.html:175
+#: template/donate.html:20 template/downloads.html:10 template/index.html:149
 msgid "Become a Patron"
 msgstr ""
 
@@ -444,57 +444,51 @@ msgstr ""
 msgid "GCompris Educational Software"
 msgstr "Bathar-bog foghlaim GCompris"
 
-#: template/index.html:17 template/index.html:61
-#, python-format
-msgid "Version %(version)s"
-msgstr "Tionndadh %(version)s"
-
-#: template/index.html:86 template/index.html:87
+#: template/index.html:54
 msgid "Download GCompris"
 msgstr "Luchdaich a-nuas GCompris"
 
-#. other platform
-#: template/index.html:97
-msgid "All"
-msgstr ""
+#: template/index.html:57
+msgid "Latest news"
+msgstr "Na naidheachdan as ùire"
 
-#: template/index.html:118
+#: template/index.html:90
 msgid "Click or tap"
 msgstr ""
 
-#: template/index.html:124
+#: template/index.html:96
 msgid "Identify colors"
 msgstr ""
 
-#: template/index.html:130
+#: template/index.html:102
 msgid "Learn clock"
 msgstr ""
 
-#: template/index.html:136
+#: template/index.html:108
 msgid "Keyboard training"
 msgstr ""
 
-#: template/index.html:142
+#: template/index.html:114
 msgid "Learn additions"
 msgstr ""
 
-#: template/index.html:148
+#: template/index.html:120
 msgid "Discover the watercycle"
 msgstr ""
 
-#: template/index.html:154
+#: template/index.html:126
 msgid "Play chess against your friend"
 msgstr ""
 
-#: template/index.html:160
+#: template/index.html:132
 msgid "Click on a lowercase letter"
 msgstr ""
 
-#: template/index.html:171
+#: template/index.html:146
 msgid "View all screenshots"
 msgstr "Seall na h-uile glacadh-sgrìn"
 
-#: template/index.html:181
+#: template/index.html:152
 #, fuzzy
 #| msgid ""
 #| "GCompris is a high quality educational software suite comprising of "
@@ -506,7 +500,7 @@ msgstr ""
 "'S e sreath de phrògraman foghlaim a th' ann an GCompris le deagh chàileachd "
 "is tha iomadh cleas na bhroinn airson clann aois 2 gu 10."
 
-#: template/index.html:182
+#: template/index.html:153
 msgid ""
 "Some of the activities are game orientated, but nonetheless still "
 "educational."
@@ -514,11 +508,11 @@ msgstr ""
 "'S e geamannan a th' ann an cuid dhe na cleasan ach tha iad math airson "
 "foghlam co-dhiù."
 
-#: template/index.html:183
+#: template/index.html:154
 msgid "Here is the list of activity categories with some examples:"
 msgstr ""
 
-#: template/index.html:185
+#: template/index.html:156
 #, fuzzy
 #| msgid "computer discovery: keyboard, mouse, different mouse gestures, ..."
 msgid "computer discovery: keyboard, mouse, touchscreen ..."
@@ -526,13 +520,13 @@ msgstr ""
 "Faigh a-mach mun choimpiutair: am meur-chlàr, an luchag, gluasadan na "
 "luchaige, ..."
 
-#: template/index.html:186
+#: template/index.html:157
 #, fuzzy
 #| msgid "reading: reading practice"
 msgid "reading: letters, words, reading practice, typing text ..."
 msgstr "leughadh: cleachd do sgilean leughaidh"
 
-#: template/index.html:187
+#: template/index.html:158
 #, fuzzy
 #| msgid ""
 #| "arithmetic: table memory, enumeration, double entry table, mirror "
@@ -544,7 +538,7 @@ msgstr ""
 "àireamhachd: cuimhnich na clàran, àireamhachadh, an griod, sgàthanaich "
 "dealbh, ..."
 
-#: template/index.html:188
+#: template/index.html:159
 #, fuzzy
 #| msgid ""
 #| "science: the canal lock, the water cycle, the submarine, electric "
@@ -554,21 +548,21 @@ msgstr ""
 "saidheans: loc canail, cearcall an uisge, bàta-tumaidh, atharrais sgeama "
 "dealain, ..."
 
-#: template/index.html:189
+#: template/index.html:160
 msgid "geography: countries, regions, culture ..."
 msgstr ""
 
-#: template/index.html:190
+#: template/index.html:161
 #, fuzzy
 #| msgid "games: chess, memory, connect 4, oware, sudoku ..."
 msgid "games: chess, memory, align 4, hangman, tic-tac-toe ..."
 msgstr "geamannan: tàileasg, cuimhne, ceangail 4, oware, sudoku, ..."
 
-#: template/index.html:191
+#: template/index.html:162
 msgid "other: colors, shapes, Braille, learn to tell time ..."
 msgstr ""
 
-#: template/index.html:193
+#: template/index.html:164
 #, fuzzy
 #| msgid ""
 #| "Currently GCompris offers in excess of 100 activities and more are being "
@@ -586,25 +580,21 @@ msgstr ""
 "thu gleus a chur air a-rèir nam feumalachdan agad fhèin, a leasachadh is gu "
 "h-àraidh a cho-roinn leis a' chlann air fheadh an t-saoghail."
 
-#: template/index.html:194
+#: template/index.html:165
 msgid ""
 "The GCompris project is hosted and developed by <a target=\"_blank\" rel="
 "\"noopener\" href=\"https://www.kde.org/\">the KDE community</a>."
 msgstr ""
-
-#: template/index.html:201
-msgid "Latest news"
-msgstr "Na naidheachdan as ùire"
-
-#: template/index.html:205 template/news.html:14 template/singlenews.html:13
-msgid "All the news"
-msgstr "A h-uile naidheachd"
 
 #: template/news.html:3 template/news.html:8 template/newsall.html:3
 #: template/newsall.html:8 template/singlenews.html:3
 #: template/singlenews.html:9
 msgid "News"
 msgstr "Naidheachdan"
+
+#: template/news.html:14 template/singlenews.html:13
+msgid "All the news"
+msgstr "A h-uile naidheachd"
 
 #: template/schools.html:15
 msgid ""
@@ -702,6 +692,9 @@ msgstr "Leabhar-mhìneachaidh:"
 #: template/screenshot.html:56
 msgid "Credit:"
 msgstr "Urram:"
+
+#~ msgid "Version %(version)s"
+#~ msgstr "Tionndadh %(version)s"
 
 #~ msgid "Buy / Donate"
 #~ msgstr "Ceannaich / Thoir tìodhlac dhuinn"
