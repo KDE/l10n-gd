@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-06 00:41+0000\n"
+"POT-Creation-Date: 2022-08-06 00:42+0000\n"
 "PO-Revision-Date: 2016-04-29 19:43+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -1633,11 +1633,6 @@ msgstr "Ath-ghoirid-lìn ùr"
 msgid "%1 is already assigned to %2"
 msgstr "chaidh %1 iomruineadh dha %2 mar-thà"
 
-#: rendering/render_form.cpp:922
-#, kde-format
-msgid "Error"
-msgstr "Mearachd"
-
 #: rendering/render_form.cpp:968
 #, kde-format
 msgid "Search &provider name:"
@@ -1775,6 +1770,9 @@ msgstr "mearachd parsaidh mharbhtach: %1 air loidhne %2, colbh %3"
 #, kde-format
 msgid "XML parsing error"
 msgstr "Mearachd le parsadh an XML"
+
+#~ msgid "Error"
+#~ msgstr "Mearachd"
 
 #~ msgid "Initializing Applet \"%1\"..."
 #~ msgstr "A' tòiseachadh na h-aplaid \"%1\"..."
