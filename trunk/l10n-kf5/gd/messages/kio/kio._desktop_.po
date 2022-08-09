@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-08 00:56+0000\n"
+"POT-Creation-Date: 2022-08-09 00:55+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -2226,11 +2226,6 @@ msgctxt "Comment"
 msgid "Plugin for the KIO file item context menu"
 msgstr "Plugan airson a' chlàir-thaice co-theacsa aig an nì faidhle KIO"
 
-#: src/widgets/kiodndpopupmenuplugin.desktop:4
-msgctxt "Comment"
-msgid "Plugin for the KIO Drag-and-drop Popup Menu"
-msgstr "Plugan airson priob-chlàir-taice slaodaidh is leigeil às KIO"
-
 #: src/widgets/konqpopupmenuplugin.desktop:4
 msgctxt "Comment"
 msgid "Plugin for the Konqueror Popup Menu"
@@ -2245,6 +2240,10 @@ msgstr "Plugan airson còmhradh nan roghainnean"
 msgctxt "Name"
 msgid "Enhanced Browsing Plugin"
 msgstr "Plugan airson brabhsadh leasaichte"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin for the KIO Drag-and-drop Popup Menu"
+#~ msgstr "Plugan airson priob-chlàir-taice slaodaidh is leigeil às KIO"
 
 #, fuzzy
 #~| msgctxt "Query"
