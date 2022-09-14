@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-26 00:42+0000\n"
+"POT-Creation-Date: 2022-09-14 00:42+0000\n"
 "PO-Revision-Date: 2016-04-30 12:04+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -35,87 +35,7 @@ msgstr ""
 msgid "Desktop file that describes this package."
 msgstr "Faidhle desktop a mhìnicheas a' phacaid seo."
 
-#: kpackage/packageloader.cpp:42
-msgid "Accessibility"
-msgstr "So-ruigsinneachd"
-
-#: kpackage/packageloader.cpp:43
-msgid "Application Launchers"
-msgstr "Lòinsearan aplacaidean"
-
-#: kpackage/packageloader.cpp:44
-msgid "Astronomy"
-msgstr "Reul-eòlas"
-
-#: kpackage/packageloader.cpp:45
-msgid "Date and Time"
-msgstr "Ceann-là 's àm"
-
-#: kpackage/packageloader.cpp:46
-msgid "Development Tools"
-msgstr "Innealan leasachaidh"
-
-#: kpackage/packageloader.cpp:47
-msgid "Education"
-msgstr "Foghlam"
-
-#: kpackage/packageloader.cpp:48
-msgid "Environment and Weather"
-msgstr "An t-àrainneachd 's an aimsir"
-
-#: kpackage/packageloader.cpp:49
-msgid "Examples"
-msgstr "Buill-eisimpleir"
-
-#: kpackage/packageloader.cpp:50
-msgid "File System"
-msgstr "Siostam fhaidhlichean"
-
-#: kpackage/packageloader.cpp:51
-msgid "Fun and Games"
-msgstr "Tlachd is geamannan"
-
-#: kpackage/packageloader.cpp:52
-msgid "Graphics"
-msgstr "Grafaigeachd"
-
-#: kpackage/packageloader.cpp:53
-msgid "Language"
-msgstr "Cànan"
-
-#: kpackage/packageloader.cpp:54
-msgid "Mapping"
-msgstr "Mapachadh"
-
-#: kpackage/packageloader.cpp:55
-msgid "Miscellaneous"
-msgstr "Eile"
-
-#: kpackage/packageloader.cpp:56
-msgid "Multimedia"
-msgstr "Ioma-mheadhan"
-
-#: kpackage/packageloader.cpp:57
-msgid "Online Services"
-msgstr "Seirbheisean air loidhne"
-
-#: kpackage/packageloader.cpp:58
-msgid "Productivity"
-msgstr "Dèanadas"
-
-#: kpackage/packageloader.cpp:59
-msgid "System Information"
-msgstr "Fiosrachadh an t-siostaim"
-
-#: kpackage/packageloader.cpp:60
-msgid "Utilities"
-msgstr "Goireasan"
-
-#: kpackage/packageloader.cpp:61
-msgid "Windows and Tasks"
-msgstr "Uinneagan is saothraichean"
-
-#: kpackage/packageloader.cpp:287
+#: kpackage/packageloader.cpp:255
 #, kde-format
 msgid "Could not load installer for package of type %1. Error reported was: %2"
 msgstr ""
@@ -536,6 +456,66 @@ msgstr "Gin hais SHA1airson na pacaid air <path>"
 msgctxt "Do not translate <path>"
 msgid "Outputs the metadata for the package into <path>"
 msgstr "Gin hais SHA1airson na pacaid air <path>"
+
+#~ msgid "Accessibility"
+#~ msgstr "So-ruigsinneachd"
+
+#~ msgid "Application Launchers"
+#~ msgstr "Lòinsearan aplacaidean"
+
+#~ msgid "Astronomy"
+#~ msgstr "Reul-eòlas"
+
+#~ msgid "Date and Time"
+#~ msgstr "Ceann-là 's àm"
+
+#~ msgid "Development Tools"
+#~ msgstr "Innealan leasachaidh"
+
+#~ msgid "Education"
+#~ msgstr "Foghlam"
+
+#~ msgid "Environment and Weather"
+#~ msgstr "An t-àrainneachd 's an aimsir"
+
+#~ msgid "Examples"
+#~ msgstr "Buill-eisimpleir"
+
+#~ msgid "File System"
+#~ msgstr "Siostam fhaidhlichean"
+
+#~ msgid "Fun and Games"
+#~ msgstr "Tlachd is geamannan"
+
+#~ msgid "Graphics"
+#~ msgstr "Grafaigeachd"
+
+#~ msgid "Language"
+#~ msgstr "Cànan"
+
+#~ msgid "Mapping"
+#~ msgstr "Mapachadh"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "Eile"
+
+#~ msgid "Multimedia"
+#~ msgstr "Ioma-mheadhan"
+
+#~ msgid "Online Services"
+#~ msgstr "Seirbheisean air loidhne"
+
+#~ msgid "Productivity"
+#~ msgstr "Dèanadas"
+
+#~ msgid "System Information"
+#~ msgstr "Fiosrachadh an t-siostaim"
+
+#~ msgid "Utilities"
+#~ msgstr "Goireasan"
+
+#~ msgid "Windows and Tasks"
+#~ msgstr "Uinneagan is saothraichean"
 
 #~ msgid "Addon Name"
 #~ msgstr "Ainm an tuilleadain"
