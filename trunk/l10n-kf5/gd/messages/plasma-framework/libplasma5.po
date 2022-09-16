@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-23 00:42+0000\n"
+"POT-Creation-Date: 2022-09-16 00:41+0000\n"
 "PO-Revision-Date: 2016-04-30 12:08+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -121,13 +121,13 @@ msgstr "Sguir dheth"
 msgid "More actions"
 msgstr ""
 
-#: declarativeimports/plasmaextracomponents/qml/ExpandableListItem.qml:539
+#: declarativeimports/plasmaextracomponents/qml/ExpandableListItem.qml:559
 #, kde-format
 msgctxt "@action:button"
 msgid "Collapse"
 msgstr ""
 
-#: declarativeimports/plasmaextracomponents/qml/ExpandableListItem.qml:539
+#: declarativeimports/plasmaextracomponents/qml/ExpandableListItem.qml:559
 #, kde-format
 msgctxt "@action:button"
 msgid "Expand"
@@ -383,95 +383,7 @@ msgstr "Dealbhan cùlaibh do-lèirsinneach airson gliocasan-sgrìn"
 msgid "KColorScheme configuration file"
 msgstr "Faidhle rèiteachadh KColorScheme"
 
-#: plasma/pluginloader.cpp:105
-msgid "Accessibility"
-msgstr "So-ruigsinneachd"
-
-#: plasma/pluginloader.cpp:106
-msgid "Application Launchers"
-msgstr "Lòinsearan aplacaidean"
-
-#: plasma/pluginloader.cpp:107
-msgid "Astronomy"
-msgstr "Reul-eòlas"
-
-#: plasma/pluginloader.cpp:108
-msgid "Date and Time"
-msgstr "Ceann-là 's àm"
-
-#: plasma/pluginloader.cpp:109
-msgid "Development Tools"
-msgstr "Innealan leasachaidh"
-
-#: plasma/pluginloader.cpp:110
-msgid "Education"
-msgstr "Foghlam"
-
-#: plasma/pluginloader.cpp:111
-msgid "Environment and Weather"
-msgstr "An t-àrainneachd 's an aimsir"
-
-#: plasma/pluginloader.cpp:112
-msgid "Examples"
-msgstr "Buill-eisimpleir"
-
-#: plasma/pluginloader.cpp:113
-msgid "File System"
-msgstr "Siostam fhaidhlichean"
-
-#: plasma/pluginloader.cpp:114
-msgid "Fun and Games"
-msgstr "Tlachd is geamannan"
-
-#: plasma/pluginloader.cpp:115
-msgid "Graphics"
-msgstr "Grafaigeachd"
-
-#: plasma/pluginloader.cpp:116
-msgid "Language"
-msgstr "Cànan"
-
-#: plasma/pluginloader.cpp:117
-msgid "Mapping"
-msgstr "Mapachadh"
-
-#: plasma/pluginloader.cpp:118
-msgid "Miscellaneous"
-msgstr "Eile"
-
-#: plasma/pluginloader.cpp:119
-msgid "Multimedia"
-msgstr "Ioma-mheadhanan"
-
-#: plasma/pluginloader.cpp:120
-msgid "Online Services"
-msgstr "Seirbheisean air loidhne"
-
-#: plasma/pluginloader.cpp:121
-msgid "Productivity"
-msgstr "Dèanadas"
-
-#: plasma/pluginloader.cpp:122
-msgid "System Information"
-msgstr "Fiosrachadh an t-siostaim"
-
-#: plasma/pluginloader.cpp:123
-msgid "Utilities"
-msgstr "Goireasan"
-
-#: plasma/pluginloader.cpp:124
-msgid "Windows and Tasks"
-msgstr "Uinneagan is saothraichean"
-
-#: plasma/pluginloader.cpp:125
-msgid "Clipboard"
-msgstr "Stòr-bhòrd"
-
-#: plasma/pluginloader.cpp:126
-msgid "Tasks"
-msgstr "Saothraichean"
-
-#: plasma/pluginloader.cpp:631 plasma/pluginloader.cpp:632
+#: plasma/pluginloader.cpp:593 plasma/pluginloader.cpp:594
 #, kde-format
 msgctxt "misc category"
 msgid "Miscellaneous"
@@ -701,6 +613,72 @@ msgstr ""
 #, kde-format
 msgid "Content dropped"
 msgstr "Chaidh an t-susbaint a leigeil às"
+
+#~ msgid "Accessibility"
+#~ msgstr "So-ruigsinneachd"
+
+#~ msgid "Application Launchers"
+#~ msgstr "Lòinsearan aplacaidean"
+
+#~ msgid "Astronomy"
+#~ msgstr "Reul-eòlas"
+
+#~ msgid "Date and Time"
+#~ msgstr "Ceann-là 's àm"
+
+#~ msgid "Development Tools"
+#~ msgstr "Innealan leasachaidh"
+
+#~ msgid "Education"
+#~ msgstr "Foghlam"
+
+#~ msgid "Environment and Weather"
+#~ msgstr "An t-àrainneachd 's an aimsir"
+
+#~ msgid "Examples"
+#~ msgstr "Buill-eisimpleir"
+
+#~ msgid "File System"
+#~ msgstr "Siostam fhaidhlichean"
+
+#~ msgid "Fun and Games"
+#~ msgstr "Tlachd is geamannan"
+
+#~ msgid "Graphics"
+#~ msgstr "Grafaigeachd"
+
+#~ msgid "Language"
+#~ msgstr "Cànan"
+
+#~ msgid "Mapping"
+#~ msgstr "Mapachadh"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "Eile"
+
+#~ msgid "Multimedia"
+#~ msgstr "Ioma-mheadhanan"
+
+#~ msgid "Online Services"
+#~ msgstr "Seirbheisean air loidhne"
+
+#~ msgid "Productivity"
+#~ msgstr "Dèanadas"
+
+#~ msgid "System Information"
+#~ msgstr "Fiosrachadh an t-siostaim"
+
+#~ msgid "Utilities"
+#~ msgstr "Goireasan"
+
+#~ msgid "Windows and Tasks"
+#~ msgstr "Uinneagan is saothraichean"
+
+#~ msgid "Clipboard"
+#~ msgstr "Stòr-bhòrd"
+
+#~ msgid "Tasks"
+#~ msgstr "Saothraichean"
 
 #~ msgid "Default settings for theme, etc."
 #~ msgstr "Bun-roghainnean airson an ùrlair is msaa."
