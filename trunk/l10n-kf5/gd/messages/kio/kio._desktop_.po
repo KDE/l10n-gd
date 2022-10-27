@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-10-25 00:56+0000\n"
+"POT-Creation-Date: 2022-10-27 00:56+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -829,7 +829,7 @@ msgctxt "Name"
 msgid "Flatpak Documentation"
 msgstr "Docamaideadh Qt4"
 
-#: src/urifilters/ikws/searchproviders/flatpak.desktop:45
+#: src/urifilters/ikws/searchproviders/flatpak.desktop:46
 msgctxt "Query"
 msgid ""
 "https://docs.flatpak.org/en/latest/search.html?q=\\\\{@}"
@@ -1156,7 +1156,7 @@ msgctxt "Name"
 msgid "KDE Invent Issues"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/invent_issues.desktop:43
+#: src/urifilters/ikws/searchproviders/invent_issues.desktop:44
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"
@@ -1169,7 +1169,7 @@ msgctxt "Name"
 msgid "KDE Invent Merge Requests"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/invent_mr.desktop:42
+#: src/urifilters/ikws/searchproviders/invent_mr.desktop:43
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"
@@ -1326,7 +1326,7 @@ msgctxt "Name"
 msgid "KDE Reddit"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/kreddit.desktop:45
+#: src/urifilters/ikws/searchproviders/kreddit.desktop:46
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.bing.com/search?q=\\\\{@}"
@@ -1339,7 +1339,7 @@ msgctxt "Name"
 msgid "Krita Manual"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/krita.desktop:45
+#: src/urifilters/ikws/searchproviders/krita.desktop:46
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://identi.ca/search/group?q=\\\\{@}"
@@ -1352,7 +1352,7 @@ msgctxt "Name"
 msgid "Learn CPP"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/learncpp.desktop:45
+#: src/urifilters/ikws/searchproviders/learncpp.desktop:46
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.flickr.com/search/?q=\\\\{@}"
@@ -1421,7 +1421,7 @@ msgctxt "Name"
 msgid "Microsoft C++ Documentation"
 msgstr "Docamaideadh Qt4"
 
-#: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:44
+#: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:45
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://social.msdn.microsoft.com/Search/en-US?query=\\\\{@}"
@@ -1580,7 +1580,7 @@ msgctxt "Name"
 msgid "openSUSE Software"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/opensuse.desktop:43
+#: src/urifilters/ikws/searchproviders/opensuse.desktop:44
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://freecode.com/search?q=\\\\{@}"
@@ -1649,7 +1649,7 @@ msgctxt "Name"
 msgid "Qt5 Online Documentation"
 msgstr "An docamaideadh Qt air loidhne às ùire"
 
-#: src/urifilters/ikws/searchproviders/qt5.desktop:45
+#: src/urifilters/ikws/searchproviders/qt5.desktop:46
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://identi.ca/search/group?q=\\\\{@}"
@@ -1665,7 +1665,7 @@ msgctxt "Name"
 msgid "Qt6 Online Documentation"
 msgstr "An docamaideadh Qt air loidhne às ùire"
 
-#: src/urifilters/ikws/searchproviders/qt6.desktop:45
+#: src/urifilters/ikws/searchproviders/qt6.desktop:46
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://identi.ca/search/group?q=\\\\{@}"
@@ -1940,7 +1940,7 @@ msgctxt "Name"
 msgid "Ubuntu Package Search"
 msgstr "Lorg pacaidean Debian"
 
-#: src/urifilters/ikws/searchproviders/ubuntu.desktop:45
+#: src/urifilters/ikws/searchproviders/ubuntu.desktop:46
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://packages.debian.org/\\\\{@}"
@@ -2060,7 +2060,7 @@ msgctxt "Name"
 msgid "WineHQ Database"
 msgstr "Stòr-dàta ghearr-ainmean"
 
-#: src/urifilters/ikws/searchproviders/wine.desktop:45
+#: src/urifilters/ikws/searchproviders/wine.desktop:46
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.bing.com/search?q=\\\\{@}"
@@ -2231,7 +2231,7 @@ msgctxt "Name"
 msgid "C++"
 msgstr ""
 
-#: templates/kioworker/kioworker.kdevtemplate:32
+#: templates/kioworker/kioworker.kdevtemplate:33
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
