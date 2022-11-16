@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-10-13 00:58+0000\n"
+"POT-Creation-Date: 2022-11-16 00:59+0000\n"
 "PO-Revision-Date: 2016-04-29 19:28+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -16,7 +16,12 @@ msgstr ""
 "X-Generator: Virtaal 0.7.1\n"
 "X-Project-Style: kde\n"
 
-#: src/ioslaves/http/kcookiejar/kcookiejar.json
+#: src/ioslaves/trash/trash.json
+msgctxt "trash ExtraNames"
+msgid "Original Path;Deletion Date"
+msgstr "Slighe thùsail;Ceann-là an sguabaidh às"
+
+#: src/kioworkers/http/kcookiejar/kcookiejar.json
 msgctxt "Name"
 msgid "Cookie Jar"
 msgstr "Crogan bhriosgaidean"
@@ -31,7 +36,7 @@ msgctxt "Name"
 msgid "Network Proxy Configuration"
 msgstr "Rèiteachadh progsaidh an lìonraidh"
 
-#: src/ioslaves/http/kcookiejar/kcookiejar.json
+#: src/kioworkers/http/kcookiejar/kcookiejar.json
 msgctxt "Description"
 msgid "Stores network cookies"
 msgstr "Glèidhidh seo briosgaidean lìonraidh"
@@ -45,11 +50,6 @@ msgstr ""
 msgctxt "Description"
 msgid "Automatic proxy configuration"
 msgstr "Rèiteachadh fèin-obrachail a' phrogsaidh"
-
-#: src/ioslaves/trash/trash.json
-msgctxt "trash ExtraNames"
-msgid "Original Path;Deletion Date"
-msgstr "Slighe thùsail;Ceann-là an sguabaidh às"
 
 #~ msgctxt "Name"
 #~ msgid "Password Caching"
