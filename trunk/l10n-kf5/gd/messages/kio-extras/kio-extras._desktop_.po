@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-07-31 00:57+0000\n"
+"POT-Creation-Date: 2022-11-27 00:55+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -16,14 +16,19 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 "X-Project-Style: kde\n"
 
+#: afc/afc-network.desktop:3
+msgctxt "Name"
+msgid "Apple Devices"
+msgstr ""
+
+#: afc/solid_afc.desktop:9 mtp/solid_mtp.desktop:9
+msgctxt "Name"
+msgid "Browse Files with File Manager"
+msgstr ""
+
 #: mtp/mtp-network.desktop:3
 msgctxt "Name"
 msgid "MTP Devices"
-msgstr ""
-
-#: mtp/solid_mtp.desktop:9
-msgctxt "Name"
-msgid "Browse Files with File Manager"
 msgstr ""
 
 #: smb/smb-network.desktop:3
