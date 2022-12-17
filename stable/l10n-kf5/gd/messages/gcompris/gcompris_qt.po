@@ -63,7 +63,7 @@ msgstr ""
 #: activities/algebra_minus/ActivityInfo.qml:25
 #: activities/algebra_plus/ActivityInfo.qml:25
 #: activities/algorithm/ActivityInfo.qml:23
-#: activities/align4/ActivityInfo.qml:23
+#: activities/align4/ActivityInfo.qml:24
 #: activities/align4_2players/ActivityInfo.qml:23
 #: activities/alphabet-sequence/ActivityInfo.qml:25
 #: activities/baby_wordprocessor/ActivityInfo.qml:26
@@ -72,7 +72,9 @@ msgstr ""
 #: activities/calendar/ActivityInfo.qml:25
 #: activities/click_on_letter/ActivityInfo.qml:25
 #: activities/click_on_letter_up/ActivityInfo.qml:25
-#: activities/colors/ActivityInfo.qml:25 activities/crane/ActivityInfo.qml:30
+#: activities/colors/ActivityInfo.qml:25
+#: activities/comparator/ActivityInfo.qml:28
+#: activities/crane/ActivityInfo.qml:30
 #: activities/enumerate/ActivityInfo.qml:25
 #: activities/fifteen/ActivityInfo.qml:25
 #: activities/find_the_day/ActivityInfo.qml:25
@@ -1379,24 +1381,33 @@ msgstr ""
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
-#| "Play with the computer. Take turns to click on the square which you want "
-#| "to mark. First player to create a line of 3 marks wins"
+#| "Play with a friend. Take turns to click on the square which you want to "
+#| "mark. First player to create a line of 3 marks wins"
 msgctxt "ActivityInfo|"
 msgid ""
-"Play with the computer. Take turns to click the line in which you want to "
-"drop a token. The first player to create a line of 4 tokens wins."
+"Play with Tux. Take turns to click the line in which you want to drop a "
+"token. The first player to create a line of 4 tokens wins."
 msgstr ""
-"Cluich an aghaigh a’ choimpiutair. Dèan briogadh airson comharran a chur air "
-"na ceàrnagan, neach mu seach. Buannaichidh a’ chiad chluicheadair a chuireas "
+"Cluich còmhla ri caraid. Dèan briogadh airson comharran a chur air na "
+"ceàrnagan, neach mu seach. Buannaichidh a’ chiad chluicheadair a chuireas "
 "trì ann an sreath."
 
-#: activities/align4/ActivityInfo.qml:24
+#: activities/align4/ActivityInfo.qml:23 activities/bargame/ActivityInfo.qml:26
+#: activities/checkers/ActivityInfo.qml:27
+#: activities/nine_men_morris/ActivityInfo.qml:25
+msgctxt "ActivityInfo|"
+msgid ""
+"You can use the arrow buttons to manually select the difficulty level. Tux "
+"will play better when you increase the level."
+msgstr ""
+
+#: activities/align4/ActivityInfo.qml:25
 #: activities/align4_2players/ActivityInfo.qml:24
 msgctxt "ActivityInfo|"
 msgid "Left arrow: move the token to the left"
 msgstr ""
 
-#: activities/align4/ActivityInfo.qml:25
+#: activities/align4/ActivityInfo.qml:26
 #: activities/align4_2players/ActivityInfo.qml:25
 #, fuzzy
 #| msgctxt "ActivityInfo|"
@@ -1405,7 +1416,7 @@ msgctxt "ActivityInfo|"
 msgid "Right arrow: move the token to the right"
 msgstr "Ath-thog an tùr air an taobh deas"
 
-#: activities/align4/ActivityInfo.qml:26
+#: activities/align4/ActivityInfo.qml:27
 #: activities/align4_2players/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Space or Down arrow: drop the token"
@@ -2105,6 +2116,7 @@ msgstr ""
 #: activities/erase_2clic/ActivityInfo.qml:22
 #: activities/erase_clic/ActivityInfo.qml:22
 #: activities/hanoi/ActivityInfo.qml:22
+#: activities/left_right_click/ActivityInfo.qml:21
 #: activities/memory-tux/ActivityInfo.qml:22
 #: activities/memory/ActivityInfo.qml:22 activities/tangram/ActivityInfo.qml:29
 #, fuzzy
@@ -2686,17 +2698,17 @@ msgctxt "balanceboxeditor|"
 msgid "No"
 msgstr "Chan eil"
 
-#: activities/balancebox/editor/BalanceboxEditor.qml:140
+#: activities/balancebox/editor/BalanceboxEditor.qml:141
 msgctxt "BalanceboxEditor|"
 msgid "Load"
 msgstr ""
 
-#: activities/balancebox/editor/BalanceboxEditor.qml:147
+#: activities/balancebox/editor/BalanceboxEditor.qml:148
 msgctxt "BalanceboxEditor|"
 msgid "Save"
 msgstr "Sàbhail"
 
-#: activities/balancebox/editor/BalanceboxEditor.qml:154
+#: activities/balancebox/editor/BalanceboxEditor.qml:155
 msgctxt "BalanceboxEditor|"
 msgid "Test"
 msgstr "Deuchainn"
@@ -2813,7 +2825,7 @@ msgstr ""
 "bàla san toll dearg."
 
 #. Help goal
-#: activities/bargame/ActivityInfo.qml:20
+#: activities/bargame/ActivityInfo.qml:21
 #: activities/bargame_2players/ActivityInfo.qml:20
 #, fuzzy
 #| msgctxt "ActivityInfo|"
@@ -2823,7 +2835,7 @@ msgid "Don't put the ball in the last hole."
 msgstr "Na cleachd am bàla mu dheireadh"
 
 #. Help prerequisite
-#: activities/bargame/ActivityInfo.qml:22
+#: activities/bargame/ActivityInfo.qml:23
 #: activities/bargame_2players/ActivityInfo.qml:22
 #, fuzzy
 #| msgctxt "ActivityInfo|"
@@ -2833,7 +2845,7 @@ msgid "Ability to count."
 msgstr "Comas cunntaidh"
 
 #. Help manual
-#: activities/bargame/ActivityInfo.qml:24
+#: activities/bargame/ActivityInfo.qml:25
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
@@ -2842,8 +2854,8 @@ msgstr "Comas cunntaidh"
 msgctxt "ActivityInfo|"
 msgid ""
 "Click on the ball icon to select a number of balls, then click on the OK "
-"button to place the balls in the holes. You win if the computer has to place "
-"the last ball. If you want Tux to begin, just click on him."
+"button to place the balls in the holes. You win if Tux has to place the last "
+"ball. If you want Tux to begin, just click on him."
 msgstr ""
 "Cuir bàlaichean sna tuill. Gheibh thu buaidh air a’ choimpiutair ma tha "
 "aigesan ris am bàla mu dheireadh a chur. Ma tha thu airson ’s gun tòisich "
@@ -3096,7 +3108,7 @@ msgctxt "FirstScreen|"
 msgid "Braille: Unlocking the Code"
 msgstr "Braille: A’ neo-ghlasadh a’ còd"
 
-#: activities/braille_alphabets/FirstScreen.qml:54
+#: activities/braille_alphabets/FirstScreen.qml:53
 #, fuzzy
 #| msgctxt "FirstScreen|"
 #| msgid ""
@@ -3110,7 +3122,7 @@ msgstr ""
 "’S e dòigh leughaidh is sgrìobhaidh a chleachdas daoine dalla a tha san t-"
 "siostam Braille."
 
-#: activities/braille_alphabets/FirstScreen.qml:55
+#: activities/braille_alphabets/FirstScreen.qml:54
 #, fuzzy
 #| msgctxt "FirstScreen|"
 #| msgid ""
@@ -3128,7 +3140,7 @@ msgstr ""
 "gach fear. Mar a chì thu taobh clì, bheir sinn iomradh air gach dotag leis "
 "na h-àireamhan 1 gu 6."
 
-#: activities/braille_alphabets/FirstScreen.qml:79
+#: activities/braille_alphabets/FirstScreen.qml:78
 #, fuzzy
 #| msgctxt "FirstScreen|"
 #| msgid ""
@@ -3316,41 +3328,6 @@ msgstr ""
 msgctxt "ActivityInfo|"
 msgid "Space or Enter: validate your answer"
 msgstr ""
-
-#: activities/calendar/Calendar.qml:255
-msgctxt "Calendar|"
-msgid "Sunday"
-msgstr "DiDòmhnaich"
-
-#: activities/calendar/Calendar.qml:256
-msgctxt "Calendar|"
-msgid "Monday"
-msgstr "DiLuain"
-
-#: activities/calendar/Calendar.qml:257
-msgctxt "Calendar|"
-msgid "Tuesday"
-msgstr "DiMàirt"
-
-#: activities/calendar/Calendar.qml:258
-msgctxt "Calendar|"
-msgid "Wednesday"
-msgstr "DiCiadain"
-
-#: activities/calendar/Calendar.qml:259
-msgctxt "Calendar|"
-msgid "Thursday"
-msgstr "DiarDaoin"
-
-#: activities/calendar/Calendar.qml:260
-msgctxt "Calendar|"
-msgid "Friday"
-msgstr "DihAoine"
-
-#: activities/calendar/Calendar.qml:261
-msgctxt "Calendar|"
-msgid "Saturday"
-msgstr "DiSathairne"
 
 #: activities/calendar/calendar_dataset.js:35
 #, fuzzy
@@ -4551,9 +4528,12 @@ msgstr ""
 
 #. Activity title
 #: activities/checkers/ActivityInfo.qml:15
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Play chess against Tux"
 msgctxt "ActivityInfo|"
-msgid "Play checkers against the computer"
-msgstr "Cluich dàmais an aghaidh a’ choimpiutair"
+msgid "Play checkers (against Tux)"
+msgstr "Cluich tàileasg an aghaidh Tux"
 
 #. Help title
 #: activities/checkers/ActivityInfo.qml:17
@@ -4579,6 +4559,108 @@ msgstr "Glac gach pìos aig an duine eile mus glac iad na pìosan agad-sa."
 
 #. Help manual
 #: activities/checkers/ActivityInfo.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Checkers is played by two opponents, on opposite sides of the gameboard. "
+#| "One player has the dark pieces; the other has the light pieces. Players "
+#| "alternate turns. A player may not move an opponent's piece. A move "
+#| "consists of moving a piece diagonally to an adjacent unoccupied square. "
+#| "If the adjacent square contains an opponent's piece, and the square "
+#| "immediately beyond it is vacant, the piece may be captured (and removed "
+#| "from the game) by jumping over it.\n"
+#| "Only the dark squares of the checkered board are used. A piece may move "
+#| "only diagonally into an unoccupied square. Capturing is mandatory. The "
+#| "player without pieces remaining, or who cannot move due to being blocked, "
+#| "loses the game.\n"
+#| "When a man reaches the crownhead or kings row (the farthest row forward), "
+#| "it becomes a king, and is marked by placing an additional piece on top of "
+#| "the first man, and acquires additional powers including the ability to "
+#| "move backwards. If there is a piece in a diagonal that a king can "
+#| "capture, he can move any distance along the diagonal, and may capture an "
+#| "opposing man any distance away by jumping to any of the unoccupied "
+#| "squares immediately beyond it.\n"
+msgctxt "ActivityInfo|"
+msgid ""
+"Checkers is played by two opponents, on opposite sides of the gameboard. One "
+"player has the dark pieces; the other has the light pieces. Players "
+"alternate turns. A player may not move an opponent's piece. A move consists "
+"of moving a piece diagonally to an adjacent unoccupied square. If the "
+"adjacent square contains an opponent's piece, and the square immediately "
+"beyond it is vacant, the piece may be captured (and removed from the game) "
+"by jumping over it.\n"
+"Only the dark squares of the checkered board are used. A piece may move only "
+"diagonally into an unoccupied square. Capturing is mandatory. The player "
+"without pieces remaining, or who cannot move due to being blocked, loses the "
+"game.\n"
+"When a man reaches the crownhead or kings row (the farthest row forward), it "
+"becomes a king, and is marked by placing an additional piece on top of the "
+"first man, and acquires additional powers including the ability to move "
+"backwards. If there is a piece in a diagonal that a king can capture, he can "
+"move any distance along the diagonal, and may capture an opposing man any "
+"distance away by jumping to any of the unoccupied squares immediately beyond "
+"it."
+msgstr ""
+"Bidh dithis a’ cluich dàmais an aghaidh a chèile, air dà thaobh bòrd a’ "
+"gheama. Bidh na pìosan dubha aig aon chluicheadair agus na pìosan geala aig "
+"an neach eile. Cluichidh iad cuairt mu seach. Chan fhaod cluicheadair pìosan "
+"an neach eile a ghluasad. Tha gluasad a’ ciallachadh imrich thrastanach de "
+"phìos gu ceàrnag bhàn. Ma tha pìos an neach eile air ceàrnag dìreach ri "
+"thaobh agus ma tha a’ cheàrnag dìreach seachad air bàn, faodar am pìos a "
+"ghlacadh (agus a thoirt far a’ bhùird) le bhith a’ leum thairis air. Chan "
+"eilear a’ gluasad ach air ceàrnagan dorcha a’ bhùird. Ma tha pìos ri "
+"ghlacadh, feumar a ghlacadh. Caillidh an neach aig nach eil pìosan tuilleadh "
+"no aig nach eil comas gluasad tuilleadh an geama.\n"
+"Nuair a ruigeas pìos sreath an rìgh (an sreath mu dheireadh air an taobh "
+"thall), thèid rìgh a dhèanamh dheth agus comharraichear seo le bhith a’ cur "
+"pìos eile os a chionn agus gheibh am pìos comasan a bharrachd, a’ gabhail a-"
+"staigh comas gluasaid air ais. Ma tha pìos air trastan on rìgh a ghabhas a "
+"ghlacadh, faodaidh an rìgh astar sam bith a ghluasad air an trastan agus "
+"pìos an neach eile a ghlacadh le bhith a’ leum air a’ cheàrnag dìreach "
+"seachad air.\n"
+
+#: activities/checkers/ActivityInfo.qml:29
+#: activities/checkers_2players/ActivityInfo.qml:28
+msgctxt "ActivityInfo|"
+msgid ""
+"The checkers library is draughts.js &lt;https://github.com/shubhendusaurabh/"
+"draughts.js&gt;. Manual is from wikipedia &lt;https://en.wikipedia.org/wiki/"
+"Draughts&gt;"
+msgstr ""
+"Thàinig an leabhar-lann dàmais (draughts.js) o &lt;https://github.com/"
+"shubhendusaurabh/draughts.js&gt;. Thàinig an treòir on Uicipeid &lt;https://"
+"en.wikipedia.org/wiki/Draughts&gt;"
+
+#: activities/checkers/checkers.js:75
+msgctxt "checkers|"
+msgid "Black's turn"
+msgstr "Cuairt a’ chluicheadair dhuibh"
+
+#: activities/checkers/checkers.js:75
+msgctxt "checkers|"
+msgid "White's turn"
+msgstr "Cuairt a’ chluicheadair ghil"
+
+#: activities/checkers/checkers.js:78
+msgctxt "checkers|"
+msgid "White wins"
+msgstr "Bhuannaich an cluicheadair geal"
+
+#: activities/checkers/checkers.js:78
+msgctxt "checkers|"
+msgid "Black wins"
+msgstr "Bhuannaich an cluicheadair dubh"
+
+#. Activity title
+#: activities/checkers_2players/ActivityInfo.qml:15
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Play checkers with your friend"
+msgctxt "ActivityInfo|"
+msgid "Play checkers (with a friend)"
+msgstr "Cluich dàmais an aghaidh caraid"
+
+#. Help manual
 #: activities/checkers_2players/ActivityInfo.qml:24
 msgctxt "ActivityInfo|"
 msgid ""
@@ -4619,52 +4701,17 @@ msgstr ""
 "pìos an neach eile a ghlacadh le bhith a’ leum air a’ cheàrnag dìreach "
 "seachad air.\n"
 
-#: activities/checkers/ActivityInfo.qml:28
-#: activities/checkers_2players/ActivityInfo.qml:28
-msgctxt "ActivityInfo|"
-msgid ""
-"The checkers library is draughts.js &lt;https://github.com/shubhendusaurabh/"
-"draughts.js&gt;. Manual is from wikipedia &lt;https://en.wikipedia.org/wiki/"
-"Draughts&gt;"
-msgstr ""
-"Thàinig an leabhar-lann dàmais (draughts.js) o &lt;https://github.com/"
-"shubhendusaurabh/draughts.js&gt;. Thàinig an treòir on Uicipeid &lt;https://"
-"en.wikipedia.org/wiki/Draughts&gt;"
-
-#: activities/checkers/checkers.js:75
-msgctxt "checkers|"
-msgid "Black's turn"
-msgstr "Cuairt a’ chluicheadair dhuibh"
-
-#: activities/checkers/checkers.js:75
-msgctxt "checkers|"
-msgid "White's turn"
-msgstr "Cuairt a’ chluicheadair ghil"
-
-#: activities/checkers/checkers.js:78
-msgctxt "checkers|"
-msgid "White wins"
-msgstr "Bhuannaich an cluicheadair geal"
-
-#: activities/checkers/checkers.js:78
-msgctxt "checkers|"
-msgid "Black wins"
-msgstr "Bhuannaich an cluicheadair dubh"
-
-#. Activity title
-#: activities/checkers_2players/ActivityInfo.qml:15
-msgctxt "ActivityInfo|"
-msgid "Play checkers with your friend"
-msgstr "Cluich dàmais an aghaidh caraid"
-
 #. Activity title
 #: activities/chess/ActivityInfo.qml:15
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Play chess against Tux"
 msgctxt "ActivityInfo|"
-msgid "Play chess against Tux"
+msgid "Play chess (against Tux)"
 msgstr "Cluich tàileasg an aghaidh Tux"
 
-#. Help manual
-#: activities/chess/ActivityInfo.qml:24
+#. Help manual Much of this string is shared across the three activities "chess", "chess_partyend", and "chess_2players".
+#: activities/chess/ActivityInfo.qml:25
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
@@ -4691,7 +4738,8 @@ msgid ""
 "computer. It displays the possible target positions for any selected piece "
 "which helps the children understand how pieces moves. At first level the "
 "computer is fully random to give more chances to the children. As level "
-"increases, the computer plays better.\n"
+"increases, the computer plays better. You can use the arrow buttons to "
+"manually select the difficulty level.\n"
 "\n"
 "You can achieve a mate sooner if you follow these simple rules:\n"
 "    Trying to drive your opponent's king in the corner.\n"
@@ -4728,7 +4776,17 @@ msgstr ""
 "cothrom orra no airson ’s gun dìon thu na pìosan agad fhèin uapa."
 
 #: activities/chess/ActivityInfo.qml:32
+#: activities/chess_2players/ActivityInfo.qml:32
 #: activities/chess_partyend/ActivityInfo.qml:32
+msgctxt "ActivityInfo|"
+msgid ""
+"Single click on undo button will undo one move. Single click on redo button "
+"will redo one move. To undo all the moves, press and hold the undo button "
+"for 3 seconds."
+msgstr ""
+
+#: activities/chess/ActivityInfo.qml:33
+#: activities/chess_partyend/ActivityInfo.qml:33
 msgctxt "ActivityInfo|"
 msgid ""
 "The chess engine is p4wn &lt;https://github.com/douglasbagnall/p4wn&gt;."
@@ -4790,14 +4848,42 @@ msgctxt "chess|"
 msgid "Invalid, your king may be in check"
 msgstr "Toirmisgte, dh’fhaoidte gu bheil tul-chasg air an rìgh agad"
 
+#. Translators: undo all the moves in chess activity
+#: activities/chess/Chess.qml:123
+#, fuzzy
+#| msgctxt "core|"
+#| msgid "Do you really want to quit GCompris?"
+msgctxt "Chess|"
+msgid "Do you really want to undo all the moves?"
+msgstr "A bheil thu cinnteach gu bheil thu airson GCompris fhàgail?"
+
+#: activities/chess/Chess.qml:124
+#, fuzzy
+#| msgctxt "balanceboxeditor|"
+#| msgid "Yes"
+msgctxt "Chess|"
+msgid "Yes"
+msgstr "Tha"
+
+#: activities/chess/Chess.qml:125
+#, fuzzy
+#| msgctxt "balanceboxeditor|"
+#| msgid "No"
+msgctxt "Chess|"
+msgid "No"
+msgstr "Chan eil"
+
 #. Activity title
 #: activities/chess_2players/ActivityInfo.qml:15
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Bargame (with a friend)"
 msgctxt "ActivityInfo|"
-msgid "Play chess against your friend"
-msgstr "Cluich tàileasg an aghaidh caraid"
+msgid "Play chess (with a friend)"
+msgstr "Geama a’ bhàr (còmhla ri caraid)"
 
-#. Help manual
-#: activities/chess_2players/ActivityInfo.qml:24
+#. Help manual Much of this string is shared across the three activities "chess", "chess_partyend", and "chess_2players".
+#: activities/chess_2players/ActivityInfo.qml:25
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
@@ -4868,8 +4954,8 @@ msgctxt "ActivityInfo|"
 msgid "Play the end of the chess game against Tux."
 msgstr "Cluich deireadh a’ gheama tàileisg an aghaidh Tux"
 
-#. Help manual
-#: activities/chess_partyend/ActivityInfo.qml:24
+#. Help manual Much of this string is shared across the three activities "chess", "chess_partyend", and "chess_2players".
+#: activities/chess_partyend/ActivityInfo.qml:25
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
@@ -5974,6 +6060,140 @@ msgstr "A bheil thu airson fàgail an-seo?"
 msgctxt "FindIt|"
 msgid "Continue"
 msgstr "Mòr-thìrean"
+
+#. Activity title
+#: activities/comparator/ActivityInfo.qml:17
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Roman numerals"
+msgctxt "ActivityInfo|"
+msgid "Compare numbers"
+msgstr "Àireamhan Ròmanach"
+
+#. Help title
+#: activities/comparator/ActivityInfo.qml:19
+msgctxt "ActivityInfo|"
+msgid "Compare the numbers and choose the corresponding sign."
+msgstr ""
+
+#. Help goal
+#: activities/comparator/ActivityInfo.qml:22
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn about prime numbers."
+msgctxt "ActivityInfo|"
+msgid "Learn how to compare number values."
+msgstr "Ionnsaich mu phrìomh-àireamhan."
+
+#. Help manual
+#: activities/comparator/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid ""
+"Select a pair of numbers in the list. Then select the correct comparison "
+"symbol for this pair. When each line contains a symbol, select the OK button "
+"to validate the answers."
+msgstr ""
+
+#: activities/comparator/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid ""
+"If some answers are incorrect, a cross icon will appear on the corresponding "
+"lines. Correct the errors, then select the OK button again."
+msgstr ""
+
+#: activities/comparator/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid "Up and Down arrows: select a pair of numbers in the list"
+msgstr ""
+
+#: activities/comparator/ActivityInfo.qml:30
+msgctxt "ActivityInfo|"
+msgid "Left and Right arrows: select a symbol button"
+msgstr ""
+
+#: activities/comparator/ActivityInfo.qml:31
+msgctxt "ActivityInfo|"
+msgid "Space: if a symbol button is selected, enter this symbol"
+msgstr ""
+
+#: activities/comparator/ActivityInfo.qml:32
+msgctxt "ActivityInfo|"
+msgid "Return: validate the answers"
+msgstr ""
+
+#: activities/comparator/ActivityInfo.qml:33
+msgctxt "ActivityInfo|"
+msgid "&lt;, &gt; or =: enter the corresponding symbol"
+msgstr ""
+
+#: activities/comparator/resource/1/Data.qml:36
+#: activities/tens_complement_find/resource/3/Data.qml:9
+#, fuzzy
+#| msgctxt "guessnumber|"
+#| msgid "Number too low"
+msgctxt "Data|"
+msgid "Numbers from 1 to 9."
+msgstr "Tha an àireamh ro ìseal"
+
+#: activities/comparator/resource/10/Data.qml:14
+msgctxt "Data|"
+msgid "3 decimal places between 0 and 999."
+msgstr ""
+
+#: activities/comparator/resource/2/Data.qml:14
+#, fuzzy
+#| msgctxt "guessnumber|"
+#| msgid "Number too low"
+msgctxt "Data|"
+msgid "Numbers from 1 to 19."
+msgstr "Tha an àireamh ro ìseal"
+
+#: activities/comparator/resource/3/Data.qml:14
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Numbers from 1 to 1000 for the last level."
+msgctxt "Data|"
+msgid "Numbers from 1 to 100."
+msgstr "Àireamhan eadar 1 is 1000 airson an leibheil mu dheireadh."
+
+#: activities/comparator/resource/4/Data.qml:14
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Numbers from 1 to 1000 for the last level."
+msgctxt "Data|"
+msgid "Numbers from 1 to 1000."
+msgstr "Àireamhan eadar 1 is 1000 airson an leibheil mu dheireadh."
+
+#: activities/comparator/resource/5/Data.qml:14
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Numbers from 1 to 1000 for the last level."
+msgctxt "Data|"
+msgid "Numbers from 1 to 1000000."
+msgstr "Àireamhan eadar 1 is 1000 airson an leibheil mu dheireadh."
+
+#: activities/comparator/resource/6/Data.qml:14
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Numbers from 1 to 1000 for the last level."
+msgctxt "Data|"
+msgid "Numbers from 1 to 1 billion."
+msgstr "Àireamhan eadar 1 is 1000 airson an leibheil mu dheireadh."
+
+#: activities/comparator/resource/7/Data.qml:14
+msgctxt "Data|"
+msgid "1 decimal place between 0 and 9, same integer part."
+msgstr ""
+
+#: activities/comparator/resource/8/Data.qml:14
+msgctxt "Data|"
+msgid "1 decimal place between 0 and 9."
+msgstr ""
+
+#: activities/comparator/resource/9/Data.qml:14
+msgctxt "Data|"
+msgid "2 decimal places between 0 and 99.99."
+msgstr ""
 
 #. Activity title
 #: activities/crane/ActivityInfo.qml:20
@@ -7294,14 +7514,14 @@ msgid ""
 "animal that matches the text."
 msgstr ""
 
-#: activities/explore_farm_animals/ExploreLevels.qml:323
+#: activities/explore_farm_animals/ExploreLevels.qml:303
 msgctxt "ExploreLevels|"
 msgid ""
 "This activity requires sound, so it will play some sounds even if the audio "
 "voices or effects are disabled in the main configuration."
 msgstr ""
 
-#: activities/explore_farm_animals/ExploreLevels.qml:324
+#: activities/explore_farm_animals/ExploreLevels.qml:304
 #, fuzzy
 #| msgctxt "core|"
 #| msgid "Quit?"
@@ -7309,7 +7529,7 @@ msgctxt "ExploreLevels|"
 msgid "Quit"
 msgstr "A bheil thu airson fàgail an-seo?"
 
-#: activities/explore_farm_animals/ExploreLevels.qml:325
+#: activities/explore_farm_animals/ExploreLevels.qml:305
 #, fuzzy
 #| msgctxt "board1_0|"
 #| msgid "Continents"
@@ -7324,13 +7544,19 @@ msgstr "Each"
 
 #: activities/explore_farm_animals/resource/board/board1.qml:22
 msgctxt "board1|"
-msgid "The horse goes 'neigh! neigh!'. Horses usually sleep standing up."
-msgstr "Nì an t-each “U i o hòmh!” Caidlidh eich nan seasamh mar as trice."
+msgid ""
+"The horse goes 'neigh'. Horses are adapted to run, allowing them to quickly "
+"escape predators, and possess an excellent sense of balance. They have "
+"single-toed hooves."
+msgstr ""
 
 #: activities/explore_farm_animals/resource/board/board1.qml:25
+#, fuzzy
+#| msgctxt "board1|"
+#| msgid "This animal's ancestors were wolves."
 msgctxt "board1|"
-msgid "You can ride on the back of this animal!"
-msgstr "Gabhaidh marcachd air muin a’ bheathaich seo!"
+msgid "This animal has single-toed hooves."
+msgstr "Bhiodh sinnsearan a’ bheathaich seo nam madaidhean-allaidh."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:33
 msgctxt "board1|"
@@ -7340,16 +7566,17 @@ msgstr "Cearc"
 #: activities/explore_farm_animals/resource/board/board1.qml:34
 msgctxt "board1|"
 msgid ""
-"The chicken goes 'luck, cackle, cluck'. Chickens have over 200 different "
-"noises they can use to communicate."
+"The chicken goes 'cluck'. Domestic chickens have wings, but are not capable "
+"of long-distance flight. They have a comb on their head."
 msgstr ""
-"Nì cearc “Gog gog! Gàg gàg!” Tha corr is 200 fuaim eadar-dhealaichte ann as "
-"urrainn do chearc a dhèanamh gus conaltradh."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:37
+#, fuzzy
+#| msgctxt "board1|"
+#| msgid "This animal likes to come out at night."
 msgctxt "board1|"
-msgid "This animal lays eggs."
-msgstr "Beiridh am beathach seo uighean."
+msgid "This animal has a comb on its head."
+msgstr "’S toil leis a’ bheathach seo a bhith air a chois air an oidhche."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:45
 msgctxt "board1|"
@@ -7357,23 +7584,17 @@ msgid "Cow"
 msgstr "Bò"
 
 #: activities/explore_farm_animals/resource/board/board1.qml:46
-#, fuzzy
-#| msgctxt "board1|"
-#| msgid ""
-#| "The cow goes 'moo. moo.'. Cows are herbivorous mammals. They graze all "
-#| "day in the meadow."
 msgctxt "board1|"
 msgid ""
-"The cow goes 'moo! moo!'. Cows are herbivorous mammals. They graze all day "
-"in the meadow."
+"The cow goes 'moo'. Cows have a wide field of view of 330°. They have a well-"
+"developed sense of taste, with around 20,000 taste buds. They can detect "
+"odours 8km away."
 msgstr ""
-"Nì bò “Mò mò!” Ithidh bà feur. Nì iad ionaltradh fad an t-samhraidh air an "
-"àirigh."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:49
 msgctxt "board1|"
-msgid "You can drink the milk this animal produces."
-msgstr "Gabhaidh am bainne a nì am beathach seo òl."
+msgid "This animal has around 20,000 taste buds."
+msgstr ""
 
 #: activities/explore_farm_animals/resource/board/board1.qml:57
 msgctxt "board1|"
@@ -7383,16 +7604,18 @@ msgstr "Cat"
 #: activities/explore_farm_animals/resource/board/board1.qml:58
 msgctxt "board1|"
 msgid ""
-"The cat goes 'meow, meow'. Cats usually hate water because their fur doesn't "
-"stay warm when it is wet."
+"The cat goes 'meow'. Cats are valued by humans for companionship and their "
+"ability to chase mice and other rodents. They purr to communicate various "
+"emotions."
 msgstr ""
-"Nì an cat “Miamh miamh!” Is fuath le cait uisge mar as trice oir nach mair "
-"an gaoisid aca blàth nuair a bhios e fliuch."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:61
+#, fuzzy
+#| msgctxt "board1|"
+#| msgid "This animal lays eggs."
 msgctxt "board1|"
-msgid "This pet likes chasing mice."
-msgstr "’S toil leis a’ pheata seo luchan a shealg."
+msgid "This animal can purr."
+msgstr "Beiridh am beathach seo uighean."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:69
 msgctxt "board1|"
@@ -7401,15 +7624,15 @@ msgstr "Muc"
 
 #: activities/explore_farm_animals/resource/board/board1.qml:70
 msgctxt "board1|"
-msgid "The pig goes 'oink, oink'. Pigs are the 4th most intelligent animal."
+msgid ""
+"The pig goes 'oink'. Pigs wallow in the mud, mainly to control their body "
+"temperature."
 msgstr ""
-"Nì am muc “Gnost gnost!” ’S e an ceathramh beathach as glice a th’ anns a’ "
-"mhuc."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:73
 msgctxt "board1|"
-msgid "This animal likes to lie in the mud."
-msgstr "’S toil leis a’ bheathach seo a bhith na laighe sa pholl."
+msgid "This animal wallows in the mud to control its body temperature."
+msgstr ""
 
 #: activities/explore_farm_animals/resource/board/board1.qml:81
 msgctxt "board1|"
@@ -7419,15 +7642,16 @@ msgstr "Tunnag"
 #: activities/explore_farm_animals/resource/board/board1.qml:82
 msgctxt "board1|"
 msgid ""
-"The duck goes 'quack, quack'. Ducks have special features like webbed feet "
-"and produce an oil to make their feathers 'waterproof'."
+"The duck goes 'quack'. Ducks are mostly aquatic birds. They have waterproof "
+"feathers and webbed feet which enable them to swim on the water."
 msgstr ""
-"Nì an tunnag “Mhàg mhàg!” Tha spògan snàmhach aig tunnagan is nì iad ola ach "
-"an dìon an itean iad on uisge."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:85
+#, fuzzy
+#| msgctxt "board1|"
+#| msgid "This animal has webbed feet so it can swim in the water."
 msgctxt "board1|"
-msgid "This animal has webbed feet so it can swim in the water."
+msgid "This animal has webbed feet and can swim on the water."
 msgstr ""
 "Tha spògan snàmhach air a’ bheathach seo ach an urrainn dha snàmh san uisge."
 
@@ -7437,16 +7661,25 @@ msgid "Owl"
 msgstr "Cailleach-oidhche"
 
 #: activities/explore_farm_animals/resource/board/board1.qml:94
+#, fuzzy
+#| msgctxt "board1|"
+#| msgid ""
+#| "The owl goes 'hoo. hoo.' The owl has excellent vision and hearing at "
+#| "night."
 msgctxt "board1|"
 msgid ""
-"The owl goes 'hoo. hoo.' The owl has excellent vision and hearing at night."
+"The owl goes 'hoot'. Owls are nocturnal birds, they have excellent vision "
+"and hearing at night."
 msgstr ""
 "Nì a’ chailleach-oidhche “Siu-hù! Siu-hù!” Tha fradharc is claisneachd fìor "
 "mhath aig a’ chailleach-oidhche air an oidhche."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:97
+#, fuzzy
+#| msgctxt "board1|"
+#| msgid "This animal likes to come out at night."
 msgctxt "board1|"
-msgid "This animal likes to come out at night."
+msgid "This animal is a nocturnal bird."
 msgstr "’S toil leis a’ bheathach seo a bhith air a chois air an oidhche."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:105
@@ -7457,60 +7690,39 @@ msgstr "Cù"
 #: activities/explore_farm_animals/resource/board/board1.qml:106
 msgctxt "board1|"
 msgid ""
-"The dog goes 'bark! bark!'. Dogs are great human companions and usually "
-"enjoy love and attention."
+"The dog goes 'woof'. Dogs are probably the oldest domesticated species. They "
+"are descendants of the wolf."
 msgstr ""
-"Nì an cù “Af af!” ’S e deagh chàirdean nan daoine a th’ anns na coin is ’s "
-"toil leotha ma bheir thu d’ aire orra."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:109
+#, fuzzy
+#| msgctxt "board1|"
+#| msgid "This animal is a close relative to the goat."
 msgctxt "board1|"
-msgid "This animal's ancestors were wolves."
-msgstr "Bhiodh sinnsearan a’ bheathaich seo nam madaidhean-allaidh."
+msgid "This animal is a descendant of the wolf."
+msgstr "Tha am beathach seo dlùth an dhàimh dhan ghobhar."
 
 #: activities/explore_farm_animals/resource/board/board1.qml:117
-msgctxt "board1|"
-msgid "Rooster"
-msgstr "Coileach"
-
-#: activities/explore_farm_animals/resource/board/board1.qml:118
-msgctxt "board1|"
-msgid ""
-"The rooster goes 'coc-a-doodle-doo!'. Roosters have been on farms for about "
-"5,000 years. Every morning it wakes the farm up with its noises."
-msgstr ""
-"Nì an coileach “Gog-a-bhitheal-ao! Gog-a-ghuidhe-ghaoidhe!”. Tha coilich air "
-"croitean o chionn mu thuaiream 5,000 bliadhna. Dùisgidh an coileach a’ "
-"chroit gach madainn leis na fuaimean a nì e."
-
-#: activities/explore_farm_animals/resource/board/board1.qml:121
-msgctxt "board1|"
-msgid "This animal wakes the farm up in the morning."
-msgstr "Dùisgidh am beathach seo a’ chroit gach madainn."
-
-#: activities/explore_farm_animals/resource/board/board1.qml:129
 msgctxt "board1|"
 msgid "Sheep"
 msgstr "Caora"
 
-#: activities/explore_farm_animals/resource/board/board1.qml:130
+#: activities/explore_farm_animals/resource/board/board1.qml:118
 msgctxt "board1|"
 msgid ""
-"The sheep is a mammal that bears a fleece of wool. It is a grazing "
-"herbivore, bred for its wool, its meat, and its milk. The fleece can be "
-"removed and used to produce articles of clothing and blankets, among other "
-"things."
+"The sheep goes 'baa'. Most sheep breeds bear a fleece of wool. The fleece "
+"can be sheared and used to produce textile fibre."
 msgstr ""
-"Tha a’ chaora əna bheathach air a bheil clòimh. Ithidh e feur agus thathar "
-"’ga cumail airson clòimh, feòil agus bainne. Gabhaidh a’ chlòimh a rùsgadh "
-"dheth agus nithear iomadh rud dheth, mar eisimpleir aodach is plangaidean. "
 
-#: activities/explore_farm_animals/resource/board/board1.qml:133
+#: activities/explore_farm_animals/resource/board/board1.qml:121
+#, fuzzy
+#| msgctxt "board1|"
+#| msgid "This animal's ancestors were wolves."
 msgctxt "board1|"
-msgid "This animal is a close relative to the goat."
-msgstr "Tha am beathach seo dlùth an dhàimh dhan ghobhar."
+msgid "This animal produces wool."
+msgstr "Bhiodh sinnsearan a’ bheathaich seo nam madaidhean-allaidh."
 
-#: activities/explore_farm_animals/resource/board/board1.qml:143
+#: activities/explore_farm_animals/resource/board/board1.qml:131
 #, fuzzy
 #| msgctxt "board1|"
 #| msgid "Click on the farm animal that makes the sound you hear."
@@ -7518,12 +7730,12 @@ msgctxt "board1|"
 msgid "Click on each farm animal to discover them."
 msgstr "Briog air a’ bheathach croite a nì an fhuaim a chluinneas tu."
 
-#: activities/explore_farm_animals/resource/board/board1.qml:146
+#: activities/explore_farm_animals/resource/board/board1.qml:134
 msgctxt "board1|"
 msgid "Click on the farm animal that makes the sound you hear."
 msgstr "Briog air a’ bheathach croite a nì an fhuaim a chluinneas tu."
 
-#: activities/explore_farm_animals/resource/board/board1.qml:149
+#: activities/explore_farm_animals/resource/board/board1.qml:137
 msgctxt "board1|"
 msgid "Click the animal that matches the description."
 msgstr "Briog air a’ bheathach a fhreagras ris an tuairisgeul."
@@ -8795,8 +9007,8 @@ msgstr "Mathan-bàn"
 #| "to a ton and can be as long as 3 meters!"
 msgctxt "board2|"
 msgid ""
-"The polar bear is one of the world's largest predatory mammals. It weights "
-"up to a ton and can be as long as 3 meters!"
+"The polar bear is one of the world's largest predatory mammals. It weighs up "
+"to a ton and can be as long as 3 meters!"
 msgstr ""
 "’S e am mathan-bàn aon dhe na mamailean seilg as motha san t-saoghal. Bidh "
 "cuideam suas ri tunna ann agus bidh e suas ri 3 meatairean a dh’fhaid!"
@@ -9919,6 +10131,459 @@ msgid ""
 "Drag a line from the ball to set its speed and direction, and release it to "
 "kick the ball."
 msgstr "Slaod loidhne on bhàla gus an t-astar is comhair aige a shuidheachadh."
+
+#. Activity title
+#: activities/fractions_create/ActivityInfo.qml:14
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Practice the subtraction operation"
+msgctxt "ActivityInfo|"
+msgid "Create the fractions"
+msgstr "Faigh cleachdadh ann an toirt air falbh"
+
+#. Help title
+#: activities/fractions_create/ActivityInfo.qml:16
+msgctxt "ActivityInfo|"
+msgid "A shape split in equal parts is displayed on screen."
+msgstr ""
+
+#: activities/fractions_create/ActivityInfo.qml:18
+msgctxt "ActivityInfo|"
+msgid ""
+"Select the appropriate number of parts as described in the instructions."
+msgstr ""
+
+#: activities/fractions_create/fractions_create.js:79
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Spatial representation"
+msgctxt "fractions_create|"
+msgid "Find the represented fraction."
+msgstr "Riochdachadh spàsail"
+
+#: activities/fractions_create/resource/1/Data.qml:9
+msgctxt "Data|"
+msgid "Simplified fractions with a pie."
+msgstr ""
+
+#: activities/fractions_create/resource/1/Data.qml:18
+#: activities/fractions_create/resource/3/Data.qml:17
+#: activities/fractions_create/resource/3/Data.qml:23
+#: activities/fractions_create/resource/3/Data.qml:29
+msgctxt "Data|"
+msgid "Select one half of the pie."
+msgstr ""
+
+#: activities/fractions_create/resource/1/Data.qml:24
+#: activities/fractions_create/resource/3/Data.qml:35
+#: activities/fractions_create/resource/3/Data.qml:49
+#, fuzzy
+#| msgctxt "calendar_dataset|"
+#| msgid "Select fifth Thursday of given month"
+msgctxt "Data|"
+msgid "Select one-third of the pie."
+msgstr "Tagh an còigeamh Diardaoin dhen mhìos ud"
+
+#: activities/fractions_create/resource/1/Data.qml:30
+#: activities/fractions_create/resource/3/Data.qml:41
+#: activities/fractions_create/resource/3/Data.qml:55
+#, fuzzy
+#| msgctxt "calendar_dataset|"
+#| msgid "Select fourth Sunday of given month"
+msgctxt "Data|"
+msgid "Select two-thirds of the pie."
+msgstr "Tagh an ceathramh DiDòmhnaich dhen mhìos ud"
+
+#: activities/fractions_create/resource/1/Data.qml:36
+#: activities/fractions_create/resource/3/Data.qml:61
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Select the butterfly of the correct color"
+msgctxt "Data|"
+msgid "Select one-quarter of the pie."
+msgstr "Tagh an dealan-dè air a bheil an an dath ceart"
+
+#: activities/fractions_create/resource/1/Data.qml:42
+#: activities/fractions_create/resource/3/Data.qml:67
+#, fuzzy
+#| msgctxt "calendar_dataset|"
+#| msgid "Select fifth Thursday of given month"
+msgctxt "Data|"
+msgid "Select two-fifths of the pie."
+msgstr "Tagh an còigeamh Diardaoin dhen mhìos ud"
+
+#: activities/fractions_create/resource/1/Data.qml:50
+msgctxt "Data|"
+msgid "Select one pie and one-quarter of a pie."
+msgstr ""
+
+#: activities/fractions_create/resource/1/Data.qml:56
+msgctxt "Data|"
+msgid "Select one pie and two-fifths of a pie."
+msgstr ""
+
+#: activities/fractions_create/resource/1/Data.qml:62
+msgctxt "Data|"
+msgid "Select one pie and one-third of a pie."
+msgstr ""
+
+#: activities/fractions_create/resource/1/Data.qml:68
+msgctxt "Data|"
+msgid "Select one pie and one half of a pie."
+msgstr ""
+
+#: activities/fractions_create/resource/1/Data.qml:74
+msgctxt "Data|"
+msgid "Select one pie and three-quarters of a pie."
+msgstr ""
+
+#: activities/fractions_create/resource/10/Data.qml:9
+msgctxt "Data|"
+msgid "Specific questions with a rectangle."
+msgstr ""
+
+#: activities/fractions_create/resource/10/Data.qml:18
+#: activities/fractions_create/resource/10/Data.qml:24
+msgctxt "Data|"
+msgid ""
+"Select as many parts as you can without taking more than half of the "
+"rectangle."
+msgstr ""
+
+#: activities/fractions_create/resource/2/Data.qml:9
+msgctxt "Data|"
+msgid "Simplified fractions with a rectangle."
+msgstr ""
+
+#: activities/fractions_create/resource/2/Data.qml:18
+#: activities/fractions_create/resource/4/Data.qml:17
+#: activities/fractions_create/resource/4/Data.qml:23
+#: activities/fractions_create/resource/4/Data.qml:29
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Select the butterfly of the correct color"
+msgctxt "Data|"
+msgid "Select one half of the rectangle."
+msgstr "Tagh an dealan-dè air a bheil an an dath ceart"
+
+#: activities/fractions_create/resource/2/Data.qml:24
+#: activities/fractions_create/resource/4/Data.qml:35
+#: activities/fractions_create/resource/4/Data.qml:49
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Select the butterfly of the correct color"
+msgctxt "Data|"
+msgid "Select one-third of the rectangle."
+msgstr "Tagh an dealan-dè air a bheil an an dath ceart"
+
+#: activities/fractions_create/resource/2/Data.qml:30
+#: activities/fractions_create/resource/4/Data.qml:41
+#: activities/fractions_create/resource/4/Data.qml:55
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Select the butterfly of the correct color"
+msgctxt "Data|"
+msgid "Select two-thirds of the rectangle."
+msgstr "Tagh an dealan-dè air a bheil an an dath ceart"
+
+#: activities/fractions_create/resource/2/Data.qml:36
+#: activities/fractions_create/resource/4/Data.qml:61
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Select the butterfly of the correct color"
+msgctxt "Data|"
+msgid "Select one-quarter of the rectangle."
+msgstr "Tagh an dealan-dè air a bheil an an dath ceart"
+
+#: activities/fractions_create/resource/2/Data.qml:42
+#: activities/fractions_create/resource/4/Data.qml:67
+#, fuzzy
+#| msgctxt "calendar_dataset|"
+#| msgid "Select fifth Thursday of given month"
+msgctxt "Data|"
+msgid "Select two-fifths of the rectangle."
+msgstr "Tagh an còigeamh Diardaoin dhen mhìos ud"
+
+#: activities/fractions_create/resource/2/Data.qml:50
+msgctxt "Data|"
+msgid "Select one rectangle and one-quarter of a rectangle."
+msgstr ""
+
+#: activities/fractions_create/resource/2/Data.qml:56
+msgctxt "Data|"
+msgid "Select one rectangle and two-fifths of a rectangle."
+msgstr ""
+
+#: activities/fractions_create/resource/2/Data.qml:62
+msgctxt "Data|"
+msgid "Select one rectangle and one-third of a rectangle."
+msgstr ""
+
+#: activities/fractions_create/resource/2/Data.qml:68
+msgctxt "Data|"
+msgid "Select one rectangle and one half of a rectangle."
+msgstr ""
+
+#: activities/fractions_create/resource/2/Data.qml:74
+msgctxt "Data|"
+msgid "Select one rectangle and three-quarters of a rectangle."
+msgstr ""
+
+#: activities/fractions_create/resource/3/Data.qml:9
+msgctxt "Data|"
+msgid "Non-simplified fractions with a pie."
+msgstr ""
+
+#: activities/fractions_create/resource/3/Data.qml:73
+#, fuzzy
+#| msgctxt "calendar_dataset|"
+#| msgid "Select fifth Thursday of given month"
+msgctxt "Data|"
+msgid "Select three-fifths of the pie."
+msgstr "Tagh an còigeamh Diardaoin dhen mhìos ud"
+
+#: activities/fractions_create/resource/4/Data.qml:9
+msgctxt "Data|"
+msgid "Non-simplified fractions with a rectangle."
+msgstr ""
+
+#: activities/fractions_create/resource/4/Data.qml:73
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Select the butterfly of the correct color"
+msgctxt "Data|"
+msgid "Select three-fifths of the rectangle."
+msgstr "Tagh an dealan-dè air a bheil an an dath ceart"
+
+#: activities/fractions_create/resource/5/Data.qml:9
+#, fuzzy
+#| msgctxt "guessnumber|"
+#| msgid "Number too low"
+msgctxt "Data|"
+msgid "Decimal numbers with a pie."
+msgstr "Tha an àireamh ro ìseal"
+
+#: activities/fractions_create/resource/5/Data.qml:18
+#, fuzzy
+#| msgctxt "Guesscount|"
+#| msgid "Selected"
+msgctxt "Data|"
+msgid "Select 0.5 pie."
+msgstr "Air a thaghadh"
+
+#: activities/fractions_create/resource/5/Data.qml:24
+msgctxt "Data|"
+msgid "Select 0.25 pie."
+msgstr ""
+
+#: activities/fractions_create/resource/5/Data.qml:30
+#, fuzzy
+#| msgctxt "Guesscount|"
+#| msgid "Selected"
+msgctxt "Data|"
+msgid "Select 0.4 pie."
+msgstr "Air a thaghadh"
+
+#: activities/fractions_create/resource/5/Data.qml:36
+msgctxt "Data|"
+msgid "Select 0.75 pie."
+msgstr ""
+
+#: activities/fractions_create/resource/5/Data.qml:42
+#, fuzzy
+#| msgctxt "Guesscount|"
+#| msgid "Selected"
+msgctxt "Data|"
+msgid "Select 0.8 pie."
+msgstr "Air a thaghadh"
+
+#: activities/fractions_create/resource/5/Data.qml:50
+msgctxt "Data|"
+msgid "Select 1.25 pies."
+msgstr ""
+
+#: activities/fractions_create/resource/5/Data.qml:56
+msgctxt "Data|"
+msgid "Select 1.4 pies."
+msgstr ""
+
+#: activities/fractions_create/resource/5/Data.qml:62
+#: activities/fractions_create/resource/5/Data.qml:68
+msgctxt "Data|"
+msgid "Select 1.5 pies."
+msgstr ""
+
+#: activities/fractions_create/resource/5/Data.qml:74
+msgctxt "Data|"
+msgid "Select 1.75 pies."
+msgstr ""
+
+#: activities/fractions_create/resource/6/Data.qml:9
+msgctxt "Data|"
+msgid "Decimal numbers with a rectangle."
+msgstr ""
+
+#: activities/fractions_create/resource/6/Data.qml:18
+#, fuzzy
+#| msgctxt "ClickOnLetter|"
+#| msgid "Select your locale"
+msgctxt "Data|"
+msgid "Select 0.5 rectangle."
+msgstr "Tagh an sgeama ionadail agad"
+
+#: activities/fractions_create/resource/6/Data.qml:24
+msgctxt "Data|"
+msgid "Select 0.25 rectangle."
+msgstr ""
+
+#: activities/fractions_create/resource/6/Data.qml:30
+#, fuzzy
+#| msgctxt "ClickOnLetter|"
+#| msgid "Select your locale"
+msgctxt "Data|"
+msgid "Select 0.4 rectangle."
+msgstr "Tagh an sgeama ionadail agad"
+
+#: activities/fractions_create/resource/6/Data.qml:36
+msgctxt "Data|"
+msgid "Select 0.75 rectangle."
+msgstr ""
+
+#: activities/fractions_create/resource/6/Data.qml:42
+#, fuzzy
+#| msgctxt "ClickOnLetter|"
+#| msgid "Select your locale"
+msgctxt "Data|"
+msgid "Select 0.8 rectangle."
+msgstr "Tagh an sgeama ionadail agad"
+
+#: activities/fractions_create/resource/6/Data.qml:50
+msgctxt "Data|"
+msgid "Select 1.25 rectangles."
+msgstr ""
+
+#: activities/fractions_create/resource/6/Data.qml:56
+msgctxt "Data|"
+msgid "Select 1.4 rectangles."
+msgstr ""
+
+#: activities/fractions_create/resource/6/Data.qml:62
+#: activities/fractions_create/resource/6/Data.qml:68
+msgctxt "Data|"
+msgid "Select 1.5 rectangles."
+msgstr ""
+
+#: activities/fractions_create/resource/6/Data.qml:74
+msgctxt "Data|"
+msgid "Select 1.75 rectangles."
+msgstr ""
+
+#: activities/fractions_create/resource/7/Data.qml:9
+msgctxt "Data|"
+msgid "Percentages with a pie."
+msgstr ""
+
+#. Select %1 percent of the pie.
+#: activities/fractions_create/resource/7/Data.qml:19
+#: activities/fractions_create/resource/7/Data.qml:26
+#: activities/fractions_create/resource/7/Data.qml:33
+#: activities/fractions_create/resource/7/Data.qml:40
+#: activities/fractions_create/resource/7/Data.qml:47
+#: activities/fractions_create/resource/7/Data.qml:56
+#: activities/fractions_create/resource/7/Data.qml:63
+#: activities/fractions_create/resource/7/Data.qml:70
+#, fuzzy, qt-format
+#| msgctxt "calendar_dataset|"
+#| msgid "Select day 1"
+msgctxt "Data|"
+msgid "Select %1% of the pie."
+msgstr "Tagh latha 1"
+
+#: activities/fractions_create/resource/8/Data.qml:9
+msgctxt "Data|"
+msgid "Percentages with a rectangle."
+msgstr ""
+
+#. Select %1 percent of the rectangle.
+#: activities/fractions_create/resource/8/Data.qml:19
+#: activities/fractions_create/resource/8/Data.qml:26
+#: activities/fractions_create/resource/8/Data.qml:33
+#: activities/fractions_create/resource/8/Data.qml:42
+#: activities/fractions_create/resource/8/Data.qml:49
+#: activities/fractions_create/resource/8/Data.qml:56
+#, qt-format
+msgctxt "Data|"
+msgid "Select %1% of the rectangle."
+msgstr ""
+
+#: activities/fractions_create/resource/9/Data.qml:9
+msgctxt "Data|"
+msgid "Specific questions with a pie."
+msgstr ""
+
+#: activities/fractions_create/resource/9/Data.qml:18
+#: activities/fractions_create/resource/9/Data.qml:24
+msgctxt "Data|"
+msgid ""
+"Select as many parts as you can without taking more than half of the pie."
+msgstr ""
+
+#. Activity title
+#: activities/fractions_find/ActivityInfo.qml:14
+#, fuzzy
+#| msgctxt "instruments|"
+#| msgid "Find the accordion"
+msgctxt "ActivityInfo|"
+msgid "Find the fractions"
+msgstr "Lorg am bogsa"
+
+#. Help title
+#: activities/fractions_find/ActivityInfo.qml:16
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Read the task and select the correct date on calendar"
+msgctxt "ActivityInfo|"
+msgid "Find the correct numerator and denominator of the represented fraction."
+msgstr "Leugh dè an t-saothair agus tagh an ceann-là ceart air a’ mhìosachan"
+
+#: activities/fractions_find/resource/1/Data.qml:19
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Nine men's morris (with a friend)"
+msgctxt "Data|"
+msgid "Find denominator (with a pie)."
+msgstr "Muiris naoineir (le caraidh)"
+
+#: activities/fractions_find/resource/2/Data.qml:19
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Nine men's morris (with a friend)"
+msgctxt "Data|"
+msgid "Find denominator (with a rectangle)."
+msgstr "Muiris naoineir (le caraidh)"
+
+#: activities/fractions_find/resource/3/Data.qml:9
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Align four (with a friend)"
+msgctxt "Data|"
+msgid "Find numerator (with a pie)."
+msgstr "Ceithir ann an sreath (cluich le caraid)"
+
+#: activities/fractions_find/resource/4/Data.qml:9
+msgctxt "Data|"
+msgid "Find numerator (with a rectangle)."
+msgstr ""
+
+#: activities/fractions_find/resource/5/Data.qml:9
+msgctxt "Data|"
+msgid "Find numerator and denominator (with a pie)."
+msgstr ""
+
+#: activities/fractions_find/resource/6/Data.qml:9
+msgctxt "Data|"
+msgid "Find numerator and denominator (with a rectangle)."
+msgstr ""
 
 #. Activity title
 #: activities/geo-country/ActivityInfo.qml:19
@@ -11295,6 +11960,143 @@ msgstr ""
 #: activities/geo-country/resource/board/board17_0.qml:52
 msgctxt "board17_0|"
 msgid "Suvalkija"
+msgstr ""
+
+#: activities/geo-country/resource/board/board18_0.qml:13
+msgctxt "board18_0|"
+msgid "Autonomous communities of Spain"
+msgstr ""
+
+#. Autonomous communities of Spain: Andalusia
+#: activities/geo-country/resource/board/board18_0.qml:22
+msgctxt "board18_0|"
+msgid "Andalusia"
+msgstr ""
+
+#. Autonomous communities of Spain: Madrid
+#: activities/geo-country/resource/board/board18_0.qml:29
+msgctxt "board18_0|"
+msgid "Madrid"
+msgstr ""
+
+#. Autonomous communities of Spain: Galicia
+#: activities/geo-country/resource/board/board18_0.qml:36
+msgctxt "board18_0|"
+msgid "Galicia"
+msgstr ""
+
+#. Autonomous communities of Spain: Castile and León
+#: activities/geo-country/resource/board/board18_0.qml:43
+msgctxt "board18_0|"
+msgid "Castile and León"
+msgstr ""
+
+#. Autonomous communities of Spain: Castilla-La Mancha
+#: activities/geo-country/resource/board/board18_0.qml:50
+msgctxt "board18_0|"
+msgid "Castilla-La Mancha"
+msgstr ""
+
+#. Autonomous communities of Spain: Catalonia
+#: activities/geo-country/resource/board/board18_0.qml:57
+#, fuzzy
+#| msgctxt "board10_0|"
+#| msgid "New Caledonia"
+msgctxt "board18_0|"
+msgid "Catalonia"
+msgstr "Cailleann Nuadh"
+
+#. Autonomous communities of Spain: Aragon
+#: activities/geo-country/resource/board/board18_0.qml:64
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Hexagon"
+msgctxt "board18_0|"
+msgid "Aragon"
+msgstr "Sia-cheàrnach"
+
+#. Autonomous communities of Spain: Valencia
+#: activities/geo-country/resource/board/board18_0.qml:71
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Calendar Activity"
+msgctxt "board18_0|"
+msgid "Valencia"
+msgstr "Gnìomhachd mìosachain"
+
+#. Autonomous communities of Spain: Murcia
+#: activities/geo-country/resource/board/board18_0.qml:78
+msgctxt "board18_0|"
+msgid "Murcia"
+msgstr ""
+
+#. Autonomous communities of Spain: Asturias
+#: activities/geo-country/resource/board/board18_0.qml:85
+msgctxt "board18_0|"
+msgid "Asturias"
+msgstr ""
+
+#. Autonomous communities of Spain: Basque Country
+#: activities/geo-country/resource/board/board18_0.qml:92
+msgctxt "board18_0|"
+msgid "Basque Country"
+msgstr ""
+
+#. Autonomous communities of Spain: La Rioja
+#: activities/geo-country/resource/board/board18_0.qml:99
+msgctxt "board18_0|"
+msgid "La Rioja"
+msgstr ""
+
+#. Autonomous communities of Spain: Cantabria
+#: activities/geo-country/resource/board/board18_0.qml:106
+msgctxt "board18_0|"
+msgid "Cantabria"
+msgstr ""
+
+#. Autonomous communities of Spain: Navarre
+#: activities/geo-country/resource/board/board18_0.qml:113
+#, fuzzy
+#| msgctxt "board5|"
+#| msgid "Navajo"
+msgctxt "board18_0|"
+msgid "Navarre"
+msgstr "Navajo"
+
+#. Autonomous communities of Spain: Extremadura
+#: activities/geo-country/resource/board/board18_0.qml:120
+msgctxt "board18_0|"
+msgid "Extremadura"
+msgstr ""
+
+#. Autonomous communities of Spain: Canary Islands
+#: activities/geo-country/resource/board/board18_0.qml:127
+#, fuzzy
+#| msgctxt "board10_0|"
+#| msgid "Marshall Islands"
+msgctxt "board18_0|"
+msgid "Canary Islands"
+msgstr "Eileanan Mharshall"
+
+#. Autonomous communities of Spain: Balearic Islands
+#: activities/geo-country/resource/board/board18_0.qml:134
+#, fuzzy
+#| msgctxt "board10_0|"
+#| msgid "Marshall Islands"
+msgctxt "board18_0|"
+msgid "Balearic Islands"
+msgstr "Eileanan Mharshall"
+
+#. Autonomous communities of Spain: Ceuta
+#: activities/geo-country/resource/board/board18_0.qml:141
+msgctxt "board18_0|"
+msgid "Ceuta"
+msgstr ""
+
+#. Autonomous communities of Spain: Melilla
+#: activities/geo-country/resource/board/board18_0.qml:148
+msgctxt "board18_0|"
+msgid "Melilla"
 msgstr ""
 
 #: activities/geo-country/resource/board/board1_0.qml:15
@@ -13551,47 +14353,52 @@ msgctxt "board5_0|"
 msgid "The Netherlands"
 msgstr "Na Tìrean Ìsle"
 
-#: activities/geography/resource/board/board5_0.qml:80
+#: activities/geography/resource/board/board5_0.qml:73
+msgctxt "board5_0|"
+msgid "Luxembourg"
+msgstr ""
+
+#: activities/geography/resource/board/board5_0.qml:81
 msgctxt "board5_0|"
 msgid "Italy"
 msgstr "An Eadailt"
 
-#: activities/geography/resource/board/board5_0.qml:87
+#: activities/geography/resource/board/board5_0.qml:88
 msgctxt "board5_0|"
 msgid "Ireland"
 msgstr "Èirinn"
 
-#: activities/geography/resource/board/board5_0.qml:94
+#: activities/geography/resource/board/board5_0.qml:95
 msgctxt "board5_0|"
 msgid "Iceland"
 msgstr "Innis Tìle"
 
-#: activities/geography/resource/board/board5_0.qml:101
+#: activities/geography/resource/board/board5_0.qml:102
 msgctxt "board5_0|"
 msgid "Germany"
 msgstr "A’ Ghearmailt"
 
-#: activities/geography/resource/board/board5_0.qml:108
+#: activities/geography/resource/board/board5_0.qml:109
 msgctxt "board5_0|"
 msgid "France"
 msgstr "An Fhraing"
 
-#: activities/geography/resource/board/board5_0.qml:115
+#: activities/geography/resource/board/board5_0.qml:116
 msgctxt "board5_0|"
 msgid "Finland"
 msgstr "An Fhionnlann"
 
-#: activities/geography/resource/board/board5_0.qml:122
+#: activities/geography/resource/board/board5_0.qml:123
 msgctxt "board5_0|"
 msgid "Denmark"
 msgstr "An Danmhairg"
 
-#: activities/geography/resource/board/board5_0.qml:129
+#: activities/geography/resource/board/board5_0.qml:130
 msgctxt "board5_0|"
 msgid "Belgium"
 msgstr "A’ Bheilg"
 
-#: activities/geography/resource/board/board5_0.qml:136
+#: activities/geography/resource/board/board5_0.qml:137
 msgctxt "board5_0|"
 msgid "Austria"
 msgstr "An Ostair"
@@ -13601,62 +14408,67 @@ msgctxt "board6_0|"
 msgid "Eastern Europe"
 msgstr "An Roinn-Eòrpa Earach"
 
-#: activities/geography/resource/board/board6_0.qml:31
+#: activities/geography/resource/board/board6_0.qml:24
+msgctxt "board6_0|"
+msgid "Cyprus"
+msgstr ""
+
+#: activities/geography/resource/board/board6_0.qml:32
 msgctxt "board6_0|"
 msgid "Greece"
 msgstr "A’ Ghreug"
 
-#: activities/geography/resource/board/board6_0.qml:38
+#: activities/geography/resource/board/board6_0.qml:39
 msgctxt "board6_0|"
 msgid "Ukraine"
 msgstr "An Ucràin"
 
-#: activities/geography/resource/board/board6_0.qml:45
+#: activities/geography/resource/board/board6_0.qml:46
 msgctxt "board6_0|"
 msgid "Turkey"
 msgstr "An Tuirc"
 
-#: activities/geography/resource/board/board6_0.qml:53
+#: activities/geography/resource/board/board6_0.qml:54
 msgctxt "board6_0|"
 msgid "Slovenia"
 msgstr "An t-Slòbhain"
 
-#: activities/geography/resource/board/board6_0.qml:60
+#: activities/geography/resource/board/board6_0.qml:61
 msgctxt "board6_0|"
 msgid "Slovak Republic"
 msgstr "Poblachd na Slòbhaice"
 
-#: activities/geography/resource/board/board6_0.qml:67
+#: activities/geography/resource/board/board6_0.qml:68
 msgctxt "board6_0|"
 msgid "Montenegro"
 msgstr "Am Monadh Neagrach"
 
-#: activities/geography/resource/board/board6_0.qml:75
+#: activities/geography/resource/board/board6_0.qml:76
 msgctxt "board6_0|"
 msgid "Serbia"
 msgstr "An t-Sèirb"
 
-#: activities/geography/resource/board/board6_0.qml:82
+#: activities/geography/resource/board/board6_0.qml:83
 msgctxt "board6_0|"
 msgid "Russia"
 msgstr "An Ruis"
 
-#: activities/geography/resource/board/board6_0.qml:89
+#: activities/geography/resource/board/board6_0.qml:90
 msgctxt "board6_0|"
 msgid "Romania"
 msgstr "Romàinia"
 
-#: activities/geography/resource/board/board6_0.qml:96
+#: activities/geography/resource/board/board6_0.qml:97
 msgctxt "board6_0|"
 msgid "Poland"
 msgstr "A’ Phòlainn"
 
-#: activities/geography/resource/board/board6_0.qml:103
+#: activities/geography/resource/board/board6_0.qml:104
 msgctxt "board6_0|"
 msgid "Moldova"
 msgstr "A’ Mholdobha"
 
-#: activities/geography/resource/board/board6_0.qml:110
+#: activities/geography/resource/board/board6_0.qml:111
 #, fuzzy
 #| msgctxt "board6_0|"
 #| msgid "Macedonia"
@@ -13664,52 +14476,52 @@ msgctxt "board6_0|"
 msgid "North Macedonia"
 msgstr "A’ Mhasadon"
 
-#: activities/geography/resource/board/board6_0.qml:118
+#: activities/geography/resource/board/board6_0.qml:119
 msgctxt "board6_0|"
 msgid "Lithuania"
 msgstr "An Liotuain"
 
-#: activities/geography/resource/board/board6_0.qml:125
+#: activities/geography/resource/board/board6_0.qml:126
 msgctxt "board6_0|"
 msgid "Latvia"
 msgstr "An Laitbhe"
 
-#: activities/geography/resource/board/board6_0.qml:132
+#: activities/geography/resource/board/board6_0.qml:133
 msgctxt "board6_0|"
 msgid "Hungary"
 msgstr "An Ungair"
 
-#: activities/geography/resource/board/board6_0.qml:139
+#: activities/geography/resource/board/board6_0.qml:140
 msgctxt "board6_0|"
 msgid "Estonia"
 msgstr "An Eastoin"
 
-#: activities/geography/resource/board/board6_0.qml:146
+#: activities/geography/resource/board/board6_0.qml:147
 msgctxt "board6_0|"
 msgid "Czechia"
 msgstr "An t-Seic"
 
-#: activities/geography/resource/board/board6_0.qml:153
+#: activities/geography/resource/board/board6_0.qml:154
 msgctxt "board6_0|"
 msgid "Croatia"
 msgstr "A’ Chròthais"
 
-#: activities/geography/resource/board/board6_0.qml:160
+#: activities/geography/resource/board/board6_0.qml:161
 msgctxt "board6_0|"
 msgid "Bulgaria"
 msgstr "A’ Bhulgair"
 
-#: activities/geography/resource/board/board6_0.qml:167
+#: activities/geography/resource/board/board6_0.qml:168
 msgctxt "board6_0|"
 msgid "Bosnia Herzegovina"
 msgstr "Bosna is Hearsagobhana"
 
-#: activities/geography/resource/board/board6_0.qml:174
+#: activities/geography/resource/board/board6_0.qml:175
 msgctxt "board6_0|"
 msgid "Belarus"
 msgstr "A’ Bhealaruis"
 
-#: activities/geography/resource/board/board6_0.qml:181
+#: activities/geography/resource/board/board6_0.qml:182
 msgctxt "board6_0|"
 msgid "Albania"
 msgstr "Albàinia"
@@ -14857,23 +15669,23 @@ msgctxt "Admin|"
 msgid "Level %1"
 msgstr "Leibheil %1"
 
-#: activities/guesscount/guesscount.js:133
+#: activities/guesscount/guesscount.js:135
 msgctxt "guesscount|"
 msgid "result is not positive integer"
 msgstr "chan eil an toradh ’na àireamh shlàn dhearbh"
 
-#: activities/guesscount/guesscount.js:135
+#: activities/guesscount/guesscount.js:137
 msgctxt "guesscount|"
 msgid "result is not an integer"
 msgstr "chan eil an toradh ’na àireamh shlàn"
 
-#: activities/guesscount/Guesscount.qml:130
+#: activities/guesscount/Guesscount.qml:131
 #, qt-format
 msgctxt "Guesscount|"
 msgid "%1/%2"
 msgstr "%1/%2"
 
-#: activities/guesscount/Guesscount.qml:164
+#: activities/guesscount/Guesscount.qml:165
 #, qt-format
 msgctxt "Guesscount|"
 msgid "Guesscount: %1"
@@ -14884,7 +15696,7 @@ msgctxt "OperandRow|"
 msgid "Numbers"
 msgstr "Àireamhan"
 
-#: activities/guesscount/OperatorRow.qml:44
+#: activities/guesscount/OperatorRow.qml:42
 msgctxt "OperatorRow|"
 msgid "Operators"
 msgstr "Gnìomharaichean"
@@ -15109,20 +15921,20 @@ msgid ""
 "attempts are remaining."
 msgstr ""
 
-#: activities/hangman/hangman.js:209
+#: activities/hangman/hangman.js:215
 #, qt-format
 msgctxt "hangman|"
 msgid "Attempted: %1"
 msgstr "Oidhirpean: %1"
 
-#: activities/hangman/Hangman.qml:396
+#: activities/hangman/Hangman.qml:400
 msgctxt "Hangman|"
 msgid "We are sorry, we don't have yet a translation for your language."
 msgstr ""
 "Tha sinn duilich ach chan eil eadar-theangachadh againn ’nad chànan aig an "
 "ìre-sa."
 
-#: activities/hangman/Hangman.qml:397
+#: activities/hangman/Hangman.qml:401
 #, qt-format
 msgctxt "Hangman|"
 msgid ""
@@ -15133,7 +15945,7 @@ msgstr ""
 "a chumail ris an obair eadar-theangachaidh ma thèid thu gu <a href=\"%2\">"
 "%2</a>"
 
-#: activities/hangman/Hangman.qml:399
+#: activities/hangman/Hangman.qml:403
 msgctxt "Hangman|"
 msgid ""
 "We switched to English for this activity but you can select another language "
@@ -16596,10 +17408,10 @@ msgstr "Cuir an guth an comas"
 #: activities/learn_digits/ActivityInfo.qml:15
 #, fuzzy
 #| msgctxt "ActivityInfo|"
-#| msgid "Learn addition"
+#| msgid "Count the items"
 msgctxt "ActivityInfo|"
-msgid "Learn digits"
-msgstr "Ionnsaich cur ris"
+msgid "Count and color the circles"
+msgstr "Cunnt na nithean"
 
 #. Help title
 #: activities/learn_digits/ActivityInfo.qml:17
@@ -16824,6 +17636,46 @@ msgstr ""
 #: activities/learn_subtractions/resource/3/Data.qml:14
 msgctxt "Data|"
 msgid "Subtractions with 1, 2, 3, 4 and 5."
+msgstr ""
+
+#: activities/learn_subtractions/resource/4/Data.qml:14
+msgctxt "Data|"
+msgid "Subtractions with 1, 2, 3, 4, 5, 6 and 7."
+msgstr ""
+
+#: activities/learn_subtractions/resource/5/Data.qml:14
+msgctxt "Data|"
+msgid "Subtractions with 1, 2, 3, 4, 5, 6, 7, 8 and 9."
+msgstr ""
+
+#. Activity title
+#: activities/left_right_click/ActivityInfo.qml:14
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Keyboard training"
+msgctxt "ActivityInfo|"
+msgid "Mouse click training"
+msgstr "Cleachdadh a' mheur-chlàir"
+
+#. Help title
+#: activities/left_right_click/ActivityInfo.qml:16
+msgctxt "ActivityInfo|"
+msgid ""
+"Move animals to their homes using a left click or right click on your mouse."
+msgstr ""
+
+#. Help goal
+#: activities/left_right_click/ActivityInfo.qml:19
+msgctxt "ActivityInfo|"
+msgid "Using the mouse. Left and right click training."
+msgstr ""
+
+#. Help manual
+#: activities/left_right_click/ActivityInfo.qml:23
+msgctxt "ActivityInfo|"
+msgid ""
+"A left click on a fish will move it to the pond. A right click on a monkey "
+"will move it to the tree. A message will show if you make the wrong click."
 msgstr ""
 
 #. Activity title
@@ -19382,32 +20234,32 @@ msgctxt "ConfigurationItem|"
 msgid "Language selector"
 msgstr "Roghnaichear a’ chànain"
 
-#: activities/menu/ConfigurationItem.qml:71
+#: activities/menu/ConfigurationItem.qml:70
 msgctxt "ConfigurationItem|"
 msgid "Localized voices"
 msgstr "Guthan ann an cànain eile"
 
-#: activities/menu/ConfigurationItem.qml:88
+#: activities/menu/ConfigurationItem.qml:79
 msgctxt "ConfigurationItem|"
 msgid "Check for updates"
 msgstr "Thoir sùil airson ùrachaidhean"
 
-#: activities/menu/ConfigurationItem.qml:89
+#: activities/menu/ConfigurationItem.qml:80
 msgctxt "ConfigurationItem|"
 msgid "Download"
 msgstr "Luchdaich a-nuas"
 
-#: activities/menu/ConfigurationItem.qml:103
+#: activities/menu/ConfigurationItem.qml:94
 msgctxt "ConfigurationItem|"
 msgid "Enable audio voices"
 msgstr "Cuir an guth an comas"
 
-#: activities/menu/ConfigurationItem.qml:112
+#: activities/menu/ConfigurationItem.qml:103
 msgctxt "ConfigurationItem|"
 msgid "Enable audio effects"
 msgstr "Cuir na fuaimean an comas"
 
-#: activities/menu/ConfigurationItem.qml:121
+#: activities/menu/ConfigurationItem.qml:112
 #, fuzzy
 #| msgctxt "ConfigurationItem|"
 #| msgid "Enable audio effects"
@@ -19415,7 +20267,7 @@ msgctxt "ConfigurationItem|"
 msgid "Audio effects volume"
 msgstr "Cuir na fuaimean an comas"
 
-#: activities/menu/ConfigurationItem.qml:142
+#: activities/menu/ConfigurationItem.qml:133
 #, fuzzy
 #| msgctxt "ConfigurationItem|"
 #| msgid "Enable audio voices"
@@ -19423,7 +20275,7 @@ msgctxt "ConfigurationItem|"
 msgid "Download background music"
 msgstr "Cuir an guth an comas"
 
-#: activities/menu/ConfigurationItem.qml:152
+#: activities/menu/ConfigurationItem.qml:143
 #, fuzzy
 #| msgctxt "ConfigurationItem|"
 #| msgid "Enable audio voices"
@@ -19431,7 +20283,7 @@ msgctxt "ConfigurationItem|"
 msgid "Enable background music"
 msgstr "Cuir an guth an comas"
 
-#: activities/menu/ConfigurationItem.qml:161
+#: activities/menu/ConfigurationItem.qml:152
 #, fuzzy
 #| msgctxt "DownloadDialog|"
 #| msgid "Background"
@@ -19439,23 +20291,23 @@ msgctxt "ConfigurationItem|"
 msgid "Background Music"
 msgstr "Cùlaibh"
 
-#: activities/menu/ConfigurationItem.qml:178
+#: activities/menu/ConfigurationItem.qml:169
 msgctxt "ConfigurationItem|"
 msgid "Not playing"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:180
+#: activities/menu/ConfigurationItem.qml:171
 #, qt-format
 msgctxt "ConfigurationItem|"
 msgid "Title: %1  Artist: %2"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:182
+#: activities/menu/ConfigurationItem.qml:173
 msgctxt "ConfigurationItem|"
 msgid "Introduction music"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:205
+#: activities/menu/ConfigurationItem.qml:196
 #, fuzzy
 #| msgctxt "DownloadDialog|"
 #| msgid "Background"
@@ -19463,29 +20315,29 @@ msgctxt "ConfigurationItem|"
 msgid "Background music volume"
 msgstr "Cùlaibh"
 
-#: activities/menu/ConfigurationItem.qml:223
+#: activities/menu/ConfigurationItem.qml:214
 msgctxt "ConfigurationItem|"
 msgid "Fullscreen"
 msgstr "Làn-sgrìn"
 
-#: activities/menu/ConfigurationItem.qml:233
+#: activities/menu/ConfigurationItem.qml:224
 msgctxt "ConfigurationItem|"
 msgid "Virtual Keyboard"
 msgstr "Meur-chlàr mas-fhìor"
 
-#: activities/menu/ConfigurationItem.qml:243
+#: activities/menu/ConfigurationItem.qml:234
 msgctxt "ConfigurationItem|"
 msgid "Enable automatic downloads/updates of sound files"
 msgstr ""
 "Cuir luchdadh a-nuas/ùrachadh de dh’fhaidhlichean fuaime fèin-obrachail an "
 "comas"
 
-#: activities/menu/ConfigurationItem.qml:255
+#: activities/menu/ConfigurationItem.qml:246
 msgctxt "ConfigurationItem|"
 msgid "Download full word image set"
 msgstr "Luchdaich a-nuas seata slàn de dhealbhan nam faclan"
 
-#: activities/menu/ConfigurationItem.qml:275
+#: activities/menu/ConfigurationItem.qml:266
 #, fuzzy
 #| msgctxt "ConfigurationItem|"
 #| msgid "Use full word image set"
@@ -19493,7 +20345,7 @@ msgctxt "ConfigurationItem|"
 msgid "Full word image set is installed"
 msgstr "Cleach seata slàn de dhealbhan nam faclan"
 
-#: activities/menu/ConfigurationItem.qml:275
+#: activities/menu/ConfigurationItem.qml:266
 #, fuzzy
 #| msgctxt "ConfigurationItem|"
 #| msgid "Use full word image set"
@@ -19501,58 +20353,63 @@ msgctxt "ConfigurationItem|"
 msgid "Full word image set is not installed"
 msgstr "Cleach seata slàn de dhealbhan nam faclan"
 
-#: activities/menu/ConfigurationItem.qml:296
+#: activities/menu/ConfigurationItem.qml:287
 msgctxt "ConfigurationItem|"
 msgid "The activity section menu is visible"
 msgstr "Chithear clàr-taice earrann na gnìomhachd"
 
-#: activities/menu/ConfigurationItem.qml:306
+#: activities/menu/ConfigurationItem.qml:296
+msgctxt "ConfigurationItem|"
+msgid "Ask for confirmation to exit"
+msgstr ""
+
+#: activities/menu/ConfigurationItem.qml:307
 msgctxt "ConfigurationItem|"
 msgid "Font selector"
 msgstr "Roghnaichear a’ chrutha-chlò"
 
-#: activities/menu/ConfigurationItem.qml:311
+#: activities/menu/ConfigurationItem.qml:312
 msgctxt "ConfigurationItem|"
 msgid "Font size"
 msgstr "Meud a’ chrutha-chlò"
 
-#: activities/menu/ConfigurationItem.qml:331
-#: activities/menu/ConfigurationItem.qml:365
+#: activities/menu/ConfigurationItem.qml:332
+#: activities/menu/ConfigurationItem.qml:366
 msgctxt "ConfigurationItem|"
 msgid "Default"
 msgstr "Bun-roghainn"
 
-#: activities/menu/ConfigurationItem.qml:340
+#: activities/menu/ConfigurationItem.qml:341
 msgctxt "ConfigurationItem|"
 msgid "Font Capitalization"
 msgstr "Litrichean mòra sa chruth-chlò"
 
-#: activities/menu/ConfigurationItem.qml:345
+#: activities/menu/ConfigurationItem.qml:346
 msgctxt "ConfigurationItem|"
 msgid "Font letter spacing"
 msgstr "Beàrnadh eadar litrichean sa chruth-chlò"
 
-#: activities/menu/ConfigurationItem.qml:371
+#: activities/menu/ConfigurationItem.qml:372
 msgctxt "ConfigurationItem|"
 msgid "Difficulty filter:"
 msgstr "Criathrag ìre na duilghe:"
 
-#: activities/menu/ConfigurationItem.qml:658
+#: activities/menu/ConfigurationItem.qml:664
 msgctxt "ConfigurationItem|"
 msgid "Mixed case (default)"
 msgstr "Litrichean mòra ’s beaga (bun-roghainn)"
 
-#: activities/menu/ConfigurationItem.qml:659
+#: activities/menu/ConfigurationItem.qml:665
 msgctxt "ConfigurationItem|"
 msgid "All uppercase"
 msgstr "Litrichean mòra a-mhàin"
 
-#: activities/menu/ConfigurationItem.qml:660
+#: activities/menu/ConfigurationItem.qml:666
 msgctxt "ConfigurationItem|"
 msgid "All lowercase"
 msgstr "Litrichean beaga a-mhàin"
 
-#: activities/menu/Menu.qml:82
+#: activities/menu/Menu.qml:85
 #, fuzzy
 #| msgctxt "ConfigurationItem|"
 #| msgid ""
@@ -19567,7 +20424,7 @@ msgstr ""
 "fhaic thu an cànan ùr.<br/>A bheil thu airson na faidhlichean fuaime "
 "iomchaidh a luchdadh a-nuas an-dràsta?"
 
-#: activities/menu/Menu.qml:83
+#: activities/menu/Menu.qml:86
 #, fuzzy
 #| msgctxt "balanceboxeditor|"
 #| msgid "Yes"
@@ -19575,7 +20432,7 @@ msgctxt "Menu|"
 msgid "Yes"
 msgstr "Tha"
 
-#: activities/menu/Menu.qml:89
+#: activities/menu/Menu.qml:92
 #, fuzzy
 #| msgctxt "balanceboxeditor|"
 #| msgid "No"
@@ -19583,37 +20440,37 @@ msgctxt "Menu|"
 msgid "No"
 msgstr "Chan eil"
 
-#: activities/menu/Menu.qml:119
+#: activities/menu/Menu.qml:122
 msgctxt "Menu|"
 msgid "Logic"
 msgstr ""
 
-#: activities/menu/Menu.qml:120
+#: activities/menu/Menu.qml:123
 msgctxt "Menu|"
 msgid "Fine Arts"
 msgstr ""
 
-#: activities/menu/Menu.qml:121
+#: activities/menu/Menu.qml:124
 msgctxt "Menu|"
 msgid "Music"
 msgstr ""
 
-#: activities/menu/Menu.qml:127
+#: activities/menu/Menu.qml:130
 msgctxt "Menu|"
 msgid "Experiment"
 msgstr ""
 
-#: activities/menu/Menu.qml:128
+#: activities/menu/Menu.qml:131
 msgctxt "Menu|"
 msgid "History"
 msgstr ""
 
-#: activities/menu/Menu.qml:129
+#: activities/menu/Menu.qml:132
 msgctxt "Menu|"
 msgid "Geography"
 msgstr ""
 
-#: activities/menu/Menu.qml:139
+#: activities/menu/Menu.qml:142
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Numeration training"
@@ -19621,17 +20478,17 @@ msgctxt "Menu|"
 msgid "Numeration"
 msgstr "Trèanadh nan àireamhan"
 
-#: activities/menu/Menu.qml:140
+#: activities/menu/Menu.qml:143
 msgctxt "Menu|"
 msgid "Arithmetic"
 msgstr ""
 
-#: activities/menu/Menu.qml:141
+#: activities/menu/Menu.qml:144
 msgctxt "Menu|"
 msgid "Measures"
 msgstr ""
 
-#: activities/menu/Menu.qml:151
+#: activities/menu/Menu.qml:154
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Draw Letters"
@@ -19639,12 +20496,12 @@ msgctxt "Menu|"
 msgid "Letters"
 msgstr "Tarraing litrichean"
 
-#: activities/menu/Menu.qml:152
+#: activities/menu/Menu.qml:155
 msgctxt "Menu|"
 msgid "Words"
 msgstr ""
 
-#: activities/menu/Menu.qml:153
+#: activities/menu/Menu.qml:156
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Vocabulary and reading"
@@ -19652,7 +20509,7 @@ msgctxt "Menu|"
 msgid "Vocabulary"
 msgstr "Faclan is leughadh"
 
-#: activities/menu/Menu.qml:366
+#: activities/menu/Menu.qml:372
 #, fuzzy
 #| msgctxt "Menu|"
 #| msgid ""
@@ -19666,12 +20523,12 @@ msgstr ""
 "Cuir na cleasan as fhearr leat an-seo le bhith a’ taghadh na grèine gu h-àrd "
 "sa chleas ud."
 
-#: activities/menu/Menu.qml:759
+#: activities/menu/Menu.qml:774
 msgctxt "Menu|"
 msgid "Search specific activities"
 msgstr "Lorg gnìomhachdan sònraichte"
 
-#: activities/menu/Menu.qml:786
+#: activities/menu/Menu.qml:801
 msgctxt "Menu|"
 msgid "Activity Settings"
 msgstr ""
@@ -20095,6 +20952,184 @@ msgstr ""
 "lèir obrachadh a-mach an toiseach."
 
 #. Activity title
+#: activities/morse_code/ActivityInfo.qml:18
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Discover the Braille system"
+msgctxt "ActivityInfo|"
+msgid "Discover the International Morse code"
+msgstr "Faigh fiosrachadh air Braille"
+
+#. Help title
+#: activities/morse_code/ActivityInfo.qml:20
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn how to tell the time on an analog clock"
+msgctxt "ActivityInfo|"
+msgid "Learn how to communicate with the International Morse code."
+msgstr "Ionnsaich mar a dh’innseas tu an uair air cleoc analogach"
+
+#. Help goal
+#: activities/morse_code/ActivityInfo.qml:23
+msgctxt "ActivityInfo|"
+msgid ""
+"You have to send and receive letters and digits in International Morse code."
+msgstr ""
+
+#. Help prerequisite
+#: activities/morse_code/ActivityInfo.qml:25
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "knowledge of arithmetic operations"
+msgctxt "ActivityInfo|"
+msgid "Knowledge of alphabets and digits."
+msgstr "eòlas air gnìomhan matamataigeach"
+
+#. Help manual
+#: activities/morse_code/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid ""
+"You are either asked to send a message in Morse code or convert the received "
+"Morse code message to letters or digits. To learn the Morse code, you can "
+"have a look at the translation map which contains the code for all the "
+"letters and digits."
+msgstr ""
+
+#: activities/morse_code/FirstScreen.qml:25
+msgctxt "FirstScreen|"
+msgid "Exploring Morse Code"
+msgstr ""
+
+#: activities/morse_code/FirstScreen.qml:64
+msgctxt "FirstScreen|"
+msgid ""
+"Morse code was developed by Samuel Morse. It is a method of transmitting "
+"text information as a series of on-off tones, lights, or clicks."
+msgstr ""
+
+#: activities/morse_code/FirstScreen.qml:65
+msgctxt "FirstScreen|"
+msgid ""
+"Each Morse code symbol represents either a text character (letter or "
+"numeral) or a prosign and is represented by a unique sequence of dots and "
+"dashes. The duration of a dash is three times the duration of a dot. To "
+"increase the speed of the communication, the code was designed so that the "
+"most common letters have the shorter sequences of dots and dashes.\n"
+"For example, the most common letter in English, the letter \"E\", has the "
+"shortest code, a single dot."
+msgstr ""
+
+#: activities/morse_code/FirstScreen.qml:90
+#, fuzzy
+#| msgctxt "FirstScreen|"
+#| msgid ""
+#| "When you are ready, click on me and try reproducing Braille characters."
+msgctxt "FirstScreen|"
+msgid "When you are ready, click on Tux and we will converse in Morse code."
+msgstr ""
+"Nuair a bhios tu deiseil, briog orm is feuch an ath-chruthaich thu na "
+"caractaran Braille."
+
+#: activities/morse_code/MorseCode.qml:346
+#, fuzzy, qt-format
+#| msgctxt "RomanNumerals|"
+#| msgid "Roman value: %1"
+msgctxt "MorseCode|"
+msgid "Morse value: %1"
+msgstr "An luach Ròmanach: %1"
+
+#: activities/morse_code/MorseCode.qml:347
+#, fuzzy, qt-format
+#| msgctxt "RomanNumerals|"
+#| msgid "Arabic value: %1"
+msgctxt "MorseCode|"
+msgid "Alphabet/Numeric value: %1"
+msgstr "An luach Arabach: %1"
+
+#: activities/morse_code/resource/1/Data.qml:13
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Draw Letters"
+msgctxt "Data|"
+msgid "Letters."
+msgstr "Tarraing litrichean"
+
+#: activities/morse_code/resource/1/Data.qml:18
+#: activities/morse_code/resource/1/Data.qml:34
+#: activities/morse_code/resource/1/Data.qml:50
+#: activities/morse_code/resource/1/Data.qml:66
+#: activities/morse_code/resource/2/Data.qml:18
+#: activities/morse_code/resource/2/Data.qml:34
+#: activities/morse_code/resource/3/Data.qml:18
+#, qt-format
+msgctxt "Data|"
+msgid "Send the message %1 in Morse code."
+msgstr ""
+
+#: activities/morse_code/resource/1/Data.qml:23
+#: activities/morse_code/resource/1/Data.qml:39
+#: activities/morse_code/resource/1/Data.qml:55
+#: activities/morse_code/resource/1/Data.qml:71
+#, fuzzy, qt-format
+#| msgctxt "RomanNumerals|"
+#| msgid "Convert the roman number %1 in arabic."
+msgctxt "Data|"
+msgid "Convert the message %1 to letters."
+msgstr "Sgrìobh an àireamh Ròmanach %1 ann an àireamhan Arabach."
+
+#: activities/morse_code/resource/1/Data.qml:28
+#: activities/morse_code/resource/1/Data.qml:44
+#: activities/morse_code/resource/1/Data.qml:60
+#: activities/morse_code/resource/1/Data.qml:76
+#, fuzzy
+#| msgctxt "advanced_colors|"
+#| msgid "Find the corn butterfly"
+msgctxt "Data|"
+msgid "Find the corresponding letter."
+msgstr "Lorg an dealan-dè òr-bhuidhe an arbhair"
+
+#: activities/morse_code/resource/2/Data.qml:13
+msgctxt "Data|"
+msgid "Digits."
+msgstr ""
+
+#: activities/morse_code/resource/2/Data.qml:23
+#: activities/morse_code/resource/2/Data.qml:39
+#, fuzzy, qt-format
+#| msgctxt "RomanNumerals|"
+#| msgid "Convert the roman number %1 in arabic."
+msgctxt "Data|"
+msgid "Convert the message %1 to digits."
+msgstr "Sgrìobh an àireamh Ròmanach %1 ann an àireamhan Arabach."
+
+#: activities/morse_code/resource/2/Data.qml:28
+#: activities/morse_code/resource/2/Data.qml:44
+#, fuzzy
+#| msgctxt "instruments|"
+#| msgid "Find the accordion"
+msgctxt "Data|"
+msgid "Find the corresponding digit."
+msgstr "Lorg am bogsa"
+
+#: activities/morse_code/resource/3/Data.qml:13
+msgctxt "Data|"
+msgid "Words."
+msgstr ""
+
+#: activities/morse_code/resource/3/Data.qml:24
+msgctxt "Data|"
+msgid "Write the Morse code you hear."
+msgstr ""
+
+#: activities/morse_code/resource/3/Data.qml:34
+#, fuzzy
+#| msgctxt "RomanNumerals|"
+#| msgid "Convert the roman number %1 in arabic."
+msgctxt "Data|"
+msgid "Convert the message in a word."
+msgstr "Sgrìobh an àireamh Ròmanach %1 ann an àireamhan Arabach."
+
+#. Activity title
 #: activities/mosaic/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
 msgid "Rebuild the mosaic"
@@ -20182,15 +21217,15 @@ msgstr ""
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
-#| "Play with the computer. First take turns to place nine pieces, and then "
-#| "take turns to move pieces"
+#| "Play with a friend. First take turns to place nine pieces, and then take "
+#| "turns to move pieces"
 msgctxt "ActivityInfo|"
 msgid ""
-"Play with the computer. First take turns to place nine pieces, and then take "
-"turns to move your pieces."
+"Play with Tux. First take turns to place nine pieces, and then take turns to "
+"move your pieces."
 msgstr ""
-"Cluich an aghaidh a’ choimpiutair. Cuir sìos naoidh pìosan an toiseach agus "
-"gluais pìosan an uairsin, neach mu seach."
+"Cluich an aghaidh caraid. Cuir sìos naoidh pìosan an toiseach agus gluais "
+"pìosan an uairsin, neach mu seach."
 
 #: activities/nine_men_morris/nine_men_morris.js:29
 #, fuzzy
@@ -20372,7 +21407,7 @@ msgid "New note: %1"
 msgstr ""
 
 #. The following translation represents percentage.
-#: activities/note_names/NoteNames.qml:269
+#: activities/note_names/NoteNames.qml:263
 #, fuzzy, qt-format
 #| msgctxt "Guesscount|"
 #| msgid "%1/%2"
@@ -20380,14 +21415,14 @@ msgctxt "NoteNames|"
 msgid "%1%"
 msgstr "%1/%2"
 
-#: activities/note_names/NoteNames.qml:461
+#: activities/note_names/NoteNames.qml:453
 msgctxt "NoteNames|"
 msgid ""
 "This activity requires sound, so it will play some sounds even if the audio "
 "voices or effects are disabled in the main configuration."
 msgstr ""
 
-#: activities/note_names/NoteNames.qml:462
+#: activities/note_names/NoteNames.qml:454
 #, fuzzy
 #| msgctxt "core|"
 #| msgid "Quit?"
@@ -20395,7 +21430,7 @@ msgctxt "NoteNames|"
 msgid "Quit"
 msgstr "A bheil thu airson fàgail an-seo?"
 
-#: activities/note_names/NoteNames.qml:463
+#: activities/note_names/NoteNames.qml:455
 #, fuzzy
 #| msgctxt "board1_0|"
 #| msgid "Continents"
@@ -20910,13 +21945,19 @@ msgctxt "Data|"
 msgid "Below 5 words."
 msgstr "Dìreach 5 faclan"
 
-#. These sentences should not need to be translated word by word. Please add several sentences (between 3 and 5), each one being between 3 and 5 words. Use | to separate group of words. The aim of the string is to shuffle the group of words and let the child reorder them correctly.
+#. These sentences should not need to be translated word by word. Please add at least 10 sentences, each one being between 3 and 5 words. Use | to separate group of words. The aim of the string is to shuffle the group of words and let the child reorder them correctly. We should not be able to form a correct sentence by shuffling some words in the final sentence.
 #: activities/ordering_sentences/resource/1/Data.qml:18
 msgctxt "Data|"
 msgid ""
 "The|dog|barks.\n"
 "The|house|is|red.\n"
-"The boy|reads|a book.\n"
+"The|boy|reads|a book.\n"
+"My|friend|is|nice.\n"
+"What|a|beautiful|sight!\n"
+"Steve|jumps|into|the|pool.\n"
+"Jessica|wants|a|new|book.\n"
+"Mom|made|me|a|sandwich.\n"
+"Tigers|live|in|forests.\n"
 "Football|is|a|team|game."
 msgstr ""
 
@@ -20925,12 +21966,20 @@ msgctxt "Data|"
 msgid "Below 10 words."
 msgstr ""
 
-#. These sentences should not need to be translated word by word. Please add several sentences (between 2 and 4), each one being between 6 and 10 words. Use | to separate group of words. The aim of the string is to shuffle the group of words and let the child reorder them correctly.
+#. These sentences should not need to be translated word by word. Please add at least 10 sentences, each one being between 6 and 10 words. Use | to separate group of words. The aim of the string is to shuffle the group of words and let the child reorder them correctly. We should not be able to form a correct sentence by shuffling some words in the final sentence.
 #: activities/ordering_sentences/resource/2/Data.qml:18
 msgctxt "Data|"
 msgid ""
 "The|sun|is|shining|in|the|sky.\n"
-"Kids|enjoy|playing|outside|in|the|evening."
+"Kids|enjoy|playing|outside|in|the|evening.\n"
+"Are|you|going|out|for|lunch?\n"
+"The|girl|tied|her|tennis|shoes|and|went|outside.\n"
+"Sam|felt|sick|after|eating|five|huge|candy|bars.\n"
+"Our|family|takes|a|vacation|to|the|beach|every|year.\n"
+"Uncle|Joe|gave|me|a|red|toy|truck.\n"
+"When|you|finish|your|rice|you|can|eat|dessert.\n"
+"Mom|has|asked|me|to|play|in|the|room.\n"
+"I|think|we|are|going|to|have|a|good|day."
 msgstr ""
 
 #. Activity title
@@ -20939,7 +21988,7 @@ msgstr ""
 #| msgctxt "ActivityInfo|"
 #| msgid "Play chess against Tux"
 msgctxt "ActivityInfo|"
-msgid "Play oware against Tux"
+msgid "Play oware (against Tux)"
 msgstr "Cluich tàileasg an aghaidh Tux"
 
 #. Help title
@@ -21013,7 +22062,7 @@ msgstr ""
 #| msgctxt "ActivityInfo|"
 #| msgid "Bargame (with a friend)"
 msgctxt "ActivityInfo|"
-msgid "Play oware with a friend"
+msgid "Play oware (with a friend)"
 msgstr "Geama a’ bhàr (còmhla ri caraid)"
 
 #. Help title
@@ -21409,7 +22458,7 @@ msgstr ""
 "Thoir sùil air an dà dhealbh gu cùramach. Tha eadar-dhealachaidhean beaga "
 "ann. Nuair a lorgas tu eadar-dhealachadh, feumaidh tu briogadh air."
 
-#: activities/photo_hunter/PhotoHunter.qml:95
+#: activities/photo_hunter/PhotoHunter.qml:94
 #, fuzzy
 #| msgctxt "PhotoHunter|"
 #| msgid "Drag the slider to show the differences!"
@@ -21417,7 +22466,7 @@ msgctxt "PhotoHunter|"
 msgid "Drag the slider to show the differences."
 msgstr "Slaod an sleamhnachan airson an t-eadar-dhealachadh a shealltainn!"
 
-#: activities/photo_hunter/PhotoHunter.qml:96
+#: activities/photo_hunter/PhotoHunter.qml:95
 #, fuzzy
 #| msgctxt "PhotoHunter|"
 #| msgid "Click on the differences between the two images!"
@@ -23394,13 +24443,13 @@ msgstr ""
 "Tha thu eòlach air na riaghailtean a-nis agus is urrainn dhut àireamh sam "
 "bith a sgrìobhadh air nòs nan Ròmanach."
 
-#: activities/roman_numerals/RomanNumerals.qml:382
+#: activities/roman_numerals/RomanNumerals.qml:377
 #, qt-format
 msgctxt "RomanNumerals|"
 msgid "Roman value: %1"
 msgstr "An luach Ròmanach: %1"
 
-#: activities/roman_numerals/RomanNumerals.qml:383
+#: activities/roman_numerals/RomanNumerals.qml:378
 #, qt-format
 msgctxt "RomanNumerals|"
 msgid "Arabic value: %1"
@@ -26261,13 +27310,13 @@ msgctxt "QuizScreen|"
 msgid "%1%"
 msgstr "%1/%2"
 
-#: activities/solar_system/QuizScreen.qml:283
+#: activities/solar_system/QuizScreen.qml:274
 #, qt-format
 msgctxt "QuizScreen|"
 msgid "Your final score is: <font color=\"#3bb0de\">%1%</font>.<br><br>%2"
 msgstr ""
 
-#: activities/solar_system/QuizScreen.qml:283
+#: activities/solar_system/QuizScreen.qml:274
 msgctxt "QuizScreen|"
 msgid ""
 "You should score above 90% to become a Solar System expert!<br>Retry to test "
@@ -26275,7 +27324,7 @@ msgid ""
 "System."
 msgstr ""
 
-#: activities/solar_system/QuizScreen.qml:283
+#: activities/solar_system/QuizScreen.qml:274
 msgctxt "QuizScreen|"
 msgid ""
 "Great! You can replay the assessment to test your knowledge on more "
@@ -26974,6 +28023,202 @@ msgid "Maximum value: 500000."
 msgstr ""
 
 #. Activity title
+#: activities/tens_complement_find/ActivityInfo.qml:14
+#, fuzzy
+#| msgctxt "instruments|"
+#| msgid "Find the trumpet"
+msgctxt "ActivityInfo|"
+msgid "Find ten's complement"
+msgstr "Lorg an trombaid"
+
+#. Help title
+#: activities/tens_complement_find/ActivityInfo.qml:16
+msgctxt "ActivityInfo|"
+msgid "Find the ten's complement of each number."
+msgstr ""
+
+#. Help goal
+#: activities/tens_complement_find/ActivityInfo.qml:19
+msgctxt "ActivityInfo|"
+msgid "Learn to find ten's complement."
+msgstr ""
+
+#. Help prerequisite
+#: activities/tens_complement_find/ActivityInfo.qml:21
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Numbers from 1 to 1000 for the last level."
+msgctxt "ActivityInfo|"
+msgid "Numbers from 1 to 10 and additions."
+msgstr "Àireamhan eadar 1 is 1000 airson an leibheil mu dheireadh."
+
+#: activities/tens_complement_find/ActivityInfo.qml:23
+#: activities/tens_complement_use/ActivityInfo.qml:24
+msgctxt "ActivityInfo|"
+msgid ""
+"When all the lines are completed, press the OK button to validate the "
+"answers. If some answers are incorrect, a cross icon will appear on the "
+"corresponding lines. To correct the errors, click on the wrong numbers to "
+"remove them and repeat the previous steps."
+msgstr ""
+
+#. Help manual
+#: activities/tens_complement_find/ActivityInfo.qml:23
+msgctxt "ActivityInfo|"
+msgid ""
+"Create pairs of numbers equal to ten. Select a number in the list, then "
+"select an empty spot of an operation to move the selected number there."
+msgstr ""
+
+#: activities/tens_complement_find/resource/1/Data.qml:25
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Can count from 1 to 50."
+msgctxt "Data|"
+msgid "First number from 1 to 4."
+msgstr "Comas cunntaidh o aon gu lethcheud."
+
+#: activities/tens_complement_find/resource/2/Data.qml:9
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Can count from 1 to 50."
+msgctxt "Data|"
+msgid "First number from 5 to 9."
+msgstr "Comas cunntaidh o aon gu lethcheud."
+
+#: activities/tens_complement_find/resource/4/Data.qml:9
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Division of numbers"
+msgctxt "Data|"
+msgid "Find both numbers."
+msgstr "Roinneadh de dh’àireamhan"
+
+#. Activity title
+#: activities/tens_complement_swap/ActivityInfo.qml:14
+msgctxt "ActivityInfo|"
+msgid "Swap ten's complement"
+msgstr ""
+
+#. Help title
+#: activities/tens_complement_swap/ActivityInfo.qml:16
+msgctxt "ActivityInfo|"
+msgid "Swap the numbers to create pairs equal to ten."
+msgstr ""
+
+#. Help goal
+#: activities/tens_complement_swap/ActivityInfo.qml:19
+msgctxt "ActivityInfo|"
+msgid ""
+"Learn to use ten's complement to optimize the order of numbers in an "
+"operation."
+msgstr ""
+
+#. Help prerequisite
+#: activities/tens_complement_swap/ActivityInfo.qml:21
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Numbers from 1 to 1000 for the last level."
+msgctxt "ActivityInfo|"
+msgid "Numbers from 1 to 30 and additions."
+msgstr "Àireamhan eadar 1 is 1000 airson an leibheil mu dheireadh."
+
+#. Help manual
+#: activities/tens_complement_swap/ActivityInfo.qml:23
+msgctxt "ActivityInfo|"
+msgid ""
+"Create pairs of numbers equal to ten within each parentheses. Select a "
+"number, then select another number of the same operation to swap their "
+"position. When all the lines are completed, press the OK button to validate "
+"the answers. If some answers are incorrect, a cross icon will appear on the "
+"corresponding lines. Correct the errors, then press the OK button again."
+msgstr ""
+
+#: activities/tens_complement_swap/resource/1/Data.qml:36
+#, fuzzy
+#| msgctxt "Warning|"
+#| msgid "1 is not a prime number."
+msgctxt "Data|"
+msgid "2 pairs to make from 4 numbers."
+msgstr "Chan eil 1 na prìomh-àireamh."
+
+#: activities/tens_complement_swap/resource/2/Data.qml:9
+#, fuzzy
+#| msgctxt "Warning|"
+#| msgid "1 is not a prime number."
+msgctxt "Data|"
+msgid "2 pairs to make from 5 numbers."
+msgstr "Chan eil 1 na prìomh-àireamh."
+
+#: activities/tens_complement_swap/resource/3/Data.qml:9
+#, fuzzy
+#| msgctxt "Warning|"
+#| msgid "1 is not a prime number."
+msgctxt "Data|"
+msgid "3 pairs to make from 6 numbers."
+msgstr "Chan eil 1 na prìomh-àireamh."
+
+#. Activity title
+#: activities/tens_complement_use/ActivityInfo.qml:14
+msgctxt "ActivityInfo|"
+msgid "Use ten's complement"
+msgstr ""
+
+#. Help title
+#: activities/tens_complement_use/ActivityInfo.qml:16
+msgctxt "ActivityInfo|"
+msgid "Use a ten's complement to simplify the operation."
+msgstr ""
+
+#. Help goal
+#: activities/tens_complement_use/ActivityInfo.qml:19
+msgctxt "ActivityInfo|"
+msgid "Learn a practical use of ten's complement."
+msgstr ""
+
+#. Help prerequisite
+#: activities/tens_complement_use/ActivityInfo.qml:21
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Numbers from 1 to 1000 for the last level."
+msgctxt "ActivityInfo|"
+msgid "Numbers from 1 to 50 and additions."
+msgstr "Àireamhan eadar 1 is 1000 airson an leibheil mu dheireadh."
+
+#. Help manual
+#: activities/tens_complement_use/ActivityInfo.qml:23
+msgctxt "ActivityInfo|"
+msgid ""
+"Decompose the additions to create pairs of numbers equal to ten within each "
+"parentheses. Select a number in the list, then select an empty spot of an "
+"operation to move the selected number there."
+msgstr ""
+
+#: activities/tens_complement_use/resource/1/Data.qml:43
+#, fuzzy
+#| msgctxt "guessnumber|"
+#| msgid "Guess a number between 1 and %1"
+msgctxt "Data|"
+msgid "Result between 11 and 19."
+msgstr "Dèan tuairmse air àireamh eadar 1 is %1"
+
+#: activities/tens_complement_use/resource/2/Data.qml:9
+#, fuzzy
+#| msgctxt "guessnumber|"
+#| msgid "Guess a number between 1 and %1"
+msgctxt "Data|"
+msgid "Result between 20 and 29."
+msgstr "Dèan tuairmse air àireamh eadar 1 is %1"
+
+#: activities/tens_complement_use/resource/3/Data.qml:9
+#, fuzzy
+#| msgctxt "guessnumber|"
+#| msgid "Guess a number between 1 and %1"
+msgctxt "Data|"
+msgid "Result between 30 and 50."
+msgstr "Dèan tuairmse air àireamh eadar 1 is %1"
+
+#. Activity title
 #: activities/tic_tac_toe/ActivityInfo.qml:18
 #, fuzzy
 #| msgctxt "ActivityInfo|"
@@ -27013,16 +28258,21 @@ msgstr ""
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
-#| "Play with the computer. Take turns to click on the square which you want "
-#| "to mark. First player to create a line of 3 marks wins"
+#| "Play with a friend. Take turns to click on the square which you want to "
+#| "mark. First player to create a line of 3 marks wins"
 msgctxt "ActivityInfo|"
 msgid ""
-"Play with the computer. Take turns to click on the square which you want to "
-"mark. The first player to create a line of 3 marks wins."
+"Play with Tux. Take turns to click on the square which you want to mark. The "
+"first player to create a line of 3 marks wins."
 msgstr ""
-"Cluich an aghaigh a’ choimpiutair. Dèan briogadh airson comharran a chur air "
-"na ceàrnagan, neach mu seach. Buannaichidh a’ chiad chluicheadair a chuireas "
+"Cluich còmhla ri caraid. Dèan briogadh airson comharran a chur air na "
+"ceàrnagan, neach mu seach. Buannaichidh a’ chiad chluicheadair a chuireas "
 "trì ann an sreath."
+
+#: activities/tic_tac_toe/ActivityInfo.qml:28
+msgctxt "ActivityInfo|"
+msgid "Tux will play better when you increase the level."
+msgstr ""
 
 #. Activity title
 #: activities/tic_tac_toe_2players/ActivityInfo.qml:18
@@ -27310,44 +28560,33 @@ msgstr ""
 
 #: core/ChangeLog.qml:30
 msgctxt "ChangeLog|"
-msgid ""
-"Reduce the size of the packages for all platforms and of the external word "
-"images set"
+msgid "Map of Spain added for geography activity"
 msgstr ""
 
 #: core/ChangeLog.qml:31
 msgctxt "ChangeLog|"
-msgid "Improve images quality in several activities"
+msgid "Voices added for Ukrainian"
 msgstr ""
 
 #: core/ChangeLog.qml:32
 msgctxt "ChangeLog|"
-msgid "Fix some transitions in renewable_energy/watercycle on some platforms"
-msgstr ""
-
-#: core/ChangeLog.qml:33
-msgctxt "ChangeLog|"
-msgid "Fix dead keys ignored on Linux for typing activities"
-msgstr ""
-
-#: core/ChangeLog.qml:34
-msgctxt "ChangeLog|"
-msgid "Fix level reset when changing level manually in Logical associations"
-msgstr ""
-
-#: core/ChangeLog.qml:38
-msgctxt "ChangeLog|"
 msgid ""
-"Fix Alphabet sequence, Even and odd numbers and Numbers in order activities"
+"New command-line option to list all the activities and start on a specific "
+"one"
 msgstr ""
 
-#: core/ChangeLog.qml:42 core/ChangeLog.qml:50
+#: core/ChangeLog.qml:33 core/ChangeLog.qml:68 core/ChangeLog.qml:71
+#: core/ChangeLog.qml:77
+#, fuzzy
+#| msgctxt "ChangeLog|"
+#| msgid "Many little fixes. Lang activity now available in French."
 msgctxt "ChangeLog|"
-msgid "Several bug fixes"
+msgid "Many usability improvements"
 msgstr ""
+"Iomadh càradh beag. Tha cleasan cànain ri fhaighinn san Fhraingis a-nis."
 
-#: core/ChangeLog.qml:43 core/ChangeLog.qml:58 core/ChangeLog.qml:63
-#: core/ChangeLog.qml:69
+#: core/ChangeLog.qml:34 core/ChangeLog.qml:52 core/ChangeLog.qml:67
+#: core/ChangeLog.qml:72 core/ChangeLog.qml:78
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Memory Game with images"
@@ -27355,7 +28594,50 @@ msgctxt "ChangeLog|"
 msgid "Many new images"
 msgstr "Geama cuimhne le dealbhan"
 
-#: core/ChangeLog.qml:44
+#: core/ChangeLog.qml:35 core/ChangeLog.qml:73 core/ChangeLog.qml:79
+msgctxt "ChangeLog|"
+msgid "Many bug fixes"
+msgstr ""
+
+#: core/ChangeLog.qml:39
+msgctxt "ChangeLog|"
+msgid ""
+"Reduce the size of the packages for all platforms and of the external word "
+"images set"
+msgstr ""
+
+#: core/ChangeLog.qml:40
+msgctxt "ChangeLog|"
+msgid "Improve images quality in several activities"
+msgstr ""
+
+#: core/ChangeLog.qml:41
+msgctxt "ChangeLog|"
+msgid "Fix some transitions in renewable_energy/watercycle on some platforms"
+msgstr ""
+
+#: core/ChangeLog.qml:42
+msgctxt "ChangeLog|"
+msgid "Fix dead keys ignored on Linux for typing activities"
+msgstr ""
+
+#: core/ChangeLog.qml:43
+msgctxt "ChangeLog|"
+msgid "Fix level reset when changing level manually in Logical associations"
+msgstr ""
+
+#: core/ChangeLog.qml:47
+msgctxt "ChangeLog|"
+msgid ""
+"Fix Alphabet sequence, Even and odd numbers and Numbers in order activities"
+msgstr ""
+
+#: core/ChangeLog.qml:51 core/ChangeLog.qml:59
+msgctxt "ChangeLog|"
+msgid "Several bug fixes"
+msgstr ""
+
+#: core/ChangeLog.qml:53
 #, fuzzy
 #| msgctxt "ChangeLog|"
 #| msgid "Translations added for: Slovenian, German, Galician."
@@ -27365,12 +28647,12 @@ msgstr ""
 "Eadar-theangachaidhean air an cur ris airson: Slòbhainis, Gearmailtis, "
 "Gailìsis"
 
-#: core/ChangeLog.qml:45
+#: core/ChangeLog.qml:54
 msgctxt "ChangeLog|"
 msgid "New voices for Norwegian Nynorsk"
 msgstr ""
 
-#: core/ChangeLog.qml:49
+#: core/ChangeLog.qml:58
 #, fuzzy
 #| msgctxt "ChangeLog|"
 #| msgid "Translations added for: Slovenian, German, Galician."
@@ -27380,7 +28662,7 @@ msgstr ""
 "Eadar-theangachaidhean air an cur ris airson: Slòbhainis, Gearmailtis, "
 "Gailìsis"
 
-#: core/ChangeLog.qml:54
+#: core/ChangeLog.qml:63
 #, fuzzy
 #| msgctxt "ChangeLog|"
 #| msgid "Translations added for: Slovenian, German, Galician."
@@ -27390,40 +28672,26 @@ msgstr ""
 "Eadar-theangachaidhean air an cur ris airson: Slòbhainis, Gearmailtis, "
 "Gailìsis"
 
-#: core/ChangeLog.qml:55
+#: core/ChangeLog.qml:64
 msgctxt "ChangeLog|"
 msgid "New maps and update of the maps for geography activities"
 msgstr ""
 
-#: core/ChangeLog.qml:56
+#: core/ChangeLog.qml:65
 msgctxt "ChangeLog|"
 msgid ""
 "New dataset containing loops operations for programming maze, and make "
 "tutorial images translated"
 msgstr ""
 
-#: core/ChangeLog.qml:57
+#: core/ChangeLog.qml:66
 msgctxt "ChangeLog|"
 msgid ""
 "Addition of a level to teach voltage source loop in analog electricity "
 "activity"
 msgstr ""
 
-#: core/ChangeLog.qml:59 core/ChangeLog.qml:62 core/ChangeLog.qml:68
-#, fuzzy
-#| msgctxt "ChangeLog|"
-#| msgid "Many little fixes. Lang activity now available in French."
-msgctxt "ChangeLog|"
-msgid "Many usability improvements"
-msgstr ""
-"Iomadh càradh beag. Tha cleasan cànain ri fhaighinn san Fhraingis a-nis."
-
-#: core/ChangeLog.qml:64 core/ChangeLog.qml:70
-msgctxt "ChangeLog|"
-msgid "Many bug fixes"
-msgstr ""
-
-#: core/ChangeLog.qml:67
+#: core/ChangeLog.qml:76
 #, fuzzy
 #| msgctxt "ConfigurationItem|"
 #| msgid "The activity section menu is visible"
@@ -27431,12 +28699,12 @@ msgctxt "ChangeLog|"
 msgid "New Activity Settings menu, with dataset selection"
 msgstr "Chithear clàr-taice earrann na gnìomhachd"
 
-#: core/ChangeLog.qml:73
+#: core/ChangeLog.qml:82
 msgctxt "ChangeLog|"
 msgid "New sub-categories to organize activities"
 msgstr ""
 
-#: core/ChangeLog.qml:74
+#: core/ChangeLog.qml:83
 #, fuzzy
 #| msgctxt "ChangeLog|"
 #| msgid "Translations added for: Slovenian, German, Galician."
@@ -27446,37 +28714,37 @@ msgstr ""
 "Eadar-theangachaidhean air an cur ris airson: Slòbhainis, Gearmailtis, "
 "Gailìsis"
 
-#: core/ChangeLog.qml:75
+#: core/ChangeLog.qml:84
 msgctxt "ChangeLog|"
 msgid "New activities Programming Maze and Baby Tangram"
 msgstr ""
 
-#: core/ChangeLog.qml:76
+#: core/ChangeLog.qml:85
 msgctxt "ChangeLog|"
 msgid "New background music and volume settings."
 msgstr ""
 
-#: core/ChangeLog.qml:77
+#: core/ChangeLog.qml:86
 msgctxt "ChangeLog|"
 msgid "New speed setting in several activities."
 msgstr ""
 
-#: core/ChangeLog.qml:78
+#: core/ChangeLog.qml:87
 msgctxt "ChangeLog|"
 msgid "New option in chess to display captured pieces."
 msgstr ""
 
-#: core/ChangeLog.qml:79
+#: core/ChangeLog.qml:88
 msgctxt "ChangeLog|"
 msgid "New images in Colors, Advanced colors and Target game."
 msgstr ""
 
-#: core/ChangeLog.qml:80
+#: core/ChangeLog.qml:89
 msgctxt "ChangeLog|"
 msgid "New voices for US English."
 msgstr ""
 
-#: core/ChangeLog.qml:81 core/ChangeLog.qml:89
+#: core/ChangeLog.qml:90 core/ChangeLog.qml:98
 #, fuzzy
 #| msgctxt "ChangeLog|"
 #| msgid "Many little fixes. Lang activity now available in French."
@@ -27485,19 +28753,19 @@ msgid "Many little fixes and improvements."
 msgstr ""
 "Iomadh càradh beag. Tha cleasan cànain ri fhaighinn san Fhraingis a-nis."
 
-#: core/ChangeLog.qml:82
+#: core/ChangeLog.qml:91
 msgctxt "ChangeLog|"
 msgid ""
 "Translation updated for multiple languages (Breton, Brazilian Portuguese, "
 "Finnish...)."
 msgstr ""
 
-#: core/ChangeLog.qml:83
+#: core/ChangeLog.qml:92
 msgctxt "ChangeLog|"
 msgid "Add Russian dataset for Click on letter activity."
 msgstr ""
 
-#: core/ChangeLog.qml:84
+#: core/ChangeLog.qml:93
 #, fuzzy
 #| msgctxt "ChangeLog|"
 #| msgid "Many little fixes. Lang activity now available in French."
@@ -27506,19 +28774,19 @@ msgid "Lang activity now available in Dutch."
 msgstr ""
 "Iomadh càradh beag. Tha cleasan cànain ri fhaighinn san Fhraingis a-nis."
 
-#: core/ChangeLog.qml:85
+#: core/ChangeLog.qml:94
 msgctxt "ChangeLog|"
 msgid ""
 "Merge Norwegian counties Nord-Trøndelag and Sør-Trøndelag into Trøndelag in "
 "geo-country activity."
 msgstr ""
 
-#: core/ChangeLog.qml:86
+#: core/ChangeLog.qml:95
 msgctxt "ChangeLog|"
 msgid "Fix in braille activities where the cells start at 1, not 0."
 msgstr ""
 
-#: core/ChangeLog.qml:87
+#: core/ChangeLog.qml:96
 #, fuzzy
 #| msgctxt "ChangeLog|"
 #| msgid "Translations added for: Slovenian, German, Galician."
@@ -27528,14 +28796,14 @@ msgstr ""
 "Eadar-theangachaidhean air an cur ris airson: Slòbhainis, Gearmailtis, "
 "Gailìsis"
 
-#: core/ChangeLog.qml:88
+#: core/ChangeLog.qml:97
 msgctxt "ChangeLog|"
 msgid ""
 "Loading/saving of creations (Baby Wordprocessor, Balance Box and Piano "
 "Composition)."
 msgstr ""
 
-#: core/ChangeLog.qml:89
+#: core/ChangeLog.qml:98
 #, fuzzy
 #| msgctxt "ChangeLog|"
 #| msgid "Translations added for: Slovenian, German, Galician."
@@ -27545,38 +28813,38 @@ msgstr ""
 "Eadar-theangachaidhean air an cur ris airson: Slòbhainis, Gearmailtis, "
 "Gailìsis"
 
-#: core/ChangeLog.qml:90
+#: core/ChangeLog.qml:99
 msgctxt "ChangeLog|"
 msgid "License page added in configuration."
 msgstr ""
 
-#: core/ChangeLog.qml:90
+#: core/ChangeLog.qml:99
 msgctxt "ChangeLog|"
 msgid "Multiple changes on layouts to improve the ergonomy."
 msgstr ""
 
-#: core/ChangeLog.qml:91
+#: core/ChangeLog.qml:100
 msgctxt "ChangeLog|"
 msgid "Lang activity now available in Polish, Swedish and Ukrainian."
 msgstr ""
 "Tha cleasan cànain ri fhaighinn ann am Pòlainnis, Suainis is Ucràinis a-nis."
 
-#: core/ChangeLog.qml:92
+#: core/ChangeLog.qml:101
 msgctxt "ChangeLog|"
 msgid "Search feature."
 msgstr "Gleus an luirg."
 
-#: core/ChangeLog.qml:93
+#: core/ChangeLog.qml:102
 msgctxt "ChangeLog|"
 msgid "A Changelog."
 msgstr "Loga nan atharraichean."
 
-#: core/ChangeLog.qml:94
+#: core/ChangeLog.qml:103
 msgctxt "ChangeLog|"
 msgid "Many little fixes."
 msgstr ""
 
-#: core/ChangeLog.qml:94
+#: core/ChangeLog.qml:103
 #, fuzzy
 #| msgctxt "ChangeLog|"
 #| msgid "Many little fixes. Lang activity now available in French."
@@ -27585,28 +28853,28 @@ msgid "Lang activity now available in French."
 msgstr ""
 "Iomadh càradh beag. Tha cleasan cànain ri fhaighinn san Fhraingis a-nis."
 
-#: core/ChangeLog.qml:95
+#: core/ChangeLog.qml:104
 msgctxt "ChangeLog|"
 msgid ""
 "Adding a loading overlay to let the user know that some actions are taking "
 "place (loading an activity for example) and can take some seconds."
 msgstr ""
 
-#: core/ChangeLog.qml:95
+#: core/ChangeLog.qml:104
 msgctxt "ChangeLog|"
 msgid ""
 "Translations added for: Catalan (Valencian), Chinese Traditional, Finnish "
 "(92% translated), Russian (98% translated), Slovak (92% translated), Turkish."
 msgstr ""
 
-#: core/ChangeLog.qml:96
+#: core/ChangeLog.qml:105
 msgctxt "ChangeLog|"
 msgid "Translations added for: Slovenian, German, Galician."
 msgstr ""
 "Eadar-theangachaidhean air an cur ris airson: Slòbhainis, Gearmailtis, "
 "Gailìsis"
 
-#: core/ChangeLog.qml:121
+#: core/ChangeLog.qml:130
 #, qt-format
 msgctxt "ChangeLog|"
 msgid "Version %1:"
@@ -27680,19 +28948,21 @@ msgctxt "DialogAbout|"
 msgid "translator-credits"
 msgstr "Akerbeltz ⁊ GunChleoc"
 
-#: core/DialogAbout.qml:54
+#: core/DialogAbout.qml:55
 #, qt-format
 msgctxt "DialogAbout|"
 msgid "GCompris %1"
 msgstr "GCompris %1"
 
-#: core/DialogAbout.qml:55
-#, qt-format
+#: core/DialogAbout.qml:57
+#, fuzzy, qt-format
+#| msgctxt "DialogAbout|"
+#| msgid "Based on Qt %1"
 msgctxt "DialogAbout|"
-msgid "Based on Qt %1"
+msgid "Based on Qt %1 and %2"
 msgstr "Stèidhichte air Qt %1"
 
-#: core/DialogAbout.qml:59
+#: core/DialogAbout.qml:61
 #, fuzzy
 #| msgctxt "DialogAbout|"
 #| msgid "GCompris Home Page: http://gcompris.net"
@@ -27701,7 +28971,7 @@ msgid "GCompris Home Page: https://gcompris.net"
 msgstr "Duilleag-dhachaigh GCompris: http://gcompris.net"
 
 #. Replace the link with the page in your language if it exists, else keep the english page link
-#: core/DialogAbout.qml:63
+#: core/DialogAbout.qml:65
 msgctxt "DialogAbout|"
 msgid ""
 "You can provide financial support for the development of <b>GCompris</b>, "
@@ -27709,14 +28979,14 @@ msgid ""
 "net/donate-en.html</a>."
 msgstr ""
 
-#: core/DialogAbout.qml:73
+#: core/DialogAbout.qml:75
 msgctxt "DialogAbout|"
 msgid "<b>GCompris</b> is a Free Software developed within the KDE community."
 msgstr ""
 "Tha <b>GCompris</b> ’na bhathar-bog an-asgaidh a tha ’ga leasachadh am "
 "broinn coimhearsnachd KDE."
 
-#: core/DialogAbout.qml:77
+#: core/DialogAbout.qml:79
 #, qt-format
 msgctxt "DialogAbout|"
 msgid ""
@@ -27731,7 +29001,7 @@ msgid ""
 "and the software we produce."
 msgstr ""
 
-#: core/DialogAbout.qml:94
+#: core/DialogAbout.qml:96
 #, qt-format
 msgctxt "DialogAbout|"
 msgid ""
@@ -27744,7 +29014,7 @@ msgid ""
 "\"Wishlist\"."
 msgstr ""
 
-#: core/DialogAbout.qml:106
+#: core/DialogAbout.qml:108
 #, qt-format
 msgctxt "DialogAbout|"
 msgid ""
@@ -27757,7 +29027,7 @@ msgid ""
 "what you need."
 msgstr ""
 
-#: core/DialogAbout.qml:123
+#: core/DialogAbout.qml:125
 #, qt-format
 msgctxt "DialogAbout|"
 msgid ""
@@ -27773,13 +29043,13 @@ msgid ""
 "><br />Thank you very much in advance for your support."
 msgstr ""
 
-#: core/DialogAbout.qml:140
+#: core/DialogAbout.qml:142
 #, qt-format
 msgctxt "DialogAbout|"
 msgid "<b>A big thanks to the development team:</b> %1"
 msgstr "<b>Mòran taing dhan sgioba leasachaidh:</b> %1"
 
-#: core/DialogAbout.qml:144
+#: core/DialogAbout.qml:146
 #, qt-format
 msgctxt "DialogAbout|"
 msgid "<b>A big thanks to the translation team:</b> %1"
@@ -27975,14 +29245,14 @@ msgctxt "QObject|"
 msgid "Checksum of downloaded file does not match: %1"
 msgstr ""
 
-#: core/GCCreationHandler.qml:135
+#: core/GCCreationHandler.qml:134
 #, qt-format
 msgctxt "GCCreationHandler|"
 msgid "%1 deleted successfully!"
 msgstr ""
 
-#: core/GCCreationHandler.qml:136 core/GCCreationHandler.qml:141
-#: core/GCCreationHandler.qml:182
+#: core/GCCreationHandler.qml:135 core/GCCreationHandler.qml:140
+#: core/GCCreationHandler.qml:181
 #, fuzzy
 #| msgctxt "Balancebox|"
 #| msgid "Ok"
@@ -27990,18 +29260,18 @@ msgctxt "GCCreationHandler|"
 msgid "Ok"
 msgstr "Ceart ma-thà"
 
-#: core/GCCreationHandler.qml:140
+#: core/GCCreationHandler.qml:139
 #, qt-format
 msgctxt "GCCreationHandler|"
 msgid "Unable to delete %1!"
 msgstr ""
 
-#: core/GCCreationHandler.qml:173
+#: core/GCCreationHandler.qml:172
 msgctxt "GCCreationHandler|"
 msgid "A file with this name already exists. Do you want to replace it?"
 msgstr ""
 
-#: core/GCCreationHandler.qml:174
+#: core/GCCreationHandler.qml:173
 #, fuzzy
 #| msgctxt "balanceboxeditor|"
 #| msgid "Yes"
@@ -28009,7 +29279,7 @@ msgctxt "GCCreationHandler|"
 msgid "Yes"
 msgstr "Tha"
 
-#: core/GCCreationHandler.qml:174
+#: core/GCCreationHandler.qml:173
 #, fuzzy
 #| msgctxt "balanceboxeditor|"
 #| msgid "No"
@@ -28017,22 +29287,22 @@ msgctxt "GCCreationHandler|"
 msgid "No"
 msgstr "Chan eil"
 
-#: core/GCCreationHandler.qml:181
+#: core/GCCreationHandler.qml:180
 msgctxt "GCCreationHandler|"
 msgid "Saved successfully!"
 msgstr ""
 
-#: core/GCCreationHandler.qml:203
+#: core/GCCreationHandler.qml:202
 msgctxt "GCCreationHandler|"
 msgid "Enter file name"
 msgstr ""
 
-#: core/GCCreationHandler.qml:203
+#: core/GCCreationHandler.qml:202
 msgctxt "GCCreationHandler|"
 msgid "Search"
 msgstr ""
 
-#: core/GCCreationHandler.qml:222
+#: core/GCCreationHandler.qml:219
 #, fuzzy
 #| msgctxt "BalanceboxEditor|"
 #| msgid "Save"
@@ -28040,12 +29310,12 @@ msgctxt "GCCreationHandler|"
 msgid "Save"
 msgstr "Sàbhail"
 
-#: core/GCCreationHandler.qml:327
+#: core/GCCreationHandler.qml:324
 msgctxt "GCCreationHandler|"
 msgid "Load"
 msgstr ""
 
-#: core/GCCreationHandler.qml:337
+#: core/GCCreationHandler.qml:334
 msgctxt "GCCreationHandler|"
 msgid "Delete"
 msgstr ""
@@ -28127,7 +29397,7 @@ msgstr "Cuir an comas am modh cìtheasg."
 msgctxt "QObject|"
 msgid ""
 "Use software renderer instead of openGL (slower but should run with any "
-"graphical card, needs Qt 5.8 minimum)."
+"graphical card)."
 msgstr ""
 
 #: core/main.cpp:195
@@ -28137,12 +29407,22 @@ msgid ""
 "depending on your graphical card)."
 msgstr ""
 
-#: core/main.qml:228
+#: core/main.cpp:199
+msgctxt "QObject|"
+msgid "Specify the activity when starting GCompris."
+msgstr ""
+
+#: core/main.cpp:204
+msgctxt "QObject|"
+msgid "Outputs all the available activities on the standard output."
+msgstr ""
+
+#: core/main.qml:233
 msgctxt "main|"
 msgid "Voices for your language"
 msgstr ""
 
-#: core/main.qml:229
+#: core/main.qml:234
 #, fuzzy
 #| msgctxt "ConfigurationItem|"
 #| msgid "Use full word image set"
@@ -28150,7 +29430,7 @@ msgctxt "main|"
 msgid "Full word image set"
 msgstr "Cleach seata slàn de dhealbhan nam faclan"
 
-#: core/main.qml:230
+#: core/main.qml:235
 #, fuzzy
 #| msgctxt "DownloadDialog|"
 #| msgid "Background"
@@ -28158,7 +29438,7 @@ msgctxt "main|"
 msgid "Background music"
 msgstr "Cùlaibh"
 
-#: core/main.qml:235
+#: core/main.qml:240
 #, fuzzy
 #| msgctxt "ConfigurationItem|"
 #| msgid "Do you want to download them now?"
@@ -28166,27 +29446,27 @@ msgctxt "main|"
 msgid "Do you want to download the following external assets?"
 msgstr "A bheil thu airson an luchdadh a-nuas an-dràsta?"
 
-#: core/main.qml:241
+#: core/main.qml:245
 msgctxt "main|"
 msgid "Yes"
 msgstr "Tha"
 
-#: core/main.qml:251
+#: core/main.qml:255
 msgctxt "main|"
 msgid "No"
 msgstr "Chan eil"
 
-#: core/main.qml:276
+#: core/main.qml:280
 msgctxt "main|"
 msgid "Welcome to GCompris!"
 msgstr "Fàilte gu GCompris!"
 
-#: core/main.qml:277
+#: core/main.qml:281
 msgctxt "main|"
 msgid "You are running GCompris for the first time."
 msgstr "Seo a’ chiad turas a ruith thu GCompris."
 
-#: core/main.qml:278
+#: core/main.qml:282
 msgctxt "main|"
 msgid ""
 "You should verify that your application settings especially your language is "
@@ -28198,18 +29478,18 @@ msgstr ""
 "chànan ud a stàladh. ’S urrainn dhut sin a dhèanamh ann an còmhradh nan "
 "roghainnean."
 
-#: core/main.qml:280
+#: core/main.qml:284
 msgctxt "main|"
 msgid "Have Fun!"
 msgstr "An dòchas gun còrd e riut!"
 
-#: core/main.qml:282
+#: core/main.qml:286
 #, qt-format
 msgctxt "main|"
 msgid "Your current language is %1 (%2)."
 msgstr "’S e %1 (%2) an cànan làithreach agad."
 
-#: core/main.qml:313
+#: core/main.qml:317
 msgctxt "main|"
 msgid "GCompris has been updated! Here are the new changes:<br/>"
 msgstr "Chaidh GCompris ùrachadh! Seo dhut na tha ùr:<br/>"
@@ -28238,6 +29518,190 @@ msgstr "Gearr leum"
 msgctxt "Tutorial|"
 msgid "Start"
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "ActivityInfo|"
+#~| msgid ""
+#~| "Play with the computer. Take turns to click on the square which you want "
+#~| "to mark. First player to create a line of 3 marks wins"
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "Play with the computer. Take turns to click the line in which you want to "
+#~ "drop a token. The first player to create a line of 4 tokens wins."
+#~ msgstr ""
+#~ "Cluich an aghaigh a’ choimpiutair. Dèan briogadh airson comharran a chur "
+#~ "air na ceàrnagan, neach mu seach. Buannaichidh a’ chiad chluicheadair a "
+#~ "chuireas trì ann an sreath."
+
+#~ msgctxt "Calendar|"
+#~ msgid "Sunday"
+#~ msgstr "DiDòmhnaich"
+
+#~ msgctxt "Calendar|"
+#~ msgid "Monday"
+#~ msgstr "DiLuain"
+
+#~ msgctxt "Calendar|"
+#~ msgid "Tuesday"
+#~ msgstr "DiMàirt"
+
+#~ msgctxt "Calendar|"
+#~ msgid "Wednesday"
+#~ msgstr "DiCiadain"
+
+#~ msgctxt "Calendar|"
+#~ msgid "Thursday"
+#~ msgstr "DiarDaoin"
+
+#~ msgctxt "Calendar|"
+#~ msgid "Friday"
+#~ msgstr "DihAoine"
+
+#~ msgctxt "Calendar|"
+#~ msgid "Saturday"
+#~ msgstr "DiSathairne"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Play checkers against the computer"
+#~ msgstr "Cluich dàmais an aghaidh a’ choimpiutair"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Play chess against your friend"
+#~ msgstr "Cluich tàileasg an aghaidh caraid"
+
+#~ msgctxt "board1|"
+#~ msgid "The horse goes 'neigh! neigh!'. Horses usually sleep standing up."
+#~ msgstr "Nì an t-each “U i o hòmh!” Caidlidh eich nan seasamh mar as trice."
+
+#~ msgctxt "board1|"
+#~ msgid "You can ride on the back of this animal!"
+#~ msgstr "Gabhaidh marcachd air muin a’ bheathaich seo!"
+
+#~ msgctxt "board1|"
+#~ msgid ""
+#~ "The chicken goes 'luck, cackle, cluck'. Chickens have over 200 different "
+#~ "noises they can use to communicate."
+#~ msgstr ""
+#~ "Nì cearc “Gog gog! Gàg gàg!” Tha corr is 200 fuaim eadar-dhealaichte ann "
+#~ "as urrainn do chearc a dhèanamh gus conaltradh."
+
+#, fuzzy
+#~| msgctxt "board1|"
+#~| msgid ""
+#~| "The cow goes 'moo. moo.'. Cows are herbivorous mammals. They graze all "
+#~| "day in the meadow."
+#~ msgctxt "board1|"
+#~ msgid ""
+#~ "The cow goes 'moo! moo!'. Cows are herbivorous mammals. They graze all "
+#~ "day in the meadow."
+#~ msgstr ""
+#~ "Nì bò “Mò mò!” Ithidh bà feur. Nì iad ionaltradh fad an t-samhraidh air "
+#~ "an àirigh."
+
+#~ msgctxt "board1|"
+#~ msgid "You can drink the milk this animal produces."
+#~ msgstr "Gabhaidh am bainne a nì am beathach seo òl."
+
+#~ msgctxt "board1|"
+#~ msgid ""
+#~ "The cat goes 'meow, meow'. Cats usually hate water because their fur "
+#~ "doesn't stay warm when it is wet."
+#~ msgstr ""
+#~ "Nì an cat “Miamh miamh!” Is fuath le cait uisge mar as trice oir nach "
+#~ "mair an gaoisid aca blàth nuair a bhios e fliuch."
+
+#~ msgctxt "board1|"
+#~ msgid "This pet likes chasing mice."
+#~ msgstr "’S toil leis a’ pheata seo luchan a shealg."
+
+#~ msgctxt "board1|"
+#~ msgid "The pig goes 'oink, oink'. Pigs are the 4th most intelligent animal."
+#~ msgstr ""
+#~ "Nì am muc “Gnost gnost!” ’S e an ceathramh beathach as glice a th’ anns "
+#~ "a’ mhuc."
+
+#~ msgctxt "board1|"
+#~ msgid "This animal likes to lie in the mud."
+#~ msgstr "’S toil leis a’ bheathach seo a bhith na laighe sa pholl."
+
+#~ msgctxt "board1|"
+#~ msgid ""
+#~ "The duck goes 'quack, quack'. Ducks have special features like webbed "
+#~ "feet and produce an oil to make their feathers 'waterproof'."
+#~ msgstr ""
+#~ "Nì an tunnag “Mhàg mhàg!” Tha spògan snàmhach aig tunnagan is nì iad ola "
+#~ "ach an dìon an itean iad on uisge."
+
+#~ msgctxt "board1|"
+#~ msgid ""
+#~ "The dog goes 'bark! bark!'. Dogs are great human companions and usually "
+#~ "enjoy love and attention."
+#~ msgstr ""
+#~ "Nì an cù “Af af!” ’S e deagh chàirdean nan daoine a th’ anns na coin is "
+#~ "’s toil leotha ma bheir thu d’ aire orra."
+
+#~ msgctxt "board1|"
+#~ msgid "Rooster"
+#~ msgstr "Coileach"
+
+#~ msgctxt "board1|"
+#~ msgid ""
+#~ "The rooster goes 'coc-a-doodle-doo!'. Roosters have been on farms for "
+#~ "about 5,000 years. Every morning it wakes the farm up with its noises."
+#~ msgstr ""
+#~ "Nì an coileach “Gog-a-bhitheal-ao! Gog-a-ghuidhe-ghaoidhe!”. Tha coilich "
+#~ "air croitean o chionn mu thuaiream 5,000 bliadhna. Dùisgidh an coileach "
+#~ "a’ chroit gach madainn leis na fuaimean a nì e."
+
+#~ msgctxt "board1|"
+#~ msgid "This animal wakes the farm up in the morning."
+#~ msgstr "Dùisgidh am beathach seo a’ chroit gach madainn."
+
+#~ msgctxt "board1|"
+#~ msgid ""
+#~ "The sheep is a mammal that bears a fleece of wool. It is a grazing "
+#~ "herbivore, bred for its wool, its meat, and its milk. The fleece can be "
+#~ "removed and used to produce articles of clothing and blankets, among "
+#~ "other things."
+#~ msgstr ""
+#~ "Tha a’ chaora əna bheathach air a bheil clòimh. Ithidh e feur agus "
+#~ "thathar ’ga cumail airson clòimh, feòil agus bainne. Gabhaidh a’ chlòimh "
+#~ "a rùsgadh dheth agus nithear iomadh rud dheth, mar eisimpleir aodach is "
+#~ "plangaidean. "
+
+#, fuzzy
+#~| msgctxt "ActivityInfo|"
+#~| msgid "Learn addition"
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Learn digits"
+#~ msgstr "Ionnsaich cur ris"
+
+#, fuzzy
+#~| msgctxt "ActivityInfo|"
+#~| msgid ""
+#~| "Play with the computer. First take turns to place nine pieces, and then "
+#~| "take turns to move pieces"
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "Play with the computer. First take turns to place nine pieces, and then "
+#~ "take turns to move your pieces."
+#~ msgstr ""
+#~ "Cluich an aghaidh a’ choimpiutair. Cuir sìos naoidh pìosan an toiseach "
+#~ "agus gluais pìosan an uairsin, neach mu seach."
+
+#, fuzzy
+#~| msgctxt "ActivityInfo|"
+#~| msgid ""
+#~| "Play with the computer. Take turns to click on the square which you want "
+#~| "to mark. First player to create a line of 3 marks wins"
+#~ msgctxt "ActivityInfo|"
+#~ msgid ""
+#~ "Play with the computer. Take turns to click on the square which you want "
+#~ "to mark. The first player to create a line of 3 marks wins."
+#~ msgstr ""
+#~ "Cluich an aghaigh a’ choimpiutair. Dèan briogadh airson comharran a chur "
+#~ "air na ceàrnagan, neach mu seach. Buannaichidh a’ chiad chluicheadair a "
+#~ "chuireas trì ann an sreath."
 
 #~ msgctxt "ActivityInfo|"
 #~ msgid ""
@@ -28947,10 +30411,6 @@ msgstr ""
 #~ msgctxt "Guesscount|"
 #~ msgid "Select your mode"
 #~ msgstr "Tagh modh"
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Numbers from 1 to 1000 for the last level."
-#~ msgstr "Àireamhan eadar 1 is 1000 airson an leibheil mu dheireadh."
 
 #~ msgctxt "guessnumber|"
 #~ msgid "Number found!"
