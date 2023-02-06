@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-01-23 01:05+0000\n"
+"POT-Creation-Date: 2023-02-06 01:08+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -16,16 +16,6 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 "X-Project-Style: kde\n"
 
-#: src/service/files/kactivitymanagerd.desktop:9
-msgctxt "Name"
-msgid "Activity Manager"
-msgstr "Manaidsear nan gnìomhachdan"
-
-#: src/service/files/kactivitymanagerd.desktop:70
-msgctxt "Comment"
-msgid "The activity management backend"
-msgstr "Backend gus na gnìomhachdan a stiùireadh"
-
 #: src/service/plugins/krunner/plasma-runnners-activities.desktop:2
 msgctxt "Name"
 msgid "Activities"
@@ -35,6 +25,14 @@ msgstr "Gnìomhachdan"
 msgctxt "Comment"
 msgid "List and switch between desktop activities"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Activity Manager"
+#~ msgstr "Manaidsear nan gnìomhachdan"
+
+#~ msgctxt "Comment"
+#~ msgid "The activity management backend"
+#~ msgstr "Backend gus na gnìomhachdan a stiùireadh"
 
 #~ msgctxt "Comment"
 #~ msgid "Activity manager plugin"
