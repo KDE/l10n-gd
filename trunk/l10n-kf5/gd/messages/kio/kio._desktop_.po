@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-01-24 01:07+0000\n"
+"POT-Creation-Date: 2023-02-14 01:06+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -64,36 +64,36 @@ msgstr ""
 "Cookies,Browsing,Internet,WWW,Network,Policy,Domains,briosgaidean,criomagan,"
 "brabhsadh,eadar-lìon,lìonra,poileasaidh,àrainnean"
 
-#: src/kcms/netpref/netpref.desktop:14
+#: src/kcms/netpref/netpref.desktop:15
 msgctxt "Name"
 msgid "Connection Preferences"
 msgstr "Roghainnean ceangail"
 
-#: src/kcms/netpref/netpref.desktop:105
+#: src/kcms/netpref/netpref.desktop:106
 msgctxt "Comment"
 msgid "Configure generic network preferences, like timeout values"
 msgstr ""
 "Rèitich roghainnean coitcheann an lìonraidh, can cuin a dh'fhalbhas an ùine "
 "air nithean"
 
-#: src/kcms/netpref/netpref.desktop:196
+#: src/kcms/netpref/netpref.desktop:197
 msgctxt "X-KDE-Keywords"
 msgid "timeout,iopref,netpref,network preferences,ftp"
 msgstr ""
 "timeout,iopref,netpref,network preferences,ftp,ùine,falbh,falbhaidh an ùine,"
 "roghainnean an lìonraidh,lìonra"
 
-#: src/kcms/proxy/proxy.desktop:14
+#: src/kcms/proxy/proxy.desktop:15
 msgctxt "Name"
 msgid "Proxy"
 msgstr "Progsaidh"
 
-#: src/kcms/proxy/proxy.desktop:108
+#: src/kcms/proxy/proxy.desktop:109
 msgctxt "Comment"
 msgid "Configure the proxy servers used"
 msgstr "Rèitich na frithealaichean progsaidh a thèid a chleachdadh"
 
-#: src/kcms/proxy/proxy.desktop:201
+#: src/kcms/proxy/proxy.desktop:202
 msgctxt "X-KDE-Keywords"
 msgid "Proxy,Proxy server,Firewall,Squid"
 msgstr ""
@@ -121,7 +121,7 @@ msgstr ""
 "nàbaidheachd,nàbaidhean,frithealaiche,craoladh,co-roinneadh,clàradh a-steach,"
 "clàraich a-steach,facal-faire,faclan-faire"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:11
+#: src/kcms/webshortcuts/webshortcuts.desktop:12
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "SearchKeywordsFilter"
@@ -129,7 +129,7 @@ msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr "Criathrag nam faclan-luirg"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:63
+#: src/kcms/webshortcuts/webshortcuts.desktop:64
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure web shortcuts"
@@ -137,7 +137,7 @@ msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "Rèitich na h-ath-ghoiridean lìn"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:115
+#: src/kcms/webshortcuts/webshortcuts.desktop:116
 #, fuzzy
 #| msgctxt "X-KDE-Keywords"
 #| msgid ""
