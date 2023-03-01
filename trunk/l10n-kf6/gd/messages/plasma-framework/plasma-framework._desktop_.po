@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-01-19 01:05+0000\n"
+"POT-Creation-Date: 2023-03-01 21:32+0000\n"
 "PO-Revision-Date: 2016-04-29 19:26+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,80 +21,10 @@ msgctxt "Name"
 msgid "Test"
 msgstr "Deuchainn"
 
-#: examples/testcontainmentactionsplugin/plasma-containmentactions-test.desktop:55
+#: examples/testcontainmentactionsplugin/plasma-containmentactions-test.desktop:54
 msgctxt "Comment"
 msgid "A dummy plugin for testing"
 msgstr "Plugan dumaidh a chum deuchainn"
-
-#: src/plasma/data/servicetypes/plasma-applet.desktop:5
-msgctxt "Comment"
-msgid "Plasma applet"
-msgstr "Aplaid Plasma"
-
-#: src/plasma/data/servicetypes/plasma-containmentactions.desktop:5
-msgctxt "Comment"
-msgid "Plasma ContainmentActions"
-msgstr "Plasma ContainmentActions"
-
-#: src/plasma/data/servicetypes/plasma-containment.desktop:5
-msgctxt "Comment"
-msgid "Plasma applet container and background painter"
-msgstr "Soitheach aplaidean agus peantair cùlaibh Plasma"
-
-#: src/plasma/data/servicetypes/plasma-dataengine.desktop:5
-msgctxt "Comment"
-msgid "Plasma Data Engine"
-msgstr "Inneal-dàta Plasma"
-
-#: src/plasma/data/servicetypes/plasma-generic.desktop:4
-msgctxt "Name"
-msgid "Plasma Package"
-msgstr "Pacaid Plasma"
-
-#: src/plasma/data/servicetypes/plasma-generic.desktop:56
-msgctxt "Comment"
-msgid "Generic Plasma Package"
-msgstr "Pacaid choitcheann Plasma"
-
-#: src/plasma/data/servicetypes/plasma-lookandfeel.desktop:4
-msgctxt "Name"
-msgid "Plasma Look and Feel"
-msgstr "Coltas Plasma"
-
-#: src/plasma/data/servicetypes/plasma-lookandfeel.desktop:55
-msgctxt "Comment"
-msgid "Defines the Visual Language for Plasma Shells"
-msgstr "Mìnichidh seo cànan lèirsinneach nam Plasma shells"
-
-#: src/plasma/data/servicetypes/plasma-packagestructure.desktop:4
-msgctxt "Comment"
-msgid "Plasma package structure definition"
-msgstr "Mìneachadh structar pacaidean Plasma"
-
-#: src/plasma/data/servicetypes/plasma-scriptengine.desktop:5
-msgctxt "Comment"
-msgid "Scripting language extension for Plasma"
-msgstr "Leudachan cànan sgriobtaidh airson Plasma"
-
-#: src/plasma/data/servicetypes/plasma-service.desktop:5
-msgctxt "Comment"
-msgid "Plasma service"
-msgstr "Seirbheis Plasma"
-
-#: src/plasma/data/servicetypes/plasma-shell.desktop:4
-msgctxt "Name"
-msgid "Plasma Shell"
-msgstr "Plasma Shell"
-
-#: src/plasma/data/servicetypes/plasma-shell.desktop:55
-msgctxt "Comment"
-msgid "Plasma Shell Components"
-msgstr "Cò-phàirtean Plasma Shell"
-
-#: src/scriptengines/qml/data/plasma-wallpaper.desktop:5
-msgctxt "Comment"
-msgid "Plasma wallpaper"
-msgstr "Pàipear-balla Plasma"
 
 #: templates/cpp-plasmoid/cpp-plasmoid.kdevtemplate:3
 #, fuzzy
@@ -104,7 +34,7 @@ msgctxt "Name"
 msgid "Plasma QML/C++ Applet"
 msgstr "Aplaid Plasma"
 
-#: templates/cpp-plasmoid/cpp-plasmoid.kdevtemplate:48
+#: templates/cpp-plasmoid/cpp-plasmoid.kdevtemplate:47
 msgctxt "Comment"
 msgid ""
 "A Plasma Applet template written in an hybrid mix of QML and C++: a Plasma "
@@ -119,7 +49,7 @@ msgctxt "Name"
 msgid "Simple Plasma Wallpaper"
 msgstr "Pàipear-balla Plasma"
 
-#: templates/plasma-wallpaper/plasma-wallpaper.kdevtemplate:50
+#: templates/plasma-wallpaper/plasma-wallpaper.kdevtemplate:49
 msgctxt "Comment"
 msgid ""
 "Simple Plasma Wallpaper template: a Plasma wallpaper template displaying a "
@@ -134,7 +64,7 @@ msgctxt "Name"
 msgid "Simple Plasma Wallpaper with QML extension"
 msgstr "Aplaid Plasma"
 
-#: templates/plasma-wallpaper-with-qml-extension/plasma-wallpaper-with-qml-extension.kdevtemplate:42
+#: templates/plasma-wallpaper-with-qml-extension/plasma-wallpaper-with-qml-extension.kdevtemplate:41
 msgctxt "Comment"
 msgid ""
 "A Plasma wallpaper which uses custom API provided by an own QML extension "
@@ -149,7 +79,7 @@ msgctxt "Name"
 msgid "Plasma QML Applet"
 msgstr "Aplaid Plasma"
 
-#: templates/qml-plasmoid/qml-plasmoid.kdevtemplate:50
+#: templates/qml-plasmoid/qml-plasmoid.kdevtemplate:49
 msgctxt "Comment"
 msgid ""
 "Plasma QML Applet template: a Plasma applet template displaying a SVG "
@@ -164,12 +94,68 @@ msgctxt "Name"
 msgid "Plasma QML Applet with QML extension"
 msgstr "Aplaid Plasma"
 
-#: templates/qml-plasmoid-with-qml-extension/qml-plasmoid-with-qml-extension.kdevtemplate:45
+#: templates/qml-plasmoid-with-qml-extension/qml-plasmoid-with-qml-extension.kdevtemplate:44
 msgctxt "Comment"
 msgid ""
 "A template for a Plasma applet which uses custom API provided by an own QML "
 "extension plugin"
 msgstr ""
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma applet"
+#~ msgstr "Aplaid Plasma"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma ContainmentActions"
+#~ msgstr "Plasma ContainmentActions"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma applet container and background painter"
+#~ msgstr "Soitheach aplaidean agus peantair cùlaibh Plasma"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma Data Engine"
+#~ msgstr "Inneal-dàta Plasma"
+
+#~ msgctxt "Name"
+#~ msgid "Plasma Package"
+#~ msgstr "Pacaid Plasma"
+
+#~ msgctxt "Comment"
+#~ msgid "Generic Plasma Package"
+#~ msgstr "Pacaid choitcheann Plasma"
+
+#~ msgctxt "Name"
+#~ msgid "Plasma Look and Feel"
+#~ msgstr "Coltas Plasma"
+
+#~ msgctxt "Comment"
+#~ msgid "Defines the Visual Language for Plasma Shells"
+#~ msgstr "Mìnichidh seo cànan lèirsinneach nam Plasma shells"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma package structure definition"
+#~ msgstr "Mìneachadh structar pacaidean Plasma"
+
+#~ msgctxt "Comment"
+#~ msgid "Scripting language extension for Plasma"
+#~ msgstr "Leudachan cànan sgriobtaidh airson Plasma"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma service"
+#~ msgstr "Seirbheis Plasma"
+
+#~ msgctxt "Name"
+#~ msgid "Plasma Shell"
+#~ msgstr "Plasma Shell"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma Shell Components"
+#~ msgstr "Cò-phàirtean Plasma Shell"
+
+#~ msgctxt "Comment"
+#~ msgid "Plasma wallpaper"
+#~ msgstr "Pàipear-balla Plasma"
 
 #~ msgctxt "Comment"
 #~ msgid "Report a bug in Plasma"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-02-18 01:07+0000\n"
+"POT-Creation-Date: 2023-03-01 21:32+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -16,186 +16,55 @@ msgstr ""
 "X-Generator: Virtaal 0.7.1\n"
 "X-Project-Style: kde\n"
 
-#: src/ioslaves/file/kauth/file.actions:2
+#: src/kioworkers/file/kauth/file.actions:2
 msgctxt "Name"
 msgid "Execute action as root."
 msgstr ""
 
-#: src/ioslaves/file/kauth/file.actions:56
+#: src/kioworkers/file/kauth/file.actions:55
 msgctxt "Description"
 msgid "Root privileges are required to complete the action."
 msgstr ""
 
-#: src/ioslaves/trash/kcm_trash.desktop:7 src/ioslaves/trash/kcmtrash.desktop:1
-#: src/ioslaves/trash/kcmtrash.desktop:184
+#: src/kioworkers/trash/kcm_trash.desktop:7
 msgctxt "Name"
 msgid "Trash"
 msgstr "An sgudal"
-
-#: src/ioslaves/trash/kcmtrash.desktop:89
-msgctxt "Comment"
-msgid "This service allows configuration of the trash."
-msgstr "Leigidh an t-seirbheis seo leat an sgudal a rèiteachadh."
-
-#: src/ioslaves/trash/kcmtrash.desktop:272
-msgctxt "Comment"
-msgid "Configure trash settings"
-msgstr "Rèitich roghainnean an sgudail"
-
-#: src/ioslaves/trash/kcmtrash.desktop:358
-msgctxt "X-KDE-Keywords"
-msgid "trash"
-msgstr "An sgudal"
-
-#: src/kcms/cookies/cookies.desktop:14
-msgctxt "Name"
-msgid "Cookies"
-msgstr "Briosgaidean"
-
-#: src/kcms/cookies/cookies.desktop:75
-msgctxt "Comment"
-msgid "Configure the way cookies work"
-msgstr "Rèitich an dòigh a dh'obraicheas briosgaidean"
-
-#: src/kcms/cookies/cookies.desktop:169
-msgctxt "X-KDE-Keywords"
-msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
-msgstr ""
-"Cookies,Browsing,Internet,WWW,Network,Policy,Domains,briosgaidean,criomagan,"
-"brabhsadh,eadar-lìon,lìonra,poileasaidh,àrainnean"
-
-#: src/kcms/netpref/netpref.desktop:15
-msgctxt "Name"
-msgid "Connection Preferences"
-msgstr "Roghainnean ceangail"
-
-#: src/kcms/netpref/netpref.desktop:106
-msgctxt "Comment"
-msgid "Configure generic network preferences, like timeout values"
-msgstr ""
-"Rèitich roghainnean coitcheann an lìonraidh, can cuin a dh'fhalbhas an ùine "
-"air nithean"
-
-#: src/kcms/netpref/netpref.desktop:197
-msgctxt "X-KDE-Keywords"
-msgid "timeout,iopref,netpref,network preferences,ftp"
-msgstr ""
-"timeout,iopref,netpref,network preferences,ftp,ùine,falbh,falbhaidh an ùine,"
-"roghainnean an lìonraidh,lìonra"
-
-#: src/kcms/proxy/proxy.desktop:15
-msgctxt "Name"
-msgid "Proxy"
-msgstr "Progsaidh"
-
-#: src/kcms/proxy/proxy.desktop:109
-msgctxt "Comment"
-msgid "Configure the proxy servers used"
-msgstr "Rèitich na frithealaichean progsaidh a thèid a chleachdadh"
-
-#: src/kcms/proxy/proxy.desktop:202
-msgctxt "X-KDE-Keywords"
-msgid "Proxy,Proxy server,Firewall,Squid"
-msgstr ""
-"Proxy,Proxy server,Firewall,Squid,progsaidh,frithealaiche progsaidh,"
-"cachaileith-theine"
-
-#: src/kcms/smb/smb.desktop:14
-msgctxt "Name"
-msgid "Windows Shares"
-msgstr "Co-roinneadh Windows"
-
-#: src/kcms/smb/smb.desktop:106
-msgctxt "Comment"
-msgid "Credentials used to access SMB shares"
-msgstr ""
-
-#: src/kcms/smb/smb.desktop:164
-msgctxt "X-KDE-Keywords"
-msgid ""
-"SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
-"Broadcast,WINS,Share,Login,Passwords"
-msgstr ""
-"SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
-"Broadcast,WINS,Share,Login,Passwords,cliant SMB,lìonra Windows,lìonra,"
-"nàbaidheachd,nàbaidhean,frithealaiche,craoladh,co-roinneadh,clàradh a-steach,"
-"clàraich a-steach,facal-faire,faclan-faire"
-
-#: src/kcms/webshortcuts/webshortcuts.desktop:12
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "SearchKeywordsFilter"
-msgctxt "Name"
-msgid "Web Search Keywords"
-msgstr "Criathrag nam faclan-luirg"
-
-#: src/kcms/webshortcuts/webshortcuts.desktop:64
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure web shortcuts"
-msgctxt "Comment"
-msgid "Configure web search keywords"
-msgstr "Rèitich na h-ath-ghoiridean lìn"
-
-#: src/kcms/webshortcuts/webshortcuts.desktop:116
-#, fuzzy
-#| msgctxt "X-KDE-Keywords"
-#| msgid ""
-#| "Web Shortcuts,Browsing,WWW,Internet,Internet Filters,Network,Search "
-#| "Engines,Shortcuts"
-msgctxt "X-KDE-Keywords"
-msgid ""
-"Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
-"Internet,Internet Filters,Network,Search Engines,Shortcuts"
-msgstr ""
-"Web Shortcuts,Browsing,WWW,Internet,Internet Filters,Network,Search Engines,"
-"Shortcuts;ath-ghoiridean lìn,Brabhsadh,Eadar-lìn,Criathragan-lìn,Criathragan "
-"eadar-lìn,Lìonra;Lorg;Inneal-luirg;innealan-luirg"
-
-#: src/kioworkers/http/http_cache_cleaner.desktop:3
-msgctxt "Name"
-msgid "HTTP Cache Cleaner"
-msgstr "Glanadair tasgadain HTTP"
-
-#: src/kioworkers/http/http_cache_cleaner.desktop:71
-msgctxt "Comment"
-msgid "Cleans up old entries from the HTTP cache"
-msgstr "Glanaidh seo seann innteartan air falbh on tasgadan HTTP"
 
 #: src/kpac/proxyscout.notifyrc:3
 msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "Rèiteachadh progsaidh an lìonraidh"
 
-#: src/kpac/proxyscout.notifyrc:69
+#: src/kpac/proxyscout.notifyrc:68
 msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "Sgriobt progsaidh mì-dhligheach"
 
-#: src/kpac/proxyscout.notifyrc:134
+#: src/kpac/proxyscout.notifyrc:132
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr ""
 "Chan eil sgriobt rèiteachaidh a' phrogsaidh a chaidh a luchdadh a-nuas "
 "dligheach"
 
-#: src/kpac/proxyscout.notifyrc:203
+#: src/kpac/proxyscout.notifyrc:200
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr "Mearachd le luchdadh a-nuas an sgriobt"
 
-#: src/kpac/proxyscout.notifyrc:268
+#: src/kpac/proxyscout.notifyrc:264
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr ""
 "Cha b' urrainn dhuinn sgriobt rèiteachadh a' phrogsaidh a luchdadh a-naus"
 
-#: src/kpac/proxyscout.notifyrc:338
+#: src/kpac/proxyscout.notifyrc:333
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "Mearachd le measadh an sgriobt"
 
-#: src/kpac/proxyscout.notifyrc:402
+#: src/kpac/proxyscout.notifyrc:396
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "Thachair mearachd le gnìomhachadh sgriobt rèiteachadh a' phrogsaidh"
@@ -218,7 +87,7 @@ msgctxt "Name"
 msgid "Empty File..."
 msgstr "Faidhle teacsa..."
 
-#: src/new_file_templates/EmptyFile.desktop:45
+#: src/new_file_templates/EmptyFile.desktop:44
 #: src/new_file_templates/TextFile.desktop:92
 msgctxt "Comment"
 msgid "Enter text filename:"
@@ -242,7 +111,7 @@ msgctxt "Name"
 msgid "Link to File or Directory..."
 msgstr "Ceangal bunasach gun fhaidhle no pasgan..."
 
-#: src/new_file_templates/linkPath.desktop:52
+#: src/new_file_templates/linkPath.desktop:51
 msgctxt "Comment"
 msgid "File or directory to link to:"
 msgstr ""
@@ -272,15 +141,10 @@ msgctxt "Name"
 msgid "Text File..."
 msgstr "Faidhle teacsa..."
 
-#: src/schemehandlers/telnet/ktelnetservice5.desktop:9
+#: src/schemehandlers/telnet/ktelnetservice6.desktop:9
 msgctxt "Name"
 msgid "KTelnetService"
 msgstr "KTelnetService"
-
-#: src/urifilters/ikws/searchprovider.desktop:4
-msgctxt "Comment"
-msgid "Search Engine"
-msgstr "Inneal luirg"
 
 #: src/urifilters/ikws/searchproviders/7digital.desktop:5
 msgctxt "Name"
@@ -368,7 +232,7 @@ msgctxt "Name"
 msgid "Arch Linux Package Search"
 msgstr "Lorg pacaidean Arch Linux"
 
-#: src/urifilters/ikws/searchproviders/archpkg.desktop:60
+#: src/urifilters/ikws/searchproviders/archpkg.desktop:59
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.archlinux.org/packages/?q=\\\\{@}"
@@ -384,7 +248,7 @@ msgctxt "Name"
 msgid "ArchWiki"
 msgstr "Wikia"
 
-#: src/urifilters/ikws/searchproviders/archwiki.desktop:53
+#: src/urifilters/ikws/searchproviders/archwiki.desktop:52
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.archlinux.org/packages/?q=\\\\{@}"
@@ -467,7 +331,7 @@ msgctxt "Name"
 msgid "KDE Bugs"
 msgstr "Bòrd-brath KDE"
 
-#: src/urifilters/ikws/searchproviders/bug.desktop:53
+#: src/urifilters/ikws/searchproviders/bug.desktop:52
 msgctxt "Query"
 msgid "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
 msgstr "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
@@ -538,7 +402,7 @@ msgctxt "Name"
 msgid "CPlusPlus"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/cplusplus.desktop:47
+#: src/urifilters/ikws/searchproviders/cplusplus.desktop:46
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://freecode.com/search?q=\\\\{@}"
@@ -554,7 +418,7 @@ msgctxt "Name"
 msgid "CPP Reference"
 msgstr "Python Reference Manual"
 
-#: src/urifilters/ikws/searchproviders/cppreference.desktop:46
+#: src/urifilters/ikws/searchproviders/cppreference.desktop:45
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://freecode.com/search?q=\\\\{@}"
@@ -648,7 +512,7 @@ msgctxt "Name"
 msgid "DeepL"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/deepl.desktop:53
+#: src/urifilters/ikws/searchproviders/deepl.desktop:52
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
@@ -829,7 +693,7 @@ msgctxt "Name"
 msgid "Flatpak Documentation"
 msgstr "Docamaideadh Qt4"
 
-#: src/urifilters/ikws/searchproviders/flatpak.desktop:47
+#: src/urifilters/ikws/searchproviders/flatpak.desktop:46
 msgctxt "Query"
 msgid ""
 "https://docs.flatpak.org/en/latest/search.html?q=\\\\{@}"
@@ -895,7 +759,7 @@ msgctxt "Name"
 msgid "Freecode"
 msgstr "Freecode"
 
-#: src/urifilters/ikws/searchproviders/freecode.desktop:68
+#: src/urifilters/ikws/searchproviders/freecode.desktop:67
 msgctxt "Query"
 msgid "http://freecode.com/search?q=\\\\{@}"
 msgstr "http://freecode.com/search?q=\\\\{@}"
@@ -938,7 +802,7 @@ msgctxt "Name"
 msgid "GitLab"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/gitlab.desktop:58
+#: src/urifilters/ikws/searchproviders/gitlab.desktop:57
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"
@@ -1060,7 +924,7 @@ msgctxt "Name"
 msgid "Google Shopping"
 msgstr "Google Shopping"
 
-#: src/urifilters/ikws/searchproviders/google_shopping.desktop:68
+#: src/urifilters/ikws/searchproviders/google_shopping.desktop:67
 msgctxt "Query"
 msgid "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
 msgstr "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
@@ -1143,7 +1007,7 @@ msgctxt "Name"
 msgid "KDE Invent"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/invent.desktop:49
+#: src/urifilters/ikws/searchproviders/invent.desktop:48
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"
@@ -1156,7 +1020,7 @@ msgctxt "Name"
 msgid "KDE Invent Issues"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/invent_issues.desktop:45
+#: src/urifilters/ikws/searchproviders/invent_issues.desktop:44
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"
@@ -1169,7 +1033,7 @@ msgctxt "Name"
 msgid "KDE Invent Merge Requests"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/invent_mr.desktop:44
+#: src/urifilters/ikws/searchproviders/invent_mr.desktop:43
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"
@@ -1182,7 +1046,7 @@ msgctxt "Name"
 msgid "KDE Invent Repositories"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/invent_repo.desktop:49
+#: src/urifilters/ikws/searchproviders/invent_repo.desktop:48
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://projects.kde.org/search?projects=1&q=\\\\{@}"
@@ -1284,7 +1148,7 @@ msgctxt "Name"
 msgid "KDE Store"
 msgstr "Bòrd-brath KDE"
 
-#: src/urifilters/ikws/searchproviders/kde_store.desktop:47
+#: src/urifilters/ikws/searchproviders/kde_store.desktop:46
 #, fuzzy
 #| msgctxt "Query"
 #| msgid ""
@@ -1298,7 +1162,7 @@ msgctxt "Name"
 msgid "KDE TechBase"
 msgstr "KDE TechBase"
 
-#: src/urifilters/ikws/searchproviders/kde_techbase.desktop:81
+#: src/urifilters/ikws/searchproviders/kde_techbase.desktop:80
 #, fuzzy
 #| msgctxt "Query"
 #| msgid ""
@@ -1326,7 +1190,7 @@ msgctxt "Name"
 msgid "KDE Reddit"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/kreddit.desktop:47
+#: src/urifilters/ikws/searchproviders/kreddit.desktop:46
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.bing.com/search?q=\\\\{@}"
@@ -1339,7 +1203,7 @@ msgctxt "Name"
 msgid "Krita Manual"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/krita.desktop:48
+#: src/urifilters/ikws/searchproviders/krita.desktop:47
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://identi.ca/search/group?q=\\\\{@}"
@@ -1352,7 +1216,7 @@ msgctxt "Name"
 msgid "Learn CPP"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/learncpp.desktop:47
+#: src/urifilters/ikws/searchproviders/learncpp.desktop:46
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.flickr.com/search/?q=\\\\{@}"
@@ -1378,7 +1242,7 @@ msgctxt "Name"
 msgid "Linguee"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/linguee.desktop:47
+#: src/urifilters/ikws/searchproviders/linguee.desktop:46
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.bing.com/search?q=\\\\{@}"
@@ -1421,7 +1285,7 @@ msgctxt "Name"
 msgid "Microsoft C++ Documentation"
 msgstr "Docamaideadh Qt4"
 
-#: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:46
+#: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:45
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://social.msdn.microsoft.com/Search/en-US?query=\\\\{@}"
@@ -1580,7 +1444,7 @@ msgctxt "Name"
 msgid "openSUSE Software"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/opensuse.desktop:46
+#: src/urifilters/ikws/searchproviders/opensuse.desktop:45
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://freecode.com/search?q=\\\\{@}"
@@ -1619,7 +1483,7 @@ msgctxt "Name"
 msgid "ProtonDB"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/protondb.desktop:47
+#: src/urifilters/ikws/searchproviders/protondb.desktop:46
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.bing.com/search?q=\\\\{@}"
@@ -1649,7 +1513,7 @@ msgctxt "Name"
 msgid "Qt5 Online Documentation"
 msgstr "An docamaideadh Qt air loidhne às ùire"
 
-#: src/urifilters/ikws/searchproviders/qt5.desktop:47
+#: src/urifilters/ikws/searchproviders/qt5.desktop:46
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://identi.ca/search/group?q=\\\\{@}"
@@ -1665,7 +1529,7 @@ msgctxt "Name"
 msgid "Qt6 Online Documentation"
 msgstr "An docamaideadh Qt air loidhne às ùire"
 
-#: src/urifilters/ikws/searchproviders/qt6.desktop:47
+#: src/urifilters/ikws/searchproviders/qt6.desktop:46
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://identi.ca/search/group?q=\\\\{@}"
@@ -1678,7 +1542,7 @@ msgctxt "Name"
 msgid "Qwant"
 msgstr "Qwant"
 
-#: src/urifilters/ikws/searchproviders/qwant.desktop:64
+#: src/urifilters/ikws/searchproviders/qwant.desktop:63
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&source=web"
@@ -1691,7 +1555,7 @@ msgctxt "Name"
 msgid "Qwant Images"
 msgstr "Qwant Images"
 
-#: src/urifilters/ikws/searchproviders/qwant_images.desktop:63
+#: src/urifilters/ikws/searchproviders/qwant_images.desktop:62
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=images"
@@ -1704,7 +1568,7 @@ msgctxt "Name"
 msgid "Qwant News"
 msgstr "Qwant News"
 
-#: src/urifilters/ikws/searchproviders/qwant_news.desktop:64
+#: src/urifilters/ikws/searchproviders/qwant_news.desktop:63
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&source=web"
@@ -1717,7 +1581,7 @@ msgctxt "Name"
 msgid "Qwant Shopping"
 msgstr "Qwant Shopping"
 
-#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:63
+#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:62
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=shopping"
@@ -1730,7 +1594,7 @@ msgctxt "Name"
 msgid "Qwant Social"
 msgstr "Qwant Social"
 
-#: src/urifilters/ikws/searchproviders/qwant_social.desktop:64
+#: src/urifilters/ikws/searchproviders/qwant_social.desktop:63
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=social"
@@ -1769,7 +1633,7 @@ msgctxt "Name"
 msgid "Dictionary of the Galician Academy (RAG)"
 msgstr "Faclair an acadamaidh Gailìsich (RAG)"
 
-#: src/urifilters/ikws/searchproviders/rag.desktop:66
+#: src/urifilters/ikws/searchproviders/rag.desktop:65
 #, fuzzy
 #| msgctxt "Query"
 #| msgid ""
@@ -1785,7 +1649,7 @@ msgctxt "Name"
 msgid "Reddit"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/reddit.desktop:46
+#: src/urifilters/ikws/searchproviders/reddit.desktop:45
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.bing.com/search?q=\\\\{@}"
@@ -1840,7 +1704,7 @@ msgctxt "Name"
 msgid "Rust STD Documentation"
 msgstr "Docamaideadh Qt4"
 
-#: src/urifilters/ikws/searchproviders/rust.desktop:45
+#: src/urifilters/ikws/searchproviders/rust.desktop:44
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.archlinux.org/packages/?q=\\\\{@}"
@@ -1853,7 +1717,7 @@ msgctxt "Name"
 msgid "Soundcloud"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/soundcloud.desktop:60
+#: src/urifilters/ikws/searchproviders/soundcloud.desktop:59
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://freecode.com/search?q=\\\\{@}"
@@ -1940,7 +1804,7 @@ msgctxt "Name"
 msgid "Ubuntu Package Search"
 msgstr "Lorg pacaidean Debian"
 
-#: src/urifilters/ikws/searchproviders/ubuntu.desktop:47
+#: src/urifilters/ikws/searchproviders/ubuntu.desktop:46
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://packages.debian.org/\\\\{@}"
@@ -2060,7 +1924,7 @@ msgctxt "Name"
 msgid "WineHQ Database"
 msgstr "Stòr-dàta ghearr-ainmean"
 
-#: src/urifilters/ikws/searchproviders/wine.desktop:47
+#: src/urifilters/ikws/searchproviders/wine.desktop:46
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.bing.com/search?q=\\\\{@}"
@@ -2193,7 +2057,7 @@ msgctxt "Name"
 msgid "Yandex"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/yandex.desktop:45
+#: src/urifilters/ikws/searchproviders/yandex.desktop:44
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://ctan.org/search?phrase=\\\\{@}"
@@ -2211,30 +2075,138 @@ msgctxt "Query"
 msgid "https://www.youtube.com/results?search_query=\\\\{@}&search_type=&aq=f"
 msgstr "https://www.youtube.com/results?search_query=\\\\{@}&search_type=&aq=f"
 
-#: src/widgets/kfileitemactionplugin.desktop:4
-msgctxt "Comment"
-msgid "Plugin for the KIO file item context menu"
-msgstr "Plugan airson a' chlàir-thaice co-theacsa aig an nì faidhle KIO"
-
 #: src/widgets/konqpopupmenuplugin.desktop:4
 msgctxt "Comment"
 msgid "Plugin for the Konqueror Popup Menu"
 msgstr "Plugan airson priob-chlàir-taice Konqueror"
-
-#: src/widgets/kpropertiesdialogplugin.desktop:4
-msgctxt "Comment"
-msgid "Plugin for the Properties Dialog"
-msgstr "Plugan airson còmhradh nan roghainnean"
 
 #: templates/kioworker/kioworker.kdevtemplate:2
 msgctxt "Name"
 msgid "C++"
 msgstr ""
 
-#: templates/kioworker/kioworker.kdevtemplate:40
+#: templates/kioworker/kioworker.kdevtemplate:39
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
+
+#~ msgctxt "Comment"
+#~ msgid "This service allows configuration of the trash."
+#~ msgstr "Leigidh an t-seirbheis seo leat an sgudal a rèiteachadh."
+
+#~ msgctxt "Comment"
+#~ msgid "Configure trash settings"
+#~ msgstr "Rèitich roghainnean an sgudail"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "trash"
+#~ msgstr "An sgudal"
+
+#~ msgctxt "Name"
+#~ msgid "Cookies"
+#~ msgstr "Briosgaidean"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure the way cookies work"
+#~ msgstr "Rèitich an dòigh a dh'obraicheas briosgaidean"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
+#~ msgstr ""
+#~ "Cookies,Browsing,Internet,WWW,Network,Policy,Domains,briosgaidean,"
+#~ "criomagan,brabhsadh,eadar-lìon,lìonra,poileasaidh,àrainnean"
+
+#~ msgctxt "Name"
+#~ msgid "Connection Preferences"
+#~ msgstr "Roghainnean ceangail"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure generic network preferences, like timeout values"
+#~ msgstr ""
+#~ "Rèitich roghainnean coitcheann an lìonraidh, can cuin a dh'fhalbhas an "
+#~ "ùine air nithean"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "timeout,iopref,netpref,network preferences,ftp"
+#~ msgstr ""
+#~ "timeout,iopref,netpref,network preferences,ftp,ùine,falbh,falbhaidh an "
+#~ "ùine,roghainnean an lìonraidh,lìonra"
+
+#~ msgctxt "Name"
+#~ msgid "Proxy"
+#~ msgstr "Progsaidh"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure the proxy servers used"
+#~ msgstr "Rèitich na frithealaichean progsaidh a thèid a chleachdadh"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "Proxy,Proxy server,Firewall,Squid"
+#~ msgstr ""
+#~ "Proxy,Proxy server,Firewall,Squid,progsaidh,frithealaiche progsaidh,"
+#~ "cachaileith-theine"
+
+#~ msgctxt "Name"
+#~ msgid "Windows Shares"
+#~ msgstr "Co-roinneadh Windows"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
+#~ "Broadcast,WINS,Share,Login,Passwords"
+#~ msgstr ""
+#~ "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
+#~ "Broadcast,WINS,Share,Login,Passwords,cliant SMB,lìonra Windows,lìonra,"
+#~ "nàbaidheachd,nàbaidhean,frithealaiche,craoladh,co-roinneadh,clàradh a-"
+#~ "steach,clàraich a-steach,facal-faire,faclan-faire"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "SearchKeywordsFilter"
+#~ msgctxt "Name"
+#~ msgid "Web Search Keywords"
+#~ msgstr "Criathrag nam faclan-luirg"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Configure web shortcuts"
+#~ msgctxt "Comment"
+#~ msgid "Configure web search keywords"
+#~ msgstr "Rèitich na h-ath-ghoiridean lìn"
+
+#, fuzzy
+#~| msgctxt "X-KDE-Keywords"
+#~| msgid ""
+#~| "Web Shortcuts,Browsing,WWW,Internet,Internet Filters,Network,Search "
+#~| "Engines,Shortcuts"
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid ""
+#~ "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
+#~ "Internet,Internet Filters,Network,Search Engines,Shortcuts"
+#~ msgstr ""
+#~ "Web Shortcuts,Browsing,WWW,Internet,Internet Filters,Network,Search "
+#~ "Engines,Shortcuts;ath-ghoiridean lìn,Brabhsadh,Eadar-lìn,Criathragan-lìn,"
+#~ "Criathragan eadar-lìn,Lìonra;Lorg;Inneal-luirg;innealan-luirg"
+
+#~ msgctxt "Name"
+#~ msgid "HTTP Cache Cleaner"
+#~ msgstr "Glanadair tasgadain HTTP"
+
+#~ msgctxt "Comment"
+#~ msgid "Cleans up old entries from the HTTP cache"
+#~ msgstr "Glanaidh seo seann innteartan air falbh on tasgadan HTTP"
+
+#~ msgctxt "Comment"
+#~ msgid "Search Engine"
+#~ msgstr "Inneal luirg"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin for the KIO file item context menu"
+#~ msgstr "Plugan airson a' chlàir-thaice co-theacsa aig an nì faidhle KIO"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin for the Properties Dialog"
+#~ msgstr "Plugan airson còmhradh nan roghainnean"
 
 #~ msgctxt "Name"
 #~ msgid "Enhanced Browsing Plugin"
