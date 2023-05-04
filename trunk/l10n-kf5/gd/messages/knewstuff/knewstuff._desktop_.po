@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-03-23 00:54+0000\n"
+"POT-Creation-Date: 2023-05-04 00:54+0000\n"
 "PO-Revision-Date: 2016-04-29 13:18+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -57,7 +57,7 @@ msgctxt "GenericName"
 msgid "Streaming/Recording Software"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/com.obsproject.Studio.desktop:76
+#: data/kmoretools-desktopfiles/com.obsproject.Studio.desktop:77
 msgctxt "Comment"
 msgid "Free and Open Source Streaming/Recording Software"
 msgstr ""
@@ -67,12 +67,12 @@ msgctxt "Name"
 msgid "Peek"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/com.uploadedlobster.peek.desktop:44
+#: data/kmoretools-desktopfiles/com.uploadedlobster.peek.desktop:45
 msgctxt "GenericName"
 msgid "Animated GIF recorder"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/com.uploadedlobster.peek.desktop:87
+#: data/kmoretools-desktopfiles/com.uploadedlobster.peek.desktop:88
 msgctxt "Comment"
 msgid "Record short animated GIF images from your screen"
 msgstr ""
@@ -117,7 +117,7 @@ msgctxt "Name"
 msgid "Fontmatrix"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/fontmatrix.desktop:46
+#: data/kmoretools-desktopfiles/fontmatrix.desktop:47
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Screenshot manager"
@@ -125,7 +125,7 @@ msgctxt "Comment"
 msgid "A font manager"
 msgstr "Stiùiriche ghlacaidhean-sgrìn"
 
-#: data/kmoretools-desktopfiles/fontmatrix.desktop:94
+#: data/kmoretools-desktopfiles/fontmatrix.desktop:95
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Task Manager"
@@ -146,7 +146,7 @@ msgctxt "Comment"
 msgid "A file search application focusing on performance and advanced features"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/fsearch.desktop:90
+#: data/kmoretools-desktopfiles/fsearch.desktop:91
 msgctxt "Keywords"
 msgid ""
 "search;fsearch;files;folders;music;video;documents;find;tool;everything;"
@@ -537,12 +537,12 @@ msgctxt "Name"
 msgid "SimpleScreenRecorder"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/simplescreenrecorder.desktop:43
+#: data/kmoretools-desktopfiles/simplescreenrecorder.desktop:44
 msgctxt "Comment"
 msgid "A feature-rich screen recorder that supports X11 and OpenGL"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/simplescreenrecorder.desktop:87
+#: data/kmoretools-desktopfiles/simplescreenrecorder.desktop:89
 msgctxt "Keywords"
 msgid "screen recorder;screencast;live streaming;"
 msgstr ""
@@ -557,7 +557,7 @@ msgctxt "Name"
 msgid "VokoscreenNG"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/vokoscreenNG.desktop:79
+#: data/kmoretools-desktopfiles/vokoscreenNG.desktop:80
 msgctxt "Keywords"
 msgid "Audio;Video;Recorder;Screencast;"
 msgstr ""
