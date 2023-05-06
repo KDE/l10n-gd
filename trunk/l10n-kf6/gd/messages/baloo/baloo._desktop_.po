@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-10-10 00:54+0000\n"
+"POT-Creation-Date: 2023-05-06 02:12+0000\n"
 "PO-Revision-Date: 2015-11-04 15:11+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -16,7 +16,7 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 "X-Project-Style: kde\n"
 
-#: src/file/baloo_file.desktop.in:12
+#: src/file/baloo_file6.desktop.in:12
 msgctxt "Name"
 msgid "Baloo File Daemon"
 msgstr "Deamhan fhaidhlichean Baloo"
