@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-05-22 02:09+0000\n"
+"POT-Creation-Date: 2023-05-23 03:15+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -2085,7 +2085,7 @@ msgctxt "Name"
 msgid "C++ (KF6)"
 msgstr ""
 
-#: templates/kioworker6/kioworker6.kdevtemplate:12
+#: templates/kioworker6/kioworker6.kdevtemplate:17
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
