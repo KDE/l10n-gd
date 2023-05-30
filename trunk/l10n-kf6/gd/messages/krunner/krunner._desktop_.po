@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-05-06 02:12+0000\n"
+"POT-Creation-Date: 2023-05-30 02:45+0000\n"
 "PO-Revision-Date: 2016-04-29 19:25+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -16,25 +16,25 @@ msgstr ""
 "X-Generator: Virtaal 0.7.1\n"
 "X-Project-Style: kde\n"
 
-#: templates/runnerpython/runnerpy.kdevtemplate:2
+#: templates/runner6python/runnerpy.kdevtemplate:2
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "KRunner plugin"
 msgctxt "Name"
-msgid "Python KRunner Plugin"
+msgid "Python KRunner Plugin (Qt6)"
 msgstr "Plugan KRunner"
 
-#: templates/runnerpython/runnerpy.kdevtemplate:45
+#: templates/runner6python/runnerpy.kdevtemplate:45
 msgctxt "Comment"
 msgid "Template for a KRunner Python Plugin using D-Bus"
 msgstr ""
 
-#: templates/runner/runner.kdevtemplate:3
+#: templates/runner6/runner.kdevtemplate:3
 msgctxt "Name"
-msgid "C++"
+msgid "C++ (Qt6)"
 msgstr ""
 
-#: templates/runner/runner.kdevtemplate:52
+#: templates/runner6/runner.kdevtemplate:52
 msgctxt "Comment"
 msgid "Plasma Runner Template. A plasma runner template"
 msgstr ""
