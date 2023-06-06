@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-06-05 02:03+0000\n"
+"POT-Creation-Date: 2023-06-06 02:12+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -25,11 +25,6 @@ msgstr ""
 msgctxt "Description"
 msgid "Root privileges are required to complete the action."
 msgstr ""
-
-#: src/kioworkers/trash/kcm_trash.desktop:7
-msgctxt "Name"
-msgid "Trash"
-msgstr "An sgudal"
 
 #: src/kpac/proxyscout.notifyrc:3
 msgctxt "Comment"
@@ -2089,6 +2084,10 @@ msgstr ""
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Trash"
+#~ msgstr "An sgudal"
 
 #~ msgctxt "Comment"
 #~ msgid "This service allows configuration of the trash."
