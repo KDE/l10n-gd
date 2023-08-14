@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-06-06 02:13+0000\n"
+"POT-Creation-Date: 2023-08-14 02:03+0000\n"
 "PO-Revision-Date: 2016-04-29 19:28+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -16,11 +16,6 @@ msgstr ""
 "X-Generator: Virtaal 0.7.1\n"
 "X-Project-Style: kde\n"
 
-#: src/kioworkers/http/kcookiejar/kcookiejar.json
-msgctxt "Name"
-msgid "Cookie Jar"
-msgstr "Crogan bhriosgaidean"
-
 #: src/kioworkers/remote/kdedmodule/remotedirnotify.json
 msgctxt "Name"
 msgid "Remote URL Change Notifier"
@@ -30,11 +25,6 @@ msgstr ""
 msgctxt "Name"
 msgid "Network Proxy Configuration"
 msgstr "Rèiteachadh progsaidh an lìonraidh"
-
-#: src/kioworkers/http/kcookiejar/kcookiejar.json
-msgctxt "Description"
-msgid "Stores network cookies"
-msgstr "Glèidhidh seo briosgaidean lìonraidh"
 
 #: src/kioworkers/remote/kdedmodule/remotedirnotify.json
 msgctxt "Description"
@@ -50,6 +40,14 @@ msgstr "Rèiteachadh fèin-obrachail a' phrogsaidh"
 msgctxt "trash ExtraNames"
 msgid "Original Path;Deletion Date"
 msgstr "Slighe thùsail;Ceann-là an sguabaidh às"
+
+#~ msgctxt "Name"
+#~ msgid "Cookie Jar"
+#~ msgstr "Crogan bhriosgaidean"
+
+#~ msgctxt "Description"
+#~ msgid "Stores network cookies"
+#~ msgstr "Glèidhidh seo briosgaidean lìonraidh"
 
 #, fuzzy
 #~| msgctxt "Name"
