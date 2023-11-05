@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-04 16:56+0000\n"
+"POT-Creation-Date: 2023-11-05 01:13+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -25,44 +25,6 @@ msgstr ""
 msgctxt "Description"
 msgid "Root privileges are required to complete the action."
 msgstr ""
-
-#: src/kpac/proxyscout.notifyrc:3
-msgctxt "Comment"
-msgid "Network Proxy Configuration"
-msgstr "Rèiteachadh progsaidh an lìonraidh"
-
-#: src/kpac/proxyscout.notifyrc:72
-msgctxt "Name"
-msgid "Invalid Proxy Script"
-msgstr "Sgriobt progsaidh mì-dhligheach"
-
-#: src/kpac/proxyscout.notifyrc:140
-msgctxt "Comment"
-msgid "The downloaded proxy configuration script is invalid"
-msgstr ""
-"Chan eil sgriobt rèiteachaidh a' phrogsaidh a chaidh a luchdadh a-nuas "
-"dligheach"
-
-#: src/kpac/proxyscout.notifyrc:212
-msgctxt "Name"
-msgid "Script Download Error"
-msgstr "Mearachd le luchdadh a-nuas an sgriobt"
-
-#: src/kpac/proxyscout.notifyrc:280
-msgctxt "Comment"
-msgid "The proxy configuration script could not be downloaded"
-msgstr ""
-"Cha b' urrainn dhuinn sgriobt rèiteachadh a' phrogsaidh a luchdadh a-naus"
-
-#: src/kpac/proxyscout.notifyrc:353
-msgctxt "Name"
-msgid "Script Evaluation Error"
-msgstr "Mearachd le measadh an sgriobt"
-
-#: src/kpac/proxyscout.notifyrc:420
-msgctxt "Comment"
-msgid "There was an error executing the proxy configuration script"
-msgstr "Thachair mearachd le gnìomhachadh sgriobt rèiteachadh a' phrogsaidh"
 
 #: src/new_file_templates/Directory.desktop:2
 msgctxt "Name"
@@ -2103,6 +2065,37 @@ msgstr ""
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
+
+#~ msgctxt "Comment"
+#~ msgid "Network Proxy Configuration"
+#~ msgstr "Rèiteachadh progsaidh an lìonraidh"
+
+#~ msgctxt "Name"
+#~ msgid "Invalid Proxy Script"
+#~ msgstr "Sgriobt progsaidh mì-dhligheach"
+
+#~ msgctxt "Comment"
+#~ msgid "The downloaded proxy configuration script is invalid"
+#~ msgstr ""
+#~ "Chan eil sgriobt rèiteachaidh a' phrogsaidh a chaidh a luchdadh a-nuas "
+#~ "dligheach"
+
+#~ msgctxt "Name"
+#~ msgid "Script Download Error"
+#~ msgstr "Mearachd le luchdadh a-nuas an sgriobt"
+
+#~ msgctxt "Comment"
+#~ msgid "The proxy configuration script could not be downloaded"
+#~ msgstr ""
+#~ "Cha b' urrainn dhuinn sgriobt rèiteachadh a' phrogsaidh a luchdadh a-naus"
+
+#~ msgctxt "Name"
+#~ msgid "Script Evaluation Error"
+#~ msgstr "Mearachd le measadh an sgriobt"
+
+#~ msgctxt "Comment"
+#~ msgid "There was an error executing the proxy configuration script"
+#~ msgstr "Thachair mearachd le gnìomhachadh sgriobt rèiteachadh a' phrogsaidh"
 
 #, fuzzy
 #~| msgctxt "Query"
