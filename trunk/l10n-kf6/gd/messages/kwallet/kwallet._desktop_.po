@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-01-31 00:42+0000\n"
+"POT-Creation-Date: 2024-02-27 00:43+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -24,7 +24,7 @@ msgctxt "Comment"
 msgid "KDE Wallet"
 msgstr "Sporan"
 
-#: src/runtime/kwalletd/kwalletd6.notifyrc:46
+#: src/runtime/kwalletd/kwalletd6.notifyrc:47
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Wallet"
@@ -32,7 +32,7 @@ msgctxt "Name"
 msgid "KDE Wallet"
 msgstr "Sporan"
 
-#: src/runtime/kwalletd/kwalletd6.notifyrc:91
+#: src/runtime/kwalletd/kwalletd6.notifyrc:93
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Needs password"
@@ -40,17 +40,17 @@ msgctxt "Name"
 msgid "Needs Password"
 msgstr "Tha feum air facal-faire"
 
-#: src/runtime/kwalletd/kwalletd6.notifyrc:133
+#: src/runtime/kwalletd/kwalletd6.notifyrc:136
 msgctxt "Comment"
 msgid "The KDE Wallet Daemon requests a password"
 msgstr "Tha an daemon aig Sporan KDE ag iarraidh facal-faire"
 
-#: src/runtime/kwalletd/kwalletd6.notifyrc:210
+#: src/runtime/kwalletd/kwalletd6.notifyrc:213
 msgctxt "Name"
 msgid "Sync Failed"
 msgstr "Dh'fhàillig leis an sioncronachadh"
 
-#: src/runtime/kwalletd/kwalletd6.notifyrc:264
+#: src/runtime/kwalletd/kwalletd6.notifyrc:268
 msgctxt "Comment"
 msgid "KDE Wallet System failed to sync a wallet file to disk"
 msgstr ""
