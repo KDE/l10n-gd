@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-02-28 00:43+0000\n"
+"POT-Creation-Date: 2024-03-11 00:43+0000\n"
 "PO-Revision-Date: 2016-04-29 19:26+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -39,7 +39,7 @@ msgctxt "Name"
 msgid "Simple Plasma Wallpaper (Qt6)"
 msgstr "Pàipear-balla Plasma"
 
-#: templates/plasma6-wallpaper/plasma6-wallpaper.kdevtemplate:37
+#: templates/plasma6-wallpaper/plasma6-wallpaper.kdevtemplate:38
 msgctxt "Comment"
 msgid ""
 "Simple Plasma Wallpaper template: a Plasma wallpaper template displaying a "
