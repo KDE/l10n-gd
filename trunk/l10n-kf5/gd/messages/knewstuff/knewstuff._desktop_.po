@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-03-04 01:40+0000\n"
+"POT-Creation-Date: 2024-06-06 01:52+0000\n"
 "PO-Revision-Date: 2016-04-29 13:18+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -52,12 +52,12 @@ msgctxt "Name"
 msgid "OBS Studio"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/com.obsproject.Studio.desktop:39
+#: data/kmoretools-desktopfiles/com.obsproject.Studio.desktop:40
 msgctxt "GenericName"
 msgid "Streaming/Recording Software"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/com.obsproject.Studio.desktop:77
+#: data/kmoretools-desktopfiles/com.obsproject.Studio.desktop:78
 msgctxt "Comment"
 msgid "Free and Open Source Streaming/Recording Software"
 msgstr ""
@@ -245,17 +245,17 @@ msgctxt "GenericName"
 msgid "Character Map"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/gucharmap.desktop:45
+#: data/kmoretools-desktopfiles/gucharmap.desktop:46
 msgctxt "Name"
 msgid "GNOME Character Map"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/gucharmap.desktop:87
+#: data/kmoretools-desktopfiles/gucharmap.desktop:88
 msgctxt "Comment"
 msgid "Insert special characters into documents"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/gucharmap.desktop:129
+#: data/kmoretools-desktopfiles/gucharmap.desktop:130
 msgctxt "Keywords"
 msgid "font;unicode;"
 msgstr ""
@@ -349,12 +349,12 @@ msgctxt "Name"
 msgid "Filelight"
 msgstr "Filelight"
 
-#: data/kmoretools-desktopfiles/org.kde.filelight.desktop:48
+#: data/kmoretools-desktopfiles/org.kde.filelight.desktop:49
 msgctxt "GenericName"
 msgid "Disk Usage Statistics"
 msgstr "Stadastaireachd air cleachdadh nan diosgan"
 
-#: data/kmoretools-desktopfiles/org.kde.filelight.desktop:98
+#: data/kmoretools-desktopfiles/org.kde.filelight.desktop:99
 msgctxt "Comment"
 msgid "View disk usage information"
 msgstr "Seall fiosrachadh air cleachdadh nan diosgan"
@@ -384,7 +384,7 @@ msgctxt "Name"
 msgid "KFind"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/org.kde.kfind.desktop:49
+#: data/kmoretools-desktopfiles/org.kde.kfind.desktop:50
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Find Files/Folders"
@@ -402,7 +402,7 @@ msgctxt "Name"
 msgid "KMouseTool"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/org.kde.kmousetool.desktop:95
+#: data/kmoretools-desktopfiles/org.kde.kmousetool.desktop:96
 msgctxt "GenericName"
 msgid "Automatic Mouse Click"
 msgstr ""
@@ -487,17 +487,17 @@ msgctxt "Name"
 msgid "Capture Entire Desktop"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/org.kde.spectacle.desktop:149
+#: data/kmoretools-desktopfiles/org.kde.spectacle.desktop:150
 msgctxt "Name"
 msgid "Capture Current Monitor"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/org.kde.spectacle.desktop:195
+#: data/kmoretools-desktopfiles/org.kde.spectacle.desktop:197
 msgctxt "Name"
 msgid "Capture Active Window"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/org.kde.spectacle.desktop:241
+#: data/kmoretools-desktopfiles/org.kde.spectacle.desktop:244
 msgctxt "Name"
 msgid "Capture Rectangular Region"
 msgstr ""
@@ -552,12 +552,12 @@ msgctxt "Comment"
 msgid "screencast"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/vokoscreenNG.desktop:40
+#: data/kmoretools-desktopfiles/vokoscreenNG.desktop:41
 msgctxt "Name"
 msgid "VokoscreenNG"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/vokoscreenNG.desktop:81
+#: data/kmoretools-desktopfiles/vokoscreenNG.desktop:82
 msgctxt "Keywords"
 msgid "Audio;Video;Recorder;Screencast;"
 msgstr ""
@@ -582,7 +582,7 @@ msgctxt "Comment"
 msgid "Showcase for KNewStuff add-on downloading functionality"
 msgstr ""
 
-#: src/tools/knewstuff-dialog/org.kde.knewstuff-dialog.desktop:38
+#: src/tools/knewstuff-dialog/org.kde.knewstuff-dialog.desktop:39
 msgctxt "Name"
 msgid "KNewStuff Dialog"
 msgstr ""
