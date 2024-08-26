@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-08 00:49+0000\n"
+"POT-Creation-Date: 2024-08-26 02:04+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,12 +21,12 @@ msgctxt "Name"
 msgid "Document Actions"
 msgstr ""
 
-#: src/buffer/org.kde.ktexteditor.katetextbuffer.actions:52
+#: src/buffer/org.kde.ktexteditor.katetextbuffer.actions:53
 msgctxt "Name"
 msgid "Save Document"
 msgstr ""
 
-#: src/buffer/org.kde.ktexteditor.katetextbuffer.actions:99
+#: src/buffer/org.kde.ktexteditor.katetextbuffer.actions:101
 msgctxt "Description"
 msgid "Root privileges are needed to save this document"
 msgstr ""
@@ -48,7 +48,7 @@ msgctxt "Name"
 msgid "Embedded Advanced Text Editor"
 msgstr "Deasaiche teacsa adhartach leabaichte"
 
-#: src/part/katepart.desktop.in:64
+#: src/part/katepart.desktop.in:65
 msgctxt "Comment"
 msgid "Reusable text editor component"
 msgstr ""
@@ -58,7 +58,7 @@ msgctxt "Name"
 msgid "C++"
 msgstr ""
 
-#: templates/ktexteditor-plugin/ktexteditor-plugin.kdevtemplate:51
+#: templates/ktexteditor-plugin/ktexteditor-plugin.kdevtemplate:52
 msgctxt "Comment"
 msgid ""
 "Generates a KTextEditor C++ plugin to perform special operations on text in "
