@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-08-11 00:46+0000\n"
+"POT-Creation-Date: 2024-09-15 00:46+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -49,7 +49,7 @@ msgctxt "Name"
 msgid "Empty File..."
 msgstr "Faidhle teacsa..."
 
-#: src/new_file_templates/EmptyFile.desktop:53
+#: src/new_file_templates/EmptyFile.desktop:54
 #: src/new_file_templates/TextFile.desktop:94
 msgctxt "Comment"
 msgid "Enter text filename:"
@@ -73,7 +73,7 @@ msgctxt "Name"
 msgid "Link to File or Directory..."
 msgstr "Ceangal bunasach gun fhaidhle no pasgan..."
 
-#: src/new_file_templates/linkPath.desktop:56
+#: src/new_file_templates/linkPath.desktop:57
 msgctxt "Comment"
 msgid "File or directory to link to:"
 msgstr ""
@@ -290,7 +290,7 @@ msgctxt "Name"
 msgid "openSUSE Bugzilla"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/boo.desktop:44
+#: src/urifilters/ikws/searchproviders/boo.desktop:45
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://bugs.kde.org/show_bug.cgi?id=\\\\{@}"
@@ -361,7 +361,7 @@ msgctxt "Name"
 msgid "Codeberg"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/codeberg.desktop:44
+#: src/urifilters/ikws/searchproviders/codeberg.desktop:45
 msgctxt "Query"
 msgid ""
 "https://codeberg.org/explore/repos?sort=recentupdate&language=&q=\\\\{@}"
@@ -389,7 +389,7 @@ msgctxt "Name"
 msgid "CPlusPlus"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/cplusplus.desktop:56
+#: src/urifilters/ikws/searchproviders/cplusplus.desktop:57
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://freecode.com/search?q=\\\\{@}"
@@ -405,7 +405,7 @@ msgctxt "Name"
 msgid "CPP Reference"
 msgstr "Python Reference Manual"
 
-#: src/urifilters/ikws/searchproviders/cppreference.desktop:55
+#: src/urifilters/ikws/searchproviders/cppreference.desktop:56
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://freecode.com/search?q=\\\\{@}"
@@ -680,7 +680,7 @@ msgctxt "Name"
 msgid "Flatpak Documentation"
 msgstr "Docamaideadh Qt4"
 
-#: src/urifilters/ikws/searchproviders/flatpak.desktop:56
+#: src/urifilters/ikws/searchproviders/flatpak.desktop:57
 msgctxt "Query"
 msgid ""
 "https://docs.flatpak.org/en/latest/search.html?q=\\\\{@}"
@@ -994,7 +994,7 @@ msgctxt "Name"
 msgid "KDE Invent"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/invent.desktop:56
+#: src/urifilters/ikws/searchproviders/invent.desktop:57
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"
@@ -1007,7 +1007,7 @@ msgctxt "Name"
 msgid "KDE Invent Issues"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/invent_issues.desktop:54
+#: src/urifilters/ikws/searchproviders/invent_issues.desktop:55
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"
@@ -1020,7 +1020,7 @@ msgctxt "Name"
 msgid "KDE Invent Merge Requests"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/invent_mr.desktop:53
+#: src/urifilters/ikws/searchproviders/invent_mr.desktop:54
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"
@@ -1033,7 +1033,7 @@ msgctxt "Name"
 msgid "KDE Invent Repositories"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/invent_repo.desktop:56
+#: src/urifilters/ikws/searchproviders/invent_repo.desktop:57
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://projects.kde.org/search?projects=1&q=\\\\{@}"
@@ -1129,7 +1129,7 @@ msgctxt "Name"
 msgid "KDE Store"
 msgstr "Bòrd-brath KDE"
 
-#: src/urifilters/ikws/searchproviders/kde_store.desktop:56
+#: src/urifilters/ikws/searchproviders/kde_store.desktop:57
 #, fuzzy
 #| msgctxt "Query"
 #| msgid ""
@@ -1171,7 +1171,7 @@ msgctxt "Name"
 msgid "KDE Reddit"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/kreddit.desktop:56
+#: src/urifilters/ikws/searchproviders/kreddit.desktop:57
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.bing.com/search?q=\\\\{@}"
@@ -1184,7 +1184,7 @@ msgctxt "Name"
 msgid "Krita Manual"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/krita.desktop:56
+#: src/urifilters/ikws/searchproviders/krita.desktop:57
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://identi.ca/search/group?q=\\\\{@}"
@@ -1197,7 +1197,7 @@ msgctxt "Name"
 msgid "Learn CPP"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/learncpp.desktop:56
+#: src/urifilters/ikws/searchproviders/learncpp.desktop:57
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.flickr.com/search/?q=\\\\{@}"
@@ -1223,7 +1223,7 @@ msgctxt "Name"
 msgid "Linguee"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/linguee.desktop:56
+#: src/urifilters/ikws/searchproviders/linguee.desktop:57
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.bing.com/search?q=\\\\{@}"
@@ -1266,7 +1266,7 @@ msgctxt "Name"
 msgid "Microsoft C++ Documentation"
 msgstr "Docamaideadh Qt4"
 
-#: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:55
+#: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:56
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://social.msdn.microsoft.com/Search/en-US?query=\\\\{@}"
@@ -1425,7 +1425,7 @@ msgctxt "Name"
 msgid "openSUSE Software"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/opensuse.desktop:55
+#: src/urifilters/ikws/searchproviders/opensuse.desktop:56
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://freecode.com/search?q=\\\\{@}"
@@ -1464,7 +1464,7 @@ msgctxt "Name"
 msgid "ProtonDB"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/protondb.desktop:56
+#: src/urifilters/ikws/searchproviders/protondb.desktop:57
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.bing.com/search?q=\\\\{@}"
@@ -1477,7 +1477,7 @@ msgctxt "Name"
 msgid "PyPI"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/pypi.desktop:43
+#: src/urifilters/ikws/searchproviders/pypi.desktop:44
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://vimeo.com/search?q=\\\\{@}"
@@ -1507,7 +1507,7 @@ msgctxt "Name"
 msgid "Qt5 Online Documentation"
 msgstr "An docamaideadh Qt air loidhne às ùire"
 
-#: src/urifilters/ikws/searchproviders/qt5.desktop:56
+#: src/urifilters/ikws/searchproviders/qt5.desktop:57
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://identi.ca/search/group?q=\\\\{@}"
@@ -1523,7 +1523,7 @@ msgctxt "Name"
 msgid "Qt6 Online Documentation"
 msgstr "An docamaideadh Qt air loidhne às ùire"
 
-#: src/urifilters/ikws/searchproviders/qt6.desktop:56
+#: src/urifilters/ikws/searchproviders/qt6.desktop:57
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://identi.ca/search/group?q=\\\\{@}"
@@ -1643,7 +1643,7 @@ msgctxt "Name"
 msgid "Reddit"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/reddit.desktop:55
+#: src/urifilters/ikws/searchproviders/reddit.desktop:56
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.bing.com/search?q=\\\\{@}"
@@ -1698,7 +1698,7 @@ msgctxt "Name"
 msgid "Rust STD Documentation"
 msgstr "Docamaideadh Qt4"
 
-#: src/urifilters/ikws/searchproviders/rust.desktop:54
+#: src/urifilters/ikws/searchproviders/rust.desktop:55
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.archlinux.org/packages/?q=\\\\{@}"
@@ -1798,7 +1798,7 @@ msgctxt "Name"
 msgid "Ubuntu Package Search"
 msgstr "Lorg pacaidean Debian"
 
-#: src/urifilters/ikws/searchproviders/ubuntu.desktop:56
+#: src/urifilters/ikws/searchproviders/ubuntu.desktop:57
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://packages.debian.org/\\\\{@}"
@@ -1918,7 +1918,7 @@ msgctxt "Name"
 msgid "WineHQ Database"
 msgstr "Stòr-dàta ghearr-ainmean"
 
-#: src/urifilters/ikws/searchproviders/wine.desktop:56
+#: src/urifilters/ikws/searchproviders/wine.desktop:57
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.bing.com/search?q=\\\\{@}"
@@ -2051,7 +2051,7 @@ msgctxt "Name"
 msgid "Yandex"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/yandex.desktop:54
+#: src/urifilters/ikws/searchproviders/yandex.desktop:55
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://ctan.org/search?phrase=\\\\{@}"
@@ -2076,10 +2076,10 @@ msgstr "Plugan airson priob-chlàir-taice Konqueror"
 
 #: templates/kioworker6/kioworker6.kdevtemplate:2
 msgctxt "Name"
-msgid "C++ (KF6)"
+msgid "C++ Worker (KF6)"
 msgstr ""
 
-#: templates/kioworker6/kioworker6.kdevtemplate:45
+#: templates/kioworker6/kioworker6.kdevtemplate:46
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
