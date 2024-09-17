@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-08-31 00:45+0000\n"
+"POT-Creation-Date: 2024-09-17 00:45+0000\n"
 "PO-Revision-Date: 2016-04-29 13:18+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -42,7 +42,7 @@ msgctxt "GenericName"
 msgid "File search"
 msgstr "Lorg fhaidhlichean"
 
-#: data/kmoretools-desktopfiles/catfish.desktop:94
+#: data/kmoretools-desktopfiles/catfish.desktop:95
 msgctxt "Comment"
 msgid "Search the file system"
 msgstr ""
