@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-12-08 00:47+0000\n"
+"POT-Creation-Date: 2024-09-18 01:59+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -172,30 +172,30 @@ msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "Sgriobt progsaidh mì-dhligheach"
 
-#: src/kpac/proxyscout.notifyrc:136
+#: src/kpac/proxyscout.notifyrc:137
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr ""
 "Chan eil sgriobt rèiteachaidh a' phrogsaidh a chaidh a luchdadh a-nuas "
 "dligheach"
 
-#: src/kpac/proxyscout.notifyrc:206
+#: src/kpac/proxyscout.notifyrc:208
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr "Mearachd le luchdadh a-nuas an sgriobt"
 
-#: src/kpac/proxyscout.notifyrc:272
+#: src/kpac/proxyscout.notifyrc:275
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr ""
 "Cha b' urrainn dhuinn sgriobt rèiteachadh a' phrogsaidh a luchdadh a-naus"
 
-#: src/kpac/proxyscout.notifyrc:343
+#: src/kpac/proxyscout.notifyrc:347
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "Mearachd le measadh an sgriobt"
 
-#: src/kpac/proxyscout.notifyrc:408
+#: src/kpac/proxyscout.notifyrc:413
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "Thachair mearachd le gnìomhachadh sgriobt rèiteachadh a' phrogsaidh"
@@ -538,7 +538,7 @@ msgctxt "Name"
 msgid "CPlusPlus"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/cplusplus.desktop:52
+#: src/urifilters/ikws/searchproviders/cplusplus.desktop:53
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://freecode.com/search?q=\\\\{@}"
@@ -648,7 +648,7 @@ msgctxt "Name"
 msgid "DeepL"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/deepl.desktop:56
+#: src/urifilters/ikws/searchproviders/deepl.desktop:57
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
@@ -938,7 +938,7 @@ msgctxt "Name"
 msgid "GitLab"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/gitlab.desktop:59
+#: src/urifilters/ikws/searchproviders/gitlab.desktop:60
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"
@@ -1143,7 +1143,7 @@ msgctxt "Name"
 msgid "KDE Invent"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/invent.desktop:53
+#: src/urifilters/ikws/searchproviders/invent.desktop:54
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"
@@ -1320,7 +1320,7 @@ msgctxt "Name"
 msgid "KDE Reddit"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/kreddit.desktop:52
+#: src/urifilters/ikws/searchproviders/kreddit.desktop:53
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.bing.com/search?q=\\\\{@}"
@@ -1333,7 +1333,7 @@ msgctxt "Name"
 msgid "Krita Manual"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/krita.desktop:52
+#: src/urifilters/ikws/searchproviders/krita.desktop:53
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://identi.ca/search/group?q=\\\\{@}"
@@ -1346,7 +1346,7 @@ msgctxt "Name"
 msgid "Learn CPP"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/learncpp.desktop:52
+#: src/urifilters/ikws/searchproviders/learncpp.desktop:53
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.flickr.com/search/?q=\\\\{@}"
@@ -1372,7 +1372,7 @@ msgctxt "Name"
 msgid "Linguee"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/linguee.desktop:52
+#: src/urifilters/ikws/searchproviders/linguee.desktop:53
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.bing.com/search?q=\\\\{@}"
@@ -1574,7 +1574,7 @@ msgctxt "Name"
 msgid "openSUSE Software"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/opensuse.desktop:50
+#: src/urifilters/ikws/searchproviders/opensuse.desktop:51
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://freecode.com/search?q=\\\\{@}"
@@ -1613,7 +1613,7 @@ msgctxt "Name"
 msgid "ProtonDB"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/protondb.desktop:52
+#: src/urifilters/ikws/searchproviders/protondb.desktop:53
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.bing.com/search?q=\\\\{@}"
@@ -1672,7 +1672,7 @@ msgctxt "Name"
 msgid "Qwant"
 msgstr "Qwant"
 
-#: src/urifilters/ikws/searchproviders/qwant.desktop:65
+#: src/urifilters/ikws/searchproviders/qwant.desktop:66
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&source=web"
@@ -1698,7 +1698,7 @@ msgctxt "Name"
 msgid "Qwant News"
 msgstr "Qwant News"
 
-#: src/urifilters/ikws/searchproviders/qwant_news.desktop:65
+#: src/urifilters/ikws/searchproviders/qwant_news.desktop:66
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&source=web"
@@ -1724,7 +1724,7 @@ msgctxt "Name"
 msgid "Qwant Social"
 msgstr "Qwant Social"
 
-#: src/urifilters/ikws/searchproviders/qwant_social.desktop:65
+#: src/urifilters/ikws/searchproviders/qwant_social.desktop:66
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=social"
@@ -1779,7 +1779,7 @@ msgctxt "Name"
 msgid "Reddit"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/reddit.desktop:51
+#: src/urifilters/ikws/searchproviders/reddit.desktop:52
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.bing.com/search?q=\\\\{@}"
@@ -1847,7 +1847,7 @@ msgctxt "Name"
 msgid "Soundcloud"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/soundcloud.desktop:61
+#: src/urifilters/ikws/searchproviders/soundcloud.desktop:62
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://freecode.com/search?q=\\\\{@}"
@@ -2187,7 +2187,7 @@ msgctxt "Name"
 msgid "Yandex"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/yandex.desktop:50
+#: src/urifilters/ikws/searchproviders/yandex.desktop:51
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://ctan.org/search?phrase=\\\\{@}"
