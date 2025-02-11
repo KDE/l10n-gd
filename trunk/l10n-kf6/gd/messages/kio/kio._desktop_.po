@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-02-08 00:46+0000\n"
+"POT-Creation-Date: 2025-02-11 00:47+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -1108,17 +1108,16 @@ msgstr "http://www.baidu.com/s?wd=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/kde_apps.desktop:3
 msgctxt "Name"
-msgid "KDE App Search"
-msgstr "Lorg aplacaidean KDE"
+msgid "Plasma Add-Ons and Extensions"
+msgstr ""
 
 #: src/urifilters/ikws/searchproviders/kde_apps.desktop:101
 #, fuzzy
 #| msgctxt "Query"
-#| msgid ""
-#| "http://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
+#| msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"
 msgctxt "Query"
-msgid "https://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
-msgstr "http://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
+msgid "https://store.kde.org/browse?tag=\\\\{@}"
+msgstr "https://github.com/search?q=\\\\{@}&x=0&y=0"
 
 #: src/urifilters/ikws/searchproviders/kde.desktop:6
 msgctxt "Name"
@@ -2149,6 +2148,20 @@ msgstr ""
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "KDE App Search"
+#~ msgstr "Lorg aplacaidean KDE"
+
+#, fuzzy
+#~| msgctxt "Query"
+#~| msgid ""
+#~| "http://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
+#~ msgctxt "Query"
+#~ msgid ""
+#~ "https://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
+#~ msgstr ""
+#~ "http://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
 
 #~ msgctxt "Comment"
 #~ msgid "Network Proxy Configuration"
