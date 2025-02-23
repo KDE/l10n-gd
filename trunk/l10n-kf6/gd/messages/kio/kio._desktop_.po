@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-02-21 00:47+0000\n"
+"POT-Creation-Date: 2025-02-23 00:47+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -573,8 +573,11 @@ msgid "https://dx.doi.org/\\\\{@}"
 msgstr "http://dx.doi.org/\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/duckduckgo.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Duck Duck Go"
 msgctxt "Name"
-msgid "Duck Duck Go"
+msgid "DuckDuckGo"
 msgstr "Duck Duck Go"
 
 #: src/urifilters/ikws/searchproviders/duckduckgo.desktop:84
@@ -1956,9 +1959,12 @@ msgstr ""
 "http://www.wikia.com/Special:Search?search=\\\\{@}&wikia_search_submit=Search"
 
 #: src/urifilters/ikws/searchproviders/wikipedia.desktop:4
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Wikia"
 msgctxt "Name"
-msgid "Wikipedia - The Free Encyclopedia"
-msgstr "Uicipeid - An leabhar-eòlais saor"
+msgid "Wikipedia"
+msgstr "Wikia"
 
 #: src/urifilters/ikws/searchproviders/wikipedia.desktop:102
 msgctxt "Query"
@@ -2148,6 +2154,10 @@ msgstr ""
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "Wikipedia - The Free Encyclopedia"
+#~ msgstr "Uicipeid - An leabhar-eòlais saor"
 
 #~ msgctxt "Name"
 #~ msgid "KDE App Search"
