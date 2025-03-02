@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-03-01 00:58+0000\n"
+"POT-Creation-Date: 2025-03-02 00:47+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -329,7 +329,7 @@ msgctxt "Name"
 msgid "Can I Use…"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/caniuse.desktop:32
+#: src/urifilters/ikws/searchproviders/caniuse.desktop:33
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://vimeo.com/search?q=\\\\{@}"
@@ -551,7 +551,7 @@ msgctxt "Name"
 msgid "Docker Hub"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/dockerhub.desktop:32
+#: src/urifilters/ikws/searchproviders/dockerhub.desktop:33
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.flickr.com/search/?q=\\\\{@}"
@@ -580,7 +580,7 @@ msgctxt "Name"
 msgid "DuckDuckGo"
 msgstr "Duck Duck Go"
 
-#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:26
+#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:28
 msgctxt "Query"
 msgid "https://duckduckgo.com/?q=\\\\{@}&t=kde"
 msgstr "https://duckduckgo.com/?q=\\\\{@}&t=kde"
@@ -691,7 +691,7 @@ msgctxt "Name"
 msgid "Fedora Packages"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/fedora.desktop:13
+#: src/urifilters/ikws/searchproviders/fedora.desktop:19
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://directory.fsf.org/search/?query=\\\\{@}"
@@ -1120,7 +1120,7 @@ msgctxt "Name"
 msgid "Plasma Add-Ons and Extensions"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/kde_apps.desktop:29
+#: src/urifilters/ikws/searchproviders/kde_apps.desktop:30
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"
@@ -1286,7 +1286,7 @@ msgctxt "Name"
 msgid "Mozilla Developer Network (MDN)"
 msgstr "Lorg ann am Microsoft Developer Network"
 
-#: src/urifilters/ikws/searchproviders/mdn.desktop:32
+#: src/urifilters/ikws/searchproviders/mdn.desktop:33
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://identi.ca/search/group?q=\\\\{@}"
@@ -1430,7 +1430,7 @@ msgctxt "Name"
 msgid "Nix Packages"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/nixpkgs.desktop:32
+#: src/urifilters/ikws/searchproviders/nixpkgs.desktop:33
 msgctxt "Query"
 msgid ""
 "https://search.nixos.org/packages?sort=relevance&type=packages&query=\\\\{@}"
@@ -1470,7 +1470,7 @@ msgctxt "Name"
 msgid "npm"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/npm.desktop:32
+#: src/urifilters/ikws/searchproviders/npm.desktop:33
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.bing.com/search?q=\\\\{@}"
@@ -1972,7 +1972,7 @@ msgctxt "Name"
 msgid "Wikipedia"
 msgstr "Wikia"
 
-#: src/urifilters/ikws/searchproviders/wikipedia.desktop:26
+#: src/urifilters/ikws/searchproviders/wikipedia.desktop:28
 msgctxt "Query"
 msgid "https://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 msgstr "https://gd.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
