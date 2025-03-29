@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-03-21 00:48+0000\n"
+"POT-Creation-Date: 2025-03-29 00:48+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -580,7 +580,7 @@ msgctxt "Name"
 msgid "DuckDuckGo"
 msgstr "Duck Duck Go"
 
-#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:33
+#: src/urifilters/ikws/searchproviders/duckduckgo.desktop:34
 msgctxt "Query"
 msgid "https://duckduckgo.com/?q=\\\\{@}&t=kde"
 msgstr "https://duckduckgo.com/?q=\\\\{@}&t=kde"
@@ -691,7 +691,7 @@ msgctxt "Name"
 msgid "Fedora Packages"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/fedora.desktop:31
+#: src/urifilters/ikws/searchproviders/fedora.desktop:32
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://directory.fsf.org/search/?query=\\\\{@}"
@@ -1120,7 +1120,7 @@ msgctxt "Name"
 msgid "Plasma Add-Ons and Extensions"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/kde_apps.desktop:32
+#: src/urifilters/ikws/searchproviders/kde_apps.desktop:33
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"
@@ -1972,7 +1972,7 @@ msgctxt "Name"
 msgid "Wikipedia"
 msgstr "Wikia"
 
-#: src/urifilters/ikws/searchproviders/wikipedia.desktop:33
+#: src/urifilters/ikws/searchproviders/wikipedia.desktop:34
 msgctxt "Query"
 msgid "https://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 msgstr "https://gd.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
