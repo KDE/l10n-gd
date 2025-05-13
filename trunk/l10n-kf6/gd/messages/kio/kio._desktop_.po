@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-04-08 00:48+0000\n"
+"POT-Creation-Date: 2025-05-13 00:48+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -50,9 +50,11 @@ msgid "Empty File..."
 msgstr "Faidhle teacsa..."
 
 #: src/new_file_templates/EmptyFile.desktop:59
-#: src/new_file_templates/TextFile.desktop:96
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Enter text filename:"
 msgctxt "Comment"
-msgid "Enter text filename:"
+msgid "Enter name for empty file:"
 msgstr "Cuir a-steach ainm an fhaidhle teacsa:"
 
 #: src/new_file_templates/HTMLFile.desktop:2
@@ -102,6 +104,11 @@ msgstr ""
 msgctxt "Name"
 msgid "Text File..."
 msgstr "Faidhle teacsa..."
+
+#: src/new_file_templates/TextFile.desktop:96
+msgctxt "Comment"
+msgid "Enter text filename:"
+msgstr "Cuir a-steach ainm an fhaidhle teacsa:"
 
 #: src/schemehandlers/telnet/ktelnetservice6.desktop:9
 msgctxt "Name"
