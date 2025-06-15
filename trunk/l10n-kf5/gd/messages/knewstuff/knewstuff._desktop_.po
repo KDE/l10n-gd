@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-02-23 01:56+0000\n"
+"POT-Creation-Date: 2025-06-15 02:05+0000\n"
 "PO-Revision-Date: 2016-04-29 13:18+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -92,7 +92,7 @@ msgctxt "Name"
 msgid "Partitioner"
 msgstr "Inneal-pàirteachaidh"
 
-#: data/kmoretools-desktopfiles/disk.desktop:67
+#: data/kmoretools-desktopfiles/disk.desktop:68
 msgctxt "GenericName"
 msgid "Partition hard disks (a YaST module)"
 msgstr ""
@@ -117,7 +117,7 @@ msgctxt "Name"
 msgid "Fontmatrix"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/fontmatrix.desktop:48
+#: data/kmoretools-desktopfiles/fontmatrix.desktop:49
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Screenshot manager"
@@ -125,7 +125,7 @@ msgctxt "Comment"
 msgid "A font manager"
 msgstr "Stiùiriche ghlacaidhean-sgrìn"
 
-#: data/kmoretools-desktopfiles/fontmatrix.desktop:97
+#: data/kmoretools-desktopfiles/fontmatrix.desktop:99
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Task Manager"
@@ -158,12 +158,12 @@ msgctxt "GenericName"
 msgid "Git repository viewer"
 msgstr "Sealladair ionadan-tasgaidh Git"
 
-#: data/kmoretools-desktopfiles/giggle.desktop:52
+#: data/kmoretools-desktopfiles/giggle.desktop:53
 msgctxt "Name"
 msgid "Giggle"
 msgstr "Giggle"
 
-#: data/kmoretools-desktopfiles/giggle.desktop:97
+#: data/kmoretools-desktopfiles/giggle.desktop:98
 msgctxt "Comment"
 msgid "Git repository viewer"
 msgstr "Sealladair ionadan-tasgaidh Git"
@@ -184,12 +184,12 @@ msgctxt "Name"
 msgid "Git Cola (View History)"
 msgstr "Git Cola (Seall an eachdraidh)"
 
-#: data/kmoretools-desktopfiles/gitg.desktop:50
+#: data/kmoretools-desktopfiles/gitg.desktop:51
 msgctxt "Name"
 msgid "gitg"
 msgstr "gitg"
 
-#: data/kmoretools-desktopfiles/gitg.desktop:96
+#: data/kmoretools-desktopfiles/gitg.desktop:98
 msgctxt "Comment"
 msgid "Git repository browser"
 msgstr "Brabhsair ionadan-tasgaidh Git"
@@ -199,7 +199,7 @@ msgctxt "Name"
 msgid "gitk"
 msgstr "gitk"
 
-#: data/kmoretools-desktopfiles/gitk.kmt-edition.desktop:52
+#: data/kmoretools-desktopfiles/gitk.kmt-edition.desktop:53
 msgctxt "GenericName"
 msgid "gitk"
 msgstr "gitk"
@@ -209,7 +209,7 @@ msgctxt "Name"
 msgid "Search for Files..."
 msgstr "Lorg faidhlichean..."
 
-#: data/kmoretools-desktopfiles/gnome-search-tool.desktop:49
+#: data/kmoretools-desktopfiles/gnome-search-tool.desktop:50
 msgctxt "Comment"
 msgid "Locate documents and folders on this computer by name or content"
 msgstr ""
@@ -507,12 +507,12 @@ msgctxt "Name"
 msgid "QGit"
 msgstr "QGit"
 
-#: data/kmoretools-desktopfiles/qgit.kmt-edition.desktop:57
+#: data/kmoretools-desktopfiles/qgit.kmt-edition.desktop:58
 msgctxt "GenericName"
 msgid "QGit"
 msgstr "QGit"
 
-#: data/kmoretools-desktopfiles/qgit.kmt-edition.desktop:104
+#: data/kmoretools-desktopfiles/qgit.kmt-edition.desktop:106
 msgctxt "Comment"
 msgid "git repository browser"
 msgstr "brabhsair ionadan-tasgaidh Git"
@@ -522,12 +522,12 @@ msgctxt "Name"
 msgid "Shutter"
 msgstr "Shutter"
 
-#: data/kmoretools-desktopfiles/shutter.desktop:50
+#: data/kmoretools-desktopfiles/shutter.desktop:51
 msgctxt "GenericName"
 msgid "Screenshot Tool"
 msgstr "Inneal ghlacaidhean-sgrìn"
 
-#: data/kmoretools-desktopfiles/shutter.desktop:98
+#: data/kmoretools-desktopfiles/shutter.desktop:99
 msgctxt "Comment"
 msgid "Capture, edit and share screenshots"
 msgstr "Tog, deasaich is co-roinn glacaidhean-sgrìn"
@@ -557,7 +557,7 @@ msgctxt "Name"
 msgid "VokoscreenNG"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/vokoscreenNG.desktop:84
+#: data/kmoretools-desktopfiles/vokoscreenNG.desktop:85
 msgctxt "Keywords"
 msgid "Audio;Video;Recorder;Screencast;"
 msgstr ""
@@ -567,12 +567,12 @@ msgctxt "Name"
 msgid "Task Manager"
 msgstr "Manaidsear nan saothair"
 
-#: data/kmoretools-desktopfiles/xfce4-taskmanager.desktop:49
+#: data/kmoretools-desktopfiles/xfce4-taskmanager.desktop:50
 msgctxt "Comment"
 msgid "Easy to use task manager"
 msgstr "Manaidsear nan saothair a tha furasta cleachdadh"
 
-#: data/kmoretools-desktopfiles/xfce4-taskmanager.desktop:97
+#: data/kmoretools-desktopfiles/xfce4-taskmanager.desktop:99
 msgctxt "GenericName"
 msgid "Task Manager"
 msgstr "Manaidsear nan saothair"
