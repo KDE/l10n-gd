@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-06-15 02:05+0000\n"
+"POT-Creation-Date: 2025-07-18 02:01+0000\n"
 "PO-Revision-Date: 2016-04-29 13:18+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,7 +21,7 @@ msgctxt "Name"
 msgid "ANGRYsearch"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/angrysearch.desktop:46
+#: data/kmoretools-desktopfiles/angrysearch.desktop:47
 msgctxt "GenericName"
 msgid "Linux file search, instant results as you type"
 msgstr ""
@@ -34,7 +34,7 @@ msgctxt "Name"
 msgid "Catfish File Search"
 msgstr "Lorg fhaidhlichean"
 
-#: data/kmoretools-desktopfiles/catfish.desktop:45
+#: data/kmoretools-desktopfiles/catfish.desktop:46
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "File search"
@@ -42,7 +42,7 @@ msgctxt "GenericName"
 msgid "File search"
 msgstr "Lorg fhaidhlichean"
 
-#: data/kmoretools-desktopfiles/catfish.desktop:90
+#: data/kmoretools-desktopfiles/catfish.desktop:91
 msgctxt "Comment"
 msgid "Search the file system"
 msgstr ""
@@ -67,12 +67,12 @@ msgctxt "Name"
 msgid "Peek"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/com.uploadedlobster.peek.desktop:46
+#: data/kmoretools-desktopfiles/com.uploadedlobster.peek.desktop:47
 msgctxt "GenericName"
 msgid "Animated GIF recorder"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/com.uploadedlobster.peek.desktop:91
+#: data/kmoretools-desktopfiles/com.uploadedlobster.peek.desktop:92
 msgctxt "Comment"
 msgid "Record short animated GIF images from your screen"
 msgstr ""
@@ -82,7 +82,7 @@ msgctxt "Name"
 msgid "ding"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/ding.desktop:48
+#: data/kmoretools-desktopfiles/ding.desktop:49
 msgctxt "GenericName"
 msgid "German<=>English Dictionary"
 msgstr ""
@@ -117,7 +117,7 @@ msgctxt "Name"
 msgid "Fontmatrix"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/fontmatrix.desktop:49
+#: data/kmoretools-desktopfiles/fontmatrix.desktop:50
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Screenshot manager"
@@ -125,7 +125,7 @@ msgctxt "Comment"
 msgid "A font manager"
 msgstr "Stiùiriche ghlacaidhean-sgrìn"
 
-#: data/kmoretools-desktopfiles/fontmatrix.desktop:99
+#: data/kmoretools-desktopfiles/fontmatrix.desktop:100
 #, fuzzy
 #| msgctxt "GenericName"
 #| msgid "Task Manager"
@@ -141,12 +141,12 @@ msgctxt "Name"
 msgid "FSearch"
 msgstr "Lorg fhaidhlichean"
 
-#: data/kmoretools-desktopfiles/fsearch.desktop:47
+#: data/kmoretools-desktopfiles/fsearch.desktop:48
 msgctxt "Comment"
 msgid "A file search application focusing on performance and advanced features"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/fsearch.desktop:94
+#: data/kmoretools-desktopfiles/fsearch.desktop:95
 msgctxt "Keywords"
 msgid ""
 "search;fsearch;files;folders;music;video;documents;find;tool;everything;"
@@ -163,7 +163,7 @@ msgctxt "Name"
 msgid "Giggle"
 msgstr "Giggle"
 
-#: data/kmoretools-desktopfiles/giggle.desktop:98
+#: data/kmoretools-desktopfiles/giggle.desktop:99
 msgctxt "Comment"
 msgid "Git repository viewer"
 msgstr "Sealladair ionadan-tasgaidh Git"
@@ -189,7 +189,7 @@ msgctxt "Name"
 msgid "gitg"
 msgstr "gitg"
 
-#: data/kmoretools-desktopfiles/gitg.desktop:98
+#: data/kmoretools-desktopfiles/gitg.desktop:99
 msgctxt "Comment"
 msgid "Git repository browser"
 msgstr "Brabhsair ionadan-tasgaidh Git"
@@ -250,12 +250,12 @@ msgctxt "Name"
 msgid "GNOME Character Map"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/gucharmap.desktop:90
+#: data/kmoretools-desktopfiles/gucharmap.desktop:91
 msgctxt "Comment"
 msgid "Insert special characters into documents"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/gucharmap.desktop:133
+#: data/kmoretools-desktopfiles/gucharmap.desktop:135
 msgctxt "Keywords"
 msgid "font;unicode;"
 msgstr ""
@@ -265,12 +265,12 @@ msgctxt "Name"
 msgid "HotShots"
 msgstr "HotShots"
 
-#: data/kmoretools-desktopfiles/hotshots.desktop:48
+#: data/kmoretools-desktopfiles/hotshots.desktop:49
 msgctxt "Comment"
 msgid "Screenshot manager"
 msgstr "Stiùiriche ghlacaidhean-sgrìn"
 
-#: data/kmoretools-desktopfiles/hotshots.desktop:97
+#: data/kmoretools-desktopfiles/hotshots.desktop:98
 msgctxt "GenericName"
 msgid "Screenshot manager"
 msgstr "Stiùiriche ghlacaidhean-sgrìn"
@@ -280,17 +280,17 @@ msgctxt "Name"
 msgid "Htop"
 msgstr "Htop"
 
-#: data/kmoretools-desktopfiles/htop.desktop:50
+#: data/kmoretools-desktopfiles/htop.desktop:51
 msgctxt "Comment"
 msgid "Show System Processes"
 msgstr "Seall pròiseasan an t-siostaim"
 
-#: data/kmoretools-desktopfiles/htop.desktop:102
+#: data/kmoretools-desktopfiles/htop.desktop:103
 msgctxt "GenericName"
 msgid "Process Viewer"
 msgstr "Sealladair phròiseasan"
 
-#: data/kmoretools-desktopfiles/htop.desktop:150
+#: data/kmoretools-desktopfiles/htop.desktop:151
 msgctxt "Keywords"
 msgid "system;process;task;"
 msgstr ""
@@ -300,7 +300,7 @@ msgctxt "Name"
 msgid "Kaption"
 msgstr "Kaption"
 
-#: data/kmoretools-desktopfiles/kaption.desktop:49
+#: data/kmoretools-desktopfiles/kaption.desktop:50
 msgctxt "Comment"
 msgid "Screen capture and editor"
 msgstr "Tog is deasaich glacaidhean-sgrìn"
@@ -310,12 +310,12 @@ msgctxt "Name"
 msgid "KDing"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/kding.desktop:47
+#: data/kmoretools-desktopfiles/kding.desktop:48
 msgctxt "GenericName"
 msgid "German-English Translator"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/kding.desktop:92
+#: data/kmoretools-desktopfiles/kding.desktop:93
 msgctxt "Comment"
 msgid "Translator"
 msgstr ""
@@ -354,7 +354,7 @@ msgctxt "GenericName"
 msgid "Disk Usage Statistics"
 msgstr "Stadastaireachd air cleachdadh nan diosgan"
 
-#: data/kmoretools-desktopfiles/org.kde.filelight.desktop:100
+#: data/kmoretools-desktopfiles/org.kde.filelight.desktop:101
 msgctxt "Comment"
 msgid "View disk usage information"
 msgstr "Seall fiosrachadh air cleachdadh nan diosgan"
@@ -537,12 +537,12 @@ msgctxt "Name"
 msgid "SimpleScreenRecorder"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/simplescreenrecorder.desktop:45
+#: data/kmoretools-desktopfiles/simplescreenrecorder.desktop:46
 msgctxt "Comment"
 msgid "A feature-rich screen recorder that supports X11 and OpenGL"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/simplescreenrecorder.desktop:91
+#: data/kmoretools-desktopfiles/simplescreenrecorder.desktop:93
 msgctxt "Keywords"
 msgid "screen recorder;screencast;live streaming;"
 msgstr ""
@@ -557,7 +557,7 @@ msgctxt "Name"
 msgid "VokoscreenNG"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/vokoscreenNG.desktop:85
+#: data/kmoretools-desktopfiles/vokoscreenNG.desktop:86
 msgctxt "Keywords"
 msgid "Audio;Video;Recorder;Screencast;"
 msgstr ""
