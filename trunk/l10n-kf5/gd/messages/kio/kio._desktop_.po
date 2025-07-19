@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-06-20 02:02+0000\n"
+"POT-Creation-Date: 2025-07-19 06:39+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -368,7 +368,7 @@ msgctxt "Name"
 msgid "Arch Linux Package Search"
 msgstr "Lorg pacaidean Arch Linux"
 
-#: src/urifilters/ikws/searchproviders/archpkg.desktop:62
+#: src/urifilters/ikws/searchproviders/archpkg.desktop:63
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.archlinux.org/packages/?q=\\\\{@}"
@@ -1643,7 +1643,7 @@ msgctxt "Name"
 msgid "Qt5 Online Documentation"
 msgstr "An docamaideadh Qt air loidhne às ùire"
 
-#: src/urifilters/ikws/searchproviders/qt5.desktop:54
+#: src/urifilters/ikws/searchproviders/qt5.desktop:55
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://identi.ca/search/group?q=\\\\{@}"
@@ -1659,7 +1659,7 @@ msgctxt "Name"
 msgid "Qt6 Online Documentation"
 msgstr "An docamaideadh Qt air loidhne às ùire"
 
-#: src/urifilters/ikws/searchproviders/qt6.desktop:54
+#: src/urifilters/ikws/searchproviders/qt6.desktop:55
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://identi.ca/search/group?q=\\\\{@}"
@@ -1685,7 +1685,7 @@ msgctxt "Name"
 msgid "Qwant Images"
 msgstr "Qwant Images"
 
-#: src/urifilters/ikws/searchproviders/qwant_images.desktop:65
+#: src/urifilters/ikws/searchproviders/qwant_images.desktop:66
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=images"
@@ -1711,7 +1711,7 @@ msgctxt "Name"
 msgid "Qwant Shopping"
 msgstr "Qwant Shopping"
 
-#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:65
+#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:66
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=shopping"
@@ -1763,7 +1763,7 @@ msgctxt "Name"
 msgid "Dictionary of the Galician Academy (RAG)"
 msgstr "Faclair an acadamaidh Gailìsich (RAG)"
 
-#: src/urifilters/ikws/searchproviders/rag.desktop:68
+#: src/urifilters/ikws/searchproviders/rag.desktop:69
 #, fuzzy
 #| msgctxt "Query"
 #| msgid ""
