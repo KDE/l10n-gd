@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-07-28 02:01+0000\n"
+"POT-Creation-Date: 2025-08-05 02:28+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -1060,7 +1060,7 @@ msgctxt "Name"
 msgid "Google Shopping"
 msgstr "Google Shopping"
 
-#: src/urifilters/ikws/searchproviders/google_shopping.desktop:70
+#: src/urifilters/ikws/searchproviders/google_shopping.desktop:71
 msgctxt "Query"
 msgid "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
 msgstr "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
@@ -1070,7 +1070,7 @@ msgctxt "Name"
 msgid "Great Dictionary of the Catalan Language (GRan Enciclopèdia Catalana)"
 msgstr "Mòr-fhaclair a' Chatalanais (Gran Enciclopèdia Catalana)"
 
-#: src/urifilters/ikws/searchproviders/grec.desktop:62
+#: src/urifilters/ikws/searchproviders/grec.desktop:63
 msgctxt "Query"
 msgid "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
 msgstr "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
@@ -1278,7 +1278,7 @@ msgctxt "Name"
 msgid "KDE Store"
 msgstr "Bòrd-brath KDE"
 
-#: src/urifilters/ikws/searchproviders/kde_store.desktop:54
+#: src/urifilters/ikws/searchproviders/kde_store.desktop:55
 #, fuzzy
 #| msgctxt "Query"
 #| msgid ""
@@ -1415,7 +1415,7 @@ msgctxt "Name"
 msgid "Microsoft C++ Documentation"
 msgstr "Docamaideadh Qt4"
 
-#: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:53
+#: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:54
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://social.msdn.microsoft.com/Search/en-US?query=\\\\{@}"
