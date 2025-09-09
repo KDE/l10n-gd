@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-08 00:49+0000\n"
+"POT-Creation-Date: 2025-09-09 02:45+0000\n"
 "PO-Revision-Date: 2015-11-04 15:10+0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -26,7 +26,7 @@ msgctxt "Comment"
 msgid "Embeddable HTML viewing component"
 msgstr "Co-phàirt seallaidh HTML a ghabhas leabachadh"
 
-#: src/khtml.desktop:103
+#: src/khtml.desktop:102
 msgctxt "Name"
 msgid "KHTML"
 msgstr "KHTML"
@@ -36,7 +36,7 @@ msgctxt "Comment"
 msgid "Embeddable Image Viewing Component"
 msgstr "Co-phàirt seallaidh dhealbhan a ghabhas leabachadh"
 
-#: src/khtmlimage.desktop:101
+#: src/khtmlimage.desktop:100
 msgctxt "Name"
 msgid "Embeddable Image Viewer"
 msgstr "Sealladair dhealbhan leabaichte"
