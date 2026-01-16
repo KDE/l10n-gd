@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-12-25 02:07+0000\n"
+"POT-Creation-Date: 2026-01-16 02:29+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -52,12 +52,12 @@ msgctxt "Name"
 msgid "Cookies"
 msgstr "Briosgaidean"
 
-#: src/kcms/cookies/cookies.desktop:77
+#: src/kcms/cookies/cookies.desktop:78
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr "Rèitich an dòigh a dh'obraicheas briosgaidean"
 
-#: src/kcms/cookies/cookies.desktop:171
+#: src/kcms/cookies/cookies.desktop:172
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr ""
@@ -2225,7 +2225,7 @@ msgctxt "Name"
 msgid "C++"
 msgstr ""
 
-#: templates/kioworker/kioworker.kdevtemplate:48
+#: templates/kioworker/kioworker.kdevtemplate:49
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr ""
