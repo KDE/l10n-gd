@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-11-17 09:05+0000\n"
+"POT-Creation-Date: 2026-05-19 02:12+0000\n"
 "PO-Revision-Date: 2016-04-29 13:13+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,204 +21,204 @@ msgctxt "Comment"
 msgid "Plasma Workspace"
 msgstr "Rum-obrach Plasma"
 
-#: plasma_workspace.notifyrc:57
+#: plasma_workspace.notifyrc:58
 msgctxt "Name"
 msgid "Trash: Emptied"
 msgstr "An sgudal: falamh"
 
-#: plasma_workspace.notifyrc:109
+#: plasma_workspace.notifyrc:111
 msgctxt "Comment"
 msgid "The trash has been emptied"
 msgstr "Chaidh an sgudal fhalamhachadh"
 
-#: plasma_workspace.notifyrc:165
+#: plasma_workspace.notifyrc:168
 msgctxt "Name"
 msgid "Textcompletion: Rotation"
 msgstr "Coileanadh teacsa: cuairteachadh"
 
-#: plasma_workspace.notifyrc:216
+#: plasma_workspace.notifyrc:220
 msgctxt "Comment"
 msgid "The end of the list of matches has been reached"
 msgstr "Ràinig thu an deireadh de na tha de sheisean ann"
 
-#: plasma_workspace.notifyrc:271
+#: plasma_workspace.notifyrc:276
 msgctxt "Name"
 msgid "Textcompletion: No Match"
 msgstr "Coileanadh teacsa: cha do lorg sinn gin"
 
-#: plasma_workspace.notifyrc:322
+#: plasma_workspace.notifyrc:328
 msgctxt "Comment"
 msgid "No matching completion was found"
 msgstr "Cha deach coileanadh a fhreagras a lorg"
 
-#: plasma_workspace.notifyrc:377
+#: plasma_workspace.notifyrc:384
 msgctxt "Name"
 msgid "Textcompletion: Partial Match"
 msgstr "Coileanadh teacsa: pàirt dheth co-ionnann"
 
-#: plasma_workspace.notifyrc:428
+#: plasma_workspace.notifyrc:436
 msgctxt "Comment"
 msgid "There is more than one possible match"
 msgstr "Lorg sinn barrachd air aon nì a fhreagradh"
 
-#: plasma_workspace.notifyrc:483
+#: plasma_workspace.notifyrc:492
 msgctxt "Name"
 msgid "Fatal Error"
 msgstr "Mearachd mharbhtach"
 
-#: plasma_workspace.notifyrc:535
+#: plasma_workspace.notifyrc:545
 msgctxt "Comment"
 msgid "There was a serious error causing the program to exit"
 msgstr "Chaidh am prògram fhàgail ri linn mearachd dona"
 
-#: plasma_workspace.notifyrc:591
+#: plasma_workspace.notifyrc:602
 msgctxt "Name"
 msgid "Notification"
 msgstr "Brath"
 
-#: plasma_workspace.notifyrc:643
+#: plasma_workspace.notifyrc:655
 msgctxt "Comment"
 msgid "Something special happened in the program"
 msgstr "Thachair rudeigin sònraichte sa phrògram"
 
-#: plasma_workspace.notifyrc:697
+#: plasma_workspace.notifyrc:710
 msgctxt "Name"
 msgid "Warning"
 msgstr "Rabhadh"
 
-#: plasma_workspace.notifyrc:749
+#: plasma_workspace.notifyrc:763
 msgctxt "Comment"
 msgid "There was an error in the program which may cause problems"
 msgstr "Bha mearachd sa phrògram a dh'adhbharaicheas trioblaid ma dh'fhaoidte"
 
-#: plasma_workspace.notifyrc:804
+#: plasma_workspace.notifyrc:819
 msgctxt "Name"
 msgid "Catastrophe"
 msgstr "Tubaist"
 
-#: plasma_workspace.notifyrc:855
+#: plasma_workspace.notifyrc:871
 msgctxt "Comment"
 msgid "A very serious error occurred, at least causing the program to exit"
 msgstr ""
 "Thachair mearachd glè dhona agus chaidh am prògram fhàgail air a char as "
 "lugha"
 
-#: plasma_workspace.notifyrc:910
+#: plasma_workspace.notifyrc:927
 msgctxt "Name"
 msgid "Application Crash"
 msgstr "Thuislich aplacaid"
 
-#: plasma_workspace.notifyrc:959
+#: plasma_workspace.notifyrc:977
 msgctxt "Comment"
 msgid "An application just closed unexpectedly"
 msgstr "Tha aplacaid air a dùnadh gun dùil"
 
-#: plasma_workspace.notifyrc:1010
+#: plasma_workspace.notifyrc:1029
 msgctxt "Name"
 msgid "Login"
 msgstr "Logadh a-steach"
 
-#: plasma_workspace.notifyrc:1062
+#: plasma_workspace.notifyrc:1082
 msgctxt "Comment"
 msgid "A new session is starting"
 msgstr "Tha seisean ùr a' tòiseachadh"
 
-#: plasma_workspace.notifyrc:1117
+#: plasma_workspace.notifyrc:1138
 msgctxt "Name"
 msgid "Logout"
 msgstr "Logadh a-mach"
 
-#: plasma_workspace.notifyrc:1169
+#: plasma_workspace.notifyrc:1191
 msgctxt "Comment"
 msgid "Session is exiting"
 msgstr "Tha an seisean 'ga fhàgail"
 
-#: plasma_workspace.notifyrc:1225
+#: plasma_workspace.notifyrc:1248
 msgctxt "Name"
 msgid "Logout Canceled"
 msgstr "Chaidh sgur dhen logadh a-mach"
 
-#: plasma_workspace.notifyrc:1277
+#: plasma_workspace.notifyrc:1301
 msgctxt "Comment"
 msgid "Plasma logout was canceled"
 msgstr "Chaidh sgur dhen logadh a-mach à Plasma"
 
-#: plasma_workspace.notifyrc:1332
+#: plasma_workspace.notifyrc:1357
 msgctxt "Name"
 msgid "Print Error"
 msgstr "Mearachd clò-bhualaidh"
 
-#: plasma_workspace.notifyrc:1384
+#: plasma_workspace.notifyrc:1410
 msgctxt "Comment"
 msgid "A print error has occurred"
 msgstr "Thachair mearachd leis a' chlò-bhualadh"
 
-#: plasma_workspace.notifyrc:1439
+#: plasma_workspace.notifyrc:1466
 msgctxt "Name"
 msgid "Information Message"
 msgstr "Teachdaireachd fiosrachaidh"
 
-#: plasma_workspace.notifyrc:1491
+#: plasma_workspace.notifyrc:1519
 msgctxt "Comment"
 msgid "An information message is being shown"
 msgstr "Tha teachdaireachd fiosrachaidh 'ga sealltainn"
 
-#: plasma_workspace.notifyrc:1546
+#: plasma_workspace.notifyrc:1575
 msgctxt "Name"
 msgid "Warning Message"
 msgstr "Teachdaireachd rabhaidh"
 
-#: plasma_workspace.notifyrc:1598
+#: plasma_workspace.notifyrc:1628
 msgctxt "Comment"
 msgid "A warning message is being shown"
 msgstr "Tha teachdaireachd rabhaidh 'ga sealltainn"
 
-#: plasma_workspace.notifyrc:1653
+#: plasma_workspace.notifyrc:1684
 msgctxt "Name"
 msgid "Critical Message"
 msgstr "Teachdaireachd èiginneach"
 
-#: plasma_workspace.notifyrc:1705
+#: plasma_workspace.notifyrc:1737
 msgctxt "Comment"
 msgid "A critical message is being shown"
 msgstr "Tha teachdaireachd èiginneach 'ga sealltainn"
 
-#: plasma_workspace.notifyrc:1760
+#: plasma_workspace.notifyrc:1793
 msgctxt "Name"
 msgid "Question"
 msgstr "Ceist"
 
-#: plasma_workspace.notifyrc:1812
+#: plasma_workspace.notifyrc:1846
 msgctxt "Comment"
 msgid "A question is being asked"
 msgstr "Tha ceist 'ga fhaighneachd"
 
-#: plasma_workspace.notifyrc:1868
+#: plasma_workspace.notifyrc:1903
 msgctxt "Name"
 msgid "Beep"
 msgstr "Bìd"
 
-#: plasma_workspace.notifyrc:1920
+#: plasma_workspace.notifyrc:1956
 msgctxt "Comment"
 msgid "Sound bell"
 msgstr "Fuaim cluig"
 
-#: plasma_workspace.notifyrc:1975
+#: plasma_workspace.notifyrc:2012
 msgctxt "Name"
 msgid "Widget failed to install"
 msgstr "Cha deach le stàladh a' widget"
 
-#: plasma_workspace.notifyrc:2024
+#: plasma_workspace.notifyrc:2062
 msgctxt "Comment"
 msgid "A widget could not be installed"
 msgstr "Cha b' urrainn dhuinn a' widget a stàladh"
 
-#: plasma_workspace.notifyrc:2076
+#: plasma_workspace.notifyrc:2115
 msgctxt "Name"
 msgid "Widget deleted"
 msgstr "Chaidh widget a sguabadh às"
 
-#: plasma_workspace.notifyrc:2126
+#: plasma_workspace.notifyrc:2166
 msgctxt "Comment"
 msgid "A widget has been deleted"
 msgstr "Chaidh widget a sguabadh às"
