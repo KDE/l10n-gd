@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-05-30 00:52+0000\n"
+"POT-Creation-Date: 2026-06-03 01:22+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -1522,7 +1522,7 @@ msgctxt "Name"
 msgid "OpenStreetMap"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/openstreetmap.desktop:27
+#: src/urifilters/ikws/searchproviders/openstreetmap.desktop:28
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.bing.com/search?q=\\\\{@}"

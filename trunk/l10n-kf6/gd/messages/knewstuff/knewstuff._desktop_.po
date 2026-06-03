@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-03-19 00:54+0000\n"
+"POT-Creation-Date: 2026-06-03 01:22+0000\n"
 "PO-Revision-Date: 2016-04-29 13:18+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -21,7 +21,7 @@ msgctxt "Comment"
 msgid "Showcase for KNewStuff add-on downloading functionality"
 msgstr ""
 
-#: src/tools/knewstuff-dialog/org.kde.knewstuff-dialog6.desktop:45
+#: src/tools/knewstuff-dialog/org.kde.knewstuff-dialog6.desktop:46
 msgctxt "Name"
 msgid "KNewStuff Dialog"
 msgstr ""
