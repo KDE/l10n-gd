@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-03-02 02:15+0000\n"
+"POT-Creation-Date: 2026-06-06 02:45+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -1737,7 +1737,7 @@ msgctxt "Name"
 msgid "Qwant Videos"
 msgstr "Qwant Videos"
 
-#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:66
+#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:67
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=videos"
