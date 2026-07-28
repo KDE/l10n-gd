@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-06-06 02:45+0000\n"
+"POT-Creation-Date: 2026-07-28 02:15+0000\n"
 "PO-Revision-Date: 2016-04-29 13:17+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -1156,7 +1156,7 @@ msgctxt "Name"
 msgid "KDE Invent Issues"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/invent_issues.desktop:54
+#: src/urifilters/ikws/searchproviders/invent_issues.desktop:55
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"
@@ -1169,7 +1169,7 @@ msgctxt "Name"
 msgid "KDE Invent Merge Requests"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/invent_mr.desktop:53
+#: src/urifilters/ikws/searchproviders/invent_mr.desktop:54
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"
@@ -1834,7 +1834,7 @@ msgctxt "Name"
 msgid "Rust STD Documentation"
 msgstr "Docamaideadh Qt4"
 
-#: src/urifilters/ikws/searchproviders/rust.desktop:54
+#: src/urifilters/ikws/searchproviders/rust.desktop:55
 #, fuzzy
 #| msgctxt "Query"
 #| msgid "http://www.archlinux.org/packages/?q=\\\\{@}"
