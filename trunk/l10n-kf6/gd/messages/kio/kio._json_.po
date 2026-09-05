@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-11-17 12:00+0000\n"
+"POT-Creation-Date: 2026-09-05 00:54+0000\n"
 "PO-Revision-Date: 2016-04-29 19:28+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
@@ -26,9 +26,19 @@ msgctxt "Name"
 msgid "Remote URL Change Notifier"
 msgstr ""
 
+#: src/kioworkers/trash/kdedmodule/trashdirnotify.json
+msgctxt "Name"
+msgid "Trash Change Notifier"
+msgstr ""
+
 #: src/kioworkers/remote/kdedmodule/remotedirnotify.json
 msgctxt "Description"
 msgid "Provides change notification for network folders"
+msgstr ""
+
+#: src/kioworkers/trash/kdedmodule/trashdirnotify.json
+msgctxt "Description"
+msgid "Provides change notification for the trash"
 msgstr ""
 
 #: src/kioworkers/trash/trash.json
